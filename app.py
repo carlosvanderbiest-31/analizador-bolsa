@@ -729,77 +729,220 @@ def calcular_tecnicos(ticker: str):
     }
 
 
-# ── SIDEBAR ──────────────────────────────────────────────────────────────────
-with st.sidebar:
-    # Título clicable → vuelve al ranking principal
-    if st.button("📊 Analizador de Bolsa", key="btn_home", use_container_width=True):
-        st.session_state.ticker_click = None
-        for k in [k for k in st.session_state if k.startswith("buscador")]:
-            del st.session_state[k]
-        st.rerun()
-    st.caption("Análisis fundamental · mediano y largo plazo")
-    st.markdown("---")
-    ticker_input = st_searchbox(
-        buscar_empresa,
-        placeholder="Apple, AAPL, Microsoft...",
-        label="Buscar empresa o ticker",
-        key="buscador",
-        default=None,
-        clear_on_submit=False,
-    )
-    st.caption("Datos en tiempo real · Yahoo Finance")
-    st.markdown("---")
-    st.markdown("""
-**Secciones disponibles:**
-- 📊 Valoración
-- 💰 Rentabilidad
-- 📈 Crecimiento
-- 🏦 Solidez Financiera
-- 💵 Dividendos
-- 🎯 Analistas
-- 📐 Niveles Técnicos
-""")
-    st.markdown("---")
-    st.caption("Los semáforos usan benchmarks generales. Ajusta siempre según el sector específico.")
-    # Botón "Volver al ranking" cuando se navegó desde una tarjeta
-    if st.session_state.ticker_click and not ticker_input:
-        st.markdown("---")
-        if st.button("← Volver al ranking", use_container_width=True):
-            st.session_state.ticker_click = None
-            st.rerun()
+# ── ETFs POR SECTOR ──────────────────────────────────────────────────────────
+_ETFS_POR_SECTOR = {
+    "🌐 Mercado Amplio EE.UU.": [
+        {"ticker": "SPY",  "familia": "State Street", "nombre": "SPDR S&P 500 ETF Trust",
+         "composicion": "Las 500 mayores empresas de EE.UU. ponderadas por capitalización bursátil. Replica el índice S&P 500. Las 10 primeras posiciones representan ~35% del fondo (AAPL, MSFT, NVDA…)."},
+        {"ticker": "QQQ",  "familia": "Invesco",      "nombre": "Invesco Nasdaq-100 ETF",
+         "composicion": "Las 100 mayores empresas no financieras del Nasdaq. Alta concentración en tecnología (~60%). Incluye AAPL, MSFT, NVDA, AMZN, META. Mayor volatilidad que el S&P 500."},
+        {"ticker": "VTI",  "familia": "Vanguard",     "nombre": "Vanguard Total Stock Market ETF",
+         "composicion": "Mercado accionario total de EE.UU.: ~3,700 empresas de todos los tamaños (large, mid y small cap). La opción más diversificada del mercado americano."},
+    ],
+    "💻 Tecnología": [
+        {"ticker": "XLK",  "familia": "State Street", "nombre": "Technology Select Sector SPDR",
+         "composicion": "Empresas tecnológicas del S&P 500: software, hardware y semiconductores. AAPL y MSFT representan ~40% del fondo. Muy concentrado pero muy líquido."},
+        {"ticker": "VGT",  "familia": "Vanguard",     "nombre": "Vanguard Information Technology ETF",
+         "composicion": "Sector tecnológico amplio con ~310 empresas. Exposición similar a XLK pero más diversificado. Incluye mid caps tecnológicas que XLK excluye."},
+        {"ticker": "SOXX", "familia": "iShares",      "nombre": "iShares Semiconductor ETF",
+         "composicion": "Enfocado en semiconductores: diseño, fabricación y equipos. Incluye NVDA, AMD, AVGO, QCOM, TSM, ASML. Alta beta; amplifica los movimientos del sector tech."},
+    ],
+    "🏦 Servicios Financieros": [
+        {"ticker": "XLF",  "familia": "State Street", "nombre": "Financial Select Sector SPDR",
+         "composicion": "Bancos, aseguradoras, gestoras de activos y bolsas del S&P 500. BRK-B, JPM y V son las mayores posiciones. Se beneficia de tipos de interés altos."},
+        {"ticker": "VFH",  "familia": "Vanguard",     "nombre": "Vanguard Financials ETF",
+         "composicion": "Sector financiero amplio con ~400 empresas. Más diversificado que XLF al incluir bancos regionales y pequeñas aseguradoras."},
+        {"ticker": "KRE",  "familia": "State Street", "nombre": "SPDR S&P Regional Banking ETF",
+         "composicion": "Bancos regionales de EE.UU. con ponderación casi equitativa. Mayor exposición a la economía doméstica; más sensible a ciclos económicos que XLF."},
+    ],
+    "🏥 Salud": [
+        {"ticker": "XLV",  "familia": "State Street", "nombre": "Health Care Select Sector SPDR",
+         "composicion": "Farmacéuticas, equipos médicos, aseguradoras de salud y biotecnología del S&P 500. LLY, UNH y JNJ son las mayores posiciones."},
+        {"ticker": "VHT",  "familia": "Vanguard",     "nombre": "Vanguard Health Care ETF",
+         "composicion": "Sector salud amplio con ~400 empresas. Incluye small caps biotecnológicas que XLV excluye. Mayor exposición al crecimiento de biotech."},
+        {"ticker": "IBB",  "familia": "iShares",      "nombre": "iShares Biotechnology ETF",
+         "composicion": "Biotecnología y farmacéuticas del Nasdaq. Mayor exposición a empresas de alto riesgo/retorno. Muy sensible a aprobaciones de la FDA y resultados clínicos."},
+    ],
+    "⚡ Energía": [
+        {"ticker": "XLE",  "familia": "State Street", "nombre": "Energy Select Sector SPDR",
+         "composicion": "Petroleras, gaseras y servicios energéticos del S&P 500. XOM y CVX representan ~40%. Correlación alta con el precio del petróleo WTI."},
+        {"ticker": "VDE",  "familia": "Vanguard",     "nombre": "Vanguard Energy ETF",
+         "composicion": "Sector energético amplio con ~110 empresas incluyendo mid caps. Más diversificado que XLE; menor concentración en las grandes petroleras."},
+        {"ticker": "OIH",  "familia": "VanEck",       "nombre": "VanEck Oil Services ETF",
+         "composicion": "Empresas de servicios y equipos petroleros: SLB, HAL, BKR. Mayor volatilidad que XLE al depender directamente del gasto en exploración y producción."},
+    ],
+    "🛍️ Consumo Discrecional": [
+        {"ticker": "XLY",  "familia": "State Street", "nombre": "Consumer Discretionary SPDR",
+         "composicion": "Minoristas, autos, hoteles y restaurantes del S&P 500. AMZN y TSLA representan ~35%. Muy sensible al ciclo económico y al gasto del consumidor."},
+        {"ticker": "VCR",  "familia": "Vanguard",     "nombre": "Vanguard Consumer Discretionary ETF",
+         "composicion": "Consumo discrecional amplio con ~300 empresas. Más diversificado que XLY. Incluye retailers medianos y empresas de entretenimiento."},
+        {"ticker": "BKNG", "familia": "–",            "nombre": "Booking Holdings (referencia sectorial)",
+         "composicion": "N/A – ticker de referencia. Para ETF puro de viajes/ocio considera AWAY o PEJ."},
+    ],
+    "🛒 Consumo Básico": [
+        {"ticker": "XLP",  "familia": "State Street", "nombre": "Consumer Staples Select Sector SPDR",
+         "composicion": "Alimentos, bebidas, tabaco e higiene del S&P 500. PG, KO, PEP, COST y WMT son las mayores posiciones. Sector defensivo de baja volatilidad."},
+        {"ticker": "VDC",  "familia": "Vanguard",     "nombre": "Vanguard Consumer Staples ETF",
+         "composicion": "Consumo defensivo amplio con ~105 empresas. Similar a XLP pero con menor expense ratio y algo más diversificado. Dividendos estables."},
+        {"ticker": "KXI",  "familia": "iShares",      "nombre": "iShares Global Consumer Staples ETF",
+         "composicion": "Consumo básico global: incluye Nestlé, Unilever, Diageo además de empresas de EE.UU. Ideal para diversificación geográfica en sector defensivo."},
+    ],
+    "🏭 Industriales": [
+        {"ticker": "XLI",  "familia": "State Street", "nombre": "Industrials Select Sector SPDR",
+         "composicion": "Manufactura, transporte, defensa y servicios industriales del S&P 500. GE, RTX, CAT, UNP y HON son posiciones clave."},
+        {"ticker": "VIS",  "familia": "Vanguard",     "nombre": "Vanguard Industrials ETF",
+         "composicion": "Sector industrial amplio con ~350 empresas. Incluye constructoras y servicios comerciales mid cap que XLI excluye."},
+        {"ticker": "ITA",  "familia": "iShares",      "nombre": "iShares U.S. Aerospace & Defense ETF",
+         "composicion": "Enfocado en defensa y aeroespacial: RTX, LMT, NOC, GD, BA. Se beneficia del gasto militar global. Menor correlación con el ciclo económico general."},
+    ],
+    "🏠 Real Estate": [
+        {"ticker": "VNQ",  "familia": "Vanguard",     "nombre": "Vanguard Real Estate ETF",
+         "composicion": "REITs diversificados de EE.UU.: residencial, industrial, oficinas, salud y torres de comunicación. ~160 posiciones. El más líquido del sector."},
+        {"ticker": "XLRE", "familia": "State Street", "nombre": "Real Estate Select Sector SPDR",
+         "composicion": "REITs del S&P 500. Más concentrado que VNQ (~30 empresas). Las mayores posiciones son AMT, PLD, EQIX, WELL y SPG."},
+        {"ticker": "IYR",  "familia": "iShares",      "nombre": "iShares U.S. Real Estate ETF",
+         "composicion": "REITs e inmobiliarias de EE.UU. Exposición similar a VNQ con diferente metodología de ponderación. Incluye empresas de gestión inmobiliaria."},
+    ],
+    "📡 Comunicaciones": [
+        {"ticker": "XLC",  "familia": "State Street", "nombre": "Communication Services SPDR",
+         "composicion": "Telecomunicaciones, medios y entretenimiento del S&P 500. META y GOOGL representan ~45%. Mezcla de growth (streaming, redes sociales) y value (telecos)."},
+        {"ticker": "VOX",  "familia": "Vanguard",     "nombre": "Vanguard Communication Services ETF",
+         "composicion": "Comunicaciones amplio con ~120 empresas. Similar a XLC pero incluye empresas medianas de medios y entretenimiento."},
+        {"ticker": "IYZ",  "familia": "iShares",      "nombre": "iShares U.S. Telecommunications ETF",
+         "composicion": "Enfocado en telecos tradicionales: T, VZ, TMUS. Mayor exposición a dividendos y menor volatilidad que XLC. Sector más maduro y defensivo."},
+    ],
+    "🌍 Internacional": [
+        {"ticker": "VEA",  "familia": "Vanguard",     "nombre": "Vanguard FTSE Developed Markets ETF",
+         "composicion": "Mercados desarrollados fuera de EE.UU.: Europa (~50%), Japón (~25%), Australia y otros. ~4,000 empresas. Bajo fee para exposición internacional diversificada."},
+        {"ticker": "EEM",  "familia": "iShares",      "nombre": "iShares MSCI Emerging Markets ETF",
+         "composicion": "Mercados emergentes globales: China (~30%), India (~18%), Taiwan, Corea, Brasil. Alta exposición a Asia. Mayor volatilidad y potencial de crecimiento."},
+        {"ticker": "VWO",  "familia": "Vanguard",     "nombre": "Vanguard FTSE Emerging Markets ETF",
+         "composicion": "Alternativa a EEM con menor fee. Excluye Corea del Sur (clasifica como desarrollado) e incluye más acciones de pequeña capitalización."},
+    ],
+    "📊 Renta Fija": [
+        {"ticker": "AGG",  "familia": "iShares",      "nombre": "iShares Core U.S. Aggregate Bond ETF",
+         "composicion": "Bonos del gobierno y corporativos de EE.UU. de grado de inversión. Duración media ~6 años. El benchmark de renta fija americana más seguido."},
+        {"ticker": "BND",  "familia": "Vanguard",     "nombre": "Vanguard Total Bond Market ETF",
+         "composicion": "Mercado de bonos total de EE.UU. Alternativa a AGG con menor expense ratio y exposición ligeramente más amplia. Ideal para la cartera de largo plazo."},
+        {"ticker": "TLT",  "familia": "iShares",      "nombre": "iShares 20+ Year Treasury Bond ETF",
+         "composicion": "Bonos del Tesoro de EE.UU. a largo plazo (+20 años). Alta sensibilidad a tipos de interés (duration ~17 años). Usado como cobertura en crisis de riesgo."},
+    ],
+    "🥇 Materias Primas": [
+        {"ticker": "GLD",  "familia": "State Street", "nombre": "SPDR Gold Shares",
+         "composicion": "Exposición directa al precio del oro mediante lingotes físicos en custodia. Refugio ante inflación, debilidad del dólar e incertidumbre geopolítica."},
+        {"ticker": "IAU",  "familia": "iShares",      "nombre": "iShares Gold Trust",
+         "composicion": "Alternativa a GLD respaldada por oro físico con menor expense ratio. Comportamiento prácticamente idéntico a GLD pero con lotes de menor tamaño."},
+        {"ticker": "USO",  "familia": "USCF",         "nombre": "United States Oil Fund",
+         "composicion": "Futuros de petróleo crudo WTI. ⚠️ El contango puede erosionar retornos a largo plazo. Adecuado para visión táctica de corto plazo, no para cartera permanente."},
+    ],
+}
 
-# Ticker activo: searchbox tiene prioridad sobre click del ranking
-if ticker_input:
-    st.session_state.ticker_click = None   # searchbox siempre prevalece
-ticker_activo = ticker_input or st.session_state.ticker_click
+
+@st.cache_data(ttl=3600 * 4, show_spinner=False)
+def cargar_etf_data(ticker: str):
+    try:
+        info = yf.Ticker(ticker).info
+        return {
+            "precio":         info.get("regularMarketPrice") or info.get("currentPrice"),
+            "aum":            info.get("totalAssets"),
+            "expense_ratio":  info.get("expenseRatio"),
+            "volumen":        info.get("averageVolume") or info.get("volume"),
+            "retorno_ytd":    info.get("ytdReturn"),
+            "retorno_1y":     info.get("52WeekChange"),
+            "retorno_3y":     info.get("threeYearAverageReturn"),
+            "retorno_5y":     info.get("fiveYearAverageReturn"),
+            "dividend_yield": info.get("dividendYield"),
+            "categoria":      info.get("category"),
+        }
+    except Exception:
+        return None
 
 
-# ── PANTALLA INICIAL ─────────────────────────────────────────────────────────
-if not ticker_activo:
-    st.markdown("""
-    <div style="text-align:center;padding:32px 0 10px">
-        <div style="font-size:52px">📊</div>
-        <h2 style="color:#e6f1ff;margin-top:12px;font-size:26px;font-weight:700">Analizador de Bolsa</h2>
-        <p style="font-size:15px;color:#8892b0;margin-top:6px">
-            Análisis fundamental · mediano y largo plazo
-        </p>
-    </div>
-    """, unsafe_allow_html=True)
+def _etf_card_html(info_dict, data):
+    ticker     = info_dict["ticker"]
+    nombre     = info_dict["nombre"]
+    familia    = info_dict["familia"]
+    composicion = info_dict["composicion"]
 
-    _, hero_col, _ = st.columns([1, 2, 1])
-    with hero_col:
-        ticker_home = st_searchbox(
-            buscar_empresa,
-            placeholder="Apple, AAPL, Microsoft...",
-            label="Buscar empresa o ticker",
-            key="buscador_home",
-            default=None,
-            clear_on_submit=True,
+    precio = data.get("precio")         if data else None
+    aum    = data.get("aum")            if data else None
+    fee    = data.get("expense_ratio")  if data else None
+    ytd    = data.get("retorno_ytd")    if data else None
+    r1y    = data.get("retorno_1y")     if data else None
+    r3y    = data.get("retorno_3y")     if data else None
+    div    = data.get("dividend_yield") if data else None
+
+    def _pct(v):
+        return f"{v*100:+.1f}%" if v is not None else "N/D"
+    def _rc(v):
+        if v is None: return "#8892b0"
+        return "#2ea87e" if v > 0 else "#c0392b"
+
+    fee_str = f"{fee*100:.3f}%" if fee is not None else "N/D"
+    aum_str = fmt_large(aum) if aum else "N/D"
+    div_str = f"{div*100:.2f}%" if div is not None else "N/D"
+    px_str  = f"${precio:,.2f}" if precio is not None else "N/D"
+
+    def _cell(label, value, color="#e6f1ff"):
+        return (
+            f'<div style="background:#0d1117;border-radius:6px;padding:5px 6px;text-align:center">'
+            f'<div style="font-size:8.5px;color:#4a5270;text-transform:uppercase;letter-spacing:.5px">{label}</div>'
+            f'<div style="font-size:12px;font-weight:700;color:{color}">{value}</div>'
+            f'</div>'
         )
-        if ticker_home:
-            st.session_state.ticker_click = ticker_home
-            st.rerun()
 
+    grid = (
+        _cell("Fee anual", fee_str)
+        + _cell("AUM", aum_str)
+        + _cell("Dividendo", div_str)
+        + _cell("YTD", _pct(ytd), _rc(ytd))
+        + _cell("1 año", _pct(r1y), _rc(r1y))
+        + _cell("3 años", _pct(r3y), _rc(r3y))
+    )
+
+    return (
+        f'<div style="background:#161b2e;border:1px solid #21262d;border-radius:10px;padding:14px;margin-bottom:4px">'
+        f'<div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:5px">'
+        f'<div><span style="font-size:17px;font-weight:700;color:#e6f1ff">{ticker}</span>'
+        f'<span style="font-size:9px;color:#4a5270;background:#0d1117;border-radius:4px;padding:2px 5px;margin-left:6px">{familia}</span></div>'
+        f'<span style="font-size:14px;font-weight:600;color:#00c896">{px_str}</span>'
+        f'</div>'
+        f'<div style="font-size:10.5px;color:#8b949e;margin-bottom:9px;line-height:1.35">{nombre}</div>'
+        f'<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:3px;margin-bottom:9px">{grid}</div>'
+        f'<div style="font-size:10.5px;color:#c0cfe0;line-height:1.5;border-top:1px solid #21262d;padding-top:8px">{composicion}</div>'
+        f'</div>'
+    )
+
+
+def _mostrar_etfs():
+    st.markdown("#### Fondos cotizados (ETF) por categoría")
+    st.caption("Los 3 ETF con mayor liquidez/AUM por sector · retornos anualizados · datos actualizados cada 4 h")
+
+    all_tickers = [e["ticker"] for etfs in _ETFS_POR_SECTOR.values() for e in etfs]
+    with st.spinner("Cargando datos de ETFs..."):
+        with ThreadPoolExecutor(max_workers=12) as ex:
+            futures = {tk: ex.submit(cargar_etf_data, tk) for tk in all_tickers}
+            etf_data = {tk: f.result() for tk, f in futures.items()}
+
+    for sector, etfs in _ETFS_POR_SECTOR.items():
+        st.markdown(
+            f'<div style="background:#00c89615;border-left:4px solid #00c896;'
+            f'border-radius:0 8px 8px 0;padding:8px 16px;margin:22px 0 10px">'
+            f'<span style="font-size:15px;font-weight:700;color:#e6f1ff">{sector}</span>'
+            f'</div>',
+            unsafe_allow_html=True,
+        )
+        cols = st.columns(3)
+        for i, etf_info in enumerate(etfs):
+            with cols[i]:
+                st.markdown(_etf_card_html(etf_info, etf_data.get(etf_info["ticker"])),
+                            unsafe_allow_html=True)
+
+    st.markdown("---")
+    st.caption("⚠️ Datos desde Yahoo Finance. Fee/AUM pueden diferir ligeramente del prospecto oficial. Los retornos pasados no garantizan resultados futuros.")
+
+
+def _mostrar_ranking():
     # CSS para botones de tarjeta del ranking (solo aplica en esta pantalla)
     st.markdown("""
     <style>
@@ -831,7 +974,7 @@ if not ticker_activo:
 
     if not ranking:
         st.warning("No se pudo cargar el ranking. Intenta recargar la página.")
-        st.stop()
+        return
 
     # ── Filtros ─────────────────────────────────────────────────────────────────
     sectores_disponibles = sorted({e["sector"] for e in ranking if e.get("sector")})
@@ -924,7 +1067,7 @@ if not ticker_activo:
     )
     if hay_filtro and not ranking_filtrado:
         st.info("Ninguna empresa cumple los filtros seleccionados. Prueba con criterios menos estrictos.")
-        st.stop()
+        return
 
     st.markdown("---")
     st.markdown(
@@ -974,7 +1117,6 @@ if not ticker_activo:
                 s_neg = emp.get("s_neg")
                 s_val = emp.get("s_val")
 
-                # color sub-scores
                 def _sc(v):
                     if v is None: return "#3d4555", "N/D"
                     c = "#2ea87e" if v >= 70 else ("#b07d2a" if v >= 50 else "#c0392b")
@@ -984,7 +1126,6 @@ if not ticker_activo:
                 val_c, val_s = _sc(s_val)
 
                 with cols[j]:
-                    # Tarjeta visual (bordes inferiores planos para unirse al botón)
                     st.markdown(
                         f'<div style="background:#161b2e;border:1px solid #21262d;border-bottom:none;'
                         f'border-left:3px solid {color};border-radius:6px 6px 0 0;'
@@ -1013,14 +1154,92 @@ if not ticker_activo:
                         f'</div>',
                         unsafe_allow_html=True,
                     )
-                    # Botón-pie de tarjeta: al hacer click carga el análisis
                     if st.button("Ver análisis →", key=f"r_{emp['ticker']}", use_container_width=True):
                         st.session_state.ticker_click = emp["ticker"]
                         st.rerun()
 
     st.markdown("---")
     st.caption("La puntuación usa umbrales globales de referencia. El análisis individual aplica benchmarks específicos por sector.")
+
+
+# ── SIDEBAR ──────────────────────────────────────────────────────────────────
+with st.sidebar:
+    # Título clicable → vuelve al ranking principal
+    if st.button("📊 Analizador de Bolsa", key="btn_home", use_container_width=True):
+        st.session_state.ticker_click = None
+        for k in [k for k in st.session_state if k.startswith("buscador")]:
+            del st.session_state[k]
+        st.rerun()
+    st.caption("Análisis fundamental · mediano y largo plazo")
+    st.markdown("---")
+    ticker_input = st_searchbox(
+        buscar_empresa,
+        placeholder="Apple, AAPL, Microsoft...",
+        label="Buscar empresa o ticker",
+        key="buscador",
+        default=None,
+        clear_on_submit=False,
+    )
+    st.caption("Datos en tiempo real · Yahoo Finance")
+    st.markdown("---")
+    st.markdown("""
+**Secciones disponibles:**
+- 📊 Valoración
+- 💰 Rentabilidad
+- 📈 Crecimiento
+- 🏦 Solidez Financiera
+- 💵 Dividendos
+- 🎯 Analistas
+- 📐 Niveles Técnicos
+""")
+    st.markdown("---")
+    st.caption("Los semáforos usan benchmarks generales. Ajusta siempre según el sector específico.")
+    # Botón "Volver al ranking" cuando se navegó desde una tarjeta
+    if st.session_state.ticker_click and not ticker_input:
+        st.markdown("---")
+        if st.button("← Volver al ranking", use_container_width=True):
+            st.session_state.ticker_click = None
+            st.rerun()
+
+# Ticker activo: searchbox tiene prioridad sobre click del ranking
+if ticker_input:
+    st.session_state.ticker_click = None   # searchbox siempre prevalece
+ticker_activo = ticker_input or st.session_state.ticker_click
+
+
+# ── PANTALLA INICIAL ─────────────────────────────────────────────────────────
+if not ticker_activo:
+    st.markdown("""
+    <div style="text-align:center;padding:32px 0 10px">
+        <div style="font-size:52px">📊</div>
+        <h2 style="color:#e6f1ff;margin-top:12px;font-size:26px;font-weight:700">Analizador de Bolsa</h2>
+        <p style="font-size:15px;color:#8892b0;margin-top:6px">
+            Análisis fundamental · mediano y largo plazo
+        </p>
+    </div>
+    """, unsafe_allow_html=True)
+
+    _, hero_col, _ = st.columns([1, 2, 1])
+    with hero_col:
+        ticker_home = st_searchbox(
+            buscar_empresa,
+            placeholder="Apple, AAPL, Microsoft...",
+            label="Buscar empresa o ticker",
+            key="buscador_home",
+            default=None,
+            clear_on_submit=True,
+        )
+        if ticker_home:
+            st.session_state.ticker_click = ticker_home
+            st.rerun()
+
+    home_tab1, home_tab2 = st.tabs(["📈 Acciones", "📦 ETFs por Sector"])
+    with home_tab1:
+        _mostrar_ranking()
+    with home_tab2:
+        _mostrar_etfs()
     st.stop()
+
 
 
 # ── CARGA DE DATOS ────────────────────────────────────────────────────────────
