@@ -847,11 +847,11 @@ def cargar_etf_data(ticker: str):
             "aum":            info.get("totalAssets"),
             "expense_ratio":  info.get("expenseRatio"),
             "volumen":        info.get("averageVolume") or info.get("volume"),
-            "retorno_ytd":    info.get("ytdReturn"),
             "retorno_1y":     info.get("52WeekChange"),
             "retorno_3y":     info.get("threeYearAverageReturn"),
             "retorno_5y":     info.get("fiveYearAverageReturn"),
             "dividend_yield": info.get("dividendYield"),
+            "beta":           info.get("beta3Year"),
             "categoria":      info.get("category"),
         }
     except Exception:
@@ -859,57 +859,78 @@ def cargar_etf_data(ticker: str):
 
 
 def _etf_card_html(info_dict, data):
-    ticker     = info_dict["ticker"]
-    nombre     = info_dict["nombre"]
-    familia    = info_dict["familia"]
+    ticker      = info_dict["ticker"]
+    nombre      = info_dict["nombre"]
+    familia     = info_dict["familia"]
     composicion = info_dict["composicion"]
 
     precio = data.get("precio")         if data else None
     aum    = data.get("aum")            if data else None
     fee    = data.get("expense_ratio")  if data else None
-    ytd    = data.get("retorno_ytd")    if data else None
     r1y    = data.get("retorno_1y")     if data else None
     r3y    = data.get("retorno_3y")     if data else None
+    r5y    = data.get("retorno_5y")     if data else None
+    beta   = data.get("beta")           if data else None
     div    = data.get("dividend_yield") if data else None
 
-    def _pct(v):
-        return f"{v*100:+.1f}%" if v is not None else "N/D"
+    def _pct(v, ann=False):
+        if v is None:
+            return "N/D"
+        suffix = " ann." if ann else ""
+        return f"{v*100:+.1f}%{suffix}"
     def _rc(v):
         if v is None: return "#8892b0"
         return "#2ea87e" if v > 0 else "#c0392b"
+    def _beta_color(b):
+        if b is None: return "#8892b0"
+        if b > 1.3:   return "#c0392b"
+        if b > 1.0:   return "#e6a817"
+        return "#2ea87e"
 
-    fee_str = f"{fee*100:.3f}%" if fee is not None else "N/D"
-    aum_str = fmt_large(aum) if aum else "N/D"
-    div_str = f"{div*100:.2f}%" if div is not None else "N/D"
-    px_str  = f"${precio:,.2f}" if precio is not None else "N/D"
+    fee_str  = f"{fee*100:.3f}%" if fee is not None else "N/D"
+    aum_str  = fmt_large(aum) if aum else "N/D"
+    beta_str = f"{beta:.2f}" if beta is not None else "N/D"
+    px_str   = f"${precio:,.2f}" if precio is not None else "N/D"
+
+    # Dividend badge only when meaningful (equity/REIT ETFs)
+    div_badge = ""
+    if div and div > 0.005:
+        div_badge = (
+            f'<span style="font-size:9px;color:#8892b0;background:#0d1117;'
+            f'border-radius:4px;padding:2px 6px;margin-left:6px">'
+            f'Div {div*100:.1f}%</span>'
+        )
 
     def _cell(label, value, color="#e6f1ff"):
         return (
             f'<div style="background:#0d1117;border-radius:6px;padding:5px 6px;text-align:center">'
-            f'<div style="font-size:8.5px;color:#4a5270;text-transform:uppercase;letter-spacing:.5px">{label}</div>'
+            f'<div style="font-size:8px;color:#4a5270;text-transform:uppercase;letter-spacing:.5px">{label}</div>'
             f'<div style="font-size:12px;font-weight:700;color:{color}">{value}</div>'
             f'</div>'
         )
 
     grid = (
-        _cell("Fee anual", fee_str)
-        + _cell("AUM", aum_str)
-        + _cell("Dividendo", div_str)
-        + _cell("YTD", _pct(ytd), _rc(ytd))
-        + _cell("1 año", _pct(r1y), _rc(r1y))
-        + _cell("3 años", _pct(r3y), _rc(r3y))
+        _cell("Fee anual",   fee_str)
+        + _cell("AUM",       aum_str)
+        + _cell("Beta 3A",   beta_str, _beta_color(beta))
+        + _cell("1 año",     _pct(r1y),        _rc(r1y))
+        + _cell("3A anual",  _pct(r3y, ann=True), _rc(r3y))
+        + _cell("5A anual",  _pct(r5y, ann=True), _rc(r5y))
     )
 
     return (
         f'<div style="background:#161b2e;border:1px solid #21262d;border-radius:10px;padding:14px;margin-bottom:4px">'
         f'<div style="display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:5px">'
-        f'<div><span style="font-size:17px;font-weight:700;color:#e6f1ff">{ticker}</span>'
-        f'<span style="font-size:9px;color:#4a5270;background:#0d1117;border-radius:4px;padding:2px 5px;margin-left:6px">{familia}</span></div>'
+        f'<div style="display:flex;align-items:center;flex-wrap:wrap;gap:4px">'
+        f'<span style="font-size:17px;font-weight:700;color:#e6f1ff">{ticker}</span>'
+        f'<span style="font-size:9px;color:#4a5270;background:#0d1117;border-radius:4px;padding:2px 5px">{familia}</span>'
+        f'{div_badge}'
+        f'</div>'
         f'<span style="font-size:14px;font-weight:600;color:#00c896">{px_str}</span>'
         f'</div>'
         f'<div style="font-size:10.5px;color:#8b949e;margin-bottom:9px;line-height:1.35">{nombre}</div>'
         f'<div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:3px;margin-bottom:9px">{grid}</div>'
-        f'<div style="font-size:10.5px;color:#c0cfe0;line-height:1.5;border-top:1px solid #21262d;padding-top:8px">{composicion}</div>'
+        f'<div style="font-size:10px;color:#c0cfe0;line-height:1.5;border-top:1px solid #21262d;padding-top:8px">{composicion}</div>'
         f'</div>'
     )
 
