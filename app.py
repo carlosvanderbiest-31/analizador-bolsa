@@ -939,13 +939,36 @@ def _mostrar_etfs():
     st.markdown("#### Fondos cotizados (ETF) por categoría")
     st.caption("Los 3 ETF con mayor liquidez/AUM por sector · retornos anualizados · datos actualizados cada 4 h")
 
+    # ── Filtro por emisor ──────────────────────────────────────────────────────
+    all_familias = sorted({
+        e["familia"]
+        for etfs in _ETFS_POR_SECTOR.values()
+        for e in etfs
+        if e["familia"] != "–"
+    })
+    sel_familias = st.multiselect(
+        "Filtrar por emisor",
+        options=all_familias,
+        default=[],
+        placeholder="Todos los emisores",
+        key="etf_emisor",
+    )
+
     all_tickers = [e["ticker"] for etfs in _ETFS_POR_SECTOR.values() for e in etfs]
     with st.spinner("Cargando datos de ETFs..."):
         with ThreadPoolExecutor(max_workers=12) as ex:
             futures = {tk: ex.submit(cargar_etf_data, tk) for tk in all_tickers}
             etf_data = {tk: f.result() for tk, f in futures.items()}
 
+    sectores_visibles = 0
     for sector, etfs in _ETFS_POR_SECTOR.items():
+        etfs_filtrados = (
+            [e for e in etfs if e["familia"] in sel_familias]
+            if sel_familias else etfs
+        )
+        if not etfs_filtrados:
+            continue
+        sectores_visibles += 1
         st.markdown(
             f'<div style="background:#00c89615;border-left:4px solid #00c896;'
             f'border-radius:0 8px 8px 0;padding:8px 16px;margin:22px 0 10px">'
@@ -953,11 +976,14 @@ def _mostrar_etfs():
             f'</div>',
             unsafe_allow_html=True,
         )
-        cols = st.columns(3)
-        for i, etf_info in enumerate(etfs):
+        cols = st.columns(len(etfs_filtrados)) if len(etfs_filtrados) < 3 else st.columns(3)
+        for i, etf_info in enumerate(etfs_filtrados):
             with cols[i]:
                 st.markdown(_etf_card_html(etf_info, etf_data.get(etf_info["ticker"])),
                             unsafe_allow_html=True)
+
+    if sectores_visibles == 0:
+        st.info("Ningún sector tiene ETFs del emisor seleccionado.")
 
     st.markdown("---")
     st.caption("⚠️ Datos desde Yahoo Finance. Fee/AUM pueden diferir ligeramente del prospecto oficial. Los retornos pasados no garantizan resultados futuros.")
