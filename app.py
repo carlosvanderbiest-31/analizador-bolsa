@@ -1452,7 +1452,7 @@ if not ticker_activo:
             st.session_state.ticker_click = ticker_home
             st.rerun()
 
-    home_tab1, home_tab2 = st.tabs(["📈 Acciones", "📦 ETFs por Sector"])
+    home_tab1, home_tab2 = st.tabs(["📈 Acciones", "📦 ETFs"])
     with home_tab1:
         _mostrar_ranking()
     with home_tab2:
