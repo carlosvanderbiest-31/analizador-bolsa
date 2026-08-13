@@ -1,0 +1,259 @@
+{
+  "empresa": "Howmet Aerospace Inc.",
+  "ticker": "HWM",
+  "sector": "Industriales - Componentes Aeroespaciales (Aerospace & Defense - Components)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Fabricante de componentes de ingenieria en metales ligeros para aeroespacial-defensa-transporte comercial, con 4 segmentos: Engine Products (alabes-anillos laminados para motores de avion-turbinas industriales), Fastening Systems (sistemas de sujecion aeroespacial-transporte comercial-industrial), Engineered Structures (forjas-extrusiones de titanio-aluminio-niquel para estructuras aeroespaciales-defensa), y Forged Wheels (ruedas forjadas de aluminio para camiones pesados). Escindida de Arconic en 2020. Aeroespacial representa ~68% de las ventas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat tecnico-de calificacion genuino: los componentes criticos de motores-estructuras aeroespaciales requieren ciclos de calificacion extensos con los fabricantes de motores (GE, RTX-Pratt & Whitney, Rolls-Royce) y armadores (Boeing, Airbus) - una vez calificado en un programa, los costos de cambio de proveedor son altos por razones de seguridad-certificacion. Menos extremo que el moat de habilitaciones de seguridad de NOC-GD (aqui hay mas competidores calificados por nicho, ej. Precision Castparts de Berkshire Hathaway).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posiciones fuertes en alabes-anillos de motor y sistemas de sujecion aeroespacial, pero en un panorama competitivo mas fragmentado que el duopolio-oligopolio de defensa pura ya visto en NOC-GD - varios competidores calificados por nicho de producto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios FUERTE y demostrado: expansion de margen EBITDA ajustado de +340 puntos basicos interanual en 2T2026 (a 32.1%), impulsada por mezcla de repuestos de posventa (aftermarket) de alto margen y disciplina de precio-costo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO John Plant (desde la escision de Arconic en 2020) - track record de ejecucion consistente, guia FY2026 elevada en cada trimestre de 2026 tras resultados que superaron expectativas repetidamente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap industrial sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados, aunque como escision de Arconic (2020) la empresa hereda cierto legado de pasivos ambientales-de litigio historicos de la entidad predecesora - no cuantificado en detalle esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 1.41x (deuda total USD 4.50bn, caja USD 0.56bn, EBITDA TTM USD 2.80bn) - moderado y saludable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 1.82 - saludable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance razonablemente limpio y en fortalecimiento continuo (Patrimonio USD 5.73bn, apalancamiento moderado).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes EXCELENTES y en rapida expansion: bruto 36.03%, operativo 27.32% (entre los mas altos del sector Industrial del Dashboard), neto 20.52% - resultado de mezcla de aftermarket de alto margen y apalancamiento operativo sobre volumen creciente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 34.73% y ROIC 22.99% (ambos informativos y excelentes, patrimonio no distorsionado, D/E moderado de 0.81x) - muy por encima del WACC propio (9.88%, ver fila 41).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de un fabricante industrial de componentes de precision.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios EXCEPCIONAL (13.50%, calculo propio FY2021-FY2025) - el crecimiento mas alto de cualquier empresa Industrial de la sesion (vs 8.11% de GD, 4.64% de ITW, 4.14% de NOC), impulsado por la recuperacion-rampa de produccion de Boeing-Airbus post-COVID y fuerte demanda de repuestos de posventa.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA: pese al crecimiento actual excepcional, la ciclicidad de HWM es GENUINA y ya se materializo con severidad: el segmento aeroespacial de la entonces-Arconic sufrio una caida muy fuerte en 2020-2021 (produccion de Boeing-Airbus practicamente paralizada por la pandemia) - el beta NO degenerado (~1.20) refleja correctamente esta ciclicidad real, a diferencia del beta bajo-degenerado de las defensas puras (NOC, GD) ya vistas en la sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Catalizador: rampa continua de produccion de Boeing-Airbus, fuerte demanda de repuestos de posventa de motores (flota global envejeciendo), adquisicion de CAM Fasteners integrada en abr-2026 (aporto al crecimiento de Fastening Systems).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias buena - guias elevadas de forma consistente en cada trimestre de 2026, expansion de margen respaldada por mezcla-precio real, no por partidas no recurrentes evidentes en los datos consultados.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF EN CRECIMIENTO RAPIDO en terminos absolutos (FCF TTM USD 1.791bn, desde solo USD 250M en FY2021, +7x), pero el FCF Yield resultante es muy bajo (1.59%) dado el precio ya muy exigente de la accion (ver fila 41).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex moderado (TTM USD 430M, ~4.72% de ventas), necesario para sostener la expansion de capacidad ante la rampa de produccion de los OEMs aeroespaciales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital orientado a REINVERSION-crecimiento mas que a retorno de capital: dividendo minimo (yield 0.20%, payout solo 10.78%), prioriza reinversion en capacidad y reduccion de deuda sobre dividendos-recompras grandes - razonable en esta fase de crecimiento, pero limita el atractivo para inversores orientados a ingreso.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "GOTCHA: multiplos EXTREMADAMENTE RICOS, entre los mas altos de todo el Dashboard: P/E TTM 61.19x, forward 48.82x, EV/EBITDA 41.70x, P/FCF 62.86x - una valoracion que implica que el mercado esta pagando por un crecimiento sostenido excepcionalmente largo-agresivo (ver analisis completo en fila 41).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO NUEVO: a diferencia del patron de beta bajo-degenerado ya visto varias veces esta sesion (WM, ITW, NOC, GD), aqui el beta literal (1.20) NO es sospechoso -es un beta cercano-superior a 1.0, coherente con la ciclicidad real ya demostrada por la empresa en 2020-2021 (ver fila 32)-, asi que NO corresponde forzar una sustitucion de beta. Sin embargo, el chequeo de convergencia del multiplo terminal implicito SIGUE revelando una brecha ENORME: con WACC 9.88% (Ke CAPM 10.1% con beta 1.20 literal; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~4.35%; estructura de capital a valor de mercado: Equity USD 112.4bn, Deuda USD 4.50bn) y una base de FCF TTM limpia (USD 1.791bn), un DCF a 5 anios con crecimiento 8% (moderado desde el 18-24% actual) y terminal 3% da un multiplo terminal implicito de solo 14.97x - una brecha ENORME frente al P/FCF real de mercado (62.86x, ratio 4.2x), MUCHO mayor que cualquier brecha de beta-degenerado ya vista esta sesion (que tipicamente rondaban 1.4x-1.7x). Se probo extender el horizonte explicito a 10 anios con crecimiento escalonado agresivo (12% anios 1-3, 9% anios 4-6, 6% anios 7-10, terminal 3%) y el multiplo implicito resultante SIGUE muy por debajo del real de mercado - NINGUNA combinacion razonable de crecimiento-horizonte cierra la brecha bajo este WACC. A diferencia de los casos de beta degenerado (donde una sustitucion razonada y bien documentada SI logro converger de forma creible), aqui forzar una convergencia matematica implicaria un beta sustituto artificialmente bajo (rondando 0.3-0.4) que CONTRADICE la evidencia real de ciclicidad de la empresa (fila 32) - no hay una causa fundamental legitima para sustituir el beta como si HWM fuera una defensiva de baja volatilidad. Se opto por NO forzar la convergencia y reportar el resultado del DCF disciplinado como una senal genuina de sobrevaloracion. Valor Intrinseco (Escenario A, DCF FCFF 5 anios, growth 8%, terminal 3%, beta literal SIN sustituir): USD 73.19/accion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -74.03% (precio actual USD 281.88 vs valor intrinseco USD 73.19) - LA valoracion mas exigente de todo el sector Industrial de la sesion, y una de las mas exigentes del Dashboard completo. Consenso de ~22-29 analistas (Strong Buy, objetivo promedio USD 302-306, con revisiones al alza MUY recientes -Jefferies a USD 370, Baird a USD 375, la misma semana de este analisis-) diverge en direccion RADICALMENTE opuesta a este DCF - el mercado esta pagando por una narrativa de supercicio aeroespacial de largo plazo que un DCF disciplinado de horizonte finito no logra racionalizar bajo ninguna combinacion razonable de crecimiento-WACC. Tratar como REDUCIR-precaucion de valoracion, no como una tesis bajista sobre la calidad del negocio (que es genuinamente excelente, ver margenes-ROIC-crecimiento en filas 27-31).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en crecimiento estructural: flota comercial aeroespacial global en expansion-envejecimiento (demanda de repuestos de posventa), rampa de produccion de Boeing-Airbus, mas exposicion a defensa-transporte comercial.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas via certificacion-calificacion de programas de motor-estructura aeroespacial (ciclos de anios, altos costos de cambio una vez calificado), pero MENOS extremas que el moat de habilitaciones de seguridad de defensa pura (NOC-GD) - existen varios competidores calificados por nicho (Precision Castparts-Berkshire, entre otros).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: mercado mas fragmentado-competitivo que el oligopolio-duopolio de defensa pura, con varios proveedores calificados compitiendo por posiciones en cada programa de motor-aeroestructura; poder de negociacion de los OEMs de motor (GE, RTX, Rolls-Royce) y armadores (Boeing, Airbus) es significativo dado que son compradores concentrados y sofisticados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad GENUINA y ya demostrada con severidad (caida fuerte del segmento aeroespacial en 2020-2021 por la pandemia) - el beta de 1.20 (cercano-superior a 1.0) refleja esto correctamente, sin necesidad de sustitucion, a diferencia de las defensas puras (NOC, GD) de la misma sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio moderado: certificacion-seguridad aeroespacial (FAA-EASA), exposicion parcial a regulacion de defensa-exportacion (ITAR) via el segmento Engineered Structures.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria MODERADA-significativa: operaciones en 57 instalaciones-22 paises.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "GOTCHA: concentracion de cliente ALTA - un numero relativamente pequeno de fabricantes de motor (GE, RTX-Pratt & Whitney, Rolls-Royce) y armadores (Boeing, Airbus) representan una porcion significativa de los ingresos, riesgo estructural real de la industria de componentes aeroespaciales.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico genuino en metalurgia de precision (titanio, superaleaciones de niquel, fundicion de precision) para componentes criticos de motor-estructura.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG moderado: huella de manufactura industrial global, con cierto legado de pasivos ambientales heredados de la era Arconic (no cuantificado en detalle esta sesion) - revisar si hay litigios-remediaciones activas pendientes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: continuidad de la ejecucion de la guia FY2026 elevada, integracion de la adquisicion de CAM Fasteners (abr-2026), y si la rampa de produccion de Boeing-Airbus se mantiene sin nuevas disrupciones de cadena de suministro.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-VALORACION: HWM es el primer caso de la sesion donde el beta literal NO es sospechoso (1.20, coherente con ciclicidad real demostrada) pero el DCF disciplinado igual arroja una sobrevaloracion EXTREMA (-74%) porque ninguna combinacion razonable de crecimiento-horizonte-WACC cierra la brecha con el multiplo real de mercado (62.86x P/FCF). Distinto categoricamente de los casos de beta degenerado de la sesion (WM, ITW, NOC, GD), donde una sustitucion razonada SI logro converger de forma creible - aqui forzar la convergencia exigiria un beta artificialmente bajo sin base fundamental real, lo cual se decidio NO hacer.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~22-29 analistas: calificacion Strong Buy, objetivo promedio USD 302-306 (con multiples revisiones al alza la MISMA semana de este analisis: Jefferies a USD 370, Baird a USD 375, UBS a USD 326) - consenso fuertemente optimista y en tendencia alcista activa, en tension marcada con la senal de valoracion disciplinada de este DCF (filas 41-42).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.3513513513513513,
+    "recomendacion": "REDUCIR - fabricante de componentes aeroespaciales de altisima calidad (margenes en rapida expansion, ROIC 22.99%, crecimiento de ingresos el mas alto entre los Industriales de la sesion) y con moat tecnico-de calificacion genuino, PERO cotizando a multiplos extremadamente ricos (P/E 61x, P/FCF 63x) que un DCF disciplinado no logra racionalizar bajo ninguna combinacion razonable de crecimiento-horizonte, incluso con un beta literal NO degenerado (1.20, coherente con la ciclicidad real ya demostrada por la empresa en 2020-2021); margen de seguridad de -74.03%, la valoracion mas exigente del sector Industrial de la sesion, en tension marcada con un consenso de analistas Strong Buy con revisiones al alza activas",
+    "tesis": "El componente aeroespacial de mayor calidad y crecimiento mas rapido del sector Industrial de la sesion, pero tambien el mas caro por un margen enorme - un DCF disciplinado no logra justificar el precio actual bajo ninguna combinacion razonable de supuestos, pese a que el beta de la empresa (a diferencia de otros casos de la sesion) no muestra senales de ser artificialmente bajo."
+  }
+}

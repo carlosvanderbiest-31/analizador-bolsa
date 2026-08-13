@@ -1,0 +1,259 @@
+{
+  "empresa": "General Dynamics Corporation",
+  "ticker": "GD",
+  "sector": "Industriales - Defensa y Aeroespacial (Aerospace & Defense)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Contratista de defensa-aeroespacial con 4 segmentos: Aerospace (aviones de negocios Gulfstream), Marine Systems (submarinos nucleares Virginia-class y Columbia-class, via el astillero Electric Boat), Combat Systems (tanques Abrams, vehiculos Stryker), y Technologies (GDIT, servicios de TI para el gobierno). Portafolio mas diversificado que NOC, con Aerospace-Gulfstream aportando exposicion a clientes corporativos-privados ademas del gobierno.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de naturaleza regulatoria-de seguridad, potencialmente aun MAS extremo que el de NOC en el segmento de submarinos: Electric Boat es uno de solo DOS astilleros en EEUU capaces de construir submarinos nucleares (junto a Newport News-HII) - un duopolio genuino con decadas de habilitaciones de seguridad-infraestructura especializada que ningun nuevo entrante puede replicar.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion dominante en submarinos nucleares (duopolio con HII), Gulfstream lider en aviones de negocios de largo alcance, Combat Systems entre los pocos fabricantes de vehiculos blindados pesados de EEUU (Abrams) - backlog record de USD 136.5bn (~2.5x ingresos anuales, +32% interanual).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios mixto, similar al resto del sector defensa: contratos de precio fijo en fases de desarrollo-produccion inicial conllevan riesgo real de sobrecosto (ver fila 56, retrasos de entrega documentados en submarinos), aunque sin un cargo mayor equivalente al del B-21 de NOC en los datos de esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Phebe Novakovic (Chairman y CEO desde 2013) - track record largo y consistente de ejecucion, crecimiento de ingresos-utilidad neta mucho MAS ESTABLE que NOC en el mismo periodo (sin cargos grandes equivalentes al B-21), guia FY2026 elevada dos veces en el ano tras resultados record.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap de defensa sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados, mismo entorno de supervision regulatoria-congresional intensa del sector defensa que NOC.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 0.48x (deuda total USD 7.52bn, caja USD 4.33bn, EBITDA TTM USD 6.60bn) - EXCELENTE, el balance mas solido entre los contratistas de defensa del Dashboard (vs 2.29x de NOC).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 1.44 - saludable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance limpio y solido (Patrimonio USD 26.8bn, apalancamiento bajo) - el mejor perfil de balance entre los contratistas de defensa analizados esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes tipicos del sector defensa: bruto 15.38%, operativo 10.38%, neto 8.18% - similar en magnitud a NOC, mas bajos que otros Industriales de la sesion (UNP, ITW) por la naturaleza intensiva en mano de obra-costos de programa del sector.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 17.80% y ROIC 14.60% (ambos informativos, patrimonio no distorsionado) - solidos y por encima del WACC propio (7.13%, ver fila 41).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de un fabricante de defensa-aeroespacial con instalaciones especializadas (astilleros, plantas de Gulfstream).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios FUERTE (8.11%, calculo propio FY2021-FY2025) - el mas alto entre los contratistas de defensa de la sesion (vs 4.14% de NOC), impulsado por conversion de backlog record y crecimiento de Gulfstream.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento MUY estable en comparacion con NOC: tanto ingresos COMO utilidad neta crecieron de forma consistente FY2021-FY2025 sin un cargo grande equivalente al del B-21 de NOC - contraste directo positivo dentro del mismo sub-sector defensa analizado en la misma sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "GOTCHA-CATALIZADOR MAYOR: backlog record de USD 136.5bn (+32% interanual, ~2.5x ingresos anuales) impulsado por el mayor contrato en los 127 anios de historia de Electric Boat (USD 76.6bn adjudicado el 29-jul-2026, apenas ~2 semanas antes de este analisis: USD 42.1bn para 9 submarinos Virginia-class, USD 29.5bn para 5 Columbia-class) - visibilidad de ingresos multi-decada excepcional, aunque la noticia es tan reciente que podria no estar completamente incorporada en el consenso de analistas todavia (ver fila 42).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias mas limpia que NOC - sin un cargo EAC grande equivalente al del B-21 visible en los datos de esta sesion, aunque el riesgo estructural de programas de precio fijo en desarrollo temprano sigue presente para toda la industria.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "GOTCHA: conversion de FCF con distorsion TEMPORAL real - FCF TTM (USD 6.447bn) esta inflado por una fuerte primera mitad de 2026 (posiblemente pagos anticipados-avances relacionados a la conversion de backlog record), y la propia empresa GUIO explicitamente una segunda mitad de 2026 mas \"ligera\" (conversion de FCF ~105% de utilidad neta para el ano completo) por mayor capex planificado, USD 500M de contribuciones a pensiones, mas de USD 500M de impuestos en efectivo, y reduccion de pagos anticipados en European Land Systems - se uso una base normalizada (~USD 4.8bn) en vez del TTM crudo para el DCF (ver fila 41).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex moderado (TTM USD 1.26bn, ~2.29% de ventas), con guia propia de un capex MAYOR planificado para la segunda mitad de 2026.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital solido: dividendo con historial de crecimiento consistente (yield 1.62%, payout 38.79%), recompras de acciones activas, balance con capacidad para seguir invirtiendo en la expansion de capacidad de submarinos (Electric Boat) sin comprometer la salud financiera.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos razonables: P/E TTM 23.98x, forward 22.42x, EV/EBITDA 16.98x, P/FCF 16.62x (este ultimo distorsionado a la baja por el FCF TTM inflado, ver fila 36) - algo mas ricos que NOC pero justificados por mejor balance-crecimiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA: mismo patron de beta bajo-degenerado ya visto en NOC dentro del mismo sub-sector defensa (beta literal 0.33-0.54 segun la fuente, positivo pero muy bajo, a diferencia del negativo de NOC). Chequeo de convergencia: con el beta literal (0.33) el multiplo terminal implicito (37.61x) diverge fuertemente del P/FCF real de mercado normalizado (~22.1x, ajustado por la distorsion TTM de la fila 36, no el 16.62x crudo que subestima el multiplo real por el mismo motivo) - degenerado. Se sustituyo por un beta iterado de 0.70 (notablemente similar al 0.75 sustituto de NOC, buena consistencia interna dentro del mismo sub-sector) hasta converger el multiplo implicito (~22.1x) con el real normalizado. WACC resultante 7.13% (Ke CAPM 7.35% con beta sustituto 0.70; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~3.95%; estructura de capital a valor de mercado: Equity USD 106.3bn, Deuda USD 7.52bn). FCF base = USD 4.8bn (normalizado, NO el TTM crudo de USD 6.447bn inflado por pagos anticipados de primera mitad de 2026, anclado en su lugar a la guia propia de conversion de FCF ~105% de utilidad neta para el ano completo). Crecimiento 5 anios = 5% (Escenario A adoptado, conservador dado que la noticia del contrato record de Electric Boat es muy reciente -2 semanas antes de este analisis- y podria no reflejarse aun completamente en las proyecciones de consenso); terminal 2.5%. Escenario B (no adoptado, growth 6%, mas agresivo anclado al crecimiento reciente de backlog +32%): USD 447.60/accion (+14.17%). Valor Intrinseco (Escenario A adoptado): USD 427.91/accion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: +9.15% (precio actual USD 392.05 vs valor intrinseco USD 427.91) - el UNICO Industrial de la sesion con margen de seguridad POSITIVO en el escenario adoptado, y el mas atractivo por este metrico entre los cinco Industriales analizados (WM +0.79%, UNP -16.06%, DE -8.61%, ITW -5.32%, NOC -5.41%). Consenso de ~28-33 analistas (Buy, objetivo promedio USD 396.50-416.45) sugiere una alza mas modesta (+1% a +6%) que este DCF - a diferencia de NOC-UNP-DE (donde el consenso fue MAS optimista que el DCF propio), aqui el DCF propio es MAS optimista que el consenso, posiblemente porque el consenso aun no incorpora completamente el contrato record de Electric Boat (adjudicado apenas ~2 semanas antes de este analisis).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en crecimiento estructural, mismo viento de cola de presupuestos de defensa de EEUU-aliados que NOC, con el aÃ±adido de exposicion a la demanda de aviones de negocios (Gulfstream) fuera del ciclo puramente gubernamental.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada EXTREMAS, potencialmente las mas altas del Dashboard en el segmento de submarinos: solo DOS astilleros en EEUU (Electric Boat y Newport News-HII) pueden construir submarinos nucleares - un duopolio genuino respaldado por decadas de habilitaciones de seguridad e infraestructura especializada irreplicable.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: duopolio genuino en submarinos nucleares (con HII), oligopolio en Combat Systems-Aerospace, mercado mas fragmentado-competitivo en aviones de negocios (Gulfstream compite con Bombardier, Dassault, Textron) - portafolio con dinamicas competitivas distintas por segmento, mas diversificado que NOC.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad ESTRUCTURALMENTE BAJA respecto al ciclo economico general (beta literal bajo, 0.33-0.54 segun la fuente, mismo patron que NOC aunque sin llegar a ser negativo) - el gasto de defensa esta desacoplado del ciclo economico general, aunque el segmento Aerospace-Gulfstream (aviones de negocios) SI tiene alguna exposicion ciclica genuina a la actividad corporativa-riqueza privada, a diferencia del resto del portafolio.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio-politico real, mismo contexto que NOC: dependencia del proceso presupuestario del Congreso de EEUU, regulacion de control de exportaciones (ITAR), supervision-auditoria del DoD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria MODERADA, mayor que NOC por la venta internacional de aviones de negocios Gulfstream a clientes corporativos-privados globales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion de cliente ALTA pero ALGO MAS DIVERSIFICADA que NOC: el gobierno de EEUU domina Marine Systems-Combat Systems-Technologies, pero Aerospace-Gulfstream aporta una base de clientes corporativos-privados genuinamente distinta (aunque tambien concentrada, en un numero relativamente pequeno de compradores de aviones de alto valor).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico genuino en ingenieria de submarinos nucleares (Columbia-class, la primera clase nueva de submarinos balisticos en decadas) y en aviacion de negocios de largo alcance (Gulfstream) - dos areas de ingenieria de punta distintas bajo el mismo techo corporativo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "GOTCHA: mismo riesgo ESG ESTRUCTURAL Y PERMANENTE que NOC - como fabricante de armamento (submarinos nucleares, tanques), GD esta sujeto a exclusion categorica de fondos ESG-SRI por mandato, aunque el segmento Gulfstream (aviacion civil de negocios) esta algo menos expuesto a esta categoria especifica de exclusion que el resto del portafolio.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: ejecucion del contrato record de Electric Boat (USD 76.6bn, adjudicado 29-jul-2026) y la primera entrega del submarino Columbia-class (District of Columbia, actualmente proyectada para marzo de 2029, tras retrasos ya documentados desde el 2027 original) - el hito de entrega mas importante a monitorear de la empresa en los proximos anios.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-RIESGO ESPECIFICO: retrasos de entrega REALES y documentados en el programa de submarinos - los astilleros de EEUU entregan actualmente ~1.3 submarinos Virginia-class por aÃ±o contra un objetivo de la Marina de 2, con las fechas de entrega de los primeros 10 submarinos Block V retrasadas en promedio casi 3 anios desde la adjudicacion original del contrato; el Columbia-class (buque insignia del programa) se retraso de 2027 a marzo de 2029 por problemas con turbinas de vapor y la proa-popa del submarino. La empresa reporto mejoras en el desempeÃ±o de proveedores durante 2026 y espera alcanzar el ritmo de produccion objetivo (2 Virginia-class + 1 Columbia-class por aÃ±o) recien a comienzos de la decada de 2030 - un riesgo de ejecucion de largo plazo real, aunque el reciente contrato record de USD 76.6bn sugiere que la Marina mantiene confianza en la capacidad de GD para resolverlo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~28-33 analistas: calificacion Buy, objetivo promedio USD 396.50-416.45 (+1% a +6% de alza sobre el precio actual) - consenso POSITIVO pero mas MODERADO que el DCF propio de este analisis (+9.15%), posiblemente por no incorporar aun completamente el contrato record de Electric Boat (adjudicado apenas ~2 semanas antes de este analisis).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7027027027027026,
+    "recomendacion": "MANTENER - contratista de defensa de la mas alta calidad entre los analizados esta sesion (balance mas solido, crecimiento mas estable y rapido que NOC, moat de duopolio en submarinos nucleares), con un catalizador muy reciente y relevante (contrato record de Electric Boat de USD 76.6bn, el mayor en 127 anios); el DCF (con beta sustituido, base de FCF normalizada por la distorsion TTM) da el UNICO margen de seguridad positivo entre los cinco Industriales de la sesion (+9.15%), aunque por debajo del consenso de analistas que aun podria no reflejar completamente la noticia del contrato",
+    "tesis": "El contratista de defensa mas solido y de crecimiento mas estable de la sesion, operador de uno de los dos unicos astilleros de submarinos nucleares de EEUU, que acaba de recibir el contrato mas grande de su historia (USD 76.6bn) apenas dos semanas antes de este analisis - el unico Industrial de la sesion con margen de seguridad positivo."
+  }
+}

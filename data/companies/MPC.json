@@ -1,0 +1,259 @@
+{
+  "empresa": null,
+  "ticker": null,
+  "sector": null,
+  "fecha_analisis": null,
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Refinacion de crudo a productos (gasolina, diesel, jet fuel) como negocio principal, mas midstream via su participacion mayoritaria (aprox 70%) en MPLX LP (ductos, procesamiento, terminales, logistica). Ingresos TTM 154.15bn USD. Vendio su red de tiendas minoristas Speedway a 7-Eleven en 2021, simplificando el modelo hacia refino mas midstream.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat moderado: escala (uno de los mayores refinadores independientes de EEUU), red de logistica-midstream integrada via MPLX, ubicaciones estrategicas de refinerias. Pero el producto en si es un commodity puro - el margen de refinacion (crack spread) lo determina el mercado, no la empresa individual, limitando el moat frente a negocios con pricing power estructural.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Entre los 3 mayores refinadores independientes de EEUU junto a Valero (VLO) y Phillips 66 (PSX), con capacidad de refino significativa (throughput 2.9 millones de barriles por dia en el 2T 2026, utilizacion del 94%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Bajo: negocio de commodity puro donde el margen de refinacion (crack spread) es determinado por el mercado (balance oferta-demanda de productos refinados vs crudo), no por decisiones de fijacion de precios de la empresa individual.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Excelente y muy agresivo: 4.5bn USD devueltos a accionistas en 2025 (peer-leading segun la propia empresa); autorizacion adicional de 5bn USD de recompra tras el beat del 1T 2026; 2.8bn USD devueltos solo en el 2T 2026. Reduccion sostenida de acciones en circulacion durante varios años.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "No se investigo con precision el detalle de compensacion ejecutiva ni participacion accionaria del management esta sesion - calificacion neutral por defecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Clase unica de acciones para MPC, aunque la estructura de \"padre-patrocinador de una MLP\" (posee aprox 70% de MPLX LP) añade una capa de complejidad de gobernanza (potenciales conflictos de interes entre el General Partner y los Limited Partners publicos de MPLX) - mitigado parcialmente porque MPC ya posee la mayoria de MPLX, a diferencia de estructuras GP-LP con terceros externos dominantes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion trimestral regular con guidance claro de retorno de capital y metricas operativas de refino (utilizacion, margen capturado). Sin señales de opacidad relevantes identificadas esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda consolidada considerable (aprox 34.29bn USD) vs caja aprox 7.77bn USD (deuda neta aprox 26.5bn USD), pero gran parte es deuda estable de infraestructura de MPLX (midstream, contratos de largo plazo tipo ductos-terminales), no deuda del negocio de refino mas volatil - mismo criterio de separar deuda \"core\" de subsidiarias estables ya usado con WMB-CEG. El ratio Deuda Neta/EBITDA se ve favorecido artificialmente por el EBITDA elevado del pico de margenes actual - no tomar el numero actual como representativo de un año normal.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razonable pero no excepcional: caja 7.77bn USD relativo al tamaño del balance (activos totales 94.31bn USD) - no verificada con precision la razon corriente exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda de grado de inversion, mezcla entre MPC y MPLX - calendario exacto de vencimientos no verificado con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por PP&E de refinerias y ductos (activos tangibles, calidad alta como activos fisicos operativos), aunque con riesgo de obsolescencia de largo plazo dado el proceso de transicion energetica (ver fila 52).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen neto TTM 5.55% - bajo en terminos absolutos, tipico de un negocio de refino (altos ingresos, bajo margen porcentual sobre ventas de commodities). Pero el nivel ACTUAL esta en maximos ciclicos: margen de refinacion 36.33 USD por barril en el 2T 2026 vs 17.58 USD hace un año (mas del doble) - no representativo de un año normal del ciclo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM elevado (utilidad neta TTM aprox 8.55bn USD sobre patrimonio 25.72bn USD, aprox 33%) muy por encima del WACC propio, pero fuertemente inflado por el pico ciclico actual de margenes de refinacion, no un nivel sostenible a traves del ciclo completo (ver fila 47 sobre ciclicidad).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada-alta, tipica de un negocio de refino de alto volumen de ingresos relativo a su base de activos - no verificada con precision numerica esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "NO es una historia de crecimiento - ingresos y utilidades marcadamente ciclicos y en TENDENCIA DECRECIENTE desde el pico de 2022: ingresos de 174.1bn USD (2022) a 135.4bn USD (2025); utilidad neta de 14.5bn USD (2022) colapsando a 3.4bn USD (2024) antes de la recuperacion fuerte de margenes en curso durante 2026.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Muy inconsistente - ciclo clasico de refinacion con swings de varios miles de millones de USD de utilidad neta año a año (14.5bn USD en 2022, 9.7bn en 2023, 3.4bn en 2024, 4.0bn en 2025, y una fuerte recuperacion en curso durante 2026). El nivel de inconsistencia mas alto documentado en el Dashboard para una empresa de esta escala.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Crecimiento organico limitado (capacidad de refino esencialmente fija, sector maduro sin nuevas refinerias grandes construidas en EEUU en decadas). El crecimiento real proviene de: expansion de MPLX (midstream), recompras agresivas de acciones (crecimiento de EPS sin crecimiento del negocio subyacente), y la naturaleza ciclica del margen de refino (recuperacion desde el valle de 2023-2024 hacia el pico actual de 2026).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM 17.126bn USD vs utilidad neta TTM aprox 8.55bn USD - OCF bastante superior a la utilidad neta, calidad de ganancias alta (brecha explicada en gran parte por depreciacion-amortizacion pesada de refinerias-ductos, gasto no-cash tipico del sector, mas cambios de capital de trabajo favorables en el pico de margenes).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM 12.899bn USD - conversion fuerte en el pico actual del ciclo, PERO historicamente muy volatil: FY2024 solo 6.132bn USD, FY2025 apenas 4.767bn USD - la cifra TTM esta inflada por el pico de margenes de refinacion del 1S 2026 y NO debe usarse como base de un DCF sin ajustar (ver fila 41).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM 4.227bn USD, mezcla de mantenimiento de refinerias (esencial, recurrente, ligado a paradas de planta programadas) y crecimiento de MPLX (proyectos midstream) - proporcion exacta entre ambos no desglosada con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Estructura de asignacion de capital inteligente que separa la parte estable de la ciclica: el dividendo (1.00 USD trimestral) esta cubierto solidamente por las distribuciones estables de MPLX (mas de 3.5bn USD anuales proyectados, mas que suficiente para dividendo mas capex base), mientras el flujo de caja del negocio de refino (mas volatil) se destina a recompras agresivas - reduce el riesgo de un recorte de dividendo en un valle del ciclo de refinacion.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM de solo 10.37x parece barato en terminos absolutos, PERO esto es el patron clasico de una accion ciclica en pico de margenes ya documentado varias veces en este Dashboard (MU-SNDK-SKHY: \"P/E bajo en pico de ciclo puede ser trampa de valor, no ganga garantizada\") - no comparar este multiplo directo contra empresas de crecimiento estructural sin ajustar por el punto del ciclo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio (Escenario A adoptado, conservador): FCF base = PROMEDIO de FY2024 (6.132bn USD) y FY2025 (4.767bn USD) = 5.45bn USD - deliberadamente NO se uso el FCF TTM (12.899bn USD), inflado por el pico de margenes de refinacion del 1S 2026 (36.33 USD/barril vs 17.58 USD/barril hace un año), mismo criterio ya validado con MU-SKHY de promediar en vez de anclar en el pico del ciclo. WACC 7.23% (CAPM: Beta 0.51 -sorprendentemente bajo para un negocio tan ciclico, Rf 3.5%, ERP 5.5% = Ke 6.31%, mas una PRIMA CUALITATIVA de +2pp por la ciclicidad real de los margenes de refino que el beta historico no parece capturar del todo, mismo tipo de ajuste ya usado en WMB-BABA-ORCL; costo de deuda post-impuestos aprox 4.5% sobre D/V aprox 28%). Crecimiento fade 6%-5%-4.5%-4%-3.5% en 5 años (crecimiento modesto, ligado mayormente a MPLX y recompras, no a expansion de capacidad de refino); terminal REDUCIDO a 3% (no el 4% estandar del proyecto, por el riesgo estructural de largo plazo de electrificacion del transporte sobre la demanda de gasolina, mismo criterio de reduccion ya aplicado en VZ-T-GM). Deuda neta restada aprox 26.5bn USD. Resultado: Valor Intrinseco 414.06 USD por accion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: +33.2% (precio actual 310.84 USD vs. valor intrinseco 414.06 USD) en el escenario adoptado - nominalmente zona de COMPRAR. PERO CONCLUSION FRAGIL, cambia de SIGNO con un WACC apenas 1.8 puntos porcentuales mas alto: con WACC 9% (en vez de 7.23%), el mismo FCF base y crecimiento dan un Valor Intrinseco de solo 263.6 USD, Margen de Seguridad -15.2%. Esta fragilidad (mismo patron ya documentado en LLY-JNJ, aunque alli por spread estrecho contra el terminal en vez de por el nivel absoluto del WACC) es evidencia de que la conclusion direccional NO es robusta. Consenso de analistas (calificacion Buy, objetivo promedio apenas 316.61 USD, +1.86%) esta mucho mas cerca de la sensibilidad de WACC alto que del escenario adoptado - refuerza la cautela. Recomendacion suavizada a MANTENER en vez de COMPRAR mecanico (ver Recomendacion).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de refinacion de combustibles maduro y en declive estructural de largo plazo por electrificacion del transporte, aunque con demanda resiliente de mediano plazo (jet fuel, petroquimicos, diesel) y consolidacion de capacidad (cierres de refinerias menos eficientes en EEUU-Europa) que beneficia a los sobrevivientes eficientes como MPC.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas para NUEVA capacidad de refino: permisos ambientales extremadamente dificiles en EEUU, no se ha construido una refineria grande nueva en decadas - esto protege a los jugadores existentes de nueva competencia domestica, aunque no protege contra la demanda estructuralmente declinante de largo plazo (ver fila 52).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad moderada entre pocos refinadores independientes grandes (MPC, Valero, Phillips 66). Poder de negociacion de proveedores (crudo) y clientes (distribuidores de combustible) alto dado que ambos son commodities liquidos negociados en mercados amplios. Amenaza de sustitutos CRECIENTE en el largo plazo (vehiculos electricos desplazando gasolina). Nuevos entrantes: barrera regulatoria alta (ver fila 45).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "MUY alta - el margen de refinacion es uno de los spreads de commodities mas volatiles que existen, como demuestra el propio periodo reciente (margen duplicado interanual: 36.33 USD/barril en el 2T 2026 vs 17.58 USD/barril un año antes, y utilidad neta cayendo de 14.5bn USD en 2022 a 3.4bn USD en 2024). El nivel de ciclicidad mas alto documentado en el Dashboard para una empresa de esta escala y madurez.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Exposicion a regulacion ambiental de EEUU (estandares de combustible, potencial regulacion de carbono futura), pero riesgo pais bajo dado que las operaciones estan concentradas domesticamente en EEUU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Minimo: operaciones concentradas en EEUU, ingresos y costos mayormente denominados en USD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Baja concentracion de clientes finales (venta de commodities a mercados liquidos amplios de gasolina-diesel-jet fuel), pero exposicion relevante a la volatilidad del precio del crudo como insumo principal (parcialmente mitigada por el hecho de que el margen de refino, no el precio absoluto del crudo, es lo que determina la rentabilidad).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo estructural real de largo plazo por electrificacion del transporte reduciendo la demanda de gasolina (aunque jet fuel-diesel-petroquimicos son mas resilientes a la sustitucion) - mismo tipo de riesgo secular ya documentado en VZ-T para telecom, aqui aplicado a combustibles fosiles. Horizonte de decadas, no inmediato.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Alto perfil de riesgo ESG dado que es una refinadora de combustibles fosiles: emisiones de carbono relevantes, riesgo de activos varados (stranded assets) en escenarios de transicion energetica acelerada, escrutinio regulatorio-de inversionistas creciente sobre el sector.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados del 3T 2026 se esperan en las proximas semanas - clave observar si el margen de refinacion actual (36.33 USD/barril) se sostiene o revierte hacia la media historica del ciclo, lo cual determinara si la fortaleza de 2026 es duradera o transitoria.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No se investigo con precision la actividad de compra-venta insider esta sesion - calificacion neutral por defecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Calificacion de consenso \"Buy\", pero con objetivo promedio de apenas 316.61 USD (+1.86% sobre el precio actual) - notablemente MAS CONSERVADOR que el escenario adoptado del DCF propio (+33.2%), y de hecho mucho mas cercano a la sensibilidad de WACC alto del propio DCF (-15.2%). Refuerza la cautela sobre la fragilidad de la conclusion adoptada (ver fila 42).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.972972972972973,
+    "recomendacion": "MANTENER - DCF FRAGIL (cambia de signo con un WACC apenas 1.8pp mas alto) Y GANANCIAS EN PICO CICLICO DE MARGENES DE REFINACION, esperar confirmacion de sostenibilidad del margen actual o mejor punto de entrada antes de tratar el margen de seguridad adoptado (+33.2%) como una senial de compra firme",
+    "tesis": "Refinador independiente de escala con excelente asignacion de capital (dividendo cubierto por MPLX, recompras agresivas financiadas por el negocio de refino) y P/E aparentemente barato (10.37x), pero cotizando cerca de maximos historicos justo cuando los margenes de refinacion estan en un pico ciclico (duplicados interanual) - el DCF propio es fragil y cambia de signo con supuestos de WACC razonables, y el consenso de analistas (+1.86%) es mucho mas conservador que el escenario base adoptado (+33.2%). Clasico caso de \"barato en el pico del ciclo\" que exige cautela, no una compra mecanica."
+  }
+}

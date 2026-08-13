@@ -1,0 +1,259 @@
+{
+  "empresa": "Coinbase Global Inc",
+  "ticker": "COIN",
+  "sector": "Servicios Financieros - Mercados de Capital (exchange de criptomonedas regulado)",
+  "fecha_analisis": "46238",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Ingresos diversificandose activamente mas alla del trading: transaccional (fees de compra y venta) sigue siendo la base pero cayendo en peso relativo; ingresos de suscripcion y servicios ya representan 48% de los ingresos netos en Q2 2026 (555.1 millones USD): ingresos de stablecoin (USDC, 292 millones USD, con tenencia promedio en maximos historicos de 20 mil millones USD), blockchain rewards o staking (83 millones USD), interes y comisiones financieras (66 millones USD, ligado a maximos historicos de prestamos DeFi) y otros (114 millones USD). Prediccion de eventos crecio 106% trimestre a trimestre, superando 100 millones USD de ingreso anualizado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat solido construido sobre cumplimiento regulatorio: licencias de transmision de dinero estado por estado en EEUU, programas KYC y AML robustos, y ser empresa publica con divulgacion financiera completa - una inversion que dio fruto cuando la SEC sanciono a varios competidores en 2023 y 2024. Aprox 67% de la actividad de exchange minorista e institucional en EEUU. Marca de confianza fuerte para instituciones que prefieren canalizar flujo por Coinbase en vez de un competidor offshore.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Cuota de mercado en maximos historicos: 10.3% de participacion en volumen de trading cripto global en Q2 2026 (arriba de 9.1% en Q1), tercer trimestre consecutivo de ganancias record de cuota, incluso mientras el volumen absoluto de la industria caia mas de 20%. Pero Robinhood (competidor directo en cripto minorista) crecio ingresos aprox 52% en 2025 contra solo 9% de Coinbase, senal de que la competencia por el cliente minorista se esta intensificando. Binance sigue siendo el mayor exchange global (acceso restringido en EEUU); Kraken compite por el segmento institucional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Moderado: las comisiones de trading han bajado estructuralmente por presion competitiva en toda la industria, pero Coinbase mantiene comisiones mas altas que muchos competidores gracias a su marca de confianza y cumplimiento regulatorio, especialmente entre clientes institucionales y menos sofisticados. Los ingresos de suscripcion y servicios tienen mejor poder de precios al no depender de la elasticidad de comisiones de trading.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Ha usado deuda convertible de bajo cupon (entre 0.50% y 3.625% segun la emision) de forma disciplinada para financiar crecimiento y refinanciar deuda mas cara, mientras mantiene una posicion de caja neta positiva (aprox 2.13 mil millones USD). Sin dividendos, prioriza reinversion en diversificacion de producto (Base, prediccion de eventos, stablecoins) y M&A oportunista.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "El cofundador Brian Armstrong sigue como CEO desde 2012, con propiedad de insiders de aprox 18.63% segun Finviz - alineacion razonable para una empresa publica de este tamano. Se menciono rotacion ejecutiva relevante en el trimestre en la cobertura de resultados de Q2 2026, algo a monitorear pero sin evidencia de un problema de gobernanza mayor.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de doble clase de acciones (Clase A y Clase B, con Clase B de voto multiple concentrado en fundadores e inversionistas tempranos), similar al riesgo de gobernanza ya identificado en META y HOOD - reduce la capacidad de los accionistas minoritarios de influir en decisiones clave.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Transparencia alta para el estandar de la industria cripto: reporta Adjusted EBITDA, metricas operativas detalladas (volumen de trading, cuota de mercado, tenencia de USDC, prestamos DeFi) y ha sido consistentemente la exchange cripto mas transparente y regulada desde su salida a bolsa en 2021 - una ventaja competitiva en si misma frente a exchanges offshore menos transparentes.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Caja de 8.61 mil millones USD vs. deuda total de 6.48 mil millones USD (notas convertibles con cupones bajos entre 0.50% y 3.625% segun la emision, escalonadas entre 2026 y 2031): POSICION DE CAJA NETA de aprox 2.13 mil millones USD, equivalente a aprox -1.41x el Adjusted EBITDA TTM (aprox 1.51 mil millones USD). Deuda a Patrimonio de 0.51x segun Finviz, manejable dado el perfil de bajo cupon de la deuda.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 2.42x (activos corrientes de 17.49 mil millones USD vs. pasivos corrientes de 7.22 mil millones USD) segun Finviz - liquidez solida, aunque el balance de un exchange cripto incluye activos y pasivos de clientes que hay que interpretar con el mismo cuidado que en un broker-dealer tradicional (ver HOOD).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda escalonada en multiples tramos de notas convertibles con vencimientos entre 2026 y 2031 (cupones entre 0.50% y 3.625%); la empresa ha refinanciado activamente tramos mas caros con emisiones nuevas de menor cupon, senal de gestion de deuda disciplinada y acceso solido a mercados de capital.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales de 26.46 mil millones USD incluyen efectivo corporativo, activos cripto propios mantenidos como inversion (aprox 1.47 a 1.99 mil millones USD en el trimestre, sujetos a valuacion de mercado que pasa por resultados), y activos de clientes en custodia. La exposicion directa a cripto propio en el balance genera volatilidad de resultados GAAP no relacionada con el desempeno operativo (ver fila 35).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM 86.35% (estable y alto, tipico de un negocio de plataforma), pero margen operativo TTM de solo 9.86% y margen neto TTM negativo de -15.72% - fuerte compresion frente a 2024 (margen neto 39.29%) por la caida ciclica del mercado cripto en 2025-2026. El margen de Adjusted EBITDA TTM (excluyendo partidas no operativas) es de aprox 24%, mucho mas representativo de la rentabilidad operativa real.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "DuPont TTM: margen neto de -15.72% (negativo por la perdida TTM) multiplicado por rotacion de activos 0.2375x multiplicado por apalancamiento financiero 2.023x da un ROE recalculado de aprox -7.55%, cercano al ROE de -7.85% de Finviz. ROIC tambien negativo (-5.14%, Finviz). Estos numeros reflejan el trimestre de perdidas, no la capacidad de generacion de retorno normalizada del negocio: en anios de ciclo alcista cripto como 2024, el ROE fue ampliamente positivo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos de 0.2375x, mas baja que un negocio tipico de software puro pero mas alta que un broker-dealer tradicional (HOOD, 0.0872x) - refleja que el balance de Coinbase, aunque incluye activos de clientes en custodia, esta menos inflado por ese concepto que el de un broker-dealer regulado como HOOD.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos de 5 anios de 41.24% segun Finviz, pero fuertemente inflado por el ciclo alcista cripto de 2024 (ingresos de 6.56 mil millones USD, casi el doble de 2023) seguido de una moderacion en 2025-2026 - efecto de ciclo de mercado, no de crecimiento organico sostenible, similar al caso de NVDA con el supercycle de IA pero mas extremo por la naturaleza especulativa de los ciclos cripto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Muy inconsistente: Adjusted EBITDA paso de 964 millones USD en 2023 a 3.3 mil millones USD en 2024 (ciclo alcista) a 1.62 mil millones USD en 2025 y un ritmo TTM de aprox 1.51 mil millones USD hacia mediados de 2026 - una de las trayectorias de ganancias mas volatiles de las empresas analizadas en este Dashboard, impulsada casi enteramente por el ciclo de precios y volumen de las criptomonedas.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Diversificacion de ingresos hacia suscripcion y servicios (ya 48% de ingresos y creciendo), expansion de stablecoin (USDC en maximos historicos de tenencia), crecimiento de prediccion de eventos (106% trimestre a trimestre), Base (blockchain propia, actividad de Agentic Finance) y potencial expansion internacional. Entorno regulatorio en EEUU mucho mas favorable de cara a 2026 que en 2021-2023, reduciendo el riesgo regulatorio como freno al crecimiento.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Divergencia grande y volatil: utilidad neta TTM de -987.77 millones USD (perdida) vs. flujo de caja operativo TTM de 2.66 mil millones USD (positivo), con swings trimestrales extremos (flujo operativo de -784.52 millones USD en Q3 2025 seguido de +3065 millones USD en Q4 2025) por cambios en partidas de balance de clientes similares a las de un broker-dealer. La perdida neta GAAP del segundo trimestre de 2026 (359.5 millones USD) se explico en 209.5 millones USD por una baja no realizada en el valor de los activos cripto propios de la empresa, 238.3 millones USD de compensacion basada en acciones, y 52.4 millones USD de gastos de reestructuracion - mientras el Adjusted EBITDA del trimestre fue positivo en 207.8 millones USD, su decimocuarto trimestre consecutivo en positivo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "El FCF TTM reportado (2.66 mil millones USD) esta distorsionado por los mismos swings de partidas de cliente explicados arriba, en particular el salto de 3.07 mil millones USD en Q4 2025. El Adjusted EBITDA TTM (aprox 1.51 mil millones USD) es una base mas estable, aunque excluye la compensacion basada en acciones (238.3 millones USD solo en Q2 2026), que es un costo economico real para los accionistas aunque no sea un desembolso de caja.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex minimo y no desglosado por separado en los estados financieros simplificados (negocio de plataforma tecnologica, liviano en activos fisicos) - la inversion real de crecimiento es en producto (Base, prediccion de eventos, stablecoin) y en compensacion de talento (reflejada en la compensacion basada en acciones), no en activo fijo tradicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Sin dividendos; uso de deuda convertible de bajo cupon para financiar crecimiento y refinanciar deuda mas cara de forma oportunista, manteniendo una posicion de caja neta positiva. Prioriza reinversion en diversificacion de producto sobre devolucion de capital a accionistas, razonable para la etapa de crecimiento y la ciclicidad del negocio.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "EV a EBITDA de 41.85x (sobre una base de EBITDA GAAP deprimida por el ciclo actual, por lo que el multiplo aparenta mas caro de lo que seria sobre una base normalizada de Adjusted EBITDA) y P/FCF de 22.56x. P/E no aplica por la perdida TTM. Sin comparables de sector cargados de forma sistematica en la fila de multiplos - pendiente.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio, con base normalizada dada la extrema ciclicidad del negocio. WACC 19.18% via CAPM: costo de equity 22.0% (Rf 3.5% mas Beta 5 anios 3.36 -uno de los mas altos de las empresas analizadas en este Dashboard- por prima de riesgo 5.5%); costo de deuda pretax estimado 2.5% (notas convertibles de bajo cupon), post-impuestos aprox 2.0%; deuda al 14.1% del capital (deuda total 6.48 mil millones USD, equity de mercado 39.59 mil millones USD). FCF base: no se uso ni la utilidad neta TTM (-987.77 millones USD, perdida distorsionada por una baja no realizada en el valor de cripto propio y compensacion en acciones) ni el FCF operativo TTM reportado (2.66 mil millones USD, distorsionado por swings extremos de partidas de balance de clientes), sino el Adjusted EBITDA TTM (aprox 1.51 mil millones USD, suma de los ultimos 4 trimestres: 432.6 en Q3 2025, 566 en Q4 2025, 303.3 en Q1 2026 y 207.8 en Q2 2026) ajustado por una tasa de impuesto estimada de 21% (aprox 1193 millones USD neto de impuestos). Crecimiento: se descarto el CAGR historico de ingresos de 5 anios (41.24%, Finviz), inflado por el ciclo alcista cripto de 2024, y se uso en su lugar el consenso de analistas de crecimiento de ingresos y EPS a 3 anios (aprox 4.4% a 4.6%, stockanalysis, redondeado a 5%); crecimiento terminal 4%: da un Enterprise Value de aprox 8.49 mil millones USD, mas la caja neta de aprox 2.13 mil millones USD, Valor de Equity de aprox 10.62 mil millones USD, Valor por accion = 10.62 mil millones dividido entre 263.84 millones de acciones = 40.24 USD. Sensibilidad (escenario alcista, no adoptado): usando el Adjusted EBITDA del pico del ciclo alcista de 2024 (3.3 mil millones USD) en vez del TTM como base, con el mismo growth y WACC, el valor por accion sube a aprox 78.37 USD. Incluso en ese escenario alcista, el valor queda muy por debajo del precio de mercado - la conclusion depende mas del beta extremadamente alto (3.36) y el WACC resultante que del supuesto de FCF base o growth.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Con precio actual de 149.37 USD (stockanalysis, 4 de agosto de 2026) vs. valor intrinseco del escenario base (adoptado) de 40.24 USD, el margen de seguridad es de -73.1% - la cifra mas negativa de las empresas analizadas en este Dashboard, incluso mas que HOOD (-64.0%). Bajo el escenario alcista de pico de ciclo (no adoptado, ver fila 41) el margen seria de -47.5%, todavia muy negativo. El precio objetivo promedio de los analistas (aprox 197 a 199 USD, consenso Comprar) sugiere que el mercado esta dispuesto a pagar una prima sustancial sobre lo que un DCF conservador anclado en el beta actual justificaria.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en expansion estructural: adopcion institucional de cripto en aumento, stablecoins ganando terreno como riel de pagos (USDC en maximos historicos), tokenizacion de activos tradicionales, y un entorno regulatorio en EEUU mucho mas favorable de cara a 2026. Pero el TAM inmediato de trading spot sigue siendo ciclico y correlacionado con el sentimiento especulativo del mercado cripto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Moderadas a altas: licencias de transmision de dinero estado por estado y cumplimiento regulatorio son una barrera real (construida durante anios), pero no impiden la entrada de competidores bien capitalizados (Robinhood, OKX expandiendose en EEUU). La marca de confianza y el historial de cumplimiento de Coinbase son mas dificiles de replicar rapido que la licencia en si.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad muy alta (Binance, Kraken, Robinhood, OKX, Gemini) con presion de comisiones estructural; poder de negociacion de clientes alto (cambiar de exchange es relativamente facil); poder de proveedores bajo (no depende de pocos proveedores criticos); amenaza de sustitutos alta (exchanges descentralizados, wallets propias, otros rieles de pago); barreras de entrada moderadas. Entorno competitivo intenso pero Coinbase gana cuota de mercado pese a ello.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Extremadamente ciclica: los ingresos y la rentabilidad estan directamente correlacionados con el volumen de trading y los precios de las criptomonedas, que son altamente especulativos y volatiles. El Adjusted EBITDA vario de 964 millones USD a 3.3 mil millones USD a 1.62 mil millones USD en tres anios consecutivos (2023-2025) - una de las industrias mas ciclicas de las analizadas en este Dashboard.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio en mejora estructural: el entorno regulatorio cripto en EEUU madura de cara a 2026, reduciendo el riesgo de acciones de cumplimiento agresivas como las que enfrentaron competidores en 2023-2024. Aun asi, el marco regulatorio de activos digitales sigue evolucionando y cualquier cambio de administracion o politica podria revertir parte de esta mejora.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Bajo a moderado: operacion con base en EEUU pero con exposicion internacional creciente (mas de 100 paises) que introduce cierta exposicion cambiaria y regulatoria internacional, aunque no es el riesgo central del modelo de negocio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Baja concentracion de clientes (base masiva de usuarios minoristas e institucionales diversificada). Concentracion relevante en la relacion con Circle (emisor de USDC) para el ingreso de stablecoin, que depende de tasas de interes y del tamano de las tenencias de USDC en la plataforma - un ingreso importante (292 millones USD en Q2 2026) sujeto a un solo socio estrategico clave.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo moderado: seguridad cibernetica y custodia de activos digitales (inherente a cualquier exchange cripto), riesgo de disrupcion por finanzas descentralizadas (DeFi) que podrian eventualmente desintermediar exchanges centralizados, y riesgo de ejecucion en la expansion de Base y Agentic Finance.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Baja relevancia directa; el consumo energetico de blockchains proof-of-work (Bitcoin) genera cierta friccion ESG para el ecosistema cripto en general, aunque Coinbase en si misma no mina cripto. El principal tema de gobernanza es la estructura de doble clase de acciones.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Reporte de resultados del tercer trimestre de 2026 (estimados de analistas apuntan a una recuperacion de Adjusted EBITDA hacia aprox 520 millones USD segun proyecciones citadas por TIKR); evolucion de la tenencia de USDC y tasas de interes; continuidad del crecimiento de prediccion de eventos y de Base.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Sin senales especificas de venta masiva de insiders identificadas en esta investigacion (a diferencia de HOOD y OKLO); propiedad de insiders de aprox 18.63% segun Finviz, razonable para una empresa publica de este tamano y anios desde su salida a bolsa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de Compra con precio objetivo promedio entre 196.90 USD (stockanalysis) y 199.30 USD (Finviz) - aprox 32 a 33% sobre el precio actual de 149.37 USD: Cantor Fitzgerald mantiene Sobreponderar con objetivo de 184 USD. Rango de objetivos entre 130 y 230 USD segun cobertura reciente tras el recorte de varios analistas post-resultados de Q2 2026. El consenso alcista contrasta con el DCF propio de este analisis (ver filas 41 y 42), sugiriendo que el mercado y los analistas estan dispuestos a pagar una prima mayor sobre la capacidad normalizada de generar caja de la que sugiere un DCF conservador anclado en el beta actual tan alto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.054054054054054,
+    "recomendacion": "NO COMPRAR - VALORACION MUY EXIGENTE",
+    "tesis": "Coinbase es el exchange cripto regulado dominante en EEUU con un moat real de cumplimiento y confianza, y esta diversificando con exito mas alla del trading puro (suscripcion y servicios ya 48% de ingresos), pero su negocio sigue siendo extremadamente ciclico y su beta tan alto exige una tasa de descuento que ni el escenario de pico de ciclo alcista logra justificar al precio actual - conviene tratarla con la misma cautela de valoracion que HOOD, pese a tener un moat mas solido."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "The Cigna Group",
+  "ticker": "CI",
+  "sector": "Salud - Aseguradora-PBM (Health Services and Pharmacy Benefit Management)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Compania de servicios de salud diversificada con 2 segmentos: Cigna Healthcare (seguro comercial-internacional) y Evernorth Health Services (gestion de beneficios farmaceuticos -PBM- via Express Scripts, farmacia especializada, servicios de cuidado). Ingresos TTM de USD 282.4bn, dominados por el volumen de Evernorth de bajo margen. SALIO completamente del negocio de Medicare Advantage en 2024-2025 (vendido a HCSC por USD 3.7bn) - una diferencia estrategica clave frente a HUM (analizada antes esta sesion), que permanecio en ese negocio pese a la misma presion de costos del sector.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat MODERADO-solido via la escala de Evernorth como uno de los tres grandes PBM de EEUU (junto a CVS Caremark y OptumRx de UnitedHealth) - un oligopolio genuino que controla la gran mayoria del mercado de gestion de beneficios farmaceuticos, ademas de relaciones establecidas con empleadores en Cigna Healthcare.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion fuerte como uno de los tres grandes PBM del pais (Evernorth-Express Scripts) mas un negocio solido de seguro de salud comercial.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios MODERADO: el modelo PBM genera poder de negociacion real con fabricantes de medicamentos por escala, aunque el escrutinio politico-regulatorio de las practicas de PBM (fila 49) es un viento en contra real y activo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO David Cordani (tenure largo) - tomo la decision ESTRATEGICA de salir completamente de Medicare Advantage (venta a HCSC, USD 3.7bn) en vez de permanecer luchando contra la misma presion de costos del sector que esta afectando severamente a HUM - una decision que en retrospectiva luce prescente dado el deterioro posterior del negocio de MA en el sector.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap de salud sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "GOTCHA: la inversion en VillageMD (cadena de atencion primaria) genero una perdida de inversion de USD 2.7bn en FY2024 - un traspie real de asignacion de capital, aunque ya reconocido-corregido (contribuyo directamente a la decision de simplificar el portafolio saliendo de Medicare Advantage, fila 33).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 2.02x (deuda total USD 31.88bn, caja USD 6.30bn, EBITDA USD 12.68bn) - moderado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "GOTCHA: razon corriente de solo 0.85 (por debajo de 1.0), razon rapida 0.69 - la liquidez MAS AJUSTADA de las aseguradoras-empresas de servicios de salud analizadas esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance razonablemente limpio, sin distorsion mayor de M&A-patrimonio detectada esta sesion mas alla de la perdida de VillageMD ya documentada (fila 20).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes BAJOS en terminos absolutos: bruto 9.14%, operativo 3.90%, neto 2.27% - PERO esto es en gran parte estructural, no una senal de deterioro: el volumen masivo de ingresos de distribucion farmaceutica de bajo margen de Evernorth (similar en naturaleza al modelo de MCK, ya analizada esta sesion) diluye los margenes consolidados sin reflejar necesariamente mala rentabilidad economica real.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 16.76% y ROIC 13.39% - AMBOS SOLIDOS pese a los margenes bajos (fila 27), el mismo patron DuPont de \"margen bajo x rotacion alta\" ya visto en MCK esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos ALTA, consistente con la mezcla de ingresos de distribucion PBM de alto volumen (fila 27).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios FUERTE (12.10%, calculo propio FY2021-FY2025), aunque impulsado significativamente por el volumen de Evernorth de bajo margen - mismo matiz de \"crecimiento de ingresos no completamente representativo de crecimiento de rentabilidad\" ya documentado con MCK.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA: volatilidad real de utilidad neta en FY2024 (caida a USD 3.4bn desde USD 5.2bn en FY2023) causada por la perdida de inversion de VillageMD (USD 2.7bn, fila 20) mas presion de costos medicos en Medicare Advantage antes de la salida completa del negocio - a diferencia de HUM (compresion de margen ESTRUCTURAL Y CONTINUA), aqui la caida fue mayormente un evento de UN SOLO ANIO ya superado tras la simplificacion estrategica del portafolio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "GOTCHA-CATALIZADOR MAYOR (contraste directo con HUM): Cigna SALIO completamente del negocio de Medicare Advantage (venta a HCSC por USD 3.7bn, cierre esperado 1T2025) - eliminando exactamente el riesgo regulatorio-de costos que esta devastando a HUM (calificaciones Star, compresion de margen MA). Una decision estrategica de reduccion de riesgo genuina, contrastada directamente con la decision de HUM de permanecer en el negocio.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias razonable una vez excluida la perdida no recurrente de VillageMD de FY2024 (fila 32).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "GOTCHA-DATO: el FCF Yield reportado (12.68%) es INUSUALMENTE ALTO comparado con el resto del Dashboard, probablemente inflado por beneficios de capital de trabajo de un solo periodo relacionados al desmantelamiento del negocio de Medicare Advantage - se trato con cautela, usando una base de FCF mas conservadora (utilidad neta TTM) para el DCF en vez del FCF derivado del yield reportado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex no confirmado con precision esta sesion; moderado, tipico de una aseguradora-PBM.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital razonable: dividendo con yield 2.29% y payout 25.80%, aunque la perdida de VillageMD (fila 20) es una mancha real en el historial de asignacion de capital, ya corregida via la simplificacion del portafolio.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "GOTCHA POSITIVO: multiplos EXTREMADAMENTE BARATOS, entre los mas bajos de TODO el Dashboard: P/E TTM 11.51x, forward 8.78x, EV/EBITDA 7.61x - refleja probablemente escepticismo persistente del mercado post-crisis de 2024 (VillageMD, MA) mas el overhang regulatorio de PBM (fila 49), no necesariamente un deterioro fundamental del negocio actual.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO IMPORTANTE: el chequeo de convergencia con el beta literal (0.29-0.32) revelÃ³ una brecha ENORME (multiplo terminal implicito de mas de 40x vs el P/FCF real de mercado de solo 7.89x, un ratio de mas de 5x) - la brecha mas grande de la sesion. Sin embargo, dado que el P/FCF real de mercado esta probablemente distorsionado por el FCF Yield inflado ya documentado (fila 36), se uso en su lugar el P/E real de mercado (11.51x, mas confiable) como referencia de convergencia, lo cual aun asi exigia un beta sustituto muy alto (~2.0) para converger algebraicamente - un nivel implausible para una aseguradora diversificada. Se opto por un enfoque de JUICIO RAZONADO en vez de una sustitucion algebraica pura: beta sustituto de 1.20 (reflejo de riesgo regulatorio-politico real del sector PBM, fila 49) MAS una prima de riesgo cualitativa de +1.5pp (mismo criterio ya aplicado a HCA-WFC-WMB-MPC-BABA). WACC resultante 9.43% (Ke 11.6% con beta 1.20 mas prima; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~3.56%; estructura de capital a valor de mercado: Equity USD 76.6bn, Deuda USD 31.88bn). FCF base = USD 6.416bn (utilidad neta TTM, usada como proxy conservador dado el FCF Yield reportado poco confiable). Crecimiento 5 anios = 6%; terminal 2.5%. ADVERTENCIA: este DCF tiene incertidumbre de estimacion ELEVADA dada la calidad de datos inusual encontrada (FCF Yield-brecha de convergencia atipicos) - tratar el resultado con cautela proporcional. Valor Intrinseco: USD 323.20/accion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: +11.66% (precio actual USD 289.45 vs valor intrinseco USD 323.20) - positivo, aunque de un DCF con incertidumbre de estimacion elevada (fila 41). Consenso de ~15-26 analistas (Strong Buy, objetivo promedio USD 361.52-379.07, +25% a +32% de alza) diverge SUSTANCIALMENTE en direccion mas optimista - uno de los consensos mas alcistas de todo el Dashboard, sugiriendo que Wall Street ve los multiplos actuales (fila 40) como una oportunidad genuina de valoracion, no como una senal de deterioro fundamental.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en crecimiento estructural: gestion de beneficios farmaceuticos (envejecimiento poblacional, nuevas terapias de alto costo) y seguro de salud comercial.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas via la escala de PBM (oligopolio de tres jugadores grandes controlando la mayoria del mercado de EEUU) - un moat de escala genuino y dificil de replicar.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: oligopolio genuino de PBM (Evernorth-Express Scripts, CVS Caremark, OptumRx controlan la gran mayoria del mercado de EEUU) - un panorama competitivo concentrado y favorable en esa dimension del negocio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad BAJA - demanda de servicios de salud-farmacia es mayormente no discrecional.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "GOTCHA-RIESGO REGULATORIO REAL Y ACTIVO: la industria de PBM enfrenta escrutinio politico-regulatorio genuino y en curso (propuestas de reforma de precios de medicamentos, investigaciones de la FTC-Congreso sobre practicas de PBM, posibles mandatos de reestructuracion de la industria) - un overhang sectorial real que probablemente contribuye a los multiplos ya muy baratos (fila 40).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria MODERADA: algo de negocio internacional via Cigna Healthcare International, aunque predominantemente enfocado en EEUU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada entre empleadores (seguro comercial), clientes de PBM, y miembros individuales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Tecnologia-analitica de datos en el negocio de PBM-gestion de cuidado, aunque no es un diferenciador central tan fuerte como en otras empresas Salud de la sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG-social MODERADO-elevado: la industria de PBM enfrenta escrutinio social-politico real sobre practicas de precios de medicamentos-transparencia, una categoria de riesgo reputacional relacionada al tema mas amplio de acceso-costo de salud ya visto con HCA-HUM esta sesion.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: continuidad de la ejecucion post-salida de Medicare Advantage; desarrollos regulatorios de PBM a monitorear (fila 49).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-CONTEXTO ADICIONAL: la decision de Cigna de vender su negocio de Medicare Advantage a Health Care Service Corporation (HCSC) por USD 3.7bn (anunciada tras un FY2024 dificil que incluyo la perdida de VillageMD de USD 2.7bn y un ratio de perdida medica de 87.9% en el 4T2024, muy por encima del 82.2% del ano anterior) representa un caso de manual de gestion PROACTIVA de riesgo - contrasta directamente con HUM, que opto por permanecer en el mismo negocio y absorber el impacto total de la crisis de calificaciones Star-compresion de margen documentada en esa ficha.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~15-26 analistas: calificacion STRONG BUY, objetivo promedio USD 361.52-379.07 (+25% a +32% de alza) - uno de los consensos mas alcistas de todo el Dashboard, con un rango de objetivos de USD 305 (Wells Fargo, mas-2026) a USD 410 (Stephens & Co.).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.2972972972972974,
+    "recomendacion": "COMPRAR - compania de servicios de salud diversificada (PBM via Evernorth-Express Scripts, uno de solo tres grandes del pais, mas seguro comercial via Cigna Healthcare) que tomo la decision ESTRATEGICA de salir completamente de Medicare Advantage en 2024-2025, eliminando exactamente el riesgo que esta devastando a HUM; ROE-ROIC solidos (16.76%-13.39%) pese a margenes bajos estructurales del modelo PBM; multiplos EXTREMADAMENTE baratos (P/E 11.51x, de los mas bajos del Dashboard) probablemente reflejando escepticismo residual post-crisis 2024 (perdida de VillageMD) mas el overhang regulatorio real de PBM; el DCF (con un enfoque de juicio razonado dado un chequeo de convergencia de beta atipico y datos de FCF poco confiables, tratado con cautela) da un margen de seguridad positivo (+11.66%), notablemente menos optimista que un consenso de analistas Strong Buy (+25% a +32%) - uno de los mas alcistas del Dashboard",
+    "tesis": "Un PBM de escala oligopolica que tomo la decision prescente de salir de Medicare Advantage antes de la crisis del sector, cotizando a multiplos entre los mas baratos del Dashboard con un consenso de analistas fuertemente alcista, pese a cargar cicatrices recientes reales (perdida de VillageMD) y el overhang regulatorio activo de la industria PBM."
+  }
+}

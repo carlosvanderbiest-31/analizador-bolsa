@@ -1,0 +1,259 @@
+{
+  "empresa": "Analog Devices, Inc.",
+  "ticker": "ADI",
+  "sector": "Tecnologia - Semiconductores Analogicos y de Senal Mixta",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Semiconductores analogicos y de senal mixta, diversificados en industrial (~40% de ingresos), automotriz, comunicaciones y consumo; escala reforzada por la consolidacion via M&A de Linear Technology (2017) y Maxim Integrated (2021).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat fuerte - portfolio analogico-senal mixta muy amplio (aunque menor escala que TXN), switching costs reales en disenios embebidos de largo ciclo de vida, escala reforzada por la consolidacion de Linear Tech-Maxim.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Recuperacion AMPLIA Y ACELERADA en todos los segmentos - ingresos record en el 2T FY2026 (USD3.62bn, +37% interanual), Industrial +56%, Comunicaciones +79%, Automotriz +2% (BMS de EVs volvio a crecer tras una caida prolongada), guia del 3T continua fuerte (USD3.9bn +/- USD100M).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Margen bruto 58.62%, operativo 32.97% - solidos y en expansion con la recuperacion de volumen.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Dividendo con historial largo de aumentos consecutivos, pero payout ratio 85.22% sobre utilidad neta -alto, aunque no supera el 100% como TXN-; historial de M&A grande (Linear Tech USD14.8bn 2017, Maxim USD21bn 2021) que consolido el balance con goodwill significativo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "No investigado en profundidad en esta sesion (pendiente); propiedad interna baja (0.27%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin accionista de control, propiedad institucional alta (90.95%), sin conflicto de gobernanza relevante identificado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion trimestral detallada por segmento de mercado final (industrial-automotriz-comunicaciones-consumo), guia especifica y consistentemente superando expectativas recientemente.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda neta ~USD6.25bn, Debt/Equity 0.23-0.26x - moderado y manejable, aunque el patrimonio esta inflado por goodwill de M&A (ver fila de calidad de activos).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.75x, prueba acida 1.23-1.34x - liquidez adecuada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "No verificado en detalle en esta sesion (pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles ~USD34.23bn representan 71% de activos totales - la proporcion mas alta vista en el cluster de semiconductores del Dashboard, legado de las adquisiciones de Linear Technology (2017) y Maxim Integrated (2021) a multiplos de premium; ROE-ROIC estructuralmente deprimidos por este denominador de patrimonio inflado, no necesariamente por mala economia unitaria del negocio subyacente.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 58.62%, operativo 32.97%, neto 26.01% - solidos y en expansion con la recuperacion de volumen, similar en nivel a TXN.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 9.64-9.81%, ROIC 8.09-9.04% - MODESTOS, apenas en linea o ligeramente por debajo del WACC (~9.9%), spread NEUTRO a levemente negativo - distorsionado por el patrimonio inflado de M&A (ver fila de calidad de activos), pero de cualquier forma no genera el mismo margen de creacion de valor claro que TXN (ROIC 19-25%) o el resto del cluster de semiconductores.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja (~0.27x, distorsionada por el balance inflado con goodwill de M&A), ciclo de conversion de efectivo mejorando con la recuperacion.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR ingresos 5 anios 14.49% (Finviz, incluye el impulso inorganico de Maxim 2021), crecimiento reciente en fuerte aceleracion (+37% interanual 2T FY2026, ingresos record) - recuperacion mas robusta y de base mas amplia que TXN.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Recuperacion AMPLIA en TODOS los segmentos simultaneamente (industrial, automotriz, comunicaciones, consumo todos creciendo) - patron mas solido y menos desigual que TXN (donde automotriz seguia rezagado) u ON (donde la recuperacion era mas fragil).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Recuperacion de BMS (gestion de baterias) de EVs tras una caida prolongada, demanda de centros de datos de IA como impulso adicional, comunicaciones acelerando con fuerza (+79%); guia continua de crecimiento por encima de estacionalidad.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM USD5.11bn vs utilidad neta TTM implicita ~USD3.28bn (market cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD4.57bn (margen FCF ~36% sobre ingresos), creciendo con fuerza (+38.61% interanual TTM) de forma consistente en los ultimos periodos, sin lumpiness severa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM USD541M (~4.3% de ingresos), moderado y relativamente estable, sin el ciclo de expansion masiva de capacidad que tuvo TXN (Sherman).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo con payout alto (85.22%) pero sostenible dado el FCF fuerte, recompras historicas, M&A de consolidacion ya mayormente completado (sin adquisiciones grandes recientes en esta sesion).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 57.13x (distorsionado por utilidad neta aun en recuperacion), Forward P/E 25.48x, PEG 0.83, EV/EBITDA 31.55x, P/FCF 41.02-42.19x - exigentes, similar en magnitud a TXN (47.17x) aunque algo menos extremo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, WACC 9.9% CAPM literal -beta 1.21 no degenerado-, crecimiento con fade 15%->7% en 5 anios reflejando la recuperacion amplia y acelerada ya en curso, FCF base TTM, terminal 4%): USD210.53/accion, MS -45.2%. Escenario B (optimista, growth 25%->12%, no adoptado): USD289.20/accion, MS -24.8% - ambos escenarios negativos, el Escenario B se acerca al piso -20% de vender sin cruzarlo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-45.2% con el Escenario A adoptado - negativo pero MENOS extremo que TXN (-61.3%), reflejo de que la recuperacion de ADI ya es mas amplia-confirmada en los resultados reportados (no solo guiada a futuro).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de semiconductores analogicos-senal mixta grande y en expansion estructural, con multiples vectores de crecimiento simultaneos (industrial, automotriz-EV, comunicaciones 5G-datacenter, IA).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas - escala reforzada por consolidacion via M&A (Linear Tech, Maxim), decadas de relaciones de disenio embebido, portfolio amplio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad moderada (Texas Instruments -ya en el Dashboard-, Infineon, STMicroelectronics, ON Semiconductor -ya en el Dashboard- como competidores en distintos nichos); poder de negociacion del comprador bajo-moderado (base de clientes diversificada); poder de proveedores bajo-moderado; amenaza de sustitutos baja; barreras de entrada altas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Genuinamente ciclico (mismo patron que TXN-ON), aunque la recuperacion actual parece mas robusta y de base mas amplia que ambos comparables ya analizados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo bajo-moderado, exposicion limitada a controles de exportacion especificos, no cuantificado en detalle en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion internacional significativa, riesgo cambiario tipico de una tecnologica global de este tamano.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada entre industrial-automotriz-comunicaciones-consumo, sin concentracion de cliente unico identificada en esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo bajo - semiconductores analogicos con ciclos de vida de producto largos y switching costs altos, similar al perfil de bajo riesgo tecnologico de TXN.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximos resultados trimestrales - clave para confirmar si la guia de crecimiento por encima de estacionalidad para el 3T FY2026 (USD3.9bn +/- USD100M) se cumple.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion (pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso 'Buy' fuerte (recomendacion 1.53 Finviz), objetivo promedio USD462.57 (+20.3% de alza) - en direccion OPUESTA al DCF propio, aunque con divergencia de magnitud moderada.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4054054054054053,
+    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoracion exigente) - Score Total 3.41/5, Margen de Seguridad -45.2% (Escenario A). Comparable directo de TXN con una recuperacion AUN MAS AMPLIA Y CONFIRMADA (ingresos record, crecimiento simultaneo en todos los segmentos: Industrial +56%, Comunicaciones +79%, Automotriz volviendo a crecer), lo que deja un margen de seguridad MENOS negativo que TXN (-45.2% vs -61.3%). PERO: el balance esta mucho mas cargado de goodwill de M&A (71% de activos totales, la proporcion mas alta del cluster) que deprime estructuralmente el ROIC a niveles apenas en linea con el WACC (~9.9%) - unico caso del cluster junto con ON sin spread de creacion de valor claro. Escenario B optimista (growth 25%->12%, no adoptado) da -24.8%, acercandose al piso -20% de vender sin cruzarlo - el caso mas cercano a fair value de todo el cluster de semiconductores hasta ahora. Consenso de analistas (objetivo +20.3%) en direccion opuesta al DCF.",
+    "tesis": "El comparable directo de Texas Instruments en semiconductores analogicos, con una recuperacion mas amplia y ya confirmada en resultados record en todos sus mercados finales, cotiza a multiplos exigentes que dejan el margen de seguridad menos negativo de todo el cluster de semiconductores, aunque su balance fuertemente cargado de goodwill de M&A deprime estructuralmente sus retornos sobre capital a niveles apenas en linea con su costo de capital."
+  }
+}

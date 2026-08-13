@@ -1,0 +1,259 @@
+{
+  "empresa": null,
+  "ticker": null,
+  "sector": null,
+  "fecha_analisis": null,
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Modelo de dos vias: (1) QCaaS - acceso a sistemas via Amazon Braket, Azure Quantum y Google Cloud (unica quantum pura en las tres nubes); (2) venta directa de sistemas y contratos gubernamentales (AFRL 54.5M mas 21.1M USD, ARLIS, elegibilidad MDA SHIELD techo 151 mil millones USD). Mix Q2 2026: aprox 60% comercial-40% gobierno, aprox 50% internacional, aprox 25% multi-producto tras adquisiciones (networking, sensores, QKD). Ingresos reales y diversificandose, pero base aun pequena (TTM 246.5M USD).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat tecnologico genuino: trapped-ion con fidelidad de puerta 2-qubit de 99.99% (lider del sector), 900+ patentes tras adquirir ID Quantique. Tesis de \"menos qubits pero mas fidelidad\" reduce el overhead de correccion de errores. Tras SkyWater (jul-2026) es la unica quantum company con foundry propia acreditada por el Pentagono (DMEA Category 1), terminando la dependencia de Infineon. Moat real pero no probado aun a escala comercial rentable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider claro entre las quantum companies puras cotizadas en EEUU por ingresos y capitalizacion (IONQ mayor que RGTI mayor que QBTS, con margen amplio: Q2 2026 ingresos IONQ 80.1M USD vs RGTI aprox 5.1M USD vs QBTS aprox 3.1M USD). Pero nuevo rival directo en trapped-ion: Quantinuum (IPO jun-2026, 1.68 mil millones USD) con procesador Helios y mejor ratio de codificacion qubits logicos-fisicos (2 a 1).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios bajo: negocio deep-tech pre-escala, ingresos dependientes de contratos especificos (gobierno, hyperscalers) y grants, sin evidencia de pricing power demostrado en mercado abierto.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "M&A extremadamente agresivo: 7+ adquisiciones en aprox 2 anios (Qubitekk, ID Quantique, Oxford Ionics 1.075 mil millones USD, Lightsynq aprox 306.2M USD, Capella Space, Vector Atomic, SkyWater 1.8 mil millones USD jul-2026), financiado mayormente con emision de acciones IonQ - dilucion fuerte y recurrente. Racional estrategico coherente (integracion vertical, patentes, networking) pero sin track record aun de que estas adquisiciones generen retorno economico probado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership del CEO Niccolo de Masi modesto en terminos relativos (aprox 3.3M acciones combinadas directas e indirectas sobre 373.27M en circulacion, menos de 1%). Compensacion exacta no verificada esta sesion. La dilucion agresiva reciente (ATM 372.6M USD, oferta 977M USD, oferta 2 mil millones USD con warrants strike 155 USD) financia crecimiento pero diluye a accionistas existentes de forma sustancial.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes, un voto por accion, sin control fundador tipo super-voto. Mayor bloque institucional historico ha sido NEA (New Enterprise Associates), diluido por las sucesivas emisiones de capital.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion activa con inversionistas: reporta metricas ajustadas (EBITDA ajustado, RPO +297% interanual), guia elevada tras resultados (FY2026 ingresos 280-290M USD). Pero cifras GAAP extremadamente ruidosas por revaluacion mark-to-market de warrants (cargo no-caja de 1.6 mil millones USD en 2T 2026 solo), lo que complica la lectura directa de los estados financieros GAAP.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "EBITDA profundamente negativo (ajustado -120.3M USD en 2T 2026 solo) hace que Deuda Neta/EBITDA no sea un ratio significativo. Sin embargo la deuda total es baja (aprox 54.5M USD) frente a una caja e inversiones de aprox 2.0 a 3.0 mil millones USD - balance con caja neta amplia, el apalancamiento NO es el riesgo aqui.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Liquidez muy alta: caja y equivalentes 1235.7M USD mas inversiones corto plazo 883.24M USD mas inversiones largo plazo aprox 840M USD = aprox 3.0 mil millones USD al 30-jun-2026 (previo al cierre de SkyWater). Post-cierre de SkyWater (31-jul-2026, 1.8 mil millones USD) la posicion pro-forma baja a aprox 2.0 mil millones USD - todavia muy solida frente al burn rate actual.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda total baja (aprox 54.5M USD) sin estructura compleja de vencimientos identificada en las fuentes consultadas esta sesion - no se identificaron notas convertibles significativas, a diferencia de otras empresas de crecimiento del Dashboard (SHAZ, CRWV).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance con probable dominancia de goodwill-intangibles tras la cadena de adquisiciones pagadas mayormente en acciones (SkyWater 1.8 mil millones USD, Oxford Ionics 1.075 mil millones USD, Lightsynq aprox 306.2M USD, entre otras) - cifra exacta de goodwill no verificada esta sesion, pero la magnitud de las transacciones sugiere que una porcion significativa del balance no es efectivo puro ni activos operativos tangibles.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes GAAP profundamente negativos y no representativos: margen neto TTM implicito de aprox -553% (perdida neta TTM 1364M USD sobre ingresos TTM 246.5M USD), fuertemente distorsionado por el cargo no-caja de revaluacion de warrants Serie B (-1.6 mil millones USD en 2T 2026 solo). Incluso excluyendo ese ruido, la perdida operativa-EBITDA ajustado sigue siendo profundamente negativa (guia FY2026 EBITDA ajustado -310 a -330M USD) - no es solo un artefacto contable, hay perdida operativa real en la fase actual de escalamiento.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE y ROIC profundamente negativos - destruccion de valor contable en la fase actual, esperada y consistente con una empresa deep-tech invirtiendo agresivamente antes de alcanzar escala rentable. No comparable de forma significativa contra el costo de capital todavia.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja: balance dominado por caja, inversiones de corto-largo plazo y goodwill-intangibles de M&A, no por activos operativos productivos a escala. Ciclo de conversion de efectivo no verificado con precision esta sesion.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento de ingresos excepcional: FY2023 22.04M USD, FY2024 43.07M USD (+95.4%), FY2025 130.02M USD (+201.9%), TTM 246.47M USD (+370.6%). Quinto trimestre consecutivo de resultados record (2T 2026: 80.1M USD, +287% interanual). Mezcla de crecimiento organico real (contratos, expansion cloud) y contribucion inorganica de las adquisiciones recientes - no esta desglosado con precision que porcion es organica pura.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Tendencia de crecimiento consistentemente ascendente en los ultimos 5+ trimestres, sin bache aparente - pero sobre una base todavia pequena y con cifras GAAP muy volatiles por el ruido contable de warrants. Guia FY2026 elevada (280-290M USD) tras el reporte de 2T 2026 refuerza la consistencia de la tendencia de negocio subyacente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Fuentes de crecimiento futuro identificables y diversas: roadmap tecnico propio (1600 qubits logicos para 2028, 40000-80000 para 2030), elegibilidad para competir por task orders bajo SHIELD del MDA (techo 151 mil millones USD, sin garantia de conversion), RPO +297% interanual, nuevos productos de seguridad cuantica (ClavisXG Multiplex), y nuevos MOUs (Anduril, Sandia National Labs, 2T 2026).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM -452.37M USD vs perdida neta TTM -1364M USD - la mayor parte de la brecha es el cargo no-caja de revaluacion de warrants (aprox 1.6 mil millones USD en 2T 2026 solo), pero el OCF negativo en si ya refleja quema de caja operativa real, no es solo un artefacto contable como en VST-COIN. Calidad de ganancias debil en ambas direcciones (GAAP y caja).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM -483.87M USD (OCF -452.37M USD menos capex -31.50M USD), empeorando periodo a periodo: FY2023 -92.51M USD, FY2024 -123.68M USD, FY2025 -299.60M USD, TTM -483.87M USD. La quema de caja se esta ACELERANDO, no estabilizando - guia propia de EBITDA ajustado FY2026 (-310 a -330M USD) confirma que no se espera un punto de inflexion cercano.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM aprox 31.50M USD, mayoritariamente de CRECIMIENTO (nuevos sistemas cuanticos Tempo/Tempo II en desarrollo, expansion de laboratorios I+D), no de mantenimiento de activos existentes. Tras el cierre de SkyWater Technology (31-jul-2026, aprox 1.8bn USD), el capex subira de forma material por la fundicion de semiconductores DMEA Trusted adquirida - empresa en fase de escalamiento de capacidad, no de reemplazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Sin dividendos ni recompras (esperable en esta etapa pre-rentabilidad). Uso de capital dominado por M&A transformacional financiado mayormente con acciones: Oxford Ionics aprox 1.07bn USD (cerrada sep-2025, expertise adicional de trapped-ion) y SkyWater Technology aprox 1.8bn USD (cerrada 31-jul-2026, integracion vertical con fundicion propia). Financiamiento adicional via ATM: 16.04M acciones vendidas por aprox 372.6M USD en 2025 (programa terminado mar-2025). Acciones en circulacion +50% interanual (261.6M jun-2025 a 373.27M ago-2026) - dilucion agresiva y sostenida; penalizado pese a que el M&A tiene racional estrategico defendible.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E, EV/EBITDA y P/FCF no significativos (utilidad neta, EBITDA ajustado y FCF todos negativos). Unico multiplo informativo es EV/Ventas: capitalizacion aprox 16.58bn USD sobre ingresos TTM estimados aprox 246M USD (aprox 67x TTM, o aprox 57-59x sobre el punto medio del guidance FY2026 standalone de 280-290M USD) - multiplo extremo incluso para una empresa de hipercrecimiento, refleja que el precio ya descuenta anios de ejecucion exitosa.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "NO se calculo Valor Intrinseco (DCF) - decision metodologica explicita, mismo criterio que OKLO (pre-ingresos) y CRWV (con ingresos pero sin ruta de FCF positivo visible). A diferencia de OKLO, IonQ SI tiene ingresos reales y de crecimiento explosivo (+287% YoY en 2T 2026), pero el FCF TTM es profundamente negativo (aprox -483.87M USD) y, a diferencia de CRWV (donde analistas independientes al menos proyectan FCF positivo para 2029), IonQ no tiene ningun horizonte de rentabilidad guiado por la propia gerencia ni estimado por consenso independiente. Forzar un DCF exigiria asumir sin base solida: el ritmo y momento de la conversion a rentabilidad, el resultado de la integracion de dos M&A transformacionales apenas cerradas (Oxford Ionics sep-2025, SkyWater 31-jul-2026, esta ultima con menos de una semana de integracion al momento del analisis), y cual arquitectura de qubit (trapped-ion vs superconductora vs otras) terminara dominando comercialmente.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "No aplica - al no calcularse un Valor Intrinseco (DCF) confiable (ver fila 41), no hay un Margen de Seguridad numerico defendible. Referencia informativa (no valor intrinseco): caja y equivalentes mas inversiones aprox 3.0bn USD al 30-jun-2026 (aprox 2.0bn USD pro forma tras el cierre de SkyWater), sobre 373.27M acciones en circulacion, da un piso de caja de aprox 5.4 a 8.0 USD por accion frente al precio de mercado de aprox 44.43 USD - la brecha completa es el valor que el mercado asigna a la opcionalidad de la tesis de computacion cuantica, igual que el criterio ya usado en OKLO.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado emergente con dispersion EXTREMA entre fuentes: proyecciones para 2035 van desde aprox 14bn a 66bn USD segun la firma (Market Research Future, Precedence Research, Transparency Market Research, MarketsandMarkets), mientras que Roots Analysis proyecta hasta 198bn USD para 2040 partiendo de solo aprox 2.55bn USD en 2026. The Quantum Insider estima hasta 1 billon USD de impacto economico total (no ingresos de mercado directo) para 2035. La dispersion tan amplia entre fuentes es en si misma evidencia de que el TAM real depende de cuando (y si) la ventaja cuantica comercial se materialice a escala - no hay consenso.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras muy altas y en aumento: capital I+D intensivo (perdidas anuales de cientos de millones USD para mantenerse en la frontera tecnologica), talento PhD en fisica cuantica muy escaso, portafolio de patentes de trapped-ion reforzado por Oxford Ionics, y desde 31-jul-2026 estatus de fundicion DMEA Categoria 1A Trusted (SkyWater) - certificacion de defensa de EEUU que muy pocos competidores pueden igualar. Riesgo de nuevos entrantes bajo en el corto plazo, pero riesgo de sustitucion por otra arquitectura de qubit (ver fila 52) permanece abierto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad ALTA entre jugadores bien financiados con arquitecturas distintas: superconductores (IBM, Google, Rigetti - lideran en conteo bruto de qubits), trapped-ion (IonQ, Quantinuum - mayor fidelidad y conectividad qubit-a-qubit, gate speed mas lento), y otras (D-Wave annealing, fotonica). Amenaza de sustitutos: alta, ninguna arquitectura ha demostrado ventaja cuantica comercial sostenida a escala. Poder de negociacion de proveedores: REDUCIDO tras SkyWater (fundicion propia). Poder de negociacion de clientes: en aumento, clientes hiperescaladores (AWS-Azure-Google) y gobierno tienen alternativas multiples via los mismos canales de nube. Nuevos entrantes: barrera de capital alta pero flujo constante de startups bien financiadas (ver TAM disperso en fila 44).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "No es ciclica en el sentido tradicional (no depende de un commodity o del ciclo economico general), pero si esta sujeta a un ciclo de sentimiento-financiamiento propio del sector deep-tech pre-comercial: el apetito de capital por acciones de computacion cuantica ha mostrado swings extremos (Rigetti +5700% en 12 meses, IonQ +712%), lo que hace a la accion muy sensible a cambios de sentimiento de mercado sobre IA-cuantica en general, mas alla de los fundamentales propios de la empresa.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo mixto: exposicion significativa a contratos y financiamiento gubernamental de EEUU (DARPA, AFRL, y ahora estatus de fundicion DMEA Trusted via SkyWater) que podria beneficiarse de politicas de apoyo a tecnologia cuantica nacional (National Quantum Initiative), pero que tambien depende de la continuidad de ese apoyo politico-presupuestario. Riesgo adicional de controles de exportacion dada la sensibilidad de seguridad nacional de la tecnologia cuantica y semiconductores, similar en espiritu al riesgo geopolitico ya documentado en ASML.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria en aumento tras la adquisicion de Oxford Ionics (con base en Reino Unido, GBP) - operaciones internacionales ya representan aprox 50% de los ingresos del 2T 2026 (subiendo desde aprox 35% en el 1T 2026). No es el riesgo dominante de la tesis, pero ya no es despreciable como en etapas previas de la empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion moderada-alta: aprox 60% de ingresos comerciales y aprox 40% de gobierno-instituciones de investigacion (2T 2026). La distribucion via tres canales de nube (AWS Braket, Azure Quantum, Google Cloud Marketplace) diversifica el ACCESO pero no necesariamente la concentracion de INGRESOS, ya que un numero relativamente pequenio de contratos grandes (multiproducto empresarial y gubernamental) puede dominar el total en cualquier trimestre dado - patron similar en espiritu (aunque menos extremo) al riesgo de cliente unico ya documentado en CRWV-ORCL.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico MAXIMO de todo el Dashboard hasta ahora: la arquitectura ganadora de computacion cuantica sigue completamente indefinida. IonQ (trapped-ion, alta fidelidad, gate speed mas lento) compite contra IBM-Google-Rigetti (superconductores, mas qubits brutos, mas cercanos a la manufactura de chips existente) y Quantinuum-Microsoft (avances recientes en qubits logicos con tasas de error 800 veces menores). Ademas del riesgo de arquitectura, existe el riesgo mas fundamental de que la \"ventaja cuantica\" comercial a escala tome mucho mas tiempo del que el mercado esta pagando hoy, o que la disrupcion venga de un enfoque hoy no dominante.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo en terminos relativos: negocio de tecnologia con huella ambiental minima (sin manufactura pesada tradicional), aunque la integracion de la fundicion de semiconductores SkyWater podria introducir consideraciones ambientales-regulatorias de manufactura que la empresa no tenia antes. Sin senales de controversias de gobernanza mas alla de la dilucion agresiva ya documentada (fila 38) y la estructura accionaria de clase unica (fila 19, ya calificada favorablemente).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Integracion de SkyWater Technology (cerrada 31-jul-2026) en curso - la propia empresa senialo que aun no puede dar guidance combinado de ingresos-EBITDA por operar como entidad combinada por menos de una semana al momento de reportar el 2T 2026. Resultados del 3T 2026 seran la primera lectura real de la entidad integrada. Roadmap tecnico a vigilar: chip de 256 qubits (cronograma de disenio a primer silicio comprimido de 9 a aprox 2 meses gracias a la fundicion propia) y avance del sistema Tempo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Sin senales de venta discrecional relevante detectadas: las transacciones reportadas del CEO Niccolo de Masi en 2026 (aprox 391.9K USD en jun-2025 citado en fuentes, y 16120 acciones en jun-2026 a un precio promedio de 56.21 USD) fueron explicitamente para cubrir retencion de impuestos por vesting de RSUs, no ventas discrecionales de mercado - mismo patron neutral ya documentado en otras empresas de alto crecimiento con compensacion en acciones relevante.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "13 analistas, calificacion de consenso \"Strong Buy\" (Compra Fuerte), precio objetivo promedio a 12 meses de aprox 67.68 USD frente al precio de mercado de aprox 44.43 USD (+52.3%). Consenso notablemente optimista pese a la ausencia de un DCF propio confiable (ver fila 41) - la brecha refleja que Wall Street esta valorando el liderazgo tecnologico y el momentum de ingresos (+287% YoY) mas de lo que un modelo de flujos de caja descontados tradicional puede justificar, mismo patron de divergencia especulativa ya documentado en CRWV-VRT-MRVL.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.675675675675676,
+    "recomendacion": "ESPECULATIVO DE ALTO RIESGO - NO APTO PARA EL MARCO DE MARGEN DE SEGURIDAD (posicion de tamano acotado unicamente, no inversion de valor tradicional).",
+    "tesis": "Lider en trapped-ion, ahora integrado verticalmente con fundicion propia (SkyWater) y crecimiento de ingresos excepcional (+287% YoY), pero con quema de caja masiva (FCF TTM aprox -483.87M USD), dilucion agresiva sostenida (acciones +50% interanual) y sin ruta de rentabilidad guiada por la propia gerencia - el precio ya descuenta anios de ejecucion casi perfecta en una tecnologia cuyo ganador arquitectonico final sigue sin definirse."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "Abbott Laboratories",
+  "ticker": "ABT",
+  "sector": "Salud - Diversificada (Medical Devices, Diagnostics, Nutrition, Pharma)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Conglomerado de salud diversificado con 4 segmentos: Medical Devices (FreeStyle Libre-monitoreo continuo de glucosa, corazon estructural, electrofisiologia), Diagnostic Products, Nutritional Products (incluida formula infantil), y Established Pharmaceutical Products (enfocado en mercados emergentes).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat solido via marca-propiedad intelectual en areas clave: posicion dominante en monitoreo continuo de glucosa (FreeStyle Libre transformo el mercado de manejo de diabetes), liderazgo en dispositivos de corazon estructural, y marca establecida de decadas en farmaceuticos de mercados emergentes - la diversificacion en si misma es tambien un moat contra el riesgo de un solo segmento.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion de liderazgo en varios nichos: Diabetes Care-FreeStyle Libre, Established Pharma en mercados emergentes, dispositivos de corazon estructural-electrofisiologia con crecimiento de doble digito.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios MODERADO y mixto entre segmentos: mayor en dispositivos medicos diferenciados (CGM), menor en diagnosticos-genericos de mercados emergentes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Robert Ford - ejecucion generalmente solida en el negocio central, aunque actualmente navegando una crisis de litigio severa (fila 20) que plantea preguntas reales de gestion de riesgo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap de salud sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "GOTCHA-RIESGO SEVERO Y ACTIVO: Abbott enfrenta mas de 775 demandas consolidadas en un MDL federal (mas cientos en cortes estatales) alegando que su formula infantil-fortificador de leche materna para bebes prematuros (que contienen ingredientes de leche de vaca) causan enterocolitis necrotizante (NEC) sin advertencia adecuada. Veredictos adversos YA ocurridos: USD 495 millones en Missouri (CONFIRMADO en apelacion), USD 70 millones en Chicago (abr-2026). La propia empresa declara EXPLICITAMENTE que no puede estimar razonablemente un rango de perdida posible para estos casos especificos y NO ha registrado reservas para ellos - un pasivo contingente genuinamente NO CUANTIFICADO y en expansion activa.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 2.51x (deuda estimada ~USD 32.3bn, EBITDA USD 10.79bn) - moderado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 1.38 - adecuada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance razonablemente limpio en terminos de apalancamiento tradicional, aunque la incertidumbre del litigio de NEC (fila 20) es un pasivo contingente real no reflejado en el balance actual (sin reservas especificas registradas).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes solidos: bruto 56.85%, operativo 17.68%, neto 11.65% (TTM, base limpia que ya no incluye la distorsion fiscal de FY2024, ver fila 32).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "GOTCHA: ROIC de 7.51% - el MAS BAJO de cualquier empresa Salud analizada esta sesion (incluso mas bajo que el 8.25% de MDT) - refleja el perfil de conglomerado diversificado-maduro de Abbott. ROE 10.58% (informativo, patrimonio solido).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de un conglomerado de salud diversificado.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "GOTCHA: CAGR de ingresos 5 anios reportado EXTREMADAMENTE BAJO (0.72%, calculo propio FY2021-FY2025) - fuertemente distorsionado por la base de FY2021 inflada por ventas de pruebas COVID-19 (que desde entonces colapsaron), NO representativo del crecimiento organico real del negocio central (la propia empresa reporto +6.7% organico en FY2025 excluyendo pruebas COVID) - mismo tipo de distorsion de base ya visto con otras empresas post-pandemia del Dashboard.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA: volatilidad EXTREMA de utilidad neta GAAP - FY2024 registro un salto anomalo a USD 13.4bn (mas del doble de anios circundantes de ~USD 5.7-7.1bn) causado por un CREDITO fiscal neto NO EN EFECTIVO de USD 6.39bn (ajustes de valuacion por reestructuracion de filiales extranjeras y confirmacion de posiciones de declaracion fiscal) - la utilidad OPERATIVA real de FY2024 fue de solo USD 6.83bn, un incremento modesto sobre los USD 6.48bn de FY2023. Ver detalle adicional en fila 56.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Catalizador MIXTO: crecimiento fuerte en Medical Devices (Diabetes Care-FreeStyle Libre, Corazon Estructural, Electrofisiologia de doble digito), contrapesado por la normalizacion post-COVID de Diagnosticos y el overhang severo del litigio de NEC (fila 20).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "GOTCHA: calidad de ganancias con RUIDO SIGNIFICATIVO por dos fuentes distintas - el anomalo credito fiscal de FY2024 (fila 32) Y la incertidumbre activa del litigio de NEC (fila 20, sin reservas especificas) - ambos exigen ajuste cuidadoso al interpretar los resultados reportados.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Buena y creciente conversion de FCF (FCF Yield 4.14%, FCF TTM USD 7.82bn, en crecimiento constante) - una base mas confiable que la utilidad neta GAAP dada la distorsion fiscal de FY2024.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex moderado (TTM USD 2.08bn, ~4.47% de ventas).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital solido: dividendo con yield 2.29% y payout 81.54% (alto pero Abbott es un Dividend King con 50+ anios de aumentos consecutivos), recompras activas.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos RICOS en terminos TTM (P/E 35.15x, refleja la base de ganancias TTM aun sin recuperacion plena post-distorsion fiscal), mucho mas razonables en terminos forward (18.73x) - EV/EBITDA 20.04x, P/FCF 24.18x.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA: beta bajo-degenerado de magnitud MODERADA (literal 0.55-0.58, consistente entre fuentes) - multiplo terminal implicito (27.48x) vs P/FCF real de mercado (24.18x, ratio 1.14x) - brecha pequenia-moderada. Se sustituyo por un beta iterado de 0.69 hasta converger. WACC resultante 6.75% (Ke CAPM 7.295% con beta sustituto 0.69; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~3.56%; estructura de capital a valor de mercado: Equity USD 187.9bn, Deuda ~USD 32.3bn). FCF base = TTM real USD 7.824bn (limpio, sin la distorsion fiscal de FY2024 que si afecto la utilidad neta GAAP). Crecimiento 5 anios = 7% (moderado, reflejo del crecimiento organico solido en Medical Devices atemperado por la madurez de Diagnosticos-Nutricion-Pharma); terminal 2.5%. Valor Intrinseco: USD 117.53/accion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: +8.20% (precio actual USD 108.62 vs valor intrinseco USD 117.53) - levemente positivo. Consenso de ~27 analistas (Buy, objetivo promedio USD 118.42, +9.02%) converge de forma MUY cercana con este DCF - buena alineacion direccional Y de magnitud, poco comun esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en crecimiento estructural: envejecimiento poblacional, prevalencia creciente de diabetes-enfermedad cardiovascular, crecimiento de mercados emergentes para farmaceuticos establecidos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas en nichos clave (aprobacion FDA, confianza de marca en nutricion infantil -ahora un arma de doble filo dado el litigio de NEC-, propiedad intelectual en dispositivos).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: panorama competitivo real segun segmento (Medtronic-Boston Scientific-J&J en dispositivos; otros fabricantes de formula infantil como Reckitt-Mead Johnson tambien co-demandados en litigio similar de NEC).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad BAJA - demanda de dispositivos medicos-diagnosticos-nutricion es mayormente no discrecional.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio estandar de FDA; el riesgo dominante actual es LEGAL (litigio de NEC, fila 20) mas que puramente regulatorio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria significativa: el segmento Established Pharmaceutical Products esta fuertemente enfocado en mercados emergentes internacionales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada entre hospitales, consumidores (nutricion), farmacias minoristas, y sistemas de salud de mercados emergentes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico genuino en monitoreo continuo de glucosa (FreeStyle Libre transformo el mercado de manejo de diabetes) y dispositivos de corazon estructural.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "GOTCHA-RIESGO ESG SEVERO: la controversia activa de seguridad de formula infantil para bebes prematuros (litigio de NEC, fila 20) es un riesgo social-reputacional de la mas alta severidad, afectando directamente a la poblacion de pacientes mas vulnerable (bebes prematuros) - una categoria de riesgo comparable en severidad a la crisis de seguridad del 737 MAX de BA, aunque de naturaleza distinta (producto de consumo-nutricion vs manufactura aeroespacial).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: continuidad de los juicios-veredictos del litigio de NEC (multiples casos programados), y si Abbott se mueve hacia un acuerdo global (a diferencia de McKesson-Cardinal Health-AmerisourceBergen, que YA resolvieron su litigio de opioides con un acuerdo nacional finalizado).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-DETALLE TECNICO: el credito fiscal de USD 6.39bn de FY2024 (fila 32) se compuso principalmente de USD 7.497bn en ajustes de valuacion NO EN EFECTIVO resultantes de la reestructuracion de ciertas filiales extranjeras y la confirmacion de posiciones de declaracion fiscal - un evento fiscal-contable puntual, no repetible, que infla artificialmente cualquier comparacion de utilidad neta-EPS que incluya FY2024 sin ajustar.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~27 analistas: calificacion Buy, objetivo promedio USD 118.42 (+9.02% de alza) - consenso positivo en MUY buena convergencia con este DCF (+8.20%), tanto en direccion como en magnitud.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.945945945945946,
+    "recomendacion": "MANTENER - conglomerado de salud diversificado con fortalezas reales (liderazgo en monitoreo continuo de glucosa via FreeStyle Libre, crecimiento fuerte en Medical Devices, buena conversion de FCF), PERO enfrentando un riesgo legal SEVERO Y NO CUANTIFICADO: mas de 775 demandas de litigio de enterocolitis necrotizante (NEC) por formula infantil, con veredictos adversos ya confirmados (USD 495M en Missouri, USD 70M en Chicago) y la propia empresa reconociendo que NO PUEDE estimar el rango de perdida posible; ademas ROIC el mas bajo del sector Salud de la sesion (7.51%) y un CAGR de ingresos historico distorsionado por la base COVID; el DCF da un margen de seguridad levemente positivo (+8.20%) en excelente convergencia con el consenso de analistas (+9.02%), pero el riesgo de litigio no cuantificado amerita cautela pese a la valoracion razonable",
+    "tesis": "Un conglomerado de salud diversificado con activos de calidad real (FreeStyle Libre, corazon estructural), cotizando cerca de su valor razonable segun el consenso de mercado, pero cargando un riesgo legal severo y abierto por el litigio de enterocolitis necrotizante en formula infantil que la propia empresa admite no poder cuantificar."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "Johnson & Johnson",
+  "ticker": "JNJ",
+  "sector": "Salud - Farmaceutica y Dispositivos Medicos (Innovative Medicine y MedTech)",
+  "fecha_analisis": "2026-08-05",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Dos segmentos tras la separacion completa de Kenvue en 2023 (que se llevo el negocio de consumo: Tylenol, Band-Aid, Neutrogena, Listerine): Innovative Medicine (aprox 64% de ingresos 2025 - oncologia, inmunologia, neurociencia, cardiovascular; Darzalex, Stelara en declive por biosimilares, Tremfya en fuerte crecimiento +68% interanual, Carvykti terapia celular) y MedTech (aprox 36% - cardiovascular, ortopedia DePuy Synthes, cirugia Ethicon con el nuevo robot OTTAVA, vision). Ingresos Q2 2026 de 25.31bn USD (+6.6%), guidance FY2026 elevado a aprox 101100 millones USD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Diversificacion unica entre farmaceutica (alto margen, alto riesgo regulatorio-patentes) y dispositivos medicos (relaciones de largo plazo con cirujanos y hospitales, altos costos de cambio); pipeline profundo en oncologia celular e inmunologia; balance de fortaleza AAA que permite financiar I+D y M&A a bajo costo; 64 anios consecutivos de incremento de dividendo (Dividend King).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Competidor de escala en ambos segmentos: en farmaceutica compite con Pfizer, Merck, AbbVie y LLY (ya en este Dashboard) en inmunologia-oncologia; en MedTech con Medtronic, Stryker, Abbott, Boston Scientific e Intuitive Surgical (ahora tambien competidor directo via el nuevo robot quirurgico OTTAVA, autorizacion FDA 22-jul-2026).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Mixto: fuerte en productos de patente vigente (Tremfya +68% interanual) pero debil en productos que perdieron exclusividad (Stelara -60% interanual por biosimilares) - el patent cliff ya esta ocurriendo y JNJ lo esta absorbiendo mejor de lo esperado. Riesgo estructural adicional de negociacion de precios de Medicare bajo la IRA (mismo mecanismo ya documentado en LLY).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "M&A activo y reciente: Intra-Cellular Therapies (14.6bn USD, abr-2025, neurociencia), Halda Therapeutics (3.05bn USD, nov-2025, oncologia), Firefly Bio (1bn USD, cerrada jul-2026, con cargo de I+D en proceso de aprox 1bn USD esperado en Q3 2026), colaboracion con Sail Biomedicines (785 millones USD mas opcion de adquisicion de 2.58bn USD, CAR-T in vivo). 64 anios consecutivos de incremento de dividendo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO y Chairman Joaquin Duato desde ene-2022. Cambio ejecutivo reciente: la EVP Jennifer Taubert (21 mas anios en la empresa) se retira, sucedida por Tom Cavanaugh efectivo 1-sep-2026. Insider ownership muy bajo (0.04% a 0.13%), tipico de una mega-cap madura con management profesional no fundador.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin estructura dual-class - gobernanza simple. Board de 12 miembros, incluyendo Jennifer Doudna (premio Nobel, CRISPR) y Marillyn Hewson (ex-CEO Lockheed Martin).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion trimestral solida con guidance actualizado (elevado a aprox 101100 millones USD para FY2026). GOTCHA DE BETA IMPORTANTE: el beta de 5 anios reportado (0.23) esta casi con certeza distorsionado por el spin-off de Kenvue en 2023 (probable outlier de retorno en la serie de precios no ajustado correctamente por el proveedor de datos) - no se uso directamente, se sustituyo por un beta razonado (ver Notas del Dashboard).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta a EBITDA estimado entre 0.8x y 1.0x (deuda neta de 28.28bn USD; Debt a EBITDA bruto de 1.45x segun stockanalysis) - apalancamiento moderado. Rating crediticio AAA de S&P, uno de solo dos empresas de EEUU con esta distincion junto a Microsoft (ya analizada en este Dashboard) - no se pudo confirmar independientemente Moody's o Fitch en esta sesion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.09x, moderada-ajustada pero consistente entre fuentes - no es una senal de estres dado el balance de fortaleza AAA y el acceso a capital de bajo costo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda total moderada (49.04bn USD) con calificacion de grado de inversion maxima (AAA S&P); costo de deuda implicito muy bajo dado el rating. Sin senales de estres de refinanciamiento.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales 201.06bn USD, patrimonio 84.97bn USD - balance solido sin distorsiones de recompras agresivas o M&A transformador reciente que altere significativamente la base de patrimonio (a diferencia de LLY o AAPL de este Dashboard).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes altos y estables: margen bruto 67.9% a 68.03%, margen operativo 26.7% a 27.0%, margen neto 21.48%. Utilidad neta TTM (21.04bn USD) por debajo de la de FY2025 (26.8bn USD) - senal de cargos especiales recientes (probablemente relacionados a M&A -IPR&D en proceso- o provisiones de litigio de talco) que no representan la rentabilidad recurrente del negocio; no se debe asumir el TTM actual como run-rate normalizada sin desagregar trimestre a trimestre.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 25.27% a 25.74% (consistente entre fuentes), ROIC entre 17.20% (Finviz) y 19.20% (stockanalysis) - ambos muy por encima del costo de capital estimado (aprox 6.8% a 7.5%). DuPont point-in-time (24.74%) reconcilia muy bien con el ROE reportado, sin distorsion relevante de patrimonio de crecimiento rapido.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada (0.49x, Revenue TTM 97.93bn sobre Activos totales 201.06bn) - razonable para una empresa farmaceutica-MedTech con inventario, propiedad intelectual e instalaciones de manufactura significativas.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "GOTCHA DE PERIMETRO: el CAGR de ingresos a 5 anios reportado en bruto por Finviz (2.67%) es enganoso porque mezcla dos perimetros de negocio distintos (antes y despues de la separacion de Kenvue en 2023, que se llevo el negocio de consumo). El CAGR limpio post-separacion (FY2023 a TTM) es notablemente mayor, aprox 5.2% a 7.2% - se uso esta cifra ex-Kenvue como referencia para el DCF, no el 2.67% en bruto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Consistencia razonable: la diversificacion entre Innovative Medicine y MedTech suaviza la volatilidad, aunque el patent cliff de Stelara (-60% interanual) frente al crecimiento de Tremfya (+68%) muestra que la composicion interna de ingresos esta en plena transicion - JNJ esta mejor diversificada que LLY para absorberlo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Pipeline activo: OTTAVA (robot quirurgico, autorizacion FDA jul-2026), Rybrevant FASPRO (revision prioritaria FDA, jul-2026), Tecvayli mas Talvey (datos de fase 3 positivos en mieloma, reduccion de riesgo de progresion o muerte de 89%, jul-2026); adquisiciones recientes en oncologia y neurociencia (Intra-Cellular, Halda, Firefly Bio); colaboracion con Sail Biomedicines en terapia celular in vivo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM 27.61bn USD por encima de la utilidad neta TTM 21.04bn USD - calidad de ganancias buena, con la utilidad neta reportada probablemente deprimida por cargos especiales no recurrentes (ver Margenes) que no afectan igual al flujo de caja operativo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM 22.24bn USD (OCF 27.61bn USD menos capex 5.36bn USD), solido y SIN compresion severa por capex, a diferencia de otras farmaceuticas de este Dashboard como LLY (en pleno ciclo de expansion de manufactura de GLP-1). Capex de JNJ es moderado (aprox 5.5% de ingresos).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex moderado y estable (5.36bn USD TTM, aprox 5.5% de ingresos) - mezcla de mantenimiento de plantas farmaceuticas-manufactura MedTech y expansion, sin el patron de aceleracion extrema visto en LLY (GLP-1) o los hyperscalers de este Dashboard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso de capital balanceado: M&A activo y disciplinado (Intra-Cellular, Halda, Firefly Bio, colaboracion Sail Biomedicines), dividendo Dividend King (64 anios consecutivos de incremento, yield aprox 2.03% a 2.09%, payout ratio 46.59%) - uno de los historiales de retorno de capital mas largos y consistentes de cualquier empresa de este Dashboard.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "PE TTM aprox 29.6x a 29.9x, forward PE entre 20.1x y 22.7x segun fuente (discrepancia notable, revisar EPS consenso usado), EV a EBITDA 19.15x, P a FCF 27.91x - multiplos moderadamente exigentes pero no extremos, en linea con una farmaceutica-MedTech diversificada de calidad.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio (adoptado): FCF base TTM 22.24bn USD, WACC 6.82% (beta SUSTITUIDO por un estimado razonado de 0.65 -el beta reportado de 0.23 se descarto como distorsionado por el spin-off de Kenvue, anclado al beta ya validado de LLY de 0.50 en este mismo Dashboard-), crecimiento decreciente tipo fade de 7% a 4.5% en 5 anios, terminal 4% -> 358.30 USD por accion, margen +39.1%. GOTCHA DE FRAGILIDAD DE WACC, mismo patron ya documentado con LLY: con un WACC de sensibilidad de 7.5% (no adoptado), el resultado cae a 285.90 USD, margen +11.0% - todavia positivo pero mucho menos extremo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de seguridad +39.1% en el escenario base y +11.0% en el escenario de WACC mas alto - AMBOS escenarios son NO NEGATIVOS (a diferencia de LLY, donde la sensibilidad de WACC podia cambiar el signo de la conclusion), dando una conclusion direccionalmente robusta aunque con amplia variacion de magnitud. Consenso de analistas (23 analistas, objetivo promedio entre 271.05 y 277.00 USD, +5% a +8% de alza, Buy) es notablemente mas conservador que ambos escenarios de este DCF, mismo patron de divergencia de magnitud que UBER.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM amplio y diversificado entre farmaceutica de especialidad (oncologia, inmunologia, neurociencia) y dispositivos medicos (cirugia, ortopedia, cardiovascular, vision) - crecimiento estructural de la demanda de salud global, aunque en mercados ya maduros comparado con el TAM de expansion pura de otras empresas de este Dashboard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas: patentes farmaceuticas, aprobaciones regulatorias extensas (FDA, EMA), relaciones de decadas con cirujanos y hospitales en MedTech (switching costs altos), y escala de I+D y manufactura que pocos competidores pueden igualar simultaneamente en ambos segmentos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta en ambos segmentos (Pfizer, Merck, AbbVie, LLY en farmaceutica; Medtronic, Stryker, Abbott, Boston Scientific, Intuitive Surgical en MedTech); poder de proveedor moderado; poder de comprador alto por parte de los tres grandes distribuidores farmaceuticos mayoristas de EEUU y de sistemas hospitalarios grandes en MedTech; amenaza de sustitutos real via biosimilares (ya materializada con Stelara) y nuevas tecnologias competidoras (robots quirurgicos); barreras de entrada altas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Beta reportado (0.23) descartado por distorsion del spin-off de Kenvue; con el beta sustituido razonado de 0.65, el perfil sigue siendo defensivo (por debajo de 1), consistente con una farmaceutica-MedTech diversificada de baja correlacion con el ciclo economico general, aunque con riesgo idiosincratico real por litigios y patent cliff.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio de precios activo: negociacion de precios de Medicare bajo la IRA (mismo mecanismo ya documentado en LLY), con farmacos de JNJ probablemente incluidos en rondas de negociacion (Xarelto y Stelara mencionados por conocimiento general de la industria, no confirmado con fuente primaria de CMS en esta sesion). Riesgo adicional de litigios de talco (ver fila de riesgos ESG).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria moderada por la escala global del negocio farmaceutico y de MedTech - no es el riesgo dominante de esta tesis frente al litigio de talco o el riesgo regulatorio de precios.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion de clientes relevante en los tres grandes distribuidores farmaceuticos mayoristas de EEUU (McKesson, Cencora, Cardinal Health, historicamente representando una porcion alta de las ventas farmaceuticas de EEUU, mismo patron ya documentado en LLY) - no se confirmo el porcentaje exacto actual en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de disrupcion real por biosimilares en farmaceutica (ya materializado con Stelara, -60% interanual) y por nuevas tecnologias competidoras en MedTech (cirugia robotica de Intuitive Surgical, aunque JNJ responde con su propio robot OTTAVA recien aprobado por la FDA en jul-2026).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "RIESGO MAS DISTINTIVO Y MATERIAL DE ESTA EMPRESA FRENTE A LAS DEMAS FARMACEUTICAS DE ESTE DASHBOARD: litigio masivo de talco por presunto vinculo con cancer de ovario y mesotelioma. Historial de TRES intentos fallidos de resolucion via bancarrota de la subsidiaria LTL Management (2021-2023, todos desestimados). NOVEDAD CRITICA (27-jul-2026): JNJ anuncio un acuerdo DIRECTO de 5.5 mil millones USD, cubriendo entre 70000 y 76000 reclamos de cancer de ovario, con primer pago de hasta 3000 millones USD en 2027 - PERO requiere aprobacion del 95% de los reclamantes, riesgo de ejecucion no resuelto. No se confirmo si el acuerdo cubre tambien mesotelioma.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Confirmacion del cierre del acuerdo de talco de 5.5bn USD (pendiente de aprobacion del 95% de los reclamantes); cargo de I+D en proceso de aprox 1bn USD por la adquisicion de Firefly Bio esperado en Q3 2026; avance de aprobaciones regulatorias del pipeline (OTTAVA, Rybrevant FASPRO); transicion ejecutiva de Tom Cavanaugh efectivo 1-sep-2026.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Insider ownership muy bajo (0.04% a 0.13%), tipico de una mega-cap madura con management profesional no fundador; no se identifico informacion especifica de compras o ventas recientes de insiders en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura amplia (23 analistas), calificacion de consenso Buy, objetivo promedio entre 271.05 y 277.00 USD, equivalente a un alza modesta de solo aprox 5% a 8% - notablemente mas conservador que ambos escenarios de este DCF propio (+11.0% a +39.1%), aunque ambos apuntan en la MISMA direccion no negativa, mismo patron que UBER.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7027027027027026,
+    "recomendacion": "COMPRAR (DCF robusto en direccion pese a alta sensibilidad de magnitud al WACC; riesgo de litigio de talco en vias de resolucion via acuerdo directo, condicionado a aprobacion del 95% de reclamantes)",
+    "tesis": "Farmaceutica-MedTech diversificada de calidad excepcional (balance AAA, Dividend King de 64 anios) que esta absorbiendo mejor de lo esperado el patent cliff de Stelara, con el riesgo de litigio de talco -su factor mas distintivo frente a LLY- avanzando hacia una resolucion cuantificada tras el acuerdo de 5.5bn USD anunciado en jul-2026."
+  }
+}

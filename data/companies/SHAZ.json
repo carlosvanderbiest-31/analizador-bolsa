@@ -1,0 +1,259 @@
+{
+  "empresa": "SharonAI Holdings, Inc.",
+  "ticker": "SHAZ",
+  "sector": "Tecnologia - Neocloud (infraestructura GPU en la nube para IA)",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Neocloud pre-escala: TTM 3.09M USD (creciendo desde base casi nula), pero backlog contractual de 8.8 mil millones USD (crecio de 2.2 mil millones a inicio de 2026) segun contratos plurianuales tipo take-or-pay. Solo dos anios de historia operativa. Reconocimiento material de ingresos no empieza hasta 3T-4T 2026 segun guidance propia; dos de los tres contratos grandes mas recientes (1.32 mil millones y 373 millones) son con contrapartes NO reveladas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat narrow y no probado: colaboracion estrategica con NVIDIA (hasta 40 mil GPUs GB300) y posicionamiento como neocloud regional Australia-Nueva Zelanda (nicho de soberania de datos). Pero la propia empresa retracto via 8-K en abril 2026 la afirmacion de que NVIDIA era \"accionista estrategico\" que aparecia en su 10-K FY2025 - la retraccion resta credibilidad al moat reclamado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Jugador diminuto frente a CoreWeave (publico, aprox 10x mas grande en GPUs, mejor capitalizado) y los hiperescaladores (AWS, Azure, GCP). No posee los centros de datos - alquila capacidad en instalaciones de NEXTDC y Equinix en Sydney y Melbourne, lo que limita el control sobre el activo fisico subyacente.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Contratos recientes reportados sobre 4 USD por hora-GPU (dato favorable si se sostiene), pero base de clientes pequenia y concentrada (un puniado de contratos mega, dos con contrapartes no reveladas) hace el poder de fijacion de precios fragil y dependiente de pocas relaciones.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO James Manning (desde ene-2026) fundo y dirigio previamente Mawson Infrastructure hasta may-2023. Mawson tiene litigio ACTIVO contra Manning alegando que desvio aprox 11.5 millones de dolares australianos via una naviera (Flynt International) controlada por el mismo sin revelarlo a la junta. Ademas, transacciones con partes relacionadas en la formacion de SharonAI: la entidad DSS fue valuada en cero por una parte afiliada en 2023 y luego adquirida por SharonAI en 25 millones USD en jun-2024 (alza de 860 por ciento sin cambio de negocio documentado).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Alineacion de incentivos deficiente: estructura de doble clase (Clase A 1 voto, Clase B \"Super Common\" 160 votos por accion) da a los fundadores control mayoritario del voto (aprox 46 por ciento) con participacion economica minima. Es la MISMA estructura de control que Manning uso en Mawson, su empresa anterior bajo litigio por autonegociacion.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Doble clase de acciones con supervoto 160 a 1 para Clase B en manos de los tres fundadores (Manning, Leece, Hughes-Jones). Inversionista estrategico relevante: Situational Awareness LP (fondo de IA de Leopold Aschenbrenner) con 19.9 por ciento de participacion, senal de credibilidad institucional parcial que contrasta con las seniales de gobernanza debil de los fundadores.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Transparencia cuestionable: retraccion via 8-K (abr-2026) de la afirmacion en el 10-K FY2025 de que NVIDIA era accionista estrategico, presentada como \"Other Events\" menor en vez de enmienda formal. Dos de los tres contratos grandes mas recientes tienen contraparte NO revelada. Reporte de venta en corto (Bleecker Street Research, abr-2026) alega ademas un \"contrato fantasma\": el cliente ESDS Software Solutions (India) habria comprometido pagos anuales de 250 millones USD pese a facturar solo 39.9 millones USD en todo su anio fiscal 2025 - no se encontro respuesta formal de la empresa a estas alegaciones al momento de este analisis.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Balance al 30-jun-2026: caja 1861.3 millones USD, notas convertibles clasificadas como pasivo corriente 1006.5 millones USD (posicion de CAJA NETA de aprox 855 millones USD). El ratio Deuda Neta a EBITDA no es informativo porque el EBITDA ajustado apenas es positivo (0.6 millones USD en 2T 2026) - se omite del Dashboard por la misma razon que en empresas pre-escala ya documentadas (ver OKLO).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Liquidez aparentemente comoda: caja de 1861.3 millones USD excede holgadamente el total de pasivos consolidados de 1193.8 millones USD tras el cierre de la ronda de 1.6 mil millones USD en jun-2026 (mezcla de patrimonio, warrants prefinanciados y notas convertibles). No se encontro el desglose exacto de activos y pasivos CORRIENTES en el comunicado de resultados para calcular la razon corriente con precision.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Notas convertibles con vencimiento 2032 (cupon 4.75 por ciento) pero clasificadas como pasivo CORRIENTE en el balance (comun cuando existen derechos de conversion o rescate anticipado). Ademas existe una facilidad de 500 millones USD llamada USD.AI, un protocolo de prestamo cripto-DeFi de apenas un anio de antiguedad, respaldada por GPUs y fondeada en stablecoins - el reporte de venta en corto cuestiona si esta facilidad realmente tiene capacidad de fondeo suficiente para lo anunciado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por GPUs Nvidia (riesgo de obsolescencia tecnologica rapida por ciclos de chips) y caja de las rondas de capital recientes, no por bienes raices (los centros de datos son alquilados a NEXTDC y Equinix). Total de activos 2321.3 millones USD, patrimonio 1127.5 millones USD - saldo sano en la foto actual pero inflado por las rondas de capital de 2026, no por generacion organica de valor.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes no informativos a esta escala: perdida neta TTM de 483.83 millones USD sobre ingresos TTM de apenas 3.09 millones USD (perdida GAAP mas de 150 veces el ingreso) produce un margen neto porcentual sin sentido economico. No hay historia de 5 anios (empresa de menos de 2 anios). Se omite el calculo de margenes del Dashboard por la misma razon documentada en OKLO.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE y ROIC no informativos: el patrimonio (1127.5 millones USD) y la perdida neta (dominada por partidas no-cash, ver fila 35) no reflejan la capacidad real de generacion de retorno del negocio en esta etapa. EBITDA ajustado apenas positivo (0.6 millones USD en 2T 2026) sugiere que operativamente la empresa esta cerca del punto de equilibrio en la porcion de ingresos ya facturada, pero la escala es demasiado pequenia para ser concluyente.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos extremadamente baja (aprox 0.0013x, Revenue TTM 3.09 millones USD sobre Activos totales 2321.3 millones USD) - refleja que el balance se inflo con las rondas de capital de 2026 muy por delante de que el negocio genere ingresos proporcionales. Capacidad fisica contratada: 212 MW asegurados para despliegue en 2026-2027, de los cuales una porcion ya esta bajo contrato take-or-pay pero sin facturar todavia.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento de ingresos alto en terminos porcentuales pero desde una base casi nula: 2T 2026 ingresos 1.9 millones USD (+412 por ciento interanual), TTM 3.09 millones USD (+174 por ciento). No es un crecimiento organico escalado comparable al resto del Dashboard - es la fase mas temprana posible de facturacion real.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento muy inconsistente y dependiente de timing de contratos: 2T 2026 los ingresos (1.9 millones USD) quedaron muy por debajo del consenso de analistas (7.54 millones USD esperados), evidencia temprana de riesgo de ejecucion y de que el ritmo de facturacion es dificil de predecir incluso para los propios analistas que cubren la empresa.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Backlog contractual de 8.8 mil millones USD (creciendo desde 2.2 mil millones a inicio de 2026) es la fuente de crecimiento futuro reclamada: NVIDIA (hasta 4.9 mil millones USD en 6 anios), ESDS (1.25 mil millones USD, bajo sospecha de \"contrato fantasma\" segun reporte de venta en corto), mas tres contratos adicionales de 373 millones, 1.32 mil millones y 950 millones USD con contrapartes parcialmente no reveladas. Guidance propia: ingresos materiales recien a partir de 3T-4T 2026, con los contratos mas nuevos empezando a facturar en 1T-2T 2027.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Perdida neta TTM (483.83 millones USD) esta dominada por partidas NO-CASH: en 2T 2026 sola, 423.8 millones USD de los 430.4 millones USD de perdida fueron no-cash, y especificamente 400.4 millones USD fue una perdida contable por valor razonable de las notas convertibles - una perdida GAAP que en realidad se genera cuando el PRECIO DE LA ACCION SUBE (el valor razonable de la opcion de conversion incorporada sube con el precio). Esto es lo opuesto a una senial de deterioro operativo real; sin embargo, la complejidad y opacidad de esta mecanica es en si misma un factor de baja calidad de ganancias.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Flujo de caja operativo reportado POSITIVO en el semestre (23.2 millones USD en 1S 2026, vs -1.7 millones USD en 1S 2025), pero esto probablemente refleja depositos y anticipos de clientes de los contratos nuevos (pasivos corrientes) mas que generacion de caja de operaciones maduras - el capex de crecimiento (anticipos de equipo GPU) de 310.7 millones USD en 1S 2026 se clasifica como actividad de INVERSION, no operativa, por lo que el FCF real (OCF menos capex) es profundamente negativo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "100 por ciento capex de CRECIMIENTO (despliegue de GPUs Nvidia, meta de 64,000 unidades para mediados de 2027), no hay capex de mantenimiento relevante dado que la empresa tiene menos de dos anios de operacion. Financiado con deuda y patrimonio (rondas de 2026), no autofinanciado con caja operativa.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Sin dividendos ni recompras (esperable en esta etapa). Uso del capital 100 por ciento hacia crecimiento vía capex de GPUs, financiado con emisiones dilutivas repetidas (colocacion privada de 1.6 mil millones USD en jun-2026, notas convertibles adicionales, warrants prefinanciados) y una facilidad no tradicional cripto-DeFi (USD.AI, 500 millones USD) cuya capacidad real de fondeo fue cuestionada por el reporte de venta en corto. Sobrehang de dilucion relevante: registro de reventa de mas de 26 millones de acciones ligado a las notas y colocacion privada.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos tradicionales no aplican: P sobre E no calculable (perdida neta), EV sobre EBITDA no informativo (EBITDA ajustado apenas 0.6 millones USD en el trimestre), y el multiplo de Precio sobre Ventas implicito es extremo (capitalizacion de mercado de aprox 1.7 a 2.0 mil millones USD sobre ingresos TTM de solo 3.09 millones USD, mas de 500 veces ventas) incluso comparado con pares de neocloud que ya cotizan caro (CoreWeave). El precio de mercado esta valorando casi enteramente el backlog contractual de 8.8 mil millones USD y el roadmap de despliegue de GPUs, no el negocio actual.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "NO SE CALCULO Valor Intrinseco (DCF) - decision metodologica explicita, mismo criterio ya aplicado a OKLO (empresa pre-ingresos o pre-licencia). Ingresos TTM de apenas 3.09 millones USD, sin historia de flujo de caja libre positivo, sin margenes estables que proyectar, y guidance propia de que el reconocimiento material de ingresos recien empieza en 3T-4T 2026. Ademas, a diferencia de OKLO, aqui el backlog contractual que sustentaria un DCF de \"contratos firmes\" esta parcialmente cuestionado por un reporte de venta en corto detallado (alegacion de contrato fantasma con ESDS) que no ha sido refutado formalmente por la empresa - forzar un DCF sobre ese backlog seria construir sobre un supuesto no verificado.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Sin Valor Intrinseco no hay Margen de Seguridad calculable - columnas 26 y 27 del Dashboard deliberadamente en blanco, mismo tratamiento que OKLO. Referencia informativa (no valor intrinseco): patrimonio contable de 1127.5 millones USD sobre aprox 35.7 millones de acciones Clase A = aprox 31.6 USD por accion en libro, muy por debajo del precio de mercado de 48.92 USD (7-ago-2026) - la brecha es lo que el mercado paga por el backlog y el roadmap de crecimiento, con dispersion de precios objetivo de analistas amplia (de calificacion Venta-D menos hasta 124 USD, target promedio reportado de forma inconsistente entre fuentes) que confirma la falta de consenso.",
+          "calificacion": null
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM real y en expansion fuerte: demanda global de computo GPU para entrenamiento e inferencia de IA sigue creciendo con fuerza, y la region Asia-Pacifico (Australia, Nueva Zelanda, India) tiene menos oferta de neocloud especializada que EEUU, dejando espacio de nicho genuino si la ejecucion es real.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada moderadas-altas por intensidad de capital (compra de GPUs, acceso a energia) pero SharonAI no controla el activo fisico critico (alquila centros de datos de NEXTDC y Equinix en vez de poseerlos), lo que reduce su barrera de entrada propia frente a competidores que si construyen infraestructura propia (ej. Crusoe).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Poder de proveedor alto (dependencia total de asignacion de GPUs Nvidia), poder de cliente alto (backlog concentrado en un puniado de contratos mega, dos con contraparte no revelada), rivalidad alta (CoreWeave 10x mas grande, hiperescaladores con capital casi ilimitado), amenaza de sustitutos real (hiperescaladores construyendo capacidad propia en la region), amenaza de nuevos entrantes moderada por la intensidad de capital requerida.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Industria altamente ciclica y ligada al sentimiento del mercado sobre el gasto de capital en IA - muchos analistas consideran el ciclo actual de capex de IA como potencialmente una burbuja; un enfriamiento de la demanda de computo de IA afectaria desproporcionadamente a un jugador pequenio y apalancado como SharonAI antes que a los hiperescaladores diversificados.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio cruzado en tres paises (Australia, Nueva Zelanda, India via cliente ESDS). El reporte de venta en corto alega ademas que las reglas de localizacion de datos del banco central de India (RBI) podrian impedir legalmente que el mayor cliente final de ESDS (presuntamente un banco ruso sancionado) use infraestructura alojada en Australia - si es cierto, el caso de uso subyacente de ese contrato seria inviable desde el inicio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real: operaciones en dolares australianos y neozelandeses, reporte financiero y financiamiento en dolares estadounidenses. No cuantificado con precision en las fuentes consultadas en esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion de clientes extrema: un puniado de contratos mega concentran el backlog de 8.8 mil millones USD, y dos de los tres contratos mas nuevos (373 millones y 1.32 mil millones USD) tienen contraparte NO revelada publicamente - esto es un riesgo de concentracion Y de calidad de divulgacion al mismo tiempo. Dependencia total de un solo proveedor critico (Nvidia) para las GPUs.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de obsolescencia tecnologica real dado el ritmo acelerado de nuevas generaciones de chips Nvidia (la propia empresa ya escalo su meta de GPUs varias veces en 2026: de 40,000 a 55,000 a 62,000 a 64,000 unidades) - el activo fisico (GPUs ya compradas o contratadas) puede perder valor competitivo antes de amortizarse completamente si Nvidia lanza la siguiente generacion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG mixto: alta intensidad energetica de los centros de datos de IA (tema de escrutinio creciente), pero SharonAI no opera generacion propia (alquila espacio en centros de datos de terceros certificados), lo que traslada parte de esa responsabilidad. No se identifico controversia ESG especifica mas alla del tema energetico generico del sector.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Eventos clave a monitorear: inicio de reconocimiento material de ingresos guiado para 3T-4T 2026; inicio de facturacion de los contratos de 373 millones (1T 2027) y 1.32 mil millones USD (1T-2T 2027); avance del litigio Mawson contra el CEO Manning; posible respuesta formal de la empresa al reporte de Bleecker Street Research (no encontrada al momento de este analisis); resultados de 3T 2026.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Situational Awareness LP (fondo de IA de Leopold Aschenbrenner) parece estar AUMENTANDO su posicion (ejercicio de 3.7 millones de warrants prefinanciados hacia su tope de 19.99 por ciento) - senal positiva de un inversionista institucional sofisticado. No se encontro evidencia de venta abierta de mercado por parte de los fundadores desde la salida a bolsa, aunque los lockups (extendidos hasta 31-mar-2027) restringen esa posibilidad por ahora.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura muy escasa (4 a 5 analistas, consistente con una empresa que cotiza en Nasdaq hace apenas unos 5-6 meses) y con opiniones divididas incluso entre los alcistas: B. Riley (Compra, 124 USD), Cantor Fitzgerald (Sobreponderar, objetivo recortado de 116 a 109 USD el mismo dia de este analisis), Compass Point (Compra, 90 USD), junto con calificaciones bajistas (Wall Street Zen bajo a Venta, Weiss Ratings Venta D menos). La dispersion amplia de objetivos (90 a 124 USD) y las bajistas activas contradicen la etiqueta de \"consenso Compra Fuerte\" que muestran algunos agregadores de forma aislada.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 1.8285714285714285,
+    "recomendacion": "EVITAR - NO APTO PARA EL MARCO DE MARGEN DE SEGURIDAD (posicion especulativa de altisimo riesgo, con alegaciones de fraude no resueltas)",
+    "tesis": "Neocloud australiano pre-escala (3.09 millones USD de ingresos TTM contra un backlog reclamado de 8.8 mil millones USD y una capitalizacion de mercado de aprox 1.7 a 2.0 mil millones USD), con gobernanza debil (doble clase de acciones, litigio activo contra el CEO por autonegociacion en su empresa anterior) y un reporte de venta en corto detallado que alega un contrato fantasma en su mayor cliente - no refutado formalmente a la fecha de este analisis."
+  }
+}

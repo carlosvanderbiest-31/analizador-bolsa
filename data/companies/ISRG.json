@@ -1,0 +1,259 @@
+{
+  "empresa": "Intuitive Surgical, Inc.",
+  "ticker": "ISRG",
+  "sector": "Salud - Cirugia Robotica (Robotic-Assisted Surgery)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Pionero y lider dominante en cirugia asistida por robotica via el sistema da Vinci - base instalada de 11,710 sistemas (+12% interanual), con crecimiento de procedimientos de ~15% y 468 sistemas nuevos colocados solo en 2T2026.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat EXTREMO: modelo \"razor-razorblade\" sobre una base instalada masiva (venta de sistemas de capital mas ingresos recurrentes de alto margen de instrumentos-accesorios-servicio por cada procedimiento), entrenamiento-certificacion de cirujanos que genera altisimos costos de cambio, decadas de ventaja de primer movimiento, y portafolio de patentes extenso.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion DOMINANTE como pionero-lider de categoria en cirugia robotica, aunque la competencia esta emergiendo activamente (Hugo de Medtronic, Ottava de J&J, Mako de Stryker en ortopedia especificamente) - aun claramente el lider de escala.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios FUERTE, demostrado por margenes excepcionales (bruto 66.68%, entre los mas altos del Dashboard).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Management con track record de ejecucion solido, aunque la volatilidad reciente de la accion (caida de mas del 45% desde maximos de 52 semanas de USD 603.88 a minimos de USD 328.57) refleja preocupaciones reales del mercado sobre la desaceleracion del crecimiento de procedimientos domesticos (fila 32).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap de salud sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "GOTCHA POSITIVO: SIN DEUDA - posicion de caja neta de USD 5.22bn, uno de los balances mas limpios del Dashboard (similar a VRTX, otra biotecnologia-dispositivo de alta calidad ya analizada esta sesion).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 4.96, razon rapida de 3.64 - liquidez EXCEPCIONAL, de las mejores de todo el Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Sin deuda - riesgo de refinanciamiento nulo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance EXCEPCIONALMENTE limpio: sin deuda, caja neta solida, patrimonio robusto sin distorsion alguna.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes EXCELENTES, entre los mejores del Dashboard: bruto 66.68%, operativo 31.28%, neto 28.45% - superiores incluso a los ya excelentes margenes de SYK (23.82% operativo) analizada antes esta sesion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 17.42% y ROIC 21.89% (ambos informativos y solidos, patrimonio no distorsionado) - muy por encima de cualquier WACC razonable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de un fabricante de equipo de capital medico con inventario-cuentas por cobrar significativas.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios EXCEPCIONAL (15.23%, calculo propio FY2021-FY2025) - el MAS ALTO de cualquier empresa Salud analizada esta sesion, superando incluso al ya fuerte 10.09% de SYK.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA-RIESGO REAL: preocupacion de mercado activa sobre la DESACELERACION del crecimiento de procedimientos DOMESTICOS (EEUU) - causo una caida de mas del 45% en la accion desde maximos de 52 semanas tras los resultados del 2T2026 (16-jul-2026). El crecimiento GLOBAL sigue siendo fuerte (~15% procedimientos, +20% ingresos), pero la madurez del mercado domestico es un riesgo genuino de largo plazo para una empresa con este perfil de valoracion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Catalizador: expansion internacional continua, nuevas generaciones de sistemas, crecimiento de volumen de procedimientos - atemperado por la preocupacion de desaceleracion domestica ya mencionada (fila 32).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias limpia, sin cargos no recurrentes significativos detectados esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF moderada (FCF Yield 2.28%, dado el precio muy exigente de la accion).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex no confirmado con precision esta sesion; probablemente elevado dado la inversion en manufactura de sistemas-I+D continua.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital orientado 100% a reinversion en I+D-crecimiento: SIN dividendo, consistente con una empresa de alto crecimiento que prioriza la expansion de categoria sobre el retorno de capital.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "GOTCHA: multiplos EXTREMADAMENTE RICOS, entre los mas altos de todo el Dashboard: P/E TTM 45.11x, forward 34.82x, EV/EBITDA 32.03x, P/FCF 43.82x - en el mismo territorio que HWM y GE Aerospace ya analizadas esta sesion.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO: mismo patron de \"sobrevaloracion de calidad\" ya documentado con HWM y GE Aerospace esta sesion. Beta literal (1.46) NO es sospechoso -es ALTO, coherente con la volatilidad real ya demostrada (caida de 45%+ desde maximos de 52 semanas)-, por lo que NO corresponde sustituirlo a la baja (hacerlo exigiria un beta de ~0.24, contradictorio con toda la evidencia de volatilidad real observada). DCF a 5 anios con crecimiento 15% (fuerte, alineado con el crecimiento actual) y terminal 3% da un multiplo terminal implicito de solo 11.35x vs el P/FCF real de mercado de 43.82x - brecha de 3.86x, la MAS GRANDE de la sesion (superando incluso a HWM 4.2x y GE 3.63x). Chequeo de ROBUSTEZ (extender a 10 anios con crecimiento escalonado agresivo 18%-12%-7%): el resultado se mueve de -51.68% a -42.58% (~9pp), confirmando que el hallazgo es ROBUSTO (no fragil como BA), similar al patron ya visto en GE. WACC 11.53% (Ke=WACC dado que no hay deuda; Rf 3.5%, ERP 5.5%, beta 1.46). Valor Intrinseco (Escenario A, 5 anios): USD 193.19/accion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -51.68% (precio actual USD 399.83 vs valor intrinseco USD 193.19) - una de las valoraciones mas exigentes del Dashboard. Consenso de ~24 analistas (Buy, objetivo promedio USD 477.25, +21.32%) diverge en direccion RADICALMENTE opuesta - la brecha direccional MAS GRANDE de cualquier empresa Salud de la sesion. Tratar como REDUCIR-precaucion de valoracion (mismo espiritu que HWM-GE), no como una tesis bajista sobre la calidad del negocio (que es excepcional, ver margenes-ROIC-crecimiento-moat en filas 13-27-28-31).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM masivo y en expansion activa: penetracion de cirugia robotica aun baja globalmente, gran runway de nuevos tipos de procedimiento-expansion internacional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada EXTREMAS: ventaja de primer movimiento de decadas, escala de base instalada, entrenamiento-certificacion de cirujanos como moat de switching cost - uno de los moats mas fuertes del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: posicion aun dominante pero con competencia REAL y creciente (Medtronic Hugo, J&J Ottava disenados especificamente para competir en este espacio, Stryker Mako en el nicho ortopedico) - el oligopolio de facto de ISRG se esta erosionando gradualmente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad BAJA-moderada: demanda de procedimientos quirurgicos es mayormente no discrecional, aunque los procedimientos electivos pueden tener cierta sensibilidad economica-de acceso a seguro.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio estandar de aprobacion FDA para nuevas generaciones de sistemas-indicaciones.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria moderada y creciente a medida que la expansion internacional se acelera.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes concentrada en hospitales-centros quirurgicos (naturaleza de equipo de capital), aunque diversificada geograficamente a medida que la base instalada crece internacionalmente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico GENUINO como pionero de la categoria completa de cirugia robotica - inversion continua en nuevas generaciones de sistemas (da Vinci 5, expansion de indicaciones).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG-social moderado, tipico del sector de dispositivos medicos, sin controversia mayor detectada esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: seguimiento de la tendencia de crecimiento de procedimientos DOMESTICOS (la preocupacion central del mercado, fila 32), lanzamientos de nuevas generaciones de sistemas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-CONTEXTO: ISRG es el TERCER caso de la sesion (tras HWM, GE Aerospace) de \"sobrevaloracion de calidad\" con un beta literal NO sospechoso -aqui incluso ALTO (1.46), reforzando que la ciclicidad-riesgo percibido es real, no un artefacto de una sola fuente-. La brecha de convergencia (3.86x) es la MAS GRANDE de los tres casos de este tipo en la sesion, y el chequeo de robustez a 10 anios confirma que el hallazgo NO depende de la eleccion de horizonte (a diferencia de BA).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~24 analistas: calificacion Buy (23 Buy, 1 Sell), objetivo promedio USD 477.25 (+21.32% de alza sobre el precio actual) - consenso fuertemente optimista, en tension marcada con la senal de valoracion disciplinada de este DCF (filas 41-42), la brecha direccional mas grande de cualquier empresa Salud de la sesion.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.675675675675676,
+    "recomendacion": "REDUCIR - pionero y lider indiscutido de la cirugia robotica (sistema da Vinci), con el moat mas fuerte, los mejores margenes (66.68% bruto, 31.28% operativo) y el crecimiento de ingresos mas alto (15.23% CAGR 5y) de cualquier empresa Salud de la sesion, ademas de un balance excepcional (sin deuda, caja neta de USD 5.22bn); PERO cotizando a multiplos extremadamente ricos (P/E 45x, P/FCF 44x) que ningun DCF disciplinado logra racionalizar, con la brecha de convergencia MAS GRANDE de la sesion (3.86x) pese a un beta literal ALTO (1.46, coherente con la volatilidad real ya demostrada -caida de 45%+ desde maximos de 52 semanas-, sin razon fundamental para sustituirlo a la baja); margen de seguridad de -51.68%, hallazgo confirmado ROBUSTO al horizonte del DCF (similar a GE, a diferencia de BA) - tercer caso de la sesion (tras HWM-GE) de sobrevaloracion de una empresa excelente",
+    "tesis": "El pionero indiscutido de la cirugia robotica, con el mejor perfil de calidad de negocio (moat, margenes, crecimiento, balance) de cualquier empresa Salud de la sesion, pero tambien la valoracion mas exigente del sector - un DCF disciplinado no logra justificar el precio actual bajo ninguna combinacion razonable de supuestos, pese a que la desaceleracion domestica ya esta generando volatilidad real en la accion."
+  }
+}

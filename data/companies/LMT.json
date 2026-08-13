@@ -1,0 +1,259 @@
+{
+  "empresa": "Lockheed Martin Corporation",
+  "ticker": "LMT",
+  "sector": "Industriales - Defensa y Aeroespacial (Aerospace & Defense)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Contratista de defensa lider mundial por ingresos, con 4 segmentos: Aeronautics (caza F-35, avion de transporte C-130), Missiles and Fire Control -MFC- (HIMARS, PAC-3, Javelin), Rotary and Mission Systems -RMS- (helicopteros Sikorsky, sistemas navales-sensores), y Space (defensa antimisiles estrategica, satelites, participacion en Orion de la NASA).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de habilitaciones de seguridad-programa insignia, misma categoria extrema que NOC-GD: el F-35 es el programa de defensa mas grande de la historia (unico caza de quinta generacion en produccion de tasa completa para EEUU y multiples aliados), con decadas de cola de sostenimiento-actualizaciones (Block 4) practicamente garantizadas.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion dominante como el mayor contratista de defensa puro por ingresos, con el F-35 representando ~27% de las ventas consolidadas (1T2026) - una concentracion de programa muy alta pero tambien una fuente de visibilidad de ingresos multi-decada excepcional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios mixto, misma categoria de riesgo de contratos de precio fijo que el resto del sub-sector defensa, aunque sin un cargo mayor equivalente al B-21 de NOC evidente en los datos de esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Jim Taiclet (desde 2020). A diferencia de NOC-GD, el mercado muestra \"dudas de ejecucion\" recientes pese al backlog record (titulares de analistas de ago-2026 cuestionando la ejecucion) - la accion ha tenido un desempenio mas volatil-rezagado en 2026 que sus comparables directos de la sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap de defensa sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados esta sesion, mismo entorno de supervision regulatoria-congresional intensa del sector defensa que NOC-GD.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 1.55x (deuda total USD 20.54bn, caja USD 3.79bn, EBITDA TTM USD 10.84bn) - moderado y saludable, mejor que NOC (2.29x) aunque no tan solido como GD (0.48x).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 1.19 - adecuada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Patrimonio relativamente delgado y volatil (USD 8.77bn TTM, subio desde USD 6.72bn a fin de FY2025) frente a Deuda Total de USD 20.54bn (Debt/Equity 2.34x) - probablemente influenciado por swings de patrimonio relacionados a la enorme obligacion de pension de la empresa (historica en Lockheed), no verificado en detalle esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes tipicos del sector defensa: bruto 11.80%, operativo 10.89%, neto 8.16% - similar en magnitud a NOC-GD, mas bajos que otros Industriales de la sesion (UNP, ITW).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROIC de 27.42% (excelente, el mas alto entre los tres contratistas de defensa de la sesion) confirma creacion de valor genuina muy por encima del WACC propio (9.00%, ver fila 41). ROE de 71.69% probablemente amplificado por el patrimonio relativamente delgado-volatil (fila 25) - se reporta pero con la misma cautela ya aplicada a otros casos de patrimonio delgado de la sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de un contratista de defensa con instalaciones especializadas.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios modesto (2.86%, calculo propio FY2021-FY2025) - el mas bajo de los tres contratistas de defensa de la sesion (vs 8.11% de GD, 4.14% de NOC), aunque el crecimiento se esta acelerando (TTM +2.6% sobre FY2025, guia FY2026 de +6.3% a +8.9% sobre FY2025).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento de utilidad neta MODERADAMENTE volatil pero SIN un colapso equivalente al del B-21 de NOC: de USD 6.9bn (pico FY2023) a USD 5.0bn (valle FY2025) a una fuerte recuperacion en TTM (USD 6.29bn, EPS TTM +52.76% sobre FY2025) - mas estable que NOC, menos estable que GD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Catalizador: backlog record de USD 230.42bn (~3x ingresos anuales, USD 65bn en nuevas ordenes solo en 2T2026), solicitud de presupuesto del Pentagono para el ano fiscal 2027 de 85 aviones F-35 adicionales, guia FY2026 elevada (ventas USD 79.75-81.75bn).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias razonable, aunque persisten \"dudas de ejecucion\" senaladas por analistas pese al backlog record - vale la pena monitorear si se materializan en cargos de programa como los ya vistos en NOC.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Excelente y en fuerte mejora conversion de FCF (FCF Yield 6.34%, FCF TTM USD 8.73bn, el mas alto en terminos absolutos de los tres contratistas de defensa de la sesion).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex bajo (TTM USD 1.67bn, ~2.17% de ventas) - el mas capital-light de los tres contratistas de defensa de la sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital solido: dividendo con yield 2.32% y payout 50.85% (el mas generoso de los tres contratistas de defensa de la sesion en terminos de yield), recompras activas, historial largo de crecimiento de dividendo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos NOTABLEMENTE MAS BARATOS que NOC-GD-HWM: P/E TTM 22.23x, forward 19.48x, EV/EBITDA 14.24x, P/FCF 15.77x - la valoracion mas razonable de los contratistas de defensa-aeroespacial de la sesion, consistente con las \"dudas de ejecucion\" que el mercado parece estar descontando pese al backlog record.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA: mismo patron de beta bajo-degenerado que NOC-GD, pero de MAYOR MAGNITUD (beta literal 0.11, el mas bajo de los tres) - LMT esta incluida en un ETF explicito de \"baja volatilidad\" (Franklin US Low Volatility High Dividend Index), confirmando que la baja volatilidad reportada es un hecho de mercado real, no solo un artefacto de una fuente. Chequeo de convergencia: con el beta literal, el multiplo terminal implicito (64.47x) diverge MASIVAMENTE del P/FCF real de mercado (15.77x, el MAS BARATO de los tres contratistas de defensa) - la brecha mas grande de todo el sub-sector defensa de la sesion. Se sustituyo por un beta iterado de 1.14 (notablemente MAS ALTO que el 0.75 de NOC y el 0.70 de GD, reflejo de que LMT cotiza a un multiplo real de mercado mas barato en relacion a su beta literal ultra-bajo que sus comparables) hasta converger. WACC resultante 9.00% (Ke CAPM 9.75% con beta sustituto 1.14; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~3.95%; estructura de capital a valor de mercado: Equity USD 139.2bn, Deuda USD 20.54bn). FCF base = TTM real USD 8.729bn (limpio). Crecimiento 5 anios = 6% (anclado a la conversion del backlog record y la guia FY2026 elevada); terminal 2.5%. Valor Intrinseco: USD 620.30/accion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: +2.84% (precio actual USD 603.14 vs valor intrinseco USD 620.30) - levemente positivo, cerca de valor razonable. Consenso de ~21 analistas: calificacion Hold (a diferencia del consenso mayormente Buy de NOC-GD), objetivo promedio USD 629.53 (+4.37%) - consenso NOTABLEMENTE MAS CAUTO que en NOC-GD, en buena convergencia con este DCF (ambos cerca de valor razonable con un sesgo levemente positivo) - uno de los pocos casos Industriales de la sesion (junto a ITW) donde el DCF propio y el consenso de analistas convergen de forma cercana.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en crecimiento estructural, mismo viento de cola de presupuestos de defensa de EEUU-aliados que NOC-GD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada EXTREMAS, misma categoria que NOC-GD: habilitaciones de seguridad de decadas, y en el caso especifico del F-35, una posicion practicamente unica como el unico caza de quinta generacion occidental en produccion de tasa completa.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: oligopolio de contratistas primos en general, pero el F-35 en particular es una posicion CAPTURADA-cuasi-exclusiva por decadas (unico caza de quinta generacion disponible para exportacion a la mayoria de aliados de EEUU); poder de negociacion del comprador (gobierno de EEUU-aliados) sigue siendo significativo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad ESTRUCTURALMENTE BAJA respecto al ciclo economico general (beta literal extremadamente bajo, 0.11, confirmado por su inclusion en un indice explicito de baja volatilidad) - mismo patron que NOC-GD, el gasto de defensa desacoplado del ciclo economico general.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio-politico real, mismo contexto que NOC-GD: dependencia del proceso presupuestario del Congreso de EEUU, ITAR, supervision del DoD; adicionalmente, las exportaciones del F-35 a aliados estan sujetas a aprobacion politica-diplomatica caso por caso.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria-geopolitica MODERADA, algo mayor que NOC-GD por las ventas de exportacion del F-35 a multiples paises aliados (sujetas a riesgo politico-diplomatico de cada relacion bilateral).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "GOTCHA: concentracion de cliente ALTA (gobierno de EEUU + aliados), con una concentracion de PROGRAMA adicional notable: el F-35 solo representa ~27% de las ventas consolidadas - un riesgo de concentracion doble (cliente Y programa) mas pronunciado que en NOC-GD.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico genuino en aviacion furtiva de quinta generacion (F-35), defensa antimisiles (PAC-3, THAAD), y sistemas espaciales - un portafolio tecnologico de punta comparable al de NOC-GD.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "GOTCHA: mismo riesgo ESG ESTRUCTURAL Y PERMANENTE que NOC-GD - como fabricante de armamento, LMT esta sujeto a exclusion categorica de fondos ESG-SRI por mandato.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: solicitud de presupuesto del Pentagono para el ano fiscal 2027 (85 F-35 adicionales), y si las \"dudas de ejecucion\" senaladas por analistas se resuelven o se materializan en problemas de programa concretos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-CONTEXTO DE MERCADO ESPECIFICO: a diferencia de NOC-GD (ambos con consenso Buy y desempenio de accion mas fuerte en 2026), LMT ha tenido un desempenio mas VOLATIL-REZAGADO este ano pese a su backlog record (titulares de analistas de ago-2026 hablan explicitamente de \"dudas de ejecucion\", con alta dispersion de narrativas sobre el desempenio reciente de la accion). El F-35 tiene tambien un historial propio de retrasos-sobrecostos en decadas pasadas (aunque ahora en produccion de tasa completa estable) - un antecedente relevante dado el patron ya documentado en NOC (B-21, Sentinel) de que los programas de defensa grandes de precio fijo-desarrollo temprano conllevan riesgo real, aunque el F-35 ya esta en una fase de programa mucho mas madura-estable que esos ejemplos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~21 analistas: calificacion HOLD (a diferencia del consenso Buy de NOC-GD) - notablemente mas cauteloso, objetivo promedio USD 629.53 (+4.37% de alza), en buena convergencia con este DCF.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.5135135135135136,
+    "recomendacion": "MANTENER - el mayor contratista de defensa puro por ingresos, con el programa de defensa mas grande de la historia (F-35) como ancla de un moat de habilitaciones de seguridad extremo (misma categoria que NOC-GD), backlog record de USD 230.42bn, y la valoracion mas razonable de los tres contratistas de defensa de la sesion (P/E 22.23x vs 34.5x+ de NOC); el DCF (con beta sustituido, la correccion mas grande del sub-sector dado el beta literal mas bajo, 0.11) da un margen de seguridad levemente positivo (+2.84%), en buena convergencia con un consenso de analistas notablemente mas cauteloso (Hold, +4.37%) que en NOC-GD - reflejo de 'dudas de ejecucion' reales que el mercado esta descontando pese al backlog record",
+    "tesis": "El mayor contratista de defensa por ingresos y dueno del F-35, el programa de defensa mas grande de la historia, cotizando a la valoracion mas razonable de los tres primes de defensa de la sesion pese a un backlog record - el mercado parece estar descontando 'dudas de ejecucion' reales que aun no se materializan en los numeros."
+  }
+}

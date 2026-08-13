@@ -1,0 +1,259 @@
+{
+  "empresa": "American Electric Power Company, Inc.",
+  "ticker": "AEP",
+  "sector": "Utilities - Electrica regulada multi-estado con transmision de alto voltaje",
+  "fecha_analisis": "2026-10-08",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Holding de utilities de generacion-transmision-distribucion en 11 estados (Ohio, Texas, Indiana, Michigan, Kentucky, Virginia Occidental, Arkansas, Luisiana, Oklahoma, Tennessee, Virginia). Segmentos: Vertically Integrated Utilities, Transmission and Distribution Utilities, AEP Transmission Holdco (una de las redes de transmision de alto voltaje -765kV- mas grandes y unicas de EEUU) y Generation & Marketing. Ingresos TTM 22.79bn USD. Capacidad total aprox 29 GW.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de monopolio regulado (mismo tipo que EXC-SO-NEE) PLUS una red de transmision extra-alto-voltaje (765kV) entre las mas grandes y tecnicamente unicas de EEUU - muy pocas utilities operan a esta clase de voltaje a la escala de AEP, un diferenciador de infraestructura dificil de replicar.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Uno de los mayores operadores de utilities de EEUU por territorio de servicio (11 estados) y por escala de red de transmision.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Regulado en 11 jurisdicciones estatales distintas - a diferencia de EXC (concentrado en Illinois-Pennsylvania) o SO (Alabama-Georgia-Mississippi), esta diversificacion regulatoria REDUCE el riesgo de que un solo entorno estatal hostil impacte desproporcionadamente los resultados consolidados.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Plan de capex de 78bn USD a 5 anios, con mas de 10bn USD adicionales identificados (proyectos de transmision en PJM-SPP, proyecto de celdas de combustible en Wyoming, oportunidad de transmision Piketon en Ohio). Historial de pago de dividendo de 116 anios continuos segun una fuente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Gobernanza estandar de utility holding, sin escandalos identificados esta sesion (a diferencia de NEE) - no investigada con profundidad especifica de compensacion-ownership de insiders.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria estandar, una sola clase de acciones, sin control familiar-fundador dominante identificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guidance elevado activamente (guia de EPS operativo 2026 elevada a 6.25-6.55 USD), plan de capex con proyectos especificos nombrados (Piketon, Wyoming) en vez de cifras genericas - buena divulgacion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta entre EBITDA aprox 6.05x - elevado, en el rango medio-alto de las cuatro utilities de este Dashboard (EXC 5.65x, SO 5.43x, NEE 6.61x). Calificacion crediticia grado de inversion pero la mas moderada de las cuatro: Baa2 (Moodys), BBB (S&P), BBB (Fitch), todas con perspectiva estable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "No investigada con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Perfil de vencimientos no investigado con precision; financiamiento activo balanceado con emisiones de equity (contratos de venta forward, aprox 1.7bn USD de ingresos netos esperados de liquidaciones pendientes) ademas de deuda - un enfoque mas balanceado que depender solo de deuda nueva.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Mezcla de activos regulados de T&D mas generacion (aun aprox 39% de la capacidad en carbon, transicionando a aprox 28% para 2030) mas la red de transmision de 765kV, el activo mas diferenciador de AEP.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen neto TTM 13.78% (Utilidad Neta TTM 3.14bn USD entre Ingresos TTM 22.79bn USD) - en el rango medio de las utilities de este Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM aprox 9.42% (Utilidad Neta TTM 3.14bn USD entre Patrimonio contable 33.35bn USD) - justo en el centro del rango tipico de ROE autorizado por reguladores estatales (9-10.5%), y ligeramente por encima del costo de equity sustituto adoptado (8.79%) - spread de valor positivo modesto. A diferencia de NEE, esta cifra NO esta distorsionada por mark-to-market de hedges no calificados (no se identifico ese gotcha en AEP esta sesion) - un cruce mas confiable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja (aprox 0.19x, Ingresos TTM 22.79bn USD entre Activos 121.57bn USD) - estructural, similar a los peers.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Guia de crecimiento de EPS operativo reafirmada en 7-9% anual hasta 2030, con un CAGR esperado real superior a 9% segun la propia gerencia - entre las guias de crecimiento mas fuertes del sector Utilities de este Dashboard, junto a SO y NEE.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Sin gotcha de distorsion GAAP identificado esta sesion (a diferencia de NEE), guidance elevado de forma consistente en trimestres recientes - buena consistencia de la trayectoria de crecimiento comunicada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "69 GW de nuevas adiciones de carga guiadas hasta 2030 (cifra enorme, impulsada por centros de datos), plan de capex de 78bn USD a 5 anios mas incremental de 10bn+ USD adicional, proyectos de transmision recientemente adjudicados en PJM y SPP. La subasta de capacidad de PJM mas reciente subio hasta 830% (de aprox 29 USD/MW-dia a aprox 270 USD/MW-dia, con zonas llegando a 444-466 USD/MW-dia) - evidencia de mercado independiente de la magnitud de la demanda de centros de datos en el territorio de AEP.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "EPS operativo (no-GAAP, metrica estandar de utilities) guiado directamente por la gerencia con rangos especificos, elevado activamente - sin senales de distorsion GAAP relevante identificadas esta sesion (a diferencia de NEE).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF no verificado con precision numerica esta sesion (P/FCF no disponible por el mismo patron de capex elevado que el resto de las utilities de este Dashboard) - razonable asumir compresion-negatividad por el plan de capex de 78bn USD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex abrumadoramente de CRECIMIENTO: construccion de transmision para PJM-SPP y centros de datos, nueva generacion (incluida gas en Indiana Michigan Power), proyectos incrementales (Piketon Ohio, celdas de combustible Wyoming).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo creciente, financiamiento BALANCEADO del plan de capex de 78bn USD via deuda Y emision activa de acciones (contratos forward, aprox 1.7bn USD de ingresos netos esperados) - un enfoque mas equilibrado que depender solo de apalancamiento adicional, aunque implica dilucion real para accionistas existentes.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E 21.78x (trailing) a 19.10x (forward) - similar a SO (22.32x-20x), mas caro que EXC (16.78x), reflejo de la fuerte guia de crecimiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco (Escenario A adoptado, DDM sobre EPS operativo ajustado con beta sustituto, descontado al costo de equity) = 150.22 USD por accion. Ver Dashboard columna Notas para el detalle completo de la metodologia.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad +22.6% (Escenario A adoptado) frente al precio actual de 122.52 USD - el MAS ALTO de las cuatro utilities de este Dashboard, bien calibrado contra el multiplo de mercado (terminal implicito aprox 21.7x, casi identico al P/E actual de 21.78x) y consistente en direccion con el consenso de analistas (Compra, +17.92%).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Demanda esencial-inelastica mas una de las historias de crecimiento de carga por centros de datos mas fuertes del sector (69 GW de nuevas adiciones guiadas a 2030), confirmada de forma independiente por la subasta de capacidad de PJM (incremento de hasta 830%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: monopolio regulado PLUS una red de transmision de 765kV genuinamente dificil de replicar (muy pocas utilities de EEUU operan a esta escala de alto voltaje).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Mayormente regulado (misma dinamica que EXC-SO), con el segmento Generation & Marketing aportando algo de exposicion competitiva-de mercado, en menor escala relativa que Southern Power (SO) o NEER (NEE).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad baja estructural (negocio mayormente regulado), con una porcion modesta de exposicion competitiva via Generation & Marketing.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Diversificacion regulatoria en 11 estados reduce el riesgo de concentracion en un solo regulador (ventaja real frente a EXC-SO). Sin caso tarifario adverso activo identificado esta sesion (a diferencia del caso de PECO retirado de EXC). Riesgo emergente a monitorear: el fuerte incremento de precios de capacidad en PJM (hasta 830%) podria generar presion politica-de asequibilidad similar a la ya vista en Georgia-Maryland para otros peers, dado que gran parte del territorio de AEP esta en PJM.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Sin exposicion a tipo de cambio - 100% operaciones domesticas en EEUU (11 estados).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "La diversificacion en 11 estados REDUCE la concentracion de riesgo regulatorio-estatal comparado con EXC (ComEd aprox 38-40% de ingresos) o SO (Georgia Power probablemente el mayor contribuyente) - una ventaja estructural real de AEP frente a sus peers de este Dashboard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de transicion real y mayor que SO: AEP aun tiene aprox 39% de su capacidad en carbon (mas alto que el 18% de SO), con plan de reduccion a aprox 28% para 2030 mientras renovables suben de aprox 23% a aprox 37% de capacidad - transicion en curso pero con mas exposicion actual que otros peers del Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Exposicion ESG relevante dada la porcion aun significativa de generacion a carbon (aprox 39% de capacidad actual) - consideracion real de riesgo ambiental-de transicion, similar en espiritu a SO pero con una proporcion de carbon actualmente mas alta.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Catalizadores mayormente positivos: conversion continua del pipeline de 69 GW de nueva carga a demanda contratada firme; ejecucion del plan de capex de 78bn USD mas incremental; evolucion de los precios de capacidad de PJM y cualquier respuesta politica-regulatoria asociada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Datos especificos de compras-ventas de insiders no investigados con profundidad esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura favorable: consenso de Compra entre 24 analistas, precio objetivo 144.48 USD (aprox +17.92% sobre el precio actual) - consistente en direccion con el DDM bottom-up de esta ficha (+22.6%), similar calidad de convergencia a la observada con AMT.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.945945945945946,
+    "recomendacion": "COMPRAR - cuarta utility del Dashboard, con el mejor balance riesgo-retorno de las cuatro analizadas: red de transmision de 765kV de las mas grandes y unicas de EEUU, huella diversificada en 11 estados (reduce la concentracion regulatoria-politica de un solo estado que afecta a EXC-SO-NEE), sin senales de escandalo de gobernanza (a diferencia de NEE) ni de distorsion GAAP por mark-to-market. El beta reportado (0.51) es tambien degenerado (sexta confirmacion del gotcha) - con un beta sustituto razonado via Hamada (no apalancado 0.60), el DDM sobre EPS operativo ajustado da un Margen de Seguridad de +22.6%, el mas alto entre las utilities de este Dashboard, bien calibrado contra el multiplo de mercado (terminal implicito 21.7x, casi identico al P/E actual de 21.78x) y consistente en direccion con el consenso de 24 analistas (Compra, +17.92%). Riesgo real a monitorear: exposicion a carbon todavia relevante (aprox 39% de la capacidad actual, transicionando a 28% para 2030) y el riesgo politico-de asequibilidad emergente ligado al fuerte incremento de precios de capacidad en PJM (hasta 830% en una subasta reciente) que podria generar friccion regulatoria similar a la ya vista en Georgia-Maryland para otros peers.",
+    "tesis": "Utility diversificada en 11 estados con una de las redes de transmision de alto voltaje mas grandes y dificiles de replicar de EEUU, beneficiandose de una de las historias de crecimiento de carga por centros de datos mas fuertes del sector (69 GW de nuevas adiciones de carga guiadas a 2030), cotizando con un margen de seguridad solido y sin las senales de alarma de gobernanza o distorsion contable que afectan a otros peers del sector analizados en esta sesion."
+  }
+}

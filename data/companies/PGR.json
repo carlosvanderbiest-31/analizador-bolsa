@@ -1,0 +1,259 @@
+{
+  "empresa": "The Progressive Corporation",
+  "ticker": "PGR",
+  "sector": "Financiero - Seguros P&C (Auto Personal-Comercial)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Dos segmentos: Personal Lines (83% del negocio, auto ~90% de personal, mas propiedad-hogar para bundling) y Commercial Lines (auto comercial, con resultados de suscripcion que superan consistentemente al promedio de la industria pese a vientos en contra de inflacion social-veredictos nucleares). Modelo de distribucion hibrido: directo al consumidor mas agentes independientes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat centrado en TELEMATICA-DATOS: programa Snapshot (seguro basado en uso, UBI) con ~27 millones de conductores inscritos a 3T 2025, dos decadas de ventaja de first-mover en telematica frente a competidores que recien estan poniendose al dia - motor de segmentacion-precificacion de riesgo muy superior. Distribucion hibrida directo-agentes le da alcance que un modelo puramente directo (GEICO) o puramente de agentes (State Farm, Allstate) no tiene por separado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Uno de los tres mayores aseguradores de auto de EEUU junto a State Farm y GEICO (Berkshire). Crecimiento de polizas fuerte (mas de 40 millones de polizas de lineas personales), aunque el crecimiento reciente se ha desacelerado tras subir tarifas agresivamente para defender el combined ratio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios real via ventaja de datos-segmentacion (Snapshot permite discriminar riesgo con mas precision que competidores), pero el negocio de auto personal es fundamentalmente mas COMMODITIZADO-COMPETITIVO que el de Ratings-Indices (SPGI-MCO) o el de HNW-especialidad de CB - los clientes comparan precio activamente y cambian de aseguradora con relativa facilidad.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Tricia Griffith (desde 2016, en la empresa desde 1988 como representante de siniestros) - foco estrategico en crecer el bundling hogar-auto (de 400,000 a mas de 1 millon de clientes bajo su gestion). Recompras y dividendos consistentes, aunque con una POLITICA DE DIVIDENDO INUSUAL (ver fila 38).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "No investigado en profundidad esta sesion - tenencia de insiders baja (0.28%), pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes, sin control familiar-fundador dominante.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados. Entorno regulatorio estandar de seguros de auto a nivel estatal en EEUU (49-50 reguladores distintos, tipico de la industria, no un riesgo idiosincratico de PGR).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Metrica NO aplica limpiamente al modelo de seguros - se uso Debt/Equity (0.24, USD 8.39bn deuda sobre USD 34.33bn patrimonio) como sustituto, apalancamiento bajo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.74 (Finviz) - misma limitacion de interpretacion ya documentada con CB, poco informativa para el balance de una aseguradora.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance limpio, sin el patron de goodwill-intangibles pesado que tiene CB (crecimiento mayormente organico, sin una mega-fusion como ACE-Chubb) - patrimonio contable y patrimonio tangible deberian estar mucho mas cerca entre si que en CB (no verificado con una cifra exacta de TBV esta sesion).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Combined ratio EN DETERIORO reciente: 86.2% (2T 2025) a 87.3% (2T 2026), con junio especificamente deteriorandose a 90.0% (vs 86.6% el ano anterior) - todavia refleja utilidad de suscripcion (menor a 100%) pero la tendencia es de normalizacion desde niveles excepcionalmente favorables, no de mejora continua. Margen operativo 16.56%, margen neto 12.85% (Finviz).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM de 34.94% (Finviz) - el mas alto de las tres aseguradoras-datos del sector Financiero analizadas en la sesion (SPGI, MCO, CB), pero ESTA EN PICO CICLICO (ver gotcha de fila 41) y no deberia extrapolarse literal a perpetuidad.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Metrica de rotacion de activos tradicional no aplica de forma informativa al balance de una aseguradora - se dejo en blanco en el Dashboard, mismo criterio que CB.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios de 15.50% (Finviz) - fuerte pero parcialmente inflado por el ciclo de mercado duro de precios de auto de 2022-2024 (subas de tarifa agresivas tras el pico de inflacion de siniestros post-pandemia), no puramente organico-estructural.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento con volatilidad de margen genuina y ACTUALMENTE EN REVERSION: analistas recortaron precios objetivo tras el 2T 2026 por el deterioro del combined ratio; el consenso de EPS proyecta CRECIMIENTO NEGATIVO (-7.69% el proximo ano, -4.09% a 5 anos) - patron distinto a la mayoria de empresas del Dashboard, reflejo honesto de que la rentabilidad actual esta en un punto alto del ciclo de suscripcion de auto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Motores de crecimiento futuro: expansion del bundling hogar-auto, profundizar la ventaja de datos de Snapshot, crecimiento de polizas (mas de 40 millones en lineas personales), aunque el crecimiento de corto plazo se ve opacado por la necesidad de subir tarifas para defender margen.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Igual que CB, el concepto de OCF-calidad de ganancias tradicional no se traduce limpiamente a una aseguradora - la utilidad de suscripcion (combined ratio) es la metrica de calidad mas relevante, y esta en tendencia de deterioro reciente (ver fila 27), una senal de alerta genuina a diferencia de CB donde la tendencia era mas estable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conceptos de FCF-conversion de EBITDA no aplican de forma limpia - se dejaron en blanco en el Dashboard, mismo criterio que CB.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Concepto de capex tradicional no aplica de forma significativa - se dejo en blanco en el Dashboard.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "GOTCHA: politica de dividendo INUSUAL y potencialmente confusa para agregadores de datos. Desde 2007 (refinada en 2018), Progressive combina un dividendo trimestral regular PEQUENO (USD 0.40 anual, yield de solo 0.19% segun stockanalysis) con un DIVIDENDO VARIABLE ANUAL mucho mas grande basado en una formula ligada a la utilidad de suscripcion despues de impuestos y un factor de desempeno (Gainshare factor, de 0 a 2x) - esto explica la discrepancia MASIVA entre fuentes (Finviz reporta yield TTM de 6.50% con payout de 72.29%, incluyendo el dividendo variable reciente, mientras stockanalysis solo captura el dividendo regular). No usar ninguna cifra de dividendo de un agregador sin verificar si incluye o excluye el dividendo variable del ano.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM aparentemente barato (10.72-10.74x) pero MECANICAMENTE bajo por el ROE actual excepcionalmente alto (P/E = P/B entre ROE); el P/E FORWARD es mas alto que el TTM (13.22-13.25x vs 10.72x) -patron inusual que confirma que el mercado ya espera compresion de margen-, consistente con el guidance de EPS negativo a futuro. P/B de 3.62-3.66x es el mas alto de las tres aseguradoras-datos de la sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO NUEVO: Gordon growth sobre libro con ROE actualmente en PICO CICLICO - no usar el ROE TTM (34.94%) literal en la formula de perpetuidad sin normalizar, mismo espiritu del gotcha ya establecido para bases de FCF de commodities ciclicos (MU-SNDK) pero aplicado aqui al INPUT DE ROE de un modelo de Gordon growth sobre libro en vez de al FCF base de un DCF. El combined ratio esta en tendencia de deterioro (86.2% a 87.3% a 90.0% en junio) desde niveles excepcionalmente favorables del mercado duro de precios de auto 2022-2024, y el consenso ya proyecta EPS NEGATIVO a futuro (-7.69% proximo ano). Se adopto un ROE NORMALIZADO de 28% (punto medio razonado entre el 34.94% TTM sin ajustar y una estimacion mas conservadora de 22%), documentado explicitamente como estimacion propia. Valor Intrinseco (Escenario A adoptado): USD 209.28/accion = BVPS (USD 58.50) x (ROE normalizado 28% menos g 4%) sobre (Ke 10.71% menos g 4%). Beta sustituto REUTILIZADO de CB (unlevered 1.10, comparable directo de la misma sub-industria de seguros P&C, extendiendo el criterio CVX-XOM/CL-PG), releverado con la estructura de capital propia de PGR (D/E 0.244, tax ~23%) -> beta relevered 1.31, Ke 10.71%. Beta LITERAL (0.26) es aun MAS degenerado que el de CB: produce un P/B justificado absurdo de 33.27x frente al P/B de mercado real de apenas 3.66x -la brecha relativa mas extrema del Dashboard hasta ahora-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -2.23% (precio actual USD 214.05 vs valor intrinseco USD 209.28) - PRACTICAMENTE NEUTRO en el escenario adoptado, pero con la sensibilidad MAS AMPLIA de todo el Dashboard al supuesto de entrada elegido (no al beta, sino al ROE normalizado): Escenario B (ROE TTM sin normalizar, 34.94%) da +26.03%; Escenario C (ROE mas conservador, 22%) da -26.71% - un rango de 53 puntos porcentuales segun un SOLO supuesto cualitativo, mayor incluso que la sensibilidad de ROTCE ya documentada en JPM (19 puntos) o la de WACC en SPGI. Consenso de 25 analistas con calificacion HOLD (no Buy) pese a un precio objetivo promedio nominalmente positivo (+7.35% a +8.6%) - consistente con el escenario adoptado (cerca de valor justo, no una senal de compra clara).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y maduro: mercado de seguro de auto personal de EEUU, ya muy penetrado (no es un mercado de alto crecimiento estructural como el de datos financieros), crecimiento ligado principalmente a inflacion de primas y ganancia de cuota de mercado, no a expansion de la categoria.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada moderadas-altas: escala de datos (Snapshot, 27 millones de conductores), eficiencia de marketing-adquisicion de clientes a gran escala, licencias regulatorias estado por estado - mas bajas que las de CB-SPGI-MCO (el seguro de auto personal tiene mas competidores creibles y el cliente compara precio activamente).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: rivalidad ALTA (mercado de auto personal muy competido: State Farm, GEICO-Berkshire, Allstate, USAA, y muchos mas), poder de compradores alto (los clientes comparan precio activamente y cambian de aseguradora con facilidad), amenaza de sustitutos baja (seguro de auto es obligatorio por ley en la mayoria de estados), amenaza de nuevos entrantes moderada, poder de proveedores bajo (talleres-partes fragmentados).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad de MARGEN genuina y observable en tiempo real: el combined ratio se mueve con el ciclo de inflacion de siniestros (reparacion, medica, inflacion social-veredictos nucleares) vs la velocidad de ajuste de tarifas reguladas estado por estado - un desfase que comprime margenes cuando los costos suben mas rapido que lo que los reguladores permiten subir tarifas. Menos exposicion a riesgo de COLA-catastrofe que CB (auto es mas frecuencia que severidad extrema), pero mas exposicion a ciclos de margen de corto-mediano plazo.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio real y especifico: aprobacion de tarifas estado por estado en EEUU puede generar desfases entre el aumento de costos de siniestros y la capacidad de subir precios, un riesgo estructural del negocio de auto personal regulado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria minima - negocio casi enteramente domestico de EEUU, a diferencia de CB (aseguradora verdaderamente global).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes muy diversificada (millones de polizas individuales, sin concentracion relevante). Riesgo de inflacion social-veredictos nucleares en el segmento de auto comercial es un riesgo de la industria mas que de concentracion de cliente especifico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "El riesgo tecnologico es tambien una FORTALEZA aqui (a diferencia del riesgo generico de IA en SPGI-MCO-CB): el propio moat de PGR ES tecnologico (Snapshot-telematica), asi que la disrupcion tecnologica del sector podria beneficiar a PGR (ya lider) o amenazarla si un competidor logra un salto mayor (ej. datos de vehiculos conectados-autonomos de fabricantes de autos, riesgo de largo plazo a monitorear).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo, sin exposicion estructural tipo combustibles fosiles-tabaco. Exposicion climatica mucho menor que CB (mayormente auto, no propiedad-catastrofe), aunque el segmento de Property (hogar, para bundling) si tiene alguna exposicion a catastrofes de menor escala que la cartera comercial-HNW de CB.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Seguimiento trimestral del combined ratio como la variable mas importante de monitorear (tendencia de deterioro reciente); anuncio del dividendo variable anual tipicamente en el 4T; crecimiento de polizas de lineas personales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion - pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de 25 analistas: calificacion HOLD (no Buy, a diferencia de CB-SPGI-MCO que tuvieron consenso Buy-Strong Buy) con precio objetivo promedio USD 229.78-232.48 (+7.35% a +8.6%) - la calificacion cautelosa pese a un precio objetivo nominalmente positivo es coherente con el deterioro reciente del combined ratio y converge razonablemente con el escenario adoptado de este DDM (practicamente neutro).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.2432432432432434,
+    "recomendacion": "MANTENER - moat de datos-telematica excelente (Snapshot), pero combined ratio en deterioro reciente y ROE actual en pico ciclico; el DDM sobre libro (ROE normalizado) da un margen de seguridad practicamente neutro (-2.23%) con la sensibilidad mas amplia de todo el Dashboard (-26.7% a +26.0% segun el ROE normalizado elegido)",
+    "tesis": "Lider en telematica de auto (Snapshot) con dos decadas de ventaja de datos, pero el combined ratio se esta deteriorando desde niveles de pico ciclico y el consenso de analistas es Hold, no Buy - valorar con el ROE normalizado, no el TTM."
+  }
+}

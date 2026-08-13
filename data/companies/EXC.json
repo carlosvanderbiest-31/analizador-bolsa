@@ -1,0 +1,259 @@
+{
+  "empresa": "Exelon Corporation",
+  "ticker": "EXC",
+  "sector": "Utilities - Transmision y distribucion electrica-gas regulada",
+  "fecha_analisis": "2026-10-08",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Holding de seis utilities de transmision-distribucion 100% reguladas (ComEd en Illinois, PECO en Pennsylvania, BGE en Maryland, Pepco en DC-Maryland, DPL-Delmarva en Delaware-Maryland, ACE en Nueva Jersey), sirviendo a mas de 10.7 millones de clientes. Sin generacion de electricidad (escindida a Constellation Energy -CEG, ya en este Dashboard- en 2022). Ingresos TTM 25.33bn USD. ComEd es el mayor contribuyente (aprox 38-40% de ingresos), PECO el segundo (aprox 22-24%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de monopolio regulado clasico, el tipo de moat estructural mas fuerte posible por definicion: territorios de franquicia exclusivos otorgados por reguladores estatales, infraestructura fisica de red imposible de duplicar, mecanismo de recuperacion de costos garantizado via casos tarifarios.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Proveedor unico-exclusivo en cada uno de sus seis territorios de servicio por definicion regulatoria - no aplica el concepto tradicional de cuota de mercado competitiva.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "A diferencia del resto del Dashboard, el \"poder de fijacion de precios\" no es de mercado sino REGULATORIO: las tarifas las fijan los reguladores estatales via casos tarifarios. Resultados MIXTOS recientes: ordenes tarifarias favorables en Illinois-Maryland-DC-Delaware-Pennsylvania agregaron aprox 1.6bn USD de ingresos en 2024, pero el caso tarifario de PECO en Pennsylvania fue RETIRADO en 2026 y hay presion politica de asequibilidad activa en Maryland - el entorno regulatorio se ha vuelto genuinamente mas dificil.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "La escision de Constellation Energy (CEG) en 2022 (separando las wires reguladas de la generacion competitiva) fue una simplificacion estructural que creo valor en ambas entidades resultantes. Plan de capex de 41.7bn USD a 4 anios enfocado en crecimiento de rate base (7.9% guiado). Crecimiento de dividendo guiado en 5% anual.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Gobernanza estandar de holding de utility, sin senales de alarma identificadas pero tampoco investigada con profundidad especifica de compensacion-ownership de insiders esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria estandar, una sola clase de acciones, sin control familiar-fundador dominante identificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guidance detallado (rango de EPS operativo ajustado, crecimiento de rate base, plan de capex a 4 anios), divulgacion transparente del retiro del caso tarifario de PECO en Pennsylvania en vez de ocultar la friccion regulatoria.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA aprox 5.65x - ELEVADO, aprox 48% por encima de su propia mediana de 10 anios (3.85x segun GuruFocus), reflejo del plan de capex agresivo en curso. Calificacion crediticia grado de inversion en el holding (BBB+ S&P, Baa2 Moodys) pero mas moderada que la de las REITs de este Dashboard; las subsidiarias operativas (ComEd, PECO, BGE) tienen calificaciones individuales mas altas (grado A), reflejo de subordinacion estructural tipica de un holding de utility.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "No investigada con precision esta sesion; acceso a mercados de capital de grado de inversion presumiblemente adecuado dado el plan de capex en curso financiado activamente via emisiones planificadas de deuda-equity.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Perfil de vencimientos no investigado con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por infraestructura regulada de Planta-Propiedad-Equipo (87.1bn USD de 120.5bn USD de activos totales) - activos de la mas alta calidad posible en terminos de garantia de recuperacion de costos via tarifas reguladas.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen neto TTM 10.97% (Utilidad Neta TTM 2.78bn USD entre Ingresos TTM 25.33bn USD) - moderado, tipico del rango de utilities reguladas. Tendencia de 5 anios no verificada con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM aprox 9.36-9.94% (dos fuentes), consistente con el rango tipico de ROE AUTORIZADO por reguladores estatales de utilities electricas en EEUU (aprox 9-10.5%) - buena seÃ±al de que la empresa gana cerca de su retorno autorizado, ni muy por encima ni por debajo. Pero este ROE queda cerca o incluso ligeramente POR DEBAJO del costo de equity sustituto adoptado (10.49%) - spread de valor marginal, no claramente positivo como en las REITs de este Dashboard. ROIC 4.16% (bajo, reflejo del alto apalancamiento intencional de la estructura de capital regulatoria).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja (aprox 0.21x, Ingresos TTM 25.33bn USD entre Activos 120.5bn USD) - estructural y esperable en una utility de capital muy intensivo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento guiado de EPS operativo ajustado de 5-7% anual compuesto 2025-2029 (\"cerca del extremo superior\"), crecimiento de rate base total de 7.9%, rate base de transmision creciendo aprox 15% anual (la pieza de mayor crecimiento, ligada a modernizacion de red-interconexion de centros de datos).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Las ganancias de utilities reguladas estan entre las mas estables-predecibles del mercado por diseno regulatorio (mecanismos que suavizan efectos de clima-ciclo economico), aunque la friccion regulatoria real actual (caso de PECO retirado, presion de asequibilidad en Maryland) introduce incertidumbre genuina de corto plazo al algoritmo de crecimiento habitualmente suave.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Plan de capex de 41.7bn USD a 4 anios, pipeline de carga de centros de datos-IA de 19 GW en Illinois (45% asegurado via acuerdos de seguridad de transmision), aunque el pipeline total de centros de datos fue REVISADO A LA BAJA de 43 GW a 36 GW (removiendo proyectos especulativos) - seÃ±al de disciplina realista, no solo entusiasmo sin filtro. Tendencias de electrificacion mas amplias tambien relevantes.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "EPS operativo ajustado (no-GAAP, metrica estandar de la industria de utilities, excluye partidas no recurrentes-mark-to-market) guiado directamente por la gerencia con rangos especificos - buena visibilidad y practica estandar del sector.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM NEGATIVO (-1.92bn USD, yield -4.07%) porque el capex (aprox 10.4bn USD anuales del plan de 41.7bn a 4 anios) excede el flujo de caja operativo actual - patron esperado y explicable para una utility en fase de crecimiento agresivo de rate base (mismo tipo de gotcha de capex de crecimiento ya documentado con WMB-AMZN-LIN, aqui en su version mas extrema, FCF llega a ser negativo), financiado via emisiones planificadas de deuda-equity, no seÃ±al de deterioro del negocio subyacente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex abrumadoramente de CRECIMIENTO-modernizacion (modernizacion de red, construccion de transmision para interconexion de centros de datos, expansion de rate base) - por diseno, esta ES la forma en que una utility regulada crea valor (cada dolar de rate base prudentemente invertido gana el ROE autorizado).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo creciendo 5% anual (moderado, sostenible dado el ratio de payout tipico de utilities de aprox 55-65%, no verificado con precision exacta esta sesion), fuerte reinversion en rate base (el motor de valor central), apalancamiento elevado pero dentro de metricas crediticias objetivo propias declaradas (\"cerca de 14% en Moodys y S&P\").",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E 16.78x (trailing) a 15.48x (forward) - RAZONABLE para una utility regulada, tipicamente en linea con o mas barato que muchos peers del sector (16-20x es comun), notablemente MENOS exigente que las REITs analizadas en sesiones recientes de este Dashboard. EV/EBITDA 10.85x tambien moderado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco (Escenario A adoptado, DDM sobre EPS operativo ajustado con beta sustituto, descontado al costo de equity) = 47.32 USD por accion. Ver Dashboard columna Notas para el detalle completo de la metodologia y el gotcha de beta degenerado (mismo patron ya documentado con VZ-KO-T-AMT).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad +5.8% (Escenario A adoptado) frente al precio actual de 44.74 USD - positivo pero modesto, casi neutro. Sensibilidad alcista (beta sustituto menos conservador): +25.2%. Consenso de analistas: precio objetivo 49.44 USD (+10.51%) pero con calificacion de consenso \"Hold\" (no \"Buy\") - una seÃ±al genuinamente mixta, no una convergencia clara.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Demanda de electricidad es esencialmente inelastica-esencial (todos necesitan electricidad), mas crecimiento incremental de electrificacion y carga de centros de datos-IA (pipeline de 19 GW en Illinois, aunque moderado tras la revision a la baja del pipeline total).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada las mas altas posibles por definicion: franquicia regulatoria exclusiva otorgada por el estado, imposible para un nuevo entrante competir sin autorizacion regulatoria y sin duplicar infraestructura de red masiva.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Marco de Porter tradicional poco aplicable - el verdadero campo de batalla competitivo son las NEGOCIACIONES REGULATORIAS (casos tarifarios) con las comisiones estatales, no la rivalidad de mercado. El poder de los clientes se expresa via presion politica-regulatoria (retiro del caso de PECO, presion de asequibilidad en Maryland) en vez de cambiar de proveedor.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad MUY BAJA - uno de los modelos de negocio mas defensivos-no ciclicos de todo el Dashboard, gracias a mecanismos regulatorios que suavizan efectos de clima-ciclo economico sobre los ingresos.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "EL RIESGO CENTRAL de esta tesis de inversion: caso tarifario de PECO en Pennsylvania RETIRADO en 2026, calendario denso de casos tarifarios en Maryland-Delaware-Illinois manteniendo el riesgo regulatorio activo, nueva legislacion de asequibilidad en Maryland con presion politica real sobre las tarifas. El entorno regulatorio se ha vuelto genuinamente mas dificil, no es un riesgo generico de manual.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Sin exposicion a tipo de cambio - 100% operaciones domesticas en EEUU (Illinois, Pennsylvania, Maryland, DC, Delaware, Nueva Jersey), a diferencia de las tres REITs analizadas en sesiones recientes de este Dashboard que si tenian exposicion internacional relevante.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "ComEd (Illinois) por si sola representa aprox 38-40% de los ingresos regulados consolidados - concentracion de riesgo REGULATORIO-ESTATAL relevante (si el entorno regulatorio de Illinois se vuelve hostil, impacta desproporcionadamente a Exelon), aunque la base de clientes individuales (mas de 10.7 millones) esta maximamente diversificada en el sentido tradicional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico bajo de disrupcion directa al negocio de wires (la infraestructura fisica de red no es facilmente disrumpible, y la modernizacion de red-demanda de centros de datos es un viento de cola, no una amenaza). Generacion distribuida-solar residencial podria reducir el uso de la red en el muy largo plazo, un riesgo conocido y modesto del sector.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Relevancia ESG real pero distinta a una generadora (CEG): al ser 100% transmision-distribucion sin generacion propia desde la escision de 2022, las emisiones directas son mucho menores, pero enfrenta escrutinio real sobre asequibilidad-equidad (preocupaciones de justicia ambiental por aumentos de tarifas a consumidores de bajos ingresos, citadas explicitamente como riesgo politico actual en Maryland).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Catalizadores-riesgos pendientes: resolucion del caso tarifario retirado de PECO en Pennsylvania (posible nueva presentacion); si el pipeline de carga de centros de datos (36 GW tras la revision a la baja) se mantiene o se revisa de nuevo; ejecucion del plan de capex de 41.7bn USD a 4 anios.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Datos especificos de compras-ventas de insiders no investigados con profundidad esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura MIXTA genuina: precio objetivo promedio 49.44 USD (aprox +10.51% sobre el precio actual) pero calificacion de consenso \"Hold\", no \"Buy\" - una combinacion inusual que refleja incertidumbre real entre analistas, a diferencia del consenso mas unanime observado en otras empresas de este Dashboard.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.6216216216216215,
+    "recomendacion": "MANTENER - primera empresa de Utilities del Dashboard (sector que quedaba vacio), monopolio regulado clasico de transmision-distribucion (sin generacion, escindida a Constellation Energy -CEG- en 2022) con el moat estructural mas fuerte posible por definicion (territorios de franquicia exclusivos). El beta reportado (0.40) es tambien economicamente degenerado para un DDM de perpetuidad (mismo gotcha ya documentado con VZ-KO-T-AMT) - se uso un beta sustituto via Hamada (no apalancado 0.70) que da un DDM sobre EPS operativo ajustado con Margen de Seguridad apenas +5.8% (sensibilidad alcista con beta menos conservador: +25.2%), consistente en signo pero mas modesto que el consenso de analistas (objetivo +10.51%, aunque la calificacion de consenso es Hold, no Buy - una senal mixta genuina). El apalancamiento (Deuda Neta/EBITDA aprox 5.65x, 48% por encima de su propia mediana de 10 anios) y la friccion regulatoria real y actual (caso tarifario de PECO retirado en Pennsylvania, presion de asequibilidad en Maryland) son los riesgos centrales a monitorear antes de aumentar posicion.",
+    "tesis": "Monopolio regulado de transmision-distribucion electrica en seis territorios de franquicia exclusivos, con un algoritmo de crecimiento bien guiado (EPS +5-7% anual, rate base +7.9%) pero cotizando con un margen de seguridad apenas positivo dado el apalancamiento elevado y la friccion regulatoria real que atraviesa actualmente en varios de sus estados."
+  }
+}

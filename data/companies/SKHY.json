@@ -1,0 +1,259 @@
+{
+  "empresa": "SK hynix Inc.",
+  "ticker": "SKHY",
+  "sector": "Tecnologia - Semiconductores de memoria (DRAM, NAND, HBM lider para IA)",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Fabricante de chips de memoria: DRAM, NAND flash, SSD, y sobre todo HBM (memoria de alto ancho de banda, componente critico para GPUs de IA). Ingresos TTM 122.16 mil millones USD (+145.0 por ciento), impulsados por un superciclo de precios de memoria: precios de DRAM subieron aprox 30 por ciento, NAND subio en el rango medio de 50 por ciento en el 2T 2026. Margen operativo del 2T 2026: 76 por ciento (extraordinario, no sostenible historicamente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat tecnico real y especifico en HBM: fue la primera empresa en desarrollar HBM y mantiene una relacion estrecha con NVIDIA (su principal socio de suministro de HBM). Pero el moat se esta ERODANDO activamente: cuota de mercado de HBM cayo de 69 por ciento a 58 por ciento en solo doce meses mientras Samsung inicia produccion de volumen de HBM4 y Micron acelera su expansion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Numero UNO en HBM (58 por ciento de cuota, aunque en declive), pero numero DOS en DRAM general (29.1 por ciento, detras de Samsung) y numero TRES en NAND (18.5 por ciento) - liderazgo real pero no uniforme across todas las categorias de memoria. Micron esta generando crecimiento mas rapido y margenes mas altos recientemente segun analistas independientes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Extremo en el momento actual (margen operativo 76 por ciento) pero esto es explicitamente un fenomeno de PICO DE CICLO, no poder de fijacion de precios estructural sostenible - la propia empresa tuvo una PERDIDA neta en el ano fiscal 2023 (hace apenas 2-3 anios) durante la fase baja del mismo ciclo de memoria.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "No investigado con profundidad en esta sesion (dato pendiente). SK hynix forma parte del conglomerado SK Group (chaebol coreano) - consideraciones de gobernanza tipicas de estructuras de conglomerado coreanas no exploradas con detalle en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "No investigado con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Cotiza principalmente como accion ordinaria en la Bolsa de Corea (KRX, ticker 000660) desde hace decadas, con una emision NUEVA de ADR (American Depositary Receipts) en Nasdaq bajo el ticker SKHY desde el 10-jul-2026 - la mayor salida a bolsa en EEUU por una empresa extranjera hasta la fecha (26.5 mil millones USD, sobre-suscrita 7 veces). Preguntas estructurales sobre paridad de voto entre tenedores de ADR y accionistas ordinarios en Corea no exploradas en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion estandar de un emisor privado extranjero (probable regimen de reporte distinto al de una empresa domestica de EEUU dado que el listado en Nasdaq es muy reciente). Reporta resultados en wones surcoreanos (KRW), lo que anade una capa de conversion de moneda a cualquier analisis en USD.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Balance excelente: caja 88 billones de wones (aumento de 33.6 billones solo en el 2T 2026), deuda total 18.6 billones de wones (en declive), posicion de CAJA NETA de 69.4 billones de wones (aprox 49.6 mil millones USD a un tipo de cambio aproximado de 1400 KRW por USD) - balance muy solido, tipico de una empresa en la cima de un ciclo de precios favorable.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Liquidez muy amplia dada la caja neta sustancial.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda modesta y en declive, sin presion de vencimientos evidente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos de manufactura de memoria (fabs) reales y productivos, pero sujetos a obsolescencia tecnologica rapida tipica de la industria de semiconductores de memoria (nuevas generaciones de HBM cada 1-2 anios).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes actuales extraordinarios (margen operativo 76 por ciento en el 2T 2026) - pero esto es el PICO de un ciclo historico de precios de memoria bien documentado, no un nivel sostenible. Contexto clave: la propia empresa tuvo una PERDIDA neta de 9.14 billones de wones en el ano fiscal 2023 (margen neto de -28 por ciento) hace apenas 2-3 anios, durante la fase baja del mismo ciclo - una de las reversiones de ciclo mas extremas de todo el Dashboard, incluso mas dramatica que la ya documentada en MU.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE y ROIC actuales extremadamente altos, pero reflejan el mismo pico de ciclo - no son sostenibles ni representativos de la capacidad de generacion de retorno normalizada de la empresa (en el ano fiscal 2023, el ROE habria sido profundamente negativo).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "No analizado con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Historial de utilidad neta anual bien documentado y EXTREMADAMENTE ciclico: FY2023 perdida de 9.14 billones de wones (crisis de precios de memoria), FY2024 recuperacion a 19.80 billones de wones, FY2025 record de 42.95 billones de wones, y ahora TTM (a mitad de 2026) de 104.66 mil millones USD - una progresion de perdida a record absoluto en apenas tres anios. El crecimiento TTM reportado (+461.8 por ciento en utilidad neta, +145.0 por ciento en ingresos) es recuperacion-de-ciclo extrema, no una tasa repetible.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "La CONSISTENCIA de crecimiento es la mas baja posible: una perdida neta real hace 2-3 anios seguida de una explosion a resultados record - la definicion misma de un negocio de commodities altamente ciclico, no un crecimiento estable y predecible.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Demanda real y estructural de HBM impulsada por IA: produccion en masa de HBM4 iniciada en el 2T 2026, con expansion mas amplia planeada para el segundo semestre; 10 acuerdos de suministro de largo plazo firmados con clientes. Pero la cuota de mercado esta erosionando (69 a 58 por ciento en un anio) a medida que Samsung y Micron ganan terreno - el crecimiento futuro depende de mantener liderazgo tecnologico en un campo cada vez mas competido.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "No se reconciliaron cifras precisas de OCF esta sesion (dato pendiente), pero el aumento de caja de 33.6 billones de wones en un SOLO trimestre (2T 2026) sugiere generacion de caja real y fuerte, no un artefacto contable - aunque, igual que la utilidad neta, refleja el pico del ciclo actual.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "No calculado con precision en esta sesion por falta de una cifra de capex confiable (dato pendiente) - dado el aumento masivo de caja, el FCF actual es probablemente muy fuerte, pero de nuevo, es una cifra de pico de ciclo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "La manufactura de memoria requiere capex pesado y continuo (construccion-actualizacion de fabs, litografia EUV, empaquetado especifico de HBM) - negocio intensivo en capital por naturaleza, a diferencia de los disenadores fabless del Dashboard (AVGO, MRVL).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Reinversion fuerte en expansion de capacidad de HBM. Dividendo no confirmado con precision en esta sesion (marcado como no disponible por la fuente de datos usada, posible limitacion de datos del ADR recien listado en vez de ausencia real de dividendo - las empresas coreanas grandes suelen pagar algun dividendo, verificar en una sesion futura).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P sobre E TTM 6.96x, adelantado 3.43x - luce extraordinariamente barato, PERO es exactamente el mismo patron ya identificado como trampa de valor en MU (forward P/E 5.8x en el pico del superciclo de memoria) y en GM-ORCL (GuruFocus \"posible trampa de valor\") - un multiplo bajo sobre una utilidad que esta en su punto mas alto historico no es una senial de barato, es matematica de ciclo. GOTCHA DE DATOS IMPORTANTE: se encontraron cifras de capitalizacion de mercado inconsistentes entre fuentes (728.69 mil millones USD y 716.24 mil millones USD por un lado, contra un conteo de \"acciones en circulacion\" de solo 710 millones que, multiplicado por el precio de 136.39 USD, darian apenas 96.8 mil millones USD) - la cifra de \"710 millones de acciones\" casi con certeza representa SOLO los ADR registrados en Nasdaq desde el listado de jul-2026, no el conteo total global de acciones ordinarias de la empresa (estimado en el orden de 5.3 a 7.3 mil millones al reconciliar con la capitalizacion de mercado real). Se uso la capitalizacion de mercado total (aprox 730 mil millones USD) para el calculo del Margen de Seguridad en base a toda la empresa, evitando depender del conteo de acciones no confiable.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio, escenario adoptado: dada la ciclicidad EXTREMA (perdida neta real en FY2023), se uso un promedio de tres anios (FY2023 perdida, FY2024, FY2025) como base normalizada en vez de la utilidad TTM del pico actual - aprox 12.76 mil millones USD (conversion aproximada a 1400 KRW por USD, cifra a verificar con mas precision en una sesion futura), mismo criterio ya validado con MU (promediar en vez de anclar en el pico). Crecimiento con fade de 15 a 6 por ciento en 5 anios (muy por debajo del +461.8 por ciento de crecimiento TTM reportado, que es recuperacion de ciclo, no tasa repetible). WACC 15.66 por ciento: **beta sustituto de 2.21, reutilizado directamente del beta ya validado de MU (comparable directo de la misma industria ya en el Dashboard)**, porque el beta propio reportado para el ADR SKHY (2.41) se calcula sobre MENOS DE UN MES de historial de cotizacion en Nasdaq (listado 10-jul-2026) - no confiable en absoluto, gotcha mas extremo que los ya documentados de CRCL-SNDK-PLTR-NU-HOOD-CRWV (aqui no son anios cortos, son SEMANAS). Deuda neta negativa (caja neta aprox 49.6 mil millones USD). Terminal 4 por ciento. Valor de Equity resultante: aprox 196.4 mil millones USD (base de toda la empresa).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad (calculado sobre la empresa completa, no por accion, dado el gotcha de conteo de acciones de la fila 40): aprox -73.1 por ciento (Valor de Equity propio de 196.4 mil millones USD vs capitalizacion de mercado real de aprox 730 mil millones USD) - una de las lecturas de sobrevaloracion mas severas de todo el Dashboard. Sensibilidad B (crecimiento muy generoso, fade 25 a 10 por ciento, no adoptado): Valor de Equity aprox 238.4 mil millones USD, MS -67.3 por ciento, sigue extremadamente negativo. Estimado informal de IV por ADR (dividiendo el Valor de Equity entre un conteo de acciones implicito de aprox 5.35 mil millones, inferido de capitalizacion de mercado dividida entre precio, NO de un dato directamente verificado): aprox 36.70 USD por ADR - cifra a tratar con cautela dada la incertidumbre del conteo de acciones. Objetivo de analistas de 244.17 USD (+79 por ciento) reportado por una fuente, pero probablemente sufre del mismo sesgo de extrapolar el pico del ciclo que ya se critico en el consenso de MU (172 por ciento de crecimiento de EPS a 5 anios estimado por Finviz para MU en su momento). Conclusion consistente con MU: NO COMPRAR, el precio de mercado asume que el pico actual del superciclo de HBM se sostiene, algo que la propia historia reciente de la empresa (perdida en FY2023) contradice.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM enorme y genuinamente en expansion estructural para memoria de IA (HBM) - demanda real de GPUs de entrenamiento-inferencia sigue creciendo con fuerza.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras tecnicas altas para HBM de vanguardia (tecnologia de empaquetado, rendimiento de fabricacion), pero claramente NO insuperables: la cuota de SK hynix cayo de 69 a 58 por ciento en solo doce meses mientras Samsung y Micron cierran la brecha rapidamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Concentracion de comprador alta (NVIDIA y un puniado de hiperescaladores dominan la demanda de HBM, con poder de negociacion significativo), rivalidad en fuerte aumento (Samsung iniciando HBM4 a volumen, Micron acelerando expansion), ciclicidad de commodities de memoria bien documentada durante decadas (booms y caidas de precio extremos), barreras de entrada altas pero erosionables con inversion suficiente.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "EXTREMA: la industria de semiconductores de memoria es historicamente una de las mas ciclicas de toda la tecnologia, con un historial de decadas de ciclos de auge-caida de precios severos - la propia perdida neta de SK hynix en FY2023 (hace apenas 2-3 anios) es la confirmacion mas reciente y directa de este patron, no una excepcion del pasado lejano.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Corea del Sur es una jurisdiccion estable y de mercado desarrollado-adyacente (a diferencia del riesgo pais mucho mayor ya documentado para BABA-China) - no se aplico una prima de riesgo pais explicita. Riesgo geopolitico de fondo (tensiones con Corea del Norte, dinamica de controles de exportacion de semiconductores EEUU-China que afecta a empresas surcoreanas con exposicion a China) presente pero de larga data y razonablemente descontado por el mercado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo cambiario REAL Y ESPECIFICO: la empresa reporta en wones surcoreanos (KRW) pero el ADR cotiza en USD - los tenedores de ADR estan expuestos a la conversion KRW-USD ademas de la ciclicidad propia del negocio subyacente.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion de clientes probable en el negocio de HBM especificamente (NVIDIA y un puniado de hiperescaladores), no cuantificada con precision en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico real y ACTIVO (no hipotetico): el ritmo rapido de nuevas generaciones de HBM (HBM3 a HBM4 a HBM4E) significa riesgo continuo de perder terreno frente a competidores en rendimiento-yield - la propia caida de cuota de SK hynix de 69 a 58 por ciento en un anio demuestra que este riesgo ya se esta materializando, no es solo teorico.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Consideraciones ESG estandar de manufactura de semiconductores (uso de agua-energia-quimicos en fabs), sin controversia especifica identificada en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Continuidad del ramp de HBM4 en el segundo semestre de 2026; evolucion de la cuota de mercado frente a Samsung-Micron; mayor claridad sobre la estructura de acciones ADR-ordinarias y el conteo total confiable de acciones en circulacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en esta sesion (dato pendiente), complicado ademas por la estructura de doble cotizacion (KRX mas ADR de Nasdaq desde jul-2026).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Objetivo de analistas reportado de 244.17 USD (+79 por ciento) - notablemente alcista, pero probablemente sufre del mismo sesgo de extrapolar el pico del superciclo ya criticado en el consenso de MU en su momento (172 por ciento de crecimiento de EPS a 5 anios que resulto ser una cifra inflada por la recuperacion del ciclo, no una tasa sostenible).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.675675675675676,
+    "recomendacion": "NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE MEMORIA-HBM",
+    "tesis": "Lider tecnico real en HBM (memoria critica para GPUs de IA, socio principal de NVIDIA) atravesando el pico de un superciclo de precios de memoria extraordinario (margen operativo 76 por ciento) que ya demostro ser insostenible en el pasado reciente (perdida neta en FY2023, hace apenas 2-3 anios) - los multiplos aparentemente bajos (P sobre E adelantado 3.43x) son matematica de pico de ciclo, no una ganga real, mismo patron ya confirmado con MU en este Dashboard, aqui llevado a un extremo aun mayor dado que SK hynix es el lider directo del ciclo actual de HBM."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "BlackRock, Inc.",
+  "ticker": "BLK",
+  "sector": "Financiero - Gestora de Activos Tradicional-Pasiva (ETF-Aladdin-Private Markets)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "La gestora de activos MAS GRANDE del mundo por lejos: AUM record de USD 15.3 BILLONES (trillion) al 2T 2026, con USD 868bn de flujos netos SOLO en el trimestre. Ingresos de comisiones de asesoria-administracion (base fees, ligadas al AUM), Servicios de Tecnologia (Aladdin, por suscripcion, +13% interanual), y ahora un motor creciente de Mercados Privados-Alternativos tras las adquisiciones de GIP (infraestructura, 2024), HPS Investment Partners (credito privado, 2025) y Preqin (datos de mercados privados, 2025).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat multiple: plataforma tecnologica Aladdin (utilizada internamente Y licenciada a otras gestoras-instituciones COMPETIDORAS, un modelo raro de \"vender tecnologia a tu propia industria\" con altos costos de cambio), franquicia iShares de ETFs (escala-liquidez-marca dominante), y ahora un \"moat de datos de mercados privados\" via Preqin -paralelo directo al moat de datos ya visto en SPGI-MCO, pero aplicado especificamente a mercados privados-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion dominante indiscutida: AUM record de USD 15.3 billones (mas grande que cualquier otra empresa analizada en TODO el Dashboard por varios ordenes de magnitud), crecimiento organico de comisiones base de 10% (genuino, solido).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios fuerte en Aladdin-alternativos, pero el negocio central pasivo-de ETFs enfrenta presion estructural de compresion de comisiones de largo plazo (dinamica de toda la industria), compensada por crecimiento de AUM y el shift de mezcla hacia tecnologia-alternativos de mayor comision.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Larry Fink (fundador, en el cargo desde 1988 - uno de los mandatos mas largos de cualquier CEO analizado en todo el Dashboard). Movimiento de asignacion de capital MUY audaz reciente: mas de USD 27bn combinados en GIP+HPS+Preqin, un giro estrategico deliberado hacia mercados privados-alternativos (compitiendo mas directamente con gestores como KKR, analizada en la sesion inmediatamente anterior) - vision clara pero track record de exito aun por demostrarse completamente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders de 11.51% (Finviz) - razonable para una mega-cap, refleja la larga permanencia-alineacion de Fink y el equipo directivo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria de una sola clase de acciones comunes, sin doble clase ni control familiar-fundador dominante actualmente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "GOTCHA: riesgo politico-reputacional REAL y relativamente unico de la industria de gestion de activos - BlackRock ha enfrentado friccion politica de varios estados de EEUU (amenazas de desinversion de fondos de pension estatales) por su politica de voto por delegacion (proxy voting) y postura percibida de ESG-activismo - categoria de riesgo distinta de un escandalo de conducta, mas cercana en espiritu al riesgo de controversia politico-cultural ya documentado con TGT, aunque aqui el actor es GOBIERNOS ESTATALES en vez de consumidores.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Debt/Equity de 0.26 (Finviz) - apalancamiento bajo y saludable pese al gran volumen de M&A reciente (GIP-HPS-Preqin).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 4.46 (Finviz) - alta pero poco informativa en el sentido tradicional para este tipo de negocio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "GOTCHA METODOLOGICO MAYOR: el Valor TANGIBLE en Libros es efectivamente NEGATIVO. Goodwill-intangibles de USD 62.62bn (TTM) casi IGUALAN el patrimonio total de USD 64.54bn, resultado de las adquisiciones de GIP-HPS-Preqin (goodwill practicamente se DUPLICO desde USD 33.78bn en FY2023) - Valor en Libros por Accion USD 349.06 menos Goodwill por Accion (~USD 385) da un Valor TANGIBLE en Libros NEGATIVO (~-USD 36/accion). Esto hace INVIABLE el modelo TBV-ROTCE ya usado con JPM-MS-GS-CB-PGR-TRV-SCHW - se uso en su lugar un DCF FCFF estandar, mas apropiado dado que la economia central de BlackRock es de comisiones (no de retorno sobre balance como un banco-aseguradora).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes: operativo GAAP 33.95%, pero el margen operativo AJUSTADO (que excluye costos de integracion-amortizacion de las adquisiciones) fue de 45.9% en el 2T 2026, el MAS ALTO en casi 5 anios - una tendencia subyacente genuinamente positiva oscurecida por cargos GAAP de M&A. Margen bruto 76.80%, margen neto GAAP 23.80% (Finviz).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE GAAP de 12.32% (Finviz) - probablemente SUBESTIMADO por el lastre de amortizacion de M&A sobre la utilidad neta GAAP; el retorno economico real sobre el negocio de comisiones (ajustado) es probablemente mas alto, no cuantificado con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Metrica de rotacion de activos tradicional no aplica de forma informativa dado el balance dominado por goodwill de M&A reciente - se dejo en blanco en el Dashboard.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios de 8.04% (Finviz, \"past 5Y\") - pero el crecimiento TTM reciente (+23% a +26.5%) esta FUERTEMENTE INFLADO por la consolidacion de GIP-HPS-Preqin (todas cerradas en los ultimos 12-24 meses) - no representa crecimiento organico. La propia empresa reporta un crecimiento organico de comisiones base mas creible y moderado: 10% en el 2T 2026, usado como base del DCF.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Track record de flujos netos-crecimiento organico genuinamente CONSISTENTE durante muchos anios (sello distintivo de la escala-marca de BlackRock), aunque las cifras de crecimiento REPORTADAS recientes estan distorsionadas por M&A (ver fila 31) - hay que distinguir el crecimiento organico real del crecimiento reportado inflado por adquisiciones.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Motores de crecimiento futuro: expansion de mercados privados-alternativos (objetivo propio de superar 30% de ingresos de mercados privados-tecnologia para 2030, mercado de alternativos proyectado a USD 30 billones para fin de decada segun datos de Preqin), crecimiento continuo de Aladdin (+13% interanual), ganancias de cuota en ETFs, expansion internacional.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "GOTCHA: la utilidad neta GAAP crecio mucho MAS LENTO que los ingresos (+2.7% vs +23% a +26.5% interanual) - los costos de integracion-amortizacion de intangibles de GIP-HPS-Preqin estan lastrando la utilidad neta reportada, un caso menos extremo que el de KKR (donde el problema es mark-to-market de carried interest) pero de la misma familia de \"no confiar en el crecimiento de utilidad GAAP sin ajustar\" al analizar una gestora de activos que acaba de hacer M&A grande.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "El concepto de FCF es razonablemente limpio para el negocio CENTRAL de comisiones de BlackRock (a diferencia de KKR-aseguradoras-bancos), pero la reconciliacion GAAP-a-caja de corto plazo esta complicada por los costos de integracion de las adquisiciones recientes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex genuinamente modesto (tecnologia-oficinas), tipico de un negocio de comisiones asset-light, similar al patron ya visto en otros negocios de datos-analitica del Dashboard (SPGI-MCO).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital: dividendo con yield 2.00-2.06% y payout ratio de 59.02% (Finviz, historial largo de crecimiento de dividendo), mas el despliegue de capital MUY GRANDE y reciente en M&A (mas de USD 27bn combinados en GIP-HPS-Preqin) - una apuesta estrategica audaz cuyo exito aun se esta demostrando, no un track record ya completamente probado como el de E*Trade en MS.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos RICOS en apariencia: P/E TTM 27.05-28.54x, aunque el P/E FORWARD es notablemente MAS BAJO (17.77-18.92x, refleja normalizacion esperada de margenes-utilidad a medida que se diluyen los costos de integracion de M&A) - mismo patron de brecha TTM-forward ya visto en KKR-PGR-TRV, aqui por costos de integracion de M&A en vez de mark-to-market de carried interest o compresion ciclica de margen.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor Intrinseco (DCF FCFF propio, Escenario A adoptado): USD 858.70/accion (WACC 10.74% via CAPM: beta 1.42 literal, sin necesidad de sustituto; Rf 3.5%, ERP 5.5%; deuda al 7.4% del capital). FCF base = USD 7.79bn, un PROMEDIO entre la utilidad neta GAAP TTM (USD 6.58bn, probablemente subestimada por el lastre de amortizacion de M&A) y una estimacion de utilidad operativa ajustada anualizada y neta de impuestos (~USD 9.0bn, basada en el margen operativo ajustado record del 2T 2026) - documentado explicitamente como una estimacion triangulada dada la distorsion GAAP-ajustado. Crecimiento 5 anios = 10% (anclado al crecimiento organico de comisiones base guiado por la propia empresa, NO al crecimiento de ingresos reportado inflado por M&A); terminal 4%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -25.2% (precio actual USD 1147.96 vs valor intrinseco USD 858.70) - NEGATIVO en el escenario adoptado y en TODOS los escenarios de sensibilidad probados: Escenario B (FCF base = utilidad operativa ajustada, mas generoso) da -12.3%; Escenario C (FCF base = utilidad neta GAAP TTM, mas conservador) da -38.1% - un resultado direccionalmente ROBUSTO (negativo en todo el rango), aunque con magnitud sensible a la eleccion de base de FCF. Consenso de 17 analistas (Buy, objetivo USD 1314.44-1324.69, +14.5% a +15.4%) diverge en direccion OPUESTA, mismo patron ya visto en MCO-HOOD-COIN-IBKR - el mercado parece pagar por la exitosa realizacion de la estrategia de mercados privados y la normalizacion de margen a medida que se diluyen los costos de integracion, algo que un DCF anclado en cifras trailing-blended no captura completamente.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM enorme: industria global de gestion de activos (AUM) mas el crecimiento explosivo de mercados privados-alternativos (proyectado a USD 30 billones para fin de decada segun datos de Preqin) - runway estructural muy grande.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: plataforma Aladdin (profundamente integrada en los flujos de trabajo de clientes-competidores, altos costos de cambio), escala-liquidez de iShares, marca de decadas, y ahora un moat de datos de mercados privados via Preqin.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: posicion dominante en pasivos-ETFs (pocos competidores creibles a esta escala: Vanguard, State Street), presencia cada vez mas relevante en mercados privados-alternativos (compitiendo mas directamente con KKR-Blackstone-Apollo-Ares, aunque aun construyendo escala relativa a los pure-plays), la dinamica de Aladdin de \"vender tecnologia a la competencia\" es unica en la industria.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad genuina ligada al AUM (mercados bajistas reducen comisiones mecanicamente), aunque historicamente amortiguada por flujos netos positivos incluso en mercados dificiles - ciclicidad moderada y bien gestionada historicamente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "GOTCHA-RIESGO: friccion politica-regulatoria real y relativamente unica de la industria de gestion de activos - varios estados de EEUU han amenazado con desinvertir fondos de pension estatales de BlackRock por su politica de voto por delegacion-postura de ESG percibida (ver fila 20 para el detalle) - un riesgo politico especifico de la industria de asset management, distinto del riesgo regulatorio generico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real dada la escala global de AUM-operaciones internacionales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes extremadamente diversificada (millones de inversionistas finales via fondos-ETFs, mas grandes mandatos institucionales) - sin concentracion de cliente individual relevante detectada, aunque no se cuantifico la concentracion de los mandatos institucionales mas grandes esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Aladdin es una FORTALEZA tecnologica genuina (similar en espiritu a como se trato la tecnologia de PGR-IBKR como moat, no como riesgo) - BlackRock literalmente vende su tecnologia de gestion de riesgo a competidores, una posicion unica en la industria.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG estructural tradicional bajo (sin exposicion tipo combustibles fosiles-tabaco), aunque ver fila 49 para el riesgo politico-regulatorio relacionado a la propia postura de ESG-voto por delegacion de BlackRock (una categoria de riesgo distinta, de reputacion-politica, no de exposicion sectorial).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Seguimiento de la integracion continua de GIP-HPS-Preqin y el progreso hacia el objetivo de 30%+ de ingresos de mercados privados-tecnologia para 2030; condiciones de mercado que afectan el AUM; normalizacion esperada del margen GAAP a medida que se diluyen los costos de integracion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion - pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de 17 analistas: calificacion Buy, precio objetivo promedio USD 1314.44 a USD 1324.69 (+14.5% a +15.4% de alza) - diverge en direccion OPUESTA al escenario adoptado de este DCF (-25.2%), mismo patron ya visto en MCO-HOOD-COIN-IBKR esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.5405405405405403,
+    "recomendacion": "NO COMPRAR - VALORACION EXIGENTE (esperar mejor punto de entrada) - la gestora de activos mas grande del mundo (USD 15.3 billones de AUM) con un moat excepcional (Aladdin, iShares, y ahora datos de mercados privados via Preqin), pero el Valor Tangible en Libros es efectivamente NEGATIVO por el goodwill de GIP-HPS-Preqin y el DCF da margen de seguridad negativo en TODOS los escenarios probados (-38.1% a -12.3%), en tension con el consenso de analistas Buy (+14.5% a +15.4%)",
+    "tesis": "La gestora de activos mas grande del mundo, con un giro estrategico audaz hacia mercados privados via GIP-HPS-Preqin que hizo el Valor Tangible en Libros negativo, cotizando a multiplos que exigen una ejecucion perfecta de esa nueva estrategia."
+  }
+}

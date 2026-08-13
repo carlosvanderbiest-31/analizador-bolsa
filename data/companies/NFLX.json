@@ -1,0 +1,259 @@
+{
+  "empresa": "Netflix Inc",
+  "ticker": "NFLX",
+  "sector": "Servicios de Comunicacion - Entretenimiento (Streaming)",
+  "fecha_analisis": "46238",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Streaming por suscripcion (planes Standard y Premium) mas un nivel con publicidad de rapido crecimiento (250 millones+ de espectadores mensuales, meta de aprox 3 mil millones USD de ingresos publicitarios en 2026, expandiendose a 15 paises mas), eventos en vivo y deportes en expansion (NFL hasta 2029-2030, WWE Raw 5 mil millones USD a 10 anios, FIFA Womens World Cup 2027 y 2031) y una iniciativa de gaming acotada. Nota importante: Netflix hizo un split de acciones 10 por 1 efectivo el 17 de noviembre de 2025 - todas las cifras de esta ficha ya estan ajustadas post-split.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Escala de presupuesto de contenido (el mas alto de la industria, 17 a 20 mil millones USD anuales en efectivo, permite superar en gasto a rivales bajo presion de costos), datos de personalizacion y recomendacion acumulados por anios, base de suscriptores de primer movedor, e ingresos cada vez mas diversificados (publicidad y eventos en vivo) que reducen la dependencia de la suscripcion pura.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider en tiempo de streaming, aunque YouTube lidera el tiempo total de consumo de TV (13.4%). Disney mas Hulu ya fusionados con aprox 16% de cuota en EEUU, Amazon Prime Video aprox 17%, Apple TV+ aprox 12% - cuota cada vez mas fragmentada frente a competidores fuertes y consolidados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Historial de subir precios exitosamente sin perdida masiva de suscriptores (el fin del uso compartido de contrasenas genero una ventana de monetizacion adicional importante), pero la saturacion en mercados maduros (EEUU, Europa Occidental) limita cuanto mas puede subir precios sin elevar el churn.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Recompras agresivas y consistentes (9.92 mil millones USD TTM, record trimestral de 4.7 mil millones USD en Q2 2026, nueva autorizacion de 25 mil millones USD aprobada en abril 2026), sin dividendo, refinanciamiento rutinario de deuda a tasas bajas. El intento fallido de adquirir los activos de estudio y streaming de Warner Bros. Discovery (perdido ante Paramount Skydance, la fusion Paramount-WBD cerro en abril 2026) no genero perdida directa de capital pero senala apetito por M&A grande que no se concreto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Estructura de co-CEOs (Ted Sarandos y Greg Peters) que la cobertura externa describe como efectiva. Ventas de opciones de Reed Hastings, fundador y ahora ex presidente ejecutivo (aprox 30 a 38 millones USD en tramos, bajo planes 10b5-1 preestablecidos) y ventas menores de Sarandos y Peters (aprox 2 millones USD cada uno) - ventas rutinarias basadas en plan, no oportunistas, pero sin compras de insiders identificadas en la investigacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Sin estructura de doble clase de acciones. Reed Hastings anuncio en abril 2026 que no buscara reeleccion a la junta directiva en la asamblea de junio 2026, completando su salida total de la empresa - gobierno corporativo limpio, sin control de fundador remanente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Reporta guia trimestral de ingresos y cartas de accionistas detalladas, pero dejo de reportar el numero de suscriptores trimestral desde 2025, lo que reduce algo la transparencia operativa frente a anios anteriores.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta sobre EBITDA de aprox 0.35x, apalancamiento muy bajo. En 2026 emitio 992.55 millones USD en notas senior al 5.250% con vencimiento 2036 para refinanciar notas al 4.375% que vencian - operacion rutinaria, no un aumento de apalancamiento.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 1.14. La prueba acida es discutible entre fuentes (0.75 a 1.14 segun el proveedor de datos), probablemente mas cerca de 0.8 a 0.9x en la realidad dado que buena parte de los activos corrientes son activos de contenido no totalmente liquidos - liquidez aceptable pero no sobresaliente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Perfil de vencimientos bien escalonado tras refinanciamientos rutinarios recientes (notas 2036 reemplazando notas que vencian), sin pared de vencimientos de corto plazo relevante.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales de 58.45 mil millones USD sobre patrimonio de 30.15 mil millones USD. Ademas de la deuda en balance (14.31 mil millones USD), existen 18.5 mil millones USD adicionales de obligaciones de contenido fuera de balance (segun 10-Q de Q1 2026) mas 4.1 mil millones USD corrientes y 1.6 mil millones USD no corrientes de obligaciones de contenido dentro del balance - el compromiso de capital real es mayor al que sugiere la deuda financiera reportada por si sola.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM de aprox 49.53%, margen operativo de aprox 30.25%, margen neto de aprox 27.99% - en clara tendencia de expansion estructural impulsada por publicidad, aumentos de precio y la monetizacion del fin del uso compartido de contrasenas, sin cargos no recurrentes identificados que la distorsionen.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE de aprox 49.54% y ROIC de aprox 31.11% segun Finviz, ambos muy por encima del costo de capital estimado (WACC aprox 11.47%) - spread excelente, y a diferencia de otras empresas del Dashboard esta rentabilidad no parece estar distorsionada por partidas contables no recurrentes.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos de 0.83x (ingresos TTM 48.37 mil millones USD sobre activos totales 58.45 mil millones USD) - razonable considerando el peso de los activos de contenido en el balance.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 5 anios de aprox 12.61% segun Finviz, consistente con la guia propia de la empresa para 2026 (ingresos de 51.0 a 51.4 mil millones USD, +13% interanual) - a diferencia de otras empresas del Dashboard (NVDA, UBER, MU), este CAGR historico no parece estar distorsionado por un efecto de base baja atipico, ya que Netflix crecio de forma bastante estable durante la pandemia. Crecimiento organico, no impulsado por M&A (el intento de adquirir activos de Warner Bros. Discovery fracaso).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento trimestral estable (+13.41% trimestre sobre trimestre segun Finviz), menos ciclico que negocios de commodities o cripto, aunque la desaceleracion de adiciones de suscriptores en mercados maduros (EEUU, Europa Occidental, ya saturados) es una tendencia a monitorear de cerca.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Expansion del nivel con publicidad (meta de aprox 3 mil millones USD de ingresos en 2026, expandiendose a 15 paises adicionales), eventos en vivo y deportes (NFL hasta 2029-2030, WWE Raw, FIFA Womens World Cup 2027 y 2031, en negociacion por el Mundial masculino 2030-2034), y penetracion internacional adicional con India como motor de crecimiento clave.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM de 11.97 mil millones USD frente a una utilidad neta TTM de 13.65 mil millones USD - sin cargos no recurrentes identificados que distorsionen la utilidad neta en esta investigacion (a diferencia de UBER o MU), aunque no se pudo verificar el 10-Q completo de forma directa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM de 11.15 mil millones USD, en tendencia ascendente solida y estable (1.62 mil millones USD en 2022 a 11.15 mil millones USD TTM, subiendo cada anio), no lumpy trimestre a trimestre - base confiable para el DCF sin necesidad de promediar como en otros casos del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM de solo 818.8 millones USD, apenas 1.7% de ingresos - muy bajo porque Netflix arrienda infraestructura de nube de AWS en vez de poseer centros de datos propios, y el gasto de contenido fluye por costo de ingresos y no por capex (el gasto de contenido en efectivo de 17 a 20 mil millones USD anuales no debe confundirse con capex).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Recompras agresivas y consistentes (9.92 mil millones USD TTM, nueva autorizacion de 25 mil millones USD), sin dividendo, refinanciamiento de deuda rutinario a tasas bajas - asignacion de capital enfocada, aunque el intento fallido de adquirir activos de Warner Bros. Discovery resta algo de puntos por la desviacion de foco y el riesgo reputacional de esa negociacion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "PE TTM de 23.18x, PE forward de aprox 19 a 21x segun Finviz y stockanalysis. Multiplo EV sobre EBITDA con fuerte discrepancia entre fuentes (Finviz muestra 9.68x, que parece demasiado bajo; otras fuentes muestran hasta 21 a 26x segun el tratamiento de la amortizacion de contenido) - se prioriza un numero mas alto y conservador de aprox 21x, calculado como EV sobre utilidad operativa, por ser mas consistente con la Deuda sobre EBITDA reportada. Precio sobre FCF de aprox 27.5x. Multiplos mas baratos que el propio historico de Netflix tras la caida de 44 a 46% desde su maximo de 52 semanas, pero todavia exigentes en terminos absolutos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco propio de 52.69 USD por accion (Escenario A adoptado: WACC 11.47% via CAPM con Beta 1.51, Rf 3.5%, ERP 5.5%, costo de deuda post-impuestos aprox 4.20% sobre una estructura con deuda al 4.46% del capital; FCF base = TTM 11.15 mil millones USD, en tendencia ascendente estable; crecimiento a 5 anios de 13%, anclado en el CAGR historico de ingresos a 5 anios de 12.61% y en la guia propia de la empresa para 2026 de +13%; crecimiento terminal 4%). Se descarto deliberadamente usar el crecimiento de EPS consensuado (EPS Next 5Y de Finviz, 21.79%) para proyectar el FCF de la empresa, porque ese crecimiento de EPS incluye el efecto de las recompras de acciones (reduccion del numero de acciones), que mejora las metricas por accion pero no aumenta el FCF total de la empresa - usarlo habria inflado artificialmente el crecimiento del FCF agregado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad de -28.4% en el Escenario A adoptado (precio actual 73.57 USD vs. valor intrinseco 52.69 USD) - cae en la zona de vender o reducir del marco de recomendacion. Escenario B de sensibilidad (no adoptado, usando el crecimiento de EPS Next 5Y de Finviz de 21.79% como si fuera crecimiento de FCF): 74.52 USD por accion, margen de apenas +1.3%, esencialmente neutro. La divergencia grande entre ambos escenarios es la conclusion mas importante del analisis: el precio actual parece exigir que el FCF de la empresa crezca al ritmo de las metricas por accion (incluyendo el efecto de recompras), no al ritmo organico de ingresos - una distincion metodologica importante y potencialmente lo que el mercado esta asumiendo implicitamente. El consenso de analistas (precio objetivo promedio ~94.40 USD, +28% de alza) es notablemente mas optimista que ambos escenarios propios.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de streaming de video, en expansion hacia publicidad y eventos en vivo o deportes, pero cada vez mas maduro en las geografias centrales (EEUU, Europa Occidental) - el crecimiento incremental depende cada vez mas de mercados internacionales como India y de nuevas fuentes de monetizacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "La escala del presupuesto de contenido (17 a 20 mil millones USD anuales, la mas alta de la industria) y los datos de personalizacion son barreras reales, pero el streaming en si tiene barreras de entrada moderadas: multiples plataformas grandes ya compiten de forma directa y el consumidor puede alternar entre varios servicios con facilidad.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad muy alta y en aumento (Disney mas Hulu ya fusionados, Amazon Prime Video mas YouTube, Paramount mas Warner Bros. Discovery fusionados desde abril 2026, Apple TV+); poder de los proveedores de contenido y talento deportivo alto (la guerra de ofertas por derechos deportivos en vivo presiona los costos al alza); poder de los consumidores alto (facil cancelar o alternar entre servicios); amenaza de nuevos entrantes de baja a moderada (requiere capital de contenido masivo); amenaza de sustitutos relevante por el tiempo de atencion limitado del consumidor (YouTube, redes sociales, videojuegos).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Relativamente poco ciclica comparada con negocios de commodities o cripto, aunque sensible al gasto discrecional del consumidor en periodos de estres macroeconomico.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Demandas antimonopolio de fiscales estatales contra la fusion Paramount-Warner Bros. Discovery (en curso a julio 2026) podrian remodelar el panorama competitivo de forma impredecible; riesgo regulatorio de contenido y publicidad moderado en varios mercados internacionales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion internacional significativa en ingresos (India como motor de crecimiento clave, ingresos en monedas locales en decenas de paises) - riesgo cambiario relevante que no se cuantifico explicitamente en esta investigacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Sin concentracion de clientes (325 millones mas de membresias pagas globales, diversificadas geograficamente), pero dependencia notable de un numero reducido de socios de derechos deportivos en vivo de alto costo (NFL, WWE, FIFA), que concentran el riesgo de renovacion y de inflacion de costos futuros.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Amenaza de sustitutos por el tiempo de atencion del consumidor (YouTube, redes sociales, videojuegos) es real pero no es una disrupcion tecnologica directa del modelo de negocio de streaming en si (a diferencia del riesgo de vehiculos autonomos en UBER o el riesgo de ciclo de commodities en MU) - riesgo moderado, no el factor dominante de la tesis.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Exposicion moderada, principalmente relacionada con practicas laborales de la industria del entretenimiento y escrutinio de contenido en ciertos mercados internacionales - no se identifico un punto de friccion ESG central en esta investigacion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Ejecucion continua del nivel con publicidad (meta de aprox 3 mil millones USD de ingresos en 2026), lanzamiento de nuevos eventos en vivo y deportes (temporada NFL, WWE Raw, preparacion para la FIFA Womens World Cup 2027), y los resultados de Q3 2026 proximos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Venta neta de insiders pero bajo planes 10b5-1 preestablecidos (Hastings, Sarandos, Peters) - rutinaria y no oportunista, aunque sigue siendo venta neta sin compras de insiders identificadas en la investigacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de analistas alcista (calificacion inclinada a Compra, aprox 51 analistas), precio objetivo promedio de 94.33 a 94.49 USD (+28% de alza desde el precio actual) - sentimiento de Wall Street positivo, en la misma direccion pero de magnitud opuesta al Escenario A adoptado del DCF propio (que da -28.4%), aunque mas cercano al Escenario B de sensibilidad (+1.3%).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.675675675675676,
+    "recomendacion": "NO COMPRAR - VALORACION EXIGENTE BAJO EL ESCENARIO CONSERVADOR (mantener con cautela si ya se tiene posicion). Score de calidad de negocio decente-alto (moat de escala de contenido y datos, FCF solido y en tendencia ascendente estable, capex minimo, gobierno corporativo limpio), pero el Escenario A del DCF (creciendo el FCF al ritmo organico de ingresos, 13%) da un Margen de Seguridad de -28.4%, mientras que un escenario alternativo (usando el crecimiento de EPS consensuado, que incluye el efecto de las recompras) da un valor casi identico al precio actual. Esta gran sensibilidad entre escenarios hace que la conclusion sea menos robusta que en otros casos claramente sobrevalorados del Dashboard (HOOD, COIN, MU) - tratar con mas cautela que un \"vender\" contundente.",
+    "tesis": "Netflix es el lider de escala del streaming con un negocio de alta calidad y flujo de caja creciente y estable, pero su valoracion actual solo se sostiene si el FCF de la empresa crece al ritmo de sus metricas por accion impulsadas por recompras y no al ritmo organico de sus ingresos - una distincion que el mercado podria no estar haciendo."
+  }
+}

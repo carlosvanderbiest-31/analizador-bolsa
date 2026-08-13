@@ -1,0 +1,259 @@
+{
+  "empresa": "Tesla Inc",
+  "ticker": "TSLA",
+  "sector": "Tecnologia - Vehiculos Electricos, Energia y IA",
+  "fecha_analisis": "2026-08-06",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Tres segmentos: (1) Automotriz: EVs (Model 3/Y/S/X/Cybertruck), creditos regulatorios, leasing — 73% del revenue con margenes bajo presion (16-17%). (2) Energia: Powerwall, Megapack, solar — 13% del revenue con los mejores margenes del portfolio (29.8% en FY2025). (3) Servicios: FSD subscriptions (1.48M activos, +56% YoY), Supercharging, seguros — 13% del revenue. Emergente: Robotaxi (Cybercab, 7 ciudades, 2.5M millas pagadas) y Optimus (robot humanoide, produccion iniciando). Modelo mixto hardware-software tendiendo hacia software de alto margen.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Red Supercharger global (60,000+ puntos, abierta ahora a otros OEMs). Dataset FSD: 12B millas supervisadas acumuladas — el mayor del mundo para conduccion autonoma, ventaja de datos difícil de replicar. Brand equity en EVs premium: top of mind en EEUU. Gigafactories verticalmente integradas reducen costos. Moat automotriz menos duradero que software: BYD y OEMs cierran brecha tecnologica; el moat real de largo plazo depende de FSD/Robotaxi.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "#1 en EVs premium en EEUU con ~60% share del segmento. Pero perdiendo en China: BYD tiene 35%+ del mercado EV chino vs Tesla ~7%. FSD: lider en millas de datos (12B vs Waymo ~30M) aunque Waymo es mas robusto en operacion robotaxi en ciudades especificas. Megapack: lider en BESS (Battery Energy Storage Systems) de escala de utilidad. Q2 2026 deliveries record: 480,126 (+25% YoY). Posicion competitiva solida pero presionada en su mercado core (EVs).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Evidencia empirica reciente de FALTA de poder de precios: Tesla recorto precios repetidamente en 2023-2025, comprimiendo gross margin automotriz de 28.5% (2022) a 16.9% (Q2 2026). Los recortes fueron necesarios para defender volumenes frente a BYD y competencia china. EXCEPCION: FSD subscriptions tienen pricing power (precio $8,000 USD o $99/mes; subscripciones crecen 56%). Balance negativo: pricing power en EVs, positivo en software/FSD.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Entregas exitosas: Model 3 (2017), Supercharger network, gigafactories globales. Pero historial de promesas incumplidas en tiempos: Robotaxi \"en 2018-2020\" (finalmente comercial en 2026), FSD completo \"en 2020-2021\" (aun no), Cybertruck con retrasos de 2 años, Optimus \"produccion 2022\" (iniciando en 2026). El $25B capex en 2026 es la mayor apuesta de la historia de Tesla. Si Robotaxi y Optimus escalan como proyectado, fue brillante; si no, fue destruccion masiva de capital. Track record: excelente en manufactura de EVs, irregular en promesas de AI/autonomia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership: 28.56% — primariamente Elon Musk. Alineacion de intereses muy alta en principio. PERO: Musk dirige simultaneamente Tesla, SpaceX, xAI, Boring Company, Neuralink y DOGE — el tiempo del CEO es el recurso mas escaso. Musk ha vendido sistematicamente acciones de Tesla para financiar X (Twitter) y SpaceX — señal mixta. Transaccion relacionada: $318M Megapack vendido a SpaceX en Q2 2026 (conflicto de intereses pese a disclosure).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones (un voto por accion) formalmente. Sin embargo, la presencia dominante de Musk le da influencia desproporcionada en la practica sobre el directorio. El paquete de compensacion de $56B de Musk fue rechazado por la corte de Delaware (2024) y luego reaprobado en reincorporacion en Texas — proceso cuestionado de gobernanza. El directorio ha demostrado poca independencia de Musk historicamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Tesla publica informes trimestrales detallados pero NO da guidance de entregas — a diferencia del resto de OEMs. Musk hace predicciones publicas que frecuentemente no se cumplen en tiempos prometidos. Metricas de FSD (millas acumuladas) son auto-reportadas sin auditoria externa. Transacciones con SpaceX son divulgadas pero crean preguntas de brazo a brazo entre empresas de Musk. Transparencia moderada.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda total: $9.3B. Cash y equivalentes narrow: $15.2B; broad (incluyendo inversiones CP): $43.5B. Deuda Neta NEGATIVA: Tesla es una empresa net-cash por $5.9B (narrow) a $34.2B (broad). Sin riesgo financiero en el balance. El exceso de cash permite absorber años de FCF negativo durante la fase de inversion masiva ($25B capex en 2026) sin riesgo alguno de insolvencia. Balance sheet es una fortaleza absoluta.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Current ratio: 1.94. Quick ratio: 1.55. Excelente liquidez. $43.5B en efectivo e inversiones. Tesla puede financiar años de capex agresivo sin emitir deuda adicional. La solidez de liquidez es critica para la fase actual de inversiones masivas: si el FCF es -$7B en 2026, el cash absorbe sin dificultad.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda minimal (~$9.3B total) con vencimientos escalonados. Net-cash company. Sin riesgo de refinanciacion. Estructura de capital sumamente conservadora para una empresa en plena fase de reinversion de $25B anuales. Podria emitir deuda barata si necesitara (investment grade rating).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Total activos: $148.5B. Goodwill: $0 (Tesla crece organicamente, sin grandes adquisiciones). Intangibles: $0. Los activos son reales: gigafactories (Texas, Berlin, Shanghai, Fremont, Nevada), equipo, land, inventario de vehiculos, R&D propio. Book value es limpio y tangible — sin activos inflados por adquisiciones que luego requieran impairment. Una distincion rara entre grandes empresas de esta escala.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Gross margin: 18.85% TTM — colapso desde 25.6% (FY2022) a 16.8% en Q2 2026. Operating margin: 4.61% TTM; Q2 2026 fue 1.4% (minimo en años). Net margin: 3.67%. Tres años de compresion. Energy margin fue 29.8% en FY2025 pero cayo a 20.4% en Q2 2026.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROIC: 3.79% — por debajo del WACC (13% CAPM). Destruccion de valor en el periodo actual. ROE: 4.64% (declive desde 30% en 2022). DuPont: NM 3.67% x AT 0.698 x Lev 1.697 = ROE 4.34%.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos: 0.698x. Revenue 103.6B / Activos 148.5B = 0.698. Tipico para manufactura de alta tecnologia. Con capex de 25B en 2026 la base de activos crecera antes de mejorar con revenue de Robotaxi.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR Revenue 5Y (FY20-FY25): 24.63% — inflado por el auge EV de 2020-2022. La realidad reciente: FY2024 +0.9% (plano), FY2025 -2.9% (declive). TTM Revenue +9.3% vs FY2025, impulsado por record de Q2 2026 ($28.24B, +26% YoY). Deliveries: Q1 2026 +6%, Q2 2026 +25% YoY. El Q2 es alentador pero un solo trimestre record no confirma tendencia sostenida.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Extremadamente inconsistente: crecimiento explosivo 2020-2022, estancamiento 2023, declive 2024-2025, recuperacion en Q2 2026. Margenes automotrices colapsaron de peak 28.5% a 16-17%. FCF: 7.56B (2022), 4.36B (2023), 3.58B (2024), 6.22B (2025), negativo proyectado en 2026 por capex de 25B. Deliveries: record Q4 2025, caida Q1 2026, record Q2 2026. Variabilidad estructural de empresa en multiple transicion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Optionalidad enorme y multiple: (1) Robotaxi: 7 ciudades, 2.5M millas pagadas, Cybercab en produccion 2,000 unid/sem meta 10,000. (2) Optimus: fabrica Fremont convertida, Optimus 3 verano 2026; Musk proyecta 1M robots/año eventualmente. (3) Energy Storage: 41% YoY en GWh, margen 29.8% FY2025. (4) FSD subs: 1.48M activos +56% YoY. (5) Model Q a $25K pendiente. TAM combinado potencialmente multi-trillones USD.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "FCF TTM: $5.76B vs NI TTM $3.80B. Ratio FCF/NI 1.52x (FCF supera NI por D&A). PERO: Q2 2026 FCF fue -$1.1B por capex de $5.79B. Con guidance de $25B capex en 2026 vs OpCF estimado 18B, el FCF de 2026 sera significativamente negativo. Esto no es crisis de liquidez (dado $43.5B en cash) sino inversion deliberada. Base FY2025 FCF de $6.22B es mas representativa del negocio core actual.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "P/FCF: 218.81x (TTM). FCF yield: 0.46%. Al precio actual el negocio core no genera FCF material relativo al valor de mercado. La empresa esta en modo inversion masiva, con FCF negativo proyectado en 2026. El mercado esta valorando FCF futuros de Robotaxi y Optimus, NO el FCF del negocio actual. Metricas actuales de FCF yield son irrelevantes para el bull case; son la critica central del bear case.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex escalando drasticamente: $7.16B (2022), $8.90B (2023), $11.34B (2024), $8.53B (2025), $25B+ guided para 2026 — el 24%+ de revenue proyectado. El mas alto de cualquier empresa en este workbook. Necesario para Robotaxi, Optimus y nuevas Gigafactories, pero destruye FCF en el corto plazo. En 2026 el FCF sera negativo por esta razon.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Sin dividendos. Sin buybacks significativos (stock comp dilutivo). 100% del capital se reinvierte en Robotaxi, Optimus, Energy y nuevas plantas. Alta conviccion en las apuestas de largo plazo. El $25B capex de 2026 es una apuesta de alto riesgo y alta recompensa: si Robotaxi y Optimus escalan como proyectado, el retorno sera excepcional; si no, fue destruccion masiva de capital. Score medio refleja la incertidumbre de la apuesta.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM: 296.59x. Forward P/E (2027E): 141.55x. P/FCF: 218.81x. EV/EBITDA: 109.65x. P/S: 12.17x. Los multiples mas altos de cualquier empresa analizada en este workbook — incluso superiores a NVDA en su peak. Solo justificables si Robotaxi y Optimus generan decenas de billions en FCF adicional en los proximos 5 años. Para el negocio actual de autos + energia + servicios, estos multiples son fundamentalmente injustificables.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF: WACC 13% (CAPM: Rf 3.5% + Beta 1.82 x ERP 5.5%; GuruFocus 15.65%). Base FCF FY2025 $6.22B. Crecimiento 24.05% (consenso analistass EPS next 5Y). Terminal 4%. EV=$156.1B. Net Cash $5.9B. Equity=$162.0B. Shares 3.95B. IV=$41 USD. No incluye Robotaxi ni Optimus (sin FCF aun). WACC 10%: IV=$62.7 MS=-80.4%.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "MS = (41 - 319.21) / 319.21 = -87.1%. Profundamente en zona VENDER. WACC 10% mas optmista: MS = -80.4%. A ningun WACC razonable el precio actual tiene sustento en el negocio presente. La totalidad del precio por encima de $41-63 esta pagando por opcionalidad de Robotaxi y Optimus — negocios aun no comprobados a escala comercial.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM extraordinariamente grande: mercado global de automoviles (3T+), transporte autonomo (10T+ potencial a largo plazo), robots humanoides (10T+ segun Musk y Goldman Sachs), almacenamiento de energia (1T+), SaaS de conduccion autonoma. Si Tesla captura incluso 5-10% de estos mercados convergentes, la valoracion actual puede ser barata en retrospectiva. El TAM de Optimus solo podria superar al de cualquier negocio existente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Red Supercharger (60,000+ puntos globales; ahora abierta a otros OEMs). Data FSD: 12B millas supervisadas = mayor dataset de conduccion del mundo. Brand equity en EVs premium. Gigafactories con integracion vertical. PERO: BYD construyo sus propias plantas masivas con ventajas de costo de bateria; la barrera automotriz es menos duradera que software. El moat real esta en el dataset de FSD y la red de Supercharger.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Competencia creciente: BYD lider en China (35%+ share vs Tesla 7%); Volkswagen ID.x, GM EV, Ford Mach-E en EEUU/Europa. Waymo y Zoox en Robotaxi. Poder de clientes: Tesla tuvo que bajar precios 15-25% para mantener volumenes. Poder de proveedores: baterias (NMC vs LFP), chips de AI. Barreras de entrada en manufactura y FSD data son altas, pero capitales chinos superaron esas barreras en EVs.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Vehiculos son compra discrecional; afectados por tasas de interes y ciclo economico. En 2022-2023 Tesla sufrio por subida de tasas (deliveries bajaron). El negocio de energia y Robotaxi serian mas defensivos si escalan. Short ratio de 2.5% (bajo) sugiere que el mercado no anticipaba una caida inminente de liquidez. Ciclicidad moderada comparable a otros OEMs.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "FSD/Robotaxi es el mayor riesgo regulatorio del portfolio: cualquier accidente grave de un Tesla autonomo podria desencadenar moratoria regulatoria en multiples jurisdicciones (como ocurrio con Boeing). NHTSA ha iniciado multiples investigaciones. Riesgo politico: las posiciones de Musk (DOGE, politica USA) generaron boycotts de marca en Europa y EEUU que contribuyeron a la caida de ventas en 2024-2025.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "China es aproximadamente 20% de ingresos y bajo presion creciente por competencia local (BYD) y tensiones geopoliticas USA-China. Dolar fuerte es headwind para revenues internacionales reportados en USD. Europa es importante con regulaciones adicionales. FX moderado pero material dado que la mitad del revenue viene de mercados internacionales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Key man risk: Tesla es mas dependiente de un solo individuo (Musk) que practicamente cualquier otra empresa en este workbook — su identidad es inseparable de la marca. Concentracion en EVs (73% revenue) en mercado cada vez mas competitivo. China como fuente de materiales criticos (litio, cobalto). Musk divides su tiempo entre Tesla, SpaceX, xAI, Boring, Neuralink y DOGE simultaneamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "El enfoque vision-solo (cameras sin lidar) para FSD es una apuesta tecnologica de alto riesgo: si Waymo (lidar + maps HD) resulta superior, Tesla pierde la carrera de autonomia. Optimus es tecnologia extremadamente temprana (10,000 partes unicas sin supply chain establecido; todos los targets anteriores fueron incumplidos). Alta probabilidad de que ambas apuestas tarden mas de lo proyectado o no alcancen el TAM estimado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Mision central es ESG-positiva: EVs sustituyen combustion interna (reduccion de emisiones), Energy Storage apoya renovables. Optimus podria reducir trabajo peligroso. PERO governance es el punto debil: relacion con SpaceX (conflictos de interes Megapack), paquete comp Musk rechazado en Delaware y reaprobado en Texas (proceso cuestionado). Labor: condiciones en Gigafactory Berlin/Nevada cuestionadas. ESG neto: positivo en E, mixto en S y G.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Q3 2026 deliveries (sept/oct) confirmaran si la aceleracion de Q2 (+25% YoY) es sostenida. Expansion Robotaxi a mas ciudades (meta 10% crecimiento semanal de volumenes). Produccion Optimus Fremont en rampa. Potencial anuncio de Model Q ($25K). Actualizacion FSD V15 metrics (millas autonomas por intervencion). Q3 2026 earnings (octubre). Alto flujo de noticias catalizadoras.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Insider ownership: 28.56% — primariamente Elon Musk. Alineacion de intereses muy alta en principio. PERO Musk ha vendido acciones sistematicamente para financiar X y SpaceX. Musk dirige 6+ empresas simultaneamente. El Insider Trans de Finviz muestra -0.01% (pocas ventas recientes). La clave: si Musk sigue vendiendo TSLA para financiar otras empresas, la alineacion de intereses se debilita.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consensus recommendation: 2.44/5 (entre HOLD y BUY moderado). Target price promedio: $376.83 (+18.1% upside desde $319.21). Tesla es la accion mas debatida de Wall Street: bulls ven Robotaxi y Optimus como los mayores negocios de la historia; bears ven una empresa de autos sobrevaluada a 141x forward earnings. El target de analistas ya descuenta parte de la opcionalidad de FSD y Robotaxi.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": null,
+    "recomendacion": null,
+    "tesis": "VENDER / NO COMPRAR. Tesla es una de las apuestas mas interesantes del mercado pero al precio actual de $319.21 el negocio presente no justifica la valoracion. DCF del negocio actual da IV=$41 (WACC 13%) o $62.7 (WACC 10%): MS de -87% a -80%. El 80-87% del precio esta pagando por opcionalidad de Robotaxi y Optimus que existen pero no generan FCF material aun. Punto de entrada razonable: $100-150 (MS positivo sobre negocio actual mas opcionalidad). No es un negocio malo — es un precio incorrecto para quien requiere margen de seguridad."
+  }
+}

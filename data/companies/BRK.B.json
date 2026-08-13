@@ -1,0 +1,259 @@
+{
+  "empresa": "Berkshire Hathaway Inc",
+  "ticker": "BRK.B",
+  "sector": "Conglomerado Diversificado (Seguros, Ferrocarril, Energia, Manufactura y Retail)",
+  "fecha_analisis": "2026-08-05",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Conglomerado unico organizado en tres patas: (a) negocios operativos 100% controlados (seguros -GEICO, Gen Re, BHRG-, ferrocarril BNSF, energia BHE, y decenas de manufactureras-servicios-retail como Precision Castparts, Duracell, See's Candies), (b) portafolio de acciones cotizadas (aprox 263100 millones USD, Apple 22.0%, American Express 17.4%, Coca-Cola 11.6%, Bank of America 9.5%, Chevron 6.6% segun 13F Q1 2026), y (c) float de seguros (176900 millones USD) que financia todo lo anterior sin costo explicito de capital.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Capital permanente via float de seguros sin necesidad de refinanciamiento continuo, calificacion crediticia altisima (AA y Aa2) que permite asumir riesgos de reaseguro que ningun competidor puede igualar en tamano de balance, reputacion y velocidad para cerrar adquisiciones grandes, descentralizacion operativa radical de los CEOs de subsidiarias.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Sin competidor directo por la estructura unica de conglomerado diversificado a esta escala en EEUU; en seguros y reaseguro compite con Munich Re, Swiss Re y Chubb, disputando el primer lugar en rankings de reaseguradores globales por tamano de balance segun AM Best.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Fuerte en el negocio de suscripcion de seguros (combined ratio de 87.1% en FY2025, rentable) y en el pricing regulado de BHE; no aplica de forma tradicional al resto del conglomerado por la naturaleza diversificada del negocio.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "TRANSICION DE CEO CONFIRMADA: Greg Abel es CEO oficial desde el 1-ene-2026, Warren Buffett paso a Chairman de la Junta pero sigue como recurso de consulta diario. Bajo Abel: reanudacion de recompras tras pausa de 21 meses (mar-2026), adquisiciones grandes (OxyChem 9700 millones USD cerrada ene-2026, Taylor Morrison 6800 millones USD de equity cerrada jul-2026, el mayor ritmo de M&A en varios anios), y reconfiguracion activa del portafolio (incremento de 225% en Alphabet, salidas de Amazon, Visa, Mastercard). Estilo mas activo desplegando capital que Buffett en sus ultimos anios.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Abel tiene la ultima palabra sobre todas las companias e inversiones de Berkshire desde 2026 - no es un CEO figurativo. Buffett mantiene participacion accionaria enorme y personal (fundador). Ajit Jain (seguros) y los gestores de inversion Todd Combs y Ted Weschler siguen como recursos clave de consulta.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Dos clases de acciones (A y B) con los mismos derechos economicos pero distinto derecho de voto por accion (1 accion A equivale a 1500 acciones B, la conversion solo opera de A a B); no es un caso de control desproporcionado fundador tipo doble clase problematica (META, HOOD, BABA) sino una estructura historica de acceso diferenciado sin controversias de gobernanza relevantes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion trimestral solida; historicamente Berkshire destacaba el valor en libros por accion como metrica principal pero dejo de hacerlo desde la carta anual de 2018 (publicada 2019), reemplazandolo por el rendimiento accionario de mercado. Cobertura de analistas de Wall Street mucho mas limitada y dispersa que en otras mega-caps (3 a 10 analistas segun fuente).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Posicion de caja NETA extraordinaria: caja mas T-bills de 397400 millones USD (record historico, supera el record previo de 381700 millones USD de Q3 2025) contra deuda total de aprox 129000 millones USD - caja neta de aprox 268000 millones USD. Rating crediticio AA (S&P) y Aa2 (Moody's) - practicamente el mas alto del mercado corporativo, aunque no es AAA (Berkshire perdio ese rating en 2009-2010 durante la crisis financiera).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 15.41x no es informativa para esta estructura de holding-aseguradora (reservas tecnicas y float distorsionan los ratios tradicionales de capital de trabajo) - la liquidez real se mide mejor por la posicion de caja neta extraordinaria arriba.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda total de aprox 129000 millones USD con estructura mixta: parte es deuda de holding corporativa y una porcion importante es deuda non-recourse de BNSF y BHE (proyecto-infraestructura regulada con flujos dedicados, se analiza aparte de la deuda corporativa general). Sin senales de estres de refinanciamiento dado el rating crediticio altisimo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales 1252271 millones USD, patrimonio muy grande (729450 millones USD) - a diferencia de otras empresas de este Dashboard con recompras agresivas (LLY, AAPL), Berkshire mantiene un patrimonio solido y estable, reflejo de decadas de retencion de capital sin dividendos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes distorsionados por la naturaleza del negocio: margen neto GAAP TTM 19.30% inflado por ganancias no realizadas del portafolio de acciones (mark-to-market via P&L desde 2018, US GAAP ASU 2016-01); Buffett mismo pide a los inversionistas ignorar esta cifra. La utilidad operativa propia (no-GAAP, la que la empresa destaca) fue 44490 millones USD en FY2025, -6% interanual vs aprox 47300 millones USD en FY2024, pero +18% interanual en Q1 2026 (primer trimestre completo de Abel) impulsada por mejoras en suscripcion de seguros, BNSF y BHE.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE aprox 10.0% a 10.5% (algo distorsionado al alza por la utilidad neta GAAP inflada por mark-to-market), ROIC aprox 10.47% TTM, ambos moderados en comparacion con el resto de este Dashboard pero razonables para un conglomerado con un balance dominado por caja e inversiones de bajo riesgo relativo. DuPont point-in-time (9.93%) reconcilia bien con el ROE reportado, sin la distorsion de patrimonio de crecimiento rapido vista en NVDA, LLY o AAPL.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos muy baja (0.30x, Revenue TTM 375.39bn sobre Activos totales 1252.27bn) - normal y esperable para una aseguradora-holding con un balance dominado por inversiones financieras (caja, T-bills, acciones cotizadas) en vez de activos operativos que generan ingresos por rotacion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento moderado y estable: CAGR de ingresos a 5 anios aprox 7.9% (de 276185 millones USD FY2021 a 375394 millones USD TTM) - sin picos ni valles extremos de un solo producto o ciclo de commodity, reflejo de la diversificacion del conglomerado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Consistencia alta en terminos de ingresos consolidados (la diversificacion entre seguros, ferrocarril, energia y decenas de negocios manufactureros-retail suaviza la volatilidad que tendria cualquiera de esos negocios por separado), aunque la utilidad neta GAAP reportada es muy volatil trimestre a trimestre por el mark-to-market del portafolio de acciones - Buffett pide explicitamente ignorar esa volatilidad y mirar la utilidad operativa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Bajo Abel: aceleracion de M&A (OxyChem, Taylor Morrison), reconfiguracion del portafolio de acciones hacia posiciones mas ligadas a tecnologia (incremento de 225% en Alphabet), y aumento de inversion en BHE para atender demanda de centros de datos de IA - catalizador de crecimiento potencial en el segmento de energia bajo el nuevo liderazgo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM 45504 millones USD vs utilidad neta GAAP TTM 72471 millones USD - la utilidad neta contable SUPERA al flujo de caja operativo, patron inverso al tipico de una empresa operativa normal, precisamente porque la utilidad neta GAAP incluye ganancias no realizadas del portafolio de acciones que no generan caja. Evidencia adicional de por que Buffett pide ignorar la utilidad neta GAAP.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM 23872 millones USD (OCF 45504 millones USD menos capex 21632 millones USD) - moderado en relacion al tamano del balance, reflejo del capex pesado de BNSF y BHE (negocios de infraestructura regulada con reinversion continua), no comparable directamente con el FCF de una empresa de software o de plataforma de este Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM 21632 millones USD (aprox 5.76% de ingresos) dominado por BNSF (ferrocarril, mantenimiento de vias e infraestructura) y BHE (energia, incluyendo expansion para demanda de centros de datos de IA bajo Abel) - mezcla de mantenimiento y crecimiento tipica de negocios de infraestructura regulada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso de capital muy distintivo: NO paga dividendos (retiene todo el capital desde su fundacion bajo Buffett), recompras discrecionales basadas en valor intrinseco (reanudadas en mar-2026 tras pausa de 21 meses), y M&A grande y selectiva (OxyChem, Taylor Morrison). Posicion de caja record de 397400 millones USD genera la pregunta central de este analisis: si Abel logra desplegarla con la misma disciplina historica de Buffett.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "PE TTM 15.38x (distorsionado a la baja por la utilidad neta GAAP inflada por mark-to-market, dando una cifra enganosamente barata) vs forward PE 25.17x (mas representativo, refleja normalizacion esperada de las ganancias no operativas). P a B 1.53x, historicamente la metrica mas relevante para Berkshire (Buffett recompraba agresivamente cuando el P a B caia bajo aprox 1.2x en anios pasados, aunque el criterio actual de recompra es discrecional, no una regla fija de P a B).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "NO se aplico un DCF tradicional de una sola empresa - metodologicamente inapropiado para un conglomerado con un portafolio de acciones marcado a mercado y float de seguros. Se uso en su lugar el metodo clasico de dos columnas de Buffett (suma de partes): Inversiones por accion (caja mas T-bills 397400 millones USD, mas portafolio de acciones cotizadas 263100 millones USD, dividido entre 2.16 mil millones de acciones equivalentes Clase B) = 305.79 USD por accion, MAS el poder de ganancias operativas (utilidad operativa propia FY2025 de 44490 millones USD, multiplicada por 10x segun el multiplicador clasico de Buffett) dividido entre acciones = 205.97 USD por accion. Total: 511.76 USD por accion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de seguridad -0.5% (precio actual 514.28 USD vs. valor intrinseco SOTP 511.76 USD) - PRACTICAMENTE NEUTRO, la brecha mas pequena de cualquier empresa de este Dashboard. Consistente con: (a) el consenso de analistas (limitado, 3 a 10 segun fuente) con objetivo promedio muy cercano al precio actual (513 a 525 USD); (b) la propia reanudacion de recompras de Berkshire en mar-2026 tras 21 meses de pausa, senal de que la gerencia ve la accion en un rango razonable de valor, ni obviamente cara ni obviamente barata.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM no aplica de forma tradicional dado que Berkshire opera en decenas de industrias distintas (seguros, ferrocarriles, energia, manufactura, retail) simultaneamente - el mercado relevante es mas bien la disponibilidad de capital para desplegar en adquisiciones y en el portafolio de acciones, actualmente en record historico (397400 millones USD sin desplegar).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Muy altas para replicar la estructura completa: ningun competidor tiene el tamano de balance, la calificacion crediticia, el float de seguros acumulado por decadas, y la reputacion para cerrar deals grandes rapido que tiene Berkshire simultaneamente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "No aplica de forma tradicional a nivel consolidado dada la naturaleza de conglomerado diversificado - cada uno de los mas de 60 negocios operativos enfrenta su propia dinamica competitiva independiente (seguros compite con Munich Re y Swiss Re, BNSF con otros ferrocarriles de carga, BHE con otras utilities reguladas).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Beta bajo (0.61, stockanalysis) consistente con el perfil defensivo y diversificado del conglomerado - la diversificacion entre seguros, ferrocarril, energia y manufactura-retail suaviza la ciclicidad agregada frente a cualquier sector individual.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio moderado y disperso entre las multiples industrias donde opera (seguros, ferrocarriles, energia regulada) - sin un frente unico de litigio antimonopolio activo como en AAPL o BABA, dada la naturaleza de conglomerado diversificado sin posicion dominante en ningun mercado individual salvo quizas GEICO en auto-seguros.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria limitada - la mayoria de los negocios operativos y el portafolio de acciones estan denominados en USD y enfocados en el mercado domestico de EEUU, a diferencia de empresas con exposicion internacional significativa de este Dashboard (META, LLY, BABA).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Sin concentracion de cliente o proveedor a nivel consolidado (mas de 60 negocios operativos autonomos con sus propios clientes y proveedores en industrias dispares). Concentracion SI relevante en el portafolio de acciones cotizadas: Apple representa 22.0% del portafolio 13F (Q1 2026) pese a las ventas masivas de 2024-2025 - un correctivo fuerte en AAPL impactaria el valor en libros via mark-to-market.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de disrupcion bajo y disperso dada la diversificacion entre industrias maduras (seguros, ferrocarriles, energia, manufactura tradicional) - el riesgo mas relevante es mas bien de asignacion de capital (si Abel despliega la caja record eficientemente) que de disrupcion tecnologica directa a los negocios existentes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Impairments after-tax reportados de 8260 millones USD en 2025 combinados en Kraft Heinz y Occidental - evidencia de que incluso posiciones core del portafolio pueden deteriorarse; sin banderas ambientales o sociales mayores identificadas especificamente mas alla de la exposicion normal de negocios como ferrocarriles y energia a regulacion ambiental.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "13F de Q2 2026 esperado aprox 14-ago-2026, clave para confirmar si continua la reduccion de Apple y Chevron y si se agranda la posicion en Alphabet bajo Abel; resultados de Q2 2026 esperados entre el 8 y 10 de ago-2026 (fuentes discrepan en la fecha exacta); ritmo de recompras del segundo trimestre completo bajo Abel.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Warren Buffett mantiene una participacion accionaria enorme y personal como fundador (no se cuantifico el porcentaje exacto en esta sesion); no se identifico informacion especifica de compras o ventas recientes de otros insiders en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura de Wall Street mucho mas limitada y dispersa que en el resto de este Dashboard (3 a 10 analistas segun la fuente, vs decenas tipicas en otras mega-caps), consistente con que gran parte del research tradicional de Wall Street no aplica bien a la estructura de Berkshire. Objetivo promedio muy cercano al precio actual (513 a 525 USD, consenso Buy limitado) - la brecha mas pequena de cualquier empresa de este Dashboard entre el precio de mercado y el consenso de analistas.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.6216216216216215,
+    "recomendacion": "MANTENER (SOTP practicamente neutro, margen de seguridad -0.5%, consistente con el consenso de analistas y con la reanudacion de recompras de la propia empresa)",
+    "tesis": "Conglomerado excepcional por su balance, moat y disciplina historica de asignacion de capital, ahora en una transicion de liderazgo confirmada (Buffett a Abel) que hasta ahora muestra senales positivas (M&A activo, recompras reanudadas), cotizando a un precio que el propio metodo de valoracion clasico de Berkshire considera practicamente justo."
+  }
+}

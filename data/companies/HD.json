@@ -1,0 +1,259 @@
+{
+  "empresa": "The Home Depot, Inc.",
+  "ticker": "HD",
+  "sector": "Consumo Discrecional / Retail Especializado (Mejoras del Hogar)",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Lider indiscutido de mejoras del hogar en EEUU (2300+ tiendas), ventas DIY y segmento Pro fuertemente expandido via SRS Distribution (adquirida jun-2024, USD 18.25bn de valor empresa) y GMS (adquirida 2025, USD 5.5bn, plegada dentro de SRS) - aumentando el TAM total en ~USD 50bn a aproximadamente USD 1 billon.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de escala LIDER (2300+ tiendas, 51% de cuota de mercado segun IBISWorld), marca mas reconocida del sector, ahora con infraestructura de distribucion especializada Pro (SRS+GMS: 1200+ ubicaciones, 3500+ asociados, 8000 camiones) dificil de replicar rapidamente por cualquier competidor.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "LIDER indiscutido del mercado de mejoras del hogar en EEUU (51% de cuota vs 28.8% de Lowes, segun IBISWorld) - aproximadamente 3x mas grande que Lowes en capitalizacion de mercado y ~35% mas tiendas.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Fuerte, reflejado en el liderazgo de mercado y la escala, aunque el entorno actual de gasto discrecional del consumidor limitado por tasas hipotecarias altas presiona el apalancamiento operativo de todo el sub-sector.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historial solido de decadas, M&A reciente MUY exitoso y estrategico en el segmento Pro (SRS Distribution + GMS, aumentando el TAM en ~USD 50bn), calificacion crediticia MEJORADA por S&P de A- a A (una de las mas fuertes del Dashboard completo). EVENTO RECIENTE Y MATERIAL: CEO Ted Decker anuncio licencia medica temporal el mismo dia de esta ficha (12-ago-2026), liderazgo interino repartido entre Ann-Marie Campbell (EVP, operaciones diarias) y CFO Richard McPhail (finanzas + subsidiarias Pro).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Sin datos especificos de insider buying-selling identificados en esta investigacion puntual.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones, sin estructura de control dual ni voto diferenciado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guia detallada de comp sales-margen operativo para FY2026 (flat a +2% comps, margen operativo 12.4%-12.6%), comunicacion honesta sobre la persistencia de la debilidad del mercado de vivienda (\"no hemos visto un catalizador o punto de inflexion\"), comunicado publico inmediato y transparente sobre la licencia medica del CEO con plan de liderazgo interino claro.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda total USD 63.16bn (la mas alta en terminos absolutos del cluster de retail-restaurantes de la sesion, aunque proporcional al tamano ~3x mayor de HD vs Lowes), caja apenas USD 1.60bn, Deuda Neta/EBITDA ~2.52x. Calificacion crediticia EXCELENTE: S&P A (mejorada desde A-), Moodys A2 - de las mas solidas de todo el Dashboard, superior incluso a TJX en la escala S&P. Deuda/Patrimonio 4.55x sobre un patrimonio real y POSITIVO (aunque delgado, USD 13.87bn) - a diferencia de Lowes (patrimonio negativo), HD SI tiene patrimonio contable positivo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.04 pero prueba acida apenas 0.28 (brecha grande, mismo patron que Lowes, tipico de un retailer de gran volumen con inventario dominante en el activo corriente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Grado de inversion EXCELENTE (S&P A, Moodys A2) - de las calificaciones crediticias mas fuertes de todo el Dashboard, no solo del cluster reciente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles USD 32.72bn sobre activos totales de USD 107.90bn (30.3%) - elevado, reflejo directo de las adquisiciones recientes SRS Distribution (USD 18.25bn) y GMS (USD 5.5bn).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 31.14% (similar a Lowes 30.96%), margen operativo 12.45% (ligeramente superior a Lowes 11.55%), margen neto 8.41% (superior a Lowes 7.49%) - margenes consistentemente mejores que su comparable directo, aunque tambien bajo presion moderada por el mismo entorno de vivienda dificil.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 128.38% (patrimonio delgado -no negativo- infla la cifra, mismo patron ya documentado con BMY-ITW-AMGN, usar ROIC). ROIC 20.96% (practicamente identico al 21.08% de Lowes) vs WACC propio 8.00% - spread solido de ~13pp. ROA 13.53%.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 1.544x (Ingresos TTM USD 166.59bn / Activos totales USD 107.90bn), alta rotacion (similar a Lowes 1.610x), tipica de un retailer de gran volumen.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de Ingresos 5y de +4.51% (Finviz) - a diferencia notable de Lowes (CAGR NEGATIVO -0.75%, analizada inmediatamente antes en la misma sesion), HD muestra crecimiento historico POSITIVO en la misma ventana de tiempo y bajo el mismo entorno macro de vivienda dificil, en gran parte explicado por la contribucion inorganica de las adquisiciones SRS-GMS que Lowes no replico en la misma magnitud.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Ingresos TTM +2.2% interanual (modesto pero positivo), guia FY2026 de comp sales identica a la de Lowes (flat a +2%), con upside a 5-6% si el mercado de vivienda mejora segun guia propia de la empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Expansion del segmento Pro via SRS-GMS (TAM ampliado en ~USD 50bn a ~USD 1 billon total), eventual recuperacion ciclica del mercado de vivienda (no incorporada como base, solo como upside), continua ganancia de escala sobre competidores mas pequenos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM USD 18.03bn vs utilidad neta TTM USD 14.01bn - brecha normal explicada por D&A, sin distorsiones contables relevantes identificadas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD 14.32bn, PERO en declive notable desde el pico de FY2023 (USD 17.95bn) - a diferencia de Lowes (FCF notablemente estable), el FCF de HD muestra una tendencia descendente real en los ultimos 2-3 anios, reflejo combinado de la desaceleracion del mercado de vivienda y costos de integracion de las adquisiciones SRS-GMS.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex/Ventas moderado, ~2.23% (USD 3.72bn TTM), en aumento gradual (desde USD 2.57bn en FY2021) consistente con el crecimiento organico-inorganico de la red.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo creciente (yield ~2.68-2.69%, payout ~64.67%, notablemente mas alto que el ~40% de Lowes) combinado con M&A estrategico reciente de gran escala (SRS+GMS, ~USD 23.75bn combinados) - asignacion de capital mas orientada a M&A de escala que Lowes en el periodo reciente.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 24.56-25.18x, Forward P/E 21.52-23.18x (normal, mas bajo que el trailing), P/FCF 24.10x - multiplos notablemente MAS RICOS que Lowes (P/E ~18.5x, P/FCF ~15.9x) pese a compartir el mismo entorno macro dificil, reflejo de la prima de calidad-liderazgo que el mercado le asigna a HD sobre su comparable directo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, growth 5%, mismo criterio conservador que Lowes dado el entorno de vivienda compartido): USD 328.6/accion, MS -5.03%. Escenario B (sensibilidad con growth 7%, reflejando el escenario de recuperacion de vivienda que la propia empresa menciona como upside a 5-6% de comp sales, no adoptado): USD 364.4/accion, MS +5.3% - ambos escenarios en zona de valor razonable/MANTENER. Beta literal (0.96-0.97) verificado SIN necesidad de sustitucion: chequeo de convergencia limpio (gap 1.08x) - a diferencia de Lowes, que si requirio un ajuste moderado de beta.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-5.03% (Escenario A adoptado, precio actual USD 345.93 vs valor intrinseco USD 328.6) - practicamente en valor razonable, dentro de la banda de MANTENER establecida por el framework, resultado casi identico en magnitud al de Lowes (-3.3%) pese a llegar ahi por una via metodologica distinta (sin ajuste de beta).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de mejoras del hogar en EEUU grande y maduro, TAM ampliado significativamente por la expansion hacia el mercado Pro de distribucion especializada (SRS-GMS, +USD 50bn de TAM incremental a ~USD 1 billon total) - mismo entorno macro dificil que Lowes en el corto plazo, pero con un TAM estructural mas amplio gracias a la diversificacion Pro.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Las MAS altas del sub-sector: escala de red LIDER, marca mas reconocida, ahora reforzada por la infraestructura de distribucion especializada Pro (SRS-GMS) dificil de replicar rapidamente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta con Lowes (aunque HD en clara posicion de liderazgo, 51% vs 28.8%) y Menards, poder de proveedores moderado, poder de compradores del consumidor final alto, amenaza de sustitutos moderada (e-commerce, contratistas independientes), barreras de entrada altas reforzadas por la escala Pro.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Genuinamente ciclica y sensible al mercado de vivienda-tasas de interes, MISMO riesgo estructural ya documentado con Lowes (\"no hemos visto un catalizador o punto de inflexion\" en la actividad de vivienda segun la propia empresa) - riesgo ciclico real y actualmente materializado para ambos competidores del sub-sector.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Moderado: riesgo arancelario sobre materiales de construccion importados, riesgo laboral-salario minimo tipico del sector retail, mismo perfil que Lowes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria limitada dado que las operaciones son mayoritariamente domesticas en EEUU (con cierta presencia en Canada-Mexico).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada (consumidores DIY y contratistas Pro, base Pro ahora mas amplia y diversificada tras SRS-GMS), cadena de proveedores tambien diversificada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Moderado: mismo riesgo de e-commerce (Amazon) en categorias no especializadas ya documentado con Lowes, mitigado por la naturaleza fisica-logistica de los productos de mejoras del hogar.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo relativo al resto del Dashboard, sin litigios activos severos identificados en esta investigacion (aunque el evento de salud del CEO merece seguimiento por su posible impacto en la continuidad de liderazgo).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "EVENTO INMEDIATO Y MATERIAL: CEO Ted Decker en licencia medica temporal anunciada el mismo dia de esta ficha (12-ago-2026), se espera su regreso en unos meses, liderazgo interino ya designado (Campbell + McPhail + Brenneman como chairman interino del directorio). Reporte de resultados programado para el 18-ago-2026 (a solo 6 dias de esta ficha) - evento clave a monitorear de cerca. Integracion continua de GMS dentro de SRS.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Sin datos especificos de insider buying-selling identificados en esta investigacion puntual - neutral por falta de informacion, no por senal negativa confirmada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso positivo (Buy, 36 analistas, objetivo promedio USD 372.78-377.17, +7.72% a +9.03% de alza) - modestamente mas optimista que este DCF (-5.03%), divergencia pequena y razonable, similar en magnitud al patron ya visto con Lowes.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7567567567567566,
+    "recomendacion": "MANTENER",
+    "tesis": "Home Depot es el lider indiscutido de mejoras del hogar (51% de cuota) con el mejor balance del cluster reciente (S&P A) y un beta que converge limpio sin ajuste, pero comparte el mismo entorno de vivienda dificil que Lowes y enfrenta un evento de liderazgo reciente (licencia medica del CEO) - el DCF cae practicamente en valor razonable (-5.03%) - MANTENER."
+  }
+}

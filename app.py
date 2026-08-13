@@ -1,9 +1,13 @@
+import json
 import streamlit as st
 import yfinance as yf
 import pandas as pd
+from pathlib import Path
 from streamlit_searchbox import st_searchbox
 from deep_translator import GoogleTranslator
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
+DATA_DIR = Path(__file__).resolve().parent / "data"
 
 st.set_page_config(
     page_title="Analizador de Bolsa",
@@ -43,6 +47,9 @@ if not st.session_state.auth_ok:
 # Estado de sesión: ticker seleccionado desde el ranking
 if "ticker_click" not in st.session_state:
     st.session_state.ticker_click = None
+# Fuente del ticker activo: "excel" (Mi Análisis) o "yfinance" (en vivo)
+if "ticker_source" not in st.session_state:
+    st.session_state.ticker_source = "yfinance"
 
 # ── CSS ──────────────────────────────────────────────────────────────────────
 st.markdown("""
@@ -619,6 +626,29 @@ _TICKERS_CANDIDATOS = [
 ]
 # Eliminar duplicados manteniendo orden
 _TICKERS_CANDIDATOS = list(dict.fromkeys(_TICKERS_CANDIDATOS))
+
+
+# ── DATOS DEL ANÁLISIS FUNDAMENTAL PROPIO (Excel) ──────────────────────────────
+# Generados localmente por scripts/export_excel.py a partir del Excel de
+# análisis fundamental del usuario. No se leen en vivo: son JSON estáticos
+# commiteados en data/, se resincronizan corriendo el script de nuevo.
+
+@st.cache_data(show_spinner=False)
+def cargar_datos_excel():
+    path = DATA_DIR / "ranking.json"
+    if not path.exists():
+        return []
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+@st.cache_data(show_spinner=False)
+def cargar_ficha_excel(ticker: str):
+    path = DATA_DIR / "companies" / f"{ticker}.json"
+    if not path.exists():
+        return None
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
 
 
 @st.cache_data(ttl=3600 * 4, show_spinner=False)
@@ -1375,10 +1405,287 @@ def _mostrar_ranking():
                     )
                     if st.button("Ver análisis →", key=f"r_{emp['ticker']}", use_container_width=True):
                         st.session_state.ticker_click = emp["ticker"]
+                        st.session_state.ticker_source = "yfinance"
                         st.rerun()
 
     st.markdown("---")
     st.caption("La puntuación usa umbrales globales de referencia. El análisis individual aplica benchmarks específicos por sector.")
+
+
+# ── ANÁLISIS FUNDAMENTAL PROPIO (Excel) ─────────────────────────────────────────
+
+def _fmt_pct_directo(val):
+    """A diferencia de fmt_pct() (piensa en fracciones tipo 0.15 de yfinance),
+    los campos porcentuales de data/ranking.json ya vienen normalizados a
+    puntos porcentuales (71.07 = 71.07%) por scripts/export_excel.py."""
+    if val is None:
+        return "N/D"
+    try:
+        return f"{round(float(val), 1)}%"
+    except (TypeError, ValueError):
+        return "N/D"
+
+
+def _banda_valoracion(mos):
+    if mos is None:
+        return "sin_dato"
+    if mos >= 15:
+        return "infravalorada"
+    if mos <= -15:
+        return "sobrevalorada"
+    return "razonable"
+
+
+def _rating_emoji(rating):
+    if rating is None:
+        return "⚪"
+    if rating <= 2:
+        return "🔴"
+    if rating < 4:
+        return "🟡"
+    return "🟢"
+
+
+def _score_color(score):
+    if score is None:
+        return "#3d4555"
+    if score >= 4:
+        return "#2ea87e"
+    if score >= 3:
+        return "#b07d2a"
+    return "#c0392b"
+
+
+def _mostrar_analisis_fundamental():
+    st.markdown("---")
+
+    datos = cargar_datos_excel()
+    if not datos:
+        st.warning(
+            "No se encontraron datos del análisis fundamental propio "
+            "(falta `data/ranking.json`). Corré `scripts/export_excel.py` "
+            "sobre el Excel y volvé a desplegar."
+        )
+        return
+
+    sectores_disponibles = sorted({e["sector"] for e in datos if e.get("sector")})
+    badges_disponibles = sorted({e["decision_badge"] for e in datos if e.get("decision_badge")})
+
+    fcol1, fcol2, fcol3 = st.columns([1.3, 1.3, 1.6])
+    with fcol1:
+        f_val = st.selectbox(
+            "Valoración (Margen de Seguridad)",
+            ["Todas", "💎 Infravalorada (MoS ≥ +15%)", "⚖️ Rango razonable (-15% a +15%)",
+             "🔺 Sobrevalorada (MoS ≤ -15%)", "❓ Sin dato de valoración"],
+            key="fx_val",
+        )
+    with fcol2:
+        f_sector = st.multiselect(
+            "Sector", options=sectores_disponibles, default=[],
+            placeholder="Todos los sectores", key="fx_sector",
+        )
+    with fcol3:
+        f_decision = st.multiselect(
+            "Decisión", options=badges_disponibles, default=[],
+            placeholder="Todas las decisiones", key="fx_decision",
+        )
+
+    _VAL_MAP = {
+        "Todas": None,
+        "💎 Infravalorada (MoS ≥ +15%)": "infravalorada",
+        "⚖️ Rango razonable (-15% a +15%)": "razonable",
+        "🔺 Sobrevalorada (MoS ≤ -15%)": "sobrevalorada",
+        "❓ Sin dato de valoración": "sin_dato",
+    }
+    banda_filtro = _VAL_MAP[f_val]
+
+    filtrados = [
+        e for e in datos
+        if (banda_filtro is None or _banda_valoracion(e.get("margen_seguridad_pct")) == banda_filtro)
+        and (not f_sector or e.get("sector") in f_sector)
+        and (not f_decision or e.get("decision_badge") in f_decision)
+    ]
+
+    conteo_txt = f"{len(filtrados)} de {len(datos)} empresas" if len(filtrados) != len(datos) else f"{len(datos)} empresas"
+    if not filtrados:
+        st.info("Ninguna empresa cumple los filtros seleccionados.")
+        return
+
+    st.markdown("---")
+    st.markdown(
+        f'<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:6px">'
+        f'<span style="font-size:20px;font-weight:700;color:#e6f1ff">🧭 Mi Análisis Fundamental</span>'
+        f'<span style="font-size:13px;color:#4a5270">{conteo_txt} · basado en tu propio DCF, no en datos en vivo</span>'
+        f'</div>',
+        unsafe_allow_html=True,
+    )
+    st.caption("Clasificadas por Margen de Seguridad (precio actual vs. valor intrínseco de tu DCF).")
+
+    _BANDAS_VAL = [
+        ("infravalorada",  "#2ea87e", "💎 INFRAVALORADA",      "Margen de Seguridad ≥ +15%"),
+        ("razonable",      "#b07d2a", "⚖️ RANGO RAZONABLE",    "Margen de Seguridad entre -15% y +15%"),
+        ("sobrevalorada",  "#c0392b", "🔺 SOBREVALORADA",      "Margen de Seguridad ≤ -15%"),
+        ("sin_dato",       "#3d4555", "❓ SIN DATO DE VALORACIÓN", "Especulativas, situaciones especiales u otras sin DCF"),
+    ]
+
+    for clave, color, etiqueta, descripcion in _BANDAS_VAL:
+        empresas = [e for e in filtrados if _banda_valoracion(e.get("margen_seguridad_pct")) == clave]
+        if not empresas:
+            continue
+        empresas = sorted(
+            empresas,
+            key=lambda e: (e.get("margen_seguridad_pct") is None, -(e.get("margen_seguridad_pct") or 0)),
+        )
+
+        st.markdown(
+            f'<div style="background:{color}1a;border-left:4px solid {color};'
+            f'border-radius:0 8px 8px 0;padding:10px 18px;margin:24px 0 14px">'
+            f'<div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">'
+            f'<span style="color:{color};font-weight:700;font-size:15px">{etiqueta}</span>'
+            f'<span style="color:#4a5270;font-size:12px">· {len(empresas)} empresa{"s" if len(empresas) != 1 else ""}</span>'
+            f'<span style="color:#3d4555;font-size:11.5px;margin-left:6px">{descripcion}</span>'
+            f'</div></div>',
+            unsafe_allow_html=True,
+        )
+
+        cols_n = 5
+        for i in range(0, len(empresas), cols_n):
+            grupo = empresas[i: i + cols_n]
+            cols = st.columns(cols_n)
+            for j, emp in enumerate(grupo):
+                mos = emp.get("margen_seguridad_pct")
+                mos_str = "N/D" if mos is None else f'{"+" if mos >= 0 else ""}{mos:.1f}%{" ≈" if emp.get("mos_approx") else ""}'
+                mos_color = "#3d4555" if mos is None else ("#2ea87e" if mos >= 0 else "#c0392b")
+                score = emp.get("score_total")
+                score_str = f"{score:.2f}" if score is not None else "N/D"
+
+                with cols[j]:
+                    st.markdown(
+                        f'<div style="background:#161b2e;border:1px solid #21262d;border-bottom:none;'
+                        f'border-left:3px solid {color};border-radius:6px 6px 0 0;'
+                        f'padding:11px 12px 10px">'
+                        f'<div style="display:flex;justify-content:space-between;align-items:center">'
+                        f'<span style="font-weight:700;color:#e6f1ff;font-size:15px">{emp["ticker"]}</span>'
+                        f'<span style="background:{_score_color(score)};color:#fff;font-size:12px;font-weight:700;'
+                        f'border-radius:4px;padding:2px 7px">{score_str}</span>'
+                        f'</div>'
+                        f'<div style="font-size:11px;color:#8b949e;margin-top:3px;white-space:nowrap;'
+                        f'overflow:hidden;text-overflow:ellipsis" title="{emp.get("empresa", "")}">{emp.get("empresa", "")}</div>'
+                        f'<div style="font-size:10.5px;color:#4a5270;margin-top:2px;white-space:nowrap;'
+                        f'overflow:hidden;text-overflow:ellipsis">{emp.get("sector", "")}</div>'
+                        f'<div style="display:flex;justify-content:space-between;align-items:center;margin-top:9px">'
+                        f'<span style="font-size:12px;font-weight:700;color:{mos_color}">{mos_str}</span>'
+                        f'<span style="font-size:10px;color:#8b949e;text-align:right;max-width:60%;'
+                        f'overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="{emp.get("decision_badge", "")}">'
+                        f'{emp.get("decision_badge", "")}</span>'
+                        f'</div>'
+                        f'</div>',
+                        unsafe_allow_html=True,
+                    )
+                    if st.button("Ver ficha →", key=f"fx_{emp['ticker']}", use_container_width=True):
+                        st.session_state.ticker_click = emp["ticker"]
+                        st.session_state.ticker_source = "excel"
+                        st.rerun()
+
+    st.markdown("---")
+    st.caption("Margen de Seguridad = (Valor Intrínseco DCF − Precio Actual) / Precio Actual. \"≈\" indica un valor normalizado por heurística durante la exportación del Excel — verificar contra la Ficha si está cerca de un umbral.")
+
+
+def _mostrar_detalle_excel(ticker: str):
+    ficha = cargar_ficha_excel(ticker)
+    emp = next((e for e in cargar_datos_excel() if e["ticker"] == ticker), None)
+
+    if not ficha or not emp:
+        st.error(f"No se encontró el análisis de **{ticker}** en tus datos.")
+        if st.button("← Volver"):
+            st.session_state.ticker_click = None
+            st.rerun()
+        return
+
+    score = emp.get("score_total")
+    mos = emp.get("margen_seguridad_pct")
+    mos_str = "N/D" if mos is None else f'{"+" if mos >= 0 else ""}{mos:.1f}%{" ≈" if emp.get("mos_approx") else ""}'
+    mos_color = "#3d4555" if mos is None else ("#2ea87e" if mos >= 0 else "#c0392b")
+    tesis = (ficha.get("conclusion") or {}).get("tesis") or emp.get("decision_full") or ""
+
+    st.markdown(
+        f'<div style="background:#161b2e;border:1px solid #21262d;border-radius:12px;padding:20px 24px;margin-bottom:18px">'
+        f'<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px">'
+        f'<div>'
+        f'<div style="font-size:24px;font-weight:700;color:#e6f1ff">{emp.get("ticker")} '
+        f'<span style="font-size:15px;font-weight:400;color:#8b949e">· {emp.get("empresa", "")}</span></div>'
+        f'<div style="font-size:12.5px;color:#4a5270;margin-top:4px">{emp.get("sector", "")} · Análisis del {emp.get("fecha_analisis", "N/D")}</div>'
+        f'</div>'
+        f'<div style="display:flex;gap:8px">'
+        f'<span style="background:{_score_color(score)};color:#fff;font-weight:700;font-size:14px;border-radius:6px;padding:5px 12px">'
+        f'Score {score:.2f}/5</span>'
+        f'<span style="background:#0d1117;border:1px solid #21262d;color:#c0cfe0;font-weight:700;font-size:13px;'
+        f'border-radius:6px;padding:5px 12px">{emp.get("decision_badge", "")}</span>'
+        f'</div>'
+        f'</div>'
+        f'<p style="margin:14px 0 0;font-size:13.5px;color:#c0cfe0;line-height:1.5">{tesis}</p>'
+        f'<div style="display:flex;gap:24px;margin-top:16px;flex-wrap:wrap">'
+        f'<div><div style="font-size:10.5px;color:#8b949e;text-transform:uppercase">Precio Actual</div>'
+        f'<div style="font-size:17px;font-weight:700;color:#e6f1ff">${fmt(emp.get("precio_actual"))}</div></div>'
+        f'<div><div style="font-size:10.5px;color:#8b949e;text-transform:uppercase">Valor Intrínseco (DCF)</div>'
+        f'<div style="font-size:17px;font-weight:700;color:#e6f1ff">${fmt(emp.get("valor_intrinseco"))}</div></div>'
+        f'<div><div style="font-size:10.5px;color:#8b949e;text-transform:uppercase">Margen de Seguridad</div>'
+        f'<div style="font-size:17px;font-weight:700;color:{mos_color}">{mos_str}</div></div>'
+        f'</div>'
+        f'</div>',
+        unsafe_allow_html=True,
+    )
+
+    if st.button("📡 Ver cotización en vivo (Yahoo Finance) →", key="ir_a_yfinance"):
+        st.session_state.ticker_click = ticker
+        st.session_state.ticker_source = "yfinance"
+        st.rerun()
+
+    st.markdown("#### Métricas clave del Dashboard")
+    _m_cards = [
+        ("P/E", fmt(emp.get("pe"))),
+        ("EV/EBITDA", fmt(emp.get("ev_ebitda"))),
+        ("P/FCF", fmt(emp.get("p_fcf"))),
+        ("Deuda Neta/EBITDA", fmt(emp.get("deuda_neta_ebitda"))),
+        ("Margen Bruto", _fmt_pct_directo(emp.get("margen_bruto"))),
+        ("Margen Operativo", _fmt_pct_directo(emp.get("margen_operativo"))),
+        ("Margen Neto", _fmt_pct_directo(emp.get("margen_neto"))),
+        ("ROE", _fmt_pct_directo(emp.get("roe"))),
+        ("ROIC", _fmt_pct_directo(emp.get("roic"))),
+        ("CAGR Ingresos 5y", _fmt_pct_directo(emp.get("cagr_ingresos_5y"))),
+        ("FCF Yield", _fmt_pct_directo(emp.get("fcf_yield"))),
+        ("Razón Corriente", fmt(emp.get("razon_corriente"))),
+    ]
+    for i in range(0, len(_m_cards), 4):
+        cols = st.columns(4)
+        for j, (lbl, val) in enumerate(_m_cards[i:i + 4]):
+            with cols[j]:
+                st.markdown(card(lbl, val), unsafe_allow_html=True)
+
+    st.markdown("---")
+    st.markdown("#### Ficha detallada — 10 secciones del análisis")
+
+    secciones = ficha.get("secciones", [])
+    if secciones:
+        tab_labels = [s["titulo"] for s in secciones]
+        tabs = st.tabs(tab_labels)
+        for tab, sec in zip(tabs, secciones):
+            with tab:
+                avg = sec.get("rating_promedio")
+                if avg is not None:
+                    st.markdown(
+                        f'<div style="display:inline-block;background:{_score_color(avg)};color:#fff;'
+                        f'font-weight:700;font-size:13px;border-radius:6px;padding:4px 10px;margin-bottom:14px">'
+                        f'Promedio de la sección: {avg}/5</div>',
+                        unsafe_allow_html=True,
+                    )
+                for asp in sec.get("aspectos", []):
+                    rating = asp.get("calificacion")
+                    label = f'{_rating_emoji(rating)} {asp["aspecto"]}  ({rating if rating is not None else "N/D"}/5)'
+                    with st.expander(label):
+                        st.write(asp.get("notas") or "Sin notas registradas.")
+    else:
+        st.info("Esta empresa no tiene secciones de Ficha detallada registradas.")
 
 
 # ── SIDEBAR ──────────────────────────────────────────────────────────────────
@@ -1413,16 +1720,17 @@ with st.sidebar:
 """)
     st.markdown("---")
     st.caption("Los semáforos usan benchmarks generales. Ajusta siempre según el sector específico.")
-    # Botón "Volver al ranking" cuando se navegó desde una tarjeta
+    # Botón "Volver" cuando se navegó desde una tarjeta
     if st.session_state.ticker_click and not ticker_input:
         st.markdown("---")
-        if st.button("← Volver al ranking", use_container_width=True):
+        if st.button("← Volver", use_container_width=True):
             st.session_state.ticker_click = None
             st.rerun()
 
-# Ticker activo: searchbox tiene prioridad sobre click del ranking
+# Ticker activo: searchbox tiene prioridad sobre click de cualquier ranking
 if ticker_input:
     st.session_state.ticker_click = None   # searchbox siempre prevalece
+    st.session_state.ticker_source = "yfinance"
 ticker_activo = ticker_input or st.session_state.ticker_click
 
 
@@ -1450,9 +1758,12 @@ if not ticker_activo:
         )
         if ticker_home:
             st.session_state.ticker_click = ticker_home
+            st.session_state.ticker_source = "yfinance"
             st.rerun()
 
-    home_tab1, home_tab2 = st.tabs(["📈 Acciones", "📦 ETFs"])
+    home_tab0, home_tab1, home_tab2 = st.tabs(["📊 Análisis Fundamental", "📈 Ranking en Vivo", "📦 ETFs"])
+    with home_tab0:
+        _mostrar_analisis_fundamental()
     with home_tab1:
         _mostrar_ranking()
     with home_tab2:
@@ -1461,7 +1772,13 @@ if not ticker_activo:
 
 
 
-# ── CARGA DE DATOS ────────────────────────────────────────────────────────────
+# ── ANÁLISIS FUNDAMENTAL PROPIO (Excel) — bifurca antes de tocar yfinance ──────
+if st.session_state.get("ticker_source") == "excel":
+    _mostrar_detalle_excel(ticker_activo.strip().upper())
+    st.stop()
+
+
+# ── CARGA DE DATOS (Yahoo Finance en vivo) ─────────────────────────────────────
 with st.spinner(f"Cargando análisis de **{ticker_activo.upper()}**..."):
     try:
         t    = yf.Ticker(ticker_activo.strip().upper())

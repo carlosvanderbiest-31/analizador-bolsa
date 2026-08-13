@@ -1,0 +1,259 @@
+{
+  "empresa": "ON Semiconductor Corporation (onsemi)",
+  "ticker": "ON",
+  "sector": "Tecnologia - Semiconductores de Potencia y SiC para Automotriz-Industrial",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Semiconductores de potencia (SiC - carburo de silicio para EVs), gestion inteligente de energia, y sensores de imagen (CIS); diversificado entre automotriz, industrial y ahora centros de datos de IA (creciendo con fuerza pero aun minoritario).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat moderado - lider en SiC para aplicaciones automotrices de alto rendimiento, pero enfrenta sobrecapacidad-presion de precios en el mercado chino de xEV y competencia creciente de Sony en sensores de imagen; moat mas debil y bajo mas presion competitiva que el resto del cluster de equipos de semiconductores.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Ingresos automotrices volvieron a crecer interanualmente en el 1T 2026 tras SIETE trimestres consecutivos de caida - inflexion real pero fragil; ingresos de centros de datos de IA mas que se duplicaron interanual y se espera que se dupliquen de nuevo en 2026, aunque parten de una base pequena.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Margen bruto 37.13%, operativo 18.16% - moderados y bajo presion por sobrecapacidad de SiC en China, muy por debajo de los margenes del cluster de equipos de semiconductores (KLAC-LRCX-TER en el rango 30-60%).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Sin dividendo, recompras historicas activas; capex reducido fuertemente desde el pico de 2023 (USD1.54bn a USD342M en FY2025, USD172M TTM) - senal de disciplina de capital en el ciclo bajo, aunque tambien podria reflejar cautela ante la demanda debil.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Transacciones de insiders netamente negativas (Insider Trans -9.06%), propiedad interna baja (0.58%) - sin senal fuerte positiva.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin accionista de control, propiedad institucional muy alta (105.57%, cifra que excede 100% probablemente por posiciones cortas-derivados en el calculo de Finviz), sin conflicto de gobernanza relevante identificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion trimestral detallada con metricas especificas de recuperacion automotriz y crecimiento de IA en centros de datos; guia relativamente conservadora tras el shock de guia de feb-2026 (-8% en un dia por vientos en contra de automotriz-industrial).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda neta ~USD968M, Debt/Equity 0.51-0.65x - moderado, deuda aumento 49% interanual (posiblemente para financiar recompras o inversion durante el ciclo bajo), a vigilar.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 3.46x, prueba acida 2.27-2.49x - liquidez muy solida, de las mas altas del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "No verificado en detalle en esta sesion (pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles ~USD2.02bn (15% de activos totales, moderado), patrimonio positivo pero DECLINANDO (-6% interanual) - a diferencia del resto del cluster donde el patrimonio crecia con fuerza, aqui refleja el ciclo bajo aun en curso.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 37.13%, operativo 18.16%, neto 10.17% - moderados y bajo presion reciente por sobrecapacidad de SiC, aunque management guio expansion de margen a medida que los volumenes se recuperan (36-38% margen bruto no-GAAP guiado para el 2T 2026).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 8.31-8.46%, ROIC 5.68-7.48% - MODESTOS, por debajo o apenas en linea con el WACC (~13.2%), spread NEGATIVO o neutro - unico caso del cluster de semiconductores sin spread positivo claro, reflejo genuino del ciclo bajo aun no resuelto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada-baja (~0.46x), ciclo de conversion de efectivo bajo presion durante el ciclo de sobrecapacidad.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR ingresos 5 anios apenas 2.67% (Finviz), ingresos TTM en realidad DECLINANDO (-3.14% interanual) - unico caso del cluster con crecimiento reciente NEGATIVO, aunque el 1T 2026 ya mostro inflexion positiva (+5% interanual, automotriz volviendo a crecer).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Historial de ciclicidad severa con una caida real y prolongada (siete trimestres consecutivos de declive automotriz) recien revirtiendo - a diferencia del resto del cluster (en pico de demanda), ON esta en la fase OPUESTA del ciclo, saliendo de un valle, no en la cima de un auge.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Recuperacion automotriz en curso, ingresos de centros de datos de IA duplicandose (aunque desde base pequena), liderazgo en SiC para EVs de alto rendimiento pese a la sobrecapacidad actual del mercado chino; lanzamiento de nuevas soluciones de potencia para EVs (ene-2026).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM USD1.67bn vs utilidad neta TTM implicita ~USD604M (market cap/P-E) - FCO excede comodamente la utilidad neta, calidad de ganancias razonable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD1.50bn (margen FCF ~24% sobre ingresos), en RECUPERACION desde el minimo de FY2023 (USD438M, ano de capex pico) pero aun por debajo del pico de FY2022 (USD1.60bn) - trayectoria de recuperacion genuina, no un salto de pico ciclico a evitar sino una normalizacion desde un valle.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM USD172M (2.8% de ingresos), fuertemente reducido desde el pico de FY2023 (USD1.54bn, 25% de ingresos en ese momento) - disciplina de capital notable durante el ciclo bajo, aunque tambien podria limitar la capacidad de capturar la recuperacion si la demanda repunta con fuerza.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Sin dividendo, recompras historicas, capex muy reducido durante el ciclo bajo - asignacion de capital prudente-defensiva dado el entorno actual.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 53.65x (distorsionado por utilidad neta TTM deprimida), Forward P/E 18.39x, PEG 0.51, EV/EBITDA 22.80x, P/FCF 21.62-22.18x - MUCHO MAS RAZONABLES que el resto del cluster de equipos de semiconductores (KLAC-LRCX-TER en 45-83x P/FCF), reflejo de que el precio YA cayo fuerte (-38% desde maximos de 52 semanas) durante el ciclo bajo automotriz-industrial.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, WACC 13.2% CAPM literal -beta 2.00 no degenerado, usado literal por volatilidad real ya demostrada-, crecimiento con fade 12%->6% en 5 anios reflejando la recuperacion ciclica en curso, FCF base TTM, terminal 4%): USD51.24/accion, MS -38.5%. Escenario B (optimista, recuperacion mas rapida, growth 20%->10%, no adoptado): USD65.60/accion, MS -21.3% - ambos escenarios negativos pero de magnitud MUCHO MENOR que el resto del cluster de semiconductores.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-38.5% con el Escenario A adoptado (zona de reducir, no tan extrema como el resto del cluster) - a diferencia de MU-SNDK-WDC-STX-TER-KLAC-LRCX (todos en picos de ciclo con MS entre -51% y -83%), aqui el precio YA refleja gran parte del deterioro ciclico real, dejando un margen negativo mucho mas moderado.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de semiconductores de potencia-SiC para EVs y aplicaciones industriales en expansion estructural de largo plazo (electrificacion de vehiculos), aunque con sobrecapacidad de corto-mediano plazo en China; mercado de imagen (CIS) mas maduro y competitivo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Moderadas-altas en SiC (tecnologia de fabricacion especializada), mas bajas en segmentos de sensores de imagen donde Sony y otros compiten agresivamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad ALTA y en aumento (competencia china de SiC generando sobrecapacidad-presion de precios, Sony ganando terreno en CIS, Infineon-STMicroelectronics como competidores adicionales en potencia); poder de negociacion del comprador alto (fabricantes de EVs grandes y sofisticados); poder de proveedores moderado; amenaza de sustitutos moderada; barreras de entrada moderadas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Sector MUY ciclico y ya demostrado con severidad (siete trimestres de declive automotriz consecutivo, caida de -67% desde maximos de 52 semanas en el peor momento) - el riesgo ciclico aqui no es hipotetico ni de posible correccion futura como en el resto del cluster, YA SE MATERIALIZO Y ESTA EN PROCESO DE RECUPERACION.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo real de aranceles-politica comercial relacionados con vehiculos electricos (EEUU-China-UE), exposicion significativa al mercado chino de xEV (fuente de la sobrecapacidad actual), no cuantificado en detalle en esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion internacional significativa, riesgo cambiario tipico de una tecnologica global de este tamano.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada entre fabricantes automotrices, industriales y ahora centros de datos de IA, sin concentracion de cliente unico identificada en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo real y ya materializado - sobrecapacidad de SiC en China presionando precios, competencia creciente de Sony en sensores de imagen (CIS) - amenazas competitivas activas, no solo hipoteticas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximos resultados trimestrales - clave para confirmar si la recuperacion automotriz iniciada en el 1T 2026 se sostiene y si la sobrecapacidad de SiC en China empieza a normalizarse.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Transacciones de insiders netamente negativas (Insider Trans -9.06%) - senal de toma de utilidades moderada tras la recuperacion del precio desde minimos, sin refuerzo positivo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso 'Buy' (recomendacion 2.20 Finviz, mas neutral que el resto del cluster de semiconductores), objetivo promedio USD110.26 (+32.3% de alza) - primer caso del cluster de semiconductores reciente donde el consenso ve upside desde niveles ya deprimidos, no una divergencia tan marcada como en el resto del grupo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.7567567567567566,
+    "recomendacion": "REDUCIR - CICLO BAJO AUN NO RESUELTO. Score Total 2.76/5 (el mas bajo del cluster de semiconductores de esta sesion) y Margen de Seguridad -38.5% (Escenario A) apuntan en la misma direccion negativa, aunque de magnitud MUCHO MENOR que el resto del cluster de semiconductores (MU-SNDK-WDC-ANET-STX-TER-KLAC-LRCX, todos entre -51% y -83%). A diferencia de ese cluster (negocios excelentes en el PICO de un supercycle de IA con valoracion extrema), ON esta saliendo de un ciclo bajo REAL (siete trimestres de declive automotriz, sobrecapacidad de SiC en China, competencia creciente de Sony en sensores de imagen) con senales de inflexion fragiles pero genuinas (automotriz volvio a crecer en el 1T 2026, IA en centros de datos duplicandose). ROIC por debajo del WACC - unico caso del cluster sin spread positivo claro. Multiplos ya mucho mas razonables (P/FCF 21.62x) porque el precio incorporo gran parte del deterioro - no es una ganga clara, pero tampoco la sobrevaloracion extrema del resto del cluster.",
+    "tesis": "El fabricante de semiconductores de potencia SiC para EVs y sensores de imagen, saliendo de un ciclo bajo real de siete trimestres de declive automotriz con senales de recuperacion fragiles pero genuinas y un impulso creciente de centros de datos de IA, cotiza a multiplos ya razonables tras una caida de -38% desde maximos, pero enfrenta presion competitiva real (sobrecapacidad china de SiC, Sony en sensores) que mantiene el margen de seguridad en terreno negativo."
+  }
+}

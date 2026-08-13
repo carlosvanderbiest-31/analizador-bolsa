@@ -1,0 +1,259 @@
+{
+  "empresa": "Eli Lilly and Company",
+  "ticker": "LLY",
+  "sector": "Salud - Farmaceutica (Biofarmaceutica innovadora)",
+  "fecha_analisis": "2026-08-05",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Cardiometabolico (diabetes y obesidad, tirzepatida Mounjaro y Zepbound, mas la pildora oral Foundayo-orforglipron) ya genera mas de 55% de ingresos y crece explosivamente; el resto se diversifica en Oncologia (Verzenio, Jaypirca), Inmunologia (Taltz, Omvoh, Ebglyss) y Neurociencia (Kisunla).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Patentes sobre tirzepatida y orforglipron, escala de manufactura GLP-1 dificil de replicar (decenas de miles de millones de dolares en nuevas plantas), pipeline de I mas D profundo, marca y relacion regulatoria de mas de un siglo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider en GLP-1 y obesidad con aprox 60% de cuota vs aprox 40% de Novo Nordisk; Mounjaro y Zepbound combinados (aprox 36000 millones USD en 2025) ya superan a Ozempic y Wegovy de Novo. Cuota en expansion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Fuerte en EEUU pero con presion a la baja en precios internacionales (-36% interanual en Q2 2026 por mix geografico) y riesgo estructural de negociacion de precios de Medicare (IRA) - Jardiance ya con -66% de precio negociado desde ene-2026.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Inversion agresiva y bien ejecutada en expansion de capacidad de manufactura GLP-1 (mas de 9000 millones USD en el sitio de Lebanon, Indiana, mas 4500 millones USD adicionales anunciados en Q2 2026); recompras moderadas (acciones en circulacion -0.62% interanual).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO y Chairman David Ricks (roles combinados, sin separacion); participacion accionaria personal muy baja (aprox 0.17%), tipica de una empresa de este tamano.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones. Gotcha de gobernanza: en la junta de mayo 2026 las propuestas para eliminar el directorio escalonado y el requisito de supermayoria del 80% obtuvieron mayoria de votos pero no alcanzaron el umbral del 80% requerido, por lo que ambas provisiones se mantienen pese al apoyo mayoritario de accionistas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion trimestral solida, guidance elevado dos veces en 2026 (ingresos y margen); sin embargo, CEO y Chairman en la misma persona reduce el balance de poder frente al board.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta a EBITDA aprox 1.02x (deuda neta aprox 38090 millones USD sobre EBITDA TTM estimado aprox 37000 a 38000 millones USD), apalancamiento moderado y con grado de inversion alto (Moody's Aa3, S&P A+). Deuda a Patrimonio contable 1.39x, elevado en apariencia pero distorsionado por el patrimonio bajo (ver Rentabilidad), no por deuda excesiva en terminos absolutos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.50x, prueba acida entre 0.78x y 1.10x segun fuente (discrepancia notable, revisar definicion de inventario). Liquidez adecuada pero no excepcional para el tamano de la empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Emision reciente de 6750 millones USD en 7 tramos (3 a 40 anios) en ago-2025 con fuerte demanda de inversionistas (tramo a 40 anios colocado a solo 0.73 puntos porcentuales sobre el Treasury); perfil de vencimientos escalonado y bien gestionado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales 116576 millones USD; patrimonio bajo (31198 millones USD) por anios de recompras agresivas historicas, aunque en rapida recuperacion (10860 millones USD en FY2023 a 31198 millones USD TTM). No se identifico un problema de calidad de activos en si.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes altisimos y en expansion: bruto 82.8% a 85.8%, operativo 42% a 47%, neto 33.5% a 35% - impulsados por el mix de tirzepatida de alto margen. Guia propia de la empresa eleva el margen proyectado para 2026 a 49.0% a 50.5% (desde 47.0% a 48.5%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROIC aprox 39.65% (FY2025, stockanalysis) muy por encima del WACC estimado (aprox 6.5%) - rentabilidad excelente. ROE distorsionado (entre 101% y 201% segun fuente y ventana temporal) por el patrimonio bajo, no es una metrica confiable aqui. ROA mas confiable, aprox 22% a 24.5%.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos 0.68x (Revenue TTM 79.67bn sobre Activos totales 116.58bn), razonable para una farmaceutica de esta escala con inventario y manufactura propia significativa.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento explosivo reciente impulsado casi enteramente por tirzepatida: ingresos de 28.54bn USD en FY2022 a 79.67bn USD TTM, con tasas interanuales acelerando de +19.7% a +49.6% en los ultimos 4 anios. El CAGR de 5 anios (aprox 21.58%, Finviz) esta fuertemente inflado por este lanzamiento unico, no refleja una tasa de crecimiento estructural del negocio completo - mismo patron que NVDA con IA.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "El crecimiento reciente es explosivo pero concentrado en un solo lanzamiento de producto (tirzepatida); el consenso de analistas ya anticipa una desaceleracion fuerte hacia aprox 16% en 2027 y menor despues, bastante por debajo del ritmo actual.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Foundayo (pildora oral GLP-1, aprobada abr-2026) recien arrancando; pipeline diversificado en oncologia (Jaypirca, Inluriyo), inmunologia (Ebglyss, Omvoh) y neurociencia (Kisunla); expansion de capacidad de manufactura en curso hasta 2028 (Indiana, Carolina del Norte, Alemania, Irlanda).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM 20.48bn USD vs utilidad neta TTM 26.71bn USD - divergencia notable explicada por el capex agresivo de expansion de plantas que consume una porcion grande del OCF antes de llegar al FCF; la calidad de ganancias subyacente no muestra senales de distorsion contable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF con lumpiness historica extrema por el capex de expansion: cayo a solo 0.79bn USD en FY2023 (vs utilidad neta positiva ese mismo anio) por el pico de inversion en plantas GLP-1, recuperandose a 11.82bn USD TTM a medida que el capex se estabiliza en niveles altos pero mas predecibles.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex casi enteramente de crecimiento (expansion de capacidad GLP-1): se multiplico casi 5 veces entre FY2022 (1.85bn USD) y TTM (8.66bn USD); la empresa senala que seguira siendo alto al menos hasta 2027-2028 mientras escala el sitio de Lebanon, Indiana.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso de capital balanceado: reinversion agresiva en capacidad (crecimiento), recompras moderadas (acciones en circulacion -0.62% interanual), y dividendo (Lilly tiene historial largo de pago de dividendo, no cuantificado en esta sesion).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "PE TTM entre 39.6x y 42.7x segun fuente, PEG de 0.90 (por debajo de 1.0, senal de valoracion razonable relativa al crecimiento) - notablemente menos exigente que casos previos de este Dashboard como SNDK o MU. EV a EBITDA 30.70x, P a FCF entre 84x y 95x (distorsionado al alza por el capex de expansion, ver Flujo de Caja).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio, escenario base (adoptado): FCF inicial TTM 11.82bn USD, WACC 6.50% (beta confiable 0.50, promedio Finviz y stockanalysis, cruzado contra el WACC propio de stockanalysis de 6.75%), crecimiento decreciente tipo fade de 15% a 6% en 5 anios, terminal 4% -> 699.40 USD por accion. Ver Notas del Dashboard para el detalle completo y el gotcha de sensibilidad del WACC.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de seguridad -41.1% en el escenario base y -25.1% en el escenario de sensibilidad mas generoso (crecimiento plano 16%, no adoptado) - ambos caen en zona de vender del marco de decision, pero con una salvedad importante: el spread entre el WACC (6.16% a 6.75%) y el crecimiento terminal (4%) es inusualmente estrecho para una empresa de esta calidad, lo que hace que el valor terminal sea extremadamente sensible a pequenios cambios de supuestos - ver Notas del Dashboard.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de obesidad y GLP-1 proyectado a crecer hasta aprox 200000 millones USD para 2031, con aprox 16 nuevos farmacos compitiendo por aprox 70000 millones USD de ese total - TAM enorme y en expansion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Muy altas: patentes, escala de manufactura GLP-1 (inversion de decenas de miles de millones de dolares y anios de construccion), aprobaciones regulatorias FDA, y relaciones con el sistema de salud construidas por decadas.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad intensa pero concentrada entre pocos jugadores de gran escala (Novo Nordisk como rival directo en GLP-1, Pfizer y Merck en otras areas); poder de proveedor moderado (dependencia parcial de CDMOs como Catalent, ahora de Novo Holdings, conflicto de interes real); poder de comprador alto via distribuidores mayoristas concentrados y pagadores (Medicare via IRA); barreras de entrada muy altas; amenaza de sustitutos limitada en el corto plazo pero creciente con farmacias de compounding no autorizadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Negocio farmaceutico defensivo, poco ciclico frente al ciclo economico general (beta 0.50) - pero con alta volatilidad idiosincratica ligada a eventos regulatorios y de competencia especificos del producto estrella.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio de precios activo y estructural: negociacion de precios de Medicare bajo la IRA ya afecto a Jardiance (-66% de precio negociado desde ene-2026), con mas medicamentos entrando en rondas futuras - riesgo sectorial amplio para toda la industria farmaceutica de EEUU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Ingresos con exposicion internacional significativa (crecimiento internacional de tirzepatida de mas de 100% interanual) y caida de precios realizados internacionales de -36% interanual en Q2 2026 por mix geografico y cambiario.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Clientes concentrados en tres distribuidores mayoristas (McKesson, Cencora, Cardinal Health), cada uno historicamente mas del 10% de ingresos; proveedor CDMO clave (Catalent) ahora es propiedad de Novo Holdings, el brazo inversor del rival directo Novo Nordisk - conflicto de interes real que ya genero diversificacion hacia otros CDMOs (National Resilience, BSP Pharmaceuticals).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de disrupcion moderado: aprox 16 nuevos farmacos GLP-1 en desarrollo en la industria en los proximos 5 anios; Novo Nordisk ya lanzo su pildora oral (ene-2026) antes que el Foundayo de Lilly (abr-2026), ganando ventaja de first-mover en la categoria oral; farmacias de compounding no autorizadas erosionando precio y volumen (Lilly litigando activamente para contenerlo).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin banderas rojas mayores identificadas en esta sesion; litigio activo por posibles efectos adversos gastrointestinales de tirzepatida (MDL 3094, 3848 casos a jul-2026) es el riesgo mas relevante de este tipo, aunque encuadra mas como riesgo legal o de producto que ambiental o social en sentido estricto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Litigio MDL 3094 (gastroparesis) sin acuerdos esperados antes de fines de 2026; escalamiento de capacidad de manufactura en Lebanon Indiana entrando en produccion a fines de 2026; mas rondas de negociacion de precios de Medicare bajo la IRA en el horizonte.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Participacion accionaria de insiders muy baja (aprox 0.17%); no se identifico informacion especifica de compras o ventas recientes de insiders en esta sesion - pendiente de verificar.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Amplia cobertura (entre 15 y 38 analistas segun la fuente), calificacion de consenso Buy, precio objetivo promedio entre 1236 y 1307 USD, equivalente a un alza moderada de aprox 5% a 10% desde el precio actual - mucho mas moderado que la brecha que sugiere el DCF propio de este analisis, ver gotcha de sensibilidad del WACC en Notas.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4054054054054053,
+    "recomendacion": "MANTENER CON CAUTELA - DCF SUGIERE SOBREVALORACION PERO ES INUSUALMENTE SENSIBLE AL WACC (PEG menor a 1 y consenso de analistas mas moderado que el DCF)",
+    "tesis": "Lider indiscutido del supercycle de GLP-1 con calidad de negocio excelente, pero un DCF estandar resulta matematicamente fragil por su combinacion inusual de beta muy bajo y crecimiento reciente muy alto - la conclusion de sobrevaloracion es mucho menos robusta que en HOOD, COIN, MU o SNDK."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": null,
+  "ticker": null,
+  "sector": null,
+  "fecha_analisis": null,
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Neocloud de infraestructura de IA (arriendo de GPUs Nvidia, centros de datos propios) mas participaciones en negocios adyacentes heredados de Yandex: Toloka (etiquetado de datos-IA), TripleTen (edtech), Avride (conduccion autonoma), y aprox 28% de ClickHouse (base de datos OLAP de codigo abierto). Ingresos consolidados guiados en 3.0-3.4bn USD para FY2026 completo, con objetivo de ARR de 7-9bn USD para fin de año. Segmento AI cloud (el principal) crecio +841% interanual en el 1T 2026.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Respaldo estrategico real de NVIDIA (inversion de 2bn USD) y de clientes de grado de inversion (Microsoft, Meta) con contratos de largo plazo - mas de 33.59bn USD en obligaciones de desempeño pendientes (backlog) al 1T 2026, mas de 40bn USD en ingresos contratados adicionales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Jugador de escala creciente rapida en el segmento neocloud, comparable directo mas pequeño que CoreWeave (ya en este Dashboard, lider indiscutido del segmento) pero con crecimiento porcentual aun mas explosivo desde una base menor (+841% interanual en el segmento principal).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "En mejora real: el costo de ingresos cayo de 49% a 26% de los ingresos totales interanual segun el ultimo trimestre reportado, aunque el negocio de arriendo de GPUs sigue siendo fundamentalmente commoditizado, mismo patron ya documentado en CRWV-WYFI.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historia corporativa muy atipica: venta completa del negocio ruso por 5.2bn USD (jul-2024) tras sanciones de la UE, reinvirtiendo el capital resultante en la construccion agresiva de infraestructura de IA occidental - una decision de asignacion de capital drastica pero bien documentada y ejecutada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "No se investigo con precision el detalle de compensacion e incentivos del management esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "HISTORIA CORPORATIVA UNICA en este Dashboard: Nebius es la entidad sucesora de Yandex N.V. (matriz holandesa del gigante de internet ruso), que vendio la TOTALIDAD de su negocio ruso a un consorcio de inversionistas locales por 5.2bn USD en jul-2024, tras las sanciones de la UE de 2022 (invasion a Ucrania) que suspendieron la cotizacion de Yandex en Nasdaq durante casi dos años. Retuvo solo los activos internacionales-occidentales (infraestructura de nube de IA, Avride, TripleTen, participaciones en Toloka-ClickHouse), relanzados como Nebius Group NV a fines de 2024. Riesgo de Rusia SUSTANCIALMENTE resuelto (venta completa y documentada del negocio ruso), pero la complejidad y recencia de la historia amerita seguimiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion trimestral activa con guidance detallado (ARR, capacidad de datacenter en gigavatios, EBITDA ajustado por segmento).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda total aprox 9.496bn USD vs caja aprox 9.298bn USD (deuda neta minima, aprox 198M USD) - balance sorprendentemente equilibrado dado el ritmo de capex, aunque la deuda bruta es considerable e incluye un financiamiento de 775M USD respaldado por infraestructura de GPU-flujos de caja contratados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Caja de aprox 9.3bn USD, muy solida para financiar el capex de expansion en curso.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda reciente respaldada por infraestructura de GPU-flujos de caja contratados (775M USD) mas otra deuda no especificada con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales aprox 22.3bn USD, dominados por infraestructura de centros de datos en construccion activa (mas de 2GW de energia contratada) mas participaciones de cartera (ClickHouse aprox 28%, valorada recientemente con una ganancia no-cash de 780.6M USD por revaluacion, ver fila 27).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "EBITDA ajustado del segmento AI cloud paso de perdida (-27.4M USD) a positivo (174.0M USD) en un año - mejora operativa real. PERO el margen neto GAAP reportado (aprox 93.1%, utilidad neta 621.2M USD en el 2T 2026) esta COMPLETAMENTE DISTORSIONADO por una ganancia NO-CASH de 780.6M USD de revaluacion de la participacion en ClickHouse - no representa rentabilidad operativa real del negocio de infraestructura de IA, mismo tipo de gotcha ya documentado en VST-COIN (mark-to-market) pero aqui aplicado a una participacion accionaria privada.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "No significativo dado que la utilidad neta GAAP esta dominada por la ganancia puntual no-cash de ClickHouse (ver fila 27) - no se calculo con precision numerica esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Baja, tipica de una empresa de infraestructura de centros de datos en fase de construccion agresiva, con activos que aun no generan el ingreso proporcional a su tamaño.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "EXPLOSIVO en el segmento principal (AI cloud +841% interanual en el 1T 2026), aunque desde una base pequeña y con historia publica de menos de 2 años bajo la marca actual (relanzamiento a fines de 2024 tras la venta del negocio ruso).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Historial publico demasiado corto para evaluar consistencia con confianza (menos de 2 años desde el relanzamiento post-venta del negocio ruso a fines de 2024).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "MUY solidas y con respaldo contractual verificable: mas de 33.59bn USD en obligaciones de desempeño pendientes (backlog) al 1T 2026, mas de 40bn USD en ingresos contratados adicionales de clientes de grado de inversion (Microsoft, Meta), objetivo de ARR de 7-9bn USD para fin de 2026, mas de 2GW de energia contratada (con expectativa de superar 3GW).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "No significativo dado que la utilidad neta GAAP esta dominada por la ganancia no-cash de ClickHouse (ver fila 27) - no comparable de forma directa con el OCF esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Profundamente negativo dado el capex masivo de expansion (compromiso de aprox 25bn USD segun coberturas de prensa) financiado con una mezcla de caja propia, deuda respaldada por GPU-flujos contratados, y potencial capital adicional - mismo patron estructural ya documentado en CRWV-WYFI.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "100% de crecimiento: construccion activa de capacidad de centro de datos (objetivo de 800MW-1GW disponible para fin de 2026) - ningun capex de mantenimiento de activos maduros relevante en esta etapa tan temprana.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Capital desplegado casi integramente en la expansion de infraestructura de IA; sin dividendos ni recompras, esperable en esta fase pre-madurez del negocio.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM de 58.81x no es representativo dado que la utilidad neta esta dominada por la ganancia no-cash de ClickHouse (ver fila 27) - sobre metricas ajustadas (EBITDA) los multiplos siguen siendo altos dado el estadio muy temprano de rentabilidad real de la infraestructura de IA propia.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "NO se calculo Valor Intrinseco (DCF) - mismo criterio que CRWV-WYFI (analizadas en este Dashboard): la empresa tiene un backlog contractual verificable y de gran escala (mas de 33.59bn USD en obligaciones pendientes, mas de 40bn USD en ingresos contratados de Microsoft-Meta), pero (1) el FCF es profundamente negativo dado el capex masivo en curso (compromiso de aprox 25bn USD); (2) la utilidad neta GAAP reportada esta completamente distorsionada por una ganancia no-cash puntual (780.6M USD de revaluacion de ClickHouse); (3) el historial publico bajo la marca actual es de menos de 2 años (relanzamiento a fines de 2024 tras la venta completa del negocio ruso). Forzar un DCF exigiria proyectar la conversion de un backlog contractual a FCF real sin una base historica de varios años de margenes-capex estabilizados.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "No aplica - al no calcularse un Valor Intrinseco (DCF) confiable (ver fila 41), no hay un Margen de Seguridad numerico defendible. Referencia informativa (no valor intrinseco): patrimonio contable aprox 7.242bn USD sobre 256.04M acciones da un valor en libros por accion de aprox 28.28 USD frente al precio de mercado de 188.07 USD - brecha muy amplia (+565%), la gran mayoria del precio de mercado es opcionalidad sobre la ejecucion futura de la conversion del backlog a FCF real.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de infraestructura de computo IA-GPU en la nube (neoclouds) en expansion explosiva impulsada por la demanda de entrenamiento-inferencia de IA - mismo TAM favorable ya documentado con CRWV-WYFI en este Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Capital intensivo (construccion de centros de datos, acceso a energia, relaciones con Nvidia para suministro de GPUs de punta) - barrera real pero superable con suficiente capital, como demuestra la proliferacion reciente de neoclouds nuevos y bien financiados (CRWV, WYFI, y ahora NBIS, todos en este Dashboard).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad ALTA y creciente entre multiples neoclouds bien financiados (CoreWeave lider indiscutido, WhiteFiber mas pequeño, Lambda Labs, Crusoe, Applied Digital, y ahora Nebius - los tres ultimos analizados en este Dashboard). Poder de negociacion de proveedores alto (Nvidia domina el suministro de GPUs). Poder de negociacion de clientes moderado-alto (Microsoft-Meta son clientes ancla pero tambien desarrollan capacidad propia de silicio-infraestructura). Amenaza de sustitutos: los hiperescaladores tambien compiten por la misma demanda de computo IA con recursos muy superiores.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ligada al ciclo de gasto de capital en IA de las grandes tecnologicas y financiadores de startups de IA - riesgo de que una desaceleracion del gasto en IA golpee la demanda de GPU-nube de forma abrupta, mismo riesgo ya documentado en CRWV-WYFI.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo de Rusia SUSTANCIALMENTE resuelto (venta completa y documentada del negocio ruso en jul-2024), aunque la complejidad y recencia de la historia corporativa (ver fila 19) amerita seguimiento continuo. Sin exposicion a controles de exportacion de semiconductores como IONQ-AMAT-ASML-CDNS en este Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Moderado: negocio con operaciones internacionales diversificadas (sede en Amsterdam, operaciones en multiples paises europeos y EEUU).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Relevante aunque MENOS EXTREMA que CRWV (67% Microsoft en 2025): backlog diversificado entre Microsoft y Meta como clientes ancla de grado de inversion, mas dependencia critica de Nvidia como proveedor de GPUs.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Mismo riesgo de ciclo de gasto en IA y competencia de neoclouds ya documentado en CRWV-WYFI. El inversionista bajista conocido Michael Burry reporto una posicion corta en la accion (señal de escepticismo de mercado sofisticado a considerar, aunque no es prueba concluyente por si sola).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Consumo energetico intensivo tipico de centros de datos (mismo perfil que otros neoclouds-hiperescaladores), con mas de 2GW de energia contratada y expectativa de superar 3GW.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados del 2T 2026 se reportaron el 6-ago-2026 (ya incorporados en este analisis, incluida la ganancia de ClickHouse); progreso hacia el objetivo de capacidad de 800MW-1GW disponible para fin de 2026 y ARR de 7-9bn USD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No se investigo con precision mas alla de la posicion corta reportada de Michael Burry (inversionista externo, no insider de la empresa) esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "18 analistas, calificacion \"Compra\", objetivo promedio 255.44 USD (+35.82% sobre el precio actual) - optimismo notable pese a la posicion corta conocida de Michael Burry, reflejo de la tension entre el bull case de crecimiento-backlog y el escepticismo sobre la sostenibilidad de margenes-capex propio de todo el segmento neocloud (mismo patron ya visto en CRWV-WYFI).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.7837837837837838,
+    "recomendacion": "ESPECULATIVO DE ALTO RIESGO - NO APTO PARA EL MARCO DE MARGEN DE SEGURIDAD (posicion de tamano acotado unicamente; backlog contractual solido de clientes de grado de inversion mejora el perfil frente a otras historias especulativas, pero el FCF profundamente negativo, la utilidad GAAP distorsionada por una ganancia no-cash, y el historial publico muy corto impiden un DCF confiable)",
+    "tesis": "Neocloud de origen corporativo unico (sucesora de Yandex tras vender la totalidad de su negocio ruso por 5.2bn USD en 2024), con respaldo real de NVIDIA y un backlog contractual de gran escala con Microsoft-Meta (mas de 33.59bn USD en obligaciones pendientes), pero con FCF profundamente negativo dado el capex masivo de expansion, una utilidad neta GAAP completamente distorsionada por una ganancia no-cash de revaluacion de ClickHouse, y un historial publico de apenas 2 años bajo la marca actual. El precio ya descuenta una conversion exitosa del backlog a flujo de caja real que aun no se ha demostrado, en un segmento neocloud (junto a CRWV-WYFI en este Dashboard) con competencia intensa y el conocido inversionista bajista Michael Burry apostando en contra."
+  }
+}

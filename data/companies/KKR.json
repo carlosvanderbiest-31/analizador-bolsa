@@ -1,0 +1,259 @@
+{
+  "empresa": "KKR & Co. Inc.",
+  "ticker": "KKR",
+  "sector": "Financiero - Gestora de Activos Alternativos (Private Equity-Credito-Infraestructura-Seguros)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Primera gestora de activos ALTERNATIVOS del Dashboard: tres motores de ingresos genuinamente distintos: (1) Asset Management (Private Equity, Credito-Credito Privado, Infraestructura-Bienes Raices) generando comisiones de gestion (Fee Related Earnings, FRE) mas comisiones de rendimiento (carried interest); (2) Insurance (Global Atlantic, 100% propiedad desde 2024, USD 220bn de AUM) - capital permanente que financia estrategias de credito propias; (3) Strategic Holdings (participaciones minoritarias en empresas operativas). AUM total record de USD 796bn (+16% interanual).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de marca-pionero-escala: KKR es literalmente el pionero de la industria de LBO (fundada 1976), con USD 796bn de AUM y una base de CAPITAL PERMANENTE (via Global Atlantic mas vehiculos perpetuos) que la mayoria de sus pares de private equity tradicional no tiene (fondos de vida finita) - una ventaja estructural real de estabilidad de ingresos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Recaudacion de fondos RECORD: USD 129bn en 2025 (incl. USD 68bn record en credito), FRE y TOE (Total Operating Earnings) record en multiples trimestres consecutivos, AUM +16-17% interanual.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios fuerte via marca-track record-acceso a operaciones (permite tarifas premium en nuevos vehiculos perpetuos-de credito), aunque la compresion de comisiones es un riesgo de largo plazo a monitorear en toda la industria.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Sucesion de CEO ordenada y de largo plazo: co-CEOs Joseph Bae y Scott Nuttall (desde oct-2021), con los fundadores Henry Kravis y George Roberts permaneciendo como Co-Executive Chairmen. Tenencia de insiders EXTRAORDINARIAMENTE alta (22.98%, Finviz) - de las mas altas de todo el Dashboard, reflejo de alineacion genuina entre fundadores-gerencia y accionistas publicos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Misma tenencia de insiders alta (22.98%) ya mencionada en fila 17 - alineacion de incentivos excelente en la practica.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria de una sola clase de acciones comunes (KKR se convirtio de sociedad-partnership a corporacion completa hace varios anios, simplificando la gobernanza) - sin doble clase actualmente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados. Escrutinio regulatorio estandar de la industria de gestores de activos alternativos (reglas de la SEC para asesores de fondos privados) mas el regimen regulatorio de seguros que ahora aplica via Global Atlantic.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Debt/Equity de 1.78x (Finviz) - cifra mixta que combina deuda corporativa real con pasivos relacionados al negocio de seguros (reservas-pasivos de polizas de Global Atlantic) - no comparable directamente con el apalancamiento corporativo puro de una empresa operativa tradicional, mismo tipo de advertencia ya aplicada a otras instituciones financieras del Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 5.25 (Finviz, notablemente alta) - refleja probablemente el portafolio de inversion liquido de Global Atlantic, poco informativa en el sentido tradicional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance dominado por el portafolio de inversion de Global Atlantic (aseguradora de vida-anualidades adquirida en 2021, 100% propiedad desde 2024) mas goodwill relacionado - complejidad real de balance combinando un gestor de activos asset-light con una aseguradora de balance pesado.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "GOTCHA METODOLOGICO MAYOR: los margenes-ROE-EPS en base GAAP estan groseramente DISTORSIONADOS y no deben usarse sin ajustar. El EPS de los ULTIMOS 5 ANIOS en realidad CAYO -7.04% (Finviz) pese a que el AUM-FRE crecieron con fuerza en el mismo periodo - el marca-a-mercado GAAP de la participacion de rendimiento (carried interest) no realizada y de las inversiones de balance distorsiona la utilidad neta reportada de forma severa trimestre a trimestre. Evidencia adicional: P/E TTM de 34.50-34.57x pero P/E FORWARD de apenas 14.62-16.15x -una brecha enorme que confirma que el mercado ya descuenta ganancias ajustadas (no GAAP), no las reportadas literal-. Margen operativo 23.46%, margen neto 12.71% (Finviz, ambos en base GAAP, ver advertencia).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "La metrica de rentabilidad relevante NO es el ROE GAAP (10.64%, Finviz, probablemente tambien distorsionado) sino el retorno sobre el motor de comisiones (Fee Related Earnings, FRE trimestral record de USD 1.214bn en 2T 2026) - un negocio de margen muy alto y creciente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Metrica de rotacion de activos tradicional no aplica de forma informativa al balance mixto gestor de activos-aseguradora - se dejo en blanco en el Dashboard.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios de 35.78% (Finviz) esta FUERTEMENTE INFLADO por la consolidacion completa de Global Atlantic (100% propiedad desde 2024, dentro de la ventana de 5 anios) - no representa el crecimiento organico real del negocio de comisiones, que crecio a un ritmo mas moderado (FRE +14% en 2025, AUM +16-17% interanual), mismo tipo de ajuste cualitativo ya aplicado al CAGR de SPGI-MS-SCHW.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento del NEGOCIO SUBYACENTE (AUM, FRE, TOE) genuinamente consistente y fuerte, incluso en periodos de volatilidad de mercado (recaudacion record de USD 129bn en 2025, incluida en credito) - pero el crecimiento REPORTADO en EPS-utilidad neta GAAP es volatil (ver gotcha de fila 27), hay que distinguir ambos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Motores de crecimiento futuro: expansion de credito privado (motor de crecimiento destacado por la propia gerencia), distribucion a traves del canal de wealth-retail (democratizacion de alternativos, tema estructural de toda la industria), crecimiento continuo de AUM de Global Atlantic, expansion de infraestructura.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "GOTCHA CONFIRMADO: la utilidad neta GAAP-flujo de caja operativo no son metricas de calidad de ganancias confiables para esta empresa (ver fila 27) - EPS a 5 anios NEGATIVO (-7.04%) pese a crecimiento genuino del negocio. Se uso Fee Related Earnings (FRE) y Total Operating Earnings (TOE), las metricas no-GAAP que la propia KKR y el consenso de analistas usan, como base de la valoracion en su lugar.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conceptos de FCF-conversion de EBITDA no aplican de forma limpia al modelo mixto gestor de activos-aseguradora - se dejaron en blanco en el Dashboard.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Concepto de capex tradicional no es el mas relevante para este tipo de negocio - no desglosado con precision esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital razonable: dividendo mas programa de recompras (ambos elevados en 1T 2026 segun la propia empresa), balanceado con reinversion continua en el crecimiento de nuevos vehiculos-estrategias.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos MUY enganosos si se toman literal: P/E TTM de 34.50-34.57x luce carisimo, pero el P/E FORWARD (14.62-16.15x) revela que el mercado ya valora sobre ganancias ajustadas, no GAAP (ver gotcha de fila 27) - un caso de libro de por que el P/E TTM simple puede ser completamente enganoso para gestores de activos alternativos. P/B reportado 3.41x.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO NUEVO: primera gestora de activos alternativos del Dashboard, requirio un modelo de SUMA DE PARTES (mismo espiritu que BRK, \"conglomerados\"), combinando (1) el motor de comisiones (Asset Management) capitalizado a un multiplo de FRE, y (2) el Valor en Libros por Accion (USD 34.58) como proxy razonable del valor combinado de Insurance (Global Atlantic) mas Strategic Holdings-inversiones de balance (ambos negocios genuinamente ligados al valor contable, a diferencia del negocio de comisiones que es mayormente fuera de balance). FRE TTM estimado en USD 4.13bn (triangulado entre el FY2025 completo de USD 3.7bn y los trimestres mas recientes 1T-2T 2026 de USD 1.0bn y USD 1.214bn). Se capitalizo a un multiplo de 22x (razonado, dentro del rango 18-30x que suelen usar los analistas de gestores de activos alternativos comparables como Blackstone-Apollo-Ares) -> valor del segmento de comisiones de USD 101.22 por accion. Beta 1.78 LITERAL usado para Ke (13.29%), sin necesidad de sustituto (el beta ALTO, a diferencia del resto de la sesion Financiera, es plausible y no degenerado dado el riesgo de mercado genuino de este tipo de negocio).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Valor Intrinseco (Escenario A adoptado): USD 135.80/accion = USD 101.22 (comisiones capitalizadas a 22x FRE) + USD 34.58 (Valor en Libros, proxy de Insurance-Strategic Holdings). Margen de Seguridad: +25.4% (precio actual USD 108.27-108.51). Sensibilidad al multiplo de FRE elegido, pero DIRECCIONALMENTE ROBUSTA (a diferencia de la mayoria de aseguradoras-bancos de la sesion): con un multiplo mas conservador de 18x, el resultado sigue siendo positivo (+8.4%); con un multiplo mas generoso de 26x, sube a +42.4% - TODOS los escenarios razonables dan margen de seguridad POSITIVO. Consenso de 22 analistas (Buy, objetivo USD 126.53-127.11, +16.9% a +17.4%) converge en la MISMA direccion positiva, algo mas conservador que el escenario adoptado.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM muy grande y en expansion estructural: boom de credito privado, democratizacion-distribucion de alternativos via el canal de wealth-retail (tema estructural de toda la industria), necesidades globales de inversion en infraestructura.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: marca-track record de decadas (pionero de la industria desde 1976), escala de originacion-suscripcion de operaciones, base de capital permanente (Global Atlantic) como ventaja estructural que la mayoria de los competidores de private equity tradicional no tiene.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: competencia concentrada entre un grupo reducido de gestores de alternativos de mega-escala (Blackstone, Apollo, Ares, Carlyle - un oligopolio de facto en el segmento mas grande), poder de los inversionistas (LPs) moderado (el track record diferencia), amenaza de nuevos entrantes muy baja a esta escala, la diversificacion hacia seguros (Global Atlantic) es una ventaja estructural que la distingue de pares mas puros de private equity.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad genuina y multidimensional: ligada al ciclo de recaudacion de fondos, al entorno de salidas-IPOs-M&A (para realizar plusvalias de private equity), y a las tasas de interes (afecta tanto los retornos de private equity apalancado como el portafolio de inversion de Global Atlantic) - aunque cada vez mas amortiguada por la diversificacion hacia credito-infraestructura-capital permanente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio moderado-real: reglas de la SEC para asesores de fondos privados, mas el regimen regulatorio de seguros multi-jurisdiccional que ahora aplica via Global Atlantic (una capa regulatoria nueva para KKR desde la adquisicion).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real dada la naturaleza global de las operaciones de inversion-fondos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de inversionistas (LPs) diversificada: institucionales, fondos soberanos, y creciente canal de wealth-retail - sin concentracion de LP individual relevante detectada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico moderado: la IA podria mejorar la eficiencia de due-diligence-suscripcion, no es actualmente un diferenciador ni una amenaza central.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG moderado: la industria de private equity-LBO enfrenta criticas genericas (recortes de empleo, deuda de adquisicion) pero no es una exposicion estructural tan severa como combustibles fosiles-tabaco.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Seguimiento de la recaudacion de fondos continua (especialmente en credito privado y wealth channel), progreso de la integracion-crecimiento de Global Atlantic, trayectoria de tasas de la Fed (afecta ambos segmentos), expansion de Strategic Holdings.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion - pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de 22 analistas: calificacion Buy, precio objetivo promedio USD 126.53 a USD 127.11 (+16.9% a +17.4% de alza) - converge en la MISMA direccion positiva que este modelo de suma de partes propio (+25.4%, algo mas optimista que el consenso), buena validacion cruzada.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.6486486486486487,
+    "recomendacion": "COMPRAR (CON CAUTELA) - moat excepcional de escala-marca-capital permanente (via Global Atlantic) en la industria de alternativos, con recaudacion y AUM en record, pero la utilidad neta GAAP esta groseramente distorsionada (EPS a 5 anios NEGATIVO pese al crecimiento genuino del negocio) y hay que usar FRE-TOE en su lugar; el modelo de suma de partes da margen de seguridad positivo y robusto (+8.4% a +42.4% segun el multiplo de FRE elegido, +25.4% en el escenario adoptado)",
+    "tesis": "El pionero de la industria de private equity con una base de capital permanente unica via Global Atlantic (seguros), recaudacion record y un moat dificil de replicar, pero cuyos resultados GAAP son sistematicamente enganosos por el marca-a-mercado del carried interest - valorar sobre FRE-TOE, no sobre el EPS reportado."
+  }
+}

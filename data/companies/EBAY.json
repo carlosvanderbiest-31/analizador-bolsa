@@ -1,0 +1,259 @@
+{
+  "empresa": "eBay Inc",
+  "ticker": "EBAY",
+  "sector": "Tecnologia - Marketplace de E-Commerce C2C",
+  "fecha_analisis": "2026-08-06",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Marketplace two-sided que conecta compradores y vendedores C2C y B2C en 190 paises. Ingresos via take rate (2.5-3% del GMV) y publicidad first-party (570M en Q2 2026, +24% YoY). GMV total ~60B+ anuales. Estrategia \"Focus\": coleccionables, moda, autos, electronica reacondicionada representan ya 40% del GMV y crecen 26%. Asset-light puro: no toca inventario ni maneja logistica propia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Red de dos lados (two-sided network): 180M+ compradores y 20M+ vendedores activos; agregar compradores atrae vendedores y viceversa. Treinta anos de historial transaccional genera datos unicos para matchmaking y pricing. Liderazgo en nichos difíciles de replicar: coleccionables, auto parts, moda vintage, relojes de lujo. Moat de escala en C2C mas solido que en el e-commerce masivo (donde Amazon domina).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider indiscutido en C2C y mercados de segunda mano en EE.UU. y UK. Amazon domina e-commerce de nuevos pero eBay domina usado-vintage-coleccion. Focused category GMV +26% en Q2 2026, ya 40%+ del total. Publicidad first-party: plataforma propia que monetiza mejor que third-party (menor dependencia de Google). Crecimiento US GMV +24% FX-neutral en Q2.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Take rate modestly increasing gracias a mix hacia categorias premium y publicidad. Advertising: poder de precio creciente a medida que la plataforma first-party madura (CPM mas alto, penetracion sobre GMV sube de 2.4% a 2.7%). En categorias nicho eBay tiene pricing power vs competidores; en masa, muy competitivo con Amazon. Balance moderado-alto.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Jamie Iannone desde 2020. Ejecuto exitosamente la estrategia \"Focus Categories\" logrando acelerar GMV de plano a +14-19% YoY. Historial de capital allocation impecable: shares buybacks redujeron flotante de ~800M en 2019 a 444M en 2026 (reduccion del 44%). Vendio StubHub por 4.05B (2020), Classifieds por 9.2B (2021). La venta de PayPal en 2015 fue clave para la evolucion de la empresa. Track record comprobado de decisiones de largo plazo acertadas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership 10.07% (muy alto para large-cap; incluye posibles activistas historicos como Trian/Icahn que han empujado mejor capital allocation). Management tiene incentivos alineados con accionistas via acciones y opciones. Dividendo creciente 1.13% yield. No hay estructura de dual-class (single class shares = maxima alineacion con accionistas ordinarios).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de una sola clase de acciones (una accion = un voto). Sin acciones de clase B o supervotantes. Directorio bien diversificado con experiencia en e-commerce, tecnologia y retail. Buena gobernanza comparada con pares tech que mantienen control de fundadores via dual-class.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Reportes trimestrales completos con metricas clave de GMV por categoria, take rate, advertising revenue y active buyers. Guidance especifico: 11.5-12.5% GMV y 11-12% revenue para 2026. KPIs claros y consistentes. Comunicacion abierta sobre estrategia de Focus Categories y su ejecucion. Sin sorpresas contables ni reexpresiones.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Total Deuda: 7.01B. Cash: 2.31B. Deuda Neta: 4.70B. Net Debt/EBITDA: 1.61x (manejable). La razon D/E parece alta (1.50) pero es artefacto contable: el equity de 4.67B es artificialmente bajo por decadas de buybacks agresivos que acumulan \"treasury stock\". La verdadera solidez del balance es mejor de lo que sugiere el D/E. Rating investment grade. Sin vencimientos concentrados a corto plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon Corriente: 1.02. Barely above 1 lo cual es normal para plataformas de e-commerce donde el ciclo de cobro es mas rapido que el de pago (modelo de marketplace donde eBay actua como intermediario de pagos). Quick ratio similar. Liquidez inmediata adecuada aunque no holgada. Cash de 2.31B disponible como buffer adicional. Sin signos de estres de liquidez.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Perfil de deuda diversificado con vencimientos escalonados. Rating investment grade (BBB+/Baa1). Acceso a mercados de credito sin problemas. Refinanciaciones recientes a tasas razonables. Sin vencimientos bulk en el corto plazo que representen riesgo de refinanciacion. Costo de deuda estimado ~4.0% (kd antes de impuesto).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Total Activos: 17.93B. Goodwill: 4.47B (24.9% de activos; moderado). Activos intangibles adicionales minimos. Activos dominados por receivables y activos liquidos. No es una empresa con activos fijos intensivos (marketplace asset-light). Calidad de activos solida. Sin deterioro material de goodwill en historico reciente. Balance limpio comparado con CVS (43% goodwill) o MRK.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen Bruto: 72.59% (excelente para marketplace asset-light sin COGS de inventario). Margen Operativo: 21.87%. Margen Neto: 18.36%. Calidad mejora con mix hacia publicidad first-party. Palanca operativa positiva.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROIC: 20.69% (excepcional, muy por encima del WACC 10%). ROE: 46.44% inflado por buybacks. DuPont: Net Margin 18.50% x Rotacion Activos 0.670x x Apalancamiento 3.840x = 47.5% ROE. Spread ROIC-WACC de +10.69 pp: creacion de valor comprobada.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos: 0.670x (Revenue 12.0B sobre Activos 17.93B). Normal para plataforma tech. El margen bruto 72.59% y la escala son los motores de valor en este modelo asset-light.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR Revenue 5Y (FY21-FY25): 4.64% — historicamente bajo. Pero el viraje estrategico es reciente y visible: Q1 2026 +19% GMV YoY, Q2 2026 +14% GMV. Revenue guidance 2026: 11-12%. Focus categories +26%. Claramente en fase de aceleracion aunque el CAGR historico no lo refleja aun plenamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GMV total estancado o en leve contraccion 2021-2024 tras auge pandemia. La consistencia mejora en 2025-2026 al materializarse la estrategia Focus. Margen operativo relativamente consistente 20-23%. FCF oscilo (FY2025 deprimido a 1.43B por Q2 2025 negativo de -441M; TTM 2.43B). Base TTM es mas representativa del FCF normalizado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Publicidad first-party: actualmente 2.7pct de GMV, objetivo 4-5pct largo plazo (50-85pct adicional solo de este driver). Categorias enfocadas: si llegan a 60pct del GMV con tasas 26pct, el GMV total acelera a doble digito sostenido. Recomercio y segunda mano: tendencia secular cultural. Expansion internacional activa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "FCF TTM: 2.43B vs NI TTM 2.22B. Ratio FCF sobre NI = 1.10x (excelente conversion). FY2025 FCF de 1.43B fue distorsionado por Q2 2025 (-441M por salida de capital de trabajo). Base TTM 2.43B incorpora H1 2026 mas solido (Q1: +897M, Q2: +300M) y es la base mas representativa del poder generativo normalizado del negocio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF Yield: 5.01% (FCF 2.43B sobre Market Cap 48.47B). P/FCF: 19.95x — razonable para marketplace de calidad pero no barato. El yield implica que al precio actual no hay margen de seguridad amplio pero tampoco valuacion de burbuja. FCF deberia crecer 10-12% en linea con revenues, mejorando el yield progresivamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM: 540M = 4.5% de revenues (bajo para plataforma tech de mercado). Sin manufactura ni infraestructura fisica propia. Capex en tecnologia de plataforma, data centers y seguridad. El modelo asset-light se refleja en alta conversion de EBITDA a FCF y en el ROIC excepcional de 20.69%.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Capital allocation excelente: (1) Buybacks: shares de 800M en 2019 reducidas a 444M en 2026 (reduccion del 44% en 7 anos). (2) Dividendo creciente, yield 1.13%. (3) Desinversiones oportunistas: StubHub 4.05B (2020), Classifieds 9.2B (2021). (4) Sin M&A dilutivo masivo reciente. Uno de los mejores tracks de capital allocation en e-commerce.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM: 22.60x. Forward P/E: 16.26x (atractivo si guidance se cumple). P/FCF: 19.95x. EV/EBITDA: 17.04x. Los multiples actuales son razonables pero no baratos para un marketplace en aceleracion. Si el crecimiento de 10-12% se materializa, el Forward P/E de 16x es un punto de entrada acceptable para un negocio de esta calidad.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF: WACC 10% (CAPM: Rf 3.5% + Beta 1.34 x ERP 5.5% = 10.02%; confirmado por GuruFocus 9.19%). Crecimiento 10.59% (consenso analistasEPS next 5Y; coherente con guidance 2026 10-12%). Terminal growth 4%. FCF base TTM 2.43B. EV = 55.58B. Deuda Neta 4.70B. Equity 50.88B. Acciones 0.444B. IV = 114.6 USD por accion. Sensibilidad: WACC 9% IV=140.4 MS+28.6%; WACC 10% IV=114.6 MS+5.0%; WACC 11% IV=94.5 MS-13.5%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad al WACC base 10%: +5.0%. Apenas positivo, en la frontera del rango MANTENER. El negocio es de calidad (ROIC 20.69%, buybacks excelentes, publicidad acelerando) pero al precio actual el margen de seguridad es insuficiente para una entrada fuerte. Mejor punto de entrada a 90-95 USD daria MS de 17-20% y MS 20% si WACC se confirma en 9% al mejorar el mix de deuda.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de segunda mano y recomercio estimado en 350B+ USD y creciendo 15-20% anual impulsado por tendencias culturales de sustentabilidad y ahorro. E-commerce C2C es un segmento dentro de este TAM. Publicidad en marketplaces: un subsector con alto crecimiento. GMV total de e-commerce global supera los 6T USD; eBay captura un nicho diferenciado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "La red de dos lados es la barrera mas alta: 180M compradores y 20M vendedores activos crean un mercado liquido que tomaria anos replicar. Datos historicos de 30 anos de transacciones C2C generan ventaja de datos para precios, matchmaking y deteccion de fraude. Liderazgo en nichos (coleccionables, autos, moda vintage) crea fidelidad de usuario que Amazon no puede comprar facilmente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Amazon es la principal amenaza en e-commerce masivo pero no ha logrado replicar el liderazgo de eBay en C2C y coleccionables (Amazon Marketplace no tiene traccion en relojes vintage, cartas coleccionables, auto parts usados). Poshmark, Etsy, Facebook Marketplace compiten en subcategorias. Temu y Shein son competidores en nuevos pero no en la propuesta de valor usados-coleccionables de eBay.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Moderadamente defensivo: en recesiones, la gente compra mas productos de segunda mano (comportamiento anti-ciclico parcial). Pero la reduccion de gasto discrecional si afecta volumenes. GMV cayo en 2022-2024 tras el auge pandemia. El negocio no es inmune a ciclos pero es mas resiliente que el e-commerce de nuevos. Calificacion media-baja en ciclicidad.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Regulacion de marketplaces en UE (Digital Markets Act) y EEUU puede aumentar requisitos de responsabilidad del vendedor y transparencia. Impuestos a vendedores via plataformas (Form 1099-K en EEUU: umbral bajado a 600 USD) podria desincentivar a vendedores pequeños. Riesgo moderado: eBay lleva anos lidiando con regulaciones internacionales y ha adaptado el modelo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Aproximadamente 50% del GMV proviene de mercados internacionales (UK, Alemania, Australia principalmente). Fortaleza del dolar USD es viento en contra para revenues reportados en USD. FX fue headwind en 2022-2023; con dolar mas debil en 2025-2026 se convierte en tailwind. Riesgo manejable pero presente; eBay no puede controlar el tipo de cambio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Extraordinariamente diversificado: 180M+ compradores individuales, 20M+ vendedores. Ninguna categoria representa mas del 15% del GMV. Ninguna contraparte individual es material. La diversificacion de eBay es mejor que practicamente cualquier empresa analizada en este workbook. Riesgo de concentracion es virtualmente nulo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico moderado: Amazon y otros invierten masivamente en IA para personalizar e-commerce. eBay tiene su propia iniciativa de IA (eBay Magical Listing, AI-assisted search). El nicho de C2C y coleccionables es mas defensible que el e-commerce de nuevos porque requiere autenticacion, historial de vendedor y comunidad — no solo algoritmos de recomendacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "ESG fuertemente positivo: el recomercio y la segunda mano son por definicion sostenibles (extienden vida util del producto, reducen desperdicio). eBay ha adoptado narrativa de economia circular y ESG report detallado. El modelo de negocio esta estructuralmente alineado con tendencias ESG sin necesitar cambios. Esto es un diferenciador competitivo y un driver de usuarios jovenes.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Q3 2026 resultados (octubre 2026): se espera confirmacion de GMV +12-15% y publicidad first-party sostenida en +20%+. Si el crecimiento de categorias enfocadas sigue acelerando hacia 50-60% del GMV, el mercado podria rerate el multiple hacia 20x P/FCF o mas. Anuncio de nuevas categorias de enfoque o expansion a nuevos mercados podrian ser catalizadores adicionales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Insider ownership: 10.07% (muy alto para large-cap; incluye posiciones de activistas institucionales historicos que empujaron mejor capital allocation). CEO Jamie Iannone con stake significativo alineado con el largo plazo de la empresa. La alta propiedad institutional-activista es historicamente positiva para disciplina de capital en eBay.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso analistass: recommendation 2.64/5 (entre HOLD y BUY moderado). Target price promedio: 116.64 USD (+6.8% de upside desde 109.18). Coherente con mi IV de 114.6. Los analistass ven el mismo potencial limitado al precio actual. Sin upgrade masivo esperado a menos que el crecimiento supere el guidance en Q3 2026.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": null,
+    "recomendacion": null,
+    "tesis": "MANTENER — ESPERAR MEJOR PUNTO DE ENTRADA. eBay es un marketplace de calidad con moat de red de dos lados, ROIC excepcional (20.69%), capital allocation impecable (buybacks 44% de acciones en 7 anos) y aceleracion visible en focus categories (+26%) y publicidad first-party (+24%). Sin embargo, al precio actual de 109.18 USD el margen de seguridad es apenas +5.0% con WACC 10%, insuficiente para una entrada agresiva. Mejor punto de entrada: 90-95 USD (MS 17-21%). Si el crecimiento 10-12% se mantiene 2-3 anos, el IV subira y el precio actual lucira atractivo en retrospectiva."
+  }
+}

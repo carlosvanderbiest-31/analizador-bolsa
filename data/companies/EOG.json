@@ -1,0 +1,259 @@
+{
+  "empresa": "EOG Resources, Inc.",
+  "ticker": "EOG",
+  "sector": "Energia - Exploracion y produccion de petroleo-gas (upstream)",
+  "fecha_analisis": "2026-10-08",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Exploracion-desarrollo-produccion de petroleo crudo, liquidos de gas natural (NGLs) y gas natural en multiples cuencas de EEUU (Delaware-Permian, aprox 395,000 acres netos; Eagle Ford, aprox 565,000 acres netos; Dorado gas, aprox 160,000 acres netos; Utica, aprox 485,000 acres netos combinados tras la adquisicion de Encino en 2025) mas Trinidad y Tobago internacional. Ingresos TTM 26.72bn USD.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat mas debil que el resto del Dashboard por naturaleza del negocio: el petroleo-gas es un commodity fungible sin diferenciacion de producto. La ventaja real de EOG es OPERATIVA: marco de retornos de perforacion \"premium\" (filtra proyectos por retorno, no solo volumen), liderazgo tecnico en perforacion horizontal-completacion, y posiciones de acreaje grandes-contiguas dificiles de replicar - un quasi-moat de ejecucion, no una barrera regulatoria-de red.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Considerado uno de los operadores de shale mejor gestionados de EEUU (\"unheralded... focused oil company with clearcut success strategy\" segun un analisis independiente), posiciones de acreaje grandes y diversificadas entre cuencas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "NINGUNO por definicion estructural: EOG es tomador de precios en mercados globales de commodities (petroleo-gas), sin capacidad de fijar precios propios - a diferencia de todas las empresas con moat regulatorio-de marca analizadas en este Dashboard.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Marco de asignacion de capital genuinamente diferenciado en el sector E&P: dividendo base MAS dividendos ESPECIALES variables segun el ciclo de precios de commodities (1.00+1.80+1.50 USD por accion en dividendos especiales solo en 2022, devolviendo efectivo excedente en vez de sobre-invertir en crecimiento). Adquisicion contraciclica de Encino Acquisition Partners en la cuenca de Utica (5.6bn USD, cerrada ago-2025, financiada con 3.5bn USD de deuda y 2.1bn USD de caja, SIN dilucion de equity) que la propia gerencia califico como \"ejemplo de libro de texto\" de despliegue de capital contraciclico, con mas de 150M USD de sinergias del primer ano y +10% de acrecion a EBITDA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Marco de retornos de perforacion premium sugiere buena alineacion de incentivos (prioriza retorno sobre crecimiento de volumen), aunque no se investigo con profundidad especifica de compensacion-ownership de insiders esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria estandar, una sola clase de acciones, sin control familiar-fundador dominante identificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion detallada del plan de capital (punto de equilibrio de WTI explicitamente guiado por debajo de 50 USD/barril, guia de FCF a precios strip, desglose de asignacion de capital), anuncios regulares de dividendos especiales.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta entre EBITDA aprox 0.24-0.45x (segun el periodo de referencia) - el balance MAS SOLIDO de cualquier empresa analizada en todo este proyecto (todas las demas empresas de este Dashboard tienen 1.7x o mas). Cobertura de intereses de 33.55x, sin utilizacion de su linea de credito revolvente de 3.0bn USD.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Liquidez excepcional: 4.9bn USD en caja mas linea de credito revolvente de 3.0bn USD completamente disponible. Razon corriente 1.85x, prueba acida 1.68x (Finviz) - consistente con la liquidez excepcional ya descrita.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Riesgo de refinanciamiento minimo dado el perfil de apalancamiento ultra-bajo por diseno.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Reservas de petroleo-gas en cuencas de primer nivel (Delaware-Permian, Eagle Ford, Utica), pero con una senal real a monitorear: un analisis independiente senalo que el inventario de perforacion PREMIUM de EOG en Permian-Eagle Ford se esta reduciendo (\"dwindling\") - un riesgo de largo plazo genuino sobre la profundidad del inventario de mas alta calidad, parcialmente compensado por la nueva posicion en Utica.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen neto TTM 25.75% (Utilidad Neta TTM 6.88bn USD entre Ingresos TTM 26.72bn USD) - fuerte, aunque dependiente de los precios actuales de commodities (se comprimiria materialmente en un entorno de precios mas bajo). Margen bruto TTM 43.24% y margen operativo TTM 35.12% (Finviz).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM aprox 21.59% (Utilidad Neta TTM 6.88bn USD entre Patrimonio contable 31.86bn USD), muy por encima del costo de equity ajustado (10.65%) - spread de valor grande, aunque hay que tener presente que esta cifra refleja precios de commodities actuales, no necesariamente sostenibles a traves de un ciclo completo. ROIC TTM 17.29% (Finviz), tambien muy por encima del WACC/Ke.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos aprox 0.49x (Ingresos TTM 26.72bn USD entre Activos 54.78bn USD) - mas alta que la mayoria de las empresas de infraestructura reguladas de este Dashboard, reflejo del distinto perfil de capital de un negocio de E&P vs generacion-redes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Ingresos-utilidad crecieron fuerte en el ultimo anio (+17.2% ingresos, +20% utilidad neta), pero esto refleja principalmente APRECIACION DE PRECIOS de commodities, no un algoritmo de crecimiento estructural - EOG prioriza explicitamente disciplina de capital-retornos sobre crecimiento de volumen agresivo. CAGR de ingresos a 5 anios (Finviz) 17.92% - probablemente inflado por el efecto de base baja de 2020 (ingresos de solo 11.03bn USD, deprimidos por el colapso de precios de WTI en la pandemia; mismo tipo de gotcha de base baja ya documentado con NVDA-MU en la metodologia) - no se debe interpretar como crecimiento estructural sostenible, coherente con que el growth rate adoptado en el DCF fue mucho mas modesto (3%-2.5%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Consistencia INHERENTEMENTE baja por diseno: el negocio de E&P es geneticamente ciclico, ligado a precios de petroleo-gas que fluctuan de forma amplia e impredecible - lo opuesto a la consistencia regulatoria de las utilities-REITs analizadas en sesiones recientes.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Nueva posicion en Utica (tras la adquisicion de Encino) agrega inventario significativo, optionality internacional en Trinidad, viento de cola de demanda de gas natural ligado a LNG-centros de datos (mismo tema que beneficia a KMI) podria mejorar realizaciones de gas-NGLs. Contrapeso: senal de reduccion del inventario de perforacion premium en Permian-Eagle Ford (ver fila 25).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Ganancias GAAP razonablemente limpias para una E&P, sin distorsiones de mark-to-market relevantes identificadas esta sesion - la volatilidad que existe es economica-real (precios de commodities), no un artefacto contable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Guia de FCF de 8bn USD para 2026 a precios strip (curva futura de mercado, no precios historicos-picos), punto de equilibrio de WTI por debajo de 50 USD/barril - genuina resiliencia ante caidas de precio.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Presupuesto de capital 2026 de 6.5bn USD, mezcla de capex de mantenimiento (reposicion de reservas, esencial para cualquier E&P) y crecimiento selectivo filtrado por el marco de retornos premium. Capex TTM aprox 6.74bn USD sobre Ingresos TTM aprox 27.0bn USD = Capex/Ventas aprox 24.95%.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Marco de asignacion de capital EXCELENTE y genuinamente diferenciado: dividendo base mas dividendos especiales variables (devuelve efectivo excedente en vez de sobre-invertir), M&A contraciclica sin dilucion de equity, apalancamiento minimo - uno de los marcos de asignacion de capital mejor documentados de todo este Dashboard.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E 10.53x (trailing) a 8.85x (forward), EV/EBITDA 5.60x - objetivamente BARATO, entre los multiplos mas bajos de todo el Dashboard, reflejo del descuento tipico que el mercado aplica a ganancias ciclicas de commodities en el punto actual del ciclo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco (Escenario A adoptado, DCF sobre FCF con beta sustituto razonado, descontado al costo de equity) = aprox 151 USD por accion (FCF con descuento del 20% sobre la guia 2026). Ver Dashboard columna Notas para el detalle completo de la metodologia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad +6.6% (Escenario A adoptado, conservador) a +33.3% (Escenario B, FCF guiado sin ajuste) frente al precio actual de 141.88 USD - positivo en ambos escenarios, consistente en direccion con el consenso de analistas (Compra, +11.93%).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM mixto: la demanda de gas natural tiene un viento de cola solido (exportaciones de LNG, centros de datos, mismo tema que KMI), pero la demanda de petroleo de largo plazo es mas incierta dada la transicion energetica-adopcion de vehiculos electricos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada moderadas: permisos de perforacion, requisitos de capital y expertise tecnico crean barreras reales, pero fundamentalmente es un negocio de commodity donde OPEC+ y productores globales fijan precios, no una franquicia protegida.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Dinamica de commodity clasica: EOG es tomador de precios, rivalidad real entre operadores de shale por acreaje premium-capital humano, poder de proveedores real (servicios petroleros), poder de compradores bajo (commodity fungible vendido en mercados liquidos), amenaza de sustitutos real en el largo plazo (renovables-VE para demanda de petroleo).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad ALTA - caracteristica definitoria del sector de E&P de petroleo-gas, la mas alta ciclicidad honesta documentada entre las empresas analizadas en sesiones recientes de este Dashboard.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio real (permisos de perforacion, regulacion ambiental, reglas de metano, posible politica de carbono futura), aunque el shale de EEUU ha operado bajo un entorno federal relativamente favorable recientemente; los estados principales (Texas, Luisiana) y Trinidad son generalmente favorables al desarrollo de petroleo-gas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria modesta - operaciones mayormente en EEUU con algo de exposicion internacional (Trinidad y Tobago), ventas de commodities mayormente denominadas en USD globalmente, lo que reduce el riesgo de traduccion cambiaria directa frente a una REIT-utility con operaciones en moneda local extranjera.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Petroleo-gas vendido en mercados globales de commodities liquidos, sin concentracion de un solo cliente relevante en el sentido tradicional (base de compradores diversificada via ventas spot-contratos), aunque existe riesgo real de inflacion de costos de proveedores de servicios petroleros.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo genuino de largo plazo por la transicion energetica (adopcion de VE reduciendo demanda de petroleo, energias renovables desplazando generacion a gas en decadas), aunque el superciclo actual de demanda de gas natural impulsado por IA-centros de datos es en realidad un VIENTO DE COLA de corto-mediano plazo, complicando la narrativa simple de riesgo de transicion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Exposicion ESG significativa - la exploracion-produccion de combustibles fosiles conlleva escrutinio ESG sustancial (emisiones de metano, quema de gas, riesgo de derrames, exposicion amplia a politica climatica) - uno de los perfiles de negocio con mayor exposicion ESG de todo el Dashboard por definicion sectorial.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Catalizadores-riesgos pendientes: integracion de la adquisicion de Encino en Utica; decisiones futuras de dividendos especiales ligadas a realizaciones de precios de commodities; evolucion de precios de petroleo-gas (decisiones de OPEC+, balance global de oferta-demanda).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Datos especificos de compras-ventas de insiders no investigados con profundidad esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura favorable: consenso de Compra, precio objetivo 158.81 USD (aprox +11.93% sobre el precio actual) - cae entre los dos escenarios del DCF de esta ficha (+6.6% a +33.3%), buena triangulacion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.6216216216216215,
+    "recomendacion": "COMPRAR - primera empresa de exploracion y produccion (E&P) upstream del Dashboard, con el balance mas solido de todo el proyecto (Deuda Neta entre EBITDA de apenas 0.24-0.45x, cobertura de intereses de 33.55x, sin uso de su linea de credito de 3.0bn USD) y un marco de asignacion de capital genuinamente diferenciado en el sector: dividendo base mas dividendos ESPECIALES variables segun el ciclo de precios (1.00+1.80+1.50 USD por accion en dividendos especiales solo en 2022), y la adquisicion contraciclica de Encino en la cuenca de Utica (5.6bn USD, cerrada ago-2025, financiada sin dilucion de equity) calificada por la propia gerencia como \"ejemplo de libro de texto\" de despliegue de capital contraciclico. Punto de equilibrio de WTI por debajo de 50 USD/barril, muy resiliente frente a caidas de precio. Cotiza barato en multiplos absolutos (P/E 10.53x, EV/EBITDA 5.60x) reflejo del descuento tipico que el mercado aplica a ganancias ciclicas de commodities. El beta reportado (0.28) es inusualmente bajo para una E&P (negocio genuinamente ciclico ligado a precios de petroleo-gas) - se sustituyo por un beta razonado de 1.3 (no via Hamada, dado el apalancamiento minimo de la empresa, sino como estimacion directa del riesgo real de negocio de un productor de commodities). El DCF sobre FCF (no DDM, dado que E&P no tiene un algoritmo de crecimiento regulado como las utilities) da un Margen de Seguridad de +6.6% en el escenario conservador (FCF con descuento del 20% sobre la guia 2026 a precios strip) y +33.3% si la guia de 8bn USD de FCF a precios strip se materializa sin ajuste - ambos escenarios positivos, consistente en direccion con el consenso de analistas (Compra, +11.93%). Riesgo central, honesto y estructural: es un negocio de commodities SIN poder de fijacion de precios, altamente ciclico por naturaleza, con exposicion ESG real y una senal a monitorear sobre la profundidad del inventario de perforacion premium en Permian-Eagle Ford.",
+    "tesis": "El operador de exploracion-produccion de petroleo-gas mejor gestionado y con el balance mas solido del sector, con un marco de asignacion de capital genuinamente diferenciado (dividendos especiales, M&A contraciclica sin dilucion) y un punto de equilibrio muy bajo que ofrece resiliencia real ante caidas de precios de commodities - pero sigue siendo, por naturaleza del negocio, una apuesta ciclica sin poder de fijacion de precios, cotizando barata precisamente por esa razon estructural."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": null,
+  "ticker": null,
+  "sector": null,
+  "fecha_analisis": null,
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Sherwin-Williams genera ingresos vendiendo pinturas y recubrimientos arquitectonicos e industriales. Su modelo distintivo es una red propia de mas de 4900 tiendas exclusivas en Norteamerica que venden directamente a pintores profesionales (con servicio de color-matching y asesoria tecnica), complementada por canales de retail-distribuidores para el segmento de consumo e industrial. Ingresos TTM 24.41bn USD, creciendo a ritmo modesto (mid-single-digit).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "El moat mas fuerte del sector: la red de tiendas propias exclusivas es dificil y cara de replicar a esta escala, genera relaciones directas y recurrentes con pintores profesionales (canal de mayor margen), y el servicio de color-matching en tienda crea friccion de cambio. Marca centenaria muy reconocida (fundada 1866). PPG, el competidor global mas grande en ingresos totales de recubrimientos, no tiene una red minorista arquitectonica comparable en Norteamerica.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider claro en pintura arquitectonica de Norteamerica (cuota historica reportada de aprox 28.5%), aunque PPG lidera en ingresos globales totales de recubrimientos por su mayor peso industrial-internacional. Otros rivales relevantes: AkzoNobel, Nippon Paint Holdings (globales), RPM International y Axalta Coating Systems (nicho), y Behr Paint (marca de Masco distribuida via Home Depot, lider especifico en pintura de consumo/retail).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios alto y demostrado activamente: aumento de precios del 8% anunciado con efecto septiembre 2026 para compensar costos de insumos petroquimicos mas altos, en un entorno donde la propia gerencia reconoce que la demanda de vivienda-renovacion sigue debil (no se asume recuperacion). Que puedan subir precios sin depender de volumen es una señal de poder de mercado genuino, no solo teorico.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Retorno de capital muy agresivo: recompras de 2623M USD TTM mas dividendos de 786.1M USD TTM, sostenido y creciente en el tiempo. Sin embargo el retorno total combinado supera el FCF en algunos periodos, financiado en parte con apalancamiento adicional (la adquisicion de Valspar en 2017 por aprox 11.3bn USD, mayormente con deuda, mas años de recompras, han reducido el patrimonio contable a niveles muy bajos frente a la deuda).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "No se investigo con precision la estructura de compensacion ejecutiva ni el nivel de tenencia de acciones por parte de insiders/directivos en esta sesion. Se asume alineacion razonable dada la consistencia historica de ejecucion y el enfoque declarado en creacion de valor para el accionista via retorno de capital.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria simple, clase unica de acciones, sin control familiar ni gubernamental. Aprox 241.33M acciones en circulacion, capitalizacion de mercado 87.61bn USD.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion trimestral activa y detallada, con guidance especifico (EPS ajustado FY2026 elevado a rango 11.80-12.20 USD tras resultados del 2T). La gerencia es explicita y transparente sobre los supuestos macro subyacentes (reconoce abiertamente que no se asume recuperacion de demanda de vivienda, algo poco comun de admitir tan directamente).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Apalancamiento ALTO en terminos de patrimonio contable: deuda total 14215M USD frente a un patrimonio de apenas 3855M USD (D/E aprox 3.69x). Esto es en gran parte resultado deliberado de la adquisicion de Valspar (2017, aprox 11.3bn USD, mayormente financiada con deuda) combinada con años de recompras agresivas que han reducido el patrimonio contable. El apalancamiento es manejable dado el FCF fuerte, estable y predecible (3213M USD TTM), pero deja poco margen de maniobra en un escenario de estres severo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Liquidez muy baja: caja de apenas 293.5M USD frente al tamaño de la empresa (ingresos de 24.41bn USD). Esto refleja una politica deliberada de mantener caja minima y maximizar el retorno de capital via dividendos y recompras, tipico de empresas de consumo/industrial de calidad con flujo de caja predecible, pero reduce el colchon ante shocks inesperados.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "No se verifico con precision el calendario detallado de vencimientos de deuda en esta sesion. Se asume perfil de vencimientos escalonado tipico de un emisor investment-grade de este tamaño y con esta trayectoria de acceso a mercados de capital.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales 26951M USD, incluyendo goodwill relevante originado en la adquisicion de Valspar, ademas de la red de tiendas propias y plantas de produccion (activos productivos operativos reales, no especulativos ni financieros).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes solidos y estables: margen neto TTM aprox 11%, con el 2T 2026 especificamente en 12.4% (net income 843.6M USD sobre net sales de 6.79bn USD). Nada de la volatilidad ciclica extrema observada en otros sectores de este Dashboard (refinerias, memoria de semiconductores).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE presumiblemente muy elevado en terminos nominales dado el patrimonio contable reducido por años de recompras agresivas (efecto de apalancamiento financiero elevando el ROE mecanicamente, no necesariamente reflejo de eficiencia operativa pura). No se calculo el numero exacto esta sesion, pero cualitativamente el negocio genera retornos consistentemente por encima de su costo de capital.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de un negocio de manufactura-distribucion que combina plantas de produccion con una extensa red de tiendas propias (activo intensivo en relacion a los ingresos, pero justificado por el moat que genera).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento historico consistente pero modesto: ingresos de 22.15bn USD (2022) a 23.94bn USD (2025), CAGR aprox 2.6% - volumen debil compensado por aumentos de precio y ganancia de cuota de mercado. Utilidad neta creciendo mas rapido (1864M USD en 2021 a 2681M USD en 2024) gracias a expansion de margenes; EPS creciendo aun mas rapido (7.72 USD 2022 a 10.55 USD 2024, +36.7% acumulado) por el efecto adicional de las recompras reduciendo el conteo de acciones - crecimiento de EPS parcialmente \"artificial\" via reduccion de denominador, no solo crecimiento organico de negocio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Muy consistente año tras año, sin caidas, incluso en un entorno donde la propia gerencia reconoce explicitamente que no se asume una recuperacion amplia de la demanda de vivienda-renovacion. Esta consistencia bajo condiciones de demanda subyacente debil es una señal de calidad de negocio (ejecucion, precio, cuota de mercado compensando el ciclo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Fuentes futuras de crecimiento declaradas por la propia gerencia: ganancia de cuota de mercado, disciplina de precios (aumento del 8% anunciado para sep-2026), y productividad operativa - explicitamente NO dependen de una recuperacion ciclica de la demanda de vivienda. Esto es una fuente de crecimiento mas defendible (ejecucion propia) pero tambien mas limitada en magnitud que un viento de cola de demanda genuino.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Excelente calidad de ganancias: OCF TTM 3887M USD frente a utilidad neta TTM aprox 2690M USD - conversion de caja fuerte y sin señales de manipulacion contable o distorsion por partidas no monetarias relevantes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM 3213M USD (OCF 3887M USD menos capex 673.5M USD), en fuerte mejora respecto al FY2025 completo (FCF 2654M USD, OCF 3452M USD, capex 797.6M USD) - conversion de caja consistente y predecible, sin la volatilidad ciclica documentada en otros sectores de este Dashboard. Esta es la base de FCF (TTM, sin necesidad de normalizacion) usada para el DCF.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM 673.5M USD, aprox 2.8% de ingresos - moderado y estable, mezcla de mantenimiento de la red de tiendas-plantas existente y expansion incremental. No se identifico un patron de capex de crecimiento agresivo ni de reduccion deliberada como en otros casos de este Dashboard (WMB/AMZN vs APD).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital fuertemente orientado a retorno al accionista: recompras de 2623M USD TTM (muy superiores al dividendo) mas dividendo consistente y creciente de 786.1M USD TTM. El retorno total combinado (3409M USD) supera el FCF del periodo (3213M USD) en algunos periodos, lo que implica financiamiento parcial con deuda adicional - politica agresiva mas que conservadora.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 34.11x - exigente para una empresa con crecimiento de ingresos modesto (aprox 2.6% CAGR reciente), refleja la prima de calidad-moat que el mercado asigna al liderazgo de distribucion. Objetivo promedio de 25 analistas: 390.10 USD (+7.46% sobre el precio actual de 363.02 USD), calificacion Compra pero con margen de subida modesto - incluso Wall Street ve el precio actual como razonablemente valorado, no como una ganga.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF: FCF base TTM 3213M USD, sin normalizacion. WACC = Ke 9.495 pct ponderado 86.04 pct equity, Kd post-tax 4.0 pct ponderado 13.96 pct deuda, resultado WACC 8.73 pct. Crecimiento fade 9,7,6,5,4.5 pct, terminal 4 pct, consistente con guidance FY2026 mid-to-high-single-digit sin recuperacion de demanda. FCF5 proyectado 4359M USD. VT 95.84bn USD. EV 78.39bn USD. Deuda neta 13.92bn USD. Valor equity 64.47bn USD. IV por accion 267.14 USD. Sensibilidad WACC 10 pct: IV por accion 198.15 USD, resultado no comprar robusto a la sensibilidad del WACC.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de seguridad -26.4% (IV 267.14 USD vs precio actual 363.02 USD) - zona de \"vender/no comprar\" del marco, aunque no tan extrema como otros casos de este Dashboard (ARM, LITE, BE, CDNS). Refleja una empresa de calidad genuina pero con una valoracion que ya incorpora una prima significativa por el moat y la consistencia de ejecucion.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de pinturas-recubrimientos en crecimiento estructural moderado, ligado a construccion nueva, renovacion de vivienda y produccion industrial. Actualmente en un entorno de demanda residencial debil que la propia gerencia reconoce explicitamente (\"no se asume una recuperacion de demanda amplia\"), compensado por ganancia de cuota de mercado y disciplina de precios.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas para igualar la escala de la red de distribucion propia (mas de 4900 tiendas), el capital y tiempo requerido son enormes. El producto en si (pintura) no tiene una barrera tecnologica extrema, pero la barrera de distribucion-servicio si es real y dificil de replicar.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: rivalidad moderada-alta entre pocos jugadores grandes (PPG lider global en ingresos totales, AkzoNobel, RPM International, Behr-Masco en consumo). Poder de negociacion de proveedores moderado (materias primas petroquimicas expuestas a volatilidad de costos, de ahi el aumento de precios reciente). Poder de negociacion de clientes bajo en el canal profesional (dependientes del servicio en tienda) pero mas alto en retail-consumo. Barrera a nuevos entrantes alta dado el capital necesario para replicar la red de distribucion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad moderada, ligada al ciclo de construccion-renovacion de vivienda (actualmente debil segun reconoce la propia gerencia) y a la produccion industrial, pero suavizada por el segmento de mantenimiento-repintado (menos discrecional que construccion nueva) y por el poder de fijacion de precios.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio moderado: regulacion ambiental de compuestos organicos volatiles en pinturas, e industria con antecedentes historicos conocidos de litigios por plomo en pinturas (aunque no se identifico un litigio activo especifico contra SHW en esta sesion). Riesgo pais bajo, negocio concentrado mayormente en mercados desarrollados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo cambiario moderado, negocio con operaciones internacionales aunque concentrado mayormente en Norteamerica (mercado core del negocio de tiendas propias), por lo que la exposicion a divisas extranjeras es menor que en competidores mas globales como PPG o AkzoNobel.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Baja concentracion de clientes (base muy diversificada de pintores profesionales, consumidores minoristas y clientes industriales), pero exposicion relevante a proveedores de materias primas petroquimicas con precios volatiles, lo que ha motivado el reciente aumento de precios del 8 pct.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico bajo: la pintura es un producto maduro sin amenaza de disrupcion tecnologica cercana. El modelo de distribucion fisica podria enfrentar presion de largo plazo de canales digitales-directos, pero el componente de servicio profesional (color matching, asesoria tecnica en tienda) es dificil de replicar online, lo que protege el moat.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG moderado, tipico de la industria quimica-de pinturas (compuestos organicos volatiles, gestion de residuos), con historial regulatorio conocido en la industria en general, aunque no se identificaron litigios ESG activos especificos contra SHW en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximos eventos relevantes: impacto real del aumento de precios del 8 pct (efectivo sep-2026) en volumenes y margenes; evolucion de la demanda de vivienda-renovacion; continuidad del guidance elevado FY2026 (EPS ajustado 11.80-12.20 USD, ya elevado tras resultados del 2T que batieron consenso).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No se investigo con precision la actividad de compra-venta de insiders en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura de 25 analistas, calificacion Compra, objetivo promedio 390.10 USD (+7.46 pct sobre el precio actual de 363.02 USD) - optimismo moderado, mas conservador que el Compra tipico, reflejo de que incluso Wall Street ve el precio actual como razonablemente valorado tras el rally reciente, no como una ganga.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4324324324324325,
+    "recomendacion": "NO COMPRAR - VALORACION EXIGENTE: negocio de calidad genuina (moat real via red de distribucion propia, liderazgo en pintura arquitectonica de Norteamerica, poder de fijacion de precios demostrado activamente), con ejecucion consistente incluso en un entorno de demanda de vivienda debil que la propia gerencia reconoce. Sin embargo el DCF (base FCF TTM limpia, WACC 8.73 pct) arroja un margen de seguridad de -26.4 pct, robusto incluso bajo sensibilidad de WACC mas alto (-45.4 pct a WACC 10 pct). El precio actual ya incorpora una prima significativa por calidad; esperar una correccion o entrada mas favorable antes de iniciar posicion.",
+    "tesis": "Lider indiscutido de pintura arquitectonica en Norteamerica gracias a una red de mas de 4900 tiendas propias exclusivas (moat de distribucion dificil de replicar), demostrando poder de fijacion de precios real (aumento del 8 pct anunciado) en medio de una demanda de vivienda debil que la propia gerencia reconoce explicitamente no depender de recuperacion ciclica; negocio de calidad alta pero cotizando con una prima exigente (P/E 34x, MS DCF -26.4 pct) y con apalancamiento elevado en terminos de patrimonio contable (D/E aprox 3.69x, legado de la adquisicion de Valspar en 2017 mas años de recompras agresivas)."
+  }
+}

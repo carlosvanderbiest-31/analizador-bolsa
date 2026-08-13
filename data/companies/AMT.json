@@ -1,0 +1,259 @@
+{
+  "empresa": "American Tower Corporation",
+  "ticker": "AMT",
+  "sector": "Bienes Raices - REIT torres de telecomunicaciones",
+  "fecha_analisis": "2026-10-08",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Ingresos via renta de espacio en torres de telecomunicaciones (mas de 148,957 sitios globales) a operadores inalambricos bajo contratos de largo plazo (terminos iniciales de 5-10 anios con multiples opciones de renovacion) con escaladores contractuales anuales. Segundo motor: Data Centers (CoreSite, adquirida en 2021 por 10.4bn USD, centros de colocacion-interconexion capturando demanda de IA). 97% de los ingresos 2025 vinieron de operaciones de propiedad. Backlog de 54bn USD de ingresos futuros de clientes NO cancelables ya contratados - visibilidad de ingresos muy alta.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat casi inreplicable: las torres son infraestructura fisica muy dificil de replicar (permisos, zonificacion, oposicion comunitaria), modelo multi-inquilino donde el segundo-tercer arrendatario en la misma torre es casi puro margen incremental. Contratos de largo plazo con escaladores y switching costs altos (los operadores raramente reubican equipos ya instalados). Oligopolio de facto: American Tower, Crown Castle y SBA Communications controlan en conjunto casi 70% de los sitios de propiedad privada en EEUU.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider global indiscutido en torres de telecomunicaciones (mas de 148,957 sitios), por delante de Crown Castle (mas de 40,000 torres mas red de fibra) y SBA Communications (ingresos 2024 aprox 3.3bn USD vs 10.94bn USD TTM de American Tower). Competidor europeo relevante: Cellnex (mas de 138,000 sitios en 12 paises).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios estructural via escaladores contractuales (porcentajes fijos o ligados a indices de precios) incorporados en el backlog de 54bn USD de ingresos futuros ya comprometidos - alta visibilidad de crecimiento independiente del ciclo economico de corto plazo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "14 anios consecutivos de aumento de dividendo (desde la conversion a REIT en 2012). Reciclaje de capital disciplinado: venta del negocio en India a Brookfield por 2.5bn USD (cerrada sep-2024) usada para pagar deuda, saliendo de un mercado con desafios estructurales (default de Vodafone Idea) para enfocar el portafolio en mercados de mayor retorno. Adquisicion de CoreSite (2021, 10.4bn USD) construyendo opcionalidad en centros de datos que hoy captura demanda de IA.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO Steven Vondran, promocion interna (en la empresa desde 2000, various roles de liderazgo incluyendo el negocio de centros de datos de EEUU) desde feb-2024 - continuidad de liderazgo, no una contratacion externa disruptiva. Datos especificos de ownership de insiders no investigados con profundidad esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de gobernanza limpia: una accion-un voto (sin doble clase), directorio mayoritariamente independiente con experiencia en telecom-bienes raices-finanzas, comites de auditoria-compensacion-nominacion siguiendo mejores practicas de REIT.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guidance elevado activamente durante 2026, divulgacion transparente de la disputa legal con DISH (terminacion del acuerdo de colocacion estrategica, litigio en curso) y del caracter de \"anio valle\" de 2026 antes de retomar crecimiento normalizado guiado de aprox 7% en 2027. Reportes suplementarios detallados tipicos de REITs de primer nivel.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Apalancamiento neto 4.9x EBITDA (dentro del rango objetivo propio de 3-5x, pero en el extremo superior). Calificacion crediticia grado de inversion BBB+ - solida pero mas moderada que la de PLD (A2-A), consistente con la mayor intensidad de deuda estructural del modelo de torres.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente tradicional poco relevante para una REIT (mismo criterio ya establecido con PLD). Liquidez reportada de aprox 10.4bn USD (caja mas lineas de credito disponibles) a inicios de 2026 - solida.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Perfil de vencimientos tipico de un emisor grado de inversion global (bonos escalonados en multiples monedas) - sin concentracion de vencimientos identificada en la investigacion disponible esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por torres de telecomunicaciones e infraestructura de centros de datos (CoreSite) - activos fisicos esenciales de altisima calidad. Goodwill-intangibles relevantes por las adquisiciones internacionales y de CoreSite.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen operativo recuperado a aprox 46% (tras la presion de los ultimos anios por el churn de Sprint-T-Mobile). Margen neto TTM 31.1% (Utilidad Neta TTM 3.40bn USD entre Ingresos TTM 10.94bn USD). Tendencia de recuperacion en curso, aunque 2026 es un \"anio valle\" explicito para el crecimiento de AFFO por accion segun la propia gerencia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE GAAP aprox 33.16% (Utilidad Neta TTM 3.40bn USD entre Patrimonio contable aprox 10.25bn USD), muy por encima del costo de equity sustituto adoptado (9.98%) - spread de valor amplio, aunque amplificado por una base de patrimonio contable delgada (alto apalancamiento estructural, Apalancamiento Financiero recalculado aprox 6.17x), no solo por rentabilidad operativa pura.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja (aprox 0.17x, Ingresos TTM 10.94bn USD entre Activos aprox 63.3bn USD) - estructural y esperable en una REIT de infraestructura de capital muy intensivo (torres, centros de datos de larga vida util).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento de ingresos reciente distorsionado por la venta del negocio en India (cerrada sep-2024, reduce la base de ingresos reportada) y por el churn de consolidacion Sprint-T-Mobile y la terminacion del contrato con DISH. AFFO por accion guiado a un \"anio valle\" en 2026 (11.00-11.17 USD) antes de retomar un crecimiento normalizado guiado de aprox 7% FX-neutral en 2027.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Historicamente uno de los modelos de ingresos mas consistentes del Dashboard (contratos de largo plazo con escaladores, backlog de 54bn USD), pero atravesando actualmente una disrupcion genuina y real (salida de India, terminacion de DISH, cola de decomisionamiento de sitios Sprint) que demuestra que la concentracion de clientes si puede morder en el corto plazo pese al modelo contractual.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Multiples fuentes de crecimiento futuro: densificacion de redes 5G en EEUU e internacional, demanda de centros de datos ligada a IA en CoreSite (9 de las 10 principales empresas de IA y 3 de las 5 principales neoclouds ya desplegadas ahi, crecimiento guiado de 13-15% en el segmento de Data Centers), backlog contractual de 54bn USD, y normalizacion de crecimiento guiada en aprox 7% para 2027 tras el \"anio valle\" de 2026.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias alta: AFFO (metrica estandar de la industria REIT) reportada y guiada directamente por la propia empresa (a diferencia de PLD, donde se tuvo que estimar), 97% de ingresos de operaciones de propiedad recurrentes con backlog contratado de 54bn USD - visibilidad excepcional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "AFFO guiado 2026: 11.00-11.17 USD por accion (punto medio 11.085), explicitamente un \"anio valle\" segun la propia gerencia por la salida de DISH, costos de refinanciamiento y la caida del segmento Services, antes de retomar un crecimiento normalizado de aprox 7% FX-neutral en 2027.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex mixto: mantenimiento relativamente bajo por torre (modelo multi-inquilino de alto margen incremental) mas capex de crecimiento en nuevas torres, densificacion internacional 5G, y expansion de centros de datos CoreSite para capturar demanda de IA.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Asignacion de capital disciplinada: dividendos (14 anios consecutivos de aumento, yield 4.24%), reciclaje de capital via la venta del negocio en India (2.5bn USD usados para reducir deuda), reinversion en CoreSite-densificacion 5G, apalancamiento manejado dentro del rango objetivo propio aunque en su extremo superior (4.9x de 3-5x).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E GAAP 23.73x poco relevante para una REIT. La metrica correcta, P/AFFO, es aprox 15.25x (precio 169.00 USD entre AFFO guiado 2026 de 11.085 USD) - notablemente POR DEBAJO del rango historico propio de American Tower (frecuentemente 20-25x o mas en anios de crecimiento normal), reflejo del esceptismo del mercado sobre el \"anio valle\" de 2026 antes de la reaceleracion guiada a 2027.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco (Escenario A adoptado, DDM sobre AFFO por accion con beta sustituto, descontado al costo de equity) = 199.2 USD por accion. Ver Dashboard columna Notas para el detalle completo de la metodologia y el gotcha de beta degenerado (mismo patron ya documentado con VZ-KO-T).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad +17.9% (Escenario A adoptado) frente al precio actual de 169.00 USD - primer resultado positivo de DCF-DDM entre las ultimas empresas analizadas (LIN y PLD dieron negativo). Direccionalmente consistente con el consenso de 27 analistas (+27.5%, precio objetivo 215.48 USD), aunque el consenso es mas optimista que el modelo bottom-up.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de infraestructura inalambrica-centros de datos global enorme y en expansion estructural: densificacion 5G continua, demanda de fixed wireless, y una nueva ola de demanda de infraestructura de IA (interconexion, colocacion) que beneficia directamente al segmento CoreSite.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada extremadamente altas: sitiar una torre nueva requiere permisos-zonificacion-superacion de oposicion comunitaria (proceso largo e incierto), contratos de arrendamiento de suelo de decadas de plazo, y capital intensivo - una escala como la de American Tower es practicamente imposible de replicar hoy desde cero.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad: moderada y estable entre los tres grandes de EEUU (American Tower, Crown Castle, SBA Communications), oligopolio maduro. Poder de clientes: relevante, los 4 clientes mas grandes representan 59% de los ingresos de propiedad (T-Mobile 18%, AT&T 17%, Verizon 14%, Telefonica 10%) - la disputa con DISH demuestra que el riesgo de credito-consolidacion de clientes es real. Nuevos entrantes: amenaza muy baja. Sustitutos: amenaza baja en el horizonte relevante (riesgo de muy largo plazo de conectividad satelital directa-a-dispositivo aun incipiente).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Historicamente de baja ciclicidad (ingresos contractuales de largo plazo con escaladores) pero atravesando una disrupcion real de corto-mediano plazo por consolidacion de clientes (salida de DISH, cola de Sprint-T-Mobile) - el \"anio valle\" de 2026 es evidencia de que el modelo no es completamente inmune a shocks de concentracion de clientes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio-pais diversificado geograficamente (EEUU-Canada, Latinoamerica, Europa, Africa-APAC, tras la salida de India) pero la propia salida de India (2024, por desafios estructurales incluyendo el default de Vodafone Idea) demuestra que el riesgo de ejecucion-regulatorio en mercados emergentes es real y puede forzar un repliegue estrategico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion real a tipo de cambio por las operaciones en Latinoamerica, Africa y Europa (reducida tras la salida de India en 2024, pero aun relevante) - la propia gerencia guia el crecimiento normalizado de 2027 explicitamente \"FX-neutral\", reconociendo el ruido cambiario en las cifras reportadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion de clientes relevante y un riesgo real, no solo teorico: los 4 clientes mas grandes representan 59% de los ingresos de propiedad (T-Mobile 18%, AT&T 17%, Verizon 14%, Telefonica 10%). La terminacion-default de DISH (fuera del top4 pero con impacto material) y el litigio en curso confirman que este riesgo se materializa en la practica, no solo en el papel.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico bajo-moderado en el horizonte relevante: las torres siguen siendo infraestructura necesaria para cobertura inalambrica, aunque la conectividad satelital directa-a-dispositivo (Starlink direct-to-cell, AST SpaceMobile) podria reducir la demanda de torres en areas muy rurales-remotas en el muy largo plazo. El negocio de centros de datos enfrenta riesgo competitivo-tecnologico propio (autoconstruccion de hyperscalers vs colocacion de terceros).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Huella ambiental directa de las torres es modesta comparada con REITs de bienes raices tradicionales, pero el negocio de centros de datos (CoreSite) aÃ±ade intensidad energetica-hidrica relevante ligada al crecimiento de demanda de IA.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Catalizadores-riesgos pendientes: desenlace del litigio con DISH; confirmacion de que el \"anio valle\" de 2026 efectivamente se revierte hacia el crecimiento normalizado guiado de aprox 7% en 2027; continuidad del momentum de arrendamiento record en CoreSite ligado a demanda de IA.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Datos especificos de compras-ventas de insiders no investigados con profundidad esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura favorable: consenso de Compra entre 27 analistas, precio objetivo 215.48 USD (aprox +27.5% sobre el precio actual) - mas alcista que el DDM bottom-up (+17.9%) pero direccionalmente consistente (ambos positivos), a diferencia de LIN y PLD donde el consenso divergia en signo del DDM bottom-up.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.945945945945946,
+    "recomendacion": "COMPRAR - negocio de infraestructura esencial de la mas alta calidad documentado entre las REITs del proyecto hasta ahora (torres de telecomunicaciones, backlog contratado de 54bn USD con escaladores, oligopolio de facto junto a Crown Castle-SBA). El beta reportado (0.21) es estadisticamente confiable pero economicamente degenerado (mismo gotcha ya documentado con VZ-KO-T) - se uso un beta sustituto razonado (Hamada, no apalancado 0.80) que da un DDM sobre AFFO con Margen de Seguridad +17.9%, direccionalmente consistente con el consenso de 27 analistas (+27.5%). El P/AFFO actual (15.25x) esta notablemente por debajo del rango historico propio de American Tower (20-25x o mas), reflejo del esceptismo del mercado sobre el \"anio valle\" guiado para 2026 (terminacion del contrato con DISH, costos de refinanciamiento, caida de Services) antes de que se reanude el crecimiento normalizado guiado de aprox 7% en 2027. Riesgo real a monitorear: concentracion de clientes (4 clientes = 59% de los ingresos de propiedad) y el desenlace del litigio con DISH.",
+    "tesis": "Lider global indiscutido de infraestructura de torres de telecomunicaciones con un moat casi inreplicable y 54bn USD de ingresos futuros contractualmente comprometidos, cotizando con un descuento inusual sobre su propio multiplo historico por temor del mercado a un 2026 de transicion que la propia gerencia ya anticipa que se revierte en 2027."
+  }
+}

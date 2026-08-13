@@ -1,0 +1,259 @@
+{
+  "empresa": "AppLovin Corporation",
+  "ticker": "APP",
+  "sector": "Tecnologia / Publicidad Digital (AdTech impulsado por IA)",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Plataforma de publicidad digital impulsada por IA (motor AXON 2.0) que conecta anunciantes con audiencias via mas de mil millones de dispositivos, procesando mas de 2 millones de subastas de anuncios por segundo. Tras vender su negocio de estudios de videojuegos moviles (10 estudios, ~USD 900M-1.4bn) en 2025, ahora es una plataforma PURA de publicidad, expandiendose de gaming movil hacia e-commerce (AXON Ads Manager, lanzado a disponibilidad general fines de jun-2026, mercado objetivo ~USD 170bn de publicidad retail).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de tecnologia de IA propietaria (AXON 2.0) con ventaja de datos-escala dificil de replicar (mas de mil millones de dispositivos, 2M+ subastas por segundo), aunque bajo escrutinio activo de reguladores-vendedores en corto sobre la legitimidad de sus practicas de datos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider en publicidad programatica de gaming movil, expandiendose agresivamente hacia e-commerce donde compite con Meta-Google-Amazon Ads en un mercado mucho mas grande y disputado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Fuerte, reflejado en margenes extraordinarios (operativo 77.74%), aunque el \"miss\" reciente de 2T2026 (atribuido a timing de mejoras del modelo, no a competencia de precios) introduce cierta incertidumbre sobre la consistencia trimestral.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO fundador Adam Foroughi ejecuto un pivote estrategico mayor y bien recibido por el mercado (venta completa del negocio de gaming movil en 2025 para convertirse en plataforma pura de publicidad), FCF creciendo de USD 412M en FY2022 a USD 4.53bn TTM (mas de 10x en 4 anos).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership ALTO (20.24%, uno de los mas altos del Dashboard, reflejo de una empresa fundador-liderada con skin in the game real).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de doble clase de acciones que preserva el control del fundador Adam Foroughi, tipica de empresas tecnologicas fundador-lideradas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Bajo escrutinio intenso de CUATRO reportes de vendedores en corto distintos (Fuzzy Panda, Culper, Muddy Waters, CapitalWatch) desde feb-2025 con alegaciones serias (practicas de datos, churn de anunciantes, hasta lavado de dinero) - la empresa contrato una firma legal para investigar y exigio retractaciones; la investigacion de la SEC sobre las practicas de datos de AXON se CERRO SIN ACCION justo antes de esta ficha, un evento de-riesgo material reciente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda neta modesta (~USD 462M, deuda total USD 3.52bn vs caja USD 3.05bn, mejorando trimestre a trimestre), calificacion crediticia publica no identificada. Deuda/Patrimonio 1.11x sobre un patrimonio real pero relativamente delgado en relacion a la utilidad (USD 3.16bn patrimonio vs USD 4.41bn utilidad neta TTM, ROE 203.68% resultante) - patron de patrimonio delgado similar al ya documentado con BMY-ITW-AMGN, usar ROIC (66.03%) en su lugar.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 4.30, prueba acida 4.30 (identicas, modelo de negocio de plataforma digital pura sin inventario) - de las MEJORES liquideces de todo el Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Sin calificacion crediticia publica identificada, deuda modesta y en tendencia decreciente reduce el riesgo de refinanciamiento.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles USD 1.88bn sobre activos totales de USD 8.27bn (22.7%) - moderado, razonable para una empresa tecnologica con historial de M&A limitado tras la venta del negocio de gaming.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 87.65%, margen operativo 77.74%, margen neto 64.57% - perfil de margenes EXTRAORDINARIO, de los mas altos de cualquier empresa del Dashboard completo, tipico de una plataforma de software publicitario pura tras desprenderse del negocio de gaming de menor margen.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 203.68% (inflado por patrimonio delgado, usar ROIC). ROIC 66.03% vs WACC propio 16.68% - spread extraordinario de ~49pp, de los mas altos de todo el Dashboard. ROA 61.99%.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 0.826x (Ingresos TTM USD 6.83bn / Activos totales USD 8.27bn), razonable para una plataforma digital.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR historico de ingresos muy fuerte, impulsado por el crecimiento organico real de AXON 2.0 (ingresos TTM +60.6%, utilidad neta +81.5%) - no hay indicios de distorsion de base COVID relevante dado que el crecimiento explosivo es reciente (post-transformacion a plataforma pura de publicidad en 2024-2025), reflejo de ejecucion real, no de un efecto de base historica.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento historicamente muy fuerte, PERO con el primer \"miss\" de guia desde la salida a bolsa en 2T2026 (revenue real USD 1.92bn vs estimado USD 1.94bn, un miss modesto de ~1% en terminos absolutos pero que genero una caida de accion de -20% a -21%) - la empresa atribuyo el miss a timing de mejoras del modelo, no a una desaceleracion fundamental (crecimiento interanual aun asi de 53%), pero introduce una mancha real en el historial de ejecucion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Expansion hacia e-commerce via AXON Ads Manager (plataforma self-serve lanzada a disponibilidad general fines de jun-2026, apuntando a un mercado de publicidad retail de ~USD 170bn, mucho mas grande que el gaming movil), guia de 3T2026 implica ~48% de crecimiento continuado.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM USD 4.53bn vs utilidad neta TTM USD 4.41bn - brecha minima (1.03x), calidad de ganancias EXCEPCIONAL, de las mas limpias de todo el Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD 4.53bn (esencialmente igual al OCF dado el capex practicamente nulo), en tendencia de crecimiento EXTRAORDINARIA (desde USD 412M en FY2022, mas de 10x en 4 anos), margen FCF de 72.46% en FY2025 - de los mas altos de cualquier empresa del Dashboard completo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex PRACTICAMENTE NULO (USD 0 TTM) - modelo de negocio de software puro sin necesidad de inversion de capital fisico, el perfil mas asset-light de todo el Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Sin dividendo (modelo de reinversion en crecimiento, apropiado dada la etapa de la empresa), venta estrategica del negocio de gaming para enfocar capital-atencion en la plataforma de publicidad de mayor margen-crecimiento.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 23.90-24.50x (razonable dado el crecimiento), Forward P/E 14.88-17.34x (notablemente mas bajo, PEG de apenas 0.36 sugiere una valoracion muy atractiva relativa al crecimiento esperado segun metricas tradicionales), P/FCF 22.98x, EV/EBITDA 19.20x - multiplos que lucen razonables o incluso baratos para el perfil de crecimiento-margenes, ya reflejando la caida de -58% desde el maximo de 52 semanas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, growth 30%, conservador frente al crecimiento reciente dado el reciente miss de guia y la incertidumbre de la expansion a e-commerce, beta literal 2.47 SIN sustituir dado que es una volatilidad real ya demostrada -caida de 58% desde maximos-, WACC 16.68%): USD 283.8/accion, MS -8.8%. Escenario B (sensibilidad con growth 40%, mas cercano al momentum guiado de 3T2026 de ~48%, no adoptado): USD 395.4/accion, MS +27.1% - ambos escenarios razonablemente cercanos a valor justo o positivos, sin degeneracion evidente pese al beta extremadamente alto (el mas alto del Dashboard completo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-8.8% (Escenario A adoptado, precio actual USD 311.35 vs valor intrinseco USD 283.8) - practicamente en valor razonable, dentro de la banda de MANTENER, con upside real si el crecimiento se sostiene cerca de la guia (+27.1% en Escenario B).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM ampliado dramaticamente por la expansion hacia e-commerce (mercado de publicidad retail ~USD 170bn, mucho mas grande que el mercado de publicidad de gaming movil original), industria de adtech-IA en expansion estructural fuerte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas para la tecnologia de IA-datos a la escala de AXON (mas de mil millones de dispositivos, 2M+ subastas por segundo), aunque el modelo de negocio de intermediacion publicitaria en si enfrenta competencia intensa de gigantes establecidos (Meta, Google, Amazon).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta especialmente en la nueva expansion a e-commerce (Meta, Google, Amazon Ads ya dominantes en ese TAM mucho mayor), poder de proveedores (plataformas de datos como Meta-Snap-TikTok-Google, cuyos terminos de servicio son precisamente el centro de la controversia de los shorts) alto, poder de compradores (anunciantes) moderado-alto dado el churn documentado por Muddy Waters, amenaza de sustitutos moderada, barreras de entrada altas en tecnologia pero mercado disputado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "La publicidad digital es sensible al ciclo de gasto de marketing de las empresas, aunque el segmento de gaming movil-performance marketing tiende a ser mas resiliente que la publicidad de marca tradicional.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "ALTO pero PARCIALMENTE MITIGADO: la investigacion de la SEC sobre las practicas de datos de AXON se CERRO SIN ACCION justo antes de esta ficha (evento de-riesgo material y muy reciente), aunque persiste el riesgo de cambios en las politicas de privacidad de las plataformas socias (Meta, Apple ATT, Google) que podrian afectar la tecnologia de \"identifier bridging\" alegada por los shorts.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria moderada dado el alcance internacional de la publicidad digital, aunque no se identifico como un riesgo central en esta investigacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Alegado por Muddy Waters un churn de anunciantes de ~23% (disputado por la propia empresa, que reportadamente afirma no tener churn) - senal de posible concentracion-rotacion de clientes publicitarios que merece seguimiento.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo real de que la tecnologia de \"identifier bridging\" alegada quede obsoleta o prohibida por cambios futuros en las politicas de privacidad de plataformas socias (Apple ATT ya fue disenado especificamente para prevenir tecnicas como esta segun los shorts) - riesgo estructural genuino a monitorear pese a la resolucion favorable de la SEC.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "RIESGO REPUTACIONAL SEVERO Y AUN NO COMPLETAMENTE RESUELTO: cuatro reportes de vendedores en corto separados (Fuzzy Panda, Culper, Muddy Waters, CapitalWatch) desde feb-2025, incluyendo alegaciones de lavado de dinero via conexiones de un accionista mayor con el presidente de Prince Group - alegaciones extremadamente serias, aunque la SEC ya cerro su investigacion sobre las practicas de datos SIN ACCION. Riesgo reputacional persiste incluso post-resolucion regulatoria.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Continuidad de la expansion de AXON Ads Manager en e-commerce (plataforma self-serve recien lanzada a disponibilidad general); guia de 3T2026 de ~48% de crecimiento a confirmar; posible resolucion adicional de las controversias de los shorts restantes; proximo reporte trimestral.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Sin datos especificos de transacciones recientes identificados en esta investigacion puntual, aunque el insider ownership alto (20.24%) sugiere alineacion estructural solida del equipo fundador.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso fuertemente positivo (Buy, 32 analistas, objetivo promedio USD 553.47-563.03, +77.77% a +81% de alza) - MUY por encima de ambos escenarios de este DCF, aunque varios analistas recortaron precios objetivo tras el miss de 2T2026 reciente, sugiriendo que el consenso aun no ha capturado completamente la nueva realidad post-miss.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.72972972972973,
+    "recomendacion": "MANTENER",
+    "tesis": "AppLovin tiene margenes-FCF extraordinarios tras transformarse en plataforma pura de publicidad de IA, con la SEC recien despejando su investigacion sobre AXON, pero persiste un riesgo reputacional serio (alegacion de lavado de dinero no resuelta) y el DCF es sensible al growth rate (-8.8% a +27.1% segun escenario) - MANTENER."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "AutoZone, Inc.",
+  "ticker": "AZO",
+  "sector": "Consumo Discrecional / Retail Especializado (Autopartes)",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Retail especializado de autopartes con dos canales: DIY (venta directa al consumidor, historicamente mayoritario) y DIFM/Commercial (talleres mecanicos, apenas ~4-5% de cuota de un mercado fragmentado grande, creciendo mas rapido +10.4% domestico reciente). Expansion internacional en Mexico (913 tiendas) y Brasil (152 tiendas) como frentes de crecimiento adicionales.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de escala: red de distribucion con mega hubs, mayor densidad de tiendas del sector (6700+, liderazgo en visitas de consumidor con 32.3% de cuota), poder de compra sobre proveedores, marca reconocida y conveniencia de ubicacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Co-lider con OReilly Automotive en un mercado esencialmente duopolico (AutoZone lidera en visitas de consumidor y numero de tiendas, OReilly lidera en ingresos totales segun algunas fuentes). Advance Auto Parts en declive estructural (523 tiendas corporativas y 204 independientes cerradas en la reestructuracion de nov-2024), reduciendo la competencia de un tercer jugador relevante.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Fuerte y ya demostrado: el CEO declaro explicitamente que trasladara los costos de aranceles al consumidor (\"we will pass those tariff costs back to the consumer\"), consistente con un historial de margen bruto estable en el rango 51-52% pese a la presion reciente.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Uno de los historiales de asignacion de capital mas agresivos y consistentes de EEUU: USD 38.9bn en recompras acumuladas desde 1998, SIN pagar dividendo nunca, reduciendo acciones en circulacion de mas de 100 millones a apenas 16.33 millones - motor principal del retorno historico al accionista, financiado en gran parte con deuda de grado de inversion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO Philip Daniele participa en el plan de compra de acciones ejecutivo (Sixth Amended Executive Stock Purchase Plan), pero el patron reciente es de ventas netas (10 transacciones en 5 anos, 0 compras discrecionales de mercado) - neutral, tipico de un ejecutivo de mega-cap maduro sin senal fuerte en ninguna direccion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones, sin estructura de control dual ni voto diferenciado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Reporta metricas operativas detalladas (same-store sales domesticas vs internacionales, desglose DIFM vs DIY), guia trimestral consistente, aunque la comunicacion sobre el impacto de aranceles genero cierta confusion en el mercado (el CFO dijo en mayo que el impacto seria minimo, luego se confirmaron cargos LIFO no recurrentes de USD 20M en Q3 y ~USD 30M adicionales esperados en Q4 2026).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA ~2.05x (deuda financiera total USD 9.02bn, caja USD 0.25bn, EBITDA TTM USD 4.275bn) - saludable, consistente con la calificacion de grado de inversion BBB/Baa2 (\"debt-to-EBITDA por debajo de 3.0x\"). Deuda/Patrimonio NO CALCULABLE de forma significativa: patrimonio TTM NEGATIVO (-USD 2.79bn) - segunda empresa consecutiva del Dashboard (tras ABBV) con patrimonio contable negativo, aqui con un apalancamiento sobre EBITDA mas sano que en ABBV.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.89, prueba acida apenas 0.14 (extremadamente baja, aunque tipica de un retailer donde el inventario domina el activo corriente - no necesariamente alarmante para este modelo de negocio).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Grado de inversion (S&P BBB, Moodys Baa2), USD 2.2bn de capacidad de revolver disponible, cumplimiento de todos los covenants confirmado en el 10-Q mas reciente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill de apenas USD 302.65M (minimo, contraste marcado con ABBV) - el balance esta dominado por inventario y activos operativos reales de tiendas-distribucion, NO por intangibles de M&A. La causa del patrimonio negativo es la recompra agresiva de acciones, no deterioro de activos - calidad de activos alta pese al patrimonio negativo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM 51.75% (comprimido recientemente por cargos LIFO no-en-efectivo relacionados a aranceles: ~USD 20M en Q3 2026, ~USD 30M adicionales esperados en Q4), margen operativo 18.02%, margen neto 12.40% - solidos y estables historicamente, presion reciente parece puntual-contable mas que estructural.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE no informativo (patrimonio negativo). ROIC 26.06% (Finviz) - de los mas altos del Dashboard, muy por encima del WACC propio (8.33%), spread excepcional que confirma una economia de negocio genuinamente superior. ROA 12.54%.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 0.9555x (Ingresos TTM USD 19.99bn / Activos totales USD 20.92bn), razonable para un retailer especializado con red de distribucion propia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de Ingresos 5y de 8.44% (Finviz), consistente y sin distorsion aparente de un evento puntual (a diferencia del cluster farmaceutico reciente). EPS historico 5y +15.03%, inflado por recompras agresivas y NO representativo del crecimiento del negocio a nivel de empresa total.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Same-store sales positivas y consistentes en multiples trimestres, ventas comerciales domesticas +10.4% en el periodo reciente, crecimiento historicamente estable sin ciclos abruptos (aunque el ano fiscal actual muestra presion de margen puntual por aranceles-LIFO, no de ingresos).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Expansion de tiendas en Mexico (913) y Brasil (152) desde una base aun pequena frente a las 6700+ tiendas totales, penetracion comercial-DIFM de apenas 4-5% de un mercado fragmentado grande, flota vehicular de EEUU en edad promedio record (12.8-13 anos) - viento de cola estructural independiente del ciclo de venta de autos nuevos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM USD 3.07bn vs utilidad neta TTM USD 2.48bn - calidad de ganancias solida, sin distorsion tipo IPRD ni cargos no recurrentes severos, brecha normal explicada por D&A.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD 1.63bn, en declive marcado desde USD 2.54bn en FY2022 (-36%) - PERO la causa es un aumento deliberado y sostenido de capex (el OCF se mantuvo estable en USD 2.9bn-3.2bn todo el periodo, sin deterioro operativo). FCF Yield comprimido a 3.31%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex/Ventas escalo de 4.1% (FY2022, USD 672M) a 7.20% (TTM, USD 1439M), mas que duplicado en 4 anos de forma consistente ano tras ano sin senales de plateau - claramente capex de CRECIMIENTO (nuevos mega-hubs de distribucion, expansion Mexico-Brasil), no de mantenimiento, lo que aumenta la incertidumbre sobre cuando el FCF se normalizara.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "100% del capital excedente historicamente destinado a recompras (USD 38.9bn acumulados desde 1998), CERO dividendos pagados en la historia de la empresa - modelo de asignacion de capital extremo pero consistente y efectivo por casi tres decadas.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 20.78-20.90x, Forward P/E 17.24-18.11x, P/FCF 30.21x (elevado, reflejo directo del FCF deprimido por el capex de crecimiento, no necesariamente de sobrevaloracion real del negocio subyacente), EV/EBITDA ~13.59x.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, FCF base = TTM USD 1.63bn, conservador dado que el capex elevado parece una tendencia estructural de varios anos sin senales de reversion cercana): USD 2325.02/accion, MS -23.11%. Escenario B (sensibilidad, FCF base = promedio de los ultimos 5 anios USD 2.01bn, no adoptado): USD 2981.14/accion, MS -1.41% - la brecha de ~22pp entre escenarios es la mas grande del Dashboard atribuible a un UNICO supuesto (si el capex actual es permanente o transitorio), lo que hace este DCF excepcionalmente fragil.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-23.11% (Escenario A adoptado, precio actual USD 3023.87 vs valor intrinseco USD 2325.02) - cae en zona de VENDER/REDUCIR del framework, pero con una reserva metodologica importante: el Escenario B de sensibilidad (FCF normalizado) da apenas -1.41%, practicamente valor razonable. Beta literal degenerado (0.34) sustituido por 0.75 + prima cualitativa +1.5pp por patrimonio negativo, WACC 8.33%.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de autopartes de reposicion en EEUU ampliado por expansion en Mexico-Brasil, con tailwind estructural de la flota vehicular en edad promedio record (12.8-13 anos) - independiente del ciclo economico y del ciclo de venta de autos nuevos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas: escala de red de distribucion (mega hubs), densidad de tiendas, relaciones de largo plazo con proveedores, marca reconocida - dificil de replicar, evidenciado por el declive forzado de Advance Auto Parts (reestructuracion de cientos de tiendas por escala insuficiente).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad duopolica intensa con OReilly Automotive (con Advance Auto Parts debilitandose como tercer jugador), poder de proveedores moderado (diversificacion de fuentes ante aranceles en curso), poder de compradores bajo-moderado (base de clientes muy fragmentada, DIY y talleres pequenos), amenaza de sustitutos baja en el corto-mediano plazo, barreras de entrada altas para nuevos jugadores.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Negocio de reparacion-mantenimiento de vehiculos relativamente defensivo: la gente sigue necesitando reparar autos en recesiones, a veces MAS porque posponen la compra de uno nuevo - aunque no es completamente inmune al gasto discrecional del consumidor.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "ALTO Y ACTIVO: aranceles sobre importaciones de autopartes son la fuente principal de presion de margen actual (cargos LIFO no-en-efectivo de USD 20M en Q3 2026, ~USD 30M adicionales esperados en Q4), con riesgo real de escalada arancelaria futura.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real y creciente por la expansion en Mexico (913 tiendas) y Brasil (152 tiendas) - \"vientos en contra macroeconomicos en Mexico\" ya mencionados por la propia empresa como friccion activa sobre el crecimiento internacional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes muy diversificada (millones de consumidores individuales DIY y decenas de miles de talleres mecanicos independientes) sin concentracion de cliente unico - riesgo bajo en esta dimension.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "La transicion a vehiculos electricos (EVs requieren menos partes de mantenimiento-reemplazo: sin cambios de aceite, menos piezas moviles) es un riesgo estructural de LARGO plazo, pero mitigado en el corto-mediano plazo por la lenta penetracion de EVs en la flota total circulante y el ciclo de vida largo de los vehiculos (12.8-13 anos promedio).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG relativamente bajo frente al resto del Dashboard, sin litigios activos severos ni controversias mayores identificadas en la investigacion de esta ficha.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo reporte de resultados el 22-sep-2026 (cierre de ano fiscal FY2026, primera guia de FY2027); evolucion de los cargos LIFO adicionales por aranceles esperados en Q4 (~USD 30M); continuidad del ritmo de expansion de tiendas en Mexico-Brasil.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Patron de venta consistente del CEO Daniele (10 transacciones en 5 anos, 0 compras discrecionales de mercado, aunque participa en el plan de compra ejecutivo obligatorio) - sin senal de compra fuerte, tampoco una senal de alarma severa.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso MUY optimista: calificacion Strong Buy de 27 analistas, objetivo promedio USD 3950-3962 (+30.65% de alza sobre el precio actual) - diverge AMPLIAMENTE del DCF propio en direccion OPUESTA (Escenario A -23.11%), una de las brechas DCF-consenso mas grandes del Dashboard junto con SNDK-COIN-HOOD.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4594594594594597,
+    "recomendacion": "REDUCIR - VALORACION EXIGENTE (DCF FRAGIL)",
+    "tesis": "AutoZone es un negocio excepcional (ROIC 26%, moat de escala, capital allocation historico sobresaliente) pero el DCF resulta extremadamente sensible al supuesto de capex de crecimiento (MS entre -23.11% y -1.41% segun se normalice o no) y el patrimonio negativo mas la valoracion actual dejan poco margen de error - REDUCIR con reserva metodologica explicita."
+  }
+}

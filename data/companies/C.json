@@ -1,0 +1,259 @@
+{
+  "empresa": "Citigroup Inc",
+  "ticker": "C",
+  "sector": "Servicios Financieros - Banca Universal Global (Money Center Bank)",
+  "fecha_analisis": "46240",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Cinco segmentos: Services (banca transaccional-treasury en mas de 90 paises, mejor trimestre de su historia en 2T26, +18 por ciento interanual), Markets (trading renta fija y acciones, +17 por ciento), Banking (banca de inversion, +34 por ciento), US Personal Banking (tarjetas), Wealth (gestion patrimonial, noveno trimestre consecutivo de crecimiento). Diversificacion excelente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Red de transaccion-treasury (TTS) presente en mas de 90 paises, relaciones institucionales globales unicas entre bancos de EEUU - reconfirmado como pilar de crecimiento en el Investor Day de mayo-2026.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Detras de JPMorgan en escala y rentabilidad, pero con una franquicia de Services-TTS dificil de replicar. Turnaround bajo Jane Fraser mejorando la posicion relativa con rapidez: ROTCE de 13.0 a 13.1 por ciento en 2T26, ya por encima del objetivo propio de la empresa para FY2026 (10 a 11 por ciento).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios moderado, tipico de un banco universal grande - mejor en Services y Wealth (relaciones institucionales-patrimoniales) que en tarjetas de consumo (competencia intensa de mercado).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Recompras muy agresivas (13.25 mil millones de dolares en 2025, 4 mil millones solo en 2T26, nueva autorizacion de 30 mil millones anunciada en el Investor Day de mayo-2026, mas de 40 mil millones devueltos en capital desde 2022). Dividendo subido 12 por ciento (a 0.67 dolares trimestral) tras el stress test de la Fed de 2026. TBVPS creciendo con fuerza (100.89 dolares, +7 por ciento interanual).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Jane Fraser asumio ademas el rol de Chair del Consejo a fines de 2025, consolidando el liderazgo del turnaround - senal de continuidad y responsabilidad clara sobre los resultados.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin control familiar ni doble clase - gobernanza estandar de banco grande.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guidance detallado por segmento con objetivos de ROTCE especificos (Services mid-20s, Markets mas de 13 por ciento, Banking mid a high teens, Wealth mas de 20 por ciento, Cards low-20s); el Investor Day de mayo-2026 actualizo con claridad los objetivos de mediano y largo plazo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "NO APLICA de forma tradicional a un banco: la gran mayoria del fondeo (depositos promedio de 1.5 billones de dolares, +12 por ciento interanual) son depositos de clientes, no deuda corporativa. Se uso el ratio CET1 (12.8 por ciento, muy por encima del minimo regulatorio de 11.6 por ciento) como indicador de solidez de capital mas relevante, mismo criterio ya usado con JPM, HOOD y NU.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente tradicional no aplica a un banco (activos y pasivos dominados por prestamos-depositos, no capital de trabajo convencional). Se uso el CET1 y la base de depositos estable y creciente como indicadores de liquidez mas relevantes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Rating credicticio investment grade solido y en mejora: Moody's A3 estable, S&P BBB mas estable, Fitch A con outlook revisado a Positivo en 2026 - acceso amplio a mercados de deuda mayorista.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales 2.895 billones de dolares (+10 por ciento interanual), TBVPS creciendo consistentemente por retencion de utilidades y recompras.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen operativo TTM 14.30 por ciento; margen neto TTM calculado 20.14 por ciento (utilidad neta TTM 16460 millones sobre ingresos TTM 81710 millones - se recalculo porque el margen neto de 9.35 por ciento que mostraban Finviz-stockanalysis parecia una cifra desactualizada previa al fuerte 2T26, mismo tipo de rezago de dato ya visto con el P a E de AMD tras sus resultados). Efficiency ratio mejorando rapido: 57.4 por ciento en 2T26 vs 62.7 por ciento un anio antes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM reportado 8.31 por ciento (promedio de varios trimestres, incluye periodos pre-turnaround mas debiles), pero el ROTCE del trimestre mas reciente (13.0 a 13.1 por ciento, 2T26) ya supera el objetivo propio de la empresa para FY2026 (10 a 11 por ciento) y esta dentro del nuevo objetivo de mediano plazo 2027-2028 (11 a 13 por ciento). Costo de equity propio estimado aprox 9.55 por ciento - el ROTCE actual ya esta claramente por encima, senal de creacion de valor.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Concepto de rotacion de activos poco informativo de forma aislada para un banco (balance dominado por la cartera de prestamos-inversiones, no por ventas) - ver DuPont en fila 33 a 35 del Dashboard, calculado igual que con JPM.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Revenue creciendo consistentemente (71.88 mil millones de dolares en 2021 a 85.23 mil millones en 2025, TTM 81.71 mil millones). Utilidad neta mas volatil por partidas no recurrentes (reversas de reservas COVID en 2021, cargos de reestructuracion y FDIC special assessment en 2023), pero en clara tendencia de mejora reciente (utilidad neta 2T26 de 5.8 mil millones de dolares, +45 por ciento interanual).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Ciclico en el segmento Markets-trading, pero Services y Wealth aportan mayor estabilidad; el turnaround de Fraser esta mejorando la consistencia general trimestre a trimestre.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Objetivos de ROTCE de mediano y largo plazo actualizados al alza en el Investor Day de mayo-2026 (11 a 13 por ciento para 2027-2028, 14 a 15 por ciento para 2029-2031), progreso hacia el cierre de los consent orders regulatorios, eventual desconsolidacion e IPO de Banamex en Mexico.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Concepto de FCF operativo tradicional no aplica de forma limpia a un banco (los flujos de caja operativos reflejan cambios de balance de prestamos-depositos, no generacion de caja distribuible convencional).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "No aplica de forma tradicional a un banco; se prioriza el TBVPS y el ROTCE como metricas de generacion de valor, mismo criterio ya usado con JPM.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex de un banco es marginal (inversion en tecnologia-oficinas), no es un renglon central del analisis.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Recompras muy agresivas y crecientes (13.25 mil millones de dolares en 2025, nueva autorizacion de 30 mil millones), dividendo subido 12 por ciento tras el stress test de la Fed, retencion de utilidades para seguir creciendo el TBVPS - uso de capital claramente orientado a devolver valor a accionistas mientras se ejecuta el turnaround.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P a E TTM 14.60 a 14.96x, forward P a E 10.57 a 11.79x, P a TBV implicito 1.34x (calculado con TBVPS de 100.89 dolares) - multiplo de valor en libros tangible razonable, no exigente, para un banco en pleno turnaround de rentabilidad.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Metodologia de banco universal grande, igual criterio que JPM: se uso un MODELO DE GORDON GROWTH SOBRE PATRIMONIO TANGIBLE en vez de un DCF de flujo de caja tradicional. Formula: Valor por accion = TBVPS x (ROTCE menos g) sobre (Costo de equity menos g). TBVPS = 100.89 dolares (2T26, +7 por ciento interanual). ROTCE reportado en el trimestre mas reciente: 13.0 a 13.1 por ciento (2T26), ya por encima del objetivo propio de la empresa para FY2026 (10 a 11 por ciento) y dentro del nuevo objetivo de mediano plazo 2027-2028 (11 a 13 por ciento) comunicado en el Investor Day de mayo-2026 (el objetivo de largo plazo 2029-2031 es aun mas alto, 14 a 15 por ciento). Se adopto un ROTCE normalizado de 12.5 por ciento (punto medio conservador, levemente por debajo del print actual de 13 por ciento para no anclar en un solo trimestre bueno, pero dentro del nuevo rango de objetivo de mediano plazo de la empresa). Costo de equity via CAPM: beta 1.10 (consistente entre Finviz y stockanalysis), Rf 3.5 por ciento, ERP 5.5 por ciento, costo de equity 9.55 por ciento. Terminal g 4 por ciento. Valor: 100.89 por (0.125 menos 0.04) sobre (0.0955 menos 0.04) = 154.44 dolares por accion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad +14.17 por ciento (precio actual 135.27 dolares vs 154.44 dolares del modelo) - banda de Mantener o esperar mejor punto de entrada, MUY BIEN CROSS-VALIDADO contra el consenso de analistas independiente (20 a 28 analistas, Buy, objetivo promedio 154.50 a 155.55 dolares, +14 a +16 por ciento de alza) - una de las mejores reconciliaciones de este Dashboard entre el modelo propio y el consenso de mercado. Sanity check cruzado: el P a TBV implicito por la formula en reversa con ROTCE 12.5 por ciento es 1.53x, contra el P a TBV de mercado actual de 1.34x - el mercado paga un multiplo algo menor al que justificaria la rentabilidad normalizada adoptada, consistente con la conclusion de modesta subvaluacion. Sensibilidad al ROTCE (mismo espiritu que JPM): con ROTCE 11 por ciento el resultado cae a 127.19 dolares, margen -5.97 por ciento; con ROTCE 14 por ciento sube a 181.78 dolares, margen +34.4 por ciento - rango amplio de -6 a +34 por ciento segun un solo supuesto cualitativo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de banca universal-transaccional global enorme, con Services-TTS como motor de crecimiento estructural (comercio global, tesoreria corporativa).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: escala de capital, licencias regulatorias globales, relaciones institucionales de decadas, infraestructura de red de transaccion en mas de 90 paises.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta entre bancos grandes (JPMorgan, Bank of America, Wells Fargo). Poder de proveedores bajo. Poder de clientes moderado (grandes corporaciones negocian, consumidores de tarjetas tienen alternativas). Amenaza de sustitutos baja-moderada (fintechs en pagos, pero la escala institucional es dificil de replicar). Barreras de entrada muy altas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad moderada-alta por el segmento Markets-trading, pero diversificada por Services-Wealth mas estables. Beta 1.10 (consistente entre Finviz y stockanalysis) refleja un riesgo sistematico moderado, menor que la mayoria de bancos regionales o de inversion puros.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Historial de multas regulatorias recurrentes desde 2020 (consent orders activos de la Fed y la OCC por deficiencias de controles internos-calidad de datos, acumulando aprox 536 millones de dolares en multas, la mas reciente de 135.6 millones en jul-2024); exposicion a mercados emergentes via Banamex en Mexico (proceso de desconsolidacion e IPO en curso).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo de tipo de cambio moderado, negocio global con operaciones en mas de 90 paises.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Baja concentracion de clientes (base diversificada institucional y de consumo), sin proveedores criticos relevantes tipo cadena de suministro.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico moderado: competencia de fintechs en pagos-tarjetas, pero la escala institucional de Services-TTS es dificil de replicar por nuevos entrantes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Historial de deficiencias de controles internos y gestion de datos (consent orders regulatorios activos desde 2020) es la senal ESG mas relevante identificada - riesgo de gobernanza-cumplimiento, no ambiental o social en sentido estricto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados de 3T26 pendientes. Progreso hacia el cierre definitivo de los consent orders (la empresa apunta a completarlo durante 2026). Avance de la desconsolidacion e IPO de Banamex.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No se identificaron transacciones puntuales relevantes de compra o venta de insiders en esta investigacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "20 a 28 analistas segun fuente, consenso Buy, objetivo promedio 154.50 a 155.55 dolares, +14 a +16 por ciento de alza - consistente con el resultado del modelo propio.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.5945945945945947,
+    "recomendacion": "MANTENER - ESPERAR MEJOR PUNTO DE ENTRADA (margen de seguridad +14.17 por ciento, muy bien cross-validado contra el consenso de analistas +14 a +16 por ciento; score 3.59 de 5, solido por diversificacion de segmentos, gobernanza limpia y recompras agresivas, penalizado por el historial de multas regulatorias y la ciclicidad de Markets)",
+    "tesis": "Banco universal global en pleno turnaround bajo Jane Fraser, con ROTCE ya superando el objetivo propio de corto plazo y avanzando hacia los nuevos objetivos de mediano-largo plazo del Investor Day 2026, TBVPS creciendo con fuerza y recompras muy agresivas; el riesgo mas distintivo frente a JPM es el historial de consent orders regulatorios por controles internos, aun sin cerrar por completo."
+  }
+}

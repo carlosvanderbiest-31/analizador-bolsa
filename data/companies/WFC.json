@@ -1,0 +1,259 @@
+{
+  "empresa": "Wells Fargo & Company",
+  "ticker": "WFC",
+  "sector": "Financiero - Banco Universal Domestico de EEUU",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Banco universal predominantemente DOMESTICO de EEUU (a diferencia de JPM-C, ya en el Dashboard, mas globales-con trading pesado): Consumer Banking and Lending, Commercial Banking, Corporate and Investment Banking, Wealth and Investment Management. Prestamos promedio +12% interanual, depositos promedio +10% interanual (2T 2026) - aceleracion genuina tras el levantamiento del tope de activos (ver fila 14).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de escala-red de sucursales-depositos en EEUU, pero GENUINAMENTE DEBILITADO durante 7 anos (2018-2025) por el tope regulatorio de activos que impidio competir por crecimiento - recien en recuperacion desde jun-2025.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "GOTCHA-CATALIZADOR MAYOR: el tope de activos de USD 1.95 BILLONES (trillion) impuesto por la Reserva Federal en 2018 (tras el escandalo de cuentas falsas) fue REMOVIDO el 3-jun-2025 tras 7 anos, junto con la terminacion de multiples ordenes de consentimiento regulatorio - un catalizador estructural genuino que recien empieza a reflejarse en el crecimiento (prestamos +12%, depositos +10% interanual en el 2T 2026).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios moderado, tipico de un banco tradicional fondeado por depositos (impulsado por margen de interes neto), sin la diferenciacion de SPGI-MCO-AXP.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Charlie Scharf (desde oct-2019) - llevado especificamente para liderar la limpieza post-escandalo, ejecuto exitosamente la remediacion regulatoria hasta su culminacion (remocion del tope de activos, terminacion de ordenes de consentimiento) - uno de los turnarounds mejor ejecutados de cualquier empresa del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders muy baja (0.21%, Finviz) - tipico de un banco mega-cap sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "GOTCHA: el antecedente de gobernanza-conducta MAS SEVERO de cualquier banco del Dashboard. El escandalo de \"cuentas falsas\" de 2016 (empleados abrieron millones de cuentas no autorizadas para cumplir metas de ventas) genero una orden de consentimiento de la Fed en 2018 que topo los activos totales en USD 1.95 billones durante SIETE ANOS - una sancion regulatoria mas severa y prolongada que cualquier otro antecedente ya documentado en el Dashboard (incl. el guilty plea penal de CDNS o los acuerdos civiles de AMAT-SNPS). Ya resuelto (tope removido jun-2025, ordenes de consentimiento terminadas), pero el antecedente historico pesa en la calificacion de esta fila.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Debt/Equity de 2.57 (Finviz) - apalancamiento tipico de un banco grande, se uso el criterio de capital regulatorio (no detallado con precision esta sesion) como indicador mas relevante, mismo criterio que JPM-MS-GS.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 0.96 (Finviz) - poco informativa en el sentido tradicional para un banco.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill de USD 24.96bn (TTM) sobre patrimonio total de USD 182.3bn (~13.7%) - moderado, no extremo. Valor en Libros por Accion USD 57.32 vs Valor TANGIBLE en Libros por Accion USD 49.38 - se uso el TBV como base del modelo, mismo criterio que JPM-MS-GS.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes: operativo 21.92%, neto 16.83% (Finviz) - razonables para un banco tradicional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "GOTCHA: trayectoria de ROTCE GENUINAMENTE EN MEJORA ESTRUCTURAL, no un pico ciclico puntual. ROTCE de FY2024 13.4% a FY2025 14.6% a un RECORD de 17.7% en el 2T 2026 - la propia gerencia confia en sostener el objetivo de mediano plazo de 17-18% (con potencial de subirlo mas). A diferencia del gotcha de rentabilidad-en-pico-trimestral ya visto en MS-GS este mismo dia (donde el trimestre reciente NO era representativo del promedio anual por razones ciclicas), aqui la mejora esta atada a un cambio REGULATORIO ESTRUCTURAL y PERMANENTE (remocion del tope de activos) - hay una base causal solida para esperar que el nivel mas alto persista, no revierta.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Metrica de rotacion de activos tradicional no aplica de forma informativa al balance de un banco - se dejo en blanco en el Dashboard, mismo criterio que JPM-MS-GS.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios de 8.60% (Finviz) usado en el Dashboard - el crecimiento de EPS a 5 anios reportado (+70.67%, Finviz) esta MASIVAMENTE INFLADO por una base deprimida de anos de escandalo-pandemia y NO debe usarse como tasa de crecimiento futura, mismo tipo de sanity-check ya aplicado a NVDA-UBER-MU-IBKR.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento historico (2018-2025) necesariamente MUY LIMITADO por el tope regulatorio de activos - no representativo de la capacidad real de crecimiento del banco. Desde la remocion del tope (jun-2025), el crecimiento se esta ACELERANDO genuinamente (prestamos +12%, depositos +10% interanual) - una inflexion positiva real, aunque aun temprana para confirmar su sostenibilidad completa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Motor de crecimiento futuro MAYOR y genuinamente unico en el Dashboard: balance SIN TOPE regulatorio por primera vez desde 2018, permitiendo competir por crecimiento de activos-depositos-prestamos como cualquier banco par (JPM-C, ya en el Dashboard) sin restriccion. Ademas: progreso continuo hacia el objetivo de ROTCE de 17-18%+, expansion en Banca Comercial-Corporativa, innovaciones como depositos tokenizados para clientes corporativos.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias historicas (2018-2025) distorsionada de una manera UNICA en el Dashboard: no por marca-a-mercado ni por M&A, sino por una restriccion REGULATORIA genuina que suprimio artificialmente el crecimiento-la capacidad de generar ganancias durante 7 anos. Ahora liberada, la trayectoria de ganancias deberia normalizarse al alza -consistente con el patron ya observado en el 2T 2026-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conceptos de FCF-conversion de EBITDA no aplican de forma limpia al modelo bancario - se dejaron en blanco en el Dashboard, mismo criterio que JPM-MS-GS. (Nota: Finviz reporta un P/FCF de 38.63x que no parece confiable-comparable para este tipo de negocio, no se uso).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Concepto de capex tradicional no es el mas relevante para este tipo de negocio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital: payout ratio de dividendo de 27.17% (Finviz, moderado), con capital adicional liberado para crecimiento-recompras ahora que el tope de activos fue removido - un cambio genuino en la flexibilidad de asignacion de capital frente a los 7 anos previos de restriccion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos NOTABLEMENTE MAS BARATOS que los otros bancos-brokers de la sesion: P/E TTM 12.72x (el mas bajo de cualquier banco analizado, vs 17-20x de JPM-MS-GS-SCHW), P/E forward aun mas bajo (10.98-11.77x), P/B 1.61x (tambien el mas bajo) - el mercado parece mantener un descuento de valoracion pese a la resolucion formal del tope de activos-ordenes de consentimiento, posiblemente reflejo de escepticismo residual sobre la sostenibilidad del turnaround.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO: modelo de Gordon growth sobre TBV con ROTCE (mismo tipo que JPM-MS-GS), pero con una PRIMA DE RIESGO CUALITATIVA adicional de +2pp sobre el Ke-CAPM (similar al criterio ya usado con WMB-MPC-BABA), justificada por el riesgo residual de ejecucion-reputacional que persiste incluso despues de la resolucion FORMAL del tope de activos-ordenes de consentimiento (la confianza del mercado en un turnaround reciente tipicamente tarda mas en reconstruirse que la resolucion regulatoria formal). Sin la prima, el modelo literal daba un resultado implausiblemente alto (+61.7% con ROTCE 17%) muy por encima del consenso de analistas, evidencia de que hacia falta un ajuste. ROTCE adoptado = 16% (punto medio entre el FY2025 real de 14.6% y el objetivo de mediano plazo de la gerencia de 17-18%, sin acreditar el trimestre record completo). Beta 0.91-0.92 mas la prima -> Ke 10.53%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Valor Intrinseco (Escenario A adoptado): USD 90.70/accion = TBVPS (USD 49.38) x (ROTCE 16% menos g 4%) sobre (Ke 10.53% menos g 4%). Margen de Seguridad: +3.53% (precio actual USD 87.61) - practicamente neutro. Sensibilidad MUY amplia segun los supuestos: Escenario B (sin prima de riesgo, ROTCE 17% completo) da +61.7% -implausiblemente alto-; Escenario C (con prima, ROTCE FY2025 literal 14.6%, mas conservador) da -8.6%. Consenso de 26 analistas (Buy, objetivo USD 99.98-100.02, +14.0% a +14.2%) cae entre el escenario adoptado y el optimista - razonablemente consistente con una vision constructiva pero no exuberante del turnaround.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande: mercado bancario de EEUU, ahora con potencial de crecimiento SIN RESTRICCION para WFC especificamente por primera vez desde 2018.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada solidas (escala, red de sucursales-depositos establecida durante decadas), aunque el moat estuvo genuinamente comprometido durante 7 anos por la incapacidad de crecer el balance - en proceso de recuperacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: competencia directa con JPM-C (ya en el Dashboard) mas Bank of America, Citizens, US Bancorp y otros bancos regionales-nacionales grandes de EEUU - dinamica competitiva tradicional, sin un moat diferenciado mas alla de la escala-red de sucursales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad estandar de banco (ciclo de credito, sensibilidad a tasas de interes via margen de interes neto) - senal de calidad de credito positiva: los castigos netos (net charge-offs) CAYERON 16% en FY2025.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "El riesgo regulatorio fue HISTORICAMENTE el riesgo central-diferenciador de WFC (ver fila 20), ahora sustancialmente resuelto (tope de activos removido, ordenes de consentimiento terminadas jun-2025) - seguimiento de cualquier escrutinio regulatorio residual-nuevo recomendado igualmente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria minima - negocio predominantemente domestico de EEUU.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes de banca de consumo-comercial muy diversificada en EEUU, sin concentracion de cliente individual relevante.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Depositos tokenizados para clientes corporativos mencionados como innovacion reciente - relevancia tecnologica moderada, no un diferenciador central del moat.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG estructural bajo. El escandalo de 2016 es una cuestion de gobernanza-conducta (ya capturada en fila 20), no una exposicion ESG-ambiental tradicional.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Seguimiento del ritmo de crecimiento de balance ahora sin tope (prestamos-depositos); progreso hacia el objetivo de ROTCE de 17-18%+; cualquier escrutinio regulatorio residual tras la resolucion formal de jun-2025.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion - pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de 26 analistas: calificacion Buy, precio objetivo promedio USD 99.98 a USD 100.02 (+14.0% a +14.2% de alza) - cae entre el escenario adoptado de este DDM (+3.53%) y el escenario optimista sin prima de riesgo (+61.7%), razonablemente consistente con una vision constructiva del turnaround.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4594594594594597,
+    "recomendacion": "COMPRAR (CON CAUTELA) - turnaround genuino y bien ejecutado por Charlie Scharf: el tope de activos de USD 1.95bn que restringio el crecimiento durante 7 anos fue removido en jun-2025, la trayectoria de ROTCE mejora estructuralmente (13.4% a 17.7%), y cotiza a los multiplos mas baratos de cualquier banco de la sesion (P/E 12.7x, P/B 1.6x); el DDM con una prima de riesgo cualitativa por el antecedente historico da margen de seguridad practicamente neutro (+3.53%), consistente con un consenso de analistas moderadamente mas optimista",
+    "tesis": "El turnaround bancario mas dramatico del Dashboard: 7 anos bajo un tope de activos regulatorio tras el escandalo de cuentas falsas de 2016, removido en jun-2025, con una trayectoria de ROTCE en mejora estructural y cotizando con un descuento notable frente a sus pares JPM-MS-GS."
+  }
+}

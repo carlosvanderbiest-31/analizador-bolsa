@@ -1,0 +1,259 @@
+{
+  "empresa": "Autodesk, Inc.",
+  "ticker": "ADSK",
+  "sector": "Tecnologia - Software de diseno (CAD-BIM) para AEC y manufactura",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Ingresos por suscripcion de software (100% subscription desde 2016) en tres verticales principales: AEC (arquitectura-ingenieria-construccion, incluye Revit, Forma), Manufacturing (Fusion, Inventor), y Media and Entertainment; muy diversificado por industria y geografia, sin concentracion de cliente unico (millones de usuarios-licencias).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat excepcional por switching costs extremos - AutoCAD-Revit son el estandar de facto de la industria de diseno-construccion desde hace decadas (formatos de archivo propietarios .dwg, flujos de trabajo y capacitacion de toda una industria construidos alrededor del software), altisima tasa de renovacion tipica del sector CAD.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider indiscutido en CAD-BIM (competencia limitada de Bentley Systems en infraestructura, Trimble en construccion, PTC en manufactura), crecimiento acelerando en las nuevas plataformas (Forma para construccion, Fusion para manufactura) segun la propia empresa en el 1T FY2027.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Margen bruto 85.68% (uno de los mas altos del Dashboard, tipico de software puro), operativo 22.48% - pricing power real reflejado en decadas de subidas de precio de suscripcion aceptadas por la base de clientes cautiva.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "GOTCHA DE GOBERNANZA MAYOR: en 2024 una investigacion interna revelo que ejecutivos revirtieron deliberadamente un cambio de practica de facturacion despues de darse cuenta de que la empresa no alcanzaria su meta de FCF de 2023 - manipulacion de metricas clave (FCF, margen operativo no-GAAP) para cumplir objetivos. No se requirio restatement de estados financieros, pero el CFO fue reemplazado. Recompras activas y consistentes en los ultimos anios.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Directamente vinculado al gotcha de arriba - el incentivo de cumplir metas de FCF llevo a una decision de manipulacion deliberada por parte de ejecutivos; Starboard Value forzo cambios de gobernanza (stake ~USD500M, acuerdo para sumar dos directores independientes: Jeff Epstein -ex-CFO, Bessemer- y Christie Simons -experta en auditoria, directora de Micron-).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin accionista de control, propiedad institucional muy alta (96.28%), sin estructura dual-class.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Investigaciones de la SEC y el DOJ sobre las practicas de FCF-margen no-GAAP siguen ABIERTAS mas de dos anios despues (iniciadas jun-2024, sin resolucion publica confirmada a ago-2026) - riesgo de transparencia genuino y no resuelto, la empresa coopera pero el desenlace (multas, cargos) es incierto.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Posicion casi neutra (deuda total USD2.72bn vs caja USD2.67bn, deuda neta apenas USD200M) - balance muy conservador, ND/EBITDA minimo (~0.07x).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.83x, prueba acida 0.67-0.83x - por debajo de 1.0x, tipico de negocios de suscripcion con pasivos de ingresos diferidos corrientes altos (mismo patron ya visto en PANW), no necesariamente estres real.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "No verificado en detalle en esta sesion (pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles ~USD4.79bn (40% de activos totales), patrimonio delgado (USD3.19bn vs market cap USD52.65bn) por decadas de recompras - no cambia la metodologia DCF FCFF.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 85.68% (uno de los mas altos del Dashboard), operativo 22.48%, neto 19.46% - excelentes y en tendencia de mejora, aunque el historial reciente de manipulacion de margen no-GAAP (ver fila de asignacion de capital) exige mirar las cifras con mas escepticismo del habitual.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 48-50% (patrimonio delgado, menos informativo), ROIC 24.97-45.44% (rango amplio segun fuente, ambas comodamente por encima del WACC ~10.4%) - spread positivo muy fuerte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada (~0.63x), ciclo de conversion de efectivo favorable (cobro por adelantado tipico de modelo de suscripcion) - aunque este es exactamente el tipo de metrica que la investigacion de 2024 revelo que la empresa manipulo mediante cambios de practica de facturacion, se pondera con cautela adicional.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR ingresos 5 anios 13.69% (Finviz), crecimiento reciente acelerando (+18% interanual reportado en el 1T FY2027, +16% en moneda constante), guia FY2027 elevada (ingresos USD8.155-8.215bn) - crecimiento organico solido y consistente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Historial de crecimiento estable tipico de software de suscripcion con alta retencion, sin ciclos abruptos ni distorsion COVID relevante (el software de diseno se beneficio del trabajo remoto).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Aceleracion en Forma (construccion) y Fusion (manufactura) segun guia de la propia empresa, iniciativas de IA industrial, M&A bolt-on reciente (MaintenX, ARR mayor a USD135M creciendo +50%, mantenimiento-operaciones de activos).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM USD2.78bn vs utilidad neta TTM implicita ~USD1.44bn (market cap/P-E) - FCO supera comodamente la utilidad neta, aunque dado el historial de manipulacion de metricas de FCF en 2024 esta brecha se evalua con mas cautela que en otras empresas del Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD2.73bn (margen FCF ~36.4%, uno de los mas altos del Dashboard), en fuerte crecimiento (+58% interanual en el 1T FY2027) - excelente en terminos absolutos, aunque la metrica misma fue el centro del escandalo de 2024, exige verificacion adicional en sesiones futuras.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex minimo (USD52M TTM, menos del 1% de ingresos) - modelo de software puro extremadamente eficiente en capital.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Recompras activas y consistentes, sin dividendo, M&A bolt-on selectivo (MaintenX); asignacion de capital razonable pese al ruido de gobernanza reciente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 36.46x, Forward P/E 17.61x, EV/EBITDA 19.11x, P/FCF 18.88-19.29x, PEG 1.10 - multiplos razonables para la calidad del negocio, ya reflejando cierto descuento por el ruido de gobernanza (accion -24% desde maximos de 52 semanas).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, WACC 10.4% CAPM literal -beta 1.31 no degenerado-, crecimiento con fade 15%->8% en 5 anios, terminal 4%): USD288.95/accion, MS +15.8%. Valor Terminal = 76.3% del EV (fragil pero no un outlier extremo del Dashboard).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "+15.8% - solido, en zona de Comprar, consenso de analistas (Buy, objetivo promedio USD312.97, +25.4%) mas optimista pero en la misma direccion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de software de diseno-ingenieria-construccion-manufactura grande y en expansion estructural (digitalizacion de AEC, adopcion de BIM, gemelos digitales de manufactura), reforzado por el potencial de IA industrial.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Muy altas - switching costs extremos por decadas de flujos de trabajo, capacitacion y formatos de archivo propietarios construidos alrededor del software (mismo tipo de moat que Microsoft Office o SAP en sus respectivos nichos).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad moderada (Bentley Systems en infraestructura, Trimble en construccion, PTC-Siemens en manufactura, Dassault Systemes en PLM-CAD 3D avanzado); poder de negociacion del comprador bajo-moderado (switching costs altos); poder de proveedores bajo; amenaza de sustitutos baja-moderada (herramientas de diseno con IA aun no reemplazan flujos de trabajo establecidos); barreras de entrada muy altas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Moderadamente ciclico - ligado al gasto de capital en construccion-manufactura, aunque el modelo de suscripcion (vs licencias perpetuas historicas) suaviza la volatilidad de ingresos comparado con el pasado.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Investigaciones ABIERTAS de la SEC y el DOJ sobre las practicas contables de FCF-margen no-GAAP (iniciadas jun-2024, sin resolucion publica confirmada a ago-2026, mas de dos anios despues) - riesgo legal-regulatorio real, activo y no resuelto, el desenlace (multas, cargos personales, acuerdos) es incierto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion internacional significativa (crecimiento reportado +18% vs +16% en moneda constante muestra viento de cola cambiario reciente), tipico de una multinacional de software de esta escala.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes extremadamente diversificada (millones de usuarios en AEC, manufactura, media), sin concentracion de cliente unico relevante; sin dependencia critica de proveedores unicos (software puro).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo moderado de largo plazo por herramientas de diseno generativo con IA que podrian eventualmente reducir la dependencia de flujos de trabajo tradicionales de CAD, aunque Autodesk esta invirtiendo activamente en IA propia aprovechando su ventaja de datos-contexto de decadas de uso.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin controversias ESG ambientales-sociales mayores identificadas; el escandalo de gobernanza de 2024 (manipulacion de metricas) es mas un riesgo de gobierno corporativo (ya reflejado en filas de asignacion de capital-transparencia) que estrictamente ESG.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados del 2T FY2027 y actualizaciones sobre el desenlace de las investigaciones de la SEC-DOJ - clave para remover la incertidumbre regulatoria pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Transacciones de insiders netamente positivas en el periodo reciente (Insider Trans +1.35% segun Finviz, a diferencia de la mayoria de empresas de tecnologia recientes del Dashboard con ventas netas) - senal levemente positiva, aunque propiedad interna baja (0.37%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso 'Buy' fuerte, precio objetivo promedio USD312.97 (+25.4% de alza) - mas optimista que el DCF propio (+15.8%) pero coincide en direccion, sugiere que el mercado de analistas ya digirio en gran parte el ruido de gobernanza de 2024-2025.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7027027027027026,
+    "recomendacion": "COMPRAR - Score Total 3.70/5 y Margen de Seguridad +15.8% apuntan en la misma direccion positiva, reforzado por el consenso de analistas (Buy, objetivo promedio USD312.97, +25.4%). PERO: las investigaciones ABIERTAS de la SEC-DOJ sobre manipulacion de metricas de FCF-margen no-GAAP (iniciadas jun-2024, sin resolucion mas de dos anios despues) son un riesgo genuino y no resuelto - la propia metrica de FCF que sostiene este DCF fue el centro del escandalo de gobernanza de 2024. El negocio subyacente es excepcional (margen bruto 85.68%, moat de switching costs extremos, crecimiento acelerando en Forma-Fusion), y Starboard Value ya forzo mejoras de gobernanza (dos directores independientes nuevos), pero tratar con conviccion moderada hasta que se resuelva la incertidumbre regulatoria.",
+    "tesis": "El estandar de facto del software de diseno CAD-BIM con uno de los moats mas defendibles del Dashboard cotiza con un margen de seguridad solido tras la caida provocada por un escandalo de manipulacion de metricas de FCF en 2024, pero las investigaciones de la SEC y el DOJ siguen abiertas y sin resolver, exigiendo escepticismo adicional sobre la misma metrica de FCF que sostiene la valoracion."
+  }
+}

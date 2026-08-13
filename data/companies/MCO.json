@@ -1,0 +1,259 @@
+{
+  "empresa": "Moodys Corporation",
+  "ticker": "MCO",
+  "sector": "Financiero - Datos, Analitica y Calificacion Crediticia",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Dos segmentos: Moodys Analytics (MA, 62.7% de ingresos 2025, USD 4.84bn - suscripcion-ARR ~USD 3.7bn creciendo ~9%, 99% de ingresos recurrentes, retencion 95%) y Moodys Investors Service (MIS, 37.3%, USD 2.88bn - calificaciones crediticias, mixto suscripcion-vigilancia mas transaccional ligado a emision de deuda, margen mucho mas alto -68.3% adj Q2 2026- pero mas ciclico). A diferencia de SPGI (ya en el Dashboard, 4 segmentos, Ratings ~46% del total), MCO concentra MENOS en Ratings puro y MAS en analitica-suscripcion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat identico en naturaleza al de SPGI: duopolio regulatorio (status NRSRO en MIS), marca-reputacion centenaria, switching costs de MA integrada en flujos de riesgo-cumplimiento de clientes institucionales. Segundo caso del Dashboard Financiero con este tipo de moat multiple, comparable directo de SPGI.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Duopolio con SPGI en Ratings (MCO ~40% cuota global, SPGI ~50%). MA es el segundo pilar (RMS-catastrophe risk, Bureau van Dijk-datos corporativos privados, ARR creciendo ~9% con retencion de 95%) posicionando a MCO como algo mas que una agencia de ratings pura, aunque con menor diversificacion de indices-commodities que SPGI (que tiene S&P DJ Indices y Commodity Insights ademas de Ratings-Market Intelligence).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios muy alto, identico en naturaleza al de SPGI: modelo issuer-pays en MIS, suscripciones de MA con aumentos de precio sostenidos y ARR en expansion.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Track record de M&A mas disciplinado y menos transformacional que la fusion IHS Markit de SPGI - adquisiciones bolt-on en MA (RMS 2021 ~USD 2bn, Bureau van Dijk 2017) sin un evento de escala equivalente. Buybacks agresivos (USD 3bn guiados FY26, ~3.6% del market cap, algo menos agresivo en proporcion que el 5%+ de SPGI) y dividendo creciente (10+ anios de aumentos, crecimiento 10-11% a 3-5 anios).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "No investigado en profundidad esta sesion - similar perfil esperado al de mega-caps sin fundador-control activo, pendiente de verificar tenencia de insiders y estructura de compensacion ejecutiva.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes, sin doble clase ni control familiar-fundador dominante, mismo perfil que SPGI.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Antecedente historico DIRECTAMENTE COMPARABLE al de SPGI: acuerdo CIVIL de USD 864 millones con el DOJ y 21 estados en 2017 (mas tardio y de magnitud similar al de SPGI de USD 1.375bn en 2015) por calificaciones de RMBS-CDO previas a la crisis de 2008, con admision factual de que Moodys uso un estandar mas laxo que el publicado - mismo tipo de riesgo estructural historico del modelo issuer-pays ya documentado con SPGI, confirma que es un riesgo DE INDUSTRIA, no idiosincratico de una sola empresa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA ~1.48x (deuda total USD 7.52bn TTM, caja USD 1.47bn, EBITDA TTM estimado ~USD 4.1bn) - apalancamiento moderado, similar en magnitud al de SPGI (~1.36x) pero patrimonio bastante mas delgado en relacion a activos (ver fila 25).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.15 - mejor que la de SPGI (0.95), aunque ambas son cifras normales para negocios de suscripcion con ingresos diferidos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Notas senior mas recientes emitidas a 5.000% (ago-2024, vencimiento 2034) - estructura de vencimientos no verificada en detalle esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Patrimonio contable POSITIVO pero notablemente DELGADO en relacion a activos totales (USD 3.17bn de patrimonio sobre USD 14.68bn de activos, solo 21.6%, Debt-to-Equity 2.49x) - produce un ROE reportado muy elevado (80.15%) que exagera la rentabilidad real sobre capital economico, aunque no tan extremo como el caso de CL (ROE 434%) como para justificar dejarlo en blanco. Se reporta el ROE con esta advertencia explicita, y se usa ROIC (28.28%) como metrica complementaria mas confiable.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes excepcionales y en expansion: bruto 68.82%, operativo 46.00% (GAAP TTM) a 55.3% (adj Q2 2026, +440 bps interanual), neto 34.25% - superiores en todas las lineas a los de SPGI (bruto 63.4%, operativo ~44-50%, neto ~30-33%), reflejo de un mix con mayor peso relativo de MIS de altisimo margen en los trimestres de fuerte actividad de emision.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 80.15% (inflado por patrimonio delgado, ver fila 25), ROIC 28.28% - ambos muy por encima del WACC propio (10.18%), creacion de valor genuina y solida, ademas superior a la de SPGI (ROIC 11.05%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos 0.56x, mas alta que la de SPGI (0.26x) porque el balance de MCO no esta dominado por goodwill de una mega-fusion tipo IHS Markit. Apalancamiento financiero 4.64x (Activos/Patrimonio), notablemente mas alto que el de SPGI (1.72x) por el patrimonio mas delgado.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios de 7.52% (Finviz) - a diferencia del 15.56% de SPGI, este numero es MAYORMENTE ORGANICO (sin una mega-fusion de por medio), mas representativo del crecimiento estructural real del negocio. Guia FY2026: crecimiento de un digito alto tanto en MIS como en MA.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Perfil de crecimiento mixto, mismo patron que SPGI: MA (62.7% de ingresos) es muy estable via suscripcion-ARR (99% de ingresos recurrentes, retencion 95%), pero MIS (37.3%) tiene un componente transaccional genuinamente ciclico ligado al volumen de emision de bonos (transaction revenue +34% en Q2 2026, un trimestre fuerte de emision, puede revertirse en un ciclo de tasas distinto).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Motores de crecimiento futuro similares a SPGI: adopcion de IA en productos de analitica-riesgo, expansion en credito privado (ratings de deuda privada), ARR de MA con espacio para seguir creciendo (~9% actual), ciclo de refinanciamiento corporativo sostenido.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo consistente y en tendencia ascendente estable (OCF TTM USD 3.32bn vs USD 2.15bn en FY2023, sin saltos lumpy ni distorsiones contables mayores detectadas) - buena calidad de ganancias, similar a SPGI.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF muy alta: margen FCF ~36% sobre ingresos TTM, aunque el capex (4.31% de ventas) es notablemente MAS ALTO que el de SPGI (~1%) - Moodys invierte mas intensamente en tecnologia-plataforma de analitica que SPGI, un patron a monitorear pero que hasta ahora no ha comprometido la conversion de caja.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex mayormente de tecnologia-plataforma (mas alto que el de SPGI en proporcion de ventas, 4.31% vs ~1%) - no se detecto un patron de capex de crecimiento tipo mega-proyecto (distinto de APD-ECL-LIN), parece reflejar simplemente una inversion tecnologica mas intensiva de manera estructural.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital: recompras agresivas (USD 3bn guiados FY26, ~3.6% del market cap, algo menos agresivo en proporcion que el 5%+ de SPGI) mas dividendo creciente (10-11% de crecimiento a 3-5 anios, payout ~27.5%) - perfil de asignacion de capital solido, sin senales de sobreextension.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos MUY exigentes, los mas caros de cualquier empresa de datos-analitica del Dashboard hasta ahora: P/E TTM ~30.3x (forward ~25-27x), P/FCF ~27.9x, EV/EBITDA estimado ~21.7x - notablemente por encima de los de su comparable directo SPGI (P/E ~25.0x, P/FCF ~21.8-23.3x, EV/EBITDA ~16.3x) pese a un moat de naturaleza muy similar.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor Intrinseco (DCF propio, Escenario A adoptado): USD 306.72/accion (WACC 10.18% via CAPM: beta 1.32 LITERAL, sin necesidad de sustituto -SEGUNDO caso limpio consecutivo del Dashboard Financiero, mismo criterio que SPGI-; Rf 3.5%, ERP 5.5%; costo de deuda post-impuestos ~3.72%, deuda al 8.3% del capital). FCF base = TTM real USD 2.967bn (sin ajustar, flujo limpio y consistente, a diferencia del ajuste RECAST que requirio SPGI por su spin-off reciente). Crecimiento 5 anios = 8% (anclado al growth organico guiado de un digito alto, NO al EPS ajustado guiado de +12% que esta inflado por el programa de recompras de USD 3bn, CUARTA confirmacion del gotcha NFLX-LIN-SPGI); terminal 4%. Escenario B (no adoptado, growth EPS 12%): USD 368.02 (-23.11%) - AMBOS escenarios dan sobrevaloracion severa, a diferencia de la fragilidad de SPGI.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -35.91% (precio actual USD 478.61 vs valor intrinseco USD 306.72) - NEGATIVO Y ROBUSTO: incluso el escenario mas generoso (growth EPS 12%) sigue dando -23.11%, mismo patron de robustez ya visto en HOOD-COIN-MU-SNDK-TGT. Chequeo cruzado: multiplo terminal implicito de apenas 16.83x vs el P/FCF de mercado real de ~27.9x -brecha grande en la direccion OPUESTA a los gotchas de beta degenerado ya vistos, aqui el mercado paga MAS que lo que la perpetuidad DCF justifica-, consistente con multiplos absolutos ya identificados como los mas exigentes del Dashboard Financiero.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM identico en naturaleza al de SPGI: mercados globales de deuda-credito, gasto empresarial en analitica de riesgo-cumplimiento, expansion en credito privado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada extremadamente altas, identicas en naturaleza a las de SPGI: reconocimiento regulatorio NRSRO, decadas de datos propietarios, switching costs de MA integrada en flujos de riesgo de clientes institucionales.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter identico en estructura al de SPGI: rivalidad moderada (duopolio en Ratings con SPGI, competencia mas fragmentada en MA contra Bloomberg-Refinitiv-proveedores especializados de riesgo), amenaza de nuevos entrantes muy baja, poder de proveedores bajo, poder de clientes moderado, amenaza de sustitutos de IA emergente pero no inminente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad moderada, algo MAS concentrada que la de SPGI: MIS (37.3% de ingresos) es genuinamente ciclica via emision de bonos, y a diferencia de SPGI (que tiene Indices-Commodity Insights como colchon adicional de diversificacion), MCO solo tiene MA como contrapeso estable - menos fuentes de diversificacion de ingresos que su comparable directo.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio identico en naturaleza al de SPGI: escrutinio periodico del modelo issuer-pays, ya absorbido en gran medida post-crisis 2008 y post-acuerdo DOJ 2017.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real por ingresos internacionales (porcentaje exacto no verificado esta sesion), similar en magnitud esperada a la de SPGI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada (bancos, gestores de activos, corporaciones emisoras, gobiernos), sin concentracion individual relevante detectada - mismo perfil que SPGI.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico de doble filo identico en naturaleza al de SPGI: IA como oportunidad (productos de analitica de riesgo con IA) y como riesgo de disrupcion de largo plazo (comoditizacion potencial de agregacion de datos).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo-moderado, sin exposicion estructural tipo combustibles fosiles-tabaco. Precedente reputacional de industria ya resuelto via acuerdo civil de 2017 (ver fila 20), no un riesgo activo hoy.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Ejecucion del programa de recompra de USD 3bn en curso durante 2026. Sensibilidad a la trayectoria de tasas de la Fed (afecta volumen de emision de bonos, principal driver ciclico de MIS, el segmento de mayor margen). Guia FY2026 de EPS ajustado ya elevada a USD 16.50-17.00 tras resultados fuertes de Q2 2026.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion - pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de 24 analistas: calificacion Buy, precio objetivo promedio USD 560.48 a USD 564.95 (+17.1% a +18.1% de alza) - en marcada DIVERGENCIA OPUESTA con este DCF propio (-35.91% en el escenario adoptado, -23.11% incluso en el escenario mas generoso). A diferencia de SPGI (donde el consenso era mas optimista que el DCF pero en la MISMA direccion positiva), aqui el DCF y el consenso apuntan en direcciones OPUESTAS - mismo patron ya visto en HOOD-COIN-MU-SNDK-TGT, se prioriza el DCF bottom-up dado lo exigente de los multiplos absolutos observados.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7027027027027026,
+    "recomendacion": "NO COMPRAR - VALORACION MUY EXIGENTE (reducir si ya se tiene posicion) - mismo moat de excelente calidad que SPGI, pero sin su diversificacion de Indices-Commodities y a multiplos notablemente mas caros; el DCF da sobrevaloracion severa y ROBUSTA a la eleccion de escenario",
+    "tesis": "Comparable directo de SPGI con un moat igual de fuerte (duopolio de Ratings + Moodys Analytics de alta retencion), pero cotizando a los multiplos mas exigentes del sector Financiero del Dashboard sin el colchon de diversificacion de su comparable."
+  }
+}

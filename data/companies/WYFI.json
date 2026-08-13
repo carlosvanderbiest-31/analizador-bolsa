@@ -1,0 +1,259 @@
+{
+  "empresa": null,
+  "ticker": null,
+  "sector": null,
+  "fecha_analisis": null,
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Dos segmentos: GPU Cloud Services (arriendo de acceso a GPUs Nvidia de punta -H200, B200, GB200- a desarrolladores de IA-ML, proveedores de cloud gaming) y Colocation Tier-3 (hosting-colocacion de centros de datos). Modelo verticalmente integrado: procura de energia, diseno de centros de datos propios, y despliegue de nube-colocacion-hibrido. Ingresos TTM 82.72M USD (+49.3% interanual).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat limitado: escala emergente en un espacio de neoclouds ya dominado por CoreWeave (lider indiscutido, unica empresa en el nivel Platinum segun SemiAnalysis) y Nebius. WhiteFiber es uno de los jugadores mas pequeños y recientes cotizados en EEUU. La integracion vertical (energia-centro de datos-nube) es una ventaja de ejecucion real pero replicable por competidores bien financiados.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Pequeño frente a CoreWeave (lider indiscutido del segmento neocloud, ya analizado en este Dashboard), Nebius, Lambda Labs y Crusoe. WhiteFiber es de los neoclouds mas pequeños y recientes cotizados en EEUU (carve-out IPO de ago-2025).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Bajo: negocio de arriendo de GPUs cada vez mas commoditizado, con margenes de EBITDA ajustado en DECLIVE interanual (3.0M USD en el 1T 2026 vs 6.0M USD en el 1T 2025) pese al crecimiento de ingresos - señal de que los costos crecen mas rapido que el poder de fijacion de precios.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historia muy corta (carve-out IPO de Bit Digital, ago-2025) para evaluar un track record real. Levanto 230M USD en notas convertibles senior (ene-2026) mas un prestamo a plazo diferido de 100M USD (respaldado por Bit Digital y B. Riley Securities) para financiar expansion agresiva de centros de datos - apalancamiento creciendo rapido en una fase muy temprana del negocio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Bit Digital posee aprox 70.7% de las acciones (27043750 acciones) y mantiene control de voto efectivo - alineacion fuerte del accionista mayoritario con el exito de la empresa, pero con el riesgo de concentracion de gobernanza documentado en la fila 19.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Gobernanza atipica y de riesgo relevante, nueva en este Dashboard: Bit Digital (empresa mas pequeña en transicion de mineria de bitcoin hacia staking de Ethereum e infraestructura de IA) posee aprox 70.7% de WhiteFiber con control de voto efectivo; el float publico es minoritario (aprox 29.3%). El periodo de lockup de Bit Digital expiro el 2-feb-2026; la empresa se comprometio a no vender durante 2026, pero ese compromiso es temporal - riesgo de sobreoferta de acciones cuando expire.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion trimestral activa desde el IPO, con guidance de capacidad razonablemente detallado para una empresa tan reciente (objetivo de 6800 unidades GPU-nube para 170M USD de ARR, rampa de colocacion de 3MW a 61MW de carga critica de TI).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda total 251.6M USD vs caja 80.11M USD (deuda neta aprox 171.5M USD) sobre un EBITDA ajustado TTM muy pequeño y DECLINANTE trimestre a trimestre (6.0M USD a 3.0M USD) - apalancamiento muy alto relativo al tamaño real del negocio actual, aunque la deuda esta destinada a financiar expansion de capacidad que aun no genera el retorno esperado.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Caja 80.11M USD - razonable para financiar el capex de expansion en curso en el corto plazo, pero pequeña en relacion a la deuda total (251.6M USD) y al ritmo de quema de caja de la construccion de centros de datos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "230M USD en notas convertibles senior (emitidas ene-2026) mas 100M USD de prestamo a plazo diferido respaldado por Bit Digital y B. Riley Securities - estructura de deuda reciente y concentrada en pocos instrumentos; calendario exacto de vencimientos no verificado con precision esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales 796.3M USD dominados por PP&E de centros de datos en construccion-ramp-up (proyecto NC1 en Carolina del Norte, con suministro de energia inicial de Duke Energy) - activos fisicos reales pero en fase temprana de generacion de retorno, con retrasos menores de cadena de suministro reportados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "EBITDA ajustado en DECLIVE interanual pese al crecimiento de ingresos (3.0M USD en el 1T 2026 vs 6.0M USD en el 1T 2025) - señal de calidad de crecimiento cuestionable, similar en espiritu al gotcha ya documentado en MRVL (crecimiento de ingresos sin traduccion proporcional a rentabilidad), aqui aun mas marcado porque la rentabilidad esta REVIRTIENDO, no solo estancada.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "Profundamente negativos dada la perdida neta TTM (38.15M USD) - destruccion de valor contable en la fase actual de construccion de infraestructura, esperable en una empresa de este estadio pero sin garantia de que revierta.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Baja, tipica de una empresa de infraestructura de centros de datos en fase temprana de construccion-ramp-up, con activos que aun no generan el ingreso proporcional a su tamaño.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Ingresos creciendo con fuerza (+49.3% TTM) pero desde una base pequeña (82.72M USD), y la utilidad se DETERIORO interanualmente: de utilidad neta POSITIVA (1.43M USD) en el 1T 2025 a perdida de 12.04M USD en el 1T 2026 - crecimiento de ingresos sin acompañamiento de mejora de rentabilidad, por costos G&A y D&A creciendo mas rapido.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Historial publico muy corto (menos de un año desde el carve-out IPO de ago-2025) para evaluar consistencia de crecimiento con confianza.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Solidas y especificas: contrato de 5 años por mas de 160M USD con un cliente de grado de inversion (no revelado por nombre en las fuentes consultadas), contrato con Modal Labs (aprox 17M USD a 2 años), objetivo de capacidad de 6800 unidades GPU-nube (170M USD de ARR objetivo), rampa de colocacion de 3MW a 61MW de carga critica en el proyecto NC1 (Carolina del Norte, energia de Duke Energy).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "No verificado con precision el OCF exacto esta sesion. Dado el D&A pesado tipico de centros de datos en construccion, es esperable una brecha OCF-utilidad neta similar a otros neoclouds (CRWV), pero no confirmado numericamente para WhiteFiber en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Profundamente negativo dado el capex masivo de expansion de centros de datos financiado casi enteramente con deuda nueva (230M USD notas convertibles mas 100M USD prestamo a plazo) - mismo patron de FCF negativo estructural ya documentado en CRWV, aunque a una escala mucho menor.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "100% de crecimiento: construccion activa del proyecto NC1 y expansion de capacidad GPU-cloud hacia el objetivo de 6800 unidades - ningun capex de mantenimiento de activos maduros relevante en esta etapa tan temprana del negocio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Capital nuevo (230M USD notas convertibles mas 100M USD prestamo a plazo) destinado integramente a financiar la expansion de capacidad de centros de datos-GPU - sin dividendos ni recompras, esperable en esta etapa pre-rentabilidad.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E no significativo (perdidas). Unico dato informativo: EV/Ventas TTM estimado aprox 13.8x (capitalizacion 970.38M USD mas deuda neta aprox 171.5M USD, sobre ingresos TTM 82.72M USD) - multiplo alto incluso para un neocloud en crecimiento rapido, reflejo de que el mercado ya paga una prima significativa por la ejecucion futura de la expansion de capacidad.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "NO se calculo Valor Intrinseco (DCF) - mismo criterio que CRWV (analizado en este Dashboard): la empresa tiene ingresos reales y en crecimiento (+49.3% TTM), pero (1) la rentabilidad se esta DETERIORANDO en vez de mejorar (EBITDA ajustado cayendo trimestre a trimestre, perdida neta ampliandose interanual); (2) el apalancamiento es alto relativo al tamaño real del negocio (deuda neta aprox 171.5M USD sobre EBITDA ajustado trimestral de apenas 3.0M USD); (3) el historial publico es de menos de un año, insuficiente para proyectar con confianza una trayectoria de FCF a 5 años. Forzar un DCF exigiria asumir sin base solida el momento y la magnitud de la conversion a rentabilidad de una infraestructura todavia en fase de construccion.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "No aplica - al no calcularse un Valor Intrinseco (DCF) confiable (ver fila 41), no hay un Margen de Seguridad numerico defendible. Referencia informativa (no valor intrinseco): valor en libros por accion aprox 9.13 USD (patrimonio 352.58M USD sobre 38.61M acciones) frente al precio de mercado de 25.13 USD - brecha amplia (+175%), la mayor parte del precio de mercado es opcionalidad sobre la ejecucion futura de la expansion de capacidad, no valor en libros actual.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de infraestructura de computo IA-GPU en la nube (neoclouds) en expansion explosiva impulsada por la demanda de entrenamiento-inferencia de IA - mismo TAM favorable ya documentado con CRWV, aunque WhiteFiber captura hoy una porcion muy pequeña de ese mercado total.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Capital intensivo (construccion de centros de datos, acceso a energia, relaciones con Nvidia para suministro de GPUs de punta) - barrera real pero superable con suficiente capital, como demuestra la proliferacion reciente de neoclouds nuevos y bien financiados (Crusoe, Lambda, Nebius, y ahora WhiteFiber mismo).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad ALTA y creciente entre multiples neoclouds bien financiados (CoreWeave lider indiscutido, Nebius, Lambda Labs, Crusoe, Applied Digital, y ahora WhiteFiber). Poder de negociacion de proveedores alto (Nvidia domina el suministro de GPUs de punta, cuellos de botella de suministro recurrentes). Poder de negociacion de clientes creciente (multiples neoclouds compitiendo por los mismos clientes de IA). Amenaza de sustitutos: los hiperescaladores (AWS-Azure-Google) tambien compiten por la misma demanda de computo IA con recursos muy superiores.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ligada al ciclo de gasto de capital en IA de las grandes tecnologicas y financiadores de startups de IA - riesgo de que una desaceleracion del gasto en IA golpee la demanda de GPU-nube de forma abrupta, mismo tipo de riesgo ya documentado en CRWV pero aqui con menos colchon financiero para absorber un shock de demanda.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo relativamente bajo comparado con otras empresas del Dashboard (no depende de controles de exportacion como IONQ-AMAT-ASML), aunque el acceso a chips Nvidia de punta esta sujeto en general al marco regulatorio mas amplio de semiconductores de EEUU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Minimo: operaciones concentradas en EEUU (Carolina del Norte y otras ubicaciones domesticas).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Relevante: un contrato de 5 años supera los 160M USD con UN SOLO cliente de grado de inversion (nombre no revelado en las fuentes consultadas) - una porcion grande de los ingresos futuros contratados concentrada en un unico cliente. Se suma dependencia critica de Nvidia como proveedor de GPUs de punta.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Moderado: dependencia de mantenerse actualizado con las ultimas generaciones de GPU de Nvidia (H200-B200-GB200), riesgo de obsolescencia de hardware si la empresa no logra actualizar su flota al ritmo de competidores mejor capitalizados como CoreWeave.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Consumo energetico intensivo tipico de los centros de datos (mismo perfil que otros neoclouds-hiperescaladores), aunque la relacion con Duke Energy para el suministro del proyecto NC1 sugiere gestion activa del abastecimiento energetico.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados del 2T 2026 se reportan el 12-ago-2026 (2 dias despues de este analisis) - practicamente todas las cifras trimestrales de esta ficha quedaran desactualizadas en horas. Avance de la construccion del proyecto NC1 (Carolina del Norte) y progreso hacia el objetivo de capacidad de 6800 unidades GPU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No se investigo con precision mas alla de la posicion mayoritaria ya documentada de Bit Digital (ver fila 19), que por su naturaleza domina cualquier lectura de actividad de insiders en esta empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "9 analistas, calificacion de consenso \"Compra\", objetivo promedio 38.11 USD (+51.65% sobre el precio actual de 25.13 USD) - optimismo marcado, tipico del patron ya documentado en otras historias especulativas de infraestructura de IA de este Dashboard (CRWV, IONQ). La accion subio aprox 87% interanual pero cayo aprox 41% desde su maximo de 52 semanas - volatilidad extrema tipica del segmento neocloud.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.4324324324324325,
+    "recomendacion": "ESPECULATIVO DE ALTO RIESGO - NO APTO PARA EL MARCO DE MARGEN DE SEGURIDAD (posicion de tamano acotado unicamente; suma al riesgo especulativo tipico de un neocloud pequeño la particularidad de gobernanza de estar mayoritariamente controlada por Bit Digital)",
+    "tesis": "Neocloud pequeño y reciente (carve-out IPO de Bit Digital, ago-2025), con contratos de crecimiento solidos (mas de 160M USD a 5 años con un cliente de grado de inversion) pero rentabilidad DETERIORANDOSE en vez de mejorar (EBITDA ajustado cayendo, perdida neta ampliandose) mientras se apalanca fuerte (330M USD de deuda nueva) para financiar la construccion de centros de datos. Gobernanza atipica: Bit Digital controla aprox 70.7% de las acciones. El precio ya descuenta una ejecucion exitosa de la expansion de capacidad en un segmento (neoclouds) dominado por competidores mucho mejor financiados como CoreWeave."
+  }
+}

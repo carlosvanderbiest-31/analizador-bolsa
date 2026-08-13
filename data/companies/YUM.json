@@ -1,0 +1,259 @@
+{
+  "empresa": "Yum! Brands, Inc.",
+  "ticker": "YUM",
+  "sector": "Consumo Discrecional / Restaurantes (Quick Service, Franquicia)",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Modelo de franquicia hiperasset-light (97-98% de mas de 63000 unidades franquiciadas en 155 paises) via regalias, cuotas de franquicia y servicios sobre ventas de sistema de KFC, Taco Bell y Habit Burger and Grill. Pizza Hut en proceso de venta completa (ambas transacciones anunciadas jun-2026: ex-China a LongRange Capital, Mainland China a Yum China Holdings) - portafolio se simplifica hacia tres marcas de mayor margen-crecimiento.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de marca globalmente reconocida (KFC, Taco Bell) mas escala de red de franquiciados (63000+ unidades), sistemas de marketing-operaciones-cadena de suministro compartidos dificiles de replicar rapidamente por un entrante nuevo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "KFC lider global en pollo frito, Taco Bell lider indiscutido en comida mexicana rapida en EEUU con momentum fuerte (comp sales domesticas +7% en trimestres recientes, superando a McDonalds +2.4%), posicion solida dentro del oligopolio de quick-service restaurants.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Moderado: el modelo de franquicia limita el control directo de precios (decision de cada franquiciado individual), aunque la marca permite cierto poder de fijacion via innovacion de menu (ej. estrategia \"magic formula\" de Taco Bell tras el brote de cyclospora).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historial de decadas de retorno de capital consistente via dividendo creciente (payout ~51%) y recompras, mas ejecucion activa de portafolio (venta completa de Pizza Hut anunciada jun-2026 por USD 2.7bn brutos, USD 2.3bn netos, simplificando el portafolio hacia KFC-Taco Bell-Habit Burger). ROIC excepcional de 63.45% confirma la efectividad historica del modelo hiperasset-light.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership bajo (0.15%, tipico de mega-cap). CEO Chris Turner con ventas rutinarias mensuales via plan 10b5-1 (0 compras, 20 ventas recientes por ~USD 2.4M acumulado en montos individuales pequenos de ~USD 40K cada una) - patron neutral, ventas programadas de bajo impacto individual, no una senal de alarma fuerte.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones, sin estructura de control dual ni voto diferenciado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Reporta metricas detalladas por marca (system sales, same-store sales, crecimiento de unidades) y separa resultados \"excluyendo Pizza Hut\" para dar visibilidad al negocio continuo durante la transicion de venta - comunicacion proactiva sobre el impacto del brote de cyclospora en Taco Bell.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA ~4.48x (deuda financiera funded USD 12.28bn, caja USD 0.67bn, EBITDA TTM USD 2.59bn) - el apalancamiento MAS ALTO de las ultimas cuatro empresas analizadas (ABBV 2.70x, AZO 2.05x, TJX caja neta), consistente con la calificacion crediticia BB+ (grado especulativo/high yield, la primera calificacion sub-investment-grade del cluster reciente). Deuda/Patrimonio NO CALCULABLE: patrimonio TTM NEGATIVO (-USD 7.11bn) - TERCER caso consecutivo del Dashboard (tras ABBV-AZO) con patrimonio contable negativo, aqui con causa mixta (legado del spinoff de PepsiCo en 1997 mas decadas de retorno de capital sobre un modelo hiperasset-light).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.59, prueba acida 0.59 (identicas, refleja inventario minimo dado el modelo de franquicia sin operaciones de restaurante propias) - liquidez ajustada, patron similar al ya visto en AZO-ABBV.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion BB+ (S&P, grado especulativo/high yield) - la calificacion crediticia MAS DEBIL de las ultimas cuatro empresas del Dashboard, refleja el apalancamiento estructuralmente alto del modelo de negocio, aunque sostenido por flujos de caja de regalias extremadamente estables y predecibles (bajo riesgo de negocio pese al alto apalancamiento financiero).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles USD 1.52bn sobre activos totales de apenas USD 8.68bn (17.5%) - moderado. Activos totales muy pequenos en terminos absolutos dado el modelo hiperasset-light (solo 2% de las unidades son propiedad de la empresa, el resto son franquicias).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 45.33%, margen operativo 32.42% (excepcionalmente alto, tipico de un franquiciador puro sin los costos de operar restaurantes directamente), margen neto 25.42% - PERO el TTM mas reciente esta inflado por un beneficio fiscal diferido no recurrente de USD 359M relacionado a la venta de Pizza Hut (ver gotcha en fila 35).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE no informativo (patrimonio negativo). ROIC 63.45% - EL MAS ALTO DEL DASHBOARD hasta ahora (superando el 26% de TJX-AZO), refleja directamente el modelo hiperasset-light de franquicia pura (97-98% de unidades franquiciadas). ROA 28.42%.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 1.005x (Ingresos TTM USD 8.72bn / Activos totales USD 8.68bn), razonable dado el tamano reducido del balance propio de un franquiciador puro.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de Ingresos 5y de 7.76% (Finviz), razonablemente limpio (sin distorsion COVID tan severa como TJX). EPS Past 5Y +13.51% inflado por recompras y por el efecto puntual del beneficio fiscal diferido reciente ligado a la venta de Pizza Hut - no representativo del crecimiento organico sostenible del negocio en marcha.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "System sales creciendo consistentemente (+7% ex-FX ex-Pizza Hut en 2T2026), same-store sales +4%, PERO con un evento disruptivo reciente y real: brote de cyclospora vinculado a lechuga de Taco Bell, trafico cayendo hasta -31% en un solo dia, comp sales domesticas de Taco Bell -2% en el trimestre en curso - impacto descrito como transitorio por la propia empresa, recuperacion ya en marcha segun el CEO.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Expansion internacional activa de KFC (565 unidades brutas nuevas en un trimestre reciente) y Taco Bell (aceleracion internacional), simplificacion de portafolio hacia marcas de mayor crecimiento-margen tras la salida completa de Pizza Hut, digitalizacion fuerte (ventas digitales +25% interanual, superando USD 17bn en el primer semestre de 2026).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM USD 2.08bn vs utilidad neta TTM USD 2.22bn - cifras cercanas en apariencia, PERO la utilidad neta esta inflada por un beneficio fiscal diferido no recurrente de USD 359M ligado a la venta de Pizza Hut (2T2026: EPS GAAP USD 3.08 vs EPS ajustado excluyendo items especiales de apenas USD 1.62, una brecha de casi 2x). El FCF (basado en OCF, no contaminado por este item no-en-efectivo de naturaleza fiscal) es la base mas confiable para el DCF.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD 1.68bn, en tendencia de crecimiento solida y consistente (desde USD 1.15bn en FY2022, +46% acumulado en OCF durante el periodo), FCF Yield 4.20%.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex/Ventas apenas 4.63% (USD 404M TTM), bajo y estable, consistente con el modelo hiperasset-light de franquicia (el capex de expansion de tiendas nuevas lo asume mayormente el franquiciado, no YUM corporate).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo creciente (payout ~51%, sostenible) combinado con recompras, mas proceeds netos de USD 2.3bn de la venta de Pizza Hut como catalizador adicional potencial de retorno de capital o desapalancamiento - modelo de asignacion de capital solido aunque con apalancamiento estructuralmente alto de partida.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 18.23-18.44x (distorsionado a la baja -parece \"barato\"- por el beneficio fiscal no recurrente que infla el denominador de utilidad neta; el Forward P/E de 20.07-21.04x, MAS ALTO que el trailing, es la senal mas clara de esta distorsion y probablemente mas representativo del negocio ongoing), P/FCF 23.83x (mas confiable, sin la distorsion fiscal), EV/EBITDA ~19.92x.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, growth 8% anclado en el crecimiento de utilidad operativa \"core\" ex-Pizza Hut +8% reportado por la empresa en 2T2026): USD 132.73/accion, MS -9.40%. Escenario B (sensibilidad, growth 10% anclado en consenso EPS Next 5Y de Finviz, no adoptado): USD 148.4/accion, MS +1.30% - ambos escenarios caen en zona de valor razonable/MANTENER, sin la fragilidad extrema de AZO. Beta literal (0.54-0.55) resulto DEGENERADO en el chequeo de convergencia inicial (brecha 2.03x, produciendo un MS literal absurdo de +114.8%) - sustituido por beta 0.80 + prima de riesgo cualitativa +1.5pp (apalancamiento elevado BB+ mas riesgos de ejecucion de la venta de Pizza Hut y el brote de cyclospora), logrando una convergencia final excepcionalmente limpia (gap ~1.00x).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-9.40% (Escenario A adoptado, precio actual USD 146.50 vs valor intrinseco USD 132.73) - practicamente en valor razonable, dentro de la banda de MANTENER establecida por el framework (entre -10% y +10%), magnitud similar a BMY-SYK-MDT.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de quick-service restaurants enorme y en expansion, particularmente en mercados internacionales emergentes (India, sudeste asiatico) donde KFC-Taco Bell todavia tienen baja penetracion relativa a EEUU.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Moderadas-altas: marca reconocida globalmente, escala de red de franquiciados, sistemas de cadena de suministro compartidos - pero el negocio de restaurantes de comida rapida en si tiene barreras de entrada mas bajas que otros sectores del Dashboard (la barrera real esta en la ESCALA de marca-sistema, no en el capital requerido para abrir un local individual).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta (McDonalds, Restaurant Brands International-Burger King, Wendys, Chipotle y decenas de cadenas regionales), poder de proveedores moderado (cadena de suministro de alimentos diversificada), poder de compradores del consumidor final alto (multiples alternativas de comida rapida disponibles), amenaza de sustitutos alta (delivery de restaurantes independientes, cocina en casa), barreras de entrada moderadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Relativamente defensivo: la comida rapida economica tiende a resistir bien en recesiones (\"trade-down\" desde restaurantes de servicio completo), aunque no es inmune a la presion del gasto discrecional del consumidor de bajos ingresos, el segmento demografico central de Taco Bell-KFC.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Moderado: riesgo laboral-salario minimo en EEUU, riesgo regulatorio de seguridad alimentaria (ya materializado con el brote de cyclospora), exposicion a politica comercial-aranceles sobre insumos alimentarios importados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real dado el alcance internacional de KFC-Taco Bell en 155 paises, aunque mitigado por el modelo de franquicia (los franquiciados asumen gran parte del riesgo operativo local).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de franquiciados diversificada (miles de operadores independientes), sin concentracion de cliente unico relevante; cadena de suministro de alimentos tambien diversificada por geografia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Amenaza moderada de plataformas de delivery de terceros (DoorDash, Uber Eats) que podrian erosionar la relacion directa con el cliente, mitigado por inversion propia en digitalizacion (ventas digitales +25% interanual, USD 17bn en el primer semestre de 2026).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "RIESGO MATERIALIZADO Y RECIENTE: brote de cyclospora vinculado a lechuga de Taco Bell (proveedor Taylor Farms) en jul-2026, con al menos 1947 personas enfermas y 98 hospitalizaciones (sin muertes reportadas) - impacto real ya cuantificado en el trafico (-31% en un solo dia) y en las ventas (comp sales domesticas de Taco Bell -2% en el trimestre en curso), aunque la empresa reporta recuperacion en curso y el sentimiento de marca ya volvio a niveles pre-brote segun redes sociales.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Cierre esperado de la venta de Pizza Hut (ambas transacciones, ex-China a LongRange Capital y China a Yum China Holdings, proceeds netos ~USD 2.3bn); continuidad de la recuperacion de Taco Bell post-cyclospora; proximo reporte trimestral.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Patron de venta rutinaria mensual del CEO Turner via plan 10b5-1 (0 compras, 20 ventas recientes por montos individuales pequenos ~USD 40K cada una) - ventas programadas de bajo impacto, no una senal de alarma fuerte pero tampoco una senal positiva.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso positivo: calificacion Buy de 25 analistas, objetivo promedio USD 173-175 (+18.47% a +19.5% de alza) - mas optimista que este DCF (-9.40%), divergencia moderada en direccion opuesta, similar en patron (aunque de magnitud menor) a HOOD-COIN-SNDK-AZO.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.3513513513513513,
+    "recomendacion": "MANTENER",
+    "tesis": "Yum Brands es un franquiciador hiperasset-light de altisimo ROIC (63.45%, el mas alto del Dashboard) simplificando su portafolio hacia KFC-Taco Bell-Habit Burger tras la salida completa de Pizza Hut, pero el apalancamiento elevado (BB+, patrimonio negativo) y riesgos de ejecucion activos (brote de cyclospora en Taco Bell) dejan el DCF practicamente en valor razonable - MANTENER."
+  }
+}

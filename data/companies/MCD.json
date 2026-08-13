@@ -1,0 +1,259 @@
+{
+  "empresa": "McDonalds Corporation",
+  "ticker": "MCD",
+  "sector": "Consumo Discrecional / Restaurantes (Quick Service, Franquicia-Inmobiliario)",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Modelo hibrido franquicia+inmobiliario (~95% de mas de 43000 restaurantes franquiciados globalmente en mas de 100 paises), PERO a diferencia de YUM, McDonalds tambien posee-arrienda gran parte de los terrenos-edificios y subarrienda a franquiciados, generando ingresos de renta ademas de regalias - modelo unico en el sector, frecuentemente descrito como \"una empresa inmobiliaria que vende hamburguesas\".",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "La marca de comida rapida MAS reconocida globalmente, escala de red inigualable (43000+ restaurantes en mas de 100 paises), poder de compra sobre proveedores, sistema operativo-inmobiliario que alinea incentivos con franquiciados via el modelo de renta.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider global indiscutido del quick-service, aunque con friccion domestica reciente real (comp sales EEUU desaceleraron de +3.9% en 1T2026 a +0.8% en 2T2026 por ejecucion deficiente del nuevo menu de valor \"Everyday Affordable Price\").",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Historicamente fuerte, aunque el reciente traspie del menu EDAP (articulos por menos de USD 3) demostro los limites de ejecutar valor percibido a escala de franquicia (solo 60-65% de franquiciados ejecuto la arquitectura de precios recomendada, ademas de eliminar la popular promocion BOGO por USD 1 para financiarlo).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "49 anos consecutivos de aumento de dividendo (a las puertas de convertirse formalmente en Dividend King al cumplir 50 anos hacia fines de 2026), payout ratio ~60% sostenible, mas recompras activas sobre un negocio de altisima generacion de caja - historial de decadas de disciplina de capital.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership extremadamente bajo (0.07%). CEO Chris Kempczinski con patron de venta neta consistente (24 ventas vs 0 compras en el ultimo ano) - sin senal de compra, aunque tampoco alarma severa dado el tamano de la empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones, sin estructura de control dual ni voto diferenciado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Comunicacion directa y autocritica sobre los problemas de ejecucion del menu de valor EDAP en la llamada de resultados de 2T2026 (CEO reconocio explicitamente el fallo de ejecucion, insistiendo en que no es un problema de estrategia sino de ejecucion), cambio de liderazgo domestico anunciado (nueva presidenta de EEUU Skye Anderson reemplazando a Joe Erlinger tras 7 anos en el cargo).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA ~2.64x (deuda financiera funded USD 40.1bn -bonos, excluye pasivos por arrendamiento operativo-, caja USD 0.82bn, EBITDA TTM USD 14.87bn) - saludable, consistente con grado de inversion solido (S&P BBB+, Moodys Baa1). Deuda/Patrimonio NO CALCULABLE: patrimonio TTM NEGATIVO (-USD 1.02bn) impulsado por Treasury Stock de -USD 80.5bn acumulado en decadas de recompras - CUARTO caso consecutivo del Dashboard con patrimonio negativo (tras ABBV-AZO-YUM), aqui con la causa mas clasica y reconocida del mercado, patron gemelo al de AZO.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.08, prueba acida 1.07 - saludable, la MEJOR liquidez de las ultimas cinco empresas del Dashboard (AZO-ABBV-YUM-CMG todas por debajo de 1.0x en al menos una metrica).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Grado de inversion solido (S&P BBB+, Moodys Baa1), acceso amplio y probado a mercados de deuda dado su tamano e historial crediticio de decadas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill moderado (USD 3.35bn sobre activos totales de USD 59.92bn, 5.6%) - balance dominado por activos inmobiliarios reales (terrenos, edificios) dado el modelo hibrido franquicia-inmobiliario, calidad de activos alta y tangible.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 57.38% (el mas alto del cluster de restaurantes de la sesion, refleja el componente de ingresos de renta inmobiliaria de alto margen), margen operativo 45.72% (excepcional, el mas alto del Dashboard de restaurantes), margen neto 31.72% - perfil de margenes de clase mundial.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE no informativo (patrimonio negativo). ROIC 16.62% vs WACC propio 8.05% - spread solido de ~8.6pp, mas modesto que YUM (63.45%) o TJX-AZO (26%) dado el mayor capital empleado del modelo inmobiliario, pero aun asi saludable. ROA 14.71%.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 0.462x (Ingresos TTM USD 27.70bn / Activos totales USD 59.92bn), la mas baja del cluster de restaurantes de la sesion (YUM 1.005x, CMG 1.401x) - consistente con el mayor capital inmovilizado en activos inmobiliarios propios.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de Ingresos 5y de 6.96% (Finviz), razonablemente limpio (el impacto COVID de MCD en 2020 fue mucho mas moderado que el de TJX gracias al modelo drive-thru-delivery, -9% vs una caida mucho mayor en retailers fisicos). Crecimiento mas lento que YUM (7.76%) o CMG historico (14.79%), consistente con el tamano-madurez muy superior de MCD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Historicamente muy consistente, PERO con una desaceleracion reciente real y documentada (comp sales EEUU de +3.9% a +0.8% en un trimestre) por errores de ejecucion del menu de valor, ya reconocidos explicitamente por la propia empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Correccion en curso de la estrategia de valor domestica (nuevo liderazgo de EEUU), continuo crecimiento internacional (mas de 100 paises, mercados emergentes con penetracion aun baja), inauguracion continua de nuevas unidades globalmente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM USD 11.34bn vs utilidad neta TTM USD 8.79bn - brecha normal explicada por D&A, sin distorsiones contables relevantes identificadas (a diferencia del beneficio fiscal no recurrente de YUM).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD 7.76bn, en tendencia de crecimiento solida y consistente (desde USD 5.49bn en FY2022, +41% acumulado), FCF Yield 4.02%, margen FCF de 28.02% sobre ingresos - excepcional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex/Ventas 12.94% (USD 3.58bn TTM), el mas alto del cluster de restaurantes de la sesion, reflejo de la estrategia \"Accelerating the Arches\" de apertura-remodelacion agresiva de unidades globalmente mas el componente inmobiliario propio del modelo de negocio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo creciente por 49 anos consecutivos (a un ano de convertirse en Dividend King formal) combinado con recompras activas - modelo de asignacion de capital de clase mundial, el historial mas largo y consistente del cluster de restaurantes de la sesion.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 22.14-22.27x, Forward P/E 19.52-20.68x (normal, mas bajo que el trailing, reflejo de crecimiento esperado), P/FCF 24.86x, EV/EBITDA ~15.62x - multiplos moderados-ricos, mas baratos en terminos relativos que YUM o CMG pero aun con poco margen de error dado el crecimiento mas lento de una empresa madura.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, growth 6% anclado en el CAGR historico limpio, ligeramente conservador por la friccion de ejecucion domestica reciente): USD 252.10/accion, MS -7.53%. Escenario B (sensibilidad, growth 8%, no adoptado): USD 280.20/accion, MS +2.78% - ambos escenarios en zona de valor razonable/MANTENER. Beta literal (0.42) resulto DEGENERADO en el chequeo de convergencia inicial (brecha 2.81x, la MAS EXTREMA de la sesion, produciendo un MS literal absurdo de +187.8%) - sustituido por beta 0.80 + prima de riesgo cualitativa +1.0pp (moderada, dado el grado de inversion solido BBB+/Baa1, mejor que el BB+ de YUM), logrando convergencia final excepcionalmente limpia (gap ~1.03x).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-7.53% (Escenario A adoptado, precio actual USD 272.62 vs valor intrinseco USD 252.10) - practicamente en valor razonable, dentro de la banda de MANTENER establecida por el framework.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de quick-service restaurants enorme, MCD ya con la penetracion mas profunda y madura de cualquier cadena del Dashboard (mas de 100 paises) - TAM incremental mas limitado que competidores mas jovenes-pequenos (YUM, CMG), aunque aun con espacio en mercados emergentes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Las MAS altas del sub-sector: escala de red inigualable, marca mas reconocida del mundo, modelo inmobiliario propio que ademas actua como barrera financiera adicional para franquiciados-competidores.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta (YUM-Taco Bell-KFC, Restaurant Brands International-Burger King, Wendys, Chipotle y decenas de cadenas regionales), poder de proveedores bajo (escala de compra global inigualable), poder de compradores del consumidor final alto, amenaza de sustitutos alta (delivery, otras cadenas, cocina en casa), barreras de entrada altas (unica del cluster con moat reforzado por el componente inmobiliario).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Defensivo: la comida rapida de bajo ticket tiende a resistir bien en recesiones (\"trade-down\" desde restaurantes de servicio completo), MCD historicamente uno de los negocios de consumo mas resilientes en downturns economicos (beneficiario neto durante la Gran Recesion de 2008-2009).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Moderado: riesgo laboral-salario minimo en EEUU y otros mercados, exposicion regulatoria en decenas de jurisdicciones dado el alcance global, riesgo de politica comercial-aranceles sobre insumos importados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real y significativa dado el alcance verdaderamente global (mas de 100 paises) - la mas alta diversificacion geografica, y por tanto exposicion cambiaria, del cluster de restaurantes de la sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de franquiciados y proveedores altamente diversificada globalmente, sin concentracion de cliente-proveedor unico relevante identificada en esta investigacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo bajo-moderado: MCD invierte fuertemente en digitalizacion (app, delivery, kioscos de autoservicio, drive-thru con IA) manteniendose a la vanguardia tecnologica del sector pese a su tamano y madurez.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo relativo al resto del Dashboard, sin litigios activos severos ni brotes de seguridad alimentaria identificados en esta sesion (a diferencia de YUM-CMG) - el riesgo reciente de MCD es puramente de ejecucion comercial, no de seguridad-legal.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Hito de convertirse formalmente en Dividend King al alcanzar 50 anos consecutivos de aumento de dividendo hacia fines de 2026; progreso de la correccion de estrategia de valor domestica bajo el nuevo liderazgo de EEUU; proximo reporte trimestral.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Patron de venta consistente del CEO Kempczinski (24 ventas vs 0 compras en el ultimo ano) - sin senal de compra, consistente con el patron ya visto en el resto del cluster de restaurantes de la sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso fuertemente positivo: calificacion Buy de 34 analistas, objetivo promedio USD 314-316 (+15.9% de alza) - diverge en direccion opuesta a este DCF (-7.53%), aunque la magnitud de la brecha es relativamente moderada dado que ambos numeros estan razonablemente cerca del precio actual.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.72972972972973,
+    "recomendacion": "MANTENER",
+    "tesis": "McDonalds combina el mejor perfil de margenes-liquidez-diversificacion del cluster de restaurantes de la sesion con una friccion de ejecucion domestica real pero manejable (menu de valor EDAP), dejando el DCF practicamente en valor razonable (-7.53%) a un ano de convertirse formalmente en Dividend King - MANTENER."
+  }
+}

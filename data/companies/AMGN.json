@@ -1,0 +1,259 @@
+{
+  "empresa": "Amgen Inc.",
+  "ticker": "AMGN",
+  "sector": "Salud - Biotecnologia-Farmaceutica (Biopharmaceuticals)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Biotecnologia diversificada de gran capitalizacion: salud osea-inflamacion (Prolia, legado de Enbrel), cardiovascular (Repatha, mejor vendedor con +34% interanual), enfermedades raras (via la adquisicion de Horizon Therapeutics, USD 27.8bn 2023: Tepezza, Krystexxa, Uplizna), biosimilares (Wezlana, Pavblu, cartera acumulada de aprox USD 13bn) y un pipeline emergente de obesidad-cardiometabolico (MariTide). Ingresos TTM USD 38.10bn.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat real via franquicias biologicas de crecimiento fuerte (Repatha, Evenity, Tezspire, Blincyto todas creciendo a doble digito), PERO bajo presion genuina de erosion por biosimilares en productos legado (Prolia enfrentando biosimilares globales, Enbrel ya generico desde hace anios).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion competitiva diversificada y solida en multiples franquicias establecidas, aunque MariTide (obesidad) entra en un campo competitivo abarrotado y de rapido movimiento contra incumbentes establecidos (Eli Lilly, Novo Nordisk, y Pfizer via Metsera, ya mencionada en la ficha de PFE de esta sesion).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios real en biologicos de marca, atenuado por competencia de biosimilares (fila 45) y presion generica de precios de medicamentos del sector.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Gestion navego la adquisicion grande y financiada con deuda de Horizon Therapeutics (USD 27.8bn, 2023, que elevo Deuda Neta/EBITDA de 2.2x a un pico de 4.0x) y esta ejecutando un plan de desapalancamiento explicito y genuino hacia niveles historicos, con un compromiso declarado de mantener la calificacion investment grade.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders tipica de una biotecnologia de gran capitalizacion sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Gobernanza razonable, sin escandalo especifico identificado esta sesion, aunque la carga de deuda de la adquisicion de Horizon (fila 22) refleja un riesgo de asignacion de capital real que aun se esta resolviendo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "GOTCHA: Deuda Neta/EBITDA de 3.56x TTM, ELEVADO, legado directo de la adquisicion de Horizon Therapeutics (USD 27.8bn, 2023) que elevo el ratio a un pico de 4.0x - en proceso genuino de desapalancamiento pero aun no en niveles historicos (aprox 2.2x pre-Horizon).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.37, razon rapida 0.95 - liquidez razonable, mejor que PFE (1.27-0.74) y similar a GILD (1.27-0.75).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade, con compromiso explicito de mantenerla pese al apalancamiento elevado post-Horizon; sin vencimientos de deuda concentrados identificados esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "GOTCHA: patrimonio MUY DELGADO (USD 11.69bn TTM) en relacion a la deuda (USD 57.30bn) - legado directo del financiamiento de la adquisicion de Horizon Therapeutics via deuda en vez de capital, distorsiona el ROE (fila 28).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "GOTCHA POSITIVO: margenes SOLIDOS y en MEJORA real y sostenida - bruto 69.52% TTM, operativo 29.99% TTM (expandido con fuerza desde 21.71% en FY2024), neto 22.95% TTM - una trayectoria de mejora genuina y limpia, SIN la distorsion de cargos unicos de IPRD ya vista en BMY-PFE-GILD esta misma sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "GOTCHA: ROE (85.94%) esta MASIVAMENTE inflado por el patrimonio delgado de la fila 25 (legado de la deuda de Horizon) - usar ROIC (17.74%, solido) como medida de rentabilidad economica mas confiable, mismo patron ya documentado con BMY-ITW.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de una biotecnologia de esta escala y diversificacion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios SOLIDO y CONFIABLE (9.1%, FY2021-FY2025), SIN distorsion COVID significativa (a diferencia de PFE) ni distorsion de escision (a diferencia de GE-DHR) - un CAGR genuinamente usable como base de proyeccion, a diferencia de la mayoria de sus pares farmaceuticos-biotecnologicos de esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento consistente y en ACELERACION real: ingresos +9.95% en FY2025, resultados del 2T2026 superaron expectativas (EPS ajustado USD 6.29 vs consenso), SIN la volatilidad de utilidad GAAP ya vista en BMY-PFE-GILD esta sesion (Amgen no tuvo un cargo de IPRD comparable en el periodo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "GOTCHA-CATALIZADOR MAYOR BINARIO: MariTide (obesidad-cardiometabolico) esta en multiples programas de Fase III para manejo cronico de peso y condiciones cardiovasculares-de sueno, con datos de Fase II mostrando perdida de peso sostenida por 2 anios, dosificacion MENSUAL diferenciada (vs semanal de competidores) y mejor tolerabilidad gastrointestinal - una apuesta de alto riesgo-alto retorno que podria transformar el perfil de crecimiento de la empresa si la ejecucion se alinea con las expectativas, pero con riesgo de ensayo clinico genuino y binario (resultados de Fase III pendientes).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias GAAP genuinamente confiable y en mejora real, sin la distorsion de cargos unicos de IPRD que afectaron a BMY-PFE-GILD esta misma sesion - una diferencia notable dentro del mismo sub-grupo de farmaceuticas-biotecnologicas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "GOTCHA: FCF Yield de 4.55% es el MAS BAJO de las cuatro farmaceuticas-biotecnologias analizadas esta sesion (BMY 8.78%, PFE 7.23%, GILD 7.65%) - reflejo directo de que AMGN cotiza al multiplo MAS RICO del grupo (P/FCF 21.97x, fila 40). FCF confiable (cuadra con el calculo cruzado), pero el mercado ya paga una prima real por el perfil de crecimiento-catalizador de la empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex de USD 2.30bn TTM (6.04% de ingresos) - el mas alto en proporcion de las farmaceuticas-biotecnologias de la sesion, reflejo de inversion real en capacidad de manufactura biologica.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo con yield 2.43% y payout razonable (62.63%, sostenible dado el ingreso neto saludable, a diferencia del payout GAAP no cubierto de PFE) - aunque la historia reciente de asignacion de capital esta dominada por el pago de la adquisicion de Horizon via deuda (fila 22) en vez de capital propio.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "GOTCHA: multiplos NOTABLEMENTE mas RICOS que el resto del cluster farmaceutico-biotecnologico de la sesion (P/E TTM 25.92x, forward 17.79x, EV/EBITDA 16.58x, P/FCF 21.97x vs el rango de 11x-15x tipico de BMY-PFE-GILD) - el mercado ya incorpora una prima de crecimiento-optimismo real sobre el exito de MariTide (fila 33), dejando menos margen de error si la Fase III decepciona.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO POSITIVO: beta literal degenerado (0.40-0.43, se uso 0.41) pero con la brecha de convergencia MAS PEQUENA de las cuatro farmaceuticas-biotecnologias de la sesion (aprox 1.61x, comparado con 2.6x-3.6x de BMY-PFE-GILD) - reflejo directo de que el multiplo real de mercado ya es rico (fila 40), reduciendo la magnitud de la correccion algebraica necesaria. Se uso una prima de riesgo cualitativa mas modesta (+1.0pp, la mas baja del cluster de cuatro) y un beta sustituto de 0.7. WACC resultante 7.46% (estructura de capital a valor de mercado: Equity USD 223.98bn, Deuda USD 57.30bn). FCF base = USD 10.18bn TTM (confiable). Crecimiento 5 anios = 6% (reflejo del momentum real de crecimiento, fila 32); terminal 2.5%. Valor Intrinseco: USD 373.44/accion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad ligeramente NEGATIVO (-9.86%, precio actual USD 414.30 vs valor intrinseco USD 373.44) - razonablemente alineado con un consenso de analistas RECALCULADO tras los resultados del 2T2026 (rango disperso de USD 317 a USD 452 entre diez actualizaciones recientes de precio objetivo, promedio aprox USD 406, sugiriendo aprox -2% adicional desde el precio actual) - ambas fuentes apuntan a una valoracion aproximadamente COMPLETA tras el rally de resultados del 4-ago-2026, similar en interpretacion al caso ya visto con BMY.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande en los mercados objetivo: cardiometabolico-obesidad (via MariTide, potencialmente enorme si el programa de Fase III tiene exito), enfermedades raras (via Horizon), inflamacion-salud osea.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada reales via franquicias biologicas establecidas, aunque bajo presion genuina de erosion por biosimilares (Prolia, legado de Enbrel, fila 49).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: competencia intensa, especialmente en el espacio de obesidad emergente donde MariTide entra como RETADOR (no lider establecido) contra Eli Lilly-Novo Nordisk-Pfizer (esta ultima via Metsera, ya analizada en la ficha de PFE de esta sesion).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad baja, demanda de biologicos-tratamiento de enfermedades cronicas mayormente no discrecional.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "GOTCHA: riesgo regulatorio generico de precios de medicamentos del sector, mas la presion especifica de erosion acelerada por biosimilares favorecida por politica regulatoria (Prolia, fila 45).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria significativa, negocio internacional relevante tipico de una biotecnologia de gran capitalizacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada entre multiples franquicias (salud osea, cardiovascular, enfermedades raras, biosimilares) - reduce la dependencia de un solo producto de forma mas efectiva que muchos pares de la sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Plataformas biologicas establecidas; el peptido de MariTide (agonista GIPR-antagonista GLP-1, dosificacion mensual) representa un enfoque tecnologico genuinamente diferenciado en el espacio de obesidad emergente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo social-regulatorio moderado tipico del sector, sin escandalo especifico identificado esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: resultados adicionales de Fase III de MariTide (el catalizador mas importante para el futuro de crecimiento de la empresa, fila 33); progreso continuado del desapalancamiento del balance post-Horizon (fila 22).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-CONTEXTO ADICIONAL: dentro del cluster de cuatro farmaceuticas-biotecnologicas consecutivas de la sesion (BMY-PFE-GILD-AMGN), AMGN es la UNICA sin un cargo de IPRD que distorsione su utilidad GAAP reciente - sus problemas son de naturaleza distinta (apalancamiento por M&A ya ejecutada -Horizon- en vez de cargos contables de M&A reciente, y una valoracion ya rica que deja menos margen de seguridad en vez de un riesgo de negocio estructural tipo cliff de patentes). El chequeo de convergencia de beta fue el mas LIMPIO del cluster, precisamente porque el multiplo real de mercado ya es rico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de analistas: Buy pero con DISPERSION real post-resultados del 2T2026 (diez actualizaciones recientes en el rango USD 317-USD 452), promedio recalculado aprox USD 406 tras el rally de resultados - sugiere valoracion aproximadamente completa, consistente direccionalmente con este DCF (-9.86%).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.1621621621621623,
+    "recomendacion": "MANTENER - biotecnologia diversificada de gran capitalizacion con franquicias solidas y en crecimiento genuino (Repatha, Evenity, Tezspire, Blincyto todas a doble digito), margenes en mejora real y sin distorsion de cargos unicos de IPRD (a diferencia de BMY-PFE-GILD esta misma sesion); pero con apalancamiento elevado (Deuda Neta/EBITDA 3.56x, legado de la adquisicion de Horizon Therapeutics de USD 27.8bn en 2023) y multiplos notablemente mas ricos que el resto del cluster farmaceutico-biotecnologico (P/FCF 21.97x vs 11x-15x tipico), reflejo de una prima de mercado real sobre el exito potencial de MariTide en obesidad (catalizador binario de Fase III aun pendiente); el DCF (con la brecha de convergencia de beta mas pequena del cluster, dado que el multiplo real ya es rico) da un margen de seguridad ligeramente negativo (-9.86%), razonablemente alineado con un consenso de analistas disperso pero centrado en una valoracion aproximadamente completa tras el rally de resultados del 2T2026",
+    "tesis": "Una biotecnologia diversificada y solida, con el unico cluster de farmaceuticas-biotecnologicas de la sesion sin distorsion contable de IPRD, pero ya cotizando a una valoracion rica que descuenta el exito de su gran apuesta de obesidad (MariTide) sin dejar mucho margen de error."
+  }
+}

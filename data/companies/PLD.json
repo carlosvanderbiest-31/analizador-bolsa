@@ -1,0 +1,259 @@
+{
+  "empresa": "Prologis, Inc.",
+  "ticker": "PLD",
+  "sector": "Bienes Raices - REIT industrial-logistica",
+  "fecha_analisis": "2026-10-08",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Ingresos via renta de bienes raices industriales-logisticos (almacenes, centros de distribucion, fulfillment) sobre un portafolio de 1.3bn de pies cuadrados en aprox 5900 propiedades en 20 paises (EEUU aprox 62% de pies cuadrados, aprox 86% del NOI). Segundo motor de ingresos: Strategic Capital, gestion de aprox 60bn USD de AUM de terceros en vehiculos de co-inversion (6.7% de los ingresos, 5% del NOI) - modelo hibrido propietario-gestor que reduce la intensidad de capital del crecimiento. Nuevo pivote hacia centros de datos con compromiso de capital de 7-8bn USD.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de escala y ubicacion: portafolio concentrado en mercados infill de alta barrera de entrada (cerca de puertos, centros de poblacion densos) con escasez de suelo disponible y restricciones de zonificacion que limitan nueva oferta competidora. Plataforma global de relaciones con los principales operadores logisticos-e-commerce del mundo dificil de replicar. Acceso a capital superior (calificacion crediticia A) y plataforma de Strategic Capital que apalanca capital de terceros para crecer sin diluir tanto el balance propio.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider global indiscutido en bienes raices industriales, varias veces mas grande que el siguiente competidor publico (Rexford Industrial, capitalizacion aprox 7.8bn USD vs 133.6bn USD de Prologis). Vacancia de la cartera propia (aprox 4.25-4.75% implicito en la guia de ocupacion 95.25-95.75%) mejor que el promedio nacional de EEUU (aprox 7.1%), reflejo de la calidad superior de ubicaciones infill.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios fuerte: crecimiento de NOI misma tienda guiado en 6.75-7.25% (base caja) para 2026, spreads de renovacion de renta positivos en mercados infill (peer EastGroup reporto spreads de hasta 40% en su segmento Sunbelt) - la demanda de e-commerce (aprox 25% del nuevo arrendamiento de almacenes en 2026, subiendo de aprox 20% en 2025) sostiene el poder de negociacion del propietario en ubicaciones de calidad.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Track record de M&A acumulativo desde la fusion AMB-ProLogis (2011): adquisiciones exitosas de DCT Industrial (2018), Liberty Property Trust (2020) y Duke Realty (2022), integradas sin incidentes materiales. 11 anios consecutivos de aumento de dividendo. Situacion en curso: tres ofertas por SEGRO (REIT industrial britanico) rechazadas por la junta de SEGRO en 2026 (ultima oferta 13.5bn GBP, aprox 18.2bn USD) - desenlace incierto, podria verse como disciplina de no sobrepagar o como riesgo de guerra de ofertas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Transicion de CEO ordenada y planificada: Hamid Moghadam (cofundador, 42 anios como CEO) paso a Chairman Ejecutivo el 1-ene-2026, sucedido por Dan Letter (presidente interno, promocion desde adentro, no una contratacion externa disruptiva). Datos especificos de ownership de insiders y estructura de compensacion del nuevo CEO no investigados con profundidad esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura UPREIT estandar de la industria (REIT mas unidades de partnership operativo), una sola clase de acciones comunes, sin control familiar-fundador dominante pese a que Moghadam sigue como Chairman Ejecutivo tras su retiro como CEO.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guidance elevado DOS VECES durante 2026 (comunicacion proactiva de resultados mejores a lo esperado), divulgacion publica activa de la situacion de la oferta por SEGRO (incluyendo los terminos rechazados y los plazos del codigo de adquisiciones britanico). Reportes trimestrales regulares con metricas especificas de la industria (FFO, NOI misma tienda, ocupacion).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda entre EBITDA Ajustado 4.7x (metrica estandar de apalancamiento para REITs, \"bien dentro del rango objetivo\" segun la propia gerencia) - moderado para el estandar de la industria, consistente con calificacion crediticia grado de inversion Moodys A2 y S&P A, ambas con perspectiva estable. Deuda equivale a aprox 23.9% de la capitalizacion de mercado total - apalancamiento conservador para una REIT de esta escala.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente tradicional poco relevante para una REIT (balance dominado por bienes raices de largo plazo, no capital de trabajo tipo empresa industrial). Liquidez respaldada por calificacion crediticia grado de inversion (A2-A) y acceso amplio a mercados de deuda-capital globales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Perfil de vencimientos tipico de un emisor grado de inversion de gran escala (bonos globales escalonados) - sin concentracion de vencimientos identificada en la investigacion disponible esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por bienes raices industriales tangibles de alta calidad en ubicaciones infill - exactamente el tipo de activo que se espera de una REIT. Goodwill-intangibles moderados, remanentes de las adquisiciones de DCT-Liberty-Duke Realty.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Metricas de margen GAAP tradicionales (bruto-operativo) poco comparables para una REIT por el peso de la depreciacion no monetaria de bienes raices y las ganancias de venta de activos que pasan por la utilidad neta. Margen neto TTM 43.5% (Utilidad Neta TTM 4.20bn USD entre Ingresos TTM 9.66bn USD), inusualmente alto por ganancias de venta-promotes de Strategic Capital. La metrica realmente comparable, crecimiento de NOI misma tienda, viene acelerando (6.4% en base neta efectiva y 8.5% en base caja en el 2T 2026).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE GAAP aprox 7.78% (Utilidad Neta TTM 4.20bn USD entre Patrimonio contable aprox 53.98bn USD), por debajo del costo de equity estimado (10.87%) - pero esto es un artefacto conocido de la contabilidad de REITs: la depreciacion reduce tanto la utilidad neta como el patrimonio contable en libros, mientras que el valor economico real de los bienes raices tipicamente no se deprecia (con frecuencia se aprecia). El ROIC-cap rate real sobre NOI no se calculo con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos muy baja (aprox 0.10x, Ingresos TTM 9.66bn USD entre Activos estimados aprox 96bn USD) - estructural y esperable en una REIT (activos de larga vida util, capital muy intensivo), no una ineficiencia operativa. No comparable directamente con empresas no inmobiliarias del Dashboard.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Ingresos crecieron de 8.56bn USD (2024) a 9.19bn USD (2025), +7.45%. Core FFO por accion crecio de forma similar (guia 2026 de 6.22-6.30 USD vs 5.81 USD real de 2025, aprox +7.7%), impulsado por crecimiento organico de NOI misma tienda y ejecucion del pipeline de desarrollo, no por M&A reciente (ultima adquisicion grande fue Duke Realty en 2022).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento moderadamente ciclico: la demanda de espacio logistico esta ligada al comercio-consumo y es sensible a tasas de interes via cap rates (el sector sufrio una correccion real en 2022-2023 con subida de tasas y sobreoferta en mercados big-box), aunque ahora reacelerando con vacancia estabilizandose. Menos estable que un REIT defensivo tipo net-lease, mas estable que un ciclico industrial puro gracias al viento de cola estructural de e-commerce.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Multiples fuentes de crecimiento futuro: pivote a centros de datos (compromiso de capital de 7-8bn USD, capturando demanda de IA), expansion continua de Strategic Capital (AUM de terceros aprox 60bn USD, modelo de crecimiento eficiente en capital via comisiones), ganancia estructural de cuota de e-commerce en el arrendamiento de almacenes (aprox 25% del nuevo arrendamiento en 2026 vs aprox 20% en 2025), y opcionalidad de una eventual adquisicion de SEGRO (portafolio europeo de alta calidad, aunque con desenlace incierto).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Core FFO (metrica estandar de la industria REIT, excluye depreciacion no monetaria y ganancias de venta) es la medida de calidad de ganancias mas relevante, no la utilidad neta GAAP (distorsionada por depreciacion y promotes de Strategic Capital). Core FFO 2025 real 5.81 USD por accion, guia 2026 elevada dos veces a 6.22-6.30 USD por accion - tendencia de revision al alza consistente, senal de calidad.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "AFFO (Core FFO menos capex recurrente de mantenimiento-comisiones de arrendamiento-ajustes de renta lineal) no se obtuvo con precision por accion esta sesion - se estimo de forma conservadora en aprox 85% del Core FFO (aprox 4.94 USD por accion, rendimiento aprox 3.58% sobre el precio actual) como aproximacion informativa, no como cifra oficial verificada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex mayormente de CRECIMIENTO (desarrollo de nuevas propiedades industriales, pivote a centros de datos con 7-8bn USD comprometidos) financiado en parte via el modelo de capital ligero de Strategic Capital (terceros co-invierten). No se identifico un desglose preciso de capex de mantenimiento puro esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Asignacion de capital balanceada: dividendos (11 anios consecutivos de aumento, yield 3.11%), reinversion en desarrollo y pivote a centros de datos, crecimiento eficiente en capital via Strategic Capital (terceros aportan la mayoria del capital, Prologis cobra comisiones y mantiene coinversion de 15-55%), apalancamiento conservador (4.7x EBITDA, dentro del rango objetivo) que deja espacio para una eventual adquisicion de SEGRO sin comprometer el balance.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E GAAP 31.21x poco relevante para una REIT (distorsionado por depreciacion-ganancias de venta). La metrica correcta, P/FFO, es aprox 23.7x (precio 137.83 USD entre Core FFO 2025 real 5.81 USD) - moderado para una REIT industrial de esta calidad-escala, ni claramente barato ni en territorio de burbuja como el pico de 2021. Precio entre valor en libros 2.43x, tambien poco informativo aislado dado que el valor en libros contable subestima el NAV real de bienes raices que se aprecian (no se deprecian economicamente pese a la depreciacion contable).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco (Escenario A adoptado, DDM sobre Core FFO por accion descontado al costo de equity) = 96.6 USD/accion. Ver Dashboard columna Notas para el detalle completo de la metodologia (primera REIT del Dashboard, ver nota metodologica nueva).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad -29.9% (Escenario A) frente al precio actual de 137.83 USD. Sensibilidad con un costo de equity 1 punto porcentual menor (beta sustituto mas moderado): -17.9% - sigue negativo bajo ambos supuestos, a diferencia de LIN donde un escenario resultaba neutro.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de bienes raices industriales-logisticos global enorme y en expansion estructural: e-commerce ya representa aprox 25% del nuevo arrendamiento de almacenes en 2026 (subiendo de aprox 20% en 2025), cada venta online requiere aprox 3 veces mas espacio de distribucion que una venta en tienda fisica. Nuevo TAM emergente en centros de datos ligado a demanda de IA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: escasez de suelo disponible en ubicaciones infill de alta barrera (cerca de puertos, centros de poblacion densos), restricciones de zonificacion, capital intensivo, y relaciones globales con los principales operadores logisticos dificiles de replicar a la escala de Prologis.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad: alta en submercados sobre-construidos de naves big-box (vacancia en doble digito) pero baja en ubicaciones infill-last-mile de calidad (vacancia menor a 5%, foco de Prologis). Poder de clientes: moderado (base de aprox 6500 clientes diversificada, sin concentracion extrema). Poder de proveedores: moderado (costos de construccion-suelo). Nuevos entrantes: amenaza baja en el segmento de escala-calidad de Prologis. Sustitutos: amenaza baja-moderada (automatizacion-robotica podria reducir el espacio requerido por unidad de rendimiento a largo plazo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad moderada: sensible al comercio global, gasto de consumo, y muy sensible a tasas de interes via cap rates (correccion real 2022-2023). Parcialmente amortiguada por el viento de cola estructural de e-commerce y la calidad infill del portafolio.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio-politico diversificado geograficamente (EEUU aprox 62% de pies cuadrados, resto en Europa-Asia-LatAm) pero con exposicion especifica en el Reino Unido-Union Europea por la oferta en curso por SEGRO (sujeta al codigo de adquisiciones britanico y posible escrutinio de competencia). Riesgo de politica comercial-aranceles que podria afectar volumenes de comercio y demanda de espacio logistico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion real a tipo de cambio dado que aprox 38% de los pies cuadrados estan fuera de EEUU (Europa, Asia, LatAm) - se amplificaria materialmente si la adquisicion de SEGRO (activos denominados en libras esterlinas) se concreta.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de aprox 6500 clientes diversificada por industria (e-commerce, 3PL, retail, manufactura) sin concentracion extrema identificada en la investigacion disponible esta sesion, aunque los clientes mas grandes (grandes operadores de e-commerce-logistica) son individualmente significativos por el tamano de sus contratos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico moderado: la automatizacion-robotica en almacenes podria reducir el espacio requerido por unidad de throughput a largo plazo, pero tambien exige edificios mas sofisticados (mayor altura libre, capacidad electrica, edificios de varios pisos en mercados infill densos) que Prologis esta bien posicionado para proveer. El pivote a centros de datos muestra capacidad de adaptacion del portafolio a nuevas categorias de demanda.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Exposicion ESG relevante: la construccion-operacion de bienes raices tiene huella de carbono considerable (carbono incorporado, consumo energetico), y el pivote a centros de datos anade intensidad energetica-hidrica adicional. Mitigado parcialmente por el programa de energia solar en techos de naves industriales (parte del negocio de Essential Real Estate), que ademas genera ingresos incrementales.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Catalizador-riesgo binario principal: desenlace de la saga de adquisicion de SEGRO (tres ofertas rechazadas, la mas reciente de 13.5bn GBP, aprox 18.2bn USD, bajo plazos del codigo de adquisiciones britanico) - podria resultar en una adquisicion transformacional, una oferta mejorada, o el abandono completo del intento. Resultados del 3T-4T 2026 y continuidad de las revisiones al alza de guidance tambien relevantes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Transicion de CEO reciente (Dan Letter asumio 1-ene-2026) - datos especificos de compras-ventas de insiders no investigados con profundidad esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura mixta: consenso Moderate Buy entre 18 analistas (9 Strong Buy, 1 Moderate Buy, 8 Hold - una proporcion de Hold mas alta que en otras empresas del Dashboard), precio objetivo promedio en el rango 151-158 USD (aprox +5% a +15% sobre el precio actual) - mas alcista que el DDM bottom-up pero con menos unanimidad que en otras coberturas de este Dashboard.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7837837837837838,
+    "recomendacion": "MANTENER, NO ABRIR NUEVA POSICION - primera REIT del Dashboard (Bienes Raices), negocio de calidad muy alta (moat de escala-ubicacion infill, plataforma Strategic Capital, pivote a centros de datos, 11 anios de dividendo creciente) pero el DDM sobre FFO muestra sobrevaloracion tanto en el escenario base (-29.9%, beta 1.34) como en la sensibilidad con un costo de equity mas moderado (-17.9%) - a diferencia de LIN, aqui ningun escenario calculado resulta neutro o positivo. El desenlace incierto de la oferta por SEGRO (rechazada tres veces) agrega un catalizador-riesgo binario adicional que conviene esperar a que se resuelva antes de tomar una posicion. El precio actual ya refleja bastante optimismo sobre la reaceleracion de NOI misma tienda guiada para 2026.",
+    "tesis": "Lider global indiscutido de bienes raices industriales con un moat de escala-ubicacion dificil de replicar y multiples motores de crecimiento (e-commerce, centros de datos, Strategic Capital), pero cotiza con poco margen de seguridad bajo un DDM conservador sobre FFO, incluso antes de conocer el desenlace de su intento de adquisicion de SEGRO."
+  }
+}

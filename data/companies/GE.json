@@ -1,0 +1,259 @@
+{
+  "empresa": "GE Aerospace",
+  "ticker": "GE",
+  "sector": "Industriales - Motores Aeroespaciales (Aerospace Engines)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Fabricante de motores de avion puro (post-escision), con 2 segmentos: Commercial Engines & Services -CES- (~75% de ingresos, motores comerciales incluido el LEAP -joint venture CFM con Safran-, y servicios de posventa) y Defense & Propulsion Technologies -DPT-. Resultado de la ruptura del antiguo conglomerado General Electric en 3 empresas independientes: GE HealthCare (escindida ene-2023), GE Vernova (escindida abr-2024), y GE Aerospace (la entidad remanente).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat EXCELENTE de doble capa: (1) oligopolio de solo TRES fabricantes de motores comerciales grandes en el mundo (GE, Pratt & Whitney de RTX, Rolls-Royce); (2) modelo \"razor-razorblade\" clasico - los motores nuevos se venden a margenes bajos-cercanos al costo, pero generan decadas de ingresos de posventa (repuestos-mantenimiento) de MUY alto margen sobre la base instalada, lo que explica el backlog de servicios comerciales de USD 170bn (mas grande que el backlog de equipo nuevo).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion DOMINANTE: el motor LEAP (joint venture CFM con Safran) es el motor lider en los aviones de pasillo unico mas vendidos del mundo (737 MAX, familia A320neo) - entregas de LEAP +41% en 1S2026, revenue de equipo +30% interanual.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios FUERTE y demostrado en el negocio de posventa: margen operativo de CES de 27.3% (2T2026), muy superior al margen operativo consolidado (20.24%) - la mezcla de repuestos-servicios de alto margen sobre una base instalada creciente es el motor central de la rentabilidad.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Larry Culp (desde 2018) - ampliamente reconocido por ejecutar exitosamente la ruptura del conglomerado GE en 3 empresas independientes y por la disciplina operativa-de margen resultante en GE Aerospace como entidad standalone; guia FY2026 elevada (utilidad operativa USD 9.85-10.25bn).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap industrial sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes (post-escisiones).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Gobernanza con un LEGADO historico complejo (la antigua GE conglomerada enfrento cuestionamientos significativos sobre practicas contables-GE Capital en la era pre-2018), pero la entidad GE Aerospace standalone bajo Culp tiene un historial reciente mucho mas limpio - sin escandalos de gobernanza nuevos detectados esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 0.93x (deuda total USD 19.16bn, caja USD 9.35bn, EBITDA TTM USD 10.59bn) - saludable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de solo 0.98 (por debajo de 1.0), razon rapida 0.63 - liquidez AJUSTADA, similar a RTX.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance con complejidad REAL heredada del conglomerado historico: obligaciones de pension legadas de decadas de operacion como GE (una de las mayores del sector industrial de EEUU historicamente) y el run-off residual de GE Capital - no cuantificado en detalle esta sesion, pero una fuente de complejidad distinta a la de otras empresas del Dashboard.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes SOLIDOS: bruto 31.05%, operativo 20.24% (CES especificamente en 27.3%), neto 17.72% - entre los mejores del sector Industrial de la sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROIC de 31.03% - EXCELENTE, el MAS ALTO de cualquier empresa de defensa-aeroespacial de la sesion (superior incluso al 27.42% de LMT), reflejo del modelo de posventa de alto margen sobre base instalada. ROE 48.23% tambien muy alto (patrimonio USD 17.9bn, moderadamente apalancado).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "GOTCHA: el CAGR de ingresos 5 anios NO ES CALCULABLE de forma significativa por las escisiones de GE HealthCare (ene-2023) y GE Vernova (abr-2024) - los datos historicos de ingresos pre-2025 mezclan periodos con distinta composicion societaria (el antiguo conglomerado GE completo vs la entidad standalone actual). Se usa el crecimiento RECIENTE reportado (ingresos +23% interanual en 1S2026, +21% en 2T2026) como referencia de crecimiento en su lugar - mismo tratamiento ya aplicado a empresas de IPO reciente (CRCL) pero aqui por escision en vez de salida a bolsa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Ciclicidad genuina ya demostrada historicamente (el negocio de aviacion de la antigua GE sufrio fuertemente durante la pandemia 2020-2021, similar a HWM) - actualmente en un ciclo alcista fuerte impulsado por la rampa del LEAP y la recuperacion-crecimiento de la demanda de viajes aereos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "GOTCHA-CATALIZADOR MAYOR: backlog total de mas de USD 210bn, incluyendo USD 170bn de backlog de SERVICIOS comerciales (subio casi USD 30bn solo desde fines de 2024) - visibilidad de ingresos multi-anio excepcional del negocio de posventa de alto margen, el verdadero motor de valor de largo plazo del modelo \"razor-razorblade\".",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias en mejora post-escision, aunque la comparabilidad historica limitada (fila 31) anade cierta incertidumbre a la evaluacion de tendencias de calidad de largo plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF debil en terminos de FCF Yield (2.20%, dado el precio ya muy exigente de la accion), aunque el FCF ABSOLUTO crecio muy rapido (de USD 3.68bn en FY2024 a USD 7.26bn en FY2025 a USD 8.40bn TTM, +128% en 18 meses).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex relativamente bajo (TTM USD 1.40bn, ~2.77% de ventas) - modelo de negocio capital-light centrado en servicios de alto margen.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital aun en construccion post-escision: dividendo modesto (yield 0.51%, payout 19.55%), programa de retorno de capital todavia desarrollandose como entidad standalone.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "GOTCHA: multiplos EXTREMADAMENTE RICOS, en el mismo territorio que HWM: P/E TTM 43.22x, forward 43.69x (practicamente plano, sin descuento por crecimiento futuro esperado en el multiplo), EV/EBITDA 36.98x, P/FCF 45.43x - de los mas caros de todo el Dashboard.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO: mismo patron que HWM - el beta literal (1.37) NO es sospechoso (coherente con la ciclicidad real ya demostrada por el negocio de aviacion de GE durante la pandemia 2020-2021), por lo que NO corresponde sustituirlo. El chequeo de convergencia revela una brecha ENORME: con WACC 10.70% (Ke CAPM 11.035% con beta 1.37 literal; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~3.95%) y FCF base TTM limpio (USD 8.396bn), un DCF a 5 anios con crecimiento 12% (moderado desde el 21-23% actual) y terminal 3% da un multiplo terminal implicito de solo 12.50x - una brecha ENORME frente al P/FCF real de mercado (45.43x, ratio 3.63x). A diferencia de BA (donde extender el horizonte a 10 anios SI cambio la conclusion sustancialmente, de -84% a -42%, un DCF fragil), aqui extender a 10 anios con un crecimiento escalonado agresivo (15%-10%-6% por tramos) solo mueve el resultado de -59.92% a -52.15% - una diferencia menor que confirma que la sobrevaloracion es un hallazgo ROBUSTO, no un artefacto de la eleccion de horizonte. Se opto por NO forzar convergencia de beta (misma logica ya aplicada a HWM) y reportar el resultado como senal genuina de sobrevaloracion. Valor Intrinseco (Escenario A, DCF FCFF 5 anios, growth 12%, terminal 3%, beta literal SIN sustituir): USD 146.96/accion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -59.92% (precio actual USD 366.70 vs valor intrinseco USD 146.96) - una de las valoraciones mas exigentes de todo el Dashboard, en el mismo territorio que HWM (-74.03%). Consenso de ~20 analistas (Strong Buy, objetivo promedio USD 404.90, +10.42%) diverge en direccion RADICALMENTE opuesta - el mercado paga por una narrativa de decadas de ingresos de posventa de alto margen sobre una base instalada creciente que un DCF disciplinado de horizonte finito no logra racionalizar bajo ninguna combinacion razonable de crecimiento-WACC (ver robustez del hallazgo en fila 41).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM masivo y en crecimiento estructural: flota comercial global en expansion, cada motor vendido genera decadas de ingresos de posventa - uno de los TAM de mayor calidad (alto margen, muy predecible) del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada EXTREMAS: oligopolio genuino de tres fabricantes de motores comerciales grandes en el mundo, decadas de certificacion-historial de seguridad requeridas - uno de los moats mas fuertes del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: oligopolio de motores (GE-Pratt & Whitney-Rolls-Royce), con el LEAP en una posicion dominante en los programas de pasillo unico mas vendidos; poder de negociacion de armadores (Boeing-Airbus) y aerolineas significativo en la venta de motores nuevos, pero MUCHO menor en el negocio de posventa cautivo sobre la base instalada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad genuina ya demostrada con severidad durante la pandemia 2020-2021 (el negocio de aviacion de GE sufrio fuertemente) - el beta de 1.37 (no degenerado) refleja esto correctamente, sin necesidad de sustitucion, mismo patron que HWM dentro del sector Industrial de la sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio moderado: certificacion-seguridad aeroespacial (FAA-EASA), exposicion parcial a regulacion de defensa-exportacion via el segmento DPT (mas pequeno que en NOC-GD-LMT-RTX).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria significativa: ventas globales de motores-servicios a aerolineas-armadores de todo el mundo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion de cliente moderada-alta: ventas de motores nuevos concentradas en pocos armadores (Boeing-Airbus) y programas, aunque el negocio de posventa tiene una base de clientes mas amplia (aerolineas globales operando la flota instalada).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico genuino en ingenieria de motores a reaccion (LEAP via CFM-Safran, GE9X, tecnologia de turbinas de proxima generacion) - inversion en I+D constante que sustenta el moat de la fila 13.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG moderado: huella de manufactura industrial-aeroespacial, exposicion parcial a defensa via DPT (menor que en los contratistas de defensa pura de la sesion), sin controversias mayores nuevas detectadas esta sesion (aunque el legado historico de la antigua GE conglomerada incluye cuestionamientos de gobernanza-contables de decadas pasadas, ver fila 20).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: continuidad de la rampa de entregas del LEAP (+41% en 1S2026), conversion del backlog de servicios de USD 170bn, proximo reporte de resultados 3T2026 programado para 20-oct-2026.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-CONTEXTO HISTORICO: GE Aerospace es el resultado de la ruptura del conglomerado industrial mas grande de la historia de EEUU en 3 empresas independientes (GE HealthCare escindida ene-2023, GE Vernova escindida abr-2024, dejando GE Aerospace como la entidad remanente centrada exclusivamente en motores de avion). Esto hace que los datos financieros HISTORICOS (pre-2025) mezclen periodos de composicion societaria muy distinta y sean de comparabilidad limitada (ver fila 31) - un caso similar en espiritu al ya documentado con empresas de IPO reciente (CRCL), pero originado en una escision en vez de una salida a bolsa. Bajo Larry Culp, la resultante GE Aerospace standalone es una empresa mucho mas simple-enfocada-rentable que el conglomerado historico, con margenes-ROIC que superan ampliamente los de la era conglomerada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~20 analistas: calificacion STRONG BUY, objetivo promedio USD 404.90 (+10.42% de alza sobre el precio actual) - consenso positivo pero de magnitud MUCHO menor que la sobrevaloracion implicita en este DCF (-59.92%), misma tension ya vista en HWM entre el consenso de mercado y una valoracion disciplinada de flujos de caja.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4594594594594597,
+    "recomendacion": "REDUCIR - fabricante de motores de avion de calidad excepcional (ROIC 31.03%, el mas alto entre los nombres de defensa-aeroespacial de la sesion; oligopolio genuino de tres fabricantes; modelo razor-razorblade con backlog de servicios de USD 170bn) resultante de la exitosa ruptura del conglomerado historico GE en 3 empresas independientes bajo Larry Culp; PERO cotizando a multiplos extremadamente ricos (P/E 43x, P/FCF 45x) que un DCF disciplinado no logra racionalizar bajo ninguna combinacion razonable de crecimiento-horizonte, pese a un beta literal (1.37) NO degenerado y coherente con la ciclicidad real ya demostrada por el negocio en 2020-2021; margen de seguridad de -59.92%, con el hallazgo confirmado como ROBUSTO (no dependiente de la eleccion de horizonte del DCF, a diferencia de BA) - mismo patron de sobrevaloracion 'de calidad' ya visto en HWM esta sesion",
+    "tesis": "El fabricante de motores de avion mas rentable del oligopolio de tres, resultado de la exitosa ruptura del conglomerado historico GE, con un backlog de servicios de USD 170bn que garantiza decadas de ingresos de alto margen - pero cotizando a una valoracion que ningun DCF disciplinado logra justificar, el segundo caso de este tipo en el sector Industrial de la sesion tras HWM."
+  }
+}

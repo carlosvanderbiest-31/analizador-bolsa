@@ -1,0 +1,259 @@
+{
+  "empresa": "Interactive Brokers Group, Inc.",
+  "ticker": "IBKR",
+  "sector": "Financiero - Broker-Dealer Electronico Global",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Broker-dealer electronico global: ingresos por comisiones (+30% interanual en 2T 2026), intereses sobre saldos de margen-efectivo de clientes, y otros servicios. Base de clientes profesionales-institucionales-retail sofisticados a nivel global (a diferencia de HOOD, mas retail-EEUU).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat tecnologico genuino: plataforma de ejecucion de bajo costo y acceso directo al mercado construida desde 1977 bajo la filosofia de ingenieria-eficiencia de Thomas Peterffy. La automatizacion extrema de procesos permite ofrecer las comisiones-tasas de margen mas bajas de la industria manteniendo margenes de rentabilidad superiores a los competidores - un moat de estructura de costos dificil de replicar.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Uno de los brokers electronicos mas grandes y eficientes del mundo. Crecimiento de cuentas de +34% interanual, equity de clientes +40% a USD 930bn (record), efectivo no invertido de clientes +27% a USD 182bn (record) - crecimiento de escala robusto y sostenido.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios INVERSO al de otras empresas del Dashboard: la ventaja competitiva de IBKR es COBRAR MENOS que la competencia gracias a su estructura de costos automatizada, no cobrar mas - un moat basado en LIDERAZGO EN COSTOS, no en poder de precio tradicional.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Fundador Thomas Peterffy permanece como Chairman, cultura de ingenieria-eficiencia de decadas. Estructura de capital atipica (ver gotcha de fila 25): los accionistas publicos de IBKR Group Inc. poseen solo ~26.5% de la economia consolidada via una estructura tipo Up-C, con el resto en manos de Peterffy y partes relacionadas via IBG LLC.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Peterffy mantiene una participacion economica muy superior a la de cualquier otro fundador-CEO del Dashboard via la estructura de interes no controlante (aunque tecnicamente fuera de las acciones publicas de IBKR Group Inc.) - alineacion de incentivos maxima en la practica, aunque atipica en su estructura.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de doble capa atipica: IBKR Group Inc. (la entidad publica) posee solo una fraccion (~26.5%) de IBG LLC (la entidad operativa), con el resto en interes no controlante de Peterffy y partes relacionadas - un tipo de estructura de gobernanza (similar en espiritu a un Up-C) no vista antes en este Dashboard. El efecto practico es una alineacion de incentivos fuerte con el fundador, pero el accionista publico solo captura una fraccion de la economia total.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados. Entorno regulatorio estandar de broker-dealers (SEC, FINRA, reguladores internacionales dado el alcance global).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Posicion de caja neta corporativa (no relacionada a clientes) estimada en aprox -1.30x sobre EBITDA aproximado - deuda corporativa practicamente nula (USD 13-19M), mismo patron de caja neta amplia ya visto en HOOD (-1.35x). La cifra de Debt/Equity de 7.72x que reportan algunos agregadores (Finviz) mezcla pasivos relacionados a clientes con deuda corporativa real - no usar esa cifra sin ajustar, mismo gotcha ya establecido con HOOD-NU-JPM.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.05 (Finviz) - metrica de liquidez tradicional poco informativa para un broker-dealer, mismo criterio ya establecido con HOOD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda corporativa practicamente nula, calendario de vencimientos no relevante.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "GOTCHA METODOLOGICO NUEVO: estructura de capital tipo Up-C con interes NO controlante MAYORITARIO, primera vez en el Dashboard. El patrimonio TOTAL consolidado (USD 22.25bn) incluye USD 16.35bn de interes no controlante (Peterffy y partes relacionadas via IBG LLC) - los accionistas publicos de IBKR Group Inc. poseen solo el patrimonio ATRIBUIBLE (USD 5.90bn, apenas 26.5% del total). Se uso el patrimonio-utilidad ATRIBUIBLE (consistente con el EPS reportado) para el DCF y el Valor en Libros por Accion (USD 13.17), NO las cifras consolidadas totales - cualquier metrica que no distinga explicitamente entre consolidado y atribuible a IBKR Group Inc. puede estar mal calculada por un factor de casi 4x.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes excepcionales en base CONSOLIDADA (antes de interes minoritario): margen operativo-pretax aprox 77-86.66%, septimo trimestre consecutivo con margen pretax superior a 70% (2T 2026) - de los mas altos de cualquier institucion financiera del Dashboard. El margen neto ATRIBUIBLE a IBKR Group Inc. (relevante para EPS) es notablemente menor (aprox 16.5% de los ingresos TTM) dado que el 73.5% restante de la utilidad consolidada pertenece al interes no controlante.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE (base IBKR Group Inc. atribuible) de 20.99% (Finviz) - comodamente por encima del Ke propio (10.87%), creacion de valor genuina para el accionista publico pese a la fraccion minoritaria de propiedad.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Metrica de rotacion de activos tradicional no aplica de forma informativa a un broker-dealer (balance dominado por activos-pasivos relacionados a clientes) - se dejo en blanco en el Dashboard, mismo criterio que HOOD-JPM.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios de 33.08% (Finviz) esta claramente INFLADO por una base baja de hace varios anos combinada con el reciente auge de volumen-volatilidad de trading - no representa una tasa sostenible a perpetuidad, mismo tipo de sanity-check ya aplicado a NVDA-UBER-MU. Crecimiento reciente genuino y fuerte de todas formas: ingresos +20.2% interanual TTM.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento con cierta ciclicidad ligada al volumen-volatilidad de trading y al nivel de tasas de interes (ingreso por margen-efectivo de clientes), pero con una tendencia estructural de crecimiento de cuentas muy consistente y sostenida durante muchos anios (+34% interanual en el ultimo trimestre) - menos ciclico que un broker puramente transaccional-retail como HOOD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Motores de crecimiento futuro: expansion internacional agresiva (Corea del Sur, primer e-broker en ofrecer acceso a la Bolsa de Corea y Nextrade), nuevos productos (IPO de SpaceX en Europa, cripto en toda Europa), integracion de IA en herramientas de gestion de cuenta-planificacion de operaciones.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "GOTCHA: el flujo de caja operativo reportado TTM (aprox USD 16.76bn) esta groseramente distorsionado por swings de balance de CLIENTES (efectivo no invertido de clientes +27% interanual a USD 182bn record, equity de clientes +40% a USD 930bn) - mismo patron exacto ya documentado con HOOD (broker-dealer). Se uso la utilidad neta ATRIBUIBLE a IBKR Group Inc. TTM (USD 1.13bn) como proxy de FCF para el DCF, justificado porque el capex real es marginal para este tipo de negocio tecnologico-liviano en activos fijos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF-EBITDA no es un concepto limpio para un broker-dealer (ver fila 35) - se uso utilidad neta atribuible como proxy, mismo criterio que HOOD.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex no desglosado con precision esta sesion, pero descrito como marginal para este tipo de negocio (plataforma tecnologica propia, sin activos fisicos intensivos) - consistente con el patron ya visto en HOOD-CRCL-SPGI-MCO de negocios financieros-de datos genuinamente asset-light.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital conservador: dividendo modesto (yield 0.36-0.39%, payout 13.65%), sin un programa de recompras agresivo destacado esta sesion (a diferencia de SPGI-MCO-NFLX) - la mayor parte de la utilidad se retiene para financiar el crecimiento de la plataforma-expansion internacional.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos MUY exigentes: P/E TTM 36.00-36.03x (el mas alto de cualquier institucion financiera del Dashboard, incluida MCO 30.3x), P/B 6.87-6.91x (el mas alto de cualquier aseguradora-broker del Dashboard). Refleja el premium que el mercado paga por la calidad-crecimiento excepcional del negocio, pero deja poco margen de error.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor Intrinseco (DCF propio, Escenario A adoptado): USD 59.27/accion (Ke=WACC 10.87% via CAPM: beta 1.34 LITERAL, sin necesidad de sustituto pese a ser un broker-dealer -a diferencia de HOOD 2.32 o COIN 3.36, IBKR tiene un beta mucho mas moderado, reflejo de una base de clientes mas profesional-diversificada y menos ligada al sentimiento minorista-cripto-; Rf 3.5%, ERP 5.5%; deuda corporativa practicamente nula, WACC=Ke). FCF base = utilidad neta atribuible TTM USD 1.13bn (ver gotcha de fila 35). Crecimiento 5 anios = 15% (moderado, por debajo del consenso EPS de 18.35% y muy por debajo del CAGR historico inflado de 33.08%); terminal 4%. Escenario B (no adoptado, growth EPS consenso 18.35%): USD 67.55 (-25.3%) - AMBOS escenarios dan sobrevaloracion severa.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -34.5% (precio actual USD 90.46-90.51 vs valor intrinseco USD 59.27) - NEGATIVO y razonablemente ROBUSTO (el escenario mas generoso sigue en -25.3%), mismo patron de robustez ya visto en HOOD-COIN-MU-SNDK-TGT-MCO. Chequeo cruzado: multiplo terminal implicito de apenas 15.14x vs el P/E de mercado real de aprox 36x - brecha grande, consistente con multiplos absolutos ya identificados como muy exigentes (fila 40). Consenso de 12 analistas (Buy, objetivo USD 106.30-109.42, +17.5% a +20.9%) diverge en direccion OPUESTA a este DCF, mismo patron ya visto en HOOD-COIN-MCO.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en expansion: mercado global de brokerage electronico-trading, con expansion geografica activa (Corea del Sur, Europa) y de productos (cripto, IPOs internacionales) ampliando el TAM direccionable mas alla de EEUU.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas: infraestructura tecnologica propietaria construida durante decadas, licencias regulatorias en decenas de jurisdicciones globales, estructura de costos que competidores no pueden replicar facilmente sin la misma escala-cultura de automatizacion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: rivalidad alta (Charles Schwab, Fidelity, Robinhood -ya en el Dashboard-, brokers internacionales), pero IBKR compite principalmente en costo-tecnologia, no en marketing, lo que reduce la presion de gasto competitivo. Poder de clientes moderado (usuarios sofisticados-profesionales que valoran la ejecucion de bajo costo, alta lealtad una vez migrados por la friccion de cambiar de broker). Amenaza de sustitutos baja, amenaza de nuevos entrantes baja-moderada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad moderada: ingresos por comisiones-margen ligados al volumen-volatilidad de trading (variable trimestre a trimestre) y por interes ligados al nivel de tasas de la Fed, pero el crecimiento estructural de cuentas-activos de clientes ha sido consistente durante muchos anios, amortiguando parte de esa ciclicidad transaccional.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio estandar de broker-dealers globales (SEC-FINRA en EEUU, reguladores locales en cada jurisdiccion de expansion) - sin catalizador negativo inminente identificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real dada la expansion internacional activa (Corea, Europa, alcance global de clientes) - no cuantificada con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes muy diversificada (retail sofisticado, profesionales, institucional, asesores financieros independientes, a nivel global) - sin concentracion de cliente individual relevante.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "El riesgo tecnologico es tambien la principal FORTALEZA de IBKR (similar en espiritu a PGR): su moat ES la tecnologia-automatizacion, asi que el riesgo real es que un competidor logre un salto tecnologico-de IA mayor, no que la tecnologia en si sea disruptiva para IBKR. IBKR ya esta integrando IA en herramientas de cliente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo, sin exposicion estructural tipo combustibles fosiles-tabaco. Riesgo de ciberseguridad relevante dado el modelo 100% electronico, no cuantificado con precision esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Seguimiento de la expansion en Corea del Sur y Europa (cripto, IPOs); trayectoria de tasas de la Fed (afecta ingreso por intereses de saldos de clientes); crecimiento de cuentas-DARTs trimestre a trimestre.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion - pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de 12 analistas: calificacion Buy, precio objetivo promedio USD 106.30 a USD 109.42 (+17.5% a +20.9% de alza) - notablemente mas optimista que este DCF propio (incluso el escenario mas generoso, -25.3%), mismo patron ya visto en HOOD-COIN-MCO donde se prioriza el DCF bottom-up dado lo exigente de los multiplos absolutos observados.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4594594594594597,
+    "recomendacion": "NO COMPRAR - VALORACION MUY EXIGENTE (reducir si ya se tiene posicion) - broker-dealer excepcional con el moat tecnologico-de costos mas fuerte de la industria, pero cotiza a los multiplos mas caros de cualquier institucion financiera del Dashboard (P/E 36x); el DCF da sobrevaloracion severa y razonablemente robusta",
+    "tesis": "El broker-dealer electronico mas eficiente del mundo bajo la disciplina de decadas de Thomas Peterffy, con una estructura de capital atipica (interes no controlante mayoritario) y una valoracion que exige continuidad del crecimiento excepcional actual."
+  }
+}

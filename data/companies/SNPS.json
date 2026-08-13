@@ -1,0 +1,259 @@
+{
+  "empresa": "Synopsys, Inc.",
+  "ticker": "SNPS",
+  "sector": "Tecnologia - Software de diseno electronico (EDA) e IP de semiconductores, mas simulacion de ingenieria (Ansys)",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Software de diseno electronico (EDA, herramientas de diseno-verificacion de chips) mas licenciamiento de IP de semiconductores, y desde jul-2025 tambien software de simulacion de ingenieria (Ansys, mecanica-fluidos-electromagnetica) tras una adquisicion de 35 mil millones USD - posicionamiento estrategico \"Silicon to Systems\". Ingresos TTM 8.68 mil millones USD (+39.5 por ciento, en gran parte por la consolidacion de Ansys, no crecimiento organico puro).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat extremadamente fuerte: EDA es un duopolio de facto (Synopsys y Cadence) con costos de cambio altisimos (flujos de trabajo de diseno de chips construidos durante anios alrededor de un conjunto especifico de herramientas). Ansys agrega liderazgo de categoria adicional en software de simulacion de ingenieria across multiples industrias.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Numero uno o dos en EDA (junto a Cadence), numero uno en software de simulacion de ingenieria (Ansys) - posiciones combinadas genuinamente dominantes.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Historicamente fuerte por los costos de cambio, pero surgio una preocupacion real y especifica de analistas: la capacidad de ingenieria-fabricacion se esta desplazando hacia chips de IA-alto rendimiento y lejos de disenos de consumo, lo que podria reducir la amplitud del negocio de licenciamiento de IP (1.75 mil millones USD) pese al auge general de semiconductores.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "La adquisicion de Ansys (35 mil millones USD, cerrada 17-jul-2025) es la apuesta mas grande en la historia de la empresa - estrategicamente logica (encaje complementario real entre diseno de chips y simulacion de sistemas), financiada con 19 mil millones USD en efectivo (combinacion de caja propia y 16 mil millones USD de financiamiento de deuda comprometido, incluidos 4.3 mil millones USD de un prestamo a plazo). Todavia es pronto para juzgar la ejecucion: el mercado interpreto el guidance de may-2026 como demasiado conservador pese a superar expectativas ese trimestre.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Alineacion de incentivos del equipo directivo no investigada con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de una sola clase de acciones comunes (sin doble clase de supervoto).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion detallada con reconciliacion GAAP-no-GAAP clara. La reaccion del mercado a los resultados de may-2026 (venta masiva pese a superar expectativas, por guidance percibido como demasiado conservador y desaceleracion del licenciamiento de IP) sugiere escrutinio genuino y sofisticado del mercado sobre la calidad del guidance, no opacidad de la empresa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Apalancamiento nuevo y significativo por el financiamiento de la adquisicion de Ansys: deuda total 10.87 mil millones USD, caja 2.20 mil millones USD, deuda neta aprox 8.67 mil millones USD (aprox 45.23 USD por accion) - un cambio real frente al balance historicamente muy limpio y de bajo apalancamiento de Synopsys. Deuda a Patrimonio 0.36x.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.36x - liquidez de corto plazo razonablemente saludable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Prestamo a plazo de 4.3 mil millones USD retirado en jul-2025 como parte del financiamiento comprometido de 16 mil millones USD para la adquisicion de Ansys - estructura de vencimientos completa no verificada en detalle en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Probablemente incluye goodwill-intangibles sustanciales de la adquisicion de Ansys de 35 mil millones USD - un salto real en la composicion de activos intangibles del balance, tipico de una mega-adquisicion, a vigilar por riesgo de deterioro futuro si la integracion no cumple expectativas.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "GOTCHA CENTRAL DE ESTA FICHA: la utilidad neta GAAP se desplomo (-64.3 por ciento TTM) pese al salto de ingresos, por costos de integracion-reestructuracion de Ansys, gasto de interes sobre la deuda nueva de la adquisicion, y amortizacion de intangibles adquiridos - todos costos reales pero LIGADOS A UN EVENTO IDENTIFICABLE Y TEMPORAL (la mega-adquisicion), no deterioro del negocio subyacente. El guidance no-GAAP de la propia empresa (EPS de 14.72 a 14.80 USD para el ano fiscal 2026) implica una utilidad no-GAAP muy superior (aprox 2.8 mil millones USD) a la utilidad neta GAAP TTM (773 millones USD) - una brecha enorme que hay que entender antes de juzgar la rentabilidad real de la empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE y ROIC en base GAAP no son informativos en este periodo transicional por la utilidad neta deprimida. Sobre una base no-GAAP normalizada probablemente serian mucho mas saludables, pero no se calcularon con precision en esta sesion (dato pendiente).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "No analizado con profundidad en esta sesion (dato pendiente) - el salto reciente en la base de activos por la adquisicion de Ansys probablemente deprime mecanicamente los ratios de rotacion por un tiempo, independientemente de la eficiencia operativa real.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "El crecimiento de ingresos TTM (+39.5 por ciento) es en gran parte un efecto de CONSOLIDACION de Ansys (adquirida jul-2025), NO crecimiento organico real - importante no confundirlo con hipercrecimiento organico. La comparacion FY2025 a FY2026 guiada (+37 a 38 por ciento) tambien esta inflada por el mismo efecto (FY2025 solo tuvo aprox 1.5 meses de Ansys consolidado). La utilidad neta GAAP cayo fuertemente en el mismo periodo (ver fila 27).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "\"Paradoja de resultados\" real documentada por analistas: los resultados de may-2026 (2T fiscal 2026) superaron expectativas Y elevaron el guidance, pero la accion cayo de todas formas porque el mercado interpreto el guidance como demasiado conservador y detecto desaceleracion en el crecimiento del negocio de licenciamiento de IP - una senial de incertidumbre genuina sobre la trayectoria de crecimiento real, no solo ruido de mercado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Combinacion estrategica real de EDA (diseno de chips) y simulacion de ingenieria (Ansys) bajo la vision \"Silicon to Systems\" - primeras soluciones conjuntas planeadas para el primer semestre de 2026, monetizacion esperada recien en el ano fiscal 2027 (es decir, el upside real de la fusion TODAVIA NO ha comenzado a reflejarse en los resultados). Viento de cola continuo de demanda de diseno de chips impulsada por IA para el negocio EDA central.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF (2.44 mil millones USD TTM) supera ampliamente la utilidad neta GAAP deprimida (773 millones USD) - la brecha tiene una causa identificable y temporal (costos de integracion-reestructuracion de Ansys, interes de la deuda de adquisicion, amortizacion de intangibles adquiridos), similar en espiritu al criterio ya establecido de \"suavizar la conclusion cuando el FCF esta temporalmente deprimido por una causa reconocible\" (MSFT-GOOGL con capex), aplicado aqui a una situacion de M&A en vez de capex.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM 2.28 mil millones USD (OCF 2.44bn USD menos capex de solo 164.06M USD), margen aprox 26 por ciento sobre ingresos - solido, aunque parcialmente una cifra de periodo transicional dado que la adquisicion de Ansys cerro hace solo un anio fiscal.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex muy bajo (aprox 1.9 por ciento de ingresos) - modelo de software altamente asset-light, tipico de un lider de EDA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "La adquisicion de Ansys ES la decision de asignacion de capital dominante de este periodo - financiada con deuda mas caja propia. Sin dividendo (Synopsys historicamente no paga dividendo) ni actividad de recompra destacada en esta sesion (dato pendiente de verificar con mas detalle).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P sobre E GAAP TTM 96.16x luce extremo, pero es una cifra DISTORSIONADA por la utilidad neta deprimida (ver fila 27) - sobre una base no-GAAP adelantada (precio 411.87 USD sobre guidance de EPS no-GAAP de aprox 14.76 USD), el multiplo implicito es aprox 27.9x, razonable para un lider dominante de EDA-simulacion, no extremo como CRWD-MRVL. La accion cayo aprox 41 por ciento desde su maximo de 52 semanas (651.73 USD, jul-2025) hasta 411.87 USD, con una caida de 17.8 por ciento solo en los ultimos 30 dias - una correccion real, no solo ruido.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio, escenario adoptado: FCF base TTM 2.28 mil millones USD (real, aunque parcialmente un periodo transicional post-adquisicion, ver fila 36). Crecimiento con fade de 12 a 8 por ciento en 5 anios (deliberadamente NO se uso el 39.5 por ciento de crecimiento de ingresos reportado, que es casi enteramente un efecto de consolidacion de Ansys, ver fila 31 - se uso una tasa organica razonada para un lider maduro de EDA-simulacion). WACC 9.5 por ciento (CAPM: Beta 1.21, confiable; Rf 3.5 por ciento, ERP 5.5 por ciento = costo de equity 10.16 por ciento; costo de deuda post-impuestos aprox 4.35 por ciento sobre una estructura con deuda a valor de mercado de aprox 12 por ciento tras el financiamiento de Ansys). Terminal 4 por ciento. Deuda neta usada en el puente: aprox 8.67bn USD. Valor Intrinseco resultante: aprox 246.55 USD por accion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: aprox -40.1 por ciento (precio actual 411.87 USD vs IV 246.55 USD) - cae en zona de Vender del marco. Sensibilidad B (crecimiento mas generoso reflejando captura real de sinergias, fade 18 a 9 por ciento, no adoptado): IV aprox 288.48 USD, MS -30.0 por ciento, sigue negativo. PERO esta lectura debe suavizarse con el mismo criterio ya usado en MSFT-GOOGL (FCF temporalmente deprimido por una causa reconocible y con fecha de resolucion): la propia empresa declaro que la monetizacion de las sinergias EDA-Ansys recien empieza en el ano fiscal 2027 - el FCF base de este DCF probablemente subestima el poder de ganancias real una vez la integracion madure. Consenso de analistas \"Moderate Buy\", objetivo promedio aprox 570 USD (+38.4 por ciento desde el precio actual) - divergencia grande con este DCF, pero mas explicable por el argumento de \"sinergias no capturadas todavia\" que por especulacion pura (a diferencia de CRWD-MRVL). Recomendacion final suavizada a Mantener en vez de Vender mecanico, dado el cruce de senales genuinamente mixtas (preocupacion real de desaceleracion de IP vs sinergias de Ansys todavia no monetizadas).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande, duradero y ahora mas amplio: herramientas de diseno de semiconductores (EDA) mas simulacion de ingenieria (Ansys, abarcando aeroespacial, automotriz, industrial y simulacion termica-electromagnetica de semiconductores) - combinacion genuinamente complementaria, uno de los mejores TAM del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Extremadamente altas: las herramientas de EDA requieren decadas de inversion en I mas D y generan un bloqueo profundo en el flujo de trabajo del cliente; Ansys tiene un atrincheramiento similar en simulacion de ingenieria across multiples industrias.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Uno de los mejores perfiles de Porter del Dashboard: poder de comprador bajo (costos de cambio extremos una vez un equipo de diseno esta entrenado en un conjunto de herramientas), rivalidad limitada a una dinamica racional de duopolio con Cadence, amenaza de sustitutos baja (no existe alternativa creible para diseno de chips avanzado), barreras de entrada altisimas.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "El software de diseno-simulacion es historicamente menos ciclico que el hardware de semiconductores en si (la actividad de diseno continua incluso en recesiones, algo contraciclico ya que las empresas invierten en disenos de proxima generacion en periodos lentos), aunque el negocio de licenciamiento de IP muestra cierta sensibilidad al mix de programas de diseno de chips (ver fila 15).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio real y especifico: las herramientas de EDA estan sujetas a controles de exportacion (restricciones de EEUU sobre software avanzado de diseno de chips hacia China han sido un tema recurrente para toda la industria) - riesgo geopolitico genuino, no solo teorico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria relevante por ingresos internacionales tipicos de una empresa de software global.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada across semiconductores y ahora tambien ingenieria-industria general (via Ansys) - fortaleza genuina de diversificacion, sin concentracion relevante identificada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de transicion real y documentado: la decision estrategica reciente de discontinuar software heredado de control de procesos de manufactura mientras se reenfoca hacia herramientas de diseno impulsadas por IA introdujo incertidumbre de corto plazo entre clientes fabricantes de chips grandes. Ademas, la preocupacion de que la capacidad de fabricacion se desplace hacia chips de IA-alto rendimiento y lejos de disenos de consumo podria reducir la amplitud del negocio de licenciamiento de IP.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin controversia ESG especifica identificada en esta sesion, mas alla de la dimension politica de los controles de exportacion ya mencionados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados del 3T ano fiscal 2026 el 26-ago-2026 (aprox 3 semanas despues de este analisis) - clave para ver si la desaceleracion de licenciamiento de IP se confirma o se estabiliza. Primeras soluciones conjuntas EDA-Ansys planeadas para el primer semestre de 2026, monetizacion esperada en el ano fiscal 2027.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso \"Moderate Buy\", objetivo promedio aprox 570 USD (+38.4 por ciento desde el precio actual de 411.87 USD) segun la fuente mas reciente encontrada - aunque no unanime: JPMorgan recorto su objetivo de 685 a 600 USD (y otra fuente cito un recorte adicional de 602 a 520 USD) citando riesgos especificos al negocio de IP de 1.75bn USD. Consenso genuinamente mixto, no uniformemente alcista.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4054054054054053,
+    "recomendacion": "MANTENER - esperar mayor claridad sobre la integracion de Ansys y la desaceleracion de licenciamiento de IP",
+    "tesis": "Negocio de excelente calidad estructural (duopolio de EDA con Cadence, ahora combinado con el liderazgo de Ansys en simulacion de ingenieria bajo la vision Silicon to Systems), con utilidad neta GAAP deprimida temporalmente por costos reales pero identificables de integracion de la adquisicion de 35 mil millones USD de Ansys - la accion ya cayo aprox 41 por ciento desde su maximo por preocupaciones genuinas de desaceleracion en el licenciamiento de IP y la transicion estrategica de productos, pero las sinergias de la fusion todavia no empiezan a monetizarse (esperado recien en el ano fiscal 2027), por lo que el DCF actual probablemente subestima el poder de ganancias real de mediano plazo."
+  }
+}

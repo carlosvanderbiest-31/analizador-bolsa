@@ -1,0 +1,259 @@
+{
+  "empresa": "Philip Morris International Inc.",
+  "ticker": "PM",
+  "sector": "Consumo Defensivo - Tabaco y productos de nicotina (mercados internacionales, ex-EEUU)",
+  "fecha_analisis": "2026-08-10",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Tabacalera internacional (mercados fuera de EEUU, escindida de Altria en 2008): cigarrillos combustibles (Marlboro, marca global dominante en la mayoria de sus mercados) mas un negocio de productos sin humo ya SIGNIFICATIVO (aprox 42% de los ingresos netos totales en 2T 2026): IQOS (tabaco calentado, con 70-75% de cuota global de la categoria) y ZYN (nicotina oral, adquirida via Swedish Match en 2022, lider del mercado de bolsitas de nicotina en EEUU con 70-75% de cuota). Presencia en mas de 180 paises.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat multiple y genuinamente fuerte: Marlboro como marca global (fuera de EEUU, donde Altria tiene los derechos), CASI MONOPOLIO en tabaco calentado via IQOS (70-75% de cuota global, mas de 65% en Japon, mas de 75% en partes de Europa), y liderazgo en nicotina oral en EEUU via ZYN - un moat de categoria mas diversificado y en areas de CRECIMIENTO real que el de MO.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider global en cigarrillos fuera de EEUU-China (Marlboro alcanzo su cuota de mercado trimestral mas alta desde la escision de 2008), dominante en tabaco calentado (IQOS) y en nicotina oral en EEUU (ZYN) - posicion competitiva excelente en multiples categorias y geografias simultaneamente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios EXCEPCIONAL en las tres categorias: Marlboro internacional, dispositivos-consumibles premium de IQOS, y ZYN en la categoria de bolsitas de nicotina en rapido crecimiento.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Track record de asignacion de capital NOTABLEMENTE MEJOR que el de Altria (MO) en la misma sesion: la adquisicion de Swedish Match (aprox USD 16bn, cerrada 2022, para obtener ZYN) ha sido un EXITO ESTRATEGICO claro (ZYN ya domina la categoria de nicotina oral en EEUU en rapido crecimiento), un contraste directo con el fracaso casi total de JUUL en Altria. 18 anios consecutivos de aumento de dividendo desde la escision de 2008 (crecimiento reciente de aprox 9% anual, mas rapido que el crecimiento tipico de MO).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia interna muy baja (0.22%), sin escandalos de gobernanza encontrados en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin cargos de fraude probados en esta sesion; comparte el trasfondo reputacional generico de la industria tabacalera pero sin un hallazgo especifico de PM en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta a EBITDA aprox 2.45 a 2.49x (deuda neta USD 43.11bn, EBITDA TTM estimado aprox USD 17.3 a 17.6bn) - notablemente MAS ALTO que el de MO (aprox 1.48x), reflejo de la deuda usada para financiar la adquisicion de Swedish Match. Cifra consistente con la trayectoria de desapalancamiento activo que reporta la propia Fitch (2.8x en 2024, aprox 2.5x a fines de 2025, objetivo de 2.0x para 2026). Calificacion crediticia A- (S&P), A2 (Moodys) y A (Fitch, perspectiva revisada a Estable) - grado de inversion solido, con trayectoria de mejora.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.98, prueba acida (quick ratio) 0.55 - ajustada, aunque menos extrema que la de MO (0.52 y 0.38).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion A-A2-A (S&P-Moodys-Fitch), grado de inversion solido con trayectoria de mejora activa hacia el objetivo de apalancamiento de 2.0x para 2026. No verificado con precision el calendario completo de vencimientos en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por marcas e intangibles (Marlboro, IQOS, ZYN) igual que MO, mas goodwill incremental de la adquisicion de Swedish Match.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes excelentes aunque MAS BAJOS que los de MO: margen bruto 65.33% (vs 83.00% de MO), margen operativo 37.32% (vs 71.58%), margen neto 25.55% (vs 38.87%) - la diferencia refleja el componente de fabricacion de hardware de IQOS (dispositivos) y una mezcla de paises-impuestos mas amplia, no una senal de peor calidad de negocio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE no disponible-no aplica (patrimonio contable NEGATIVO, ver fila 34, mismo tratamiento ya establecido con DELL y MO). ROIC de 32.10% (Finviz), algo menor al 39.32% de MO (base de activos mas grande por el goodwill de Swedish Match) pero todavia MUY por encima del costo de patrimonio propio adoptado (aprox 5.81%) - spread de creacion de valor enorme.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos aprox 0.62x (ingresos TTM USD 42.55bn sobre activos totales USD 68.27bn) - similar a la de MO (0.61x).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 5 anios REALMENTE POSITIVO (+7.15%, Finviz) - a diferencia de MO (-0.71%, declive real), aqui el crecimiento es genuino y estructural, impulsado por la mezcla creciente de productos sin humo (IQOS-ZYN) que mas que compensa el declive de volumen de cigarrillos combustibles.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Ciclicidad muy baja (demanda inelastica-adictiva, igual que MO) combinada con una trayectoria de CRECIMIENTO real (no de declive estructural) - una combinacion mas favorable que la de MO en esta fila especificamente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Fuentes de crecimiento concretas y YA PROBADAS (a diferencia de la incertidumbre post-JUUL de MO): expansion internacional continua de IQOS y ZYN, con espacio de penetracion todavia amplio en muchos mercados que no alcanzaron aun los niveles de Japon-EEUU. Potencial catalizador de largo plazo: una eventual entrada de IQOS al mercado de EEUU (actualmente restringida por el acuerdo historico de escision con Altria, que retiene esos derechos).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM crecio un fuerte 37% interanual - salto grande, pero parece reflejar un desempeno operativo genuino (mejora de mezcla hacia productos sin humo, aumentos de precio) mas que una distorsion contable puntual; sin senales de alarma identificadas en esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM de USD 12.72bn sobre capex de solo USD 1.54bn (aprox 3.6% de ingresos) - conversion fuerte, aunque el capex es proporcionalmente mayor que el de MO por la necesidad real de capacidad de manufactura de dispositivos-consumibles de IQOS.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex estable-creciente moderadamente (de USD 1.32bn en FY2023 a USD 1.54bn TTM) financiando la capacidad de manufactura de IQOS-ZYN - capex de crecimiento genuino, no un red flag.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "18 anios consecutivos de aumento de dividendo desde la escision de 2008 (mas corto que los 56 anios de MO por ser una empresa independiente mas joven, pero con un ritmo de crecimiento reciente de aprox 9% anual, mas rapido que el tipico de MO), combinado con desapalancamiento activo post-Swedish Match.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P-E TTM aprox 26.7 a 27.3x, Forward P-E aprox 20.4 a 21.8x - MUCHO MAS CARO que MO (13.8x) o cualquier petrolera de esta sesion, reflejo de que el mercado ya reconoce y paga por la transformacion exitosa hacia productos sin humo. El DDM calibrado en este analisis converge razonablemente con este multiplo (ver fila 41).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "USD 205.62 por accion (Escenario A adoptado): DDM sobre dividendo (mismo criterio que MO-KO-VZ-T-PEP). Costo de patrimonio (Ke) via CAPM: beta sustituto de apenas 0.42 (el reportado, 0.39, resulto SORPRENDENTEMENTE CERCA de ser usable literal -multiplo DDM implicito de aprox 28x vs P-E de mercado real de aprox 27x, una brecha minima de solo 4%, muy distinta de la brecha grande de MO -24x vs 14x, 71%- o de las petroleras de esta sesion; se aplico un ajuste minimo de 0.39 a 0.42 solo para mantener consistencia metodologica con el resto del proyecto, no porque el numero reportado estuviera gravemente degenerado como en los otros casos), dando Ke 5.81%. Dividendo base = USD 5.88 (anualizado actual). Crecimiento a 5 anios = 8% (moderado desde el 9.85% de EPS Next 5Y de Finviz, ligeramente por encima del CAGR historico real de 7.15-7.09%, reflejando la aceleracion de la mezcla hacia productos sin humo margen-acretivos, pero sin extrapolar el numero de consenso de forma completamente literal). Crecimiento terminal = 2% (conservador, mismo piso ya usado en MO, pese a que PM tiene una trayectoria de crecimiento real mas solida en el periodo explicito). Escenario B de sensibilidad (growth 7.09% historico en vez de 8%): USD 197.63 por accion (MS +6.25%) - el rango entre ambos escenarios es estrecho, senal de que la conclusion es razonablemente robusta a la eleccion exacta de growth rate dentro de un rango creible.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "+10.55% (precio actual USD 186.00 vs valor intrinseco USD 205.62, Escenario A) a +6.25% (Escenario B) - ambos positivos y bien acotados. El consenso de analistas (Buy, objetivo promedio USD 203.80 a 208.62, aprox +9.6% a +12.2% de alza) converge MUY BIEN con el Escenario A adoptado - la mejor convergencia de consenso vs DCF propio de toda la sesion de energia-consumo defensivo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de tabaco-nicotina ex-EEUU (mas de 180 paises) - TAM genuinamente mas grande y diverso que el de MO (un solo pais), con espacio de penetracion todavia amplio para IQOS-ZYN en muchos mercados que no alcanzaron los niveles de adopcion de Japon-EEUU.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: barreras regulatorias similares a MO mas una barrera TECNOLOGICA-DE PATENTES genuina en IQOS (tecnologia de tabaco calentado propietaria, evidenciada por las disputas de patentes que PM-JUUL tuvieron contra el propio NJOY ACE de Altria) - un moat mas dificil de replicar que el de un cigarrillo combustible tradicional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Perfil muy favorable, similar a MO, reforzado por el CASI MONOPOLIO de IQOS en la categoria especifica de tabaco calentado a nivel global.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad muy baja, igual que MO - demanda inelastica-adictiva resistente a recesiones.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio-politico presente en TODAS las jurisdicciones donde opera (mas de 180 paises: directivas de tabaco-vapeo de la Union Europea, reglas especificas de Japon, prohibiciones de sabores en varios mercados) - un riesgo agregado similar en magnitud al de MO pero genuinamente MAS DIVERSIFICADO geograficamente (una sola jurisdiccion hostil pesa menos que en el caso de MO, concentrado 100% en EEUU).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo cambiario SIGNIFICATIVO Y REAL, a diferencia de MO (100% domestica de EEUU): PM genera practicamente todos sus ingresos FUERA de EEUU, en decenas de monedas distintas, con exposicion de traduccion-transaccion genuina a los movimientos del dolar - una diferencia estructural importante frente a su comparable directo MO.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Sin concentracion de cliente individual relevante - distribucion amplia en mas de 180 paises.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de disrupcion tecnologica MENOR que el de MO en esta sesion: a diferencia del fracaso de JUUL y el bloqueo regulatorio de NJOY ACE en Altria, la propia transicion de PM hacia productos sin humo (IQOS-ZYN) ha sido un EXITO comercial claro, sugiriendo mejor capacidad de ejecucion frente al cambio tecnologico del sector.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG MAXIMO, igual que MO - mismo perfil de exclusion de fondos ESG-institucionales por ser un producto de dano directo a la salud, sin importar el avance hacia productos \"reducidos en riesgo\".",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Expansion internacional continua de IQOS-ZYN; posible entrada futura de IQOS al mercado de EEUU (sujeta al acuerdo historico con Altria); resultados de 3T 2026; monitoreo de vientos cambiarios.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Tenencia interna muy baja (0.22%) y transacciones de insiders levemente negativas (-4.41%, mas negativo que el -1.41% de MO pero aun moderado comparado con las petroleras de esta sesion) - sin senales de alarma particular.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura amplia y consenso Buy, objetivo de precio promedio USD 203.80 a 208.62 (aprox +9.6% a +12.2% de alza) - converge muy bien con el Escenario A adoptado de este DDM (+10.55%), la mejor convergencia analista-DCF propio de la sesion de energia-consumo defensivo completa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.675675675675676,
+    "recomendacion": "COMPRAR - TRANSFORMACION HACIA PRODUCTOS SIN HUMO EXITOSA, CRECIMIENTO REAL Y BUENA CONVERGENCIA CON EL CONSENSO",
+    "tesis": "La version internacional-exitosa de la tesis de Altria: mismo poder de fijacion de precios y barreras regulatorias del tabaco, pero con una transformacion hacia productos sin humo genuinamente exitosa (IQOS, ZYN) que Altria no logro replicar con JUUL-NJOY, creciendo en ingresos reales en vez de declinar, con un margen de seguridad positivo que ademas converge muy bien con el consenso de analistas."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "Occidental Petroleum Corporation",
+  "ticker": "OXY",
+  "sector": "Energia - Exploracion y produccion de petroleo-gas (upstream), ya sin OxyChem (vendida a Berkshire Hathaway, cierre 2-ene-2026)",
+  "fecha_analisis": "2026-08-10",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "E&P integrado tras la venta de OxyChem a Berkshire Hathaway (cerrada 2-ene-2026, USD 9.7bn en efectivo): produccion de petroleo y gas en Permian (via CrownRock, USD 12bn cerrado ago-2024), DJ Basin, Golfo de Mexico y Medio Oriente (Oman, EAU, Argelia), mas infraestructura de CO2 para recuperacion mejorada de petroleo (EOR) y Low Carbon Ventures (1PointFive, captura directa de aire). Ingresos concentrados en un solo commodity global tras perder la diversificacion que aportaba OxyChem.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "La infraestructura de CO2 y EOR mas grande del mundo (decadas de experiencia, dificil de replicar) es el moat mas defendible, mas escala y liderazgo de costos en el Permian tras CrownRock. El negocio de extraccion en si no tiene poder de fijacion de precios (ver fila 15).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Cuarto mayor productor onshore de EEUU (aprox 1.4 millones boed), lider en produccion del Permian durante los ultimos cinco anios, posicion reforzada por la adquisicion de CrownRock (170 mil boed y 1700 locaciones adicionales).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios nulo: el productor es tomador de precios de un commodity global (petroleo-gas), mismo criterio ya establecido con EOG.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historial mixto: la adquisicion de Anadarko en 2019 (USD 55bn, incluyendo asuncion de deuda) fue ampliamente criticada como sobrepagada y forzo un financiamiento caro de Berkshire Hathaway (USD 10bn en preferentes al 8%), generando una campana activista de Carl Icahn en 2019-2020 que termino en una tregua con cambios de directorio. El dividendo se recorto 86% en 2020. La ejecucion mas reciente (CrownRock, venta de OxyChem a buen precio, desapalancamiento acelerado) es notablemente mejor.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Vicki Hollub, CEO desde 2016 tras 35 anios en la empresa, tenencia interna baja (0.39% segun Finviz) pero Berkshire Hathaway posee una participacion accionaria grande (aprox 26-27%) que actua como supervision de facto dado el perfil de Buffett.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones comunes (sin doble clase), pero la estructura de capital incluye acciones preferentes de Berkshire (USD 8.29bn, dividendo 8%) mas warrants por 83.9 millones de acciones a USD 59.59 de precio de ejercicio (practicamente at-the-money al precio actual de USD 58.55) - una fuente de dilucion futura relevante y no trivial.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin senales de fraude o cargos penales encontradas. La critica principal a la transparencia-negociacion no es de mala fe sino de calidad de negociacion: Icahn acuso a Hollub de aceptar terminos demasiado generosos para Berkshire en el financiamiento de Anadarko.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta a EBITDA aprox 0.88x (deuda neta USD 9.59bn, EBITDA implicito aprox USD 10.9bn). Si se suman los preferentes de Berkshire (USD 8.29bn) como cuasi-deuda, el apalancamiento combinado sube a aprox 1.64x - ver nota metodologica sobre tratamiento del preferente en la fila 41.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.41, prueba acida (quick ratio) 1.13 segun Finviz - liquidez saludable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Gestion de pasivos activa: la empresa redimio USD 1.9bn de deuda en un solo trimestre (2T 2026) y esta cerca de su objetivo de deuda principal de USD 10bn (ya en USD 11.8bn, el nivel mas bajo desde 2T 2019). Sin senales de concentracion de vencimientos problematica encontradas en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por reservas de petroleo-gas y propiedad-planta-equipo (tangibles), reduccion de goodwill-intangibles tras la venta de OxyChem. Riesgo de deterioro (impairment) real y materializado: el 4T 2025 mostro una perdida operativa de USD 1.92bn, probablemente ligada a cargos no monetarios de reclasificacion-deterioro.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 38.08%, margen operativo 23.09%, margen neto TTM 27.33% (Finviz). El margen neto TTM esta inflado por una ganancia no recurrente de la venta de OxyChem reconocida en el 1T 2026 (utilidad neta de USD 3.175bn ese trimestre pese a una utilidad operativa de solo USD 686M) - el margen operativo es la medida mas limpia de la rentabilidad recurrente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 10.87%, ROIC 7.33%, ROA 5.11% (Finviz, TTM). El ROIC de 7.33% queda POR DEBAJO del WACC propio adoptado (aprox 9.86%) en base TTM - senal de que, en el periodo reciente (afectado por transicion y volatilidad de precios), el negocio no genero valor economico claro sobre su costo de capital combinado (deuda mas preferente).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos aprox 0.30x (ingresos TTM USD 23.93bn sobre activos totales USD 80.36bn) - baja, tipica y esperable de un negocio de E&P intensivo en capital fijo (reservas, plataformas, pozos), no es una senal de alarma aislada.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 5 anios de solo 4.70% (Finviz) esconde una volatilidad enorme: el crecimiento historico fue impulsado casi enteramente por M&A (Anadarko 2019, CrownRock 2024) y por el ciclo de precios de commodities, no por crecimiento organico estable.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Altamente ciclico por naturaleza: utilidad operativa trimestral paso de USD 1.27bn (3T 2025) a una PERDIDA operativa de USD 1.92bn (4T 2025) a USD 686M (1T 2026) a USD 3.89bn (2T 2026) - swings extremos en pocos trimestres.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "La empresa guio produccion y capital PLANOS para 2027, priorizando el desapalancamiento sobre el crecimiento - el inventario de locaciones del Permian (reforzado por CrownRock) da runway de largo plazo, pero no se traduce en crecimiento de corto plazo por decision explicita de asignacion de capital.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Divergencia notable y en la direccion OPUESTA a la mayoria de los gotchas ya documentados en este proyecto: en el 1T 2026 la utilidad neta GAAP (USD 3.175bn) fue MUCHO MAYOR al FCF real de ese trimestre (USD -273M, negativo) - la utilidad neta esta inflada por la ganancia no recurrente de la venta de OxyChem, mientras el FCF refleja el negocio operativo real sin ese efecto contable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM de USD 5.31bn (OCF USD 10.98bn menos capex USD 5.66bn), conversion EBITDA-FCF razonable, pero esta cifra TTM todavia mezcla dos trimestres con OxyChem (3T-4T 2025) y dos trimestres ya sin OxyChem (1T-2T 2026, ver nota de base de FCF adoptada en fila 41).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Guia de capex FY2026 de USD 5.5 a 5.9bn contra produccion guiada plana para 2027 - el capex actual es mayormente de mantenimiento del nivel de produccion actual (aprox 1.4 a 1.44 millones boed), no de crecimiento agresivo, consistente con la fase de disciplina de capital y desapalancamiento post-CrownRock.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Prioridad clara de asignacion de capital: pago de deuda primero (objetivo USD 10bn de deuda principal, ya casi alcanzado), luego un aumento moderado de dividendo (8% de alza reciente a USD 0.28 por accion trimestral) - el dividendo sigue muy por debajo del USD 0.79 previo al recorte de 2020. Sin recompras de acciones activas mencionadas en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P-E TTM aprox 16.45 a 17.35x (distorsionado al alza por la ganancia no recurrente, ver fila 27), P-E adelantado mas limpio de 12.27 a 15.51x, EV-EBITDA 7.00x, P-FCF (TTM) aprox 11.0x - multiplos razonables para el sector, ni obviamente baratos ni caros frente a pares tipo ConocoPhillips o Diamondback.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "USD 53.73 por accion (Escenario A adoptado). WACC 9.86% (Costo de patrimonio via CAPM: beta sustituto 1.4 -razonado, el beta reportado de 0.15 a 0.23 es degenerado por el mismo patron ya confirmado en EOG-, Rf 3.5%, ERP 5.5%, dando Ke 11.2%; ademas del patrimonio y la deuda, se pondera una TERCERA capa de capital -las acciones preferentes de Berkshire, USD 8.29bn al 8% de dividendo fijo- como cuasi-deuda, primera vez que este proyecto trata un preferente como una capa de capital separada en el WACC). Base de FCF = USD 4.82bn (promedio anualizado de 1T y 2T 2026, los dos trimestres ya limpios de OxyChem tras el cierre de la venta el 2-ene-2026 -el 1T 2026 tuvo FCF negativo de USD -273M probablemente por ruido de la transaccion, el 2T 2026 fue fuerte con USD 2.68bn, se promedian ambos en vez de anclar en uno solo). Crecimiento a 5 anios = 4% (anclado en la guia propia de produccion y capital PLANOS para 2027, muy por debajo del 21.11% de EPS Next 5Y de Finviz -descartado explicitamente, esa cifra esta inflada por la base de 2026 con la ganancia no recurrente de la venta de OxyChem, mismo patron de base distorsionada ya visto en UBER-NFLX). Crecimiento terminal = 2.5% (reservas finitas, mismo criterio ya establecido con EOG, menor al 4% estandar del proyecto).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-8.2% (precio actual USD 58.55 vs valor intrinseco USD 53.73) - practicamente en zona de valor justo, apenas por debajo. Escenario B de sensibilidad (no adoptado): usando el FCF TTM completo (USD 5.31bn, que todavia mezcla dos trimestres con OxyChem) en vez del promedio 1T-2T 2026, el valor sube a USD 61.02 (+4.2%) - la conclusion es sensible a que tan estrictamente se excluya OxyChem de la base de FCF, pero en ambos casos el resultado queda cerca de valor justo, no en zona extrema de compra ni de venta. El consenso de 24 analistas (objetivo promedio USD 64.52 a 66.57, +11% a +14%) es mas optimista que ambos escenarios propios.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de petroleo-gas global, maduro y sin crecimiento estructural fuerte agregado, pero el inventario de locaciones del Permian (ampliado por CrownRock) da a OXY especificamente varios anios de runway de desarrollo dentro de ese TAM maduro.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras moderadas: el negocio de E&P requiere capital intensivo y posicion de acreaje, pero no esta protegido por tecnologia propietaria exclusiva (muchos operadores privados compiten por el mismo tipo de activos) - la infraestructura de CO2-EOR si es una barrera mas dura y especifica de OXY.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Poder de negociacion de compradores alto (commodity fungible, precio de mercado global), poder de proveedores moderado (servicios petroleros), rivalidad alta entre majors e independientes del Permian, amenaza de sustitutos de largo plazo (transicion energetica-renovables), barrera de entrada de nuevos jugadores moderada (capital intensivo pero fragmentado).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Alta por diseno - ver contexto de volatilidad trimestral en fila 32. Score bajo aqui es la calificacion honesta esperada para cualquier E&P, no un juicio negativo aislado, mismo criterio ya establecido con EOG.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio en dos frentes distintos: (1) dependencia del credito fiscal federal 45Q para la economia de captura directa de aire (politica energetica de EEUU sujeta a cambios de administracion); (2) operaciones en Oman, Emiratos Arabes Unidos y Argelia con exposicion geopolitica de Medio Oriente-Norte de Africa, aunque el grueso de la produccion (Permian, DJ Basin, Golfo de Mexico) es domestico y estable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo cambiario bajo - el petroleo se cotiza globalmente en USD, y la mayoria de las operaciones internacionales de OXY facturan tambien en USD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Sin concentracion de cliente o proveedor individual relevante - el petroleo-gas se vende en mercados liquidos globales, no via contratos bilaterales concentrados.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de disrupcion de largo plazo por la transicion energetica-vehiculos electricos (afecta a toda la industria, no especifico de OXY). Riesgo tecnologico especifico adicional: la captura directa de aire (1PointFive-Stratos) todavia no es economica (costo operativo estimado de USD 600 a 800 por tonelada versus solo USD 180 por tonelada de valor del credito fiscal 45Q), y el proyecto insignia Stratos sufrio un sobrecosto de USD 100 millones (total USD 1.2bn) y un atraso por un problema de componente no relacionado al proceso central, con cronograma de reparacion aun sin confirmar a la fecha de este analisis.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG relevante por naturaleza (combustible fosil), parcialmente mitigado por la narrativa de captura de carbono de 1PointFive - pero esa mitigacion todavia no es economicamente autosuficiente (ver fila 52), por lo que no debe pesar como una compensacion fuerte todavia.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resolucion pendiente del atraso de comisionamiento de Stratos (actualizacion de cronograma esperada); progreso hacia el objetivo de deuda principal de USD 10bn (ya en USD 11.8bn a 2T 2026); guia de produccion del 3T 2026 de 1.4 a 1.44 millones boed; capital guiado FY2026 de USD 5.5 a 5.9bn.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Tenencia interna baja (0.39%, Finviz) - no encontrada evidencia de compra o venta de insiders relevante en esta sesion (a diferencia de OKLO). Berkshire Hathaway (no tecnicamente insider corporativo pero accionista dominante) ha sido comprador neto historico de OXY.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura amplia: 24 analistas, calificacion de consenso Buy, precio objetivo promedio entre USD 64.52 y USD 66.57 (aprox +11% a +14% de alza) - mas optimista que el escenario A adoptado de este DCF (-8.2%), aunque cercano al escenario B de sensibilidad (+4.2%).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.810810810810811,
+    "recomendacion": "MANTENER - PRACTICAMENTE EN VALOR JUSTO, CALIDAD DE NEGOCIO MODERADA",
+    "tesis": "Productor de petroleo-gas de escala en el Permian con un moat genuino en infraestructura de CO2-EOR, en transicion a pure-play de E&P tras vender OxyChem a Berkshire y con desapalancamiento acelerado, pero con historial de asignacion de capital mixto (Anadarko), ROIC por debajo del WACC en el periodo reciente, y una valoracion que ya refleja gran parte de esa mejora."
+  }
+}

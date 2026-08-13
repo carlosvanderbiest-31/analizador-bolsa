@@ -1,0 +1,259 @@
+{
+  "empresa": "Eaton Corporation plc",
+  "ticker": "ETN",
+  "sector": "Industrial - Gestion de energia electrica, aeroespacial y vehiculos (Mobility en proceso de escision)",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Empresa de gestion de energia con cinco segmentos: Electrical Americas, Electrical Global, Aerospace, Vehicle y eMobility - aunque Vehicle-eMobility (Mobility) esta en proceso de escision (ver fila 17). Ingresos TTM 30.03 mil millones USD (+15.5 por ciento), impulsados por crecimiento organico fuerte (+14 por ciento en el 2T 2026) mas adquisiciones (+7 por ciento).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat real pero no extremo: marca establecida, experiencia de ingenieria y relaciones de cliente de largo plazo en equipos electricos y componentes aeroespaciales, pero compite en mercados racionalmente oligopolicos (no un monopolio como ASML) contra Schneider Electric, Siemens, ABB (electrico) y Honeywell, Parker Hannifin (aeroespacial).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Jugador establecido y solido, pero no el lider indiscutido en la mayoria de sus mercados - Schneider Electric tiene aprox mediados de los 20 por ciento de cuota en UPS de centros de datos, sugiriendo un mercado competido de varios jugadores, no dominancia de Eaton.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Preocupacion real y reciente: margenes de segmento cayeron 80 puntos base interanuales en el 2T 2026 (pese a superar el guidance), y el margen bruto GAAP cayo de 37.0 a 33.5 por ciento - senial de presion de precio-costo real, no solo dilucion contable de adquisiciones.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Asignacion de capital muy activa y transformadora en 2025-2026: adquisicion de Boyd Thermal por 9.55 mil millones USD (22.5 veces EBITDA ajustado estimado 2026 - multiplo rico, expandiendo hacia soluciones de enfriamiento liquido para centros de datos) y de Ultra PCS por 1.53 mil millones USD (electronica aeroespacial). Ademas, anuncio de separar el segmento Mobility mediante una transaccion Reverse Morris Trust con Dana Incorporated (cierre esperado 1T 2027, con una distribucion de caja de 1.1 mil millones USD para Eaton) - la propia empresa espera que esto mejore el crecimiento organico y los margenes al enfocarse en Electrical y Aerospace.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Alineacion de incentivos no investigada con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de una sola clase de acciones comunes (domiciliada en Irlanda por razones fiscales, \"Eaton Corporation plc\", pero con gobernanza de clase unica estandar).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion clara y detallada de la reconciliacion GAAP a ajustado: desglosa explicitamente el impacto por accion de la amortizacion de intangibles (0.50 USD), cargos de adquisicion-desinversion (0.49 USD) y reestructuracion (0.05 USD) - transparencia genuinamente util.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Apalancamiento en aumento por la adquisicion de Boyd Thermal: deuda total 9.9 mil millones USD y patrimonio 19.5 mil millones USD (deuda a patrimonio 50.7 por ciento) segun el corte mas reciente disponible, PROBABLEMENTE desactualizado (cifra previa al cierre de la adquisicion de Boyd Thermal en mar-2026 por 9.55 mil millones USD) - la deuda real actual es casi con certeza mayor, dato pendiente de confirmar en una sesion futura.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Caja mas inversiones de corto plazo de solo 803 millones USD (cifra tambien probablemente desactualizada) - colchon de liquidez relativamente modesto para el tamanio de la empresa, especialmente tras una adquisicion tan grande.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "No verificado en detalle en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Mezcla de negocios operativos reales mas goodwill-intangibles crecientes por las adquisiciones recientes (Boyd Thermal, Ultra PCS) - riesgo de deterioro futuro si esas apuestas no cumplen las expectativas, dado el multiplo rico pagado por Boyd Thermal.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Utilidad neta GAAP TTM cayo -2.4 por ciento pese al salto de ingresos (+15.5 por ciento) - en el 2T 2026 la utilidad neta cayo 16 por ciento interanual a 821 millones USD por compresion de margen bruto (37.0 a 33.5 por ciento) mas un alza de la tasa impositiva efectiva a 28.1 por ciento. El EPS ajustado, en cambio, marco un record (3.15 USD en el 2T) - la brecha GAAP-ajustado se explica por cargos identificables de amortizacion de intangibles y costos de adquisicion-desinversion (ver fila 17), similar en espiritu al gotcha ya documentado en SNPS pero a menor escala relativa.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE-ROIC en base GAAP deprimidos por el mismo arrastre de costos de adquisicion; sobre base ajustada probablemente mas saludables, no calculados con precision en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "No analizado con profundidad en esta sesion (dato pendiente) - la base de activos esta creciendo rapido por las adquisiciones recientes, por delante de la realizacion completa de sinergias.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento fuerte para una empresa industrial de este tamanio: ingresos TTM +15.5 por ciento, 2T 2026 +21 por ciento interanual (14 por ciento organico mas 7 por ciento de adquisiciones) - un ritmo genuinamente solido, aunque la utilidad neta GAAP en realidad cayo (ver fila 27).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Senial mixta: la empresa ELEVO su guidance para el ano completo (crecimiento organico 11-13 por ciento, EPS ajustado 13.40-13.60 USD) durante el 2T 2026 - positivo - pero la accion CAYO 7.8 por ciento tras ese mismo anuncio por preocupacion de compresion de margen, mostrando que el mercado detecto una senial de calidad de crecimiento mixta detras del titular positivo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Viento de cola real y sustancial de electrificacion-centros de datos: inversion de 340 millones USD en manufactura de transformadores para centros de datos, alianza con Siemens Energy para soluciones integradas de energia en sitio, y ahora enfriamiento liquido via Boyd Thermal (pronostico propio de Boyd de 1.7 mil millones USD en ventas 2026, 1.5 mil millones de ello en enfriamiento liquido) - posicionamiento \"grid-to-chip\" genuino. Tambien crecimiento aeroespacial via Ultra PCS, y el reenfoque estrategico hacia Electrical-Aerospace tras la escision de Mobility.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "El OCF-FCF crecio con fuerza (+22-23 por ciento interanual en el 2T 2026) incluso mientras la utilidad neta GAAP caia - la brecha esta bien explicada y divulgada por la propia empresa (amortizacion de intangibles, costos de adquisicion-desinversion, ver fila 27), similar en espiritu al gotcha ya documentado en SNPS aunque a una escala relativa menor y mejor reconciliada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF del 2T 2026 de 874 millones USD (+22 por ciento interanual), OCF de 1.1 mil millones USD (+23 por ciento) - conversion saludable. FCF TTM estimado de forma aproximada en aprox 4.3 mil millones USD (extrapolado del FCF real de FY2024 de 3.604 mil millones USD mas la tendencia de crecimiento reciente confirmada, no una cifra de TTM reportada directamente - dato a refinar en una sesion futura).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex real de manufactura necesario (ej. inversion de 340 millones USD en manufactura de transformadores) - intensidad de capital industrial genuina, aunque bien dirigida hacia areas de alto crecimiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital muy activo y estrategico: M&A grande (Boyd Thermal, Ultra PCS), desinversion mayor en curso (escision de Mobility via Reverse Morris Trust con Dana, distribucion de caja de 1.1bn USD), mas dividendo trimestral continuo (1.10 USD por accion) - programa dinamico, aunque los multiplos de adquisicion pagados son ricos.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P sobre E GAAP TTM 45.63x luce rico, pero esta parcialmente distorsionado por el arrastre de costos de adquisicion en la utilidad neta (ver fila 27) - sobre EPS ajustado guiado para FY2026 (punto medio aprox 13.50 USD), el multiplo adelantado implicito es aprox 33.3x, todavia exigente pero mas razonable que el GAAP. Consenso de analistas \"Buy\" (27 analistas), objetivo 471.47 USD (+4.74 por ciento) - alza modesta, sugiere que el mercado ve el precio actual como razonablemente valorado, similar al patron ya visto en CSCO.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio, escenario adoptado: FCF base aprox 4.3 mil millones USD (estimado, ver fila 36). Crecimiento con fade de 13 a 8 por ciento en 5 anios (moderado respecto al crecimiento organico guiado de 11-13 por ciento, sin asumir que el componente de M&A se repita indefinidamente). WACC 9.5 por ciento (CAPM: Beta 1.18, confiable; Rf 3.5 por ciento, ERP 5.5 por ciento = costo de equity 9.99 por ciento; costo de deuda post-impuestos aprox 3.95 por ciento sobre una estructura con deuda a valor de mercado estimada en aprox 8 por ciento tras el financiamiento de Boyd Thermal). Terminal 4 por ciento. Deuda neta estimada en aprox 15bn USD (aproximada, dato de balance desactualizado, ver fila 22). Valor Intrinseco resultante: aprox 235.02 USD por accion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: aprox -47.8 por ciento (precio actual 450.12 USD vs IV 235.02 USD) - zona de Vender del marco. Sensibilidad B (crecimiento mas generoso, fade 18 a 9 por ciento, capturando el viento de cola de electrificacion-centros de datos de forma mas completa, no adoptado): IV aprox 271.63 USD, MS -39.7 por ciento, sigue negativo. Divergencia MODERADA con el consenso de analistas (objetivo +4.74 por ciento, casi neutro) - similar en caracter al patron ya documentado en CSCO: empresa real de calidad que corrio fuerte sobre un tema real (electrificacion-IA), ahora moderadamente adelantada a sus fundamentales segun este DCF disciplinado, aunque el mercado la ve como razonablemente valorada.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en expansion real: electrificacion global, modernizacion de la red electrica, auge de energia-enfriamiento de centros de datos, y recuperacion-crecimiento aeroespacial - multiples vientos de cola seculares genuinos y simultaneos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Moderadas-altas: experiencia de ingenieria, certificaciones, relaciones de cliente de largo plazo (especialmente en aeroespacial, con ciclos de calificacion largos) - barreras reales pero no insuperables dado que existen varios competidores bien capitalizados (Schneider, Siemens, ABB, Honeywell, Parker Hannifin).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad moderada entre varios jugadores establecidos (no un duopolio-monopolio como ASML), poder de comprador moderado (clientes industriales-de centros de datos grandes negocian pero los costos de cambio en infraestructura critica son reales), poder de proveedor moderado, barreras de entrada reales para segmentos avanzados (electronica aeroespacial, enfriamiento de centros de datos).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Cierta ciclicidad ligada a ciclos de capex industrial-de construccion, aunque el viento de cola actual de electrificacion-centros de datos ofrece un contrapeso secular fuerte; el segmento aeroespacial tiene su propio ciclo de recuperacion-crecimiento de aviacion comercial.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio moderado: operaciones globales sujetas a consideraciones de comercio-aranceles, sin problema agudo especifico identificado en esta sesion mas alla de la exposicion generica del sector industrial.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real dado que sirve a clientes en mas de 160 paises, ademas de la propia domiciliacion en Irlanda por razones fiscales (consideracion estructural adicional, no un riesgo de tipo de cambio en si).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes amplia y diversificada across electrico-industrial-aeroespacial-centros de datos - sin concentracion relevante identificada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico moderado: necesidad de mantener el ritmo de nuevas tecnologias (UPS de litio-ion reemplazando plomo-acido, evolucion de tecnologia de enfriamiento liquido) - riesgo real pero manejable, y Eaton parece invertir proactivamente (adquisicion de Boyd Thermal especificamente para esto).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Posicionamiento ESG mas bien POSITIVO dado el tema de electrificacion-eficiencia energetica (ayuda a los clientes a reducir desperdicio de energia), aunque no explorado a profundidad en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Cierre de la transaccion Reverse Morris Trust de Mobility con Dana (esperado 1T 2027); continuidad de la integracion de Boyd Thermal-Ultra PCS; trayectoria de margenes (vigilar si la compresion reciente continua o revierte segun lo guiado).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso \"Buy\" (27 analistas), objetivo 471.47 USD (+4.74 por ciento) - alza modesta, sugiere que el mercado ve el precio actual como razonablemente valorado, no una ganga ni una burbuja evidente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.108108108108108,
+    "recomendacion": "NO COMPRAR - esperar mejor entrada o mayor claridad sobre margenes y la escision de Mobility",
+    "tesis": "Empresa industrial real y de calidad, genuinamente bien posicionada en el tema de electrificacion-centros de datos (transformadores, UPS, ahora enfriamiento liquido via Boyd Thermal) y en proceso de un reenfoque estrategico hacia Electrical-Aerospace mediante la escision de Mobility, pero con compresion de margen real y reciente, apalancamiento en aumento por adquisiciones costosas (Boyd Thermal a 22.5 veces EBITDA) y una valoracion (P sobre E adelantado ajustado aprox 33x) que ya luce moderadamente adelantada a sus fundamentales segun este DCF, aunque el consenso de analistas la ve como razonablemente valorada."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "Stryker Corporation",
+  "ticker": "SYK",
+  "sector": "Salud - Dispositivos Medicos (Medical Devices)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Fabricante de dispositivos medicos con 2 segmentos: MedSurg and Neurotechnology (equipos quirurgicos, neurotecnologia) y Orthopaedics (implantes ortopedicos, cirugia robotica asistida via la plataforma Mako). Crecimiento de ingresos +47% acumulado 2021-2025, el mas fuerte de los fabricantes de dispositivos medicos de la sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat solido via la plataforma de cirugia robotica Mako (diferenciada, altos costos de cambio una vez que un hospital-cirujano se entrena-adopta el sistema), relaciones establecidas con cirujanos, y barreras regulatorias FDA.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider en ortopedia (reemplazo de cadera-rodilla asistido por robotica via Mako) y posiciones fuertes en MedSurg-Neurotechnology.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios BUENO-moderado: la tecnologia robotica diferenciada (Mako) comanda precio premium, aunque el negocio de implantes-equipos quirurgicos en general enfrenta presion de compradores hospitalarios grandes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Kevin Lobo (desde oct-2012, tambien Chairman desde 2014) - track record largo y solido, aunque actualmente enfrentando preguntas reales de analistas sobre la credibilidad de la aceleracion necesaria en 2S2026 para cumplir la guia (crecimiento organico 1S2026 de solo ~5.7% vs guia de ano completo de 8.3%-9.3%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap de salud sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza nuevos detectados esta sesion; el ciberataque de 2026 (fila 56) fue un evento EXTERNO, no una falla de gobernanza corporativa en si, aunque exigio una respuesta de crisis real.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 1.71x (deuda total USD 14.94bn, caja USD 3.39bn, EBITDA USD 6.76bn) - saludable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 2.16, razon rapida 1.08 - liquidez saludable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance limpio y en fortalecimiento (Patrimonio creciendo de USD 14.9bn en FY2021 a casi USD 24bn TTM, reflejo de acumulacion consistente de ganancias retenidas).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes EXCELENTES, los mejores de los tres fabricantes de dispositivos medicos de la sesion: bruto 65.59%, operativo 23.82% (vs 19.98% MDT, 17.68% ABT), neto 14.43%.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROIC de 12.52% - el MEJOR de los tres fabricantes de dispositivos medicos de la sesion (vs 8.25% MDT, 7.51% ABT), aunque aun moderado en terminos absolutos frente a otras empresas Salud (MCK, VRTX). ROE 16.51% (informativo, patrimonio solido).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de un fabricante de dispositivos medicos.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios FUERTE (10.09%, calculo propio FY2021-FY2025) - el MAS ALTO de los tres fabricantes de dispositivos medicos de la sesion (vs 3.50% MDT, 0.72% distorsionado ABT), y genuino-no distorsionado por bases anomalas.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA-RIESGO REAL 2026: el 11-mar-2026 Stryker sufrio un ciberataque significativo (ver detalle completo en fila 56) que interrumpio operaciones globales; adicionalmente, el crecimiento organico del 1S2026 (~5.7%) quedo por debajo del ritmo necesario para alcanzar la guia de ano completo (8.3%-9.3%), generando escepticismo real de analistas sobre la ejecucion del 2S2026.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Catalizador MIXTO: demanda estructural fuerte (crecimiento organico guiado de doble digito bajo, adopcion continua de Mako), contrapesado por la recuperacion del ciberataque y la necesidad de una aceleracion significativa en el 2S2026 para cumplir la guia ya reducida (no elevada) tras el 2T2026.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias con cierto ruido reciente: cargos de \"optimizacion estructural\" de USD 95M en 2T2026 (racionalizacion de portafolio) mas costos de recuperacion del ciberataque (no cuantificados con precision en las fuentes consultadas esta sesion) anaden ruido a los resultados recientes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF moderada (FCF Yield 3.54%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex no confirmado con precision esta sesion; moderado, tipico de un fabricante de dispositivos medicos con inversion continua en manufactura-robotica.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital equilibrado: dividendo modesto (yield 1.01%, payout 36.48%, con espacio para crecer), reinversion continua en tecnologia robotica-M&A estrategico.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos RICOS en terminos TTM (P/E 35.84x, refleja resultados aun no plenamente normalizados post-ciberataque), mucho mas razonables en terminos forward (21.55x) - EV/EBITDA 21.41x, P/FCF 28.21x.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO: a diferencia de MDT-ABT (beta bajo tradicional, degenerado en la direccion \"WACC muy bajo\"), aqui el beta literal (0.77, mas cercano a 1.0) combinado con el multiplo real de mercado YA RICO (P/FCF 28.21x) produce el patron OPUESTO: con crecimiento moderado (7%) el multiplo terminal implicito resulta INFERIOR al real de mercado, sugiriendo que el WACC esta demasiado ALTO relativo a lo que el mercado esta dispuesto a pagar. En vez de forzar un beta sustituto artificialmente mas bajo, se opto por anclar el crecimiento a la guia propia de la empresa (organico 8.3%-9.3% para FY2026, se adopto 8.5%) en vez de al 7% generico por defecto - un enfoque mas defendible dado el historial de crecimiento genuino y fuerte de SYK (fila 31). WACC 7.31% (Ke CAPM 7.735% con beta LITERAL 0.77, sin sustituir; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~3.56%; estructura de capital a valor de mercado: Equity USD 133.5bn, Deuda USD 14.94bn). FCF base = USD 4.725bn (estimado via FCF Yield x Market Cap). Terminal 3% (ligeramente por encima del default, dado el crecimiento estructural demostrado). Valor Intrinseco: USD 344.68/accion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -0.95% (precio actual USD 347.98 vs valor intrinseco USD 344.68) - PRACTICAMENTE EN VALOR RAZONABLE, similar al resultado de MDT esta sesion. Consenso de ~16-30 analistas (Buy, objetivo promedio USD 394.50-419.11, aprox +13% a +20%) diverge en direccion mas optimista, probablemente incorporando mas confianza en la aceleracion del 2S2026 de lo que este DCF conservador refleja.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en crecimiento estructural: envejecimiento poblacional, volumen creciente de procedimientos ortopedicos, adopcion continua de cirugia asistida por robotica.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas via la plataforma Mako (diferenciacion tecnologica-costos de cambio reales una vez adoptada), aprobacion regulatoria FDA, relaciones con cirujanos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: panorama competitivo real en ortopedia-dispositivos medicos (Medtronic, J&J MedTech, Zimmer Biomet en ortopedia; multiples competidores en MedSurg).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad BAJA - demanda de procedimientos quirurgicos-dispositivos medicos es mayormente no discrecional.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio estandar de aprobacion FDA para nuevos dispositivos-actualizaciones de la plataforma Mako.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria moderada: ventas internacionales relevantes aunque el negocio esta historicamente mas ponderado hacia EEUU que otros pares del Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada entre hospitales-cirujanos a nivel global.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico GENUINO en cirugia asistida por robotica (plataforma Mako, un diferenciador real frente a competidores en ortopedia) - inversion continua en la proxima generacion de la tecnologia.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG-social moderado, tipico del sector de dispositivos medicos, sin controversia mayor especifica detectada esta sesion mas alla del ciberataque (fila 56, un riesgo operativo-de seguridad de la informacion mas que social).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: ejecucion del 2S2026 frente a una guia ya reducida (no elevada) tras el 2T2026 - una prueba real de credibilidad dado el escepticismo de analistas ya documentado; continuidad de la recuperacion del ciberataque.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-EVENTO DE SEGURIDAD DETALLADO: el 11-mar-2026 Stryker sufrio un ciberataque significativo que interrumpio su entorno de Microsoft interno, incluyendo el acceso comprometido a su plataforma de gestion de dispositivos moviles (Intune) - resultando en mas de 200,000 dispositivos corporativos inutilizados globalmente en cuestion de horas. Notablemente, NO fue un ataque de ransomware (Stryker confirmo que no se desplego malware); en su lugar, los atacantes obtuvieron credenciales administrativas privilegiadas y usaron los propios sistemas de gestion de Stryker para emitir comandos remotos de borrado-restablecimiento de fabrica. Un grupo hacktivista pro-Iran conocido como \"Handala\" reclamo responsabilidad, alegando represalia por un ataque militar de EEUU contra Iran - un ejemplo de riesgo de ciberseguridad GEOPOLITICAMENTE MOTIVADO (distinto de un ataque de ransomware financiero tradicional) contra infraestructura critica de salud.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~16-30 analistas: calificacion Buy (21 Buy, 7 Hold, 0 Sell segun una fuente), objetivo promedio USD 394.50-419.11 (aprox +13% a +20% de alza) - consenso mas optimista que este DCF (-0.95%), reflejo probable de mayor confianza en la aceleracion del 2S2026 de lo que este analisis conservador incorpora.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4054054054054053,
+    "recomendacion": "MANTENER - fabricante de dispositivos medicos con los mejores margenes-ROIC-crecimiento de ingresos de los tres pares de dispositivos medicos analizados esta sesion (MDT, ABT, SYK), liderazgo tecnologico genuino en cirugia robotica (plataforma Mako); PERO enfrentando dos riesgos reales de 2026: un ciberataque geopoliticamente motivado (11-mar-2026, grupo hacktivista pro-Iran, mas de 200,000 dispositivos afectados) y escepticismo de analistas sobre la aceleracion necesaria en el 2S2026 para cumplir una guia ya reducida (no elevada) tras el 2T2026; el DCF (anclado al crecimiento organico guiado propio, no a un default generico, dado el patron de convergencia inverso al usual) da un resultado PRACTICAMENTE EN VALOR RAZONABLE (-0.95%), notablemente mas conservador que un consenso de analistas mas optimista (+13% a +20%)",
+    "tesis": "El fabricante de dispositivos medicos de mejor calidad de margenes-crecimiento del trio de la sesion, con la plataforma de cirugia robotica Mako como diferenciador real, cotizando cerca de su valor razonable mientras recupera de un ciberataque geopoliticamente motivado y enfrenta escepticismo sobre su guia de crecimiento para el resto de 2026."
+  }
+}

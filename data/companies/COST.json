@@ -1,0 +1,259 @@
+{
+  "empresa": "Costco Wholesale Corporation",
+  "ticker": "COST",
+  "sector": "Consumo Basico - Retail Mayorista por Membresia (Warehouse Club)",
+  "fecha_analisis": "46240",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Modelo de club de membresia: ventas de mercaderia de margen muy bajo (single digit, intencional) subsidiadas por cuotas de membresia de altisimo margen (5.32 mil millones de dolares en FY2025, +10 por ciento interanual). Diversificacion geografica creciente (931 clubes en 14 paises) pero concentracion fuerte en EEUU-Canada (754 de 931).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Tasa de renovacion de membresia 89.7 a 92.2 por ciento (de las mas altas de cualquier modelo de negocio de consumo), escala de compra global, rotacion de inventario muy rapida, marca propia Kirkland Signature (aprox 33 por ciento de las ventas). Uno de los moats mas solidos y probados de este Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider claro del segmento de clubes de membresia por delante de Sam's Club y BJ's Wholesale. Comp sales consistentemente fuertes: +10.7 por ciento interanual en julio 2026, +8.9 por ciento comp sales ese mismo mes.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "El modelo de negocio EVITA deliberadamente usar poder de fijacion de precios en mercaderia (margen bajo intencional, loss leader); el verdadero poder de precio esta en la cuota de membresia, subida exitosamente en sep-2024 sin impacto negativo relevante en renovaciones.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historial excepcional de dividendos especiales grandes y recurrentes (10 dolares en 2020, 15 dolares en 2024, 12 dolares en dic-2025-ene-2026), dividendo regular subido consistentemente (23 anios consecutivos, ultimo aumento +13.4 por ciento en may-2026), expansion disciplinada de nuevos clubes (24 netos en FY2025).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO Ron Vachris desde ene-2024, promovido internamente tras ser COO-Presidente, historial de continuidad de liderazgo interno. Propuesta anti-DEI rechazada por 98 por ciento de los accionistas en la junta de ene-2025 - senal de alineacion fuerte entre accionistas y direccion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin control familiar ni doble clase.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Reporta ventas mensuales de comparable sales ademas de resultados trimestrales, comunicacion consistente y predecible, poco ruido de partidas no recurrentes.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Posicion de CAJA NETA de aprox 10.81 mil millones de dolares (deuda total 8.14 mil millones vs caja 18.95 mil millones). Rating credicticio S&P subido a AA (desde A mas) en ene-2025, uno de los mas altos de este Dashboard junto a MSFT y JNJ.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.07x, prueba acida 0.56x a 0.61x segun fuente - razonable para un retailer de alta rotacion de inventario.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Rating AA de S&P (subido desde A mas en ene-2025), sin senales de estres de refinanciamiento, deuda total muy baja en relacion al tamano del negocio.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales creciendo con fuerza (59.27 mil millones en FY2021 a 86.43 mil millones TTM), patrimonio tambien creciendo consistentemente sin saltos abruptos por M&A o recompras masivas.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM 12.88 por ciento (deliberadamente bajo, mercaderia a precio de costo mas cuota de membresia), margen operativo 3.82 por ciento, margen neto 3.01 por ciento - margenes bajos en terminos absolutos pero ESTABLES y predecibles anio tras anio, diseno intencional del modelo de negocio, no una senal de deterioro.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM 29.15 por ciento, ROIC 21.22 por ciento (Finviz) a 38.44 por ciento (stockanalysis, discrepancia de metodologia) - ambos muy por encima del WACC propio estimado (aprox 8.17 por ciento), senal de creacion de valor excepcional y sostenida.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos 3.40x (Revenue TTM 293590 millones sobre Activos totales 86430 millones) - muy alta, tipica y deseable en un modelo de retail de alta rotacion de inventario y bajo margen.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 4 anios aprox 8.9 por ciento (de 195.93 mil millones en FY2021 a 275.24 mil millones en FY2025), consistente con comp sales recientes fuertes y con el consenso de analistas para FY2026 (+9.52 por ciento). A DIFERENCIA de NVDA, MU, TSM, PLTR, AVGO y AMD de este Dashboard, este crecimiento NO esta inflado por un supercycle puntual - es un patron estructural de base amplia, mismo tipo de crecimiento ya documentado con Visa.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Muy estable y predecible, sin ciclos marcados ni anios de crecimiento negativo en ninguno de los ultimos 5 anios fiscales.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Expansion internacional continua (China, Espana, y otros mercados con baja penetracion relativa), crecimiento acelerado de e-commerce-digital (+20 a +22 por ciento interanual en los ultimos trimestres), crecimiento de miembros Executive (+9.6 por ciento interanual) y posible futuro aumento de cuota de membresia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM 15000 millones de dolares por encima de la utilidad neta TTM de 8838 millones - buena calidad de ganancias, sin distorsion de partidas no recurrentes relevantes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM 8806 millones de dolares, creciendo de forma consistente anio tras anio (3501 millones en FY2022 a 7837 millones en FY2025), sin lumpiness ni distorsiones.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM 6194 millones de dolares, creciendo de forma proporcional a la expansion de nuevos clubes y la inversion en e-commerce-cadena de suministro, sin picos puntuales aislados.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Combinacion excepcional de dividendo regular creciente (23 anios consecutivos), dividendos especiales grandes y recurrentes (10 a 15 dolares por accion cada 2 a 4 anios), y reinversion disciplinada en nuevos clubes y e-commerce - uno de los mejores historiales de asignacion de capital de este Dashboard.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P a E TTM 47.38x a 47.52x, forward P a E 41.64x a 42.99x, EV a EBITDA 29.44x, P a FCF 47.44x a 47.58x, PEG 3.74x a 3.98x - multiplos EXTREMADAMENTE exigentes para un retailer, entre los mas altos de cualquier empresa no vinculada a IA de este Dashboard.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA A DOCUMENTAR: a diferencia de la mayoria de empresas con valoracion exigente de este Dashboard (NVDA, MU, TSM, PLTR, AVGO, AMD), aqui NO hay una narrativa de supercycle que descontar - el crecimiento de Costco (comp sales +8 a 10 por ciento consistentes, sin ciclos) es genuinamente de base amplia y sostenido, mas parecido al patron de Visa. El problema de valoracion es puramente el NIVEL ABSOLUTO del multiplo (P/FCF cerca de 47.5x), no un riesgo de reversion de ciclo. Valor Intrinseco (DCF propio, Escenario A adoptado): 603.95 dolares por accion (WACC 8.17 por ciento via CAPM: beta 0.865 promedio Finviz-stockanalysis, confiable, deuda casi nula asi que WACC es practicamente igual al costo de equity; FCF base TTM 8806 millones, limpio y sin necesidad de promediar; crecimiento con fade decreciente de 9.5 por ciento a 5 por ciento en 5 anios, anclado directamente en el CAGR historico y el consenso de analistas, SIN necesidad de descuento agresivo; terminal 4 por ciento; equity value = EV mas caja neta de 10810 millones sobre 443.51 millones de acciones). Escenario B de sensibilidad (crecimiento plano 10 por ciento, mas optimista, no adoptado): 667.34 dolares por accion, margen -29.4 por ciento - todavia claramente negativo, confirma que el driver dominante es el multiplo de mercado extremo frente al FCF, no la eleccion de growth rate, mismo patron de robustez ya visto en AVGO-MU-AMD.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad -36.1 por ciento (precio actual 944.93 dolares vs 603.95 dolares del DCF) - zona de Vender-reducir del marco de decision. Divergencia con el consenso de analistas en DIRECCION OPUESTA (39 analistas, Buy, objetivo promedio 1077 a 1090 dolares, +14 por ciento de alza) - mismo patron que AVGO, MU, TSM, PLTR y AMD, pero aqui la sobrevaloracion no viene acompanada de riesgo de reversion de ciclo, es simplemente un precio muy alto por un negocio excelente.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de retail global enorme, con el segmento de clubes de membresia todavia con espacio de penetracion en mercados internacionales (Asia, Europa) donde Costco tiene presencia limitada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas para replicar la escala de compra y la base de miembros ya establecida, pero el modelo de negocio en si (formato de club) no es unico - Sam's Club y BJ's ya lo replican con exito parcial.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad moderada (pocos competidores directos de formato club, pero competencia amplia de minoristas generales y Amazon). Poder de proveedores bajo (base diversificada). Poder de clientes bajo-moderado (alta lealtad por la membresia). Amenaza de sustitutos moderada (e-commerce, minoristas tradicionales). Barreras de entrada moderadas-altas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad baja, consumo basico y semi-basico con demanda relativamente estable a traves del ciclo economico - el beta reportado (0.86 a 0.87, Finviz-stockanalysis, consistente y confiable) lo confirma.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Sensibilidad a aranceles de importacion de mercaderia (riesgo de costos, sin impacto cuantificado grande confirmado en esta investigacion), exposicion internacional diversificada (14 paises) que reduce el riesgo de concentracion en un solo mercado regulatorio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo de tipo de cambio moderado, operaciones en 14 paises incluyendo Canada, Mexico, Japon, Reino Unido, Corea, Australia, Taiwan, China, Espana, Francia, Suecia, Islandia y Nueva Zelanda.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Sin concentracion de clientes (base masiva de 82.1 millones de miembros pagos) ni de proveedores (base diversificada segun el 10-K, sin proveedor unico material).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico bajo-moderado: el crecimiento fuerte de e-commerce propio (+20 a 22 por ciento interanual) sugiere que Costco esta capturando la transicion digital en vez de ser disrumpido por ella, aunque Amazon sigue siendo un competidor estructural de largo plazo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin senales ESG relevantes identificadas en esta investigacion; propuesta anti-DEI rechazada por amplia mayoria de accionistas (98 por ciento) en ene-2025, senal de estabilidad de gobernanza en este frente.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Ventas de julio 2026 ya reportadas (+10.7 por ciento interanual). Junta anual proxima 15-ene-2026. Posible anuncio de un nuevo dividendo especial (patron historico cada 2 a 4 anios, el ultimo fue en dic-2025-ene-2026).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No se identificaron transacciones puntuales relevantes de compra o venta de insiders en esta investigacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "39 analistas (S&P Global), consenso Buy, objetivo promedio 1077 a 1090 dolares, +14 por ciento de alza - consenso positivo pero notablemente MAS MODESTO que en otras empresas Strong Buy de este Dashboard, reflejo quizas de que incluso los analistas reconocen lo exigente de la valoracion actual.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 4,
+    "recomendacion": "NO COMPRAR - VALORACION MUY EXIGENTE (margen de seguridad -36.1 por ciento; score 4.00 de 5, el MAS ALTO de este Dashboard, por moat excepcional, consistencia de crecimiento, balance impecable AA y asignacion de capital sobresaliente - penalizado unicamente por el nivel absoluto del multiplo de mercado, no por riesgo de negocio)",
+    "tesis": "El negocio de mayor calidad de este Dashboard segun el Score Total (moat de membresia con renovacion cercana al 90-92 por ciento, crecimiento consistente sin ciclos, balance con caja neta y rating AA, dividendos especiales recurrentes), pero cotizando a un multiplo tan alto (P/FCF cerca de 47.5x) que ni siquiera un crecimiento sostenido de base amplia (sin narrativa de supercycle que descontar, a diferencia de NVDA-MU-TSM-PLTR-AVGO-AMD) alcanza a justificarlo via DCF - la tension mas marcada de todo el proyecto entre calidad de negocio y precio."
+  }
+}

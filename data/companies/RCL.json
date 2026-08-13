@@ -1,0 +1,259 @@
+{
+  "empresa": "Royal Caribbean Group",
+  "ticker": "RCL",
+  "sector": "Consumo Discrecional / Cruceros (Travel & Leisure)",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Cruceros de pasajeros bajo tres marcas: Royal Caribbean International (volumen masivo, clase Icon), Celebrity Cruises (premium), Silversea (lujo ultra-premium). 69 barcos operando globalmente, mas el destino privado propio Perfect Day CocoCay en Bahamas que genera ingresos incrementales por dia de escala.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de escala de flota: barreras de capital extremas para construir barcos nuevos (anios de espera en astilleros especializados, miles de millones por unidad), marca reconocida, destinos privados propios (CocoCay) dificiles de replicar, economias de escala en compra-operacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Nombrada \"mejor linea de crucero del mundo 2026\" segun ranking reciente, superando a MSC-Princess-Holland America-Carnival. Carnival ejecutando desde una posicion de fuerza tambien; Norwegian Cruise Line en turnaround temprano bajo nuevo liderazgo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Fuerte: demanda robusta demostrada, segmentos premium-lujo (Celebrity, Silversea) con disposicion de pago creciente, barcos clase Icon con precios premium ya exitosos comercialmente.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Gestion de crisis existencial exitosa (sobrevivio el colapso de -80% de ingresos en 2020 sin quiebra), desapalancamiento activo post-COVID (mejora de calificacion a grado de inversion Baa2 en feb-2026), refinanciamiento oportunista de deuda a tasas mas bajas (notas a 2033-2038 emitidas en feb-2026 al 4.750%-5.250%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership relativamente alto (6.51%, entre los mas altos de las ultimas empresas del Dashboard) - buena senal de alineacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Sin senales de estructura de control dual identificadas en esta investigacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guia detallada de EBITDA-FCF-apalancamiento, comunicacion activa sobre el programa de desapalancamiento post-COVID y sus metas explicitas (Deuda/EBITDA objetivo 2.5x-3.0x).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA ~3.0x (segun Moodys, FY2025), en el rango objetivo declarado de la empresa (2.5x-3.0x) pero aun elevado en terminos absolutos - deuda total USD 23.5bn, la mas alta en terminos absolutos del cluster reciente del Dashboard, legado directo de la crisis de COVID. Recupero grado de inversion (Moodys Baa2, S&P tambien IG) tras anios en territorio especulativo. Deuda/Patrimonio 2.30x sobre un patrimonio real y positivo (USD 10.46bn, no delgado ni negativo como otras empresas recientes del Dashboard).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente extremadamente baja (0.18), prueba acida 0.16 - la mas baja del Dashboard, PERO esto es estructural y tipico de la industria de cruceros (los pasajes vendidos por adelantado se registran como pasivo corriente de ingresos diferidos mientras el efectivo ya fue cobrado, no una senal de estres de liquidez real).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Grado de inversion recuperado (Moodys Baa2, S&P tambien grado de inversion), refinanciamiento activo y oportunista de vencimientos a tasas mas bajas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill minimo (USD 808M sobre activos totales de USD 44.64bn, menos del 2%) - balance dominado por activos tangibles reales (la flota de barcos), calidad de activos alta.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 39.09%, margen operativo 27.09%, margen neto 23.54% - en fuerte recuperacion y expansion desde las perdidas de 2020-2022, EBITA margin 36.4% segun Moodys.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 45.34% (sobre patrimonio real y positivo, no delgado). ROIC 13.70% vs WACC propio 11.17% - spread modesto de ~2.5pp, el mas ajustado del cluster reciente del Dashboard, reflejo del negocio de capital muy intensivo de la industria de cruceros. ROA 10.58%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 0.418x (Ingresos TTM USD 18.68bn / Activos totales USD 44.64bn), baja, tipica de un negocio de capital muy intensivo (flota de barcos).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de Ingresos 5y de 52.02% (Finviz) EXTREMADAMENTE DISTORSIONADO por el colapso de -80% de ingresos en 2020 (el peor impacto COVID de cualquier empresa del Dashboard hasta ahora, mas severo que EXPE) - COMPLETAMENTE no representativo del crecimiento organico futuro, no usado para el DCF.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Negocio genuinamente ciclico y vulnerable a shocks externos, ya demostrado de la forma mas extrema posible (suspension TOTAL de operaciones en 2020), aunque en fuerte recuperacion-expansion reciente y sostenida (ingresos +8.7% interanual, utilidad neta +22.1%).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Nuevos barcos clase Icon (Legend of the Seas uniendose en verano 2026) con exito de precios ya demostrado, expansion del destino privado Perfect Day CocoCay, crecimiento en segmentos premium-lujo (Celebrity, Silversea) con demanda robusta.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM USD 6.79bn vs utilidad neta TTM USD 4.40bn - brecha normal explicada por D&A de una flota intensiva en capital, sin distorsiones contables severas identificadas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM NEGATIVO (-USD 416M) - el capex TTM (USD 7.20bn) EXCEDE el OCF (USD 6.79bn) por la entrega de nuevos barcos clase Icon. Moodys proyecta FCF positivo pero modesto (~USD 700M) para 2026 completo, mejorando estructuralmente conforme el ciclo actual de newbuilds se modera. Se uso una base normalizada (OCF menos capex de mantenimiento estimado en USD 3.5bn, similar al nivel pre-newbuild-surge de FY2023) en vez del FCF TTM real para el DCF.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM de USD 7.20bn (38.6% de ventas!) el mas alto en terminos relativos de cualquier empresa del Dashboard, refleja el programa activo de construccion de la clase Icon - capex de CRECIMIENTO puro, no de mantenimiento, con un patron de escalada aun mas extremo que el ya documentado con AZO.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo reiniciado y creciente (yield ~1.76-1.96%, payout bajo ~22%) tras haberlo suspendido durante la crisis de COVID, balance de desapalancamiento activo priorizado sobre recompras agresivas por ahora.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 18.92-18.95x, Forward P/E 15.08-16.29x (normal, mas bajo que el trailing), EV/EBITDA 15.32x - multiplos moderados en apariencia, aunque el P/FCF no es calculable dado el FCF TTM negativo, una senal de alerta de valoracion que los multiplos tradicionales de utilidad no capturan.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, FCF base normalizada = OCF TTM menos capex de mantenimiento estimado USD 3.5bn = USD 3.29bn, growth 10%): USD 143.76/accion, MS -53.08%. Escenario B (sensibilidad con growth mas optimista 14%, no adoptado): USD 183.5/accion, MS -40.1% - AMBOS escenarios caen en zona VENDER/REDUCIR pese a usar una base de FCF ya normalizada (mas favorable que el FCF TTM real, que es NEGATIVO). Beta literal (1.76-1.78) NO parece degenerado (valor alto, no bajo, coherente con la volatilidad real ya demostrada por la accion durante COVID) - no se sustituyo. DCF extremadamente sensible al supuesto de capex normalizado (similar al gotcha ya documentado con AZO, pero mas extremo: usando el FCF TTM real o la guia conservadora de Moodys de solo USD 700M para 2026, el valor implicito cae aun mas).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-53.08% (Escenario A adoptado, precio actual USD 306.38 vs valor intrinseco USD 143.76) - profundamente negativo, en zona VENDER/REDUCIR del framework, robusto en direccion (ambos escenarios negativos) aunque con incertidumbre real sobre la magnitud exacta dado lo fragil de la base de FCF.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de cruceros en expansion activa post-COVID, demanda robusta en segmentos premium-lujo segun la investigacion, penetracion de cruceros como porcentaje del gasto turistico total todavia relativamente baja con espacio para crecer.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas: costo de capital extremo para construir una flota nueva (anios de espera en astilleros especializados, inversion de miles de millones por barco), escala de operaciones-marketing-lealtad de marca.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad moderada-alta entre RCL-Carnival-Norwegian-MSC (aunque descrita recientemente como un oligopolio racional en precios), poder de proveedores alto (astilleros especializados con capacidad limitada, combustible), poder de compradores del consumidor final moderado, amenaza de sustitutos moderada (otras formas de vacaciones), barreras de entrada altas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "EXTREMADAMENTE ciclica y vulnerable a shocks externos - la industria de cruceros sufrio el colapso mas severo de cualquier sector de consumo discrecional durante COVID (suspension TOTAL de operaciones), el perfil de riesgo ciclico mas extremo de todo el Dashboard hasta ahora.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Moderado: regulacion ambiental maritima internacional (emisiones, tratamiento de aguas), riesgo geopolitico que afecte rutas-destinos especificos, riesgo de nuevas normativas de salud publica post-COVID.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real dada la naturaleza global de las operaciones y la flota, combustible cotizado en USD parcialmente mitigado por cobertura.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes masivamente diversificada (consumidores globales), pero dependencia de un numero limitado de astilleros especializados para la construccion de barcos nuevos - riesgo de concentracion de proveedor real.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Bajo: el modelo de negocio de cruceros no enfrenta una amenaza de disrupcion tecnologica directa comparable a la de otros sectores del Dashboard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ambiental real y creciente (emisiones de flota maritima, combustible pesado, presion regulatoria de descarbonizacion maritima internacional) - un riesgo estructural de largo plazo especifico de la industria.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Entrega de Legend of the Seas (verano 2026, clase Icon); progreso del desapalancamiento hacia el rango objetivo de Deuda/EBITDA; proximo reporte trimestral; evolucion del FCF conforme el ciclo actual de newbuilds se modera.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Sin datos de actividad de venta severamente negativa identificados en esta investigacion especifica; insider ownership relativamente alto (6.51%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso fuertemente positivo (Buy, 28 analistas, objetivo promedio USD 346.92-350.32, +13.23% a +14.35% de alza) - diverge AMPLIAMENTE de este DCF en direccion OPUESTA (-53.08%), una de las brechas mas grandes del Dashboard, reflejo de que el consenso de mercado pondera mucho mas el momentum operativo reciente y la demanda robusta de lo que este DCF conservador esta dispuesto a reconocer.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.135135135135135,
+    "recomendacion": "REDUCIR - VALORACION MUY EXIGENTE",
+    "tesis": "Royal Caribbean supero con exito la crisis existencial de COVID (el peor impacto de cualquier empresa del Dashboard, -80% de ingresos en 2020) y ejecuta bien (mejor linea de crucero 2026, demanda robusta), pero el FCF TTM es NEGATIVO por el ciclo de newbuilds de la clase Icon y el DCF resulta profundamente negativo incluso normalizando el capex (-53.08% a -40.1% segun escenario) - REDUCIR."
+  }
+}

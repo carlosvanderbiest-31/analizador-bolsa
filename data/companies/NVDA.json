@@ -1,0 +1,259 @@
+{
+  "empresa": "NVIDIA Corporation",
+  "ticker": "NVDA",
+  "sector": "Tecnologia / Semiconductores - Computo para IA",
+  "fecha_analisis": "2026-03-08",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Ingresos: ~89% Data Center/IA, 9% Gaming, 1.5% Workstations, 1.1% Automotive/Robotica. Alta concentracion en un solo segmento de alto crecimiento; diversificacion de fuentes de ingreso baja.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de ecosistema de software (CUDA, mas de 15 anios de switching costs) e integracion de sistemas (racks completos GPU+CPU+networking). Dificil de replicar en el corto/mediano plazo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Cuota dominante en GPUs para entrenamiento de IA. Riesgo: Google (TPU), Amazon (Trainium/Inferentia) y Meta (MTIA) desarrollan ASICs propios, principalmente para cargas de inferencia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Margen bruto TTM de 74.15% (a abril 2026) confirma fuerte poder de fijacion de precios, sostenido por demanda que excede oferta y por el valor del stack integrado.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Recompras de acciones muy agresivas (~45.3 mil millones USD TTM), dividendo simbolico (yield menor a 0.5%), reinversion moderada en capex propio. Intento de adquisicion de Arm fue bloqueado por reguladores en 2022.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Jensen Huang (fundador y CEO) posee aprox. 3.6-3.9% de la compania (mas de 150 mil millones USD en acciones). Senal de cautela: 15 insiders vendieron mas de 3.3 mil millones USD en 18 meses (Huang ~2.9 mil millones), cero compras registradas. Ventas bajo planes 10b5-1, pero el patron merece seguimiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones comunes, sin estructura de doble clase que concentre el control de forma desproporcionada (a diferencia de Alphabet o Meta).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Reportes trimestrales detallados, guidance frecuente y comunicacion publica muy activa de Jensen Huang.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda total ~12.3 mil millones USD vs. caja y equivalentes ~80.6 mil millones USD: POSICION DE CAJA NETA de ~68.2 mil millones USD. Deuda/Patrimonio ~0.06-0.07x. CORRECCION vs. Dashboard: la celda 'Deuda Neta/EBITDA' (0.076x) tenia el signo equivocado - en realidad es caja neta, no deuda neta (aprox. -0.4x Caja Neta/EBITDA). Ya corregida en el Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente ~3.4x (dato a abril 2026, vs. 3.9x al cierre del ejercicio fiscal enero 2026). Liquidez muy solida en ambos casos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda total baja (~12.3 mil millones USD) frente a flujo de caja operativo anual superior a 125 mil millones USD; vencimientos no representan riesgo material. Pendiente revisar el 10-K/10-Q mas reciente para el detalle de covenants.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Modelo de negocio relativamente asset-light para su escala (terceriza fabricacion a TSMC); sin distorsion relevante conocida por goodwill/intangibles. Pendiente verificar desglose exacto en el 10-Q.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 74.15%, margen operativo 64.02%, margen neto 62.97% (TTM a abril 2026). Expansion sostenida de margenes impulsada por el mix hacia Data Center/IA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "DuPont (TTM abril 2026): Margen neto 62.97% x Rotacion de activos 0.98x x Apalancamiento financiero 1.33x = ROE aprox. 81.7% (activos de cierre) a 90.5% (patrimonio promedio). El ROE de 114.29% citado por varias plataformas no es reconciliable con este calculo bottom-up, probablemente porque no refleja el fuerte crecimiento del patrimonio (+24% trimestre a trimestre) por utilidades retenidas. Igual brecha entre ROIC informado (77%-105% segun fuente) y estimacion propia (~104-108%). Conclusion: el ROE real esta mas cerca de 80-90% que de 114%, explicado por margenes, NO por apalancamiento (multiplicador de solo 1.33x).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos de 0.98x es baja en terminos absolutos (tipico de negocios intensivos en I+D y con balance grande), pero el ROE se sostiene por margenes, no por eficiencia de activos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 5 anios de ~66.9% (dato original), consistente con el crecimiento explosivo del segmento Data Center/IA en los ultimos ejercicios.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento historicamente ciclico (ej. ciclo previo de gaming/cripto). Riesgo actual: nerviosismo de mercado en julio 2026 por preocupaciones sobre sostenibilidad del capex de hyperscalers y dependencia de clientes como OpenAI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Rampa de nueva arquitectura (Blackwell/Rubin), expansion de IA soberana (proyectos de gobiernos), crecimiento del segmento de inferencia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM ~125.6 mil millones USD vs. utilidad neta TTM ~159.6 mil millones USD (conversion ~79%). Pendiente revisar el detalle de capital de trabajo dado el crecimiento acelerado de ventas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM ~119.1 mil millones USD. Conversion de caja muy fuerte para el tamano de la empresa, con capex bajo relativo a ventas.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex/Ventas ~2.6% (TTM), bajo para el nivel de crecimiento. Modelo asset-light: la inversion pesada en capacidad de fabricacion la asumen TSMC y los hyperscalers, no NVIDIA directamente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital fuertemente orientado a recompras de acciones (~45.3 mil millones USD TTM) sobre dividendos (yield menor a 0.5%). Consistente con un negocio que no requiere reinversion intensiva de capital propio.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E trailing ~30.7x, forward ~20.1x (compresion esperada por crecimiento de utilidades). PEG ~0.45. EV/EBITDA ~30x, P/FCF ~42x, P/B ~24.9x. PENDIENTE: cargar comparables del sector (AMD, AVGO, TSM) para contexto relativo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF recalculado (03/08/2026), reemplaza el valor anterior basado en el EV de Finviz (ese metodo era circular: EV ya esta calculado a partir del precio de mercado, por lo que EV - Deuda Neta siempre devuelve el Market Cap, no un valor intrinseco). Metodologia: WACC 15.5% via CAPM (tasa libre de riesgo promedio 5 anios ~3.5% + Beta 5 anios 2.21 x prima de riesgo 5.5%; costo de deuda despues de impuestos ~3.5% con peso de deuda casi nulo dado el tamano de NVIDIA). Crecimiento: se probaron dos escenarios. (A) CAGR historico de ingresos de los ultimos 5 anios (66.9%) proyectado 5 anios: da un FCF ano 5 de 1.54 billones (trillion) USD, un resultado no creible por el efecto de base baja de los anios FY2022-2023 - descartado. (B) Tasa de crecimiento esperada por el consenso de analistas para los proximos 5 anios (47.55%, Finviz) aplicada al FCF TTM (.1bn): da un FCF ano 5 de ~833bn, EV de ~4,981bn, valor del equity ~5,050bn (sumando caja neta de .2bn), Valor por accion = 5,050 / 24.22bn acciones = USD 208.49. Se uso una tasa de crecimiento terminal de 4% (perpetuidad, supuesto propio no historico, en linea con crecimiento nominal de largo plazo). Este es el valor adoptado (Escenario B).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Con precio actual de USD 206.64 (Finviz, 03/08/2026) vs. valor intrinseco recalculado de USD 208.49 (DCF Escenario B), el margen de seguridad es de +0.89% - practicamente neutro, sin colchon relevante, consistente con la conclusion anterior pero ahora respaldado por un DCF real en vez de una identidad circular del EV.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de infraestructura de computo para IA en expansion estructural; el capex anual combinado de los principales hyperscalers se mide en cientos de miles de millones de USD.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: ecosistema de software CUDA, acceso privilegiado a capacidad de fabricacion de TSMC, escala de I+D.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad: baja-media (AMD y ASICs propios de hyperscalers, cuota lejana). Poder de negociacion de clientes: ALTO y creciente (~40% de ingresos en 3-4 hyperscalers que desarrollan alternativas propias). Poder de proveedores: alto (dependencia de TSMC). Sustitutos: ASICs propietarios en desarrollo. Nuevos entrantes: barrera alta por el ecosistema de software.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Industria historicamente ciclica (gaming, cripto); el actual super-ciclo de IA podria enfrentar correcciones si el capex de los hyperscalers se desacelera, riesgo que ya se reflejo en la volatilidad del precio en julio 2026.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Restricciones de exportacion de chips a China (H20/H200) y riesgo geopolitico Taiwan-TSMC (fabricante principal de NVIDIA).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo bajo: facturacion mayormente en USD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "RIESGO PRINCIPAL: concentracion de clientes. Aprox. 40% de los ingresos provienen de Google, Amazon y Meta, quienes desarrollan ASICs propios (TPU, Trainium/Inferentia, MTIA) para reducir su dependencia de NVIDIA. Ademas, dependencia de un unico fabricante (TSMC).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de disrupcion tecnologica por ASICs propietarios y arquitecturas alternativas de aceleracion de IA.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Consumo energetico e hidrico masivo de los centros de datos que dependen de sus chips; no es actualmente un riesgo diferenciador critico frente a la industria.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo reporte de resultados: 26/08/2026 (Q2 FY2027, despues del cierre). Consenso de analistas: EPS ~2.07-2.08 USD, ingresos ~91.7 mil millones USD.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Cero compras de insiders en los ultimos 18 meses; ventas acumuladas superiores a 3.3 mil millones USD (Jensen Huang aprox. 2.9 mil millones USD), bajo planes 10b5-1. Senal de cautela a monitorear.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de analistas: Compra fuerte, ~53-68 analistas cubriendo la accion. Precio objetivo promedio ~300-305 USD (rango 180-500 USD), upside implicito de ~50% sobre el precio actual (~199 USD). Contrasta con el margen de seguridad neutro del DCF propio; revisar diferencia de supuestos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.9722222222222223,
+    "recomendacion": "MANTENER",
+    "tesis": "Lider estructural de la infraestructura de computo para IA, con moat de software (CUDA) y balance excepcional (caja neta), pero cotiza sin margen de seguridad (DCF propio) y con riesgo creciente de concentracion de clientes (hyperscalers desarrollando ASICs propios)."
+  }
+}

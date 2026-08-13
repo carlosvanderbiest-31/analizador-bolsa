@@ -1,0 +1,259 @@
+{
+  "empresa": "RTX Corporation",
+  "ticker": "RTX",
+  "sector": "Industriales - Defensa y Aeroespacial (Aerospace & Defense - Hibrido Comercial-Defensa)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Conglomerado hibrido defensa-aeroespacial comercial con 3 segmentos: Pratt & Whitney (motores de avion comercial-militar, incluido el motor GTF), Collins Aerospace (sistemas-componentes aeroespaciales comerciales-defensa), y Raytheon (sistemas de defensa-misiles-radares). Formado por la fusion de United Technologies-Raytheon en 2020. El mas diversificado de los nombres de defensa-aeroespacial de la sesion (NOC-GD-LMT son defensa pura, HWM-BA son comercial puro).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat tecnico-de certificacion solido en ambos lados del negocio: Pratt & Whitney es uno de solo TRES fabricantes de motores comerciales grandes (junto a GE y Rolls-Royce), Raytheon tiene el mismo tipo de moat de habilitaciones de seguridad que NOC-GD-LMT. PERO el episodio del motor GTF (ver fila 56) demostro que el moat tecnico no protege completamente contra fallas de ejecucion-calidad costosas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion fuerte en multiples nichos: oligopolio de motores comerciales (Pratt & Whitney), proveedor top de sistemas aeroespaciales (Collins), contratista de defensa de primer nivel (Raytheon) - backlog record de USD 289bn (+22% interanual, ~3.1x ingresos anuales).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios fuerte en el negocio de repuestos de posventa (aftermarket, crecimiento de doble digito reportado en 2T2026), pero el episodio del motor GTF (fila 56) demostro un riesgo real de calidad-costo en el negocio de motores nuevos.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Christopher Calio (Presidente-CEO desde may-2024, Chairman desde abr-2025) - liderando la recuperacion post-crisis del GTF y la ejecucion del backlog record; guia FY2026 elevada (ventas ajustadas USD 95-96bn).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap industrial sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "GOTCHA-GOBERNANZA: en oct-2024 RTX (via su unidad legada Raytheon) acordo pagar mas de USD 950 millones para resolver cargos de fraude al gobierno de EEUU y soborno en Qatar (violaciones de la Ley de Practicas Corruptas en el Extranjero y la Ley de Control de Exportacion de Armas) - un acuerdo de enjuiciamiento diferido con el DOJ, mas una sancion civil de la SEC. La empresa senalo que los hechos son mayormente anteriores a la fusion de 2020 (legado de Raytheon-Rockwell Collins), pero sigue siendo un antecedente de gobernanza real y reciente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 2.05x (deuda total USD 38.86bn, caja USD 8.31bn, EBITDA TTM USD 14.89bn) - moderado, similar a NOC.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de solo 1.01, razon rapida 0.65 - la liquidez MAS AJUSTADA de los contratistas de defensa-aeroespacial de la sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "GOTCHA: balance con Goodwill+Intangibles MASIVO (~USD 85bn combinados, aproximadamente la MITAD de los activos totales) heredado de la fusion United Technologies-Raytheon de 2020 - la complejidad de balance mas grande de M&A entre los contratistas de defensa-aeroespacial de la sesion, y probable explicacion central del ROIC comparativamente bajo (fila 28).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes decentes pero no excepcionales: bruto 20.35%, operativo 12.29%, neto 8.28% - similares en magnitud al resto de contratistas de defensa de la sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "GOTCHA: ROIC de 9.40% es el MAS BAJO de los cuatro nombres de defensa-aeroespacial de la sesion (vs 27.42% LMT, 15.02% NOC, 14.60% GD) - probablemente diluido por el enorme goodwill de la fusion 2020 (fila 25). ROE 12.27% (informativo, patrimonio no delgado, USD 68.1bn).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos BAJA, consistente con el balance pesado en goodwill-intangibles (fila 25).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios FUERTE (8.30%, calculo propio FY2021-FY2025) - impulsado por la recuperacion de aftermarket comercial post-COVID y crecimiento de defensa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA: volatilidad real de utilidad neta-FCF por el episodio del motor GTF (ver fila 56) - utilidad neta cayo de USD 5.2bn (FY2022) a USD 3.2bn (FY2023, el peor ano) antes de recuperarse con fuerza a USD 6.7bn (FY2025) y USD 7.7bn (TTM) - un patron de crisis-recuperacion real, aunque de magnitud menor al de NOC (B-21) o BA (crisis multi-anio).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Catalizador: backlog record de USD 289bn (+22% interanual, ~3.1x ingresos), fuerte crecimiento organico (2T2026 +16%), demanda de defensa acelerandose (el Pentagono presionando por entregas mas rapidas), recuperacion continua del negocio de motores post-GTF.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias en mejora pero con cicatrices reales: el episodio del GTF y el acuerdo de soborno de Qatar son ambos antecedentes recientes de ejecucion-gobernanza que ameritan monitoreo continuo, aunque ninguno parece estar afectando los resultados actuales de forma material.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Excelente y en fuerte mejora conversion de FCF (FCF Yield 3.78%, FCF TTM USD 11.41bn, +258% interanual segun reportes) - la recuperacion post-GTF esta impulsando una expansion de FCF muy rapida.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex moderado (TTM USD 2.80bn, ~2.99% de ventas).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital razonable: dividendo con yield 1.30% y payout 51.41%, recompras activas, aunque parte del capital en anios recientes se dirigio a absorber los costos del episodio del GTF (USD 6-7bn de impacto financiero bruto total) y el acuerdo de soborno de Qatar (USD 950M+).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos RICOS en terminos TTM (P/E 39.46x, refleja la base de ganancias TTM aun en recuperacion post-GTF), mas razonables en terminos forward (30.39x) - EV/EBITDA 22.35x, P/FCF 26.48x.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA: dispersion de beta entre fuentes (0.29 a 0.53 segun la fuente) - con el beta mas bajo (0.29) el multiplo terminal implicito (41.67x) diverge del P/FCF real de mercado (26.48x, ratio 1.57x) - degenerado, aunque de magnitud menor a NOC-GD-LMT. Se sustituyo por un beta iterado de 0.58 hasta converger - notablemente CERCANO al beta alternativo de 0.53 ya reportado por otra fuente independiente, una buena validacion cruzada del proceso de convergencia. WACC resultante 6.38% (Ke CAPM 6.69% con beta sustituto 0.58; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~3.95%; estructura de capital a valor de mercado: Equity USD 302bn, Deuda USD 38.86bn). FCF base = TTM real USD 11.407bn (fuerte, aunque parte del salto TTM refleja la recuperacion post-GTF mas que un nivel plenamente normalizado - se acepta como razonablemente representativo dado que multiples trimestres consecutivos confirman la tendencia). Crecimiento 5 anios = 8% (moderado desde el 16% organico actual, anclado a la conversion del backlog record); terminal 2.5%. Valor Intrinseco: USD 262.38/accion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: +17.07% (precio actual USD 224.12 vs valor intrinseco USD 262.38) - el MAS ALTO de todos los Industriales de la sesion (WM +0.79%, ITW -5.32%, NOC -5.41%, DE -8.61%, UNP -16.06%, GD +9.15%, HWM -74.03%, BA -42.48%, LMT +2.84%). Consenso de ~16 analistas (Strong Buy, objetivo promedio USD 234.47, +10.19%) diverge en la MISMA direccion (a diferencia de HWM-BA donde la brecha con el consenso era adversa), aunque este DCF es algo mas optimista - buena convergencia direccional.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en crecimiento estructural DUAL: presupuestos de defensa de EEUU-aliados en aumento (como NOC-GD-LMT) MAS la recuperacion-crecimiento estructural de la aviacion comercial global (flota en expansion, demanda de repuestos de motor) - un TAM mas amplio que los contratistas de defensa pura de la sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas en ambos negocios: certificacion de motores-sistemas aeroespaciales (oligopolio de 3 fabricantes de motores grandes) y habilitaciones de seguridad de defensa - aunque el episodio del GTF demostro que estas barreras no eliminan el riesgo de ejecucion-calidad.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: oligopolio de motores comerciales (RTX-GE-Rolls-Royce), oligopolio de contratistas de defensa primos (junto a NOC-GD-LMT-Boeing Defense) - una posicion dual fuerte en dos oligopolios distintos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad MIXTA-hibrida: el segmento Raytheon (defensa) tiene la misma baja ciclicidad estructural que NOC-GD-LMT (desacoplada del ciclo economico), pero Pratt & Whitney-Collins Aerospace (aeroespacial comercial) tienen ciclicidad genuina ligada a la demanda de viajes aereos (similar a HWM) - el beta observado (0.29-0.58) refleja este promedio ponderado de ambos perfiles.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio DUAL: el mismo contexto de defensa que NOC-GD-LMT (ITAR, supervision DoD, proceso presupuestario del Congreso) MAS regulacion de certificacion aeroespacial comercial (FAA-EASA), esta ultima con relevancia directa dado el episodio del GTF.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria MODERADA-significativa, mayor que los contratistas de defensa pura por la venta global de motores-sistemas aeroespaciales comerciales a aerolineas de todo el mundo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes MAS DIVERSIFICADA que los contratistas de defensa pura de la sesion: gobierno de EEUU-aliados (Raytheon) MAS una base amplia de aerolineas-fabricantes de aviones globales (Pratt & Whitney-Collins) - menor concentracion relativa de cliente unico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico genuino en motores de avion (tecnologia GTF de engranaje reductor, pese al episodio de calidad), sistemas aeroespaciales, y defensa-misiles - un portafolio tecnologico amplio en dos industrias distintas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "GOTCHA: mismo riesgo ESG ESTRUCTURAL Y PERMANENTE que NOC-GD-LMT via el segmento Raytheon (fabricante de armamento) - exclusion categorica de fondos ESG-SRI por mandato.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: continuidad de la resolucion del episodio del GTF (inspecciones incrementales previstas hasta fines de 2026), conversion del backlog record de USD 289bn, y si la demanda acelerada de defensa (presion del Pentagono por entregas mas rapidas) se sostiene.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-HISTORIAL DETALLADO DEL EPISODIO GTF: en 2023 Pratt & Whitney detecto contaminacion de metal en polvo en discos de turbina de alta presion (fabricados entre 4T2015 y 3T2021) que podia causar grietas-fallas del motor (ya vinculada a una falla de motor V2500 no contenida en mar-2020). El impacto financiero bruto total se estimo entre USD 6.0-7.0bn, con aproximadamente 600-700 visitas de taller incrementales hasta fines de 2026 y cerca de 350 aviones en tierra entre 2024-2026 (afectando flotas A320neo, A220, y Embraer E2). El episodio explica directamente la caida de utilidad neta-FCF de FY2023 (fila 32) y sigue generando costos-visitas de taller incrementales hasta el momento de este analisis - un antecedente real de riesgo de calidad-ejecucion en el negocio de motores, distinto en naturaleza al riesgo de sobrecostos de contratos de precio fijo ya documentado en NOC.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~16 analistas: calificacion STRONG BUY, objetivo promedio USD 234.47 (+10.19% de alza sobre el precio actual) - consenso positivo y en la MISMA direccion que este DCF (aunque de magnitud menor), a diferencia de HWM-BA donde el consenso diverge en direccion adversa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.27027027027027,
+    "recomendacion": "COMPRAR - conglomerado hibrido defensa-aeroespacial comercial (Pratt & Whitney, Collins Aerospace, Raytheon) con el TAM mas amplio de los nombres de defensa-aeroespacial de la sesion (defensa MAS aviacion comercial), backlog record de USD 289bn, y en fuerte recuperacion del episodio de calidad del motor GTF (impacto financiero bruto USD 6-7bn, aun resolviendose hasta fines de 2026); el DCF (con beta sustituido, validado por convergencia cruzada con una fuente alternativa) da el margen de seguridad MAS ALTO de todos los Industriales de la sesion (+17.07%), en la misma direccion que un consenso de analistas Strong Buy; PERO el score moderado (3.27, mas bajo que NOC-GD-LMT) refleja problemas reales: el ROIC mas bajo de los cuatro nombres de defensa-aeroespacial (probablemente diluido por el enorme goodwill de la fusion 2020), liquidez mas ajustada, y un acuerdo de soborno-fraude de USD 950M+ con el DOJ en 2024",
+    "tesis": "El unico hibrido defensa-aeroespacial comercial de la sesion, recuperandose con fuerza de la crisis de calidad del motor GTF con un backlog record y el margen de seguridad mas alto de todos los Industriales analizados, aunque cargando el ROIC mas bajo del grupo y un antecedente reciente de soborno-fraude que vale la pena monitorear."
+  }
+}

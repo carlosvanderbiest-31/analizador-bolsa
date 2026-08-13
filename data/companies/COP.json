@@ -1,0 +1,259 @@
+{
+  "empresa": "ConocoPhillips",
+  "ticker": "COP",
+  "sector": "Energia - Exploracion y produccion de petroleo-gas (upstream), con cartera creciente de GNL contratado",
+  "fecha_analisis": "2026-08-10",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "E&P global diversificado: Lower 48 de EEUU (Permian, Eagle Ford y Bakken, estos dos ultimos reforzados por la adquisicion de Marathon Oil por USD 22.5bn cerrada en 4T 2024), Alaska (incl. el proyecto Willow en desarrollo), Norruega, y participaciones internacionales en GNL de Qatar (North Field East y North Field South) y Port Arthur (EEUU), mas Malasia y Libia. Mas de 13,000 locaciones de perforacion tras Marathon.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Cultura y marco explicito de \"low cost of supply\": la empresa selecciona y prioriza activos que sean rentables incluso a precios bajos de petroleo, una disciplina de portafolio real (no solo retorica) adoptada tras la crisis de 2015-2016. Se suma opcionalidad creciente en GNL contratado a largo plazo (menos expuesto al spot que la produccion pura de crudo). Sin un moat de infraestructura fisica unica como el CO2-EOR de OXY.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Uno de los mayores E&P independientes del mundo tras Marathon: produccion cercana a 2.4 millones boed, posiciones lideres en Bakken y Eagle Ford, y presencia relevante en Permian, ademas de Alaska y activos internacionales.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios nulo: tomador de precios de un commodity global, mismo criterio ya establecido con EOG y OXY.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historial con una leccion dura ya asimilada: recorte de dividendo del 66% en 2016 tras el colapso de precios del petroleo de 2015 (perdida neta de USD 3.58 por accion en 2015), que forzo un cambio profundo hacia el marco actual de \"low cost of supply\" y el programa de retorno de capital de tres niveles (dividendo ordinario, VROC variable, recompras). La ejecucion desde entonces (incl. Marathon Oil 2024, bien recibida por el mercado) ha sido notablemente disciplinada, en contraste con el patron de OXY (sobrepago por Anadarko en 2019, recorte de dividendo mas reciente y financiamiento caro de Berkshire).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Sucesion de CEO ORDENADA y planificada: Ryan Lance (14 anios como CEO) pasa a presidente ejecutivo transicional el 1-sep-2026, sucedido por Andy O'Brien, actual CFO y veterano de casi 30 anios en la empresa - senal de gobernanza sana, sin salida abrupta ni busqueda externa de emergencia. Tenencia interna muy baja (0.10%, incluso menor que OXY), tipico de una mega-cap.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones comunes, sin preferentes ni warrants relevantes en la estructura de capital (a diferencia de OXY) - estructura accionaria limpia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin senales de fraude o cargos penales encontradas en esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta a EBITDA aprox 0.61x (deuda neta USD 15.60bn, EBITDA TTM aprox USD 25.5bn) - el apalancamiento mas bajo de las tres E&P del Dashboard (EOG 0.24 a 0.45x, OXY 0.88x o 1.64x con preferente), consistente con la calificacion crediticia A- de S&P (grado de inversion solido, muy por encima del BB+ de OXY).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.54, prueba acida (quick ratio) 1.39 - liquidez saludable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion crediticia A- (S&P, afirmada con perspectiva estable) - grado de inversion solido. Sin senales de concentracion de vencimientos problematica encontradas en esta sesion (no verificado con precision el calendario completo).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por reservas de petroleo-gas y propiedad-planta-equipo (tangibles); goodwill incremental razonable de la adquisicion de Marathon Oil, sin seÃ±ales de deterioro relevante encontradas en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 27.18%, margen operativo 22.14%, margen neto TTM 14.66% (Finviz) - sin distorsion de partidas no recurrentes relevante identificada en esta sesion (a diferencia de OXY), cifras TTM que ya reflejan el beneficio de precios de petroleo mas altos en 2026.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 14.13%, ROIC 10.49%, ROA 7.50% (Finviz, TTM). El ROIC de 10.49% queda POR ENCIMA del WACC propio adoptado (aprox 9.74%) - a diferencia de OXY, en el periodo TTM reciente la empresa SI genero valor economico claro sobre su costo de capital.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos aprox 0.52x (ingresos TTM USD 64.46bn sobre activos totales USD 124.26bn) - mas alta que la de OXY (0.30x), reflejo de un balance menos inflado por activo en relacion a los ingresos que genera.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 5 anios de 25.63% (Finviz) esta claramente inflado por una combinacion de M&A (Marathon Oil, cerrada 4T 2024) y el ciclo de precios de commodities - no representativo de crecimiento organico sostenible, mismo tratamiento de cautela ya aplicado a OXY y EOG.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Ciclico por naturaleza de negocio, aunque sin los swings trimestrales extremos observados en OXY en esta sesion (no hubo una desinversion de segmento distorsionando el periodo TTM) - la volatilidad viene principalmente del ciclo de precios del petroleo-gas, no de ruido contable adicional.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Fuentes de crecimiento concretas y bien comunicadas: el proyecto Willow en Alaska (primer petroleo guiado para inicios de 2029, contribucion de FCF esperada de aprox USD 4bn), crecimiento continuo en Lower 48, y expansion de la cartera de GNL (Port Arthur, participaciones de Qatar). La propia gerencia guia un objetivo de USD 7bn de FCF incremental para 2029 (USD 3bn de ahorros de costos y sinergias de Marathon, mas USD 4bn de Willow) - ver nota de valoracion sobre como se trato este objetivo en el DCF.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Sin divergencia relevante identificada entre utilidad neta y FCF en el periodo TTM (a diferencia del gotcha reciente de OXY) - calidad de ganancias razonablemente limpia en esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM de USD 10.06bn (OCF USD 21.93bn menos capex USD 11.86bn), conversion de EBITDA a FCF de aprox 39% (EBITDA TTM aprox USD 25.5bn) - razonable para el sector, con el capex de Willow ya en su punto MAXIMO detras de la empresa segun guidance reciente, lo que deberia liberar mas FCF hacia adelante sin necesidad de mas inversion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM de USD 11.86bn (aprox 18.4% de ingresos) - la propia gerencia senala que el gasto de capital pico del proyecto Willow ya quedo atras, con el capex total esperado a MODERARSE conforme Willow avanza hacia el primer petroleo en 2029 - un perfil de capex mas favorable hacia adelante que el de LIN-APD-ECL (backlog de capex creciente).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Marco de retorno de capital de tres niveles bien establecido: dividendo ordinario, VROC (Variable Return of Cash, distribucion adicional ligada al ciclo de precios) y recompras de acciones - en 2023 se distribuyeron USD 11.0bn a accionistas (USD 5.6bn via dividendo mas VROC, USD 5.4bn via recompras). Enfoque disciplinado que balancea retorno de capital con la inversion sostenida en Willow y GNL.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P-E TTM aprox 15.6 a 16.3x, P-E adelantado 12.0 a 13.6x, EV-EBITDA 6.60x (aprox 17% por encima de su propia mediana de 13 anios segun Gurufocus, algo mas rico que su historico propio), P-FCF (TTM) aprox 14.7x - multiplos moderados, comparables o algo mas baratos que OXY pese al balance sustancialmente mas solido de COP.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "USD 118.96 por accion (Escenario A adoptado). WACC 9.74% (Costo de patrimonio via CAPM: beta sustituto 1.3 -razonado, el beta reportado de 0.10 es degenerado, TERCERA confirmacion consecutiva del gotcha de beta bajo en E&P tras EOG 0.28 y OXY 0.15 a 0.23-, Rf 3.5%, ERP 5.5%, dando Ke 10.65%; costo de deuda post-impuestos aprox 4.0% acorde a la calificacion A-; sin capa de preferente, a diferencia de OXY). Base de FCF = TTM USD 10.06bn (limpio, sin distorsion de divestitura ni de cargos no recurrentes). Crecimiento a 5 anios = 5% (conservador, NO se adopto el objetivo propio de la empresa de USD 7bn de FCF incremental para 2029 -ver Escenario B- porque es un salto escalonado concentrado sobre todo en el arranque de Willow en 2029, no una tasa de crecimiento suave proyectable linealmente, mismo criterio de cautela ya aplicado a la guia forward de Ford). Crecimiento terminal = 2.5% (reservas finitas, mismo criterio que EOG-OXY).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-3.1% (precio actual USD 122.79 vs valor intrinseco USD 118.96) - practicamente en zona de valor justo, el resultado mas cercano a cero de las tres E&P del Dashboard (EOG +6.6% a +33.3%, OXY -8.2% a +4.2%). Escenario B de sensibilidad (no adoptado): usando un crecimiento de 12% a 5 anios que aproxima la trayectoria hacia el objetivo propio de USD 7bn de FCF incremental para 2029, el valor sube a USD 162.99 (+32.7%) - una opcionalidad asimetrica real si Willow y los ahorros de costos se cumplen segun lo guiado, pero no adoptada como base por ser un objetivo propio de la gerencia aun no demostrado en resultados reales. El consenso de analistas (Buy, objetivo promedio USD 143.33 a 144.67, aprox +16.7% a +17.8%) cae entre ambos escenarios propios, mas cerca del Escenario B.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de petroleo-gas global, maduro, mismo contexto de TAM que OXY-EOG - el crecimiento especifico de COP viene de ganar participacion via activos de bajo costo y GNL contratado, no de expansion del TAM agregado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras moderadas similares a OXY-EOG (capital intensivo, no protegido por tecnologia exclusiva), con una barrera adicional relevante en GNL: las participaciones de largo plazo en proyectos como Qatar North Field y Port Arthur no son faciles de replicar rapidamente por un competidor nuevo (acceso a reservas de gas de bajo costo y contratos de offtake ya asegurados).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Poder de negociacion de compradores alto (commodity global), poder de proveedores moderado (servicios petroleros), rivalidad alta entre majors e independientes, amenaza de sustitutos de largo plazo (transicion energetica), barrera de entrada moderada (capital intensivo pero fragmentado) - mismo perfil generico que OXY-EOG.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Alta por diseno - score bajo es la calificacion honesta esperada para cualquier E&P, mismo criterio ya establecido con EOG y OXY, no un juicio negativo aislado.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio-politico relevante y de PERFIL PUBLICO ALTO: el proyecto Willow en el Reserva Nacional de Petroleo de Alaska genero litigio ambiental activo de grupos conservacionistas (Earthjustice, Sierra Club, Center for Biological Diversity) alegando violaciones de la Ley de Politica Ambiental Nacional y la Ley de Especies en Peligro; un juez federal denego en dic-2023 la solicitud de mocion preliminar de los demandantes, permitiendo que la construccion continue, pero el riesgo de litigio-apelacion futura no esta completamente descartado. Se estima que el proyecto emitira aprox 260 millones de toneladas metricas de carbono en 30 anios. Exposicion internacional adicional en Libia (inestabilidad politica) y Malasia.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo cambiario bajo - el petroleo-gas se cotiza globalmente en USD; las operaciones internacionales (Noruega, Qatar, Malasia, Libia) tambien facturan mayormente en USD por convencion de la industria.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Sin concentracion de cliente individual relevante en la produccion de crudo-gas (mercados liquidos globales); los contratos de offtake de GNL (Qatar, Port Arthur) si tienen contrapartes especificas de largo plazo, pero diversificadas entre varios proyectos y geografias.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de disrupcion de largo plazo por la transicion energetica-vehiculos electricos, generico del sector (igual que OXY-EOG). Sin un proyecto de tecnologia no probada tipo la captura directa de aire de OXY (1PointFive-Stratos) que agregue riesgo tecnologico idiosincratico adicional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG alto y de ALTO PERFIL PUBLICO por Willow especificamente: se convirtio en un caso mediatico (\"StopWillow\", peticion con mas de un millon de firmas en 2023) mas alla del riesgo ESG generico de cualquier E&P - un factor reputacional mas visible que en OXY o EOG en esta sesion, aunque el proyecto ya fue autorizado y el litigio inicial fallo a favor de la empresa.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Transicion de CEO efectiva el 1-sep-2026 (Andy O'Brien); avance del proyecto Willow hacia primer petroleo en 2029; progreso hacia el objetivo de USD 7bn de FCF incremental para 2029; arranque esperado de Port Arthur LNG.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Tenencia interna muy baja (0.10%, Finviz) y transacciones de insiders netas NEGATIVAS (-38.73% segun Finviz, seÃ±al de venta neta reciente) - una seÃ±al amarilla leve a monitorear, aunque comun en mega-caps por vesting de compensacion en acciones, sin evidencia de venta oportunista o escandalo encontrada en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura amplia y consenso Buy, precio objetivo promedio entre USD 143.33 y USD 144.67 (aprox +16.7% a +17.8% de alza) - mas optimista que el Escenario A adoptado de este DCF (-3.1%), pero mas cercano al Escenario B de sensibilidad (+32.7%) que incorpora el objetivo propio de FCF a 2029.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.1621621621621623,
+    "recomendacion": "MANTENER - PRACTICAMENTE EN VALOR JUSTO, CON OPCIONALIDAD ASIMETRICA HACIA 2029",
+    "tesis": "El E&P independiente mas diversificado y con el balance mas solido de los tres analizados en el Dashboard (calificacion A-), con una disciplina de capital ganada tras la leccion del recorte de dividendo de 2016, cotizando cerca de su valor justo pero con una opcionalidad real al alza si el objetivo propio de USD 7bn de FCF incremental para 2029 (via Willow y ahorros de costos) se cumple segun lo guiado."
+  }
+}

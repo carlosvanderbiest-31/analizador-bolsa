@@ -1,0 +1,259 @@
+{
+  "empresa": "Arista Networks, Inc.",
+  "ticker": "ANET",
+  "sector": "Tecnologia - Redes de Datacenter y switching Ethernet para IA",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Ingresos por venta de switches Ethernet de alta velocidad y software de red (EOS) para datacenters, con foco creciente en clusters de IA; concentracion de clientes ALTA (Meta ~26%, Microsoft ~16%, juntos ~40-42% de ingresos, ambos superan el umbral de alerta de 15%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Lider indiscutido en switching Ethernet de datacenter (supero a Cisco en 2024), arquitectura de silicio unico + software EOS diferenciado, altos switching costs por integracion profunda en la infraestructura de red de hyperscalers; pero enfrenta una amenaza competitiva emergente real de Nvidia (Spectrum-X) que podria erosionar el moat en el segmento de IA especificamente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Numero 1 en switching Ethernet de datacenter global, ingresos 1T 2026 +35.1% interanual, objetivo de ingresos de IA elevado a USD3.5bn para 2026 (duplicando el nivel del anio anterior), 75% del capex proyectado de USD600bn de hyperscalers para 2026 esta ligado a IA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Margen bruto 63.00%, operativo 43.14% - de los mas altos del Dashboard, pricing power real y demostrado en un segmento de alto valor agregado (switching de alta velocidad para IA).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Recompras activas, sin dividendo, reinversion continua en I+D; balance con caja neta de USD13.34bn y CERO deuda - politica financiera muy conservadora y disciplinada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Propiedad interna notablemente ALTA (16.95%, muy por encima del promedio de tecnologicas del Dashboard) - CEO Jayshree Ullal y cofundador Andy Bechtolsheim con participacion economica real y significativa, fuerte alineacion de incentivos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin estructura dual-class ni control desproporcionado pese a la alta propiedad interna (no hay super-voto), propiedad institucional alta (72.34%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion trimestral detallada con metricas especificas de objetivo de ingresos de IA, guia elevada de forma consistente y transparente.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda CERO, caja neta USD13.34bn - uno de los balances mas solidos de todo el Dashboard, sin apalancamiento alguno.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 2.96x, prueba acida 2.29-2.59x - liquidez excepcional, de las mas altas del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "No aplica - sin deuda.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill minimo (USD416M, menos del 2% de activos totales), sin intangibles significativos - balance muy limpio, sin distorsion de M&A.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 63.00%, operativo 43.14%, neto 38.37% - todos excepcionales y de los mas altos del Dashboard, en tendencia de mejora continua.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 29.77-31.48%, ROIC 27.33% (Finviz, se descarta el 284.77% de stockanalysis por ser una anomalia de calculo dado el denominador de capital invertido casi nulo sin deuda), ambos comodamente por encima del WACC (12.41%), spread positivo solido.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada (~0.44x), ciclo de conversion de efectivo favorable.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR ingresos 5 anios 31.19% (Finviz), crecimiento reciente acelerando (+35.1% interanual 1T 2026), objetivo de ingresos de IA duplicado a USD3.5bn para 2026 - crecimiento excepcional y consistente, impulsado por el supercycle de infraestructura de IA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento fuerte y mayormente consistente, aunque con un antecedente real de desaceleracion cuando Meta redujo su capex en 2023 (la cuota de Meta en los ingresos de Arista cayo de ~21% a ~15%) - demuestra que la ciclicidad de capex de los hyperscalers SI puede materializarse en un headwind real, no solo hipotetico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Transicion de 800G a 1.6T en 2026-2027 (ciclo de reemplazo masivo de varios anios), expansion continua del gasto de capex de hyperscalers en IA (75% del capex de USD600bn proyectado para 2026 ligado a IA).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM USD5.31bn vs utilidad neta TTM implicita ~USD4.00bn (market cap/P-E) - FCO supera la utilidad neta, calidad de ganancias alta y sin distorsion relevante de compensacion en acciones evidente en la brecha.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD5.19bn (margen FCF ~35%, alto), creciendo con fuerza y consistencia acelerada (448M -> 2000M -> 3676M -> 4252M -> 5192M en los ultimos 5 periodos) - de las trayectorias de FCF mas limpias y solidas del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex minimo (USD114M TTM, menos del 1% de ingresos) - modelo fabless de bajo capital, extremadamente eficiente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Recompras activas, balance ultra-conservador (caja neta enorme, cero deuda), sin dividendo, reinversion en I+D - asignacion de capital solida aunque con una caja acumulada muy grande que podria desplegarse mas activamente.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 66.37x, Forward P/E 40.29x, EV/EBITDA 53.93x, P/FCF 51.50x - de los multiplos MAS ALTOS del Dashboard, comparable a CRWD-PANW, refleja expectativas de crecimiento muy elevadas ya incorporadas en el precio.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, WACC 12.41% CAPM literal -beta 1.62 no degenerado, sin deuda-, crecimiento con fade 30%->12% en 5 anios, terminal 4%): USD102.51/accion, MS -51.3%. Escenario B (muy agresivo, growth 40%->20%, no adoptado): USD141.13/accion, MS -33.0% - incluso el escenario extremo queda por debajo del piso -20% de vender, conclusion robusta, mismo patron ya visto en CRWD-PANW-MU-SNDK-WDC.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-51.3% con el Escenario A adoptado - negativo y solido en esa direccion, aunque menos extremo que MU-WDC-SNDK-CRWD, mas cercano a la magnitud de PANW (-48.6%).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de infraestructura de red para datacenters-IA grande y en expansion estructural fuerte (75% del capex proyectado de hyperscalers para 2026 ligado a IA), ademas del ciclo de reemplazo 800G->1.6T como driver adicional de varios anios.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas - arquitectura de silicio propia, software EOS diferenciado, relaciones profundas con hyperscalers, aunque Nvidia (con su propia pila de GPU+red via Spectrum-X) representa una amenaza competitiva de un actor con recursos y posicion de mercado formidables.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad en aumento (Cisco como incumbente historico ya superado, Nvidia como amenaza emergente mas seria dado su control de la pila de IA completa, Juniper-HPE combinado); poder de negociacion del comprador ALTO (Meta-Microsoft concentran ~40-42% de ingresos, con demostrada capacidad de reducir capex); poder de proveedores alto (semiconductores, lead times de hasta 52 semanas); amenaza de sustitutos moderada; barreras de entrada altas pero no absolutas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ligado al ciclo de capex de infraestructura de IA de los hyperscalers - genuinamente ciclico, con precedente real y reciente (2023, pullback de Meta) de que ese capex puede desacelerar de forma abrupta.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo bajo-moderado, exposicion a controles de exportacion de semiconductores-tecnologia relacionados con China (via clientes o cadena de suministro), no cuantificado en detalle en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion internacional moderada, riesgo cambiario tipico de una tecnologica global de este tamano.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion de clientes MUY ALTA y ya demostrada como riesgo real: Meta (~26%) y Microsoft (~16%) juntos representan ~40-42% de ingresos, ambos individualmente superan el umbral de alerta de 15%; lead times de chips de hasta 52 semanas indican dependencia de proveedores de semiconductores con poder de negociacion alto.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Amenaza competitiva emergente real de Nvidia (Spectrum-X, control de la pila completa GPU+red) en el segmento de IA especificamente - el riesgo mas serio de mediano plazo para el moat de Arista en su categoria de mayor crecimiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximos resultados trimestrales - clave para confirmar si el objetivo de ingresos de IA de USD3.5bn se mantiene y si la transicion 800G->1.6T avanza segun lo esperado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion (pendiente); propiedad interna alta (16.95%) es una senal estructural positiva de alineacion, aunque no equivale a compras recientes especificas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso 'Buy' muy fuerte (recomendacion 1.09 Finviz, una de las mas fuertes del Dashboard), objetivo promedio USD249.97 (+18.7% de alza) - en direccion OPUESTA al DCF propio (que es negativo), mismo patron de divergencia de direccion ya visto en HOOD-COIN-MU-SNDK-WDC.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7567567567567566,
+    "recomendacion": "NO COMPRAR - VALORACION MUY EXIGENTE (vender o reducir si ya se tiene posicion) - mismo patron ya establecido con CRWD-PANW-MU-SNDK-WDC: excelente negocio (balance sin deuda y con caja neta de USD13.34bn, margenes entre los mas altos del Dashboard, lider indiscutido de categoria), pero Margen de Seguridad -51.3% segun el DCF propio, robusto incluso en un Escenario B muy agresivo (growth 40%->20%, no adoptado, da -33.0%, aun por debajo del piso de venta). Concentracion de clientes MUY ALTA (Meta+Microsoft ~40-42% de ingresos) es un riesgo real y ya demostrado (2023), no solo hipotetico. Consenso de analistas MUY alcista (objetivo +18.7%) en direccion opuesta al DCF - se prioriza el DCF bottom-up dado lo estirado de los multiplos reales.",
+    "tesis": "El lider indiscutido de switching Ethernet de datacenter para IA, con el balance mas solido posible (cero deuda, caja neta enorme) y margenes excepcionales, cotiza a multiplos que ya incorporan anios de ejecucion perfecta del supercycle de infraestructura de IA, con una concentracion de clientes (Meta-Microsoft) que ya demostro en 2023 poder generar un headwind real de ingresos."
+  }
+}

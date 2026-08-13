@@ -1,0 +1,259 @@
+{
+  "empresa": "Duke Energy Corporation",
+  "ticker": "DUK",
+  "sector": "Utilities - Electrica y gas regulada multi-estado",
+  "fecha_analisis": "2026-10-08",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Dos segmentos: Electric Utilities and Infrastructure (EU&I, 8.7 millones de clientes electricos en Carolina del Norte, Carolina del Sur, Florida, Indiana, Ohio y Kentucky, aprox 55,700 MW de capacidad) y Gas Utilities and Infrastructure (GU&I, incluye Piedmont Natural Gas mas almacenamiento-midstream de gas). Ingresos TTM 32.80bn USD - el mas alto entre las utilities de este Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de monopolio regulado clasico en seis estados, mismo tipo de moat que EXC-SO-NEE-AEP.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Mayor ingreso entre las cinco utilities de este Dashboard (32.80bn USD), 8.7 millones de clientes electricos, aprox 55,700 MW de capacidad de generacion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Regulado en seis estados (menos diversificado que AEP -11 estados- pero mas que EXC-SO). Caso tarifario reciente de Carolina del Norte resuelto en un acuerdo de aprox 9.5% de aumento a dos anios (muy por debajo del 18% inicialmente propuesto), con ROE autorizado explicito de 9.8% y estructura de capital de 53% patrimonio - un desenlace regulatorio relativamente constructivo pese a la friccion inicial.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Plan de capex de 103bn USD a 5 anios - el mas grande en terminos absolutos entre las utilities de este Dashboard, mas 5-10bn USD de potencial incremental identificado (Indiana, Florida). Mas de 20 anios consecutivos de aumento de dividendo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Gobernanza actual sin escandalo identificado esta sesion (a diferencia de NEE), aunque existe un antecedente historico relevante (ver fila 53) que amerita tenerse presente al evaluar el track record completo de la empresa, no solo la situacion actual.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria estandar, una sola clase de acciones, sin control familiar-fundador dominante identificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Caso tarifario de Carolina del Norte negociado de forma publica-transparente (proceso de settlement con el Public Staff y otras partes), guidance reafirmado con cifras especificas (7.8 GW de contratos de centros de datos YA FIRMADOS, no solo pipeline).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta entre EBITDA aprox 5.47x - en el rango medio de las cinco utilities de este Dashboard (EXC 5.65x, SO 5.43x, NEE 6.61x, AEP 6.05x). Calificacion crediticia no verificada con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "No investigada con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Perfil de vencimientos no investigado con precision esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Aprox 55,700 MW de generacion diversificada (hidro, carbon, nuclear, gas, solar, almacenamiento) mas infraestructura de T&D electrica y red de gas - activos de alta calidad, aunque con exposicion a carbon real no cuantificada con precision esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen neto TTM 15.79% (Utilidad Neta TTM 5.18bn USD entre Ingresos TTM 32.80bn USD) - en el rango medio de las utilities de este Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM aprox 9.11% (Utilidad Neta TTM 5.18bn USD entre Patrimonio contable 56.86bn USD), cerca del ROE AUTORIZADO explicito que la propia Duke revelo en el settlement de Carolina del Norte (9.8%) - un cruce de calibracion directo y confiable, mejor que inferir un rango generico. Ligeramente por debajo del costo de equity sustituto adoptado (9.50%), spread de valor practicamente neutro.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja (aprox 0.16x, Ingresos TTM 32.80bn USD entre Activos 201.09bn USD) - estructural, similar a los peers.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Guia de crecimiento de EPS ajustado de 5-7% anual hasta 2030 - la MAS MODERADA de las utilities de este Dashboard (SO 8-9%, NEE 8%+, AEP 7-9%+), aunque solida en terminos absolutos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Sin gotcha de distorsion GAAP identificado esta sesion, guidance reafirmado de forma consistente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "7.8 GW de contratos de centros de datos YA FIRMADOS (acuerdos de servicio electrico concretos, no solo pipeline especulativo) mas 15 GW en desarrollo avanzado, incremento interanual de 73% en solicitudes de energia de centros de datos a inicios de 2026, la carga de centros de datos podria representar 25% o mas de la demanda total del sistema en las Carolinas para 2030. Plan de capex de 103bn USD mas 5-10bn USD de potencial incremental.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "EPS ajustado guiado directamente por la gerencia, sin distorsion GAAP relevante identificada esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF no verificado con precision numerica esta sesion (P/FCF no disponible, mismo patron que el resto de las utilities de este Dashboard por el capex elevado).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex abrumadoramente de CRECIMIENTO: actualizacion de red, interconexion de centros de datos, renovables - por diseno el motor de valor de una utility regulada en expansion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo creciendo por mas de 20 anios consecutivos, financiando el plan de capex mas grande en terminos absolutos de las utilities de este Dashboard (103bn USD) - mezcla especifica de financiamiento deuda-equity no verificada con precision esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E 18.31x (trailing) a 17.80x (forward) - el segundo mas barato entre las cinco utilities de este Dashboard (solo detras de EXC 16.78x), razonable dado el fuerte respaldo de contratos de centros de datos ya firmados.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco (Escenario A adoptado, DDM sobre EPS ajustado con beta sustituto, descontado al costo de equity) = 128.91 USD por accion. Ver Dashboard columna Notas para el detalle completo de la metodologia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad +6.19% (Escenario A adoptado) frente al precio actual de 121.40 USD - positivo pero modesto (similar en magnitud a EXC +5.8%), consistente en direccion con el consenso de analistas (Compra, +13.44%).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Demanda esencial-inelastica mas una historia de crecimiento de centros de datos particularmente CONCRETA (7.8 GW ya contratados via acuerdos firmados, no solo proyecciones) - la carga de centros de datos podria llegar a 25%+ de la demanda del sistema en las Carolinas para 2030.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada las mas altas posibles por definicion regulatoria - franquicia exclusiva en seis estados.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Casi enteramente regulado, sin un segmento competitivo de generacion al por mayor de escala relevante (a diferencia de Southern Power de SO o NEER de NEE) - perfil de riesgo competitivo mas bajo, aunque tambien menos optionality de crecimiento fuera del marco regulatorio tradicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad baja estructural, negocio casi enteramente regulado.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Disputa REAL y ACTIVA sobre quien paga la infraestructura de red que exigen los centros de datos (\"large load tariff\") - Duke resiste trasladar TODO el riesgo de activos varados a los centros de datos por temor a que los hyperscalers se muden a estados vecinos, mientras negocia con reguladores-grupos de consumidores. El caso tarifario de Carolina del Norte ya se resolvio de forma relativamente constructiva (9.5% de aumento vs 18% propuesto inicialmente), pero la disputa de tarifas de centros de datos sigue abierta.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Sin exposicion a tipo de cambio - 100% operaciones domesticas en EEUU (seis estados).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Diversificacion en seis estados (Carolina del Norte, Carolina del Sur, Florida, Indiana, Ohio, Kentucky) - concentracion moderada, mejor que EXC-SO pero menor diversificacion que AEP (11 estados).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Exposicion a carbon real en la flota de generacion (no cuantificada con precision numerica esta sesion) - riesgo de transicion moderado, de magnitud similar a AEP.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "ANTECEDENTE PENAL HISTORICO RELEVANTE: subsidiarias de Duke Energy se DECLARARON CULPABLES en 2015 de NUEVE violaciones criminales de la Ley de Agua Limpia por el derrame de cenizas de carbon del Rio Dan en Carolina del Norte (2014, 39,000 toneladas de ceniza vertidas), pagando 102 millones USD en multas-restitucion (68M USD de multa penal mas 34M USD en proyectos ambientales) - la mayor multa penal federal en la historia de Carolina del Norte en su momento. Antecedente serio, aunque ya resuelto hace mas de una decada sin recurrencia identificada esta sesion - distinto en actualidad al caso de NEE (2026, muy reciente) pero de la misma categoria de gravedad (declaracion de culpabilidad penal, no solo multa civil).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Catalizadores-riesgos pendientes: resolucion de la disputa de tarifas de centros de datos (\"large load tariff\"); conversion continua del pipeline de 15 GW en desarrollo avanzado a contratos firmados; ejecucion del plan de capex de 103bn USD mas el potencial incremental de 5-10bn USD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Datos especificos de compras-ventas de insiders no investigados con profundidad esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura favorable: consenso de Compra entre 22 analistas, precio objetivo 137.72 USD (aprox +13.44% sobre el precio actual) - consistente en direccion con el DDM bottom-up de esta ficha (+6.19%).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7837837837837838,
+    "recomendacion": "MANTENER - quinta utility del Dashboard, la de mayor ingresos entre las utilities analizadas (32.80bn USD) y con el plan de capex absoluto mas grande (103bn USD a 5 anios) apalancando una historia de demanda de centros de datos muy concreta (7.8 GW YA CONTRATADOS via acuerdos firmados, no solo pipeline especulativo, mas 15 GW en desarrollo avanzado). Guia de crecimiento de EPS la mas moderada de las utilities de este Dashboard (5-7% vs 7-9%+ de SO-NEE-AEP), consistente con un DDM tambien mas moderado: MS +6.19% (similar en magnitud al de EXC), positivo pero no lo suficientemente amplio para justificar COMPRAR de forma agresiva. El beta reportado (0.37) es tambien degenerado (septima confirmacion del gotcha) - se uso un beta sustituto via Hamada (0.63 no apalancado) bien calibrado contra el multiplo de mercado. Riesgo real y actual: disputa activa sobre quien paga la infraestructura de red que exigen los centros de datos (large load tariff), aunque manejada de forma relativamente constructiva hasta ahora (caso tarifario de Carolina del Norte resuelto en 9.5% de aumento, muy por debajo del 18% inicialmente propuesto). Antecedente historico relevante para la fila de gobernanza-ESG: las subsidiarias de Duke se declararon culpables de nueve violaciones penales de la Ley de Agua Limpia por el derrame de cenizas de carbon del Rio Dan en 2014 (102 millones USD en multas, la mayor multa penal federal en la historia de Carolina del Norte en su momento) - un antecedente serio, aunque ya resuelto hace mas de una decada sin recurrencia identificada.",
+    "tesis": "Utility diversificada de electricidad y gas en seis estados con el mayor ingreso y plan de capex absoluto entre las utilities del Dashboard, respaldada por contratos de centros de datos ya firmados (no solo pipeline especulativo), pero con la guia de crecimiento mas moderada del grupo y un antecedente penal historico (derrame de cenizas de carbon de 2014) que amerita tenerse presente pese a estar ya resuelto."
+  }
+}

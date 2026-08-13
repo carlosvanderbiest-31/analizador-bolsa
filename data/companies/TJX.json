@@ -1,0 +1,259 @@
+{
+  "empresa": "The TJX Companies, Inc.",
+  "ticker": "TJX",
+  "sector": "Consumo Discrecional / Retail Off-Price",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Retailer off-price global via TJ Maxx-Marshalls-HomeGoods (Marmaxx, EEUU), TJX Canada, y TJX International (Europa): compra inventario en exceso-liquidacion de marcas y otros retailers a descuentos profundos y lo revende con margen atractivo pero precio final bajo al consumidor - modelo altamente diversificado por categoria (ropa, hogar, accesorios) y geografia, sin dependencia de una sola marca o proveedor.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de escala de compra: 1300 compradores especializados negociando deal-by-deal y marca-por-marca, relaciones de decadas con miles de proveedores-marcas, logistica-distribucion optimizada para altisima rotacion de inventario, modelo \"treasure hunt\" que genera lealtad de cliente dificil de replicar rapidamente por un competidor nuevo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "LIDER indiscutido del sector off-price (market cap USD 170bn, la mas grande de las tres cadenas TJ Maxx-Marshalls-HomeGoods), ganando cuota de mercado activamente de tiendas departamentales en declive junto con Ross Stores y Burlington Stores - CEO Ernie Herrman espera continuar ganando cuota \"por mucho tiempo hacia el futuro\".",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Modelo flexible por diseno: 1300 compradores fijan precios deal-by-deal y marca-por-marca en vez de un sistema top-down, permitiendo subir precios selectivamente en categorias con mayor presion arancelaria sin danar la percepcion de valor global de la cadena.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historial solido de decadas combinando dividendo creciente (payout 34.90%, sostenible) con recompras moderadas (mucho menos extremas que AZO) y reinversion disciplinada en expansion de tiendas-distribucion. ROIC de 26.47% confirma la efectividad del despliegue de capital a lo largo del tiempo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership bajo (0.19%, tipico de mega-cap madura). CEO Herrman con ventas netas consistentes en 2026 (125791 acciones vendidas en el ultimo ano, 0 compras discrecionales) - patron neutral-ligeramente negativo, tipico de un ejecutivo de larga data monetizando compensacion, sin senal fuerte en ninguna direccion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones, sin estructura de control dual ni voto diferenciado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Reporta comp store sales detalladas por segmento (Marmaxx, HomeGoods, TJX Canada, TJX International), guia trimestral historicamente conservadora y superada de forma recurrente (\"beat-and-raise\"), comunicacion clara sobre la estrategia de mitigacion de aranceles (diversificacion de fuentes, ajuste de precios selectivo).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "POSICION DE CAJA NETA: deuda financiera funded (bonos, excluye pasivos por arrendamiento operativo) de apenas USD 1.87bn vs caja USD 5.58bn, neta -USD 3.71bn (caja neta) - balance excepcionalmente solido, el mejor grado de credito de las ultimas empresas analizadas (S&P A, Moodys A2, muy por encima del BBB/Baa2 de ABBV-AZO). El Deuda/Patrimonio de 1.36x que reportan las fuentes de datos refleja principalmente pasivos de arrendamiento bajo ASC 842 de una cadena de ~4900 tiendas mayormente alquiladas, no apalancamiento financiero tradicional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.14, prueba acida 0.54 - liquidez saludable para un retailer de alta rotacion de inventario.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Grado de inversion superior (S&P A, Moodys A2 con outlook estable) - la calificacion crediticia mas alta observada en las ultimas sesiones del proyecto, deuda financiera minima reduce sustancialmente el riesgo de refinanciamiento.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill practicamente nulo (USD 97M sobre activos totales de USD 36.16bn) - balance dominado por inventario, activos operativos de tiendas y activos de arrendamiento (ROU), sin ninguna distorsion de M&A relevante.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM 31.29% (estructuralmente mas bajo que el retail full-price, inherente al modelo off-price de descuentos profundos, compensado por altisima rotacion de inventario), margen operativo 12.10%, margen neto 9.40% - en expansion reciente (utilidad neta +19.9% interanual, superando el crecimiento de ingresos +8.1%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 61.25% (elevado por apalancamiento moderado via arrendamientos, sobre un patrimonio real y POSITIVO de USD 10.4bn - NO es un caso de patrimonio delgado o negativo como ABBV-AZO). ROIC 26.47% vs WACC propio 6.87% - spread de ~20pp, excepcional. ROA 17.03%.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 1.703x (Ingresos TTM USD 61.58bn / Activos totales USD 36.16bn), alta rotacion consistente con el modelo de negocio de alta velocidad de inventario.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de Ingresos 5y de 13.44% (Finviz) DISTORSIONADO al alza por la base de comparacion de la pandemia (FY2021, ingresos colapsaron por cierres de tiendas de hasta 24% del ano fiscal, con perdidas estimadas de USD 950M-1.05bn solo en Europa-Canada en el 4T) - mismo tipo de gotcha ya documentado con ABT-DHR-TMO-PFE (distorsion de base COVID), no representativo del crecimiento organico sostenible. Crecimiento reciente mas limpio: ingresos +8.1% TTM, utilidad neta +19.9%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Comp store sales positivas de forma consistente durante multiples anos, guia FY2026 de 2-3% de comp sales mas apertura continua de tiendas nuevas, historial de decadas de \"beat-and-raise\" - uno de los perfiles de crecimiento mas consistentes y predecibles del Dashboard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Aranceles y disrupcion comercial generando MAS exceso de inventario disponible para comprar (\"merchandise availability off the charts\" segun el CEO) - viento de cola estructural GENUINO Y POCO COMUN (la mayoria de retailers son perjudicados por aranceles, TJX se BENEFICIA), mas ganancia de cuota continua sobre tiendas departamentales en declive, mas expansion internacional en Europa-Canada.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM USD 7.60bn vs utilidad neta TTM USD 5.79bn - calidad de ganancias solida y sin distorsiones contables relevantes (sin cargos IPRD, sin mark-to-market, sin patrimonio negativo).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD 5.48bn, en fuerte crecimiento (aceleracion marcada en los ultimos anos: USD 2.01bn FY2022 a USD 5.48bn TTM), FCF Yield 3.22% razonable dado el nivel de valoracion premium de la accion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex/Ventas 3.45% (USD 2.12bn TTM), moderado y estable como proporcion de ingresos (a diferencia del capex de AZO que se disparo de forma sostenida) - mezcla de mantenimiento de la red existente y apertura disciplinada de tiendas nuevas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Combinacion equilibrada de dividendo creciente (payout 34.90%, sostenible) y recompras moderadas - sin el extremismo de cero-dividendo-100%-recompras de AZO ni el apalancamiento agresivo de M&A de ABBV, el perfil de asignacion de capital mas balanceado de las ultimas tres empresas analizadas.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 29.89-30.29x, Forward P/E 26.72-29.49x, P/FCF 31.04x - multiplos ricos en terminos absolutos (tipicos de TJX historicamente, el mercado paga una prima consistente por la calidad-consistencia del negocio), PEG 2.59 sugiere el precio ya incorpora buena parte del crecimiento esperado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, growth 9% anclado en consenso EPS Next 5Y 10.30% y crecimiento reciente de ingresos): USD 229.02/accion, MS +48.81%. Escenario B (sensibilidad conservadora, growth 6%, no adoptado): USD 200.95/accion, MS +30.57% - AMBOS escenarios claramente positivos, conclusion robusta al supuesto de crecimiento (contraste marcado con la fragilidad de AZO). Beta literal (0.62) verificado SIN necesidad de sustitucion: chequeo de convergencia limpio (brecha de apenas 1.17x entre el multiplo terminal implicito 36.24x y el P/FCF real de mercado 31.04x, uniendose a AMT y UNH como casos de convergencia limpia sin ajuste).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "+48.81% (Escenario A adoptado, precio actual USD 153.90 vs valor intrinseco USD 229.02) - uno de los margenes de seguridad mas favorables del Dashboard, en la MISMA direccion que el consenso de analistas (Strong Buy, +15.27% a +17.16%) aunque de magnitud notablemente mayor (similar en patron, aunque de signo positivo, al caso de UBER donde el DCF propio tambien fue mas optimista que el consenso en la misma direccion).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Sector off-price en expansion activa y ganando cuota estructural del retail tradicional-departamental, TAM amplio (ropa, hogar, accesorios) con margen de crecimiento internacional (Europa, Canada) todavia significativo frente al negocio domestico maduro.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas: escala de compra (1300 compradores especializados, relaciones de decadas con miles de marcas-proveedores), logistica de alta rotacion optimizada durante decadas - dificil de replicar rapidamente por un entrante nuevo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad moderada con Ross Stores y Burlington Stores (los \"tres grandes\" del off-price, creciendo en conjunto a expensas de terceros -tiendas departamentales- en vez de competir ferozmente entre si por el mismo pastel), poder de proveedores BAJO (TJX es un comprador de ultimo recurso muy atractivo para marcas con exceso de inventario, posicion de fuerza real), poder de compradores bajo (base de clientes masiva y fragmentada), amenaza de sustitutos moderada por e-commerce de descuento, barreras de entrada altas para un jugador nuevo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Modelo estructuralmente defensivo-anticiclico: el off-price historicamente gana cuota EN recesiones (consumidores buscan valor) y ahora tambien se beneficia de disrupciones comerciales-arancelarias (mas exceso de inventario disponible) - uno de los perfiles menos ciclicos de todo el Dashboard de Consumo Discrecional, una rareza real en el sector.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Presion arancelaria activa pero manejable y en parte ya mitigada (TJX compra mayormente via intermediarios en EEUU en vez de importar directo de fabricas, reduciendo la exposicion directa a nuevos aranceles a China); riesgo regulatorio laboral-salario minimo tipico del sector retail.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real por operaciones en Europa (TJX International) y Canada (TJX Canada), aunque de magnitud menor que el negocio domestico dominante (Marmaxx).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes masivamente diversificada (millones de consumidores individuales) y base de proveedores tambien muy diversificada (miles de marcas distintas) - riesgo de concentracion bajo en ambos extremos, estructuralmente favorable.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "E-commerce y modelos de descuento online representan una amenaza moderada de largo plazo, pero el modelo \"treasure hunt\" fisico de TJX ha demostrado resiliencia comprobada frente al avance del e-commerce durante mas de una decada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG relativamente bajo frente al resto del Dashboard, sin litigios activos severos ni controversias mayores identificadas en la investigacion de esta ficha.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados de Q2 FY2027 el 19-ago-2026 (a dias de esta ficha); evolucion de la estrategia de mitigacion de aranceles hacia el 4T fiscal; continuidad del ritmo de ganancia de cuota de mercado sobre tiendas departamentales en declive.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Patron de venta consistente del CEO Herrman (125791 acciones vendidas en el ultimo ano, 0 compras discrecionales) - sin senal de compra, aunque tampoco una alarma severa dado el volumen moderado relativo a su tenencia total.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso fuertemente positivo: calificacion Strong Buy de 22 analistas, objetivo promedio USD 177-180 (+15.27% a +17.16% de alza) - alineado en la MISMA direccion que este DCF (a diferencia de HOOD-COIN-SNDK-AZO donde diverge en direccion opuesta), aunque de magnitud notablemente menor a la del DCF propio (+48.81%).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 4.108108108108108,
+    "recomendacion": "COMPRAR",
+    "tesis": "TJX es el negocio de mas alta calidad analizado hasta ahora en el proyecto (ROIC 26.47%, caja neta, grado de credito A/A2, beneficiario genuino de la disrupcion arancelaria) con un DCF favorable y robusto al supuesto de crecimiento (MS +48.81% a +30.57% segun escenario) - COMPRAR."
+  }
+}

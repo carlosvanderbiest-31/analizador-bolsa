@@ -1,0 +1,259 @@
+{
+  "empresa": "Thermo Fisher Scientific Inc.",
+  "ticker": "TMO",
+  "sector": "Salud - Ciencias de la Vida y Diagnostico (Life Sciences & Diagnostics)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "La mayor empresa de ciencias de la vida-diagnostico del mundo, con 4 segmentos: Life Sciences Solutions, Analytical Instruments, Specialty Diagnostics, y Laboratory Products and Biopharma Services (el mas grande, incluye CDMO via la adquisicion de PPD 2021). Comparable directo de DHR analizada antes esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat solido via modelo razor-razorblade (instrumentos-equipos mas consumibles-reactivos recurrentes), escala global la mas grande del sector, y relaciones profundas de CDMO-servicios de biofarmaceutica que generan altos costos de cambio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion DOMINANTE como la mayor empresa de ciencias de la vida-diagnostico del mundo por ingresos - ventaja de escala genuina sobre DHR y otros competidores.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios MODERADO: instrumentos diferenciados retienen precio, aunque el segmento Laboratory Products-Biopharma Services (el mas grande) incluye ingresos de tipo distribucion-servicio de menor margen.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Marc Casper - largo tenure, bien considerado, guia FY2026 elevada DOS VECES en el ano (a USD 47.4-48.1bn de ingresos, EPS ajustado USD 24.93-25.33) tras resultados fuertes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap de salud sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "GOTCHA: Deuda Neta/EBITDA de 3.47x - el apalancamiento MAS ALTO de los conglomerados de ciencias de la vida-diagnostico de la sesion (superior al 2.90x de DHR), deuda total TTM de USD 42.5bn (subio USD 3.2bn solo en el ultimo semestre).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 1.55 - adecuada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "GOTCHA: el Goodwill (USD 54.8bn TTM) EXCEDE el Patrimonio Total (USD 52.8bn) - un caso aun MAS extremo que el ya documentado en DHR (donde el goodwill era ~90% del patrimonio, no superior) - resultado de decadas de M&A grande (PPD USD 17.4bn en 2021, Olink 2024, entre muchas otras).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes SOLIDOS pero mas bajos que DHR: bruto 40.99% (vs 58.75% de DHR), operativo 18.99% (vs 21.89% de DHR), neto 15.04% - reflejo de la mezcla de ingresos de Laboratory Products-Biopharma Services (CDMO-distribucion) de menor margen relativo dentro del portafolio de TMO.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 13.52% y ROIC 8.84% - el ROIC es bajo (aunque algo mejor que el 6.44% de DHR) por el balance extremadamente cargado de goodwill (fila 25).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos BAJA, consistente con el balance masivo de goodwill-activos de M&A (fila 25).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "GOTCHA: CAGR de ingresos 5 anios MODESTO (3.25%, calculo propio FY2021-FY2025) - parcialmente distorsionado por el mismo patron de pico-COVID-y-normalizacion ya documentado en ABT-DHR (ingresos-utilidad neta alcanzaron un pico en FY2021-2022 impulsados por servicios-pruebas relacionados a COVID, luego cayeron hasta un valle en FY2023-2024 antes de recuperarse) - el crecimiento RECIENTE (TTM +7.23%, 2T2026 +10%) es un indicador mas representativo de la trayectoria organica actual.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA: volatilidad real de utilidad neta por el patron pico-COVID-normalizacion (fila 31) - utilidad neta cayo de un pico de USD 7.7bn (FY2021) a un valle de USD 6.0bn (FY2023) antes de recuperarse a USD 6.97bn (TTM) - una caida explicada por normalizacion de servicios-pruebas COVID, no por deterioro organico del negocio central.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Catalizador FUERTE y reciente: guia FY2026 elevada DOS VECES en el ano, resultados del 2T2026 superaron expectativas con la accion subiendo +9.25% en pre-mercado, crecimiento fuerte en Biopharma Services-Life Sciences Solutions.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias razonable, aunque el patron de distorsion COVID (fila 31-32) exige cuidado al interpretar tendencias historicas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF moderada (FCF Yield 3.29%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex no confirmado con precision esta sesion; moderado, tipico de un conglomerado de ciencias de la vida con capacidad de manufactura-CDMO significativa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital orientado a M&A-recompras sobre dividendo TOKEN (yield 0.31%, payout 10.12%, incluso mas minimo que el ya bajo 0.77% de DHR).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos RICOS en terminos TTM (P/E 32.27x), mas razonables en terminos forward (22.84x, refleja el crecimiento de ganancias guiado) - EV/EBITDA 23.52x, P/FCF 30.38x.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA: beta bajo-degenerado de magnitud MODERADA (literal 0.85-0.87, consistente entre fuentes) - multiplo terminal implicito (20.58x) vs P/FCF real de mercado (30.38x, ratio 1.48x) - brecha moderada. Se sustituyo por un beta iterado de 0.51 hasta converger. WACC resultante 5.86% (Ke CAPM 6.305% con beta sustituto 0.51; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~3.56%; estructura de capital a valor de mercado: Equity USD 221.8bn, Deuda USD 42.5bn). FCF base = USD 7.297bn (estimado via FCF Yield x Market Cap). Crecimiento 5 anios = 7% (alineado con la guia FY2026 elevada, NO con el CAGR historico distorsionado de la fila 31); terminal 2.5%. Valor Intrinseco: USD 632.72/accion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: +5.51% (precio actual USD 599.69 vs valor intrinseco USD 632.72) - levemente positivo, similar en magnitud al +4.73% de DHR. Consenso de ~21 analistas (Buy fuerte, 0 Sell, objetivo promedio USD 619.54, +10.73%) diverge en direccion mas optimista, aunque en la MISMA direccion general que este DCF.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en crecimiento estructural: financiamiento de investigacion en ciencias de la vida, demanda de diagnostico, y crecimiento de la industria de manufactura biofarmaceutica por contrato (CDMO) donde TMO tiene una posicion de escala lider via la ex-PPD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas via escala global, ecosistemas de instrumento-consumible, y capacidad-relaciones de CDMO establecidas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: panorama competitivo con DHR como el competidor mas directo-comparable en multiples categorias, ademas de otros jugadores especializados por segmento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad BAJA-moderada, mismo perfil que DHR: demanda de ciencias de la vida-diagnostico es mayormente no discrecional, aunque el capex de clientes biofarmaceuticos puede tener cierta sensibilidad ciclica.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio estandar del sector (FDA para diagnostico, regulacion de manufactura CDMO).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria significativa dado el alcance internacional del negocio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada entre empresas biofarmaceuticas (incluido CDMO), instituciones academicas-gubernamentales de investigacion, y clientes de diagnostico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico genuino en multiples categorias de herramientas-servicios de ciencias de la vida, con la escala global mas grande del sector como ventaja competitiva adicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG-social moderado, tipico del sector, sin controversia mayor detectada esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: continuidad de la ejecucion contra la guia FY2026 ya elevada dos veces.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-CONTEXTO: TMO es el comparable directo de DHR mas cercano de la sesion (ambos conglomerados de ciencias de la vida-diagnostico con distorsion historica por normalizacion COVID), pero con un perfil de balance AUN MAS apalancado-cargado de goodwill (Deuda Neta/EBITDA 3.47x vs 2.90x de DHR; Goodwill EXCEDE el patrimonio total, a diferencia del ~90% de DHR) - el resultado de decadas de M&A aun mas agresivo (PPD USD 17.4bn en 2021 fue una de las adquisiciones mas grandes del sector en esa epoca).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~21 analistas: calificacion Buy fuerte (0 Sell), objetivo promedio USD 619.54 (+10.73% de alza) - consenso positivo, en la MISMA direccion que este DCF (+5.51%) aunque de magnitud mayor.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.054054054054054,
+    "recomendacion": "MANTENER - la mayor empresa de ciencias de la vida-diagnostico del mundo, con escala global dominante y guia FY2026 elevada dos veces tras resultados solidos; PERO con el balance MAS apalancado-cargado de goodwill de los conglomerados de ciencias de la vida de la sesion (Deuda Neta/EBITDA 3.47x, Goodwill que EXCEDE el patrimonio total), ROIC bajo (8.84%) por decadas de M&A agresivo (PPD, Olink, entre otras), y un CAGR de ingresos historico distorsionado por el mismo patron de pico-COVID-normalizacion ya documentado en ABT-DHR; el DCF (con beta sustituido, crecimiento anclado a la guia propia elevada) da un margen de seguridad levemente positivo (+5.51%), en la misma direccion que un consenso de analistas mas optimista (+10.73%)",
+    "tesis": "El gigante global de ciencias de la vida-diagnostico, comparable directo de Danaher, con guia elevada dos veces en 2026 pero cargando el balance mas apalancado-intensivo en goodwill del grupo de conglomerados de salud de la sesion."
+  }
+}

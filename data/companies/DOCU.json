@@ -1,0 +1,259 @@
+{
+  "empresa": "DocuSign, Inc.",
+  "ticker": "DOCU",
+  "sector": "Tecnologia - Software de firma electronica y gestion de acuerdos (eSignature, IAM)",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Software de firma electronica (eSignature, negocio nucleo maduro) y plataforma Intelligent Agreement Management (IAM, nativa de IA para gestion de contratos, ya 12.6% del ARR y creciendo hacia ~18% guiado para fin de FY2027), por suscripcion, millones de clientes incluida la mayoria de Fortune 500.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat moderado - marca-categoria lider en eSignature (efecto de red: tanto emisores como receptores se familiarizan con la plataforma), integraciones profundas con Salesforce-Microsoft-Google, switching costs reales por flujos de trabajo de contratos embebidos; pero el eSignature basico se ha vuelto crecientemente comoditizado (Adobe Sign, PandaDoc, funciones nativas de otras plataformas), lo que erosiona el moat del nucleo del negocio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider historico de categoria en eSignature, pivote estrategico hacia IAM (Intelligent Agreement Management, plataforma nativa de IA para gestion de contratos) con 40,000 clientes y 12.6% del ARR (subiendo desde 10.8% en un trimestre), meta de ~18% del ARR (mas de USD600M) para fin de FY2027.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Margen bruto 79.06% alto (tipico de software puro), operativo 10.64% mas modesto - crecimiento de ARR total guiado moderado (+8.25-8.75% FY2027), sugiere pricing power limitado en el nucleo de eSignature ya maduro-comoditizado, aunque IAM introduce pricing basado en consumo para monetizacion mas flexible.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Recompras record (USD318M en un trimestre), reduccion neta de acciones en circulacion (de ~210M a ~190.9M, senal de que las recompras superan la dilucion por compensacion en acciones, no solo compensandola); sin dividendo, reinversion en la plataforma IAM.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "No investigado en profundidad en esta sesion (pendiente); transacciones de insiders netamente negativas en el periodo reciente (Insider Trans -11.40% segun Finviz), propiedad interna baja (0.64%).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin accionista de control, propiedad institucional muy alta (96.03%), sin conflicto de gobernanza relevante identificado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion trimestral detallada con metricas especificas de IAM (porcentaje de ARR, numero de clientes, objetivo cuantificado para fin de anio fiscal) - buen nivel de detalle sobre la transicion estrategica clave de la empresa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Caja neta ~USD365M (deuda total USD183M vs caja USD548M), balance muy conservador, Debt/Equity apenas 0.09-0.10x.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.66x, por debajo de 1.0x - mas ajustada que la mayoria de software del Dashboard (PANW 0.81x, ADSK 0.83x), aunque tipico de negocios de suscripcion con pasivos de ingresos diferidos corrientes altos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "No verificado en detalle en esta sesion (pendiente); deuda total baja (USD183M) sugiere perfil de vencimientos manejable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles ~USD516M (13% de activos totales, moderado), patrimonio positivo y razonablemente solido (USD1.82bn) - sin gotcha de patrimonio delgado-negativo relevante.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 79.06% alto y estable, operativo 10.64% mas modesto (aunque en expansion desde perdidas operativas GAAP historicas post-IPO), neto 9.59%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 16.44-16.58%, ROIC 15.86-23.23% (rango amplio segun fuente), ambos por encima del WACC ajustado (12.4%), spread positivo moderado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada (~0.82x), ciclo de conversion de efectivo favorable (cobro por adelantado tipico de modelo de suscripcion).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR ingresos 5 anios 17.25% (Finviz, elevado por el auge post-COVID inicial), crecimiento reciente mucho mas moderado (+8.42% TTM), guia FY2027 de ARR total +8.25-8.75% - desaceleracion estructural clara desde el ritmo historico de hipercrecimiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Trayectoria de desaceleracion pronunciada desde el pico de crecimiento post-COVID (cuando la accion llego a cotizar cerca de USD310 en 2021) hasta el ritmo actual de un digito medio-alto - consistencia rota una vez de forma severa (2021-2022), ahora estabilizandose en un nivel mas maduro.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Plataforma IAM (Intelligent Agreement Management) como principal motor de reaceleracion, meta de ~18% del ARR para fin de FY2027, expansion hacia ventas top-down enfocadas en C-suite para empresas grandes, pricing basado en consumo lanzado para IAM.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo TTM USD1.24bn vs utilidad neta TTM implicita ~USD294M (market cap/P-E) - brecha muy amplia, tipica de SaaS con compensacion en acciones significativa (mismo gotcha ya documentado con CRWD-PANW), aunque en DOCU las recompras SI logran reducir el conteo de acciones en circulacion, evidencia de que no es solo 'correr para quedarse en el mismo lugar'.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD1.12bn (margen FCF ~34%, alto), creciendo con consistencia (429M -> 887M -> 920M -> 1059M -> 1120M en los ultimos 5 periodos, con un salto grande FY2023-FY2024).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM USD115M (3.5% de ingresos), moderado y estable para un negocio de software.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Recompras record y crecientes (USD318M en un trimestre) que SI reducen el conteo de acciones (no solo compensan dilucion), sin dividendo, reinversion en IAM - asignacion de capital razonable.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 37.72x (distorsionado por comparacion interanual), pero Forward P/E 11.41x, PEG 0.88, P/FCF 9.90x, EV/FCF 9.29x - de los multiplos MAS BARATOS del Dashboard entre software de calidad, refleja anios de escepticismo del mercado sobre la durabilidad del crecimiento post-hipercrecimiento COVID.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, WACC 12.4% = CAPM 8.4% + prima de riesgo estructural de ~4.0pp, crecimiento con fade 8%->5% en 5 anios alineado a la guia FY2027, terminal 4%): USD82.76/accion, MS +42.4%. Escenario B (CAPM literal 8.4%, no adoptado): USD157.04/accion, MS +170.3% - gotcha relacionado al de ACN-INTU pero con un matiz distinto: aqui no hay un evento de re-rating RECIENTE, sino un escepticismo de mercado ESTRUCTURAL Y PERSISTENTE que un beta trailing normal (0.89) tampoco captura.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "+42.4% con el Escenario A adoptado - solido, aunque el DCF sigue siendo fragil (Valor Terminal 68.6% del EV) y el rango de sensibilidad (+42.4% a +170.3%) es de los mas amplios del Dashboard.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado de gestion de acuerdos-contratos (agreement management) grande, con la categoria de eSignature ya bastante penetrada-madura pero la categoria mas amplia de CLM-IAM (impulsada por IA) todavia en fase temprana de adopcion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Moderadas - el eSignature basico se ha comoditizado (barreras bajas para PandaDoc y funciones nativas de otras plataformas), pero la plataforma IAM mas integral (IA, flujos de trabajo complejos, integraciones profundas) tiene barreras mas altas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta y en aumento (Adobe Sign, PandaDoc, Dropbox Sign, funciones nativas de eSignature en Microsoft-Google-Salesforce); poder de negociacion del comprador moderado-alto (facil comparar proveedores de eSignature); poder de proveedores bajo; amenaza de sustitutos alta en el nucleo (comoditizacion), mas baja en IAM; barreras de entrada moderadas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Moderadamente ciclico - ligado al volumen de transacciones-contratos de las empresas clientes, que fluctua con la actividad economica general, aunque el modelo de suscripcion suaviza parte de esa volatilidad.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo bajo - firma electronica es un marco legal ya establecido y maduro en la mayoria de jurisdicciones relevantes (ESIGN Act en EEUU, eIDAS en la UE), sin cambios regulatorios materiales identificados en esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion internacional moderada, riesgo cambiario tipico de una empresa de software de este tamano, no cuantificado en detalle en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes extremadamente diversificada (millones de clientes, incluida la mayoria de Fortune 500), sin concentracion de cliente unico; sin dependencia critica de proveedores unicos (software puro).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo real de comoditizacion del nucleo de eSignature (funciones nativas cada vez mas presentes en otras plataformas de productividad-CRM), parcialmente mitigado por la apuesta en IAM con IA nativa; menos severo que el riesgo de disrupcion de IA visto en ACN-INTU-PANW porque aqui la empresa esta usando IA como propia palanca de crecimiento, no defendiendose de ella.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximos resultados trimestrales - clave para confirmar si el ARR de IAM sigue creciendo hacia la meta de ~18% para fin de FY2027 y si el crecimiento total se reacelera.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Transacciones de insiders netamente negativas en el periodo reciente (Insider Trans -11.40% segun Finviz) - senal levemente negativa, aunque no investigado en profundidad (nombres especificos, montos).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso mixto-neutral (recomendacion 2.71 Finviz, mas cerca de Hold que de Buy fuerte), objetivo promedio USD58.40 - practicamente IGUAL al precio actual (USD58.10), el consenso mas neutral visto en varias sesiones, sin conviccion direccional fuerte del mercado de analistas pese al DCF propio mostrando margen de seguridad solido.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4054054054054053,
+    "recomendacion": "COMPRAR (conviccion moderada) - Score Total 3.41/5 (calidad moderada, moat del nucleo erosionandose por comoditizacion) y Margen de Seguridad +42.4% (Escenario A adoptado) apuntan en la misma direccion positiva, pero el consenso de analistas es notablemente NEUTRAL (objetivo promedio USD58.40, practicamente igual al precio actual) - sin refuerzo de conviccion externa. El DCF es muy sensible al WACC (rango +42.4% a +170.3%) por un gap grande y PERSISTENTE (no reciente) entre el WACC implicito de mercado (~17.1%) y el CAPM literal (8.4%) - variante nueva del gotcha de beta-desactualizado ya visto en ACN-INTU, aqui por escepticismo estructural sobre la durabilidad del crecimiento en vez de un evento de re-rating puntual. La apuesta de reaceleracion via IAM (Intelligent Agreement Management) es real pero temprana (solo 12.6% del ARR) y su ejecucion no esta probada.",
+    "tesis": "El lider historico de eSignature, con el nucleo del negocio crecientemente comoditizado pero compensando con una apuesta temprana y prometedora en gestion de acuerdos con IA (IAM), cotiza a multiplos historicamente bajos que reflejan anios de escepticismo de mercado sobre la durabilidad de su crecimiento, ofreciendo un margen de seguridad solido si la transicion a IAM logra reacelerar el negocio."
+  }
+}

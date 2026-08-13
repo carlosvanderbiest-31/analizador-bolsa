@@ -1,0 +1,259 @@
+{
+  "empresa": "Advanced Micro Devices Inc",
+  "ticker": "AMD",
+  "sector": "Tecnologia - Semiconductores (Fabless, CPUs y GPUs)",
+  "fecha_analisis": "46240",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Cuatro segmentos: Data Center (CPUs EPYC y GPUs Instinct para IA, ya 58 por ciento del ingreso, creciendo mas de 100 por ciento interanual), Client (Ryzen, +23 por ciento), Gaming (Radeon y semicustom consolas, en declive -31 por ciento por menor demanda semicustom), Embedded (FPGAs-SoCs ex-Xilinx, en declive leve). Diversificacion decente pero cada vez mas concentrado en Data Center-IA.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Diseno de chip de clase mundial (arquitectura de chiplets), roadmap de producto anual agresivo (MI300 a MI325X a MI350 a MI400 a MI500 en 2027) y liderazgo consistente de EPYC ganando cuota a Intel en servidores. Punto debil estructural: el ecosistema de software ROCm sigue muy por detras de CUDA de Nvidia en madurez y adopcion de desarrolladores.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "EPYC ganando cuota consistente frente a Intel en CPU de servidor. En GPU de IA (Instinct), cuota de mercado muy inferior a Nvidia pese al fuerte crecimiento en terminos absolutos (Data Center +107 por ciento interanual en 2T26). Contrato marco con OpenAI (6 gigawatts) da validacion de escala.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios moderado-alto en Data Center por la demanda de IA y escasez de memoria HBM, pero limitado en Client y Gaming por competencia intensa de Intel y Nvidia.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Adquisicion de Xilinx cerrada feb-2022 (aprox 49 mil millones de dolares, en acciones, muy dilutiva pero estrategica para Embedded-FPGA). Adquisicion de ZT Systems 2025 (4.4 mil millones de dolares) con venta bien ejecutada del negocio de manufactura a Sanmina (3.0 mil millones, oct-2025), retuvo diseno e ingenieria. Sin dividendo, recompras moderadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO Lisa Su (desde 2014) con historial excepcional de ejecucion. Venta rutinaria de 125000 acciones en feb-2026 bajo plan 10b5-1 prearreglado - no es senal de alarma, es venta programada de compensacion. Insider ownership bajo (0.48 por ciento, Finviz), tipico de una mega-cap.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin control fundador ni doble clase. Ownership disperso entre institucionales grandes (Vanguard, BlackRock).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guidance trimestral claro con desglose detallado por segmento, comunicacion consistente sobre el roadmap de producto de varios anios (Instinct MI300 a MI500).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Posicion de CAJA NETA de aprox 8.84 mil millones de dolares (caja mas inversiones de corto plazo 13111 millones menos deuda total aprox 3226 millones). Rating credicito en mejora activa: Moody's subido a A1 (oct-2025) y S&P subido a A (ene-2025), ambos citando explicitamente el partnership con OpenAI y la liquidez robusta.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 2.61x a 2.72x, prueba acida 1.69x a 1.96x segun fuente - liquidez muy solida.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda baja y manejable, ratings credicticios en mejora activa (Moody's A1, S&P A), sin senales de estres de refinanciamiento.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill e intangibles representan aprox 49 por ciento de los activos totales (41.1 mil millones de 84.5 mil millones), dominado por la adquisicion de Xilinx de 2022 - proporcion alta que amerita cautela al interpretar el ROE y ROIC reportados.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM 53.20 por ciento, margen operativo 15.71 por ciento, margen neto 15.61 por ciento (stockanalysis, mas actualizado que Finviz tras el reporte del 4-ago-2026). En fuerte expansion desde el valle de FY2023 (ano de cargos de reestructuracion), impulsados por el mix creciente hacia Data Center de mayor margen.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 8.06 a 10.20 por ciento y ROIC 7.43 a 9.77 por ciento segun fuente (Finviz vs stockanalysis) - ambos notablemente por debajo del costo de equity propio estimado (aprox 17.1 por ciento via CAPM con beta 2.48). El negocio aun no genera un retorno que justifique el costo de capital implicito por un beta tan alto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos 0.49x (Revenue TTM 41305 millones sobre Activos totales 84464 millones) - moderada, balance inflado por el goodwill de la adquisicion de Xilinx.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 5 anios aprox 20.5 por ciento (FY2021 a FY2025), con un bache en FY2022 a FY2023 (ciclo bajo de PC e inventarios) seguido de aceleracion fuerte por Data Center-IA (2T26 revenue +50 por ciento interanual, Data Center +107 por ciento). Mismo patron de supercycle ya visto en NVDA, MU, TSM, PLTR y AVGO de este Dashboard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Historicamente ciclico (semiconductores), con Client y Gaming volatiles y Embedded ahora en declive leve; Data Center compensando con fuerza pero introduciendo su propia dependencia de un solo ciclo (IA).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Roadmap Instinct MI400 a MI500, contrato con OpenAI de 6 gigawatts (management estima potencial de mas de 100 mil millones de dolares en ingresos nuevos a 4 anios), ganancia de cuota EPYC continua frente a Intel.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM 10080 millones de dolares bien por encima de la utilidad neta TTM de 6434 millones - buena calidad de ganancias, la brecha se explica por la amortizacion de intangibles de Xilinx (D&A alto), no por distorsion tipo mark-to-market.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM 8403 millones de dolares, margen de FCF TTM aprox 20 por ciento sobre ingresos - solido y limpio, SIN compresion por capex de IA (fabless puro, mismo patron ya documentado con Broadcom-AVGO, capex propio de solo 4.06 por ciento de ventas).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex bajo (1677 millones TTM, 4.06 por ciento de ventas) porque AMD es fabless - el capex de fabricacion de vanguardia lo asume TSMC, no AMD.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Sin dividendo, recompras moderadas, reinversion fuerte en I mas D y M&A estrategico (Xilinx, ZT Systems).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 123.04x, EV a EBITDA 81.78x, P/FCF 93.65x (stockanalysis, mas actualizado tras el reporte del 4-ago-2026) - multiplos extremadamente exigentes, entre los mas altos de cualquier empresa de este Dashboard, tier similar a PLTR y muy por encima de AVGO o TSM.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA ya establecido (mismo patron que NVDA, MU, TSM, PLTR, AVGO): el crecimiento reciente (2T26 revenue +50 por ciento interanual, Data Center +107 por ciento) y el consenso forward (revenue FY2026 +46.5 por ciento, EPS Next 5Y Finviz +72.9 por ciento) estan inflados por el supercycle actual de IA, muy por encima del CAGR historico de 5 anios (20.5 por ciento). Valor Intrinseco (DCF propio, Escenario A adoptado): 91.41 dolares por accion (WACC 17.14 por ciento via CAPM, beta 2.48 promedio Finviz-stockanalysis, deuda casi nula asi que WACC es practicamente igual al costo de equity; FCF base TTM 8403 millones, limpio y sin necesidad de promediar; crecimiento con fade decreciente de 38 por ciento a 12 por ciento en 5 anios, muy por debajo del consenso forward; terminal 4 por ciento; mas caja neta de 8.84 mil millones de dolares sobre 1.63 mil millones de acciones). Escenario B de sensibilidad (crecimiento plano igual al CAGR historico 20.5 por ciento, no adoptado): 80.60 dolares por accion, margen -83.1 por ciento - practicamente igual al escenario base, confirma que el driver dominante es el multiplo de mercado actual (P/FCF cerca de 93x) frente al FCF, no la eleccion de growth rate.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad -80.86 por ciento (precio actual 477.52 dolares vs 91.41 dolares del DCF propio) - el mas negativo o entre los mas negativos de cualquier empresa de este Dashboard. Divergencia con el consenso de analistas en DIRECCION OPUESTA (mismo patron que HOOD, COIN, SNDK, BABA, TSM, PLTR, MSFT, GOOGL, AVGO y AMZN): 51 analistas, Strong Buy (36 strong buy, 5 buy, 10 hold, cero sell), objetivo promedio 596.73 a 606.42 dolares (+25 a +27 por ciento de alza).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM de semiconductores de IA-datacenter enorme y en fuerte expansion por el capex de hyperscalers; PC y Gaming maduros; Embedded de nicho.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas (diseno de chip de clase mundial, escala de capital, acceso a capacidad de TSMC y memoria HBM) pero AMD mismo es la prueba de que no son insuperables, al haberle quitado cuota a Intel de forma sostenida durante mas de una decada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad muy alta (Nvidia domina IA, Intel compite en CPU). Poder de proveedores alto (TSMC casi exclusivo como fundidor, memoria HBM escasa y mayormente reservada por Nvidia). Poder de clientes alto (hyperscalers concentrados con fuerte poder de negociacion). Amenaza de sustitutos moderada (ASICs custom de los propios clientes). Barreras de entrada altas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad alta, tipica de semiconductores - el beta reportado (2.47 a 2.49, Finviz y stockanalysis, consistente) lo confirma, uno de los mas altos de cualquier empresa de este Dashboard.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo de exportacion de chips de IA a China (MI308, MI325X) bajo revision caso por caso desde ene-2026, con arancel del 25 por ciento y tope de volumen del 50 por ciento. Riesgo geopolitico Taiwan-China indirecto por la dependencia total de TSMC (mismo riesgo estructural ya documentado en TSM).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo de tipo de cambio bajo, la mayoria de los ingresos son en dolares estadounidenses, aunque hay exposicion indirecta a Taiwan via la dependencia de TSMC.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion alta en ambos lados: TSMC como fundidor casi exclusivo, memoria HBM escasa concentrada en SK Hynix-Samsung-Micron y mayormente reservada por Nvidia, y ahora concentracion de ingresos futuros en OpenAI (potencial mas de 100 mil millones de dolares a 4 anios).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico alto: ROCm por detras de CUDA de Nvidia, riesgo de que los hyperscalers desarrollen mas ASICs custom propios (como el patron Broadcom-Google TPU) reduciendo la demanda de GPUs de proposito general de AMD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin senales ESG relevantes identificadas en esta investigacion; el litigio historico de accionistas de Xilinx (2020-2022) ya esta resuelto.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados de 3T26 pendientes (guidance de revenue aprox 13 mil millones de dolares, +41 por ciento interanual). Ramp de MI400 y deploy de 1 gigawatt con OpenAI en la segunda mitad de 2026. Evolucion de las licencias de exportacion a China.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Venta rutinaria de Lisa Su bajo plan 10b5-1 prearreglado (125000 acciones, feb-2026, aprox 210 a 219 dolares por accion) - venta programada de compensacion, no una senal de alarma. No se identificaron otras ventas o compras de insiders relevantes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "51 analistas (stockanalysis), consenso Strong Buy (36 strong buy, 5 buy, 10 hold, cero sell), objetivo promedio 596.73 dolares (Finviz) a 606.42 dolares (stockanalysis), consistente entre fuentes, +25 a +27 por ciento de alza.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.2432432432432434,
+    "recomendacion": "NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA (margen de seguridad -80.9 por ciento; score 3.24 de 5, decente por moat de diseno y balance de caja neta solido, pero penalizado fuerte por valoracion extrema y alta ciclicidad-concentracion de proveedores)",
+    "tesis": "Fabless de calidad con roadmap de GPUs de IA fuerte (Instinct, contrato OpenAI 6GW) y balance con caja neta, pero cotizando a multiplos extremos (P/FCF cerca de 93x) que ya asumen que el supercycle actual de Data Center se sostiene indefinidamente; mismo patron ya visto en NVDA, MU, TSM, PLTR y AVGO de este Dashboard."
+  }
+}

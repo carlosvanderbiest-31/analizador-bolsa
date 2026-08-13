@@ -1,0 +1,259 @@
+{
+  "empresa": "The Walt Disney Company",
+  "ticker": "DIS",
+  "sector": "Servicios de Comunicacion / Entretenimiento Diversificado",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Conglomerado de medios-entretenimiento diversificado en tres segmentos: Entertainment (streaming Disney+/Hulu, estudios, redes de television lineal), Sports (ESPN, streaming ESPN Unlimited), Experiences (parques tematicos, cruceros, productos de consumo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de biblioteca de contenido insuperable (Marvel, Star Wars, Pixar, Disney animacion clasica), marca mas reconocida del entretenimiento familiar del mundo, escala de parques tematicos con barreras de capital extremas para replicar.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider indiscutido en streaming familiar-premium (Disney+) y parques tematicos (management afirma desempeno \"significativamente mejor que la competencia\", incluyendo el nuevo Epic Universe de Universal), ESPN lider en deportes en TV-streaming.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Fuerte, demostrado por el crecimiento de ingresos por suscripcion (+15% interanual) y gasto per capita en parques (+4% domestico) sin sacrificar volumen (asistencia tambien creciendo +3-4%).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "TRANSICION DE CEO ORDENADA Y COMPLETADA: Bob Iger paso el mando a Josh D Amaro el 18-mar-2026 tras un proceso de sucesion bien planificado (Iger permanece como asesor especial-consejero hasta fines de 2026) - contraste directo con el evento de crisis de liderazgo de HD (licencia medica subita del CEO) analizado antes en la sesion. Inversion continua disciplinada en Parks (Villains Land, expansion Avengers Campus, Disney Cruise Line) y streaming.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership bajo (0.17%, tipico de una mega-cap madura de decadas). Iger vendio ~USD 42.66M en nov-2025 (ejercicio de opciones en contexto de su transicion fuera del cargo de CEO, no necesariamente una senal bajista).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones, sin estructura de control dual ni voto diferenciado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Dejo de reportar suscriptores-ARPU trimestrales de Disney+/Hulu/ESPN+ (declarando que se han vuelto menos significativos), aunque continua divulgando rentabilidad del segmento streaming - reduccion de transparencia especifica que merece nota, compensada por guia de margen operativo DTC explicita (10% para FY2026).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda neta USD 40.86bn (deuda total USD 46.04bn vs caja apenas USD 5.19bn), calificacion crediticia EXCELENTE (S&P A afirmada ene-2026, Moodys A2) - de las mas solidas del Dashboard. Deuda/Patrimonio apenas 0.42x sobre un patrimonio MUY grande y real (USD 116.84bn, el mas grande de cualquier empresa reciente del Dashboard por un margen amplio) - primera empresa en muchas sesiones sin ningun gotcha de patrimonio delgado-negativo, balance de conglomerado clasico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente apenas 0.65, prueba acida 0.59 (ambas por debajo de 1.0) - ajustada para una empresa de este tamano, parcialmente explicable por el ciclo de negocio de parques-produccion de contenido (pasivos corrientes de produccion, ingresos diferidos de boletos-suscripciones).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Grado de inversion EXCELENTE (S&P A, Moodys A2), de las calificaciones crediticias mas fuertes del Dashboard completo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles USD 84.47bn sobre activos totales de USD 204.74bn (41.3%) - MUY elevado, reflejo de decadas de M&A transformacional (Pixar, Marvel, Lucasfilm, Fox 2019, Hulu).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 32.19%, margen operativo 15.43%, margen neto 8.68% - moderados para un conglomerado diversificado, PERO con una inflexion positiva real y reciente en el segmento streaming (margen operativo DTC 12.9% en el trimestre, guia de 10% para el ano completo, +62% de crecimiento de utilidad operativa DTC) tras anios de perdidas en esa unidad.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 7.85% (sobre un patrimonio real y grande, no distorsionado). ROIC apenas 5.83% vs WACC propio 9.60% - spread NEGATIVO, reflejo del enorme balance de goodwill-activos de parques de un conglomerado maduro y de las perdidas historicas de streaming que aun pesan en el retorno acumulado. ROA 4.29%.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 0.483x (Ingresos TTM USD 98.86bn / Activos totales USD 204.74bn), baja, tipica de un conglomerado con activos de parques-estudios-goodwill muy intensivos en capital.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "EPS Past 5Y NEGATIVO (-58.46%, Finviz) - refleja anios genuinamente dificiles (COVID golpeando Parks severamente, perdidas de streaming en su fase de inversion inicial, presion de cord-cutting en redes lineales) mas que una distorsion de base simple; CAGR de Ingresos 5y mas moderado y positivo (+7.66%).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Ingresos TTM +4.6% interanual, con inflexion reciente clara: streaming ya rentable y creciendo con fuerza (+62% de utilidad operativa DTC guiada), Parks en record de ingresos (+10% interanual) - la trayectoria reciente es notablemente mas consistente-positiva que el historico de 5 anios.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Integracion de ESPN en el paquete trio de streaming (Disney+/Hulu/ESPN Unlimited), expansion continua de Parks (Villains Land, Avengers Campus, Disney Cruise Line), unificacion de apps (Hulu-Disney+) para mejorar retencion-venta cruzada.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM USD 16.99bn vs utilidad neta TTM USD 8.60bn - brecha normal explicada por D&A de un conglomerado de contenido-parques intensivo en activos. GOTCHA: la caida interanual de utilidad neta GAAP (-25.5%) se explica por un beneficio fiscal PUNTUAL en el trimestre comparable del ano anterior (relacionado a la compra de la participacion de Hulu a Comcast), NO una desaceleracion operativa real - en base ajustada el EPS en realidad crecio (USD 2.06 vs USD 1.61 del trimestre comparable, superando estimados).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD 8.29bn, en una trayectoria de mejora MUY fuerte desde FY2022 (USD 1.06bn) hasta un pico de USD 10.08bn en FY2025, ahora modestamente por debajo de ese pico por el aumento de capex de expansion de Parks-Cruceros.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex/Ventas ~8.80% (USD 8.70bn TTM), en aumento sostenido (desde USD 4.94bn en FY2022, +76% en 4 anos) reflejo de la expansion activa de Parks-Cruceros (Villains Land, Avengers Campus, nuevos cruceros) - capex de crecimiento genuino, aunque a diferencia de RCL no ha llevado el FCF a territorio negativo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo reiniciado y creciente (yield ~1.45-1.46%, payout bajo ~14.60%, reinstaurado tras la suspension de la era COVID), reinversion fuerte en Parks-streaming-contenido.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 21.27-21.40x, Forward P/E 13.84-13.91x (notablemente mas bajo, reflejo de fuerte crecimiento de utilidad esperado conforme streaming madura), P/FCF 21.47x, PEG apenas 1.17 - multiplos razonables, no particularmente caros dado el perfil de inflexion de rentabilidad en curso.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, growth 10%, WACC 9.60% con beta literal SIN sustituir -chequeo de convergencia limpio, gap 1.16x-): USD 91.3/accion, MS -11.4%. Escenario B (sensibilidad con growth 13%, reflejando el momentum reciente de streaming-Parks, no adoptado): USD 106.4/accion, MS +3.2% - ambos escenarios razonablemente cercanos a valor justo, sin fragilidad extrema.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "-11.4% (Escenario A adoptado, precio actual USD 103.08 vs valor intrinseco USD 91.3) - moderadamente negativo, en el borde de la banda de MANTENER, con el Escenario B mostrando practicamente valor razonable (+3.2%).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de entretenimiento-streaming-parques tematicos enorme, con la industria de streaming aun consolidandose (Disney ya un ganador claro junto a Netflix) y Parks con demanda estructural resiliente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "MUY altas para Parks (decadas de inversion de capital, terrenos, permisos, marca), altas para el contenido de biblioteca (imposible replicar Marvel-Star Wars-Pixar), moderadas para streaming puro (mas competido).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta en streaming (Netflix, Warner Bros Discovery, Amazon, Apple), rivalidad alta en parques (Universal-Epic Universe como nuevo competidor real), poder de proveedores bajo (Disney es dueno de su propio contenido), poder de compradores del consumidor final moderado, amenaza de sustitutos moderada, barreras de entrada altas en Parks-contenido de biblioteca.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Moderadamente ciclica: Parks-Experiences sensible al gasto discrecional de viaje-turismo (ya demostrado severamente durante COVID), streaming-contenido relativamente mas resiliente (entretenimiento en casa de bajo costo relativo).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Moderado: riesgo de regulacion de contenido-medios en distintas jurisdicciones internacionales, riesgo antitrust remoto pero presente dado el tamano del conglomerado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real dado el alcance internacional de Parks (Paris, Shanghai, Hong Kong, Tokio parcialmente) y streaming global.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes masivamente diversificada (consumidores globales de streaming-parques-merchandise), sin concentracion de cliente unico relevante.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo estructural YA MATERIALIZADO de cord-cutting en redes de TV lineal (ESPN, cable networks) que Disney esta gestionando activamente via la transicion a streaming (ESPN Unlimited, integracion con Disney+) - riesgo real pero ya siendo abordado con una estrategia clara.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo relativo al resto del Dashboard, sin litigios activos severos identificados en esta investigacion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Continuidad de la transicion de liderazgo bajo el nuevo CEO Josh D Amaro (ya completada en marzo-2026, a monitorear su primera hoja de ruta estrategica completa); apertura de nuevas atracciones de Parks (Villains Land, expansion Avengers Campus); integracion continua de ESPN en el ecosistema de streaming; proximo reporte trimestral.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Venta de Iger de ~USD 42.66M en nov-2025 (ejercicio de opciones en el contexto de su transicion fuera del cargo de CEO, no necesariamente una senal bajista dado el contexto de sucesion ya conocido).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso fuertemente positivo (Strong Buy, 32 analistas, objetivo promedio USD 127.46-127.72, +23.7% a +23.9% de alza) - notablemente MAS OPTIMISTA que este DCF (-11.4% a +3.2% segun escenario), divergencia moderada-amplia en direccion opuesta al Escenario A adoptado.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.5405405405405403,
+    "recomendacion": "MANTENER",
+    "tesis": "Disney combina una biblioteca de contenido insuperable con una inflexion real de rentabilidad en streaming y un momentum record en Parks, tras una transicion de CEO ordenada (Iger a D Amaro) - pero el ROIC aun esta por debajo del costo de capital y el DCF cae en el borde negativo de valor razonable (-11.4% a +3.2% segun escenario) - MANTENER."
+  }
+}

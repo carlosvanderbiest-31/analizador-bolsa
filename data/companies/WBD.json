@@ -1,0 +1,259 @@
+{
+  "empresa": "Warner Bros. Discovery, Inc.",
+  "ticker": "WBD",
+  "sector": "Medios - Television lineal, streaming (HBO Max) y estudio de contenido (situacion especial: fusion pendiente)",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Tres segmentos: redes de television lineal (CNN, TNT Sports, Discovery), streaming (HBO Max) y estudio de contenido (Warner Bros., DC Studios). Ingresos TTM 37.21 mil millones USD, EN DECLIVE (-3.0 por ciento interanual) - el negocio lineal esta en declive estructural por cord-cutting mas rapido de lo que crece el streaming.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat real en la biblioteca de propiedad intelectual (HBO, DC, catalogo de Warner Bros., marca CNN) pero el moat de distribucion de television lineal se esta erosionando estructuralmente por la migracion al streaming - un moat mixto, fuerte en contenido, debil en el modelo de distribucion historico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "HBO Max tiene posicion fuerte en contenido premium dentro del streaming, pero las redes lineales pierden suscriptores y cuota de mercado de forma acelerada - posicion competitiva general en deterioro neto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de negociacion de tarifas de afiliados (affiliate fees) erosionandose a medida que se acelera el cord-cutting, aunque el contenido premium todavia comanda valor en negociaciones de streaming y licenciamiento.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historial de asignacion de capital agitado en pocos anios: fusion AT&T-Discovery (2022) cargo la empresa con deuda muy alta; anuncio de escision en dos companias (Warner Bros. y Discovery Global, jun-2025); oferta de Netflix por los activos de streaming-estudio (rechazada, dic-2025); oferta hostil y luego acordada de Paramount Skydance por el 100 por ciento de la empresa a 31 USD por accion (feb-2026, aprobada por accionistas abr-2026). Mucha inestabilidad corporativa en un periodo corto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO David Zaslav ha enfrentado criticas por paquetes de compensacion elevados durante el periodo de la fusion AT&T-Discovery relativo al retorno para accionistas. La empresa ahora esta siendo vendida, lo que limita la relevancia de evaluar alineacion de incentivos de largo plazo del management actual.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria de clase unica (sin doble clase de supervoto de fundadores) - relativamente limpia comparada con otras empresas del Dashboard, aunque el punto es en gran medida moot dado que la empresa esta en proceso de ser adquirida.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion extensa via filings SEC del proceso de fusion (proxy statements con rangos de valoracion del propio consejo para el escenario de separacion standalone) - transparencia razonable sobre el proceso de M&A en curso.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Apalancamiento alto: deuda bruta 33.1 mil millones USD, caja 3.4 mil millones USD, deuda neta aprox 30 mil millones USD, apalancamiento neto 3.4x (cifra propia de la empresa, 2T 2026). Herencia directa de la fusion AT&T-Discovery de 2022. Este apalancamiento es el motivo central por el cual el articulo de prensa advierte riesgo de \"bancarrota, cierre de redes y despidos masivos\" si la fusion con Paramount Skydance fracasa y la empresa debe desapalancarse en solitario con un negocio lineal en declive.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Caja de 3.4 mil millones USD frente a deuda bruta de 33.1 mil millones USD - liquidez ajustada en relacion al tamanio de la deuda. Razon corriente no verificada en esta sesion (dato pendiente).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Estructura de vencimientos no verificada en detalle en esta sesion (dato pendiente) - dado el apalancamiento neto de 3.4x, cualquier pared de vencimiento cercana seria un riesgo relevante a confirmar en una sesion futura.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance con proporcion significativa de goodwill e intangibles heredados de la fusion AT&T-Discovery de 2022, junto con una biblioteca de contenido valiosa (HBO, DC, Warner Bros.) y activos de redes lineales en declive de valor economico.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Utilidad neta TTM NEGATIVA (-1.74 mil millones USD sobre 37.21 mil millones USD de ingresos, margen neto aprox -4.68 por ciento) - presionada por el declive de television lineal, inversion en streaming, cargos de reestructuracion-M&A y un gasto de interes pesado sobre 33.1 mil millones USD de deuda bruta. Margen bruto y operativo no verificados con precision en esta sesion (dato pendiente).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "Con utilidad neta negativa, el ROE actual es negativo y no informativo de la capacidad de generacion de valor de largo plazo del negocio en su forma actual. ROE y ROIC no verificados con precision en esta sesion (dato pendiente) - de todas formas, poco relevante para la decision de inversion actual, que gira en torno al desenlace de la fusion, no a la rentabilidad operativa standalone.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "No es una metrica prioritaria para esta situacion especial; no verificada con precision en esta sesion.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Ingresos EN DECLIVE (-3.0 por ciento interanual TTM), no en crecimiento - negocio estructuralmente maduro-en-declive por la migracion de television lineal a streaming. El CAGR de 5 anios no es comparable de forma limpia porque la base cambio por completo con la fusion AT&T-Discovery de 2022 (WarnerMedia se integro a mitad de periodo).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Tendencia de declive relativamente consistente en el segmento lineal, aunque la lectura de la tendencia subyacente esta distorsionada por el ruido de la reestructuracion corporativa en curso (plan de escision anunciado y luego reemplazado por la venta a Paramount Skydance).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Si la fusion con Paramount Skydance CIERRA: sinergias de escala combinada en streaming y potenciales recortes de costos bajo nueva propiedad. Si la fusion FRACASA: el crecimiento futuro dependeria de la ejecucion standalone de HBO Max international y de qué tan rapido se pueda compensar el declive de las redes lineales - una tesis de crecimiento mucho mas debil e incierta en ese escenario.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "La perdida neta GAAP probablemente sobreestima el deterioro de caja real (las empresas de medios suelen tener OCF mayor a la utilidad neta por la amortizacion no-cash de contenido), pero el FCF y OCF exactos no se verificaron con precision en esta sesion (dato pendiente) - no se debe asumir que la perdida neta de -1.74 mil millones USD equivale a quema de caja de esa magnitud sin confirmar el desglose.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "No verificado con precision en esta sesion (dato pendiente) - prioridad de investigacion mas baja en esta sesion porque la tesis de inversion actual gira en torno al desenlace de la fusion (spread de arbitraje), no en la generacion de FCF standalone.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Modelo de contenido: el \"capex\" tradicional es bajo (no es un negocio intensivo en activos fijos), pero el gasto en produccion de contenido (mayormente tratado como costo operativo o inversion en libreria, no capex tradicional) es sustancial y continuo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "El uso del capital esta dominado por el servicio de una deuda pesada (33.1 mil millones USD brutos) y, actualmente, por el propio proceso de fusion - la empresa no esta tomando decisiones independientes de asignacion de capital de largo plazo mientras la adquisicion esta pendiente.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P sobre E no aplica (perdida neta). EV sobre EBITDA estimado aprox 11.0x (EV aprox 97.06 mil millones USD = market cap 67.06 mil millones USD mas deuda neta 30 mil millones USD; EBITDA implicito aprox 8.82 mil millones USD derivado del apalancamiento neto de 3.4x que reporta la propia empresa). Pero NINGUN multiplo tradicional es la variable relevante hoy: el precio cotiza en funcion del spread de arbitraje contra el precio de fusion de 31 USD por accion, no de multiplos fundamentales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "NO SE CALCULO un DCF tradicional - tercera categoria de \"metodologia distinta\" del Dashboard (junto a BRK y JPM, aunque por una razon diferente: aqui no es que el DCF sea inapropiado por el tipo de negocio, es que el precio de mercado esta ANCLADO a un evento binario conocido, no a flujos de caja futuros). El valor de referencia relevante es el PRECIO DE LA FUSION: 31.00 USD por accion en efectivo, acordado por Paramount Skydance Corporation (PSKY) el 27-feb-2026, aprobado por accionistas de WBD el 23-abr-2026, con autorizaciones regulatorias ya obtenidas de EEUU (DOJ), Union Europea (22-jul-2026) y Reino Unido (6-ago-2026), entre otras jurisdicciones.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Spread de arbitraje: precio actual 26.71 USD (7-ago-2026) vs precio de fusion 31.00 USD = spread de aprox +16.1 por ciento SI LA FUSION CIERRA en esos terminos. Pero este spread NO es una senial de valor fundamental (no confundir con el Margen de Seguridad tradicional del resto del Dashboard) - es una compensacion de mercado por un riesgo binario real y activo: 12 fiscales generales estatales (liderados por California) demandaron en jul-2026 para bloquear la fusion por motivos antimonopolio, se otorgo una orden de restriccion temporal, y el juicio esta fijado para marzo de 2027 (el cierre originalmente esperado para 3T 2026 ya se retraso). Existe una \"ticking fee\" de 0.25 USD por accion por trimestre si no cierra para el 30-sep-2026, que compensa parcialmente el retraso. Si la fusion FRACASA, el ancla de 31 USD desaparece y el precio probablemente caeria con fuerza hacia el rango de valoracion standalone (el precio no afectado pre-oferta era de solo 12.54 USD, jun-2025, y el propio consejo de WBD estimo rangos de apenas 1.33 a 6.86 USD por accion SOLO para el segmento de redes lineales Discovery Global en sus analisis de la escision alternativa) - la caida potencial en el escenario de fracaso es severa, dado ademas el apalancamiento neto de 3.4x. Perfil de riesgo-retorno tipico de arbitraje de fusion: ganancia moderada y con plazo incierto si cierra, perdida grande si no cierra.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "El mercado global de medios-entretenimiento-streaming es grande y sigue creciendo, pero el sub-segmento especifico de television lineal por cable (donde WBD todavia tiene una porcion relevante de ingresos) esta en contraccion estructural, mientras streaming y contenido con IP fuerte siguen creciendo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras altas para poseer una biblioteca de contenido-IP del calibre de HBO-DC-Warner Bros., pero barreras bajas de cambio para el consumidor entre servicios de streaming rivales - el moat es mas fuerte en el contenido que en la capa de distribucion streaming en si.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad muy alta (Netflix, Disney+, Paramount+ - que pronto seria la MISMA empresa si cierra la fusion-, Amazon, Apple TV+) compitiendo por gasto de suscripcion y de publicidad. Poder de negociacion de talento-creadores de contenido en aumento. Amenaza de sustitutos alta. Poder de distribuidores de cable-satelite en declive junto con el negocio lineal mismo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ingresos de publicidad ciclicos (ligados al gasto macro), ingresos de suscripcion menos ciclicos pero con alta rivalidad por el gasto discrecional del consumidor en streaming.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "RIESGO PRINCIPAL Y CENTRAL de la tesis actual: litigio antimonopolio activo de 12 fiscales generales estatales (liderados por California, presentado 13-jul-2026) buscando bloquear la fusion con Paramount Skydance pese a que el DOJ federal, la Comision Europea y la autoridad de competencia del Reino Unido ya la aprobaron. Orden de restriccion temporal otorgada, juicio fijado para marzo de 2027. Paramount Skydance declaro seguir apuntando a cerrar, pero el cierre originalmente esperado para 3T 2026 ya se retraso de forma material.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria por operaciones internacionales (HBO Max international, redes de Discovery a nivel global) - no cuantificada con precision en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion moderada tipica de la industria: dependencia de talento-creadores de contenido clave y de socios de distribucion (operadores de cable-satelite-vMVPD, plataformas de tiendas de aplicaciones de streaming).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico YA MATERIALIZADO, no solo potencial: el cord-cutting ya deterioro estructuralmente el negocio de television lineal (ingresos TTM en declive de -3.0 por ciento), forzando la migracion a streaming que compite en un mercado saturado.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin controversia ESG especifica identificada mas alla de consideraciones estandar de la industria (estandares de contenido, relaciones laborales con guionistas-actores dado el historial reciente de huelgas del sector).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Fecha clave 30-sep-2026 (activa la \"ticking fee\" de 0.25 USD por accion por trimestre si no ha cerrado); resolucion de la orden de restriccion temporal en las proximas semanas; posibles negociaciones de acuerdo entre Paramount Skydance y los fiscales estatales; juicio antimonopolio fijado para marzo de 2027.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado con profundidad en esta sesion (dato pendiente) - de prioridad menor dado que la decision de los insiders es en gran medida irrelevante mientras la empresa esta en proceso de venta a un precio fijo en efectivo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura intensa por la naturaleza de situacion especial (arbitraje de fusion) - analistas y mesas de arbitraje divididos sobre la probabilidad y el momento de cierre dado el litigio antimonopolio activo; no se encontro un consenso numerico de probabilidad de cierre en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.27027027027027,
+    "recomendacion": "SITUACION ESPECIAL - ARBITRAJE DE FUSION (no aplica el marco tradicional de Margen de Seguridad)",
+    "tesis": "Empresa de medios estructuralmente en declive (television lineal) y muy apalancada (3.4x deuda neta a EBITDA), cuyo precio actual de 26.71 USD depende casi enteramente del desenlace binario de su adquisicion por Paramount Skydance a 31.00 USD por accion en efectivo - spread de arbitraje de aprox +16 por ciento si cierra, contra una caida potencial severa hacia niveles standalone (precio no afectado pre-oferta de solo 12.54 USD) si un litigio antimonopolio activo de 12 estados (juicio marzo 2027) logra bloquearla."
+  }
+}

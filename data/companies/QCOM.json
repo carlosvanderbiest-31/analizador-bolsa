@@ -1,0 +1,259 @@
+{
+  "empresa": "Qualcomm Incorporated",
+  "ticker": "QCOM",
+  "sector": "Semiconductores - Chipsets moviles-automotriz-IoT (QCT) y licenciamiento de patentes celulares (QTL)",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Dos segmentos: QCT (chipsets Snapdragon para moviles, automotriz, IoT-PC, XR - aprox 85 por ciento de ingresos) y QTL (licenciamiento de patentes esenciales de estandares 3G-4G-5G, muy alto margen, EBT aprox 69 por ciento vs 26 por ciento de QCT). Diversificacion activa hacia automotriz y centros de datos-IA de borde para reducir dependencia del ciclo de moviles.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Apple, Samsung y Xiaomi cada uno mas de 10 por ciento de ingresos consolidados (10-K FY2024). Automotriz: BMW (silicio principal de computo modelo 2026), Mercedes-Benz, Volkswagen, Volvo, Honda, Renault, Stellantis - aprox 40 fabricantes de autos para 2026. Nuevo cliente de centros de datos: HUMAIN (venture de IA saudita).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "MediaTek (lider en cuota de unidades de chipsets moviles, 32 por ciento vs 23 por ciento de Qualcomm en 1T 2026), Apple (modem propio \"C2\" ya en iPhone 16e-17e-Air, saliendo de Qualcomm), Broadcom (conectividad-RF), Nvidia y Mobileye (computo automotriz).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "TSMC como fundidora principal para los nodos de vanguardia de Snapdragon (dependencia de proveedor unico tipica del modelo fabless, no verificada con detalle esta sesion).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Cristiano Amon, presidente y CEO desde jun-2021 (aprox 5 anios de gestion), estrategia centrada en diversificar mas alla de moviles hacia automotriz, IoT-PC y ahora centros de datos-IA de borde, descrita por el mismo Amon como \"el proximo capitulo\" de la empresa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Clase unica de acciones, gobernanza estandar de gran capitalizacion ampliamente distribuida - aprox 78.4 por ciento institucional, 2.6 por ciento insiders, 19 por ciento retail. Mayor accionista individual: cofundador Irwin M. Jacobs (aprox 1.77 por ciento).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Pagador de dividendo de larga trayectoria (racha de multiples decadas de incrementos anuales, no reverificada con precision de anios exactos esta sesion): dividendo trimestral elevado de 0.89 a 0.92 USD (efectivo desde mar-2026), anualizado 3.68 USD (rendimiento aprox 2.2 a 2.8 por ciento). Nueva autorizacion de recompra de 20000 millones USD (mar-2026, sobre aprox 2100 millones USD remanentes de un programa previo) - aprox 11 por ciento de la capitalizacion de mercado, un compromiso de retorno de capital muy grande.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin senales de venta masiva de insiders identificadas esta sesion. Litigio relevante: victoria completa en tribunal contra Arm (oct-2025, disputa de licenciamiento Nuvia), confirmada en mociones posteriores - Arm podria apelar; una demanda separada de Qualcomm contra Arm va a juicio el 5-oct-2026.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Cambio de caracter del balance: caja mas valores negociables aprox 8300 millones USD (efectivo 4530 mas valores 3770 millones USD) vs deuda total aprox 15270 millones USD (corto plazo 2490 mas largo plazo 12780 millones USD) - Deuda Neta aprox 7000 millones USD, un cambio real desde la posicion historicamente neta de caja, impulsado en gran parte por recompras agresivas de acciones.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "No verificada con precision esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Margen bruto GAAP 53.1 por ciento en el 3T FY2026 (bajando desde 56 por ciento un anio antes) por inflacion de costos de memoria-DRAM y demanda debil de fabricantes chinos - senal real de presion de margen, no distorsion contable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Margen operativo GAAP aprox 16.4 por ciento en el 3T FY2026 (ingreso operativo 1630 millones USD sobre 9950 millones USD de ingresos, bajando 41 por ciento interanual); EBT no-GAAP cayo 24 por ciento interanual a 2700 millones USD.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Utilidad neta GAAP de los 9 meses de FY2026 (12380 millones USD) esta materialmente inflada por una liberacion unica de 5700 millones USD de una provision de valuacion de impuestos diferidos en el 2T FY2026 (nueva ley fiscal que permite gasto inmediato de I mas D) - no usar la utilidad neta GAAP TTM directamente sin normalizar. La compresion de margen bruto (53.1 por ciento vs 56 por ciento) si es real y operativa, no contable.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE-ROIC no verificados con precision esta sesion (dato pendiente), y ademas distorsionados por el item fiscal unico de 5700 millones USD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos no verificada con precision esta sesion (dato pendiente).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "3T FY2026: ingresos totales 9950 millones USD, superando consenso (aprox 9690 millones USD). QCT 8500 millones USD (-5 por ciento interanual): Handsets 5090 millones USD (-20 por ciento interanual, golpeado por inflacion de costos de memoria y demanda debil de fabricantes chinos), Automotriz 1590 millones USD (mas 61 por ciento interanual, record), IoT 1830 millones USD (mas 9 por ciento). QTL 1280-1300 millones USD (-3 por ciento interanual).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Ingresos historicos a 5 anios altamente ciclicos, no una linea de crecimiento limpia: FY2021 33.57bn a FY2022 44.20bn a FY2023 35.82bn (caida aprox 19 por ciento por la correccion de inventarios de moviles post-pandemia) a FY2024 38.96bn a FY2025 44.28bn USD - CAGR aprox 6-7 por ciento a 5 anios, pero la cifra esconde ciclicidad real y relevante que debe reflejarse en la conservadurismo del valor terminal.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Guidance de management: crecimiento de ingresos no-moviles acelerando de 24 por ciento en FY2026 a mas de 60 por ciento en FY2027 - descrito como \"punto de inflexion\". Automotriz apuntando a un ritmo anualizado de 6000 millones USD al salir de FY2026, respaldado por una cartera de disenos ganados de 65000 millones USD. Centro de datos-IA de borde: chips de inferencia AI200-AI250 (lanzados oct-2025), primer cliente HUMAIN, acuerdo estrategico multi-generacional con Meta (jun-2026) - meta propia de 5000 millones USD de ingresos de centro de datos para FY2027 y 15000 millones USD para FY2029 (ambicioso, aun no reflejado en ingresos reportados por segmento).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo mayormente limpio (no distorsionado por el item fiscal unico, que no es un movimiento de caja), pero con una senal real de deterioro operativo: FCF de los 9 meses de FY2026 (6827 millones USD, flujo operativo 8405 millones USD menos capex 1578 millones USD) implica un ritmo bastante mas bajo que el FCF completo de FY2025 (12400 millones USD) - caida real de calidad de generacion de caja por compresion de margen, no un artificio contable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM estimado aprox 8.8 mil millones USD (reconciliacion aproximada entre los 9 meses de FY2026 y el trimestre final de FY2025, dato a refinar contra los 10-Q-10-K directos) - marcadamente por debajo del FCF de FY2025 completo (12.4bn USD), reflejando la compresion de margen bruto ya documentada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex moderado, modelo fabless (TSMC como fundidora) - capex-ventas no verificado con precision esta sesion pero estructuralmente bajo comparado con fabricantes con fabs propias.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Capital destinado principalmente a dividendo creciente (racha de decadas) y a una recompra muy grande (20000 millones USD, aprox 11 por ciento de la capitalizacion de mercado) - politica de retorno de capital agresiva y consistente, orientacion clara hacia el accionista via dividendo mas recompra, no solo M&A como en otros casos recientes del Dashboard (SNPS, ETN, NOW).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "DCF con base FCF TTM estimado aprox 8.8 mil millones USD, WACC 10.9 por ciento (CAPM Beta 1.45 -punto medio de un rango sin consenso claro entre fuentes de 1.28 a 1.66-, Rf 3.5 por ciento, ERP 5.5 por ciento, mas costo de deuda post-impuestos sobre una estructura con deuda al 7.9 por ciento del capital). Fade de crecimiento NO monotono, disenado para capturar el \"acantilado de Apple\": FCF -8 por ciento en el ano 1 y -3 por ciento en el ano 2 (perdida de ingresos de Apple estimada entre 7300 y 7800 millones USD anuales, materializandose por completo en 2027-2028), seguido de recuperacion +8, +10 y +10 por ciento en los anos 3 a 5 conforme la diversificacion en automotriz (ritmo anualizado meta 6000 millones USD) y centro de datos-IA (meta 5000 millones USD para FY2027, 15000 millones USD para FY2029) empieza a compensar. Terminal 4 por ciento. Deuda neta restada aprox 7000 millones USD.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco escenario adoptado aprox 109.82 USD por accion vs precio actual aprox 167 USD - Margen de Seguridad aprox -34.2 por ciento (zona Vender segun el marco de bandas).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Escenario de sensibilidad mas optimista (diversificacion exitosa: FCF -5, 0, +12, +14, +14 por ciento en los 5 anios): IV aprox 128.95 USD, MS aprox -22.8 por ciento - sigue en zona negativa incluso en el escenario mas favorable a la tesis de diversificacion. Contraste marcado con el consenso de analistas (objetivo promedio 206-222 USD, +23 a +33 por ciento, calificacion mixta entre Hold y Moderate Buy segun la fuente) - la dispersion de precios objetivo de analistas es inusualmente amplia (100 a 314 USD), reflejo directo de que el mercado tampoco tiene consenso sobre si la diversificacion compensara a tiempo la perdida confirmada de Apple.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Rivalidad intensa en el segmento mas grande (moviles): MediaTek lidera cuota de unidades (32 por ciento vs 23 por ciento de Qualcomm en 1T 2026), ambos presionados por demanda debil de gama de entrada-media; en automotriz compite con Nvidia y Mobileye.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas via el portafolio de patentes esenciales de estandares celulares (sustento de QTL) y liderazgo tecnico en modem-RF; dependencia de fundidora unica (TSMC) para nodos de vanguardia es una barrera hacia adentro pero tambien un riesgo de concentracion de proveedor.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Poder de negociacion de clientes alto y en deterioro activo: Apple (cliente historico grande) transicionando por completo a su propio modem \"C2\", con perdida de ingresos confirmada y cuantificada (7300-7800 millones USD anuales) materializandose en 2027-2028; ademas Samsung y Xiaomi representan cada uno mas de 10 por ciento de ingresos.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Vientos de cola reales en automotriz (electrificacion y computo definido por software en vehiculos) y en IA de borde-centro de datos (chips de inferencia AI200-AI250, acuerdos con Meta y HUMAIN) - TAM en expansion genuina, aunque la meta propia de 15000 millones USD de ingresos de centro de datos para FY2029 es todavia una ambicion no probada en resultados reportados.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo mas importante y ya confirmado: transicion completa de Apple a su modem propio \"C2\" implica una perdida de ingresos anuales estimada entre 7300 y 7800 millones USD, materializandose por completo en 2027-2028; el propio management senalo en la llamada del 3T FY2026 que esta cayendo mas rapido de lo esperado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo de concentracion geografica-de manufactura: China representaria una proporcion muy alta de los ingresos por una fuente (aprox 63 por ciento), aunque esta cifra probablemente refleja donde se ensamblan los telefonos y no el consumo final - dato marcado como no verificado con precision, requiere contraste contra la tabla de ingresos geograficos del 10-K.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Riesgo de ejecucion en la diversificacion: la tesis alcista completa depende de que automotriz y centro de datos-IA crezcan lo suficientemente rapido para compensar la perdida de Apple - guidance de management (crecimiento no-movil acelerando a mas de 60 por ciento en FY2027) es ambicioso y aun no probado en resultados reportados por segmento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de ciclicidad: el segmento de moviles (todavia mas de la mitad de los ingresos de QCT via Handsets) es historicamente ciclico (caida de ingresos de aprox 19 por ciento en FY2023 tras la correccion de inventarios post-pandemia) y actualmente presionado por inflacion de costos de memoria y demanda debil de fabricantes chinos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo de litigio de patentes: aunque Qualcomm gano el litigio principal contra Arm (oct-2025), Arm podria apelar, y una demanda separada de Qualcomm contra Arm va a juicio el 5-oct-2026 - overhang legal reducido pero no eliminado.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.8
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Catalizador principal: que el ritmo anualizado de automotriz (meta 6000 millones USD) y el arranque real de ingresos de centro de datos-IA (meta 5000 millones USD para FY2027) empiecen a compensar de forma visible y reportada la perdida confirmada de ingresos de Apple.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Riesgo principal: perdida de ingresos de Apple ya confirmada y cuantificada (7300-7800 millones USD anuales, aprox 16-17 por ciento de los ingresos de FY2025) materializandose en 2027-2028, sin que la diversificacion tenga todavia resultados reportados suficientes para dar certeza de compensarla a tiempo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Qualcomm es una empresa con moat real en patentes-modem y una diversificacion en marcha genuina (automotriz, IA de borde), pero enfrenta un riesgo estructural PERMANENTE y ya confirmado (salida de Apple) distinto de los casos de distorsion temporal ya vistos en el Dashboard (SNPS, ETN) - por eso no aplica un suavizado de la recomendacion pese a la calidad del negocio subyacente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3,
+    "recomendacion": "NO COMPRAR - RIESGO DE TRANSICION DE APPLE AUN NO COMPENSADO (vender o reducir si ya se tiene posicion). El DCF adoptado da Margen de Seguridad de aprox -34.2 por ciento, y hasta en el escenario mas favorable a la diversificacion (automotriz-centro de datos exitosos) el resultado sigue siendo negativo (-22.8 por ciento). A diferencia de otros casos recientes del Dashboard con utilidad distorsionada por causas temporales (SNPS, ETN), aqui la perdida de ingresos de Apple es un evento estructural PERMANENTE ya confirmado y cuantificado por la propia empresa, por lo que no corresponde suavizar la recomendacion. El dividendo creciente y la recompra agresiva ofrecen cierto soporte, pero no alcanzan para justificar el precio actual bajo este marco de DCF.",
+    "tesis": "Qualcomm tiene un moat real en patentes celulares y esta diversificando de forma genuina hacia automotriz e IA de borde, pero enfrenta la perdida ya confirmada de su cliente historico Apple sin que la diversificacion tenga aun resultados reportados suficientes para compensarla a tiempo."
+  }
+}

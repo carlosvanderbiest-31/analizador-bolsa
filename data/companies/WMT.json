@@ -1,0 +1,259 @@
+{
+  "empresa": "Walmart Inc.",
+  "ticker": "WMT",
+  "sector": "Consumo Discrecional - Retail generalista de descuento (mercancia general), comercio electronico y publicidad",
+  "fecha_analisis": "2026-08-10",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "El retailer mas grande del mundo por ingresos (Walmart US, Sams Club, operaciones internacionales), en transformacion activa hacia un modelo multi-motor: comercio electronico (crecio 24% globalmente, ya 23% de las ventas netas, record), publicidad de alto margen (USD 6.4bn, +46% interanual, incl. VIZIO), y membresias (Walmart+, Sams Club). Ingresos TTM de USD 725.31bn.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de escala-logistica sin comparacion en el sector (el mayor retailer del mundo), ahora EXTENDIENDO ese moat hacia un negocio de publicidad-datos de alto margen que aprovecha su trafico masivo de clientes - una evolucion de moat mas avanzada y ya DEMOSTRADA (no solo aspiracional) que la de TGT.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider global indiscutido, GANANDO cuota de mercado (a diferencia de la perdida reciente de TGT), con momentum genuino y demostrado en multiples canales simultaneamente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios estructuralmente BAJO en el negocio minorista central por diseno (la propuesta de valor de \"precios bajos todos los dias\" limita explicitamente el margen sobre mercancia), aunque el negocio de publicidad (mas nuevo) SI tiene poder de precios real y creciente.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Excelente: 53 anios consecutivos de aumento de dividendo (Dividend King), pivote exitoso hacia comercio electronico-publicidad (a diferencia de los tropiezos de Target o el fracaso de JUUL en Altria), reinversion disciplinada financiando crecimiento genuino ya demostrado en resultados.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "GOBERNANZA EXCEPCIONAL: la familia Walton mantiene una participacion accionaria del 44.21% (Finviz) - la tenencia interna MAS ALTA de cualquier empresa analizada en TODO el Dashboard (el resto de las empresas de esta sesion tenian tenencias por debajo del 1%) - alineacion de largo plazo genuina y poderosa.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones comunes (a diferencia de otras empresas con fundadores dominantes que usan estructura de doble clase, la familia Walton mantiene control efectivo solo via tenencia, sin necesidad de clase especial de acciones).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin cargos de fraude encontrados en esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta a EBITDA aprox 1.39x (deuda neta USD 63.45bn, EBITDA TTM estimado aprox USD 45.5bn) - moderado. Calificacion crediticia AA (S&P) y Aa2 (Moodys) - la MEJOR de cualquier retailer analizado en este Dashboard (mejor que la A-A2 de TGT).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.77, prueba acida (quick ratio) apenas 0.23 - la MAS BAJA de esta sesion (incluso menor que el 0.30 de TGT), reflejo del inventario masivo tipico de la escala de Walmart, no necesariamente una senal de alarma dado el acceso irrestricto a mercados de capital.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion AA-Aa2, la mas alta de los retailers de este Dashboard. No verificado con precision el calendario completo de vencimientos en esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Enorme base de activos tangibles propios (bienes raices, centros de distribucion, infraestructura logistica), cada vez mas complementada por activos de datos-tecnologia del negocio de publicidad.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes ESTRUCTURALMENTE delgados en el negocio minorista central, similar a TGT: margen bruto 24.98%, margen operativo apenas 4.16%, margen neto 3.13%. La mezcla hacia publicidad-comercio electronico de mayor margen esta mejorando la trayectoria pero aun no se refleja de forma dominante en el margen consolidado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 25.53%, ROIC 15.01% (Finviz) - ambos solidos, muy por encima del costo de patrimonio propio adoptado (aprox 6.8%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos aprox 2.50x (ingresos TTM USD 725.31bn sobre activos totales USD 289.61bn) - la MAS ALTA de todo el Dashboard hasta ahora, incluso superior al 1.83x de TGT, reflejo de la eficiencia de escala extrema de Walmart.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 5 anios +4.99% (Finviz) - solido y genuinamente positivo, mejor que TGT (2.29%) e incluso mejor que CL (4.35%) o PG (2.72%), reflejo de momentum real y actual, no solo historico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Ciclicidad BAJA-MODERADA: a diferencia de TGT (mas expuesto a categorias discrecionales-de estilo), la propuesta de \"precios bajos todos los dias\" de Walmart es genuinamente CONTRACICLICA en parte (gana cuota cuando los consumidores buscan ahorrar en tiempos dificiles) - un perfil defensivo dentro del retail discrecional mas solido que el de TGT.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "El pipeline de crecimiento MEJOR DEMOSTRADO (no solo prometido) de los retailers de este Dashboard: comercio electronico ya creciendo 24%, publicidad ya creciendo 46% a USD 6.4bn, Sams Club integrandose mas profundamente al ecosistema publicitario - contraste directo con el turnaround aun-por-probarse de TGT.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF creciendo con fuerza (+14% en FY2026), sin distorsion relevante identificada; el FCF TTM cayo -7.11% interanual, pero por CAPEX ELEVADO deliberado (ver fila 37), no por deterioro del negocio subyacente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de OCF a FCF baja en el periodo actual (aprox 30.7%, FCF TTM USD 12.55bn sobre OCF USD 40.89bn) - reflejo directo del ciclo de capex intensivo en curso (ver fila 37), no de un problema de calidad de ganancias.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex en fuerte tendencia CRECIENTE: de USD 20.61bn (FY2024) a USD 26.64bn (FY2026) a USD 28.34bn (TTM), +37% en dos anios - financiando automatizacion, fulfillment de comercio electronico y modernizacion de cadena de suministro. Inversion de crecimiento genuina y deliberada, similar en espiritu al patron ya visto en COP-VST de \"invertir ahora, cosechar despues\", pero que comprime el FCF actual de forma real y significativa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "53 anios consecutivos de aumento de dividendo (Dividend King), balanceado con reinversion intensiva en las nuevas iniciativas de crecimiento - asignacion de capital disciplinada dado que el crecimiento financiado ya esta dando resultados medibles.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "GOTCHA DE VALORACION: P-E TTM de 39.37 a 39.69x, P-E adelantado de 34.41 a 37.57x - POR LEJOS el multiplo mas rico de cualquier empresa de consumo-retail analizada en TODO el Dashboard (TGT 19.78x, CL 36.8x TTM pero distorsionado, PG 22x). P-FCF de aprox 71.4x (usando el FCF TTM sin ajustar) es extraordinario para un retailer, mas tipico de una empresa de tecnologia de alto crecimiento.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "USD 85.01 por accion (Escenario A adoptado, con capex normalizado). Beta reportado (0.60) NO parece degenerado en el sentido tradicional del proyecto -no produce un WACC absurdamente bajo-, se uso con un ajuste minimo, dando Ke 6.8%. Se uso FCFE (payout ratio aprox 63%, zona intermedia) con una base de FCF NORMALIZADA: en vez del FCF TTM (USD 12.55bn, deprimido por el ciclo de capex actual, ver fila 37), se promedio con el FCF FY2026 (USD 14.92bn) para obtener USD 13.74bn, y ADEMAS se probo un escenario con capex revertido a niveles de FY2024 (manteniendo el OCF TTM), dando una base de FCF normalizada de aprox USD 20bn - el Escenario A adoptado usa esta base mas generosa. Crecimiento a 5 anios = 8% (moderado desde el 11.44% de EPS Next 5Y de Finviz, dado que el crecimiento de comercio electronico-publicidad ya esta demostrado en resultados, no es pura extrapolacion). Crecimiento terminal = 3% (mas alto que el 2.5% de TGT, reflejo de un negocio multi-motor mas diversificado y con mayor durabilidad de crecimiento).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "GOTCHA DE DIVERGENCIA EXTREMA CON EL CONSENSO: -24.54% (Escenario A, con capex normalizado) a -48.16% (Escenario B, FCF TTM sin ajustar, growth 8%) - incluso probando un growth agresivo de 15% en un chequeo adicional, el margen seguia siendo negativo (-30.17%). El consenso de 43 analistas (Buy, objetivo promedio USD 137.98 a 139.84, aprox +22.5% a +24.1% de alza) es DRAMATICAMENTE MAS OPTIMISTA que cualquier escenario de este DCF - la divergencia mas grande de toda la sesion, y en la direccion OPUESTA a la de HOOD-COIN (alli el DCF decia vender y el consenso decia comprar con una brecha similar; aqui es identico). Hipotesis mas probable: el mercado podria estar valorando el negocio de publicidad-comercio electronico con un multiplo de tipo tecnologico separado (enfoque de suma de partes) que un DCF consolidado y ponderado no captura bien, ademas de reflejar el momentum-sentimiento fuerte del ultimo ano (accion +42% en 12 meses). Documentado explicitamente como una limitacion del enfoque, no como evidencia de que el consenso este necesariamente equivocado.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM minorista global enorme, MAS un TAM de publicidad digital en expansion donde Walmart se esta consolidando como un competidor real y creible frente a Amazon-Google-Meta en medios minoristas (retail media) - un TAM genuinamente en crecimiento, no solo maduro.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: infraestructura de escala-logistica sin comparacion, reforzada cada vez mas por un moat de datos-publicidad dificil de replicar rapidamente por un competidor nuevo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Competencia real de Amazon-Costco-Target, pero la escala de Walmart le da un poder de negociacion excepcional sobre proveedores y una ventaja estructural de costos genuina.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad baja-moderada: el retail de descuento central es parcialmente CONTRACICLICO (se beneficia cuando los consumidores buscan ahorrar), aunque conserva cierta sensibilidad real al gasto del consumidor.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Exposicion regulatoria estandar de retail (practicas laborales, aranceles -misma exposicion que TGT-PG a la politica comercial actual-), SIN un patron de controversia politico-cultural autoinfligida recurrente como el detectado en TGT en esta misma sesion - un contraste positivo real.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo cambiario moderado por operaciones internacionales (Mexico, Centroamerica, y otras), aunque la gran mayoria de los ingresos siguen siendo domesticos de EEUU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Sin concentracion de cliente (mercado masivo); la escala de Walmart le da poder de negociacion real sobre proveedores (una fortaleza, no un riesgo, para esta empresa especificamente).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Walmart esta del lado CORRECTO de la disrupcion tecnologica del comercio electronico en este momento (contrarrestando exitosamente a Amazon en vez de ser disrumpido por el), un diferenciador genuinamente positivo frente a competidores que solo se defienden.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG-social estandar de gran retailer (escrutinio historico de practicas laborales, empaques-cadena de suministro), sin un hallazgo distintivo nuevo en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Continuacion de la escala del negocio de publicidad; integracion mas profunda de Sams Club al ecosistema publicitario; momentum de comercio electronico; resultados del proximo trimestre fiscal.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Tenencia interna del 44.21% (familia Walton) - la mas alta de todo el Dashboard por un margen enorme - transacciones de insiders practicamente neutras (-0.54%). Senal de alineacion excepcional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura muy amplia (43 analistas), consenso Buy fuerte, objetivo de precio promedio USD 137.98 a 139.84 (aprox +22.5% a +24.1% de alza) - la calificacion mas optimista de cualquier empresa de esta sesion, en CONTRADICCION DIRECTA con el resultado negativo de este DCF propio (ver gotcha de fila 42).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.6486486486486487,
+    "recomendacion": "MANTENER, NO ABRIR NUEVA POSICION - NEGOCIO EXCEPCIONAL PERO VALORACION MUY EXIGENTE, EN CONTRADICCION CON EL CONSENSO",
+    "tesis": "El mejor negocio de retail del Dashboard por lejos (escala sin igual, alineacion de la familia Walton al 44%, pivote a comercio electronico-publicidad ya demostrado en resultados, calificacion crediticia AA), pero cotizando a un P-FCF de mas de 70x que este DCF no logra justificar bajo ningun escenario razonable, en fuerte contradiccion con un consenso de analistas muy alcista - una tension real entre calidad de negocio excepcional y una valoracion que ya asume un exito sostenido y prolongado."
+  }
+}

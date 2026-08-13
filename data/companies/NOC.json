@@ -1,0 +1,259 @@
+{
+  "empresa": "Northrop Grumman Corporation",
+  "ticker": "NOC",
+  "sector": "Industriales - Defensa y Aeroespacial (Aerospace & Defense)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Contratista de defensa-aeroespacial con 4 segmentos: Aeronautics Systems (aviones de combate-bombarderos, incluido el B-21 Raider), Defense Systems, Mission Systems (guerra electronica, radares, sensores), y Space Systems (sistemas espaciales-satelites, incluido el programa Sentinel de reemplazo de ICBMs). Cliente predominante: el gobierno de EEUU (Departamento de Defensa).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Uno de los moats mas fuertes del Dashboard, de naturaleza regulatoria-de seguridad: habilitaciones de seguridad (security clearances) de decadas para personal-instalaciones, propiedad intelectual acumulada de programas clasificados de decadas, y posicion de contratista principal (prime) en programas insignia de generacion (B-21 Raider, Sentinel) que no pueden replicarse por un nuevo entrante sin decadas de historial-infraestructura de seguridad aprobada por el gobierno.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Uno de solo un punado de contratistas de defensa capaces de ejecutar programas del tamano-complejidad del B-21 Raider o Sentinel (oligopolio genuino junto a Lockheed Martin, RTX, General Dynamics, Boeing Defense) - backlog record de USD 105bn (~2.4x los ingresos anuales), visibilidad de ingresos multi-anio excepcional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios LIMITADO en contratos de precio fijo (fixed-price) de fases de desarrollo-produccion inicial - el propio programa B-21 demostro el riesgo opuesto (cargo pre-impuesto de USD 1.56bn en 4T2023 por sobrecostos de inflacion-mano de obra en los primeros lotes LRIP). Los contratos tipo costo-mas (cost-plus) protegen mejor el margen, pero la mezcla de tipos de contrato varia por programa.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Kathy Warden (desde ene-2019) - manejo transparente del cargo del B-21 en 2023, guia FY2026 elevada (ventas USD 43.75-44.25bn) tras un backlog record y resultados solidos en 2026.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap de defensa sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza corporativa recientes detectados, aunque opera bajo un entorno de supervision regulatoria-congresional intensa tipico del sector defensa (auditorias del DoD, restricciones de exportacion ITAR) - un contexto estructural del sector, no un problema especifico de la empresa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA de 2.29x (deuda total USD 16.29bn, caja USD 2.31bn, EBITDA TTM USD 6.12bn) - moderado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 1.17 - adecuada, no excepcional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade; calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance razonablemente limpio (Patrimonio USD 17.9bn, no distorsionado por patrimonio delgado como ITW ni por financiamiento cautivo como DE) - el ROE (26.96%) SI es una metrica informativa aqui, a diferencia de otros casos recientes de la sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes tipicos del sector defensa, solidos pero no excepcionales: bruto 20.06%, operativo 13.36%, neto 10.48% - notablemente mas bajos que otros Industriales de la sesion (UNP 39.87% operativo, ITW 26.75%), reflejo de la naturaleza intensiva en mano de obra especializada-costos de programa de la industria de defensa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 26.96% (informativo, patrimonio no distorsionado) y ROIC 15.02% - ambos solidos, por encima del WACC propio (7.06%, ver fila 41).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de un fabricante de defensa con instalaciones especializadas de gran escala (fabricas de compuestos furtivos, instalaciones espaciales).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios solido (4.14%, calculo propio FY2021-FY2025), impulsado por conversion genuina de backlog (programas B-21, Sentinel, Space Systems) mas que por M&A.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA: los INGRESOS son estables-crecientes, pero la UTILIDAD NETA mostro volatilidad real y significativa (de USD 7.0bn en FY2021 a solo USD 2.06bn en FY2023, por el cargo del B-21, recuperando a USD 4.2bn en FY2024-2025) - el riesgo de programa de contratos de precio fijo en fase de desarrollo-produccion inicial es un patron recurrente en la industria de defensa (no exclusivo de NOC) a monitorear en cualquier programa nuevo grande.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "GOTCHA-CATALIZADOR MAYOR: backlog record de USD 105bn (~2.4x ingresos anuales) impulsado por el B-21 Raider (bombardero furtivo, produccion en rampa), el programa Sentinel (reemplazo de ICBMs, uno de los programas de defensa mas grandes de la historia de EEUU, aunque con riesgo de sobrecostos ya evidenciado, ver fila 56), y crecimiento en Space Systems (sistemas de seguridad nacional espacial) - visibilidad de ingresos multi-anio excepcional para el sector.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias con ruido real por ajustes EAC (estimate-at-completion) de programas de precio fijo - el cargo del B-21 en 4T2023 es el ejemplo mas visible, un riesgo estructural recurrente de la industria de defensa a monitorear en cualquier programa de desarrollo temprano.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Buena y mejorando conversion de FCF (FCF Yield 4.44%, TTM USD 3.646bn de FCF, cerca del techo de la guia propia FY2026 de USD 3.1-3.5bn).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex moderado (TTM USD 1.43bn, ~3.34% de ventas) - refleja la intensidad de capital de instalaciones especializadas (manufactura de compuestos furtivos, instalaciones de sistemas espaciales).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital solido: dividendo con historial de crecimiento consistente (yield 1.72%, payout moderado 31.37%, deja espacio para reinversion), recompras de acciones activas, e inversion en infraestructura especifica de programa (ej. instalaciones relacionadas a Sentinel).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos razonables, no caros: P/E TTM 18.35x, forward 19.77x, EV/EBITDA 15.75x, P/FCF 22.52x - por debajo de otros Industriales de la sesion (ITW, UNP), reflejo tipico de multiplos mas bajos del sector defensa pese al backlog record, probablemente por el riesgo real de programa (precio fijo) ya evidenciado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA: beta LITERAL NEGATIVO (entre -0.11 y -0.26 segun la fuente, con multiples fuentes independientes confirmando el signo negativo-consistente, a diferencia de discrepancias de una sola fuente ya vistas en otros casos). Un beta negativo produciria un Ke por CAPM INFERIOR a la tasa libre de riesgo, matematicamente absurdo para el costo de capital de una empresa apalancada - inutilizable directamente. La causa es real y documentada (no solo ruido de datos): NOC tiene baja-nula correlacion con el mercado amplio (multiples fuentes coinciden en beta cercano a cero o negativo), reflejo de que el gasto de defensa esta impulsado por ciclos presupuestarios gubernamentales-geopoliticos en vez del ciclo economico general, y en ocasiones se comporta de forma contraciclica. Se sustituyo por un beta iterado de 0.75 hasta lograr que el multiplo terminal implicito (22.49x) converja con el P/FCF real de mercado (22.52x) - excelente convergencia. WACC resultante 7.06% (Ke CAPM 7.625% con beta sustituto 0.75; Rf 3.5%, ERP 5.5%; Kd post-impuesto ~4.19%; estructura de capital a valor de mercado: Equity USD 82.1bn, Deuda USD 16.29bn). FCF base = TTM real USD 3.646bn (cerca del techo de la guia propia FY26). Crecimiento 5 anios = 5% (anclado a la conversion del backlog record de USD 105bn); terminal 2.5%. Valor Intrinseco: USD 546.60/accion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -5.41% (precio actual USD 577.89 vs valor intrinseco USD 546.60) - levemente negativo, cerca de valor razonable. Consenso de ~23 analistas (Buy/Moderate Buy, objetivo promedio USD 643.28-676) diverge en direccion mas optimista (+11% a +17% de alza) - brecha similar en magnitud a la ya vista en UNP-DE, probablemente porque el consenso incorpora mas optimismo sobre la conversion del backlog record que este DCF conservador (crecimiento anclado al 5%).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en CRECIMIENTO estructural: presupuestos de defensa de EEUU y aliados (objetivos de gasto de la OTAN en aumento) en un contexto geopolitico de tensiones sostenidas - viento de cola estructural real, a diferencia del TAM mas maduro de otros Industriales de la sesion (ITW, DE).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada EXTREMAS: habilitaciones de seguridad de decadas, historial de ejecucion de programas clasificados, infraestructura-personal aprobados por el gobierno - solo un punado de empresas en el mundo pueden competir por programas del tamano del B-21 o Sentinel.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: oligopolio genuino de contratistas primos (NOC, Lockheed Martin, RTX, General Dynamics, Boeing Defense dominan), PERO el comprador (gobierno de EEUU) tiene poder de negociacion significativo tambien (monopsonio-like, fija terminos contractuales -precio fijo vs costo-mas-, y puede cancelar-recompetir programas) - una dinamica de poder de doble via poco comun en el resto del Dashboard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad ESTRUCTURALMENTE BAJA-CASI NULA respecto al ciclo economico general (beta negativo o cercano a cero confirmado por multiples fuentes, ver gotcha completo en fila 41) - el gasto de defensa esta impulsado por ciclos presupuestarios gubernamentales-geopoliticos, no por el PBI-consumo, y puede ser incluso contraciclico en algunos escenarios. Contraste directo con la ciclicidad genuina ya vista en UNP-DE dentro del mismo sector Industrial amplio.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio-politico real: dependencia del proceso presupuestario del Congreso de EEUU (riesgo de cierres de gobierno-resoluciones continuas que retrasan financiamiento), regulacion de control de exportaciones (ITAR), y supervision-auditoria intensa del DoD sobre costos de programa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria BAJA - ingresos predominantemente en USD del gobierno de EEUU, con algo de venta a aliados internacionales bajo programas de exportacion militar aprobados.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "GOTCHA: concentracion de cliente EXTREMA - el gobierno de EEUU (Departamento de Defensa) representa la gran mayoria de los ingresos. Riesgo estructural real (dependencia de un unico comprador con poder de negociacion-cancelacion), aunque mitigado por ser el comprador de menor riesgo de contraparte posible (respaldo soberano de EEUU, sin riesgo de credito-impago).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Liderazgo tecnologico genuino en tecnologia furtiva (stealth), sistemas espaciales de seguridad nacional, guerra electronica, y programas emergentes (hipersonicos, sistemas autonomos) - inversion en I+D constante para mantener la ventaja tecnologica que sustenta el moat de la fila 13.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "GOTCHA: riesgo ESG ESTRUCTURAL Y PERMANENTE - como fabricante de armamento, NOC esta sujeto a exclusion categorica de un numero significativo de fondos ESG-SRI (inversion socialmente responsable) por mandato, independientemente de sus practicas ambientales-sociales especificas. Categoria de riesgo similar en naturaleza (aunque de signo distinto en terminos de necesidad social) al ya documentado para tabaco (MO-PM) - una exclusion de base de inversores que no desaparece con mejoras de practicas corporativas.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: continuidad de la rampa de produccion del B-21 Raider y ejecucion temprana del programa Sentinel - el riesgo de sobrecostos ya evidenciado en el B-21 es un precedente directo a monitorear en Sentinel.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-RIESGO ESPECIFICO: el programa Sentinel (reemplazo de ICBMs, desarrollado por NOC) sufrio una brecha CRITICA de Nunn-McCurdy en ene-2024 (el mecanismo legal de EEUU para sobrecostos de programas de defensa) - el costo total del programa se reviso de USD 78bn (estimado original 2020) a USD 141bn (+81%), con al menos 2 anios de retraso. El Pentagono decidio en jul-2024 continuar el programa tras la revision, pero la reestructuracion seguia en curso a comienzos de 2026 (casi dos anios despues de la brecha). Riesgo real y ACTIVO a monitorear: aunque NOC ya demostro con el B-21 que puede absorber cargos grandes por sobrecostos en contratos de precio fijo, la escala de Sentinel (uno de los programas de defensa mas grandes de la historia de EEUU) implica que cualquier cargo adicional futuro podria ser proporcionalmente mucho mayor.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de ~23 analistas: calificacion Buy/Moderate Buy, objetivo promedio USD 643.28-676 (+11% a +17% de alza sobre el precio actual) - consenso claramente mas optimista que este DCF, en la misma direccion (aunque de magnitud distinta) que el resto de los casos Industriales de la sesion (UNP, DE).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.5945945945945947,
+    "recomendacion": "MANTENER - contratista de defensa de primer nivel con uno de los moats mas fuertes del Dashboard (habilitaciones de seguridad, posicion de prime en el B-21 Raider y Sentinel, backlog record de USD 105bn) pero con riesgo de programa real y ya materializado (cargo de USD 1.56bn en B-21, brecha Nunn-McCurdy de +81% en Sentinel), concentracion de cliente extrema (gobierno de EEUU) y exclusion ESG estructural; el DCF (con beta sustituido tras degeneracion del literal negativo) da un margen de seguridad levemente negativo (-5.41%), mientras el consenso de analistas es notablemente mas optimista (+11% a +17%)",
+    "tesis": "El contratista de defensa detras del B-21 Raider y el programa Sentinel, con un backlog record de USD 105bn y uno de los moats mas irreplicables del Dashboard, pero con riesgo de sobrecostos de programa ya materializado dos veces (B-21 y Sentinel) y un beta negativo que refleja su genuina desconexion del ciclo economico general."
+  }
+}

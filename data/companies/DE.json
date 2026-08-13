@@ -1,0 +1,259 @@
+{
+  "empresa": "Deere & Company",
+  "ticker": "DE",
+  "sector": "Industriales - Maquinaria Agricola y de Construccion (Farm & Heavy Construction Machinery)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Fabricante global lider de maquinaria agricola (segmentos Production & Precision Agriculture y Small Agriculture & Turf) y de construccion-forestal (Construction & Forestry), mas un brazo de financiamiento cautivo (Financial Services / John Deere Capital Corp) que financia la compra-arrendamiento de equipos a traves de la red de concesionarios. La presencia de Financial Services distorsiona significativamente las metricas consolidadas de balance (ver fila 22-29).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat historicamente fuerte de tres capas: marca centenaria (fundada en 1837), red de concesionarios extensa y dificil de replicar (barrera de distribucion-servicio), y un ecosistema de tecnologia de agricultura de precision (plataforma Operations Center, mas de 1 millon de maquinas conectadas) que genera costos de cambio genuinos. PERO parcialmente erosionado en 2026: acuerdo FTC de right-to-repair (jul-2026, ver fila 56) obliga a abrir herramientas-software de reparacion a proveedores independientes por 10 anios, debilitando el negocio de repuestos-servicio cautivo de altos margenes de los concesionarios.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion dominante en equipo agricola grande en Norteamerica; competencia real de CNH Industrial (Case IH-New Holland) y AGCO en agricola grande, Kubota fuerte en equipo compacto, CLAAS en Europa. En construccion, Caterpillar es el lider claro y Deere-Komatsu compiten por posiciones menores.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios demostrado con fuerza durante el supercicio 2021-2023 (ganancias de precio fueron motor central de margenes record); persiste en 2026 pero moderado tras el giro del ciclo - los agricultores son tomadores de precio en sus cosechas pero Deere retiene poder de precio en equipo por diferenciacion tecnologica.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO John C. May (desde 2019), impulsor de la estrategia \"Smart Industrial\" (transformacion tecnologica, agricultura de precision, tractores autonomos). Navego el actual valle ciclico defendiendo margenes muy por encima de valles ciclicos historicos de la empresa, y resolvio dos litigios mayores de right-to-repair en 2026 (ver fila 56) removiendo un overhang regulatorio significativo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders baja, tipica de una mega-cap sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Gobernanza con una mancha reciente pero ahora RESUELTA: acuerdo con la FTC y 5 estados (jul-2026) por practicas anticompetitivas de reparacion, mas liquidacion de USD 99 millones (abr-2026) en demanda colectiva privada de agricultores por las mismas restricciones - ver detalle en fila 56.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA consolidado ~4.88x (deuda total USD 63.82bn, caja USD 7.91bn, EBITDA TTM USD 11.45bn) - luce elevado, PERO esta masivamente distorsionado por la deuda de fondeo calzado (matched-funding) de Financial Services (financiamiento a concesionarios-clientes, respaldado por cuentas por cobrar de calidad). El apalancamiento REAL de Equipment Operations (el negocio industrial) es mucho menor, estimado en el orden de USD 8bn de deuda propia frente a un EBITDA operativo de varios miles de millones - similar en naturaleza a la distorsion ya vista en bancos-aseguradoras, pero aqui por un brazo de financiamiento cautivo de un industrial, no por el negocio financiero en si.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 2.18 (TTM) - saludable, sin seÃ±ales de tension de liquidez de corto plazo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade (historicamente A2-A3 de MoodyÂ´s); calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance consolidado con complejidad genuina (Activos Totales USD 107.0bn vs Patrimonio USD 27.4bn) impulsada por el brazo de financiamiento cautivo (cuentas por cobrar de financiamiento, equipo en arrendamiento operativo) - NO por goodwill de M&A grande, a diferencia de otros casos ya vistos en el Dashboard (WM-BLK). Requiere separar Equipment Operations de Financial Services para un analisis limpio (ver fila 41).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes solidos aunque comprimidos por el valle del ciclo actual: bruto 25.96%, operativo 19.29% (recalculado de Ingresos-Ingresos Operativos TTM, mas confiable que cifras de terceros con definiciones inconsistentes), neto 10.10% - buenos pero no en el nivel excepcional de UNP (ferrocarril).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 17.82% (TTM) solido. ROIC reportado varia fuertemente segun la fuente (5.93% a 9.43%) porque la consolidacion del brazo de financiamiento cautivo (activos de prestamo de bajo margen) diluye artificialmente el ROIC consolidado - el ROIC real de Equipment Operations es probablemente bastante mas alto. Se adopta ~8.50% como estimacion intermedia, con nota de la distorsion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja, distorsionada a la baja por el enorme balance de financiamiento cautivo (activos de prestamo no generan ventas directamente) - no es una seÃ±al de ineficiencia operativa real del negocio industrial.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios muy bajo (0.93%, calculo propio FY2021-FY2025) - FUERTEMENTE distorsionado por el pico de supercicio en FY2023 (USD 61.25bn) seguido de una caida a FY2025 (USD 45.68bn); NO refleja el crecimiento organico estructural real de la empresa, que es mayor cuando se mide a traves de un ciclo completo o vs. periodos pre-COVID.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento historicamente MUY ciclico: supercicio post-COVID (reposicion de flota + precios record de commodities) en FY2022-2023, seguido de un valle de dos anios (FY2024-2025) por normalizacion de inventarios de concesionarios y tasas de interes altas afectando financiamiento agricola. Guia FY2026 (ingreso neto USD 4.5-5.0bn, similar a FY2025) sugiere ESTABILIZACION del valle.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "GOTCHA-CATALIZADOR MAYOR (doble): (1) el valle ciclico parece estar tocando fondo segun la guia FY2026, con el Investor Day de dic-2025 reafirmando el objetivo estructural de 20% de margen operativo (OROS) a traves del ciclo para 2030 y USD 63bn en ventas (crecimiento impulsado por tecnologia-software, apuntando a 10% de ingresos de software-servicios para 2030); (2) resolucion en jul-2026 del overhang legal de right-to-repair (acuerdo FTC + liquidacion privada de USD 99M) remueve incertidumbre regulatoria pero impone un cambio estructural de largo plazo (apertura de herramientas de reparacion a independientes por 10 anios) que podria erosionar margenes de repuestos-servicio cautivos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias razonable pero con ruido en 2026 por cargos relacionados a las liquidaciones legales de right-to-repair (FTC + demanda colectiva de USD 99M); FCF consolidado ciclicamente deprimido en el valle actual por mayor capex-inversion en capital de trabajo del libro de financiamiento cautivo durante la recuperacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF debil en el momento actual (FCF Yield consolidado solo 2.29%, TTM), reflejo del valle ciclico de capex-capital de trabajo mas que una seÃ±al estructural negativa - la metrica que Deere mismo reporta y guia (\"Cash Flow from Equipment Operations\") es mas limpia y muestra una trayectoria de recuperacion (USD 5.1bn FY2025 vs USD 6.9bn FY2024 vs USD 10.0bn pico FY2023).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex consolidado TTM USD 4.17bn (~8.79% de ventas) - mezcla de capex de manufactura de Equipment Operations (en gran parte estrategico: autonomia, agricultura de precision) y adiciones de equipo en arrendamiento operativo de Financial Services (una categoria de \"capex\" especifica del negocio de financiamiento cautivo, no comparable directamente a un industrial puro).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital solido: dividendo USD 6.48/accion (yield ~1.05-1.10%), payout ratio moderado (~35-37%), historial largo de crecimiento de dividendo, recompras activas de acciones (nuevo programa de recompra aprobado en 2026) - aunque ahora con costos incrementales de cumplimiento regulatorio por el acuerdo right-to-repair.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos RICOS, tipico de una ciclica en el valle de ganancias: P/E TTM 34.52x, forward 30.76x, EV/EBITDA 19.44x, P/FCF 43.65x (muy elevado, refleja el FCF deprimido del valle del ciclo) - clasico patron de \"multiplos caros cuando la E esta en el valle\" para una ciclica genuina.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO CENTRAL: brazo de financiamiento cautivo (Financial Services) infla masivamente el balance consolidado (Activos Totales USD 107bn vs Patrimonio USD 27.4bn, Deuda USD 63.8bn) sin reflejar el apalancamiento real del negocio industrial - requiere metodologia de SUMA DE PARTES (similar a KKR). (1) Equipment Operations valorado por DCF FCFF propio usando \"Cash Flow from Equipment Operations\" (metrica que la propia Deere reporta-guia, ya excluye financiamiento de Financial Services) - FCF base NORMALIZADO a traves del ciclo (promedio FY2023-FY2025: USD 10.0bn pico-supercicio + USD 6.9bn + USD 5.1bn valle = USD 7.33bn, redondeado conservadoramente a USD 7.0bn dado que FY2023 fue un supercicio excepcional post-COVID poco repetible - mismo tipo de normalizacion cÃ­clica ya aplicado a ROE en TRV, pero aqui sobre el FCF base de un industrial genuinamente ciclico). Crecimiento 5% explicito 5 anios (recuperacion ciclica + mejora estructural hacia el objetivo 20% OROS 2030, moderado vs el objetivo propio de +10% anual en ventas para evitar optimismo excesivo); terminal 2.5%. WACC Equipment Operations 8.25% (Ke CAPM 8.45% con beta LITERAL 0.90 -chequeo de multiplo terminal implicito 17.83x vs EV/EBITDA real de mercado 19.44x, razonablemente cercano, beta NO degenerado, se usa EV/EBITDA en vez de P/FCF como referencia por estar el P/FCF consolidado distorsionado por el libro de financiamiento-; ponderado con la estructura de capital PROPIA de Equipment Operations, deuda estimada ~USD 8bn vs equity de mercado ~USD 164bn, NO la deuda consolidada de USD 63.8bn que es mayormente de Financial Services). EV Equipment Operations = USD 139.1bn, menos deuda neta EqOps ~USD 2bn = Equity value USD 137.1bn. (2) Financial Services valorado como institucion financiera cautiva via P/TBV (Gordon Growth sobre ROE): equity estimado ~USD 6.6bn (deuda FS estimada ~USD 56bn de los USD 63.8bn consolidados, a un ratio de apalancamiento tipico de financiamiento cautivo ~8.5:1), ROE ~13.5%, Ke 8.0%, g 2.5% -> P/TBV 2.0x -> Equity value USD 13.2bn. Valor Intrinseco TOTAL = (USD 137.1bn + USD 13.2bn) / 269.94M acciones = USD 556.79/accion. NOTA: la particion deuda-equity entre segmentos es una ESTIMACION razonada (Deere no divulga el split exacto), a diferencia de otros DCF de la sesion con datos mas limpios.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -8.61% (precio actual USD 609.28 vs valor intrinseco USD 556.79) - levemente negativo, cerca de valor razonable pero sin margen de seguridad. Consenso de ~22-24 analistas (Buy, objetivo promedio USD 643.90-666.72, +6% a +9% de alza) diverge en direccion mas optimista, aunque la brecha es menor que en otros casos de la sesion (ej. UNP tuvo ~29pp de brecha, aqui es ~15pp) - probablemente porque el consenso ya incorpora mas plenamente la recuperacion ciclica y la resolucion del overhang legal de right-to-repair, mientras este DCF normaliza el FCF de forma mas conservadora a traves del ciclo completo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y global: mercado de equipo agricola y de construccion-forestal, con vientos estructurales de seguridad alimentaria, agricultura de precision, e inversion en infraestructura global.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas (red de concesionarios extensa, marca, intensidad de capital, ecosistema tecnologico-datos) pero NO tan extremas-irreplicables como el derecho de via de un ferrocarril (UNP) - un competidor bien capitalizado SI podria en teoria construir una red de concesionarios rival con inversion suficiente, a diferencia de un ferrocarril nuevo que es esencialmente inconstruible.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: oligopolio-like en equipo agricola grande (Deere, CNH, AGCO dominan Norteamerica), mas fragmentado en equipo compacto (Kubota fuerte) y en construccion (Caterpillar domina, Deere-Komatsu compiten por posiciones menores); poder de negociacion de compradores limitado a nivel de agricultor individual pero mayor a nivel de concesionario-flota grande; amenaza de sustitutos baja (no hay alternativa real a maquinaria especializada).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad GENUINA y alta: ligada a ingresos agricolas, precios de commodities (soja, maiz, trigo), tasas de interes (afectan financiamiento de equipo), y gasto en construccion-infraestructura. Confirmado por un beta NO degenerado (0.90) - el mercado precia esta ciclicidad de forma razonablemente normal, similar en naturaleza (aunque no en magnitud extrema del moat) al caso de UNP dentro del mismo sector Industrial.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio REAL y recientemente muy activo: acuerdo FTC de jul-2026 (right-to-repair, compromiso de cumplimiento de 10 anios) + liquidacion privada de USD 99M (abr-2026); ademas riesgo de politica comercial-arancelaria (aranceles a insumos de acero-aluminio, y a exportaciones agricolas que afectan ingresos de los clientes agricultores) y regulacion de emisiones de motores (Tier 4-Stage V).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria MODERADA-significativa (mayor que UNP): ingresos internacionales relevantes en Europa y Sudamerica (Brasil es un mercado grande de equipo agricola para Deere), a diferencia del perfil casi puramente domestico de UNP.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes muy diversificada (miles de agricultores individuales, contratistas de construccion, empresas forestales) sin concentracion de cliente individual relevante, aunque con exposicion correlacionada al ciclo de ingresos agricolas-precios de commodities a nivel agregado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "La estrategia \"Smart Industrial\" y la plataforma Operations Center (agricultura de precision, mas de 1 millon de maquinas conectadas, ~500 millones de acres monitoreados con objetivo de 600 millones para 2030) son motores genuinos de diferenciacion tecnologica y eficiencia, incluyendo desarrollo de tractores autonomos - una fortaleza real y en expansion bajo el liderazgo de John May.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG moderado: motores compatibles con regulacion de emisiones (Tier 4-Stage V), plan de 20+ modelos electricos-hibridos para 2030; el capitulo de gobernanza de right-to-repair (ver fila 56) es tambien un tema de relacion con la comunidad agricola-social license to operate, ahora parcialmente mitigado tras los acuerdos de 2026.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "RIESGO LEGAL-REGULATORIO (nota especifica, no cubierta en otras filas): en ene-2025 la FTC y los estados de Arizona, Illinois, Michigan, Minnesota y Wisconsin demandaron a Deere alegando monopolizacion del mercado de reparacion de equipo agricola (restriccion de acceso a herramientas-software de diagnostico a proveedores independientes). Deere LLEGO A UN ACUERDO con la FTC-estados en jul-2026: debe otorgar a agricultores-reparadores independientes el mismo acceso a herramientas-software de reparacion que a concesionarios autorizados por 10 anios, pagar USD 1 millon en costos legales estatales, y someterse a supervision estricta de cumplimiento. Por separado, en abr-2026 Deere acordo pagar USD 99 millones para resolver una demanda colectiva privada de agricultores por las mismas restricciones. Ambos litigios estan ahora RESUELTOS (remueve incertidumbre), pero imponen un cambio estructural de largo plazo al negocio de repuestos-servicio cautivo de los concesionarios (historicamente una fuente de ingresos recurrentes de alto margen).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Consenso de ~22-24 analistas: calificacion Buy, precio objetivo promedio USD 643.90-666.72 (+6% a +9% de alza sobre el precio actual de USD 609.28) - diverge en direccion mas optimista que el escenario adoptado de este DCF, aunque con una brecha menor que en otros casos Industriales de la sesion (UNP).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": null,
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4054054054054053,
+    "recomendacion": "MANTENER - fabricante lider de maquinaria agricola-construccion con moat solido (marca, red de concesionarios, ecosistema de agricultura de precision) parcialmente erosionado por el acuerdo FTC de right-to-repair de 2026; el DCF de suma de partes (Equipment Operations por FCF normalizado a traves del ciclo + Financial Services por P/TBV) da un margen de seguridad levemente negativo (-8.61%), cerca de valor razonable pero sin margen, mientras el ciclo agricola parece estar tocando fondo y el overhang legal ya esta resuelto",
+    "tesis": "El fabricante de maquinaria agricola mas grande de EEUU, en el valle de un ciclo agricola que empieza a estabilizarse, con un brazo de financiamiento cautivo que complica la valoracion consolidada y un acuerdo reciente con la FTC que reconfigura estructuralmente su negocio de repuestos-servicio."
+  }
+}

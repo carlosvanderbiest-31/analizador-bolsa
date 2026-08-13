@@ -1,0 +1,259 @@
+{
+  "empresa": "Marvell Technology, Inc.",
+  "ticker": "MRVL",
+  "sector": "Tecnologia - Semiconductores (ASICs de IA a medida, redes, opticos)",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Diseno de semiconductores de infraestructura de datos: ASICs de IA a medida (custom silicon) para hiperescaladores, dispositivos de capa fisica Ethernet, DSPs, interconexion optica, ademas de segmentos heredados (redes empresariales, portadoras, consumo-automotriz). Ingresos TTM 8.72 mil millones USD (+34.1 por ciento).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat tecnico real: Marvell y Broadcom controlan en conjunto aprox 95 por ciento del mercado de co-diseno de ASICs para IA - un duopolio de facto respaldado por experiencia tecnica profunda y relaciones de confianza de largo plazo con hiperescaladores.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Solido numero DOS en co-diseno de ASICs de IA, detras de Broadcom (proyeccion de Counterpoint Research: Broadcom aprox 60 por ciento de cuota para 2027, Marvell aprox 25 por ciento). Negocio de silicio a medida con 1.5 mil millones USD de ingresos anualizados en 18 disenios ganados con proveedores de nube (Amazon Trainium, Microsoft Maia, un nuevo DPU de datos para Meta).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Ganancias de disenio con hiperescaladores mega (Amazon, Microsoft, Meta, participacion en la estrategia de chips de Google junto a otros tres socios) sugieren valor tecnico real entregado. Sin embargo, el FCF crecio apenas 0.5 por ciento interanual pese al salto de ingresos de 34.1 por ciento - una senial de que la presion de margen-precio o la reinversion pesada estan absorbiendo buena parte del crecimiento de ingresos.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Dividendo simbolico (0.24 USD por accion, rendimiento 0.11 por ciento), historial de M&A relevante en el pasado (Cavium, Inphi) - track record detallado de asignacion de capital no investigado a profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Alineacion de incentivos del equipo directivo no investigada con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de una sola clase de acciones comunes (sin doble clase de supervoto identificada), empresa publica desde el ano 2000.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion estandar de una empresa publica grande y madura, sin senales de alerta identificadas en esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Apalancamiento bajo y manejable: deuda total 4.34 mil millones USD, Deuda a EBITDA de 0.46x (GuruFocus) - saludable. Caja 948.3 millones USD, deuda neta aprox 3.39 mil millones USD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Caja disponible relativamente modesta (948.3 millones USD) para el tamanio de la empresa, aunque cuenta con una linea de credito revolvente sin usar y disponible hasta jun-2030 como respaldo adicional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Sin pared de vencimientos cercana identificada - la linea de credito revolvente de 2025 esta disponible y sin usar hasta jun-2030.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales 22.29 mil millones USD, pasivos totales 7.98 mil millones USD, patrimonio aprox 14.31 mil millones USD - probablemente incluye goodwill relevante de adquisiciones historicas (Cavium, Inphi), no desglosado con precision en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen neto solido (aprox 29 por ciento, utilidad neta 2.53bn USD sobre ingresos 8.72bn USD), pero margen de FCF mas modesto (aprox 19 por ciento) y ESTANCADO: el FCF crecio apenas 0.5 por ciento interanual pese al salto de ingresos de 34.1 por ciento - una desconexion real entre el crecimiento de la linea superior y la conversion de caja.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE aprox 17.7 por ciento (utilidad neta 2.53bn USD sobre patrimonio aprox 14.31bn USD) - decente pero no excepcional, y el spread real sobre el costo de capital es mas delgado de lo que parece a primera vista dado el WACC elevado (aprox 15.9 por ciento) que implica el beta alto de la empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "No analizado con profundidad en esta sesion (dato pendiente) - tipico de un disenador de semiconductores de rotacion de activos moderada.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento de ingresos entre los mas fuertes del Dashboard: TTM +34.1 por ciento, impulsado por la demanda de silicio a medida para IA.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA A VIGILAR: la desconexion entre el crecimiento explosivo de ingresos (+34.1 por ciento) y el crecimiento casi plano de FCF (+0.5 por ciento interanual) es una senial real de calidad de crecimiento cuestionable - el ingreso esta creciendo mucho mas rapido de lo que se traduce en caja disponible para el accionista, ya sea por presion de margen, inversion pesada en I mas D-capacidad, o una combinacion de ambos.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Disenios de silicio a medida reales y diversificados: Amazon (Trainium), Microsoft (Maia), Meta (nuevo DPU de datos), participacion en la estrategia de chips de Google. Proyeccion propia de hasta 11 mil millones de USD en ingresos de ASICs de IA para 2026 - cifra ASPIRACIONAL que contrasta fuertemente con el ritmo anualizado actual de 1.5 mil millones USD, tratar con escepticismo real hasta confirmarse, mismo criterio de cautela ya aplicado a proyecciones propias de la empresa en otras fichas del Dashboard (ej. RPO de ORCL, backlog de CRWV).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "No se identificaron distorsiones puntuales obvias en la utilidad neta esta sesion, pero la desconexion entre el crecimiento de ingresos y el crecimiento de FCF (ver fila 32) es en si misma una senial de calidad de crecimiento a vigilar, independientemente de que la utilidad neta reportada luzca limpia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM (hasta abr-2026) 1.662 mil millones USD, margen aprox 19 por ciento sobre ingresos - solido en terminos absolutos pero ESTANCADO en terminos de crecimiento (FY2026 completo fue 1.40bn USD, +0.5 por ciento interanual) pese al boom de ingresos por IA - contraste notable con el resto de nombres de semiconductores de IA del Dashboard.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Modelo de diseno de semiconductores (probablemente fabless, subcontrata manufactura a TSMC u otras foundries como es tipico en la industria) - relativamente ligero en activos fijos, no verificado con precision en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo simbolico, historial de M&A relevante en el pasado (Cavium, Inphi) - uso del capital no analizado con mayor profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P sobre E TTM 74.92x (adelantado 47.76x), P sobre FCF implicito aprox 114x (market cap 190.28bn USD sobre FCF TTM 1.662bn USD) - entre las valoraciones mas exigentes de todo el Dashboard, superando incluso a CRWD en algunos calculos. Consenso de analistas \"Strong Buy\" (43 analistas), objetivo promedio 256.91 USD (+18.25 por ciento desde 217.27 USD) - notablemente alcista pese a la valoracion ya estirada.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio, escenario adoptado: FCF base TTM 1.662 mil millones USD (limpio pero con crecimiento estancado, ver fila 36). Crecimiento con fade de 20 a 10 por ciento en 5 anios (deliberadamente MAS MODERADO que el 34.1 por ciento de crecimiento de ingresos actual, precisamente por la desconexion documentada entre ingresos y FCF de la fila 32 - no hay evidencia de que el FCF vaya a crecer al mismo ritmo que los ingresos). WACC 15.9 por ciento (CAPM literal: Beta 2.25, muy alto, reflejo de la volatilidad extrema del sector de semiconductores de IA en 2026 -rango de 52 semanas de 61.44 a 329.88 USD-; sin prima adicional porque el beta ya captura un nivel de riesgo elevado, mismo criterio ya aplicado a INTC). Terminal 4 por ciento. Deuda neta usada en el puente: aprox 3.39bn USD. Valor Intrinseco resultante: aprox 21.33 USD por accion.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: aprox -90.2 por ciento (precio actual 217.27 USD vs IV 21.33 USD) - una de las lecturas de sobrevaloracion mas extremas de todo el Dashboard, incluso mas severa que INTC (-86.5 por ciento). Sensibilidad B (crecimiento muy agresivo, fade 35 a 13 por ciento, acercandose al ritmo de ingresos actual, no adoptado): IV aprox 30.58 USD, MS -85.9 por ciento - la conclusion sigue siendo extremadamente negativa incluso en el escenario mas favorable. El consenso \"Strong Buy\" de analistas (objetivo +18.25 por ciento) esta muy lejos de validar ese nivel de sobrevaloracion, mismo patron ya documentado con CRWD e INTC: el precio de mercado parece descontar una decada o mas de crecimiento sostenido del negocio de ASICs de IA, no solo el horizonte de 5 anios de este DCF estandar. La desconexion entre el crecimiento de ingresos y el crecimiento de FCF (fila 32) anade una capa adicional de cautela especifica de MRVL: incluso si el crecimiento de ingresos se sostiene, no hay garantia de que se traduzca en FCF proporcional para el accionista.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en fuerte expansion: los envios de servidores de IA basados en ASIC se proyectan a crecer 44.6 por ciento interanual en 2026, casi el triple del 16.1 por ciento proyectado para GPUs de proposito general - viento de cola estructural real para el modelo de negocio de silicio a medida.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras altas: el co-diseno de ASICs de IA requiere experiencia tecnica profunda y relaciones de confianza de largo plazo con hiperescaladores - el control conjunto de aprox 95 por ciento del mercado entre Marvell y Broadcom refleja barreras reales, no solo escala.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Poder de comprador alto (clientes hiperescaladores mega como Amazon-Microsoft-Meta podrian eventualmente disenar mas capacidad internamente o concentrar mas negocio en Broadcom). Poder de proveedor moderado (dependencia de capacidad de foundries como TSMC, tipico de disenadores fabless). Rivalidad alta especificamente contra Broadcom, el jugador dominante. Amenaza de sustitutos moderada (GPUs de proposito general de NVIDIA siguen siendo la alternativa).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad tipica de la industria de semiconductores, aunque actualmente enmascarada por un viento de cola secular fuerte de demanda de IA.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio moderado: consideraciones de control de exportacion de semiconductores tipicas de toda la industria, sin problema agudo especifico identificado en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria relevante por operaciones internacionales tipicas de una empresa global de semiconductores.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion probable en un puniado de clientes hiperescaladores mega (Amazon, Microsoft, Meta) pese a los \"18 disenios ganados\" - la concentracion en dolares probablemente sigue pesada hacia unos pocos clientes muy grandes, no cuantificada con precision en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo real de que los hiperescaladores concentren mas negocio futuro en Broadcom (el jugador dominante) o desarrollen mas capacidad de diseno de chips internamente, reduciendo la necesidad de un socio externo como Marvell.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Sin controversia ESG especifica identificada en esta sesion mas alla de consideraciones estandar de la industria de semiconductores.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados del 2T ano fiscal 2027 el 27-ago-2026 (aprox 3 semanas despues de este analisis) - evento clave para confirmar si la tendencia de FCF estancado (fila 32) persiste pese al crecimiento de ingresos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura amplia (43 analistas), calificacion de consenso \"Strong Buy\", objetivo promedio 256.91 USD (+18.25 por ciento desde el precio actual) - notablemente alcista, aunque muy lejos de validar el resultado de este DCF propio (ver fila 42).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.054054054054054,
+    "recomendacion": "NO COMPRAR - VALORACION EXTREMA",
+    "tesis": "Solido numero dos en el duopolio de co-diseno de ASICs de IA (junto a Broadcom), con ganancias de disenio reales en Amazon, Microsoft y Meta y un crecimiento de ingresos entre los mas fuertes del Dashboard (+34.1 por ciento), pero cotizando a multiplos extraordinariamente exigentes (P sobre FCF implicito aprox 114x) y con una senial de calidad de crecimiento a vigilar de cerca: el FCF crecio apenas 0.5 por ciento pese al boom de ingresos, sugiriendo que buena parte del crecimiento todavia no se traduce en caja para el accionista."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "The Coca-Cola Company",
+  "ticker": "KO",
+  "sector": "Consumo Basico - Bebidas (Beverage)",
+  "fecha_analisis": "46240",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Modelo asset-light: vende concentrado y jarabe a embotelladores independientes (Coca-Cola FEMSA, Coca-Cola Europacific Partners, Coca-Cola Consolidated), no es dueÃ±a de la mayoria de las plantas de embotellado. Portfolio diversificado mas alla de Coca-Cola clasica: Sprite, Fanta, Dasani, Costa Coffee, Fairlife, BodyArmor, Topo Chico, Powerade, Minute Maid.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Marca mas valiosa del mundo en su categoria, red de distribucion global insuperable, sistema de embotellado franquiciado que reduce la intensidad de capital de KO. Uno de los moats mas fuertes y probados de cualquier empresa de consumo del mundo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Lider global indiscutido frente a PepsiCo y Keurig Dr Pepper, con volumen creciendo con fuerza en mercados emergentes (India, China, Brasil, +8 por ciento en 2T26) mientras se estabiliza en mercados desarrollados.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios alto, historicamente demostrado, aunque con iniciativas de asequibilidad recientes en Asia-Pacifico (price-mix -9 por ciento en 2T26 pese a volumen +8 por ciento) que reflejan gestion activa del balance volumen-precio.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Dividend King con 64 anios consecutivos de aumentos (ultimo +4 por ciento a 2.12 dolares anual, feb-2026). Pago puntual de 6.1 mil millones de dolares por la contraprestacion contingente de la adquisicion de Fairlife en 1T2025 (bien ejecutado, aunque distorsiono el FCF reportado de ese anio). Recompras moderadas (solo 0.4 mil millones de dolares netos en FY2025, mucho mas conservador que otras mega-caps de este Dashboard).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO James Quincey desde 2017, buen historial de ejecucion. Berkshire Hathaway mantiene 400 millones de acciones (aprox 11.56 por ciento del portfolio de BRK) desde hace decadas, sin cambios recientes - una de las posiciones de inversionista de largo plazo mas emblematicas del mercado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin control familiar ni doble clase.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guidance detallado y actualizado con frecuencia (elevado dos veces en 2026), buen desglose de volumen por region y por marca, comunicacion proactiva sobre el incidente de ransomware de Fairlife.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta a EBITDA 1.71x (mejorando desde 2.71x en FY2024), Debt a EBITDA 2.74x. Rating credicticio muy alto: S&P A mas (afirmado oct-2025), Moody's A1.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.30x (consistente entre fuentes), prueba acida 0.80x a 1.12x segun fuente (discrepancia de metodologia) - liquidez razonable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Rating muy alto y estable (S&P A mas, Moody's A1), sin senales de estres de refinanciamiento.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Impairment de 960 millones de dolares en la marca BodyArmor en 4T2025 - senal de que no todas las adquisiciones recientes de KO han funcionado tan bien como Fairlife o Costa Coffee.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM 61.95 por ciento, margen operativo 31.93 por ciento (afectado por el impairment de BodyArmor en la base GAAP), margen neto 28.56 por ciento (recalculado, utilidad neta TTM 14316 millones sobre ingresos TTM 50129 millones) - margenes excepcionalmente altos y estables, mejorando ademas (margen operativo comparable de 35.6 por ciento en 2T26).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE TTM 39.68 a 44.23 por ciento segun fuente, INFLADO por patrimonio contable bajo tras decadas de recompras historicas (mismo patron ya visto en NVDA-LLY-AAPL). Se prefiere ROIC (18.91 a 19.57 por ciento segun fuente) como metrica mas confiable, muy por encima del WACC propio ajustado (aprox 7.51 por ciento), senal de creacion de valor solida y sostenida.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos 0.46x (Revenue TTM 50129 millones sobre Activos totales 107922 millones) - moderada, tipica de una empresa de bienes de consumo con marca fuerte que opera un modelo asset-light de concentrado, no vende volumen fisico directo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 4 anios aprox 5.5 por ciento (de 38655 millones en FY2021 a 47941 millones en FY2025), consistente con la guia organica de aprox 5 por ciento para FY2026 (elevada dos veces este anio) - crecimiento de base amplia, sin distorsion de un supercycle puntual.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Muy estable, sin anios de caida en el periodo, aunque el volumen unit case fue plano en FY2025 (0 por ciento) antes de acelerar a +5 por ciento en 2T2026 liderado por mercados emergentes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Coca-Cola Zero Sugar (+14 por ciento FY2025, +16 por ciento en 2T2026), expansion de Fairlife y Costa Coffee, pricing power en mercados emergentes (India, China, Brasil).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM 16342 millones de dolares por encima de la utilidad neta TTM de 14316 millones - buena calidad de ganancias.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "GOTCHA DE DATOS: el FCF FY2025 reportado (5296 millones de dolares) estuvo fuertemente deprimido por un pago unico de 6.1 mil millones de dolares por la contraprestacion contingente de la adquisicion de Fairlife (2020) en 1T2025; excluyendo ese pago, el FCF FY2025 normalizado fue de 11400 millones (cifra propia de la empresa). El FCF TTM (14297 millones, OCF 16342 menos capex 2045) YA ESTA LIMPIO de esa distorsion porque el pago cayo fuera de la ventana TTM actual - se uso directamente como base del DCF sin necesidad de ajuste adicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex TTM 2045 millones de dolares, muy bajo en relacion a los ingresos (aprox 4 por ciento de ventas) - consistente con el modelo asset-light de KO, el capex de embotellado lo asumen los bottlers independientes.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividend King con 64 anios consecutivos de aumentos, recompras moderadas y conservadoras, inversion disciplinada en M&A estrategico (Fairlife, Costa Coffee) con al menos un traspie reciente (impairment de BodyArmor).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P a E TTM 26.08x a 26.10x, EV a EBITDA 25.27x, P a FCF 26.13x, PEG 2.98x a 3.45x - multiplos altos para una empresa de consumo basico madura, aunque no tan extremos como Costco (P a FCF cerca de 47.5x) o los nombres de IA de este Dashboard.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA CONFIRMADO POR TERCERA VEZ, AHORA FUERA DEL SECTOR TELECOM (mismo patron que VZ y T): el beta reportado de KO (0.34 a 0.35, Finviz-stockanalysis, consistente y confiable, decadas de historial) es demasiado bajo para sostener un DCF FCFF de perpetuidad de Gordon literal (WACC blended literal aprox 5.19 por ciento, multiplo terminal implicito de aprox 87x, casi 3.5 veces el multiplo de mercado real de aprox 27.9x EV a FCF - degenerado). CONFIRMA que este gotcha no es exclusivo de telecoms reguladas, aplica a cualquier empresa defensiva de bajisima volatilidad. A diferencia de SNDK-anclado-a-MU o JNJ-anclado-a-LLY, NO habia un comparable de consumo basico-bebidas ya analizado en este Dashboard para anclar el beta desapalancado sustituto, asi que se ITERO: un primer intento con beta desapalancado 0.60 (generico defensivo) dio un multiplo terminal implicito de 38.4x, todavia por encima del mercado; un segundo intento con beta desapalancado 0.75 (mas tipico de la industria de bebidas segun tablas sectoriales tipo Damodaran) dio beta relevered 0.817, costo de equity 7.99 por ciento, WACC 7.51 por ciento, y un multiplo terminal implicito de 29.6x - MUY cercano al multiplo de mercado real (27.9x) Y al resultado de margen de seguridad quedo tambien muy cerca del consenso de analistas independiente (ver fila 42), dos chequeos cruzados independientes convergiendo, evidencia de calibracion razonable. Valor Intrinseco (DCF propio, Escenario A adoptado): 96.90 dolares por accion (FCF base TTM 14297 millones, limpio; crecimiento con fade decreciente de 6 por ciento a 4 por ciento en 5 anios, anclado en el CAGR historico y la guia organica reciente; terminal 4 por ciento; equity value = EV menos deuda neta 27172 millones sobre 4300 millones de acciones).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad +11.96 por ciento (precio actual 86.55 dolares vs 96.90 dolares del DCF) - banda de Mantener o esperar mejor punto de entrada, MUY BIEN CROSS-VALIDADO contra el consenso de analistas independiente (24 analistas, Buy, objetivo promedio 94.70 a 96.24 dolares, +9 a +11 por ciento de alza) - misma direccion y magnitud similar, buena senal de calibracion razonable del beta sustituto. Escenario con el beta literal reportado (0.345, no adoptado): resultado degenerado (EV implicito de mas de 1.3 billones de dolares, casi 3.5 veces el EV real de mercado), descartado como evidencia adicional de que el beta reportado no es usable de forma literal.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de bebidas enorme y maduro en desarrollados, con mas espacio de crecimiento en mercados emergentes (India, China, Brasil, Africa).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: escala de distribucion global, poder de marca, relaciones de decadas con embotelladores - dificil de replicar para cualquier nuevo entrante.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta pero estable (duopolio de facto con PepsiCo desde hace un siglo). Poder de proveedores moderado (embotelladores independientes tienen algo de apalancamiento, costos de aluminio-azucar volatiles). Poder de clientes moderado. Amenaza de sustitutos moderada (bebidas funcionales, agua, tendencias de salud-GLP-1). Barreras de entrada muy altas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad muy baja, consumo basico global no discrecional - el beta reportado extremadamente bajo (0.34 a 0.35, Finviz-stockanalysis, consistente) lo confirma, uno de los mas bajos de cualquier empresa de este Dashboard.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Litigio fiscal con el IRS por precios de transferencia, con un monto en disputa estimado de aprox 20 mil millones de dolares (fallo de la Corte de Apelaciones del 11 Circuito pendiente tras argumentos orales de jun-2026) - riesgo de cola material aun no resuelto; impuestos a bebidas azucaradas en multiples jurisdicciones; aranceles de aluminio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo de tipo de cambio alto, negocio muy internacional - el tipo de cambio resto 8 puntos al EPS GAAP y 2 puntos a los ingresos netos en FY2025.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Cierta concentracion en embotelladores grandes (FEMSA, CCEP, Consolidated) como socios clave de distribucion, aunque diversificados geograficamente entre si; sin concentracion de clientes finales.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Incidente de ransomware en Fairlife (jul-2026) causo suspension temporal de produccion en EEUU - impacto financiero total aun no cuantificado a la fecha de este analisis. Riesgo estructural de tendencias de salud-GLP-1 reduciendo el consumo de calorias, aunque la propia empresa dice no verlo como un headwind significativo todavia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Impuestos y regulaciones de salud publica sobre bebidas azucaradas en multiples jurisdicciones; impairment de 960 millones de dolares en BodyArmor senala riesgo de ejecucion de M&A.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados de 3T26 pendientes. Fallo pendiente de la Corte de Apelaciones del 11 Circuito sobre el litigio fiscal con el IRS. Cuantificacion del impacto financiero del incidente de ransomware en Fairlife. Desinversion pendiente de Coca-Cola Beverages Africa (esperada H2 2026).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Sin transacciones puntuales relevantes de insiders identificadas en esta investigacion; posicion estructural estable de Berkshire Hathaway (400 millones de acciones, sin cambios).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "24 analistas (12 strong buy, 7 buy, 4 hold, 1 sell), consenso Buy, objetivo promedio 94.70 a 96.24 dolares, +9 a +11 por ciento de alza - consistente en direccion con el resultado del DCF propio.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.864864864864865,
+    "recomendacion": "MANTENER - ESPERAR MEJOR PUNTO DE ENTRADA (margen de seguridad +11.96 por ciento, muy bien cross-validado contra el consenso de analistas +9 a +11 por ciento; score 3.86 de 5, empatado con MSFT como uno de los mas altos del Dashboard, por moat excepcional, margenes altisimos y Dividend King, penalizado por valoracion algo exigente, riesgo cambiario y el litigio fiscal con el IRS)",
+    "tesis": "Dividend King con el moat de marca de consumo mas fuerte del mundo, margenes excepcionales y crecimiento de base amplia sin distorsion de ciclo, cotizando a un multiplo razonable dentro de su propio historial; el beta reportado extremadamente bajo (0.34-0.35) hace inutilizable un DCF FCFF literal, asi que se calibro un beta sustituto iterando hasta que el multiplo terminal implicito y el margen de seguridad convergieran con el mercado y el consenso de analistas."
+  }
+}

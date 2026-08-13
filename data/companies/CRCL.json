@@ -1,0 +1,259 @@
+{
+  "empresa": "Circle Internet Group Inc",
+  "ticker": "CRCL",
+  "sector": "Servicios Financieros - Mercados de Capital (emisor de stablecoin regulado, USDC)",
+  "fecha_analisis": "46238",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Ingresos casi enteramente de una sola fuente: ingreso de reservas (interes ganado sobre las reservas en efectivo y bonos del Tesoro de corto plazo que respaldan USDC), 2637 de 2747 millones USD de ingresos totales en 2025 (96%). Ingresos por otros conceptos (Circle Payments Network, servicios empresariales) son marginales (110 millones USD). Modelo de negocio de baja diversificacion, altamente dependiente del nivel de tasas de interes y del tamano de la circulacion de USDC.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat regulatorio en construccion, cada vez mas solido: licencias de fideicomiso (trust charter) de Nueva York (NYDFS, otorgada julio 2026) sumadas a un potencial charter de banco fiduciario nacional crean un perfil regulatorio que otros emisores de stablecoin no igualan facilmente. La Ley GENIUS (firmada julio 2025) formaliza un marco regulatorio federal que favorece a emisores ya cumplidos como Circle. Pero el moat de producto es debil: USDC compite directo con Tether (USDT, lider global) y ahora enfrenta un consorcio de peso pesado (Stripe, Visa, BlackRock y mas de 140 empresas) lanzando un stablecoin rival (Open USD) tras la Ley GENIUS.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "USDC es el segundo stablecoin mas grande del mundo con aprox 28 a 30% de cuota de mercado, muy por detras de Tether (USDT) como lider. Tether esta lanzando su propio token cumplidor de GENIUS (USAT) especificamente para competir en EEUU, y el consorcio Stripe-Visa-BlackRock-Open USD anadiria un competidor con distribucion y capital masivos. La circulacion de USDC sigue creciendo (75.2 mil millones USD promedio en Q1 2026, +28% interanual), pero la competencia se intensifica justo cuando el marco regulatorio se aclaro.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Bajo: el ingreso de Circle es esencialmente la tasa de retorno de las reservas (Reserve Return Rate, 3.5% en Q1 2026) menos lo que comparte con socios de distribucion - no es un precio que Circle fije unilateralmente, sino un spread que depende de tasas de mercado y de la negociacion con socios como Coinbase.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Historial corto (IPO en junio 2025, recaudo 583 millones USD netos). Sin dividendos ni recompras. Ha invertido en adquisiciones estrategicas (mas de 680 familias de patentes de blockchain de IBM) y en construir infraestructura propia (Circle Payments Network, avance hacia ser una cadena propia). Mantiene una posicion de caja neta solida (aprox 1.48 mil millones USD) con deuda minima.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "El cofundador Jeremy Allaire sigue como Chairman y CEO desde 2013; propiedad de insiders de aprox 25.08% segun Finviz, la mas alta de las empresas analizadas en este Dashboard hasta ahora. Ventas de acciones de Allaire bajo un plan 10b5-1 preestablecido (aprox 2 millones de acciones netas vendidas en 18 meses) - relativamente modestas en el contexto y bajo un plan planificado, menos alarmante que las senales vistas en HOOD u OKLO.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura de doble clase de acciones (Clase A y Clase B), con la Clase B concentrando el control de voto en fundadores e inversionistas tempranos - mismo patron de riesgo de gobernanza que META, HOOD y COIN.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Reporta Adjusted EBITDA y metricas operativas clave (circulacion de USDC, tasa de retorno de reservas, cuota de mercado) cada trimestre. Historial muy corto como empresa publica (IPO junio 2025, poco mas de un anio de reportes) limita la evaluacion de consistencia de largo plazo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda practicamente nula (aprox 37 millones USD sobre 3.43 mil millones USD de patrimonio, Deuda a Patrimonio de 0.00 segun Finviz) vs. caja de 1.52 mil millones USD: POSICION DE CAJA NETA de aprox 1.48 mil millones USD, equivalente a aprox -2.4x el Adjusted EBITDA TTM (aprox 610 millones USD). Balance financiado casi enteramente con equity.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente de 1.03x segun Finviz - ajustada pero adecuada, aunque hay que interpretarla con cautela: el balance de Circle esta dominado por las reservas de USDC (activos corrientes de aprox 79.6 mil millones USD que respaldan un pasivo casi identico de USDC en circulacion), no por capital de trabajo operativo propio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Deuda minima y de corto plazo (aprox 37 millones USD), sin una estructura de vencimientos relevante que analizar. No es un riesgo material para la empresa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos totales de 80.5 mil millones USD, pero mas del 98% son las reservas que respaldan USDC (efectivo y bonos del Tesoro de corto plazo en fideicomiso para los tenedores de USDC), no activos propios de Circle en el sentido economico tradicional - son un pasivo compensado, no una fuente de valor para los accionistas mas alla del interes que generan. Los activos propios reales de Circle (patrimonio de 3.43 mil millones USD) son una fraccion pequena del balance total.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM aprox 39% (2025), estable frente a 2024. Margen operativo TTM negativo (aprox -4.63% segun Finviz) y margen neto TTM negativo (-2.76%), pero ambos fuertemente distorsionados por cargos no recurrentes de la salida a bolsa de 2025 (424 millones USD de compensacion en acciones por condiciones de consolidacion disparadas por el IPO, mas 167 millones USD de ajuste de valor razonable de deuda convertible) que todavia estan dentro de la ventana TTM. El margen de Adjusted EBITDA TTM (aprox 21%, sobre ingresos TTM de 2862 millones USD) es mucho mas representativo del negocio recurrente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "DuPont TTM: con margen neto negativo (-2.76%), rotacion de activos de solo 0.0355x y apalancamiento financiero de 23.49x (Activos entre Patrimonio), el ROE recalculado da aprox -2.30%, similar al ROIC de Finviz (-2.30%). Estos numeros de rotacion y apalancamiento NO son comparables con una empresa operativa tradicional: reflejan que el balance esta dominado por reservas de USDC que son un pasivo compensado (ver fila 25), no apalancamiento financiero real. El DuPont tradicional pierde significado economico en este tipo de negocio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "No es un indicador significativo para Circle: la rotacion de activos de 0.0355x (la mas baja de las empresas de este Dashboard) refleja que el balance esta inflado por las reservas de USDC (aprox 78 mil millones de dolares), no por activos operativos propios. Comparar esta cifra con NVDA o VST no tiene sentido economico.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Historial corto (IPO junio 2025): ingresos crecieron de 1450 millones USD en 2023 a 1676 millones USD en 2024 a 2747 millones USD en 2025 (CAGR de 2 anios de aprox 37.6%), impulsados por el crecimiento de la circulacion de USDC (28% interanual en Q1 2026) parcialmente compensado por la caida de las tasas de retorno de reservas. No hay un CAGR de 5 anios disponible por lo corto del historial publico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Adjusted EBITDA creciendo de forma consistente y acelerada (582 millones USD en 2025, +104% interanual; TTM de aprox 610 millones USD hacia Q1 2026), a diferencia de la utilidad neta GAAP que fue fuertemente negativa en 2025 por cargos no recurrentes del IPO. El crecimiento subyacente del negocio (circulacion de USDC) es mas consistente que en HOOD o COIN, pero sigue siendo sensible a decisiones de tasas de interes de la Reserva Federal fuera del control de Circle.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Crecimiento de la circulacion de USDC (75 a 79 mil millones USD y subiendo), expansion de EURC (stablecoin de euros regulado bajo MiCA), Circle Payments Network (liquidacion de pagos transfronterizos entre instituciones financieras), nuevo trust charter de Nueva York que profundiza el moat regulatorio, adquisicion de patentes de blockchain de IBM, y potencial de convertirse en infraestructura para comercio agentico de IA segun declaraciones del CEO.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Fuerte divergencia en 2025: perdida neta GAAP (TTM de -79.06 millones USD) explicada casi enteramente por cargos no recurrentes de la salida a bolsa (424 millones USD de compensacion en acciones por vesting disparado por el IPO, 167 millones USD de ajuste de valor razonable de deuda convertible), mientras el Adjusted EBITDA fue solidamente positivo y creciente (582 millones USD en 2025, 151 millones USD en Q1 2026 solamente). Es un caso similar al de VST y COIN: la utilidad neta GAAP de un periodo no refleja la capacidad de generar caja del negocio recurrente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM reportado de aprox 490.69 millones USD (stockanalysis) sobre un Adjusted EBITDA TTM de aprox 610 millones USD: conversion razonable de aprox 80%, consistente con un negocio de plataforma liviano en capital fisico. Este FCF, a diferencia del de HOOD o COIN, no parece estar distorsionado por swings extremos de partidas de balance de clientes en el mismo grado, aunque el historial es corto para confirmarlo con solidez.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex minimo, no desglosado de forma prominente en los estados financieros - negocio de infraestructura de software y cumplimiento regulatorio, no de activos fisicos. La inversion real de crecimiento es en tecnologia (Circle Payments Network, avance hacia cadena propia), adquisiciones de propiedad intelectual (patentes de IBM) y licencias regulatorias (trust charter de Nueva York).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Sin dividendos ni recompras; capital recaudado en el IPO (583 millones USD netos) y generado por el negocio se esta usando para expansion de producto e infraestructura regulatoria. Mantiene una posicion de caja neta conservadora. Apropiado para una empresa recien publica en fase de establecer su posicion competitiva frente a nuevos entrantes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E no aplica por la perdida TTM (distorsionada por cargos no recurrentes del IPO, ver fila 35). EV a EBITDA tampoco esta disponible de forma estandar (stockanalysis lo marca como no aplicable); usando el Adjusted EBITDA TTM (aprox 610 millones USD) contra el Enterprise Value (14.33 mil millones USD) da un multiplo aproximado de 23.5x, elevado pero no descabellado para un negocio de alto crecimiento con moat regulatorio. P/FCF de 32.27x segun stockanalysis. Sin comparables de sector cargados en la fila de multiplos - pendiente y dificil dado que Tether no cotiza en bolsa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "DCF propio con una advertencia metodologica importante sobre el beta. El beta 5 anios reportado de Circle no es confiable: Finviz da 0.23 y stockanalysis lo marca como no disponible, ambos reflejo del historial de cotizacion muy corto (IPO junio 2025, poco mas de un anio de datos). Usar el 0.23 literal da un costo de equity de solo 4.77% y un WACC casi identico (deuda casi nula); con ese WACC tan bajo, casi igual al crecimiento terminal de 4%, el valor terminal del DCF se vuelve matematicamente degenerado (explota a un Enterprise Value de casi 100 mil millones USD, muy por encima de cualquier valoracion razonable) - esto es evidencia objetiva, no solo un juicio subjetivo, de que ese beta no refleja el riesgo real del negocio. En su lugar se uso un beta sustituto razonado de 1.8 (entre negocios financieros mas estables y exchanges cripto de alta beta como HOOD 2.32 o COIN 3.36 de este mismo Dashboard, dado que el ingreso de Circle es mas parecido a un fondo del mercado monetario sensible a tasas que a un exchange de trading, pero con historial de cotizacion muy corto y una caida de 62% desde su maximo de 52 semanas que sugiere riesgo real elevado). Costo de equity = 3.5% mas 1.8 por 5.5% = 13.4%; WACC practicamente igual dado el peso de deuda casi nulo (deuda de 37 millones USD vs. equity de mercado de 15.74 mil millones USD). FCF base: Adjusted EBITDA TTM (aprox 610 millones USD, suma de Q2 2025 126, Q3 2025 166, Q4 2025 167 y Q1 2026 151) ajustado por una tasa de impuesto de 21% (aprox 482 millones USD neto), no la utilidad neta TTM (-79.06 millones USD, distorsionada por los cargos no recurrentes del IPO). Crecimiento 5 anios = consenso de analistas de EPS a 3 anios (13.25%, stockanalysis); terminal 4%. Resultado: Enterprise Value aprox 7.70 mil millones USD, mas caja neta de aprox 1.48 mil millones USD, Valor de Equity aprox 9.18 mil millones USD, Valor por accion = 9.18 mil millones dividido entre 248.58 millones de acciones = 36.91 USD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Con precio actual de 63.32 USD (stockanalysis, 4 de agosto de 2026) vs. valor intrinseco de 36.91 USD, el margen de seguridad es de -41.7% - negativo y por debajo del piso de -20% de la banda de vender y reducir de este framework, aunque menos extremo que HOOD (-64.0%) o COIN (-73.1%). Contraste: precio objetivo promedio de analistas entre 111.54 y 113.72 USD (consenso Comprar), pero con dispersion extrema el mismo dia (Morgan Stanley bajo su calificacion citando preocupaciones de crecimiento de USDC con objetivo de 38 USD, mientras TD Cowen inicio cobertura en Compra con objetivo de 82 USD) - esa dispersion tan amplia confirma la incertidumbre fundamental sobre como valorar esta empresa.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en expansion estructural: adopcion de stablecoins como riel de pagos, tokenizacion de activos, y ahora un marco regulatorio federal claro (Ley GENIUS) que legitima la categoria completa ante instituciones financieras tradicionales. Pero el TAM tambien esta atrayendo competidores de gran escala (Tether, y el consorcio Stripe-Visa-BlackRock), por lo que el TAM grande no garantiza que Circle capture una porcion creciente de el.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Moderadas y en aumento: la Ley GENIUS establece una licencia federal para emisores de stablecoin de pago con reservas 100% respaldadas, elevando el estandar de cumplimiento para nuevos entrantes. El trust charter de Nueva York de Circle profundiza esa barrera. Pero el capital y la distribucion (no la tecnologia) son ahora la barrera real, y el consorcio Stripe-Visa-BlackRock tiene ambos en abundancia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad muy alta y en intensificacion (Tether con mayor cuota global y lanzando USAT cumplidor de GENIUS, PayPal PYUSD, JPMorgan con depositos onchain, y el nuevo consorcio Stripe-Visa-BlackRock con Open USD); poder de negociacion de los socios de distribucion muy alto (Coinbase recibe la mayor porcion de los costos de distribucion, 407 millones USD en 2025); poder de proveedores bajo; amenaza de sustitutos alta (otros stablecoins, depositos tokenizados bancarios); barreras de entrada moderadas pero subiendo por regulacion. Entorno competitivo que se intensifica justo cuando el negocio se vuelve mas grande.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad ligada principalmente a la politica de tasas de interes de la Reserva Federal (el ingreso de reservas depende directamente de la tasa de retorno de las reservas) mas que al ciclo especulativo de precios de las criptomonedas como en COIN o HOOD - un tipo de ciclicidad diferente, mas parecido a un fondo del mercado monetario que a un exchange de trading.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio en mejora estructural gracias a la Ley GENIUS (firmada julio 2025), que da a Circle un marco regulatorio federal claro y favorece a emisores ya cumplidos. El nuevo trust charter de Nueva York (julio 2026) profundiza esto. Persiste riesgo de cambios futuros en la implementacion de la ley o en la supervision de la Oficina del Contralor de la Moneda.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Moderado: EURC (stablecoin de euros) introduce exposicion cambiaria genuina, aunque estructurada como reservas 1 a 1 en euros bajo regulacion MiCA. El negocio principal (USDC) es en dolares, exposicion cambiaria limitada en la operacion base.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Concentracion relevante en la relacion de distribucion con Coinbase, que recibe la mayor porcion de los costos de distribucion (407 millones USD en 2025) a cambio de distribuir USDC - una dependencia estrategica de un solo socio clave. Sin concentracion de clientes finales (la circulacion de USDC esta distribuida entre millones de usuarios y miles de instituciones).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Moderado: riesgo de seguridad de la infraestructura blockchain y de custodia de las reservas, mas el riesgo de que competidores tecnologicamente mas agiles (el consorcio Stripe-Visa-BlackRock, o Tether con mayor escala) capturen cuota de mercado. El movimiento de Circle hacia operar su propia cadena de bloques anade complejidad regulatoria y de ejecucion nueva.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Baja relevancia directa; los stablecoins respaldados por reservas de efectivo y bonos del Tesoro no comparten el problema de consumo energetico de blockchains proof-of-work. El principal tema de gobernanza es la estructura de doble clase de acciones.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Reporte de resultados del segundo trimestre de 2026 programado para el 5 de agosto de 2026 (al dia siguiente de este analisis); evolucion de la circulacion de USDC y de la tasa de retorno de reservas; avance de Tether USAT y del consorcio Stripe-Visa-BlackRock Open USD como competidores nuevos; implementacion continua de la Ley GENIUS.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "El CEO Jeremy Allaire ha vendido acciones bajo un plan 10b5-1 preestablecido (aprox 2 millones de acciones netas en 18 meses, incluyendo ventas recientes de magnitud modesta como 203619 USD el 6 de julio de 2026) - ventas planificadas y relativamente moderadas, una senal menos alarmante que las vistas en HOOD u OKLO.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura muy dividida: Morgan Stanley bajo su calificacion citando preocupaciones de crecimiento de USDC, con precio objetivo de 38 USD, mientras TD Cowen inicio cobertura con calificacion de Compra y precio objetivo de 82 USD, el mismo dia. Precio objetivo promedio de 111.54 a 113.72 USD (consenso Comprar), pero con estimados siendo recortados recientemente por varios analistas ante la presion competitiva de nuevos stablecoins. Esta dispersion tan amplia (38 a 113 USD) es similar a la vista en OKLO y confirma la incertidumbre fundamental sobre como valorar esta empresa.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3,
+    "recomendacion": "NO COMPRAR - VALORACION EXIGENTE Y COMPETENCIA EN AUMENTO",
+    "tesis": "Circle es el emisor de USDC con el moat regulatorio mas profundo del sector (Ley GENIUS, trust charter de Nueva York) y un negocio subyacente (Adjusted EBITDA) creciendo con fuerza, pero su beta de mercado no es confiable por su corto historial como empresa publica, su ingreso depende casi enteramente de tasas de interes fuera de su control, y enfrenta una ola de competidores de gran escala (Tether USAT, consorcio Stripe-Visa-BlackRock) justo cuando el marco regulatorio se volvio favorable para todos por igual."
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "empresa": "Booking Holdings Inc.",
+  "ticker": "BKNG",
+  "sector": "Consumo Discrecional / Servicios de Viaje (Agencia de Viajes Online)",
+  "fecha_analisis": "2026-08-12",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Agencia de viajes online multimarca lider global: Booking.com (alojamiento, la marca ancla), Priceline, Agoda (fuerte en Asia-Pacifico), Kayak (metabuscador), Rentalcars.com, OpenTable (reservas de restaurantes) - la cartera de marcas mas diversificada geografica y funcionalmente del sector OTA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de escala de red global (el mayor inventario de alojamiento del mundo via Booking.com), margenes estructuralmente superiores al resto del sector (~35% operativo vs 16.64% de EXPE, comparable directo ya analizado en la sesion), eficiencia de marketing (gasta menos en marketing como % de ingresos que Expedia).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "LIDER global de facto en agencias de viaje online (Booking.com domina fuera de EEUU, cuota de mercado ~21.3% segun estimaciones recientes), \"ampliamente visto como el lider de mercado, con Expedia como un distante segundo\" segun la investigacion ya hecha para EXPE en esta misma sesion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Fuerte, reflejado directamente en el margen operativo estructuralmente superior a cualquier otro competidor del sector OTA del Dashboard.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Recompras de acciones extraordinariamente agresivas y sostenidas (Treasury Stock acumulado de -USD 62.1bn) financiando el patrimonio negativo, ROIC excepcional (91.13%, de los mas altos de cualquier empresa del Dashboard) confirma la efectividad del despliegue de capital, calificacion crediticia mejorada a A- por S&P.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insider ownership muy bajo (0.22%). CEO Glenn Fogel con patron de venta consistente (30 ventas vs 0 compras en el ultimo ano, todas via plan 10b5-1 programado) - sin senal de compra, tipico de un ejecutivo de mega-cap madura.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones, sin estructura de control dual ni voto diferenciado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guia de crecimiento de EBITDA ajustado detallada (\"digito alto\" para 2026), reportes trimestrales consistentes con desglose por marca-geografia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda neta modesta (~USD 3.48bn, deuda total USD 20.69bn vs caja USD 17.21bn) sobre un EBITDA TTM robusto (~USD 10.4bn) - Net Debt/EBITDA ~0.33x, apalancamiento bajo en relacion al tamano del negocio, calificacion crediticia A- (S&P), de las mas solidas del cluster reciente del Dashboard. Deuda/Patrimonio NO CALCULABLE: patrimonio TTM NEGATIVO (-USD 10.78bn, deteriorando desde -USD 5.58bn en FY2025) - QUINTO caso del Dashboard con patrimonio negativo (tras ABBV-AZO-YUM-MCD), causa clasica de recompras masivas (Treasury Stock -USD 62.1bn) sobre un negocio de ROIC excepcional, mismo patron que AZO-MCD.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.09, prueba acida 1.09 (identicas) - saludable, notablemente mejor que el resto del cluster de viajes-cruceros de la sesion (EXPE 0.80, RCL 0.18).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Grado de inversion solido (S&P A-, mejorado recientemente) - una de las calificaciones crediticias mas fuertes del cluster reciente del Dashboard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill+intangibles USD 3.52bn sobre activos totales de USD 29.68bn (11.9%) - moderado-bajo, balance relativamente limpio pese a decadas de M&A (Priceline, Kayak, OpenTable, Agoda).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto 97.47% (extremadamente alto, tipico de un modelo de agencia pura sin costos de inventario), margen operativo 35.17% (el MAS ALTO de cualquier OTA del Dashboard, muy por encima del 16.64% de EXPE), margen neto 25.53% - perfil de margenes de clase mundial.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE no informativo (patrimonio negativo). ROIC 91.13% - de los MAS ALTOS de cualquier empresa del Dashboard, superando incluso al 63.45% de YUM, vs WACC propio 9.79% - spread extraordinario. ROA 23.88%.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de Activos = 0.951x (Ingresos TTM USD 28.24bn / Activos totales USD 29.68bn), alta para una empresa de servicios digitales, refleja el balance ligero.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.67
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de Ingresos 5y de 31.69% (Finviz) y EPS Past 5Y +158.57% ambos FUERTEMENTE DISTORSIONADOS por el colapso de -55% de ingresos en 2020 (utilidad neta colapso de USD 4.8bn en 2019 a apenas USD 59M en 2020) - tercera confirmacion consecutiva de distorsion COVID severa en el cluster de viajes de la sesion (tras EXPE -57%, RCL -80%), no usado para el DCF.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Recuperacion post-COVID notablemente MAS SUAVE Y CONSISTENTE que EXPE o RCL (utilidad neta USD 1.1bn en 2021, USD 3bn en 2022, USD 4.3bn en 2023, trayectoria de recuperacion gradual sin saltos abruptos), FCF creciendo de forma estable y creible (no el salto sospechoso de +123% interanual visto en EXPE).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Guia de crecimiento de EBITDA ajustado de un digito alto para 2026, expansion continua de Agoda en Asia-Pacifico, integracion de IA en busqueda-personalizacion de viajes (potencialmente una ventaja competitiva dado el tamano-datos de Booking, no solo una amenaza).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM USD 9.86bn vs utilidad neta TTM USD 7.21bn - brecha moderada y normal (1.37x), notablemente MAS SANA que la de EXPE (2.56x) - sin la misma senal de alerta de float de capital de trabajo desproporcionado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM USD 9.54bn, en tendencia de crecimiento SOSTENIDA Y CREIBLE (desde USD 6.19bn en FY2022, CAGR implicito ~13% anual, sin el salto sospechoso de EXPE), margen FCF ~34% consistente ano tras ano.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex extremadamente bajo, apenas USD 320-429M anuales (~1.1-1.5% de ingresos), modelo de negocio digital-asset-light sin necesidad de flota, inmuebles o inventario fisico significativo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Recompras extraordinariamente agresivas (Treasury Stock -USD 62.1bn acumulado) combinadas con un dividendo reciente y creciente (yield ~0.73-0.80%, payout bajo ~23%) - modelo de asignacion de capital similar en filosofia al de AZO pero sobre un negocio aun mas rentable.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 23.25-23.53x, Forward P/E 16.97-19.11x (normal, mas bajo que el trailing), P/FCF 16.56x (notablemente MAS ALTO y \"normal\" que el 8.56x sospechosamente bajo de EXPE, sin la misma senal de alerta de FCF Yield anomalo) - multiplos moderados-ricos pero coherentes internamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Escenario A (adoptado, growth 9% anclado en la guia propia de EBITDA ajustado \"digito alto\" para 2026, beta sustituto 1.20+prima 0.5pp -ajuste modesto dado un gap de convergencia inicial moderado de 1.32x, no extremo-): USD 277.5/accion, MS +32.0%. Escenario B (sensibilidad conservadora, growth 6%, no adoptado): USD 243.9/accion, MS +16.0% - ambos escenarios positivos, convergencia de beta razonablemente limpia (gap final ~1.09x) sin la fragilidad de FCF ya documentada con EXPE (comparable directo analizado 2 empresas antes en esta misma sesion).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "+32.0% (Escenario A adoptado, precio actual USD 210.17 vs valor intrinseco USD 277.5) - positivo, en la MISMA direccion que el consenso de analistas (a diferencia de HOOD-COIN-SNDK-AZO-RCL donde la divergencia es opuesta), aunque de magnitud mayor.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Mercado global de viajes online enorme, Booking ya con la penetracion mas profunda del sector OTA a nivel internacional, TAM incremental via expansion de Agoda en Asia-Pacifico y crecimiento organico de la industria de viajes global.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Altas: efecto de red (el mayor inventario de alojamiento del mundo), escala de datos-tecnologia-marketing, dificil de replicar la eficiencia operativa ya demostrada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta pero Booking en posicion de fuerza relativa (Expedia \"distante segundo\", Airbnb compitiendo en un nicho distinto de alojamientos alternativos), poder de proveedores (hoteles) moderado-alto, poder de compradores del consumidor final alto, amenaza de sustitutos moderada (herramientas de IA de busqueda de viajes, mismo riesgo emergente ya documentado con EXPE), barreras de entrada altas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Altamente ciclica (demanda de viajes discrecionales), ya demostrado por el colapso severo de 2020, aunque con una recuperacion historicamente mas suave y consistente que EXPE o RCL.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Moderado: riesgo de regulacion de plataformas digitales-comparadores de precios en multiples jurisdicciones (Booking tiene mayor exposicion regulatoria europea dada su base en Amsterdam y dominancia de mercado alli), riesgo de politica de viajes-visas internacional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real y significativa dado el alcance verdaderamente global del negocio (fuerte presencia europea-asiatica via Agoda), la mas alta exposicion cambiaria relativa del cluster de viajes de la sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes masivamente diversificada, dependencia de terceros proveedores de alojamiento-transporte (hoteles, aerolineas) que podrian favorecer canales de reserva directa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Mismo riesgo estructural emergente ya documentado con EXPE (herramientas de busqueda de viajes con IA generativa), aunque Booking podria estar mejor posicionada para adaptarse dado su escala de datos-tecnologia superior.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo relativo al resto del Dashboard, sin litigios activos severos identificados en esta investigacion (aunque el riesgo regulatorio europeo de competencia-antitrust merece monitoreo dado el tamano dominante de Booking.com en Europa).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Continuidad de la guia de crecimiento de EBITDA ajustado \"digito alto\" para 2026; expansion de Agoda en Asia-Pacifico; proximo reporte trimestral; evolucion de la competencia de herramientas de IA en busqueda de viajes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Patron de venta consistente del CEO Fogel (30 ventas vs 0 compras en el ultimo ano, todas via plan 10b5-1 programado) - sin senal de compra, consistente con el patron ya visto en el resto del cluster de viajes-restaurantes de la sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso positivo (Buy, 38 analistas, objetivo promedio USD 237.81-238.30, +13.15% a +13.4% de alza) - en la MISMA direccion que este DCF (+32.0%), aunque de magnitud menor - patron mas sano de convergencia direccional que el ya visto con EXPE.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.8378378378378377,
+    "recomendacion": "COMPRAR",
+    "tesis": "Booking Holdings es el lider indiscutido de la industria OTA con los mejores margenes del sector (35.17% operativo vs 16.64% de EXPE), un FCF creciendo de forma sostenida y creible (a diferencia del salto sospechoso de EXPE), y un DCF positivo y razonablemente convergente (+32.0%) alineado en direccion con el consenso de analistas - COMPRAR."
+  }
+}

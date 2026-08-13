@@ -1,0 +1,259 @@
+{
+  "empresa": "S&P Global Inc.",
+  "ticker": "SPGI",
+  "sector": "Financiero - Datos, Analitica y Calificacion Crediticia",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Cuatro segmentos tras el spin-off de Mobility (1-jul-2026): Ratings (calificaciones crediticias, ~46% de ingresos, mixto suscripcion mas transaccional ligado a emision de deuda), Market Intelligence (datos-analitica por suscripcion, +6% Q2 2026), S&P Dow Jones Indices (licenciamiento de indices, AUM ETF record USD 6.35 billones, +20% Q2 2026), Commodity Insights/Energy (ex-Platts, precios de referencia de commodities, +3% Q2 2026). Ingresos recurrentes por suscripcion dominan, pero Ratings tiene un componente transaccional genuinamente ciclico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat multiple y superpuesto: regulatorio (status NRSRO en Ratings, barrera casi infranqueable), de marca-benchmark (el S&P 500 es EL indice de referencia global, primer ETF en superar USD 1 billon de AUM), de switching costs (datos de Market Intelligence integrados en flujos de trabajo institucionales), y de escala-estandar de industria (Platts como precio de referencia de commodities). Uno de los moats mas solidos y diversificados del Dashboard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Duopolio con Moodys en Ratings (SPGI ~50% cuota global, Moodys ~40%, juntas ~80-90% del mercado). Lider indiscutido en indices via S&P Dow Jones Indices. Todos los segmentos crecieron en Q2 2026 (Ratings +17%, Indices +20%, Market Intelligence +6%, Energy +3%) - posicion competitiva reforzandose, no erosionandose.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios muy alto: modelo issuer-pays en Ratings sin alternativa real para el emisor, aumentos de precio sostenidos en suscripciones de datos, comisiones transaccionales escalan con el tamano de la emision de deuda sin resistencia visible de clientes.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Fusion con IHS Markit (2022, ~USD 44bn, all-stock) transformo la empresa de un negocio centrado en Ratings a la plataforma diversificada actual - estrategicamente exitosa en escala aunque elevo el apalancamiento. Spin-off de Mobility (jul-2026) como poda disciplinada de portafolio, liberando valor de un segmento de menor margen-crecimiento. Buybacks agresivos y crecientes (USD 7bn guiados para 2026, financiados en parte con el dividendo en especie de la separacion de Mobility mas nueva deuda).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Participacion accionaria de insiders baja (0.26%, tipico de una mega-cap sin fundador-control activo) - no hay una senal fuerte de skin-in-the-game via tenencia directa; la compensacion ejecutiva de largo plazo no se verifico en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes, sin doble clase ni control familiar-fundador dominante. Propiedad institucional muy alta (89.85%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados. Antecedente historico relevante para toda la industria de ratings: acuerdo CIVIL de USD 1.375bn con el Departamento de Justicia de EEUU en 2015 por calificaciones de CDOs previas a la crisis de 2008 (sin admision de culpabilidad penal, mismo tipo de precedente civil-no-penal ya documentado con AMAT-SNPS) - historico, no una senal de conducta actual, pero relevante como riesgo estructural del modelo issuer-pays.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta/EBITDA estimado ~1.36x (deuda total USD 15.17bn al 30-jun-2026, caja USD 4.14bn, EBITDA TTM estimado ~USD 8.1bn incluyendo amortizacion de intangibles de la fusion IHS Markit) - apalancamiento moderado, grado de inversion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.95 (Finviz) - por debajo de 1, pero tipico y no preocupante en un negocio de suscripcion con ingresos diferidos relevantes en el pasivo corriente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Emisiones recientes de notas senior escalonadas (USD 600M a 2031 al 4.250%, USD 400M a 2035 al 4.800%, dic-2025) sugieren estructura de vencimientos diversificada - no se verifico el calendario completo en esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Balance dominado por goodwill e intangibles heredados de la fusion IHS Markit de 2022 (activos totales ~USD 62.9bn, mayoria no tangible) - tipico de un roll-up de datos-analitica financiado con M&A, refleja el origen inorganico de gran parte de la escala actual.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto ~63.4% (base consolidada, Finviz). Margen operativo y neto en base RECAST de continuing operations (excluyendo Mobility) notablemente MAS ALTOS que la base consolidada previa al spin-off: operativo ~49.5% (vs ~44.4% consolidado) y neto ~33.5% (vs ~30.5% consolidado) - la empresa que queda es de mayor margen que el conglomerado anterior, consistente con haber desinvertido el segmento de menor margen (Mobility).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 15.17%, ROIC 11.05% (Finviz, base consolidada pre-spin) - ROIC comodamente por encima del WACC propio (8.67%), creacion de valor genuina. Cifras deberian mejorar en el reporte de Q3 2026 (primer trimestre con balance ya recast sin los activos-patrimonio de Mobility).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja (~0.26x, base consolidada) - artefacto normal de un balance dominado por goodwill-intangibles de M&A en un negocio genuinamente asset-light en terminos de caja operativa. Ciclo de conversion de efectivo poco relevante (sin inventario, cuentas por cobrar mayormente de clientes institucionales de bajo riesgo de credito).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios reportado de 15.56% (Finviz) esta INFLADO por la fusion con IHS Markit (feb-2022, salto inorganico de escala) - no es crecimiento organico puro. Crecimiento organico guiado para 2026 es mas moderado: 6-8% en moneda constante, con Indices acelerando fuerte (12-14% guiado) y Ratings mas moderado (5-8% guiado).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Perfil de crecimiento mixto: la base de suscripcion (Market Intelligence, Indices, gran parte de Commodity Insights) es muy estable y predecible, pero el componente transaccional de Ratings (comisiones ligadas al volumen de emision de bonos) es genuinamente ciclico y sensible al ciclo de tasas de interes y actividad de M&A-refinanciamiento corporativo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Multiples motores de crecimiento futuro: adopcion de IA en productos de datos-analitica (mencionado como motor de crecimiento en la llamada de resultados Q2 2026), expansion del mercado de credito privado (ratings de deuda privada como frontera nueva para Ratings), crecimiento continuo de AUM pasivo-ETF (record USD 6.35 billones), desarrollo de mercados de deuda en economias emergentes.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo consistente y sin distorsiones contables mayores detectadas (a diferencia de los gotchas de mark-to-market ya vistos en VST-COIN-NEE de este Dashboard) - negocio de datos-analitica con reconocimiento de ingresos por suscripcion relativamente limpio. OCF TTM consolidado USD 5.73bn vs utilidad neta TTM USD 4.92bn, buena calidad de ganancias.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conversion de FCF muy alta: margen FCF ~35% sobre ingresos (base consolidada TTM), capex minimo (~1% de ventas) - conversion EBITDA a FCF excelente, tipica de un negocio de datos-analitica genuinamente asset-light.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex casi enteramente de mantenimiento-tecnologia (infraestructura de datos, nube) - sin el patron de capex de crecimiento pesado que distorsiona el FCF en sectores industriales de este Dashboard (contraste directo con APD-ECL-LIN). Capex TTM ~USD 150-195M sobre ingresos de mas de USD 14-16bn.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital balanceado: recompras muy agresivas y crecientes (USD 7bn guiados para 2026, mas del 5% del market cap, financiadas en parte con el dividendo en especie recibido de Mobility mas nueva deuda), dividendo modesto pero creciente (payout ~26%), M&A selectivo tras la gran integracion de IHS Markit. Sin senales de sobreextension financiera detectadas.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos exigentes en terminos absolutos: P/E TTM ~25.0x (forward ~20.3-21.7x), P/FCF ~21.8x (base consolidada) a ~23.3x (base recast continuing operations, mas cara al excluir el FCF de Mobility), EV/EBITDA estimado ~16.3x - caros frente al promedio historico propio, parcialmente justificados por la aceleracion de margenes y crecimiento post-spin.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor Intrinseco (DCF propio, Escenario A adoptado): USD 430.16/accion (WACC 8.67% via CAPM: beta 1.06 LITERAL, sin necesidad de sustituto -primer caso limpio de este tipo en el Dashboard Financiero-; Rf 3.5%, ERP 5.5%; costo de deuda post-impuestos ~3.42%, deuda al 11.1% del capital). FCF base = ~USD 5.2bn, ESTIMADO para continuing operations FY2026 (gotcha del spin-off de Mobility, ver Notas). Crecimiento 5 anios = 8% (anclado al growth organico guiado de ingresos, NO al growth de EPS ajustado guiado de 10-12% que esta inflado por el programa de recompras agresivo, mismo criterio ya usado con NFLX-LIN); terminal 4%. Escenario B (no adoptado, growth EPS 11%): USD 493.65 (+19.84%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: +4.43% (precio actual USD 411.93 vs valor intrinseco USD 430.16) - POSITIVO PERO EXTREMADAMENTE FRAGIL: un aumento de apenas +1.5pp en el WACC (8.67% a 10.17%) revierte el resultado a -23.56%. La fragilidad NO viene de un beta degenerado (beta 1.06 es normal y usable) sino de que el Valor Terminal representa mas del 81% del Enterprise Value - un negocio asset-light de alta calidad concentra casi todo su valor en el spread WACC-crecimiento terminal, misma fragilidad estructural de LLY-JNJ pero por causa distinta (peso del terminal value, no spread estrecho de beta bajo). Chequeo cruzado: multiplo terminal implicito 22.27x vs P/FCF de mercado real ~21.8-23.3x, consistente (WACC no degenerado).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM muy grande y en expansion: mercados globales de deuda-credito, AUM de inversion pasiva-ETF mundial, gasto empresarial en datos-analitica financiera, mercados de commodities-energia. Frontera de crecimiento adicional en credito privado y mercados emergentes.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada extremadamente altas: reconocimiento regulatorio NRSRO (Ratings), decadas de datos historicos propietarios, estatus de benchmark establecido (S&P 500), costos de cambio de proveedor de datos integrados en flujos de trabajo institucionales - practicamente imposible replicar desde cero.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: rivalidad moderada (oligopolio-duopolio por segmento, sin competencia de precios agresiva), amenaza de nuevos entrantes muy baja (barreras regulatorias-de marca-de datos), poder de proveedores bajo (la empresa es mayormente duena de sus propios datos), poder de clientes moderado (clientes institucionales grandes con algo de negociacion pero pocas alternativas reales), amenaza de sustitutos emergente pero no inminente (IA-LLMs como comoditizador potencial de agregacion de datos a largo plazo, todavia no materializado).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad moderada: el componente de suscripcion (mayoria de ingresos) es muy estable, pero el componente transaccional de Ratings (ligado a emision de bonos corporativos-M&A) es genuinamente ciclico - perfil hibrido, mas resiliente que un E&P o una minera pero menos estable que una utility regulada o consumo basico puro.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio real pero ya absorbido en gran medida: el modelo issuer-pays de las agencias de calificacion enfrenta escrutinio periodico (post-crisis 2008, reformas Dodd-Frank ya implementadas y digeridas), y el negocio de datos-analitica podria enfrentar nueva regulacion de IA-privacidad de datos en distintas jurisdicciones. Sin catalizador regulatorio negativo inminente identificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real por ingresos internacionales relevantes (porcentaje exacto no verificado en detalle esta sesion) - moderada, no tan extrema como PM (practicamente 100% internacional) pero mayor que una empresa domestica pura de EEUU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes muy diversificada (bancos, gestores de activos, corporaciones emisoras, gobiernos, proveedores de ETFs a nivel global) - sin concentracion de cliente individual relevante detectada. Sin proveedores criticos concentrados tampoco (negocio basado mayormente en datos propios y tecnologia-nube licenciada de forma diversificada).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico de doble filo: la IA es tanto oportunidad (la propia empresa vende soluciones de IA a clientes, mencionado como motor de crecimiento en la llamada Q2 2026) como riesgo de disrupcion a largo plazo (potencial de que modelos de lenguaje generalistas comoditicen parte del valor de agregacion de datos) - riesgo genuino pero todavia no materializado de forma medible.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo-moderado, sin exposicion estructural tipo combustibles fosiles-tabaco. El principal riesgo reputacional de la industria (calificaciones infladas de CDOs pre-2008) es historico y ya resuelto via acuerdo civil de 2015, no un riesgo activo hoy.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Primer trimestre reportando como entidad 100% continuing-operations (sin Mobility) sera Q3 2026 (~oct-nov 2026) - ahi se conocera el balance y margenes ya completamente recast, hoy estimados. Ejecucion del programa de recompra de USD 7bn en curso. Sensibilidad a la trayectoria de tasas de la Fed (afecta volumen de emision de bonos, principal driver ciclico de Ratings).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion - pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de 24 analistas: calificacion Strong Buy, precio objetivo promedio USD 516.95 a USD 519.36 (+25.6% a +25.8% de alza) - NOTABLEMENTE mas optimista que cualquier escenario de este DCF propio (incluso el Escenario B con growth de EPS agresivo solo llega a +19.84%). Hipotesis especulativa: el consenso podria estar incorporando un re-rating de multiplo como pure-play de mayor margen tras el spin-off de Mobility, ademas del momentum de Ratings-Indices, efectos que un DCF bottom-up anclado en crecimiento organico de FCF no captura completamente - mismo patron direccional que UBER (DCF mas conservador que consenso), aqui con brecha aun mayor.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.945945945945946,
+    "recomendacion": "COMPRAR (CON CAUTELA) - moat excepcional (duopolio Ratings + benchmark de Indices), pero DCF con margen de seguridad positivo (+4.43%) extremadamente fragil (WACC +1.5pp lo revierte a -23.56%)",
+    "tesis": "El moat mas fuerte y diversificado del Dashboard Financiero (Ratings+Indices+Market Intelligence+Commodity Insights, pure-play tras el spin-off de Mobility jul-2026), pero cotiza sin margen de error real tras el rally reciente."
+  }
+}

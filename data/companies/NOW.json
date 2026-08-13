@@ -1,0 +1,259 @@
+{
+  "empresa": "ServiceNow Inc",
+  "ticker": "NOW",
+  "sector": "Software - Plataforma de automatizacion de flujos de trabajo empresariales e IA agentica (Now Platform)",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Now Platform: motor unico de datos-flujos de trabajo sobre el que vende cuatro suites (IT Workflows, Employee Workflows, Customer Workflows, Creator Workflows). Pivote agresivo hacia \"AI Platform for Business Transformation\": Now Assist (IA generativa embebida) y \"Otto\" (mayo 2026), experiencia unificada de IA empresarial que combina Now Assist con capacidades derivadas de Moveworks.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Mas de 8000 cuentas empresariales, fuerte en finanzas, salud, tecnologia, manufactura y gobierno (sector publico aprox 15 por ciento de ingresos, federal EEUU creciendo mas de 30 por ciento interanual). Concentracion relevante: aprox 35 por ciento de ingresos viene de cuentas con mas de 1 millon USD de ACV (658 clientes con mas de 5 millones USD de ACV).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Salesforce (Agentforce, ARR aprox 800 millones USD, mas 169 por ciento interanual), Microsoft (Copilot Studio-Power Platform, riesgo de bundling con Office 365-E5), SAP, Atlassian, Workday, y jugadores emergentes de orquestacion de IA agentica.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Corre sobre infraestructura Azure-AWS-GCP; alianzas de modelos de IA con OpenAI (GPT-5.2), Anthropic (Claude como motor por defecto para flujos sensibles a cumplimiento) y NVIDIA (NIM, Project Arc).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "CEO Bill McDermott (desde nov-2019, acreditado con mas que triplicar los ingresos), comprometido publicamente a liderar hasta 2030, con una compra personal de acciones de aprox 20 millones USD. Riesgo de concentracion de juicio estrategico en una sola persona (pivote de IA, ola de adquisiciones), mitigado parcialmente por el horizonte declarado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Clase unica de acciones, una accion un voto, sin estructura de doble clase ni acciones doradas - gobernanza limpia, contraste con SPCX-PLTR-META-HOOD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Recompras activas y crecientes (autorizacion adicional de 5000 millones USD en ene-2026, ademas de un ASR de 2000 millones USD), pero el proposito declarado es compensar la dilucion por compensacion en acciones (SBC), no retorno agresivo de capital - rendimiento de recompra de solo aprox 0.4 por ciento frente a una emision de SBC de aprox 33 por ciento de ingresos. No paga dividendo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Propiedad interna directa relativamente baja (McDermott aprox 182639 acciones); actividad de venta de insiders mixta, nada senalado como alarmante. Investigacion antitrust del DOJ sobre la adquisicion de Moveworks (cerrada dic-2025 tras revision); demanda ERISA menor sobre seleccion de fondos 401k resuelta por 925000 USD, inmaterial.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Balance cambio de caracter en 2026: de posicion historicamente limpia a deuda neta de aprox 5000 millones USD (caja 2503 millones USD vs deuda total aprox 7500 millones USD) tras un prestamo puente de 4000 millones USD (abril 2026) para financiar la adquisicion de Armis por 7750 millones USD, refinanciado con una emision de bonos senior de 4000 millones USD (mayo 2026, cupones 4.25 a 6.30 por ciento, vencimientos 2028-2056).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "No verificado con precision esta sesion (dato pendiente) - liquidez historica alta, sin senales de estres de corto plazo pese al aumento de deuda.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Margen bruto GAAP de suscripcion 73.5 por ciento; margen bruto no-GAAP de suscripcion 80.5 por ciento (bajando desde 84.5 por ciento un anio antes, senal de compresion a vigilar).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Margen operativo GAAP crashed a 4 por ciento en el 2T 2026 (162 millones USD, -54.7 por ciento interanual) por amortizacion de intangibles adquiridos (219 millones USD), costos de combinacion de negocios (75 millones USD) y compensacion en acciones (655 millones USD) - margen operativo no-GAAP 29.5 por ciento, guidance FY2026 31.5 por ciento (recortado desde 32 por ciento por integracion de Armis).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Utilidad neta GAAP TTM aprox 1700 millones USD (margen aprox 11.3 por ciento) severamente distorsionada a la baja por compensacion en acciones (SBC) de aprox 4860 millones USD TTM - aprox 33 por ciento de ingresos, una de las proporciones mas altas entre SaaS de gran capitalizacion. Utilidad no-GAAP TTM aprox 3.5 a 3.7 mil millones USD, brecha de aprox 3.1x en el 2T 2026 solo (298 millones USD GAAP vs 930 millones USD no-GAAP).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "Ingresos TTM aprox 14700 millones USD; ROE-ROIC precisos no verificados esta sesion (dato pendiente) dado el ruido que introduce el SBC y las adquisiciones recientes en el patrimonio y el capital invertido.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "No verificado con precision esta sesion - rotacion de activos probablemente moderada-baja dado el balance inflado recientemente por caja de adquisiciones y deuda nueva.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Ingresos totales 2T 2026: 3987 millones USD (mas 24 por ciento interanual, 22.5 por ciento cc). Ingresos por suscripcion 3877 millones USD (mas 24.5 por ciento). cRPO 13200 millones USD (mas 21 por ciento, supero guidance). RPO total 29000 millones USD (mas 21 por ciento).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "CAGR historico de ingresos a 5 anios (2021-2025) aprox 22.6 por ciento (5.90 a 13.28 mil millones USD), pero con desaceleracion gradual (30 por ciento a 21 por ciento) hasta reacelerar a 24 por ciento en el 2T 2026 por el impulso de IA. Guidance FY2026 de ingresos por suscripcion 15760-15780 millones USD (mas 22.5 por ciento interanual).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Ambicion de largo plazo del management (Investor Day mayo-2026): mas de 30000 millones USD en ingresos por suscripcion para 2030 (implicito aprox 17-20 por ciento anual desde 2026), con potencial alza a mas de 32000 millones USD, y objetivo \"Rule of 60+\" (crecimiento mas margen de FCF). Now Assist (ACV) supero 750 millones USD en 1T 2026, meta elevada a mas de 1500 millones USD para fin de 2026; IA total de ServiceNow supero 1000 millones USD de ACV en el 2T 2026. Crecimiento cada vez mas complementado con M&A en seguridad-IA: Moveworks (2850 millones USD, cerrado dic-2025), Veza (mas de 1000 millones USD, cerrado mar-2026), Armis (7750 millones USD, la mayor adquisicion de la historia de la empresa, cerrada abr-2026).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Flujo de caja operativo no-GAAP calidad mixta: FCF no-GAAP TTM reportado aprox 4600 millones USD, pero inflado por el add-back no-cash de una SBC gigante (aprox 4860 millones USD TTM, aprox 33 por ciento de ingresos) - la brecha entre el FCF reportado y el costo economico real de la dilucion es el gotcha central de esta ficha, ver fila 40.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF del 2T 2026 (634 millones USD, margen 16 por ciento) estacionalmente debil; guidance FY2026 de margen de FCF 35 por ciento (recortado desde 36 por ciento por integracion de Armis) sobre ingresos totales guiados aprox 16000 millones USD, implicando FCF FY2026 guiado aprox 5600 millones USD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex no desglosado con precision esta sesion (dato pendiente) - modelo tipico de SaaS de capex ligero, la mayor parte del gasto de crecimiento va a I+D e IA, no a activos fijos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Capital se destina a M&A agresivo en seguridad-IA (Moveworks, Veza, Armis) y a recompras orientadas a compensar la dilucion de SBC, no a dividendo (no paga).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "DCF con base FCF FY2026 guiado por la propia empresa (margen de FCF 35 por ciento sobre ingresos totales guiados aprox 16000 millones USD = aprox 5600 millones USD), fade de crecimiento 20 por ciento a 10 por ciento en 5 anios (consistente con la desaceleracion observada y la ambicion propia de 30000 millones USD de ingresos por suscripcion para 2030). WACC 10.5 por ciento (CAPM base 8.73 por ciento con Beta 0.95, mas prima cualitativa de riesgo de +2pp por dilucion estructural de SBC no capturada por un beta bajo - mismo tipo de ajuste ya usado en ASML-BABA-WMB), g terminal 4 por ciento, se resta deuda neta aprox 5000 millones USD.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "Valor intrinseco escenario adoptado aprox 135.37 USD por accion vs precio actual 119.95 USD - Margen de Seguridad aprox +12.9 por ciento (zona Mantener, cerca del limite superior). Resultado razonablemente cercano al consenso de analistas (objetivo promedio 140-147 USD, +17 a 23 por ciento).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Escenario de sensibilidad severo (no adoptado): usando un FCF ajustado por dilucion real (FCF reportado menos el 100 por ciento de la SBC en dolares, aprox 700 millones USD de base en vez de 5600 millones USD) con el mismo fade y WACC, el valor cae a aprox 12.66 USD por accion (MS aprox -89.4 por ciento) - la conclusion de esta ficha es extremadamente sensible al tratamiento metodologico de la SBC (33 por ciento de ingresos, de las proporciones mas altas vistas en el Dashboard), mas que a los supuestos de crecimiento. Se documenta esta sensibilidad extrema como el gotcha central en vez de forzar un unico numero.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "Rivalidad intensa y en escalada: Microsoft empaquetando Copilot-Power Platform dentro de Office 365-E5 a costo marginal casi nulo (riesgo estructural mas citado), Salesforce Agentforce escalando rapido (ARR aprox 800 millones USD, mas 169 por ciento interanual, 29000 despliegues).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas: status de sistema de registro entrenchado en IT-flujos de trabajo empresariales (altos costos de cambio), modelo de datos de plataforma unica ventajoso para orquestar IA agentica, gran IP de procesos acumulada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Poder de negociacion de clientes moderado-alto: aprox 35 por ciento de ingresos concentrado en cuentas de mas de 1 millon USD de ACV; sector publico aprox 15 por ciento de ingresos con riesgo de ciclo presupuestario.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Riesgo estructural de sustitucion citado por Gartner: los agentes de IA podrian desviar aprox 234000 millones USD (20 por ciento) del gasto planificado en software empresarial para 2030 - amenaza directa al modelo de suscripcion por asiento de ServiceNow, razon principal citada del bajo desempeno de la accion pese a resultados beat-and-raise consistentes.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo de sustitucion por IA agentica: si los agentes de IA autonomos reemplazan flujos de trabajo tradicionales por asiento mas rapido de lo que ServiceNow logra reconvertir su propio modelo (Now Assist, Otto), el TAM tradicional se erosiona - riesgo estructural de modelo de negocio, no solo competitivo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo de bundling de Microsoft: Copilot-Power Platform empaquetado dentro de suites ya pagadas por el cliente (Office 365-E5) a costo marginal casi nulo, presion de precio de largo plazo dificil de contrarrestar solo con profundidad de producto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Riesgo de ejecucion de M&A: tres adquisiciones grandes cerradas en 5 meses (Veza, Moveworks, Armis) ya generaron compresion de margen (guidance FY2026 recortado) y aumento fuerte de deuda (de posicion historicamente limpia a deuda neta aprox 5000 millones USD) - riesgo de integracion no resuelto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo de dilucion real por SBC: aprox 33 por ciento de ingresos en compensacion en acciones, de las proporciones mas altas del Dashboard - los multiplos GAAP (PE TTM aprox 71-73x) no son informativos sin ajuste, y el verdadero costo economico para el accionista es mucho mayor al que sugiere el FCF no-GAAP reportado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo regulatorio-legal moderado: revision antitrust del DOJ sobre Moveworks (resuelta, cerro dic-2025) senala escrutinio creciente a medida que ServiceNow consolida activos de seguridad-IA; riesgo macro de presupuestos de TI empresariales y gasto publico federal.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Catalizador principal: conversion continua del cRPO (13200 millones USD, mas 21 por ciento) en ingresos reconocidos, escalamiento de Now Assist-Otto hacia la meta de mas de 1500 millones USD de ACV en 2026, y estabilizacion de los margenes tras completar la integracion de Armis.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Riesgo principal: la tension entre un modelo de negocio que sigue creciendo con fuerza (cRPO mas 21 por ciento, guidance elevado) y una compensacion en acciones estructuralmente enorme (aprox 33 por ciento de ingresos) que hace que el valor real generado para el accionista dependa mucho mas de como se trate esa dilucion que del crecimiento en si.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "ServiceNow es un negocio de calidad alta con moat real en flujos de trabajo empresariales y una apuesta creible en IA agentica, cotizando ya con una caida relevante desde su maximo (aprox 40 por ciento) que lo deja cerca de un precio razonable segun el escenario adoptado del DCF - pero con un riesgo de dilucion por SBC inusualmente alto que exige cautela.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.3513513513513513,
+    "recomendacion": "MANTENER. Negocio de alta calidad (moat real en flujos de trabajo empresariales, gobernanza limpia de clase unica) que ya corrigio de forma relevante desde su maximo, dejando el escenario adoptado del DCF (135.37 USD, MS +12.9 por ciento) en zona neutra-levemente favorable y cerca del consenso de analistas. No se recomienda COMPRAR de forma agresiva porque el resultado es extremadamente sensible al tratamiento de la compensacion en acciones (aprox 33 por ciento de ingresos): un escenario que trate esa SBC como costo economico real y no como partida no-cash da un Margen de Seguridad de aprox -89 por ciento. Apto para mantener posicion existente o iniciar posicion pequena, no para una convaccion alta de compra.",
+    "tesis": "ServiceNow es un lider genuino en automatizacion de flujos de trabajo empresariales con una apuesta creible en IA agentica, cotizando a un precio razonable tras la correccion, pero cuya verdadera rentabilidad para el accionista depende criticamente de cuanto se dilute via compensacion en acciones."
+  }
+}

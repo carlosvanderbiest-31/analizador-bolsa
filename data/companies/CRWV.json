@@ -1,0 +1,259 @@
+{
+  "empresa": "CoreWeave, Inc.",
+  "ticker": "CRWV",
+  "sector": "Tecnologia - Neocloud (infraestructura GPU en la nube para IA), respaldada por NVIDIA",
+  "fecha_analisis": "2026-08-07",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Neocloud puro: alquila capacidad de computo GPU a hiperescaladores y laboratorios de IA. Ingresos TTM 6.23 mil millones USD (+129.9 por ciento), FY2025 5.13 mil millones USD (+167.94 por ciento) - crecimiento entre los mas rapidos de todo el Dashboard, pero concentrado en muy pocos clientes mega (ver fila 51). Backlog contractual de 99.4 mil millones USD (aprox 16 veces los ingresos TTM).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat parcial via relacion estrecha con NVIDIA: NVIDIA invirtio 2 mil millones USD en acciones Clase A de CoreWeave durante el 1T 2026 (ademas de ser proveedor critico de GPUs), y CoreWeave tiene reputacion de ejecucion tecnica solida entre laboratorios de IA - pero es un moat replicable por competidores bien financiados, no una ventaja estructural duradera comparable a un efecto de red o costos de cambio genuinos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "El neocloud puro publico mas grande y establecido (mucho mayor escala que SHAZ), con reputacion tecnica fuerte entre laboratorios de IA. Aun asi, pequenio frente a AWS-Azure-GCP en escala absoluta, y ahora enfrenta el riesgo de que sus propios clientes (Meta explorando alquilar su exceso de computo propio a terceros) se conviertan en competidores.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios limitado: depende de un puniado de clientes hiperescaladores mega (Microsoft 67 por ciento de los ingresos de 2025) con poder de negociacion significativo dado su propio tamanio y opciones alternativas.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Asignacion de capital extremadamente agresiva: capex guiado de 31 a 35 mil millones USD solo para el ano fiscal 2026, financiado casi enteramente con deuda-emisiones de capital, sobre una base de patrimonio de apenas 3.9 mil millones USD - una apuesta de alto riesgo, no una gestion conservadora del balance.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "CEO fundador Michael Intrator sigue al frente. Alineacion de incentivos no investigada con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria no verificada con el mismo nivel de detalle que otras fichas en esta sesion (dato pendiente) - se cree que existe algun tipo de estructura de multiples clases tipica de OPIs recientes de tecnologia, pero no confirmado con precision.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Divulgacion estandar de empresa recien salida a bolsa (IPO 28-mar-2025). La concentracion extrema en Microsoft (67 por ciento de ingresos 2025) no fue un titular inicial destacado, emergio despues via analisis de analistas independientes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "APALANCAMIENTO EXTREMO, entre los mas altos identificados en cualquier empresa del Dashboard: deuda total aprox 24.86 mil millones USD, pasivos totales aprox 29 mil millones USD contra un patrimonio de apenas 3.9 mil millones USD - una razon deuda a patrimonio superior a 7 veces, descrita explicitamente por analistas independientes como \"entre las mas apalancadas del sector tecnologico\".",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Liquidez bajo presion real: quema de FCF de -4.7 mil millones USD en un SOLO trimestre (1T 2026), con analistas senialando \"condiciones de financiamiento cada vez mas restrictivas\" como riesgo - dependencia continua de acceso a mercados de deuda-capital en condiciones favorables.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Estructura de vencimientos de deuda no verificada en detalle en esta sesion (dato pendiente) - dado el tamanio de la deuda (aprox 24.86 mil millones USD), es una prioridad de investigacion critica en una sesion futura.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados casi por completo por hardware GPU-centros de datos (riesgo de obsolescencia tecnologica rapida por ciclos de chips Nvidia) financiado con deuda masiva - la calidad economica de esos activos depende enteramente de que la demanda de computo de IA se sostenga al ritmo necesario para justificar la inversion.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen operativo guiado de apenas aprox 8 por ciento para 2026 - delgado para un negocio tan intensivo en capital. Perdida neta TTM -1.59 mil millones USD, EMPEORANDO (FY2025 fue -1.20 mil millones USD, un 27.6 por ciento peor en la comparacion TTM) pese al crecimiento explosivo de ingresos.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE y ROIC negativos dada la perdida neta - la base de capital masiva (financiada con deuda) todavia no genera retornos positivos, y no se espera que lo haga en el corto-mediano plazo (ver fila 36).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Base de activos creciendo mucho mas rapido que los ingresos por el ritmo de capex - rotacion de activos baja y en declive mientras la capacidad nueva todavia no factura a plena capacidad.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "Crecimiento de ingresos entre los mas rapidos de todo el Dashboard: TTM +129.9 por ciento, FY2025 +167.94 por ciento - pero la perdida neta crece en la direccion opuesta (empeorando, no mejorando) pese a esa escala.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Extremadamente inconsistente en la reaccion del mercado: la accion cayo aprox 42 por ciento desde el 1T 2026, con caidas de un solo dia de aprox 19 a 30 por ciento alrededor de reportes de resultados - refleja incertidumbre genuina y cambiante sobre que tan sostenible es esta trayectoria de crecimiento, no solo volatilidad tecnica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Backlog de 99.4 mil millones USD (aprox 16 veces los ingresos TTM) es la fuente de crecimiento futuro reclamada - pero concentrado en pocos clientes (Microsoft 67 por ciento de 2025) que podrian negociar terminos mas duros o, en el caso de Meta, convertirse en competidores directos alquilando su propio exceso de computo a terceros.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF positivo (2.984 mil millones USD en el 1T 2026) pero perdida neta profundamente negativa - la brecha se explica por depreciacion MASIVA (real, refleja el consumo genuino de un capex igualmente masivo) y gasto de interes pesado sobre la deuda de aprox 24.86 mil millones USD (real, salida de caja genuina). A diferencia de CRWD (brecha por compensacion en acciones, dilutiva pero no reduce el FCF) o de ORCL (perdida por valor razonable de notas convertibles, no-cash), AQUI ambos factores (depreciacion e interes) SI son economicamente reales y relevantes para la caja - esto es una situacion de calidad de ganancias mas fragil, mas cercana genuinamente a riesgo financiero real que a un simple artefacto contable.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF PROFUNDAMENTE NEGATIVO y de los peores del Dashboard: -4.7 mil millones USD en UN SOLO TRIMESTRE (1T 2026, capex de 6.8 a 7.7 mil millones USD segun la fuente contra OCF de 2.984 mil millones USD). Analistas independientes no esperan que CoreWeave alcance rentabilidad de FCF antes de 2029 - a diferencia de ORCL (que tiene un negocio historico rentable de respaldo) o de SHAZ (escala mucho menor), aqui no hay ancla de rentabilidad existente que sostenga el negocio mientras se completa el ciclo de capex.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Practicamente 100 por ciento capex de crecimiento (GPUs y centros de datos), guiado en 31 a 35 mil millones USD solo para el ano fiscal 2026 - una escala de inversion extrema en relacion al tamanio del patrimonio de la empresa (3.9 mil millones USD).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital dominado enteramente por financiar la expansion via deuda masiva y emisiones de capital (incluida la inversion de 2 mil millones USD de NVIDIA en acciones Clase A durante el 1T 2026) - estrategia de asignacion de capital de altisimo riesgo, senializada explicitamente por analistas como motivo de preocupacion de apalancamiento-credito.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P sobre E no aplica (perdida neta). No hay un multiplo tradicional limpio que aplicar dado el FCF profundamente negativo y la incertidumbre sobre cuando (si acaso) se normaliza - el precio de mercado cotiza casi enteramente en funcion del backlog de 99.4 mil millones USD y la narrativa de crecimiento, no de fundamentales actuales. 38 analistas dan calificacion de consenso \"Compra\" con objetivo promedio de 137.94 USD (+53.95 por ciento desde 89.60 USD) pese a los riesgos de balance documentados - tension notable entre el optimismo del consenso de Wall Street y el perfil de riesgo real de apalancamiento-concentracion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "NO SE CALCULO Valor Intrinseco (DCF) - decision metodologica explicita, mismo criterio general que OKLO y SHAZ (empresas donde forzar un DCF requeriria supuestos no verificables), pero por una razon DISTINTA en este caso: a diferencia de OKLO (pre-ingresos) o SHAZ (ingresos casi nulos), CoreWeave SI tiene ingresos reales y sustanciales (6.23 mil millones USD TTM, creciendo con fuerza). La razon para no calcular DCF aqui es que (1) analistas independientes no esperan que la empresa alcance FCF positivo antes de 2029 - cualquier DCF que arranque de una base de FCF profundamente negativa y proyecte su conversion a positivo en varios anos requeriria inventar una trayectoria de normalizacion sin ancla historica confiable; (2) el apalancamiento extremo (deuda a patrimonio superior a 7 veces) hace que el valor del equity sea hipersensible a supuestos de refinanciamiento y ejecucion que estan fuera del alcance de un DCF operativo estandar - un pequenio cambio en el costo de financiamiento futuro o en el ritmo de conversion del backlog podria mover el valor del equity en un rango extremadamente amplio, mas parecido a valorar una opcion financiera apalancada que a descontar flujos de caja de un negocio establecido.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Sin Valor Intrinseco no hay Margen de Seguridad calculable - columnas 26 y 27 del Dashboard deliberadamente en blanco. Referencia informativa (no valor intrinseco): patrimonio contable de apenas 3.9 mil millones USD sobre 545.57 millones de acciones = aprox 7.15 USD por accion en libro, dramaticamente por debajo del precio de mercado de 89.60 USD (7-ago-2026) - la brecha enorme es lo que el mercado paga por la conversion futura del backlog de 99.4 mil millones USD, con un riesgo de ejecucion-apalancamiento-concentracion de cliente que es responsabilidad del inversionista sopesar caso por caso, no un numero que este DCF pueda resolver de forma confiable.",
+          "calificacion": null
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM enorme y en expansion: demanda global de computo GPU para entrenamiento e inferencia de IA sigue creciendo con fuerza - uno de los TAM mas grandes del Dashboard, compartido con SHAZ y ORCL.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de capital altas (nadie entra a este negocio sin miles de millones en financiamiento), pero CoreWeave mismo demuestra que un entrante bien conectado (relacion con NVIDIA) puede escalar muy rapido - la barrera no es infranqueable para competidores igualmente bien financiados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Perfil de Porter distintivamente desfavorable: poder de COMPRADOR extremo (Microsoft 67 por ciento de ingresos, puede dictar terminos), poder de proveedor alto (dependencia de asignacion de GPUs de NVIDIA, aunque mitigado parcialmente por la inversion de NVIDIA en el capital de CoreWeave), rivalidad alta (otros neoclouds, hiperescaladores construyendo capacidad propia), y una amenaza REAL Y CRECIENTE de que los propios clientes se conviertan en competidores (Meta explorando alquilar su exceso de computo a terceros).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Totalmente expuesto al riesgo de ciclo-sentimiento de capex de IA (mismo tema de SHAZ-ORCL-CAT), pero arguiblemente MAS expuesto porque CoreWeave no tiene ninguna otra linea de negocio a la cual recurrir si la demanda de infraestructura de IA se enfria.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio moderado, sin problema agudo especifico identificado en esta sesion mas alla del panorama generico de regulacion de IA-infraestructura de datos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria probablemente limitada dado que las operaciones parecen concentradas mayormente en EEUU (a diferencia de SHAZ, enfocada en Australia-Nueva Zelanda) - no cuantificada con precision en esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "RIESGO MAYOR Y EXPLICITAMENTE CUANTIFICADO: Microsoft represento el 67 por ciento de los ingresos de 2025 - una de las concentraciones de cliente unico mas extremas y mejor documentadas de todo el Dashboard, incluso mas extrema que la de ORCL con OpenAI (aprox mitad del RPO). Ademas, dependencia critica de asignacion de GPUs de NVIDIA (mitigada parcialmente por la relacion de inversion mutua).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Doble riesgo tecnologico-competitivo: obsolescencia de hardware GPU por ciclos rapidos de nuevas generaciones de chips (mismo riesgo que SHAZ-ORCL), MAS el riesgo especifico y creciente de que clientes mega como Meta se conviertan en competidores directos al alquilar su propio exceso de capacidad de computo a terceros.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Consumo energetico intensivo de la construccion masiva de centros de datos - mismo tema ESG generico ya identificado en SHAZ, ORCL y ABNB.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.4
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados del 2T 2026 el 11-ago-2026 (a solo 4 dias de este analisis) - evento de alta relevancia dado el historial de reacciones extremas del precio alrededor de reportes de resultados (caidas de un solo dia de 19 a 30 por ciento en ocasiones anteriores).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado con profundidad en esta sesion (dato pendiente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Cobertura amplia (38 analistas), calificacion de consenso \"Compra\", objetivo promedio de 137.94 USD (+53.95 por ciento desde el precio actual) - notablemente optimista pese a los riesgos de apalancamiento-concentracion documentados, reflejo de que el consenso de Wall Street pondera fuerte el backlog de 99.4 mil millones USD por encima de los riesgos de balance actuales.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 2.1714285714285713,
+    "recomendacion": "ESPECULATIVO DE ALTISIMO RIESGO - NO APTO PARA EL MARCO DE MARGEN DE SEGURIDAD",
+    "tesis": "Neocloud lider y respaldado por NVIDIA con crecimiento de ingresos explosivo (+129.9 por ciento) y un backlog de 99.4 mil millones USD, pero con el perfil de balance mas apalancado del Dashboard (deuda a patrimonio superior a 7 veces), FCF profundamente negativo sin expectativa de normalizar antes de 2029 segun analistas, y una concentracion extrema de cliente unico (Microsoft, 67 por ciento de los ingresos de 2025) - una apuesta de ejecucion de alto riesgo, no una inversion de valor tradicional."
+  }
+}

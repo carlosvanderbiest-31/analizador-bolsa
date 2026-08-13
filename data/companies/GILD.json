@@ -1,0 +1,259 @@
+{
+  "empresa": "Gilead Sciences, Inc.",
+  "ticker": "GILD",
+  "sector": "Salud - Biotecnologia-Farmaceutica (Biopharmaceuticals)",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Biotecnologia lider en HIV: Biktarvy (mas del 52% de participacion de mercado, el tratamiento mas prescrito) y Yeztugo (lenacapavir inyectable de accion prolongada para PrEP-prevencion, lanzamiento blockbuster en curso). Tambien oncologia (Trodelvy, Yescarta-Tecartus via Kite, terapia celular) y un negocio legado en declive de Hepatitis C-Veklury(COVID). Ingresos TTM USD 30.46bn.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat REAL de dominancia en HIV (Biktarvy) mas un pipeline de lenacapavir que se extiende hasta 2030+ (formulaciones semanales orales, inyectables semestrales) - un moat duradero y en expansion en ese segmento especifico. El moat de terapia celular (Yescarta-Tecartus) esta bajo presion competitiva real (fila 46).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion competitiva DOMINANTE: lider indiscutido no solo en TRATAMIENTO sino ahora tambien en PREVENCION de HIV (Yeztugo), un doble liderazgo poco comun en la categoria.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios real en la franquicia HIV dominante, bajo la misma presion regulatoria generica de precios de medicamentos que el resto del sector, sin un evento especifico ya materializado (a diferencia de Eliquis-IRA en BMY-PFE).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Gestion con ejecucion solida en HIV (superacion consistente de guia, Yeztugo por encima de las expectativas), PERO la estrategia de M&A reciente (Arcellx USD 7.8bn, Tubulis, Ouro Medicines, todas cerradas en 2026) genero un cargo de IPRD de USD 11.5bn que produjo una perdida GAAP genuina para el ano - riesgo de ejecucion-integracion real en tres adquisiciones simultaneas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Tenencia de insiders tipica de una biotecnologia de gran capitalizacion sin fundador-control activo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria limpia: una sola clase de acciones comunes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Gobernanza razonable, aunque el ritmo de M&A reciente (tres adquisiciones en un periodo corto de 2026) refleja una postura de asignacion de capital mas agresiva de lo habitual para la empresa.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "GOTCHA: el ratio Deuda Neta/EBITDA TTM reportado por proveedores de datos (99.80x) NO ES UTILIZABLE, distorsionado por un EBITDA TTM casi nulo tras el cargo de IPRD de USD 11.5bn - se uso en su lugar el ratio FY2025 mas limpio y representativo (1.95x, bajo) como referencia de apalancamiento real.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.27, razon rapida 0.75 - liquidez moderada, similar al patron ya visto en PFE.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calificacion investment grade solida: A3 (Moodys, outlook positivo desde sep-2025), BBB+ (S&P, outlook positivo) - sin vencimientos de deuda concentrados identificados esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "GOTCHA: el patrimonio se REDUJO fuertemente de USD 22.62bn (FY2025) a USD 11.74bn (TTM) y la caja cayo de USD 7.56bn a USD 3.18bn - reflejo directo del cargo de IPRD de USD 11.5bn y el efectivo usado para financiar las tres adquisiciones recientes (Arcellx-Tubulis-Ouro Medicines).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "GOTCHA IMPORTANTE (positivo subyacente, negativo en apariencia TTM): los margenes FY2025 (limpios, antes del cargo de IPRD) fueron EXCELENTES -bruto 78.83%, operativo 34.04%, neto 28.90%- de los mas altos de cualquier empresa Salud de la sesion. Los margenes TTM (operativo -8.20%, neto -10.64%) estan DISTORSIONADOS por el cargo unico de IPRD de USD 11.5bn (Arcellx-Tubulis-Ouro Medicines) - NO representativos del negocio subyacente, que la propia guia no-GAAP de la empresa confirma sano (EPS no-GAAP guiado de USD 8.45-8.85 para 2026, en linea con la guia de febrero previa a los tres acuerdos).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "GOTCHA: ROE (-18.86%) y ROIC (-11.37%) TTM son NEGATIVOS, distorsionados por el mismo cargo de IPRD de la fila 27 - no representativos de la rentabilidad economica real del negocio; en FY2025 (periodo limpio) la rentabilidad fue solida (utilidad neta USD 8.51bn).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos moderada, tipica de una biotecnologia de esta escala.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios modesto (1.98%, FY2021-FY2025) - refleja el declive del negocio legado de Hepatitis C mas el fade del producto COVID (Veklury-remdesivir) compensado por el crecimiento de la franquicia HIV. Notablemente MENOS distorsionado por la base COVID que PFE (Veklury fue proporcionalmente mucho menor para GILD que Comirnaty-Paxlovid para PFE) - un CAGR razonablemente usable, a diferencia del de PFE (fila 31 de esa ficha).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "GOTCHA: utilidad neta GAAP genuinamente volatil (FY2024 USD 480M, FY2025 USD 8.51bn, TTM -USD 3.24bn) - la volatilidad refleja cargos de IPRD recurrentes de la estrategia activa de M&A de la empresa, mismo patron ya documentado en BMY-PFE esta sesion, aqui aun mas extremo en magnitud relativa al tamano de la empresa (el cargo de USD 11.5bn equivale a aprox 38% de los ingresos TTM).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "GOTCHA-CATALIZADOR MAYOR POSITIVO: Yeztugo (lenacapavir inyectable de accion prolongada para PrEP) es un lanzamiento de blockbuster genuino en su primer ano completo (ventas 2T2026 de USD 232M, +40% secuencial, guia 2026 elevada a USD 1bn de ingresos anuales) - la franquicia de HIV completa recibio guia elevada a crecimiento de 9%-10% interanual (desde 8% previo). La FDA acepto la solicitud de BIC/LEN (bictegravir-lenacapavir) bajo revision prioritaria con fecha objetivo de accion el 27-ago-2026 -a solo dias de esta ficha, el evento mas inminente de cualquier empresa Salud de la sesion.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "Calidad de ganancias GAAP genuinamente poco representativa dado el cargo de IPRD (filas 27-32), pero el FCF (fila 36) y la guia no-GAAP confirman un negocio subyacente sano y en crecimiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "GOTCHA POSITIVO: FCF Yield de 7.65% CUADRA con el calculo cruzado independiente (FCF TTM USD 12.94bn / capitalizacion de mercado USD 168.35bn = 7.69%) - un dato LIMPIO y confiable, notablemente NO distorsionado por el cargo de IPRD (que es un gasto no-en-efectivo desde la perspectiva de flujo de caja operativo) - permite usar el FCF como base del DCF con confianza pese a la utilidad GAAP negativa TTM.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex MUY bajo (USD 609M TTM, apenas 2.0% de ingresos) - modelo genuinamente liviano en activos fijos, tipico de una biotecnologia enfocada en I+D-comercializacion mas que en manufactura propia intensiva.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo con yield 2.42% y payout FY2025 razonable (47.04%, el TTM no es significativo dada la perdida GAAP), aunque el ritmo reciente de M&A (tres adquisiciones, USD 11.5bn de cargo de IPRD) refleja una asignacion de capital mas agresiva y de mayor riesgo de ejecucion que en anios previos de la empresa.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos razonables: P/E TTM no significativo (perdida GAAP), forward P/E 14.85x razonable, P/FCF 13.07x atractivo para una biotecnologia de esta calidad-crecimiento, EV/EBITDA FY2025 (limpio) de 13.26x tambien razonable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO: beta literal degenerado (0.34), mismo patron familiar ya visto con BMY-PFE esta sesion (multiplo real de mercado comprimido por debajo de lo que el beta historico de 5 anios sugeriria), PERO aqui con una prima de riesgo cualitativa MAS MODESTA (+1.5pp, la mas baja de las tres farmaceuticas-biotecnologias de la sesion) dado que el negocio subyacente de GILD esta genuinamente CRECIENDO con fuerza (guia de HIV elevada, Yeztugo blockbuster) a diferencia del cliff de patentes dominante y ya cuantificado de BMY-PFE. Beta sustituto 0.9 + prima +1.5pp, WACC 9.14% (estructura de capital a valor de mercado: Equity USD 168.35bn, Deuda USD 26.25bn). FCF base = USD 12.94bn TTM (confiable, fila 36). Crecimiento 5 anios = 5.5% (reflejo moderado del momentum real de la franquicia HIV); terminal 2.5% (default estandar, sin headwind estructural que justifique reducirlo). Valor Intrinseco: USD 164.60/accion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad POSITIVO (+21.24%, precio actual USD 135.77 vs valor intrinseco USD 164.60) - EXCEPCIONALMENTE bien triangulado con el consenso de analistas (Buy fuerte: 22 compra-0 venta-7 mantener de 27 analistas, objetivo promedio USD 157.56, +20.40%) - una de las convergencias DCF-consenso mas limpias de toda la sesion Salud, similar en calidad a la ya documentada en UNH.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM grande y en expansion real: mercado de HIV (tratamiento y ahora tambien PREVENCION via PrEP, categoria que la propia Yeztugo esta ayudando a crear-expandir) mas oncologia (ADC-terapia celular), aunque este ultimo mas competido (fila 46).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas y DURADERAS en el segmento HIV especificamente: dominancia real (Biktarvy 52%+ de participacion) mas pipeline de lenacapavir extendido hasta 2030+ con multiples formulaciones en desarrollo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: posicion dominante en HIV, pero competencia REAL e intensificandose en terapia celular-oncologia (Yescarta -12% y Tecartus -24% en 2T2026 por competencia dentro y fuera de la clase de CAR-T).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad baja, demanda de tratamiento-prevencion de HIV mayormente no discrecional.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio de precios de medicamentos generico del sector (presion politica amplia), sin un evento especifico ya materializado como el de Eliquis-IRA en BMY-PFE esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria significativa, negocio internacional relevante tipico de una biotecnologia de gran capitalizacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes diversificada, aunque con dependencia real de la franquicia HIV (Biktarvy+Yeztugo) para la mayor parte del crecimiento consolidado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Plataformas tecnologicas genuinamente diferenciadas: lenacapavir (inyectable de accion muy prolongada, unico en su clase) y terapia celular via Kite (Yescarta-Tecartus, aunque bajo presion competitiva, fila 46).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo social-regulatorio moderado tipico del sector, aunque el acceso a PrEP-tratamiento de HIV tiene una dimension social POSITIVA real (prevencion en poblaciones de alto riesgo, un area de impacto social distinto al resto de la cartera Salud de la sesion).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Proximo evento MAYOR: decision de la FDA sobre BIC-LEN (bictegravir-lenacapavir) bajo revision prioritaria, fecha objetivo de accion el 27-ago-2026 -a solo dias de esta ficha, el evento mas inminente de cualquier empresa Salud de la sesion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "GOTCHA-CONTEXTO ADICIONAL: GILD comparte con BMY-PFE (analizadas inmediatamente antes) el mismo tipo de gotcha de cargo de IPRD por M&A que distorsiona la utilidad GAAP (aqui el mas extremo en magnitud relativa: USD 11.5bn equivale a aprox 38% de ingresos TTM), PERO a diferencia de esas dos empresas, el negocio subyacente de GILD esta genuinamente en una fase de CRECIMIENTO ACELERADO (guia de HIV elevada, Yeztugo blockbuster, sin un cliff de patentes dominante comparable) - lo que explica por que la prima de riesgo cualitativa aplicada aqui (+1.5pp) fue la mas baja de las tres, y por que el resultado del DCF (COMPRAR) contrasta con el REDUCIR de PFE y el MANTENER de BMY pese a compartir el mismo tipo de gotcha contable de origen.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de analistas: Buy FUERTE (22 compra-0 venta-7 mantener de 27 analistas), objetivo promedio USD 157.56 (+20.40% de alza, rango USD 120-USD 180) - EXCEPCIONALMENTE bien alineado con este DCF (+21.24%).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.4864864864864864,
+    "recomendacion": "COMPRAR - biotecnologia lider indiscutido en HIV, tanto en tratamiento (Biktarvy, mas del 52% de participacion) como ahora en prevencion (Yeztugo, lanzamiento blockbuster con guia 2026 elevada a USD 1bn), con margenes FY2025 excelentes (bruto 78.83%, operativo 34.04%, neto 28.90%) y FCF limpio-confiable (Yield 7.65%) pese a una perdida GAAP TTM causada enteramente por un cargo unico de IPRD de USD 11.5bn de tres adquisiciones recientes (Arcellx-Tubulis-Ouro Medicines), que la propia guia no-GAAP de la empresa confirma no representativo del negocio subyacente; el DCF (con el mismo tipo de correccion de beta degenerado ya aplicada a BMY-PFE, pero con la prima de riesgo mas baja de las tres dado el crecimiento genuino del negocio) da un margen de seguridad positivo (+21.24%) excepcionalmente bien alineado con un consenso de analistas Buy fuerte (+20.40%, 22 compra-0 venta de 27 analistas); decision de la FDA sobre BIC-LEN esperada el 27-ago-2026, a solo dias de esta ficha",
+    "tesis": "El lider indiscutido de HIV, tanto en tratamiento como en la nueva categoria de prevencion inyectable de accion prolongada, con un negocio subyacente genuinamente sano que una perdida GAAP contable de un solo ano (por M&A) oscurece pero no refleja, cotizando con un margen de seguridad solido y excepcionalmente bien alineado con el consenso de Wall Street."
+  }
+}

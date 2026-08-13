@@ -1,0 +1,259 @@
+{
+  "empresa": "Verizon Communications Inc",
+  "ticker": "VZ",
+  "sector": "Telecomunicaciones (Communication Services) - Servicios inalambricos y de banda ancha",
+  "fecha_analisis": "46240",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Wireless Consumer (mayoria de ingresos) y Business, mas banda ancha fija Fios fibra y FWA 5G home internet. Diversificacion geografica nula (100 por ciento EEUU); alta dependencia del segmento wireless.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Red movil de escala nacional y espectro (C-band, mmWave), marca fuerte, costos de cambio moderados (contratos, financiamiento de equipos). Huella de fibra ampliada tras Frontier a 31 estados. Punto debil: espectro sub-6GHz (279 MHz) por debajo de T-Mobile (350 MHz) y AT&T (310 MHz) a Q3 2025.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Numero 2 en wireless EEUU por suscriptores, perdiendo cuota relativa de espectro mid-band frente a T-Mobile. Bajo el nuevo CEO Schulman, postpaid phone net adds mejoro a 184000 en 2T26, el mejor segundo trimestre en 5 anios. Fuerte en enterprise y gobierno (Business segment).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Poder de fijacion de precios limitado por competencia agresiva. Verizon demando a T-Mobile en feb-2026 por publicidad enganosa de ahorro de 1000 dolares. Mercado maduro de wireless con guerra de switching offers activa.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Adquisicion de Frontier Communications por 20 mil millones de dolares (cerrada 20-ene-2026, amplia fibra a 31 estados). Recompras moderadas (hasta 4.5 mil millones para 2026). Dividendo con 20 anios consecutivos de aumento. Deuda alta limita la flexibilidad de asignacion de capital.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "Insiders poseen solo 0.06 por ciento de las acciones en circulacion (Finviz) - skin in the game muy bajo, aunque tipico de una mega-cap con base accionaria dispersa hace decadas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Una sola clase de acciones ordinarias, sin control familiar ni doble clase. Institucional 70.19 por ciento (Finviz). Gobernanza limpia, sin los problemas de control perpetuo vistos en META, HOOD o PLTR.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Guidance detallado y consistente trimestre a trimestre (revenue de servicio, EPS ajustado, FCF, capex). Cargos especiales del 2T26 bien desglosados: 746 millones de disposicion de negocio internacional, 258 millones de racionalizacion de activos, 397 millones de severance.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Deuda Neta a EBITDA consolidada (post-Frontier) aprox 3.88x (deuda total 188458 millones de dolares, caja 1752 millones, EBITDA TTM aprox 48100 millones). Deuda a Patrimonio 1.79x. Nota: la propia Verizon reporta una metrica mas estrecha de deuda no garantizada neta a EBITDA ajustado de 2.5x; se uso la cifra consolidada para el Dashboard por consistencia con el resto del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 0.55x a 0.60x segun fuente, prueba acida 0.45x a 0.52x - por debajo de 1.0 pero tipico de una telecom madura con FCF estable y acceso amplio a mercados de credito investment grade, no una senal de estres real inminente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Rating credicito Moody's Baa1 (afirmado 7-ago-2025) y S&P BBB+ (afirmado 12-jun-2025), ambos con outlook estable. Manejo activo de vencimientos via tender y exchange offers de bonos en 2026. Moody's proyecta deuda total a EBITDA bajando por debajo de 3.0x hacia fines de 2025.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Activos dominados por infraestructura de red (PP&E) y licencias de espectro, mas goodwill relevante por la adquisicion de Frontier (20 mil millones de dolares). Activos totales 410186 millones a jun-2026.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margen bruto TTM 59.26 por ciento (stockanalysis) o 45.71 por ciento (Finviz, discrepancia grande por clasificacion distinta de costos de red-D&A en COGS). Margen operativo 20.54 por ciento (stockanalysis) o 22.73 por ciento (Finviz). Margen neto 11.95 por ciento (stockanalysis), comprimido en el TTM por cargos especiales del 2T26. Adjusted EBITDA margin en expansion real: 37.1 a 40.1 por ciento interanual, record historico, por el turnaround de Schulman.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROE 15.63 a 15.74 por ciento (Finviz-stockanalysis, coinciden bien). ROIC 6.09 por ciento (Finviz) a 7.49 por ciento (stockanalysis). WACC propio ajustado estimado aprox 5.7 a 6.4 por ciento segun escenario - el ROIC apenas supera el costo de capital, spread angosto tipico de una industria madura y de capital intensivo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Rotacion de activos baja, 0.34x (Revenue TTM 138895 millones sobre Activos totales 410186 millones) - tipico de un negocio de infraestructura de red intensivo en capital.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos a 5 anios muy bajo, 1.2 a 1.5 por ciento (revenue practicamente plano de 133.6 mil millones en FY2021 a 138.2 mil millones en FY2025). EPS historico NEGATIVO: -1.14 por ciento a 5 anios y -7.06 por ciento a 3 anios (Finviz), por cargos especiales recurrentes y presion competitiva. Crecimiento organico casi nulo; Frontier es crecimiento inorganico via M&A.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento estable pero estancado, no ciclico - ingresos practicamente planos durante 5 anios sin grandes swings, pero tampoco hay expansion real de la base de ingresos sin contar M&A.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "FWA 5G home internet y fibra (Fios mas Frontier) como principales motores: 348000 altas netas de banda ancha en 2T26 (+12.3 por ciento interanual), conexiones de fibra saltaron de 7.74 millones (4T25) a 10.91 millones (2T26) por el cierre de Frontier. Sinergias de costos guiadas en mas de 1000 millones de dolares para 2028. Guidance de aceleracion de revenue de servicio hacia aprox 4 por ciento en el 4T26.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "OCF TTM 38799 millones de dolares muy por encima de la utilidad neta TTM de 16172 millones - buena calidad de ganancias, la brecha se explica por D&A alto (negocio intensivo en activos fijos de red), no por distorsion de mark-to-market como en VST o COIN.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "FCF TTM 21531 millones de dolares (OCF 38799 menos capex 17268), margen de FCF aprox 15.5 por ciento sobre ingresos. Conversion mejorando: guidance propia de crecimiento de FCF de 9 a 10 por ciento para 2026, el nivel mas alto desde 2020 segun la empresa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Capex ya NO es lumpy: el pico de 23087 millones de dolares en FY2022 reflejo el buildout de espectro C-band (subasta 2021), y se estabilizo en 17000 a 18000 millones por anio desde FY2023. Guidance 2026 bajando aun mas a 16.0 a 16.5 mil millones. Mezcla de mantenimiento de red y expansion de fibra Frontier.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Dividendo alto (yield 5.9 a 6.1 por ciento, payout 67.38 por ciento, 20 anios consecutivos de aumento) es la prioridad de asignacion de capital, por encima de crecimiento. Recompras moderadas (3.5 mil millones YTD, hasta 4.5 mil millones guiado para 2026) y pago de deuda tras la integracion de Frontier.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "P/E TTM 12.11x a 12.30x, forward P/E 9.00x a 9.16x, EV a EBITDA 7.89x (calculo propio) a 8.08x, P/FCF 8.96x a 9.11x - multiplos bajos en terminos absolutos y frente al mercado general, consistente con un perfil de bajo crecimiento y alto dividendo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA METODOLOGICO NUEVO: el beta reportado de VZ (0.23 a 0.24, Finviz y stockanalysis, consistente y estadisticamente confiable por decadas de historial) produce, aplicado literal en un DCF FCFF de perpetuidad de Gordon, un resultado matematicamente valido pero economicamente absurdo (Enterprise Value implicito de mas de 1 billon de dolares, casi 3 veces el EV real de mercado de 380 mil millones), porque el WACC resultante (4.4 a 4.8 por ciento) queda demasiado cerca de cualquier tasa de crecimiento terminal razonable. Cruzado con GuruFocus (WACC de mercado real 4.01 por ciento actual, mediana 10 anios 4.34 por ciento) - confirma que el problema no es un error del beta reportado sino que el WACC de mercado de VZ es genuinamente muy bajo, insuficiente para sostener un DCF FCFF de perpetuidad. Se reconstruyo un beta relevered via Hamada desde un beta desapalancado razonado de 0.40 (tipico de infraestructura regulada de telecomunicaciones) y la estructura de capital real de VZ (deuda 188458 millones, patrimonio de mercado 192851 millones, tasa de impuesto 24 por ciento), dando beta ajustado de 0.70 y costo de equity de 7.33 por ciento. Dado que VZ es fundamentalmente una accion de dividendo madura (payout 67 por ciento, 20 anios de aumentos consecutivos), se valoro con un MODELO DE DESCUENTO DE DIVIDENDOS (Gordon growth sobre dividendos, no FCFF) - mismo criterio de abandonar el DCF estandar por una alternativa especifica del sector ya usado con JPM (bancos, Gordon growth sobre TBV) y BRK (conglomerados, suma de partes). Dividendo anualizado actual 2.83 dolares por accion, crecimiento g 2.0 por ciento (anclado al crecimiento historico reciente del dividendo, 1.9 a 2.5 por ciento) - se uso 2.0 por ciento tambien como tasa terminal (mas baja que el 4.0 por ciento estandar del proyecto, documentado como excepcion porque el crecimiento estructural real de VZ, CAGR de ingresos 1.2 a 1.5 por ciento a 5 anios, esta genuinamente por debajo de la convencion macro de 4.0 por ciento). Valor: 2.83 x 1.02 dividido entre (7.33 por ciento menos 2.0 por ciento) = 54.13 dolares por accion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad +16.48 por ciento (precio actual 46.47 dolares vs 54.13 dolares del DDM) - banda de Mantener o esperar mejor punto de entrada, consistente en direccion con el consenso de analistas (+10.95 por ciento, objetivo promedio 51.56 dolares, 26 analistas, stockanalysis). Escenario con el beta literal reportado (0.23, no adoptado): 103.40 dolares por accion, margen +122.6 por ciento - resultado degenerado, descartado como evidencia de que el beta reportado no es usable de forma literal. Escenario con un DCF FCFF tradicional (mismo beta ajustado 0.70, WACC blend 5.71 por ciento, no adoptado): aprox 111 dolares por accion, margen +139 por ciento - tambien descartado, porque el FCF TTM excede folgadamente al dividendo pagado y termina siendo aun mas sensible al spread WACC-terminal estrecho que el DDM.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM de telecomunicaciones EEUU maduro y de bajo crecimiento (1 a 3 por ciento anual). Banda ancha fija (fibra y FWA) tiene mas espacio de crecimiento, ganando cuota frente al cable tradicional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada altas: espectro limitado y costoso (subastas de la FCC), capex de red masivo, escala regulatoria - oligopolio de facto de 3 jugadores nacionales (Verizon, AT&T, T-Mobile).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Rivalidad alta (guerra de precios con T-Mobile y AT&T, litigio activo por publicidad enganosa). Poder de proveedores moderado (pocos proveedores de RAN: Ericsson, Samsung, Nokia). Poder de clientes alto (facil comparar y cambiar de plan). Amenaza de sustitutos moderada (FWA de terceros, cable). Barreras de entrada altas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad baja - la conectividad es un servicio esencial y no discrecional, consistente con el beta bajo observado en el mercado (0.23 a 0.24).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio activo pero manejable: fallo de la Corte Suprema (4-jun-2026, 8 a 1) en Verizon contra la FCC confirmo el poder sancionador de la FCC sin jurado; multa de 46.9 millones de dolares confirmada (2do Circuito, sep-2025) por venta de datos de ubicacion de clientes sin consentimiento (CPNI); demanda colectiva activa por venta de datos de navegacion. Sin riesgo geopolitico o de pais, 100 por ciento domestico EEUU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Riesgo de tipo de cambio nulo, 100 por ciento de los ingresos en dolares estadounidenses.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Sin concentracion de clientes (base masiva de consumidores residenciales). Proveedores de equipos de red concentrados en pocos jugadores (Ericsson, Samsung, Nokia) pero razonablemente intercambiables a mediano plazo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico moderado: comoditizacion de la conectividad pura, competencia de FWA de otros jugadores, la sustitucion de wireline por movil ya ocurrio en gran parte historicamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Relaciones laborales resueltas sin huelga (contrato CWA-IBEW ratificado en marzo-2026 hasta agosto-2030, con aumento salarial compuesto de 17.62 por ciento). Pero litigios activos de privacidad de datos de ubicacion (CPNI) son un riesgo ESG relevante y ya materializado (multa de 46.9 millones de dolares).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Resultados de 3T26 pendientes de reportar. Ejecucion del turnaround de Schulman (nueva propuesta de valor debutando en 1H-2026). Integracion y sinergias de Frontier (objetivo mas de 1000 millones de dolares para 2028). Demanda de VZ contra T-Mobile por publicidad enganosa (feb-2026) sin resolucion confirmada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "Insiders poseen solo 0.06 por ciento de las acciones en circulacion (Finviz) - no se identificaron compras o ventas de insiders relevantes y recientes en esta investigacion; dato no verificado a fondo con fuente primaria (Formularios 4 de la SEC).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "26 analistas (stockanalysis), calificacion consenso Buy (otras fuentes secundarias como marketscreener citan Hold, divergencia moderada entre agregadores), objetivo promedio 51.56 dolares (stockanalysis) a 51.60 dolares (Finviz), consistente entre fuentes, +10.95 por ciento de alza. Rango de precios objetivo 44 a 75 dolares.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.1621621621621623,
+    "recomendacion": "MANTENER - ESPERAR MEJOR PUNTO DE ENTRADA (margen de seguridad +16.5 por ciento via DDM, banda 0 a 20 por ciento; score 3.16 de 5, moderado-bajo por crecimiento organico casi nulo y deuda alta, pero moat solido, gobernanza limpia y dividendo alto y creciente)",
+    "tesis": "Telecom madura de alto dividendo con moat solido y gobernanza limpia, pero crecimiento organico casi nulo y deuda elevada; su beta genuinamente bajo hace inutilizable un DCF FCFF estandar, asi que se valoro via un modelo de descuento de dividendos con beta ajustado, dando un margen de seguridad modesto consistente con el consenso de analistas."
+  }
+}

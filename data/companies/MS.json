@@ -1,0 +1,259 @@
+{
+  "empresa": "Morgan Stanley",
+  "ticker": "MS",
+  "sector": "Financiero - Banco de Inversion y Gestion de Patrimonio",
+  "fecha_analisis": "2026-08-11",
+  "analista": null,
+  "secciones": [
+    {
+      "titulo": "1. MODELO DE NEGOCIO Y VENTAJA COMPETITIVA",
+      "aspectos": [
+        {
+          "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
+          "notas": "Tres segmentos: Institutional Securities (banca de inversion-trading, ingresos netos record de USD 11.0bn en 2T 2026), Wealth Management (USD 8.9bn ingresos netos record, USD 8.1 billones de activos de clientes, USD 148.1bn de activos netos nuevos SOLO en el 2T 2026), Investment Management (USD 2 billones de AUM). Wealth-Investment Management ya representan 54% de los ingresos totales (desde 26% en 2010) - transformacion estructural hacia ingresos recurrentes-de comisiones, menos ciclicos que el trading-IB puro.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
+          "notas": "Moat de \"embudo multiple de adquisicion de clientes\": relaciones corporativas, participantes de planes de acciones (stock-plan), convertidos de auto-dirigido de E*Trade, y clientes de asesoria full-service, todos alimentando la plataforma de Wealth Management - una integracion que, segun analistas externos, nadie mas ha logrado replicar con exito. Adquisicion de E*Trade (2020, USD 13bn, todo en acciones) genuinamente exitosa: USD 400bn migraron de cuentas auto-dirigidas de E*Trade a relaciones de asesoria de MS en 5 anios.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
+          "notas": "Posicion dominante: USD 8.1 billones en activos de clientes de Wealth Management, mas de 16,000 asesores, franquicia de banca de inversion de primer nivel (ingresos de banca de inversion 2T 2026: USD 2.4bn, equity USD 6.3bn, renta fija USD 2.5bn).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Poder de fijación de precios",
+          "notas": "Buen poder de fijacion de precios en asesoria-gestion de patrimonio (comisiones basadas en activos, mas estables), mas competitivo-ciclico en trading-banca de inversion (ligado a actividad de mercados de capital).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "2. CALIDAD DEL MANAGEMENT Y GOBIERNO CORPORATIVO",
+      "aspectos": [
+        {
+          "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
+          "notas": "Sucesion de CEO ordenada: Ted Pick (CEO desde ene-2024) sucedio a James Gorman, quien permanece como Executive Chairman. Disciplina de capital fuerte: USD 18bn de capital CET1 acumulado en los ultimos 10 trimestres, programa de recompras reautorizado hasta USD 20bn, dividendo trimestral elevado a USD 1.15.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Alineación de incentivos (compensación, skin in the game)",
+          "notas": "MUFG (Mitsubishi UFJ Financial Group) es el mayor accionista individual con 24.12% de las acciones comunes (inversion estrategica de USD 9bn cerrada en 2008-2011, aprobada por la Reserva Federal bajo la condicion de que sea PASIVA, sin influencia de control sobre la gerencia) - un socio estrategico de largo plazo, no un interes controlante.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Estructura accionaria (control, doble clase de acciones)",
+          "notas": "Estructura accionaria de una sola clase, pero con una CONCENTRACION notable en un unico accionista estrategico (MUFG, 24.12%) - distinto en naturaleza de la estructura Up-C de IBKR (aqui MUFG posee acciones comunes ordinarias, no una capa economica separada), pero igualmente relevante de documentar como caracteristica estructural.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Transparencia y comunicación con inversionistas",
+          "notas": "Sin escandalos de gobernanza recientes detectados. Entorno regulatorio estandar de banco de importancia sistemica global (GSIB): Reserva Federal, requerimientos de capital Basilea III.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "3. SALUD FINANCIERA (BALANCE GENERAL)",
+      "aspectos": [
+        {
+          "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
+          "notas": "Metrica NO aplica limpiamente al modelo de banco de inversion - Debt/Equity de 4.69x (Finviz) refleja la estructura de fondeo tipica de un GSIB (financiamiento mayorista-repo-deuda de trading), no apalancamiento financiero problematico - se uso el ratio de capital CET1 (acumulacion de USD 18bn en 10 trimestres) como indicador de solidez de balance mas relevante, mismo criterio que JPM.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
+          "notas": "Razon corriente 1.40 (Finviz) - misma limitacion de interpretacion ya documentada con bancos-brokers del Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Estructura de vencimientos de deuda",
+          "notas": "Calendario de vencimientos de deuda no verificado en detalle esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
+          "notas": "Goodwill-intangibles de aprox USD 22.98bn (fusiones E*Trade 2020, Eaton Vance 2021) sobre patrimonio total de USD 117.44bn (~19.6%) - moderado, no tan extremo como CB o SPGI. Valor en Libros por Accion USD 73.61 vs Valor TANGIBLE en Libros por Accion USD 59.07 - se uso el TBV como base del modelo, mismo criterio que JPM.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "4. RENTABILIDAD Y EFICIENCIA",
+      "aspectos": [
+        {
+          "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
+          "notas": "Margenes solidos: operativo 20.10%, neto 15.17% (Finviz) - mas bajos en apariencia que SPGI-MCO porque incluyen el negocio de trading de bajo margen relativo (grandes volumenes, spreads delgados). ROTCE (la metrica que la propia empresa destaca) fue record de 26.6% en el 2T 2026 (trimestre puntual), pero el ROTCE del ANO FISCAL COMPLETO 2025 fue de 21.6% - una brecha relevante entre el trimestre mas reciente y el promedio anual.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "ROE, ROIC, ROA vs. costo de capital",
+          "notas": "ROTCE de 21.6% (FY2025, cifra anual limpia) a 26.6% (2T 2026, trimestre record) - ambos comodamente por encima del Ke propio (10.1%), fuerte creacion de valor. Ver gotcha de fila 41 sobre que cifra usar en el modelo de valoracion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
+          "notas": "Metrica de rotacion de activos tradicional no aplica de forma informativa al balance de un banco de inversion (dominado por activos-pasivos de trading-financiamiento mayorista) - se dejo en blanco en el Dashboard, mismo criterio que JPM.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "5. CRECIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
+          "notas": "CAGR de ingresos 5 anios de 17.76-17.88% (Finviz) - parcialmente boosted por las fusiones de E*Trade (2020) y Eaton Vance (2021), ambas dentro de la ventana de 5 anios, no puramente organico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
+          "notas": "Crecimiento con ciclicidad genuina en Institutional Securities (trading-banca de inversion ligados a actividad de mercados de capital), pero cada vez mas amortiguado por el peso creciente de Wealth-Investment Management (54% de ingresos, ingresos recurrentes basados en activos) - una transformacion estructural real hacia mayor estabilidad, similar en espiritu (aunque de otra industria) a la creciente ponderacion de Market Intelligence-Indices en SPGI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
+          "notas": "Motores de crecimiento futuro: continuo crecimiento de activos netos nuevos en Wealth Management (USD 148.1bn solo en el 2T 2026), profundizacion de venta cruzada (alternativos, indexacion directa, banca, planificacion) a traves de los multiples canales de adquisicion de clientes, pipeline de banca de inversion.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "6. GENERACIÓN Y USO DE FLUJO DE CAJA",
+      "aspectos": [
+        {
+          "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
+          "notas": "La calidad de ganancias esta genuinamente ligada al ciclo de mercados de capital (trading-IB), aunque cada vez mas amortiguada por el mix creciente de Wealth-Investment Management de ingresos recurrentes - el trimestre record del 2T 2026 (ROTCE 26.6%) probablemente no es un nivel sostenible indefinidamente, ver gotcha de fila 41.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
+          "notas": "Conceptos de FCF-conversion de EBITDA no aplican de forma limpia al modelo de banco de inversion - se dejaron en blanco en el Dashboard, mismo criterio que JPM.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Capex: mantenimiento vs. crecimiento",
+          "notas": "Concepto de capex tradicional no es el mas relevante para este tipo de negocio - no desglosado con precision esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
+          "notas": "Uso del capital excelente: programa de recompras reautorizado hasta USD 20bn, dividendo trimestral elevado a USD 1.15, USD 18bn de capital CET1 acumulado en 10 trimestres - disciplina de capital de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "7. VALORACIÓN",
+      "aspectos": [
+        {
+          "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
+          "notas": "Multiplos moderados: P/E TTM 17.29-17.40x, forward mas bajo (15.67-16.48x, confirma crecimiento esperado, no compresion), P/B reportado 3.16x.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Valor intrínseco estimado (DCF)",
+          "notas": "GOTCHA: mismo tipo de ajuste de normalizacion ya visto en PGR-TRV (no usar una cifra de rentabilidad en pico ciclico-trimestral literal en una formula de perpetuidad), aqui aplicado al ROTCE de un banco de inversion en vez del ROE de una aseguradora. El ROTCE del 2T 2026 (26.6%) fue un TRIMESTRE RECORD, notablemente mas alto que el ROTCE del ANO FISCAL COMPLETO 2025 (21.6%, cifra mas limpia y representativa de un ciclo mas completo de actividad de mercados de capital). Se adopto un ROTCE normalizado de 23% (punto medio razonado entre ambos, mismo tipo de logica ya usada en JPM al normalizar entre el ROTCE reportado y el ex-items). Valor Intrinseco (Gordon growth sobre TBV, Escenario A adoptado): USD 184.0/accion = TBVPS (USD 59.07) x (ROTCE normalizado 23% menos g 4%) sobre (Ke 10.1% menos g 4%). Beta LITERAL (1.20-1.21) usado SIN sustituto -chequeo de multiplo implicito no degenerado, tercer caso limpio del sub-grupo banco-broker de la sesion tras SPGI y SCHW-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
+          "notas": "Margen de Seguridad: -14.0% (precio actual USD 214.00 vs valor intrinseco USD 184.0) - moderadamente negativo en el escenario adoptado. Sensibilidad amplia al ROTCE elegido: Escenario B (ROTCE FY2025 literal, 21.6%) da -20.4%; Escenario C (ROTCE del trimestre record 2T 2026, 26.6%) da +2.3%. Consenso de 25 analistas (Buy, objetivo USD 236.62-242.14, +10.6% a +13.1%) diverge en direccion OPUESTA al escenario adoptado de este DDM -mas cercano al Escenario C-, reflejo de que el mercado parece estar pagando por la continuidad del momentum reciente de mercados de capital.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "8. INDUSTRIA Y ENTORNO COMPETITIVO",
+      "aspectos": [
+        {
+          "aspecto": "Tamaño y crecimiento del mercado (TAM)",
+          "notas": "TAM muy grande: gestion de patrimonio global, mercados de capital-banca de inversion global, con la industria de wealth management descrita por multiples fuentes como en expansion estructural (traspaso generacional de riqueza, crecimiento de activos financieros globales).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Barreras de entrada",
+          "notas": "Barreras de entrada muy altas: escala de la plataforma de Wealth Management (16,000+ asesores, USD 8.1 billones de activos), franquicia de banca de inversion establecida durante decadas, requerimientos de capital regulatorio GSIB.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "5 fuerzas de Porter (resumen)",
+          "notas": "Porter: posicion fuerte en Wealth Management gracias a la escala-multiples canales de adquisicion (aunque con competencia real de Schwab -ya en el Dashboard-, Merrill-BofA, UBS), rivalidad alta en trading-banca de inversion (Goldman Sachs, JPM -ya en el Dashboard-, bancos globales), poder de clientes moderado, amenaza de sustitutos baja, amenaza de nuevos entrantes muy baja (barrera de capital-escala-regulatoria).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Ciclicidad de la industria",
+          "notas": "Ciclicidad genuina en el segmento Institutional Securities (trading-banca de inversion ligados al ciclo de mercados de capital), cada vez mas amortiguada por el peso creciente de Wealth-Investment Management (54% de ingresos) - perfil hibrido similar en espiritu al de MCO (mezcla estable-suscripcion mas transaccional-ciclico), aqui aplicado a un banco de inversion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "9. RIESGOS",
+      "aspectos": [
+        {
+          "aspecto": "Riesgo regulatorio / político / país",
+          "notas": "Riesgo regulatorio de banco de importancia sistemica global (GSIB): requerimientos de capital Basilea III endgame, escrutinio regulatorio estandar de la Reserva Federal - similar en naturaleza al ya documentado con JPM.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo de tipo de cambio",
+          "notas": "Exposicion cambiaria real dada la naturaleza global de las operaciones de banca de inversion-trading, aunque la mayoria del negocio (especialmente Wealth Management) es domestico de EEUU.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentración de clientes/proveedores",
+          "notas": "Base de clientes muy diversificada: millones de clientes de Wealth Management (via multiples canales: corporativo, planes de acciones, E*Trade, asesoria full-service), amplia base institucional en Institutional Securities.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgo tecnológico / disrupción",
+          "notas": "Riesgo tecnologico moderado, sin ser un diferenciador tan marcado como en IBKR (automatizacion) o Schwab (integraciones RIA) - inversion en tecnologia de trading-plataforma de asesoria estandar de la industria.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgo ESG (si aplica)",
+          "notas": "Riesgo ESG bajo, sin exposicion estructural tipo combustibles fosiles-tabaco.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "10. CATALIZADORES Y SENTIMIENTO",
+      "aspectos": [
+        {
+          "aspecto": "Próximos eventos relevantes",
+          "notas": "Seguimiento de la actividad de mercados de capital (pipeline de banca de inversion, volumen de trading) como principal driver ciclico de Institutional Securities; progreso continuo de activos netos nuevos en Wealth Management; trayectoria de tasas de la Fed.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Insider buying/selling",
+          "notas": "No investigado en profundidad en esta sesion - pendiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Cobertura y revisiones de analistas",
+          "notas": "Consenso de 25 analistas: calificacion Buy, precio objetivo promedio USD 236.62 a USD 242.14 (+10.6% a +13.1% de alza) - diverge en direccion OPUESTA al escenario adoptado de este DDM (-14.0%), aunque converge mejor con el Escenario C (ROTCE del trimestre record, +2.3%) - el mercado parece pagar por la continuidad del momentum reciente de mercados de capital.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    }
+  ],
+  "conclusion": {
+    "score_promedio": 3.7567567567567566,
+    "recomendacion": "MANTENER - moat de embudo multiple de adquisicion de clientes en Wealth Management (54% de ingresos, hasta USD 8.1 billones de activos) genuinamente excelente y probado con la integracion de E*Trade, pero el DDM sobre TBV con ROTCE normalizado (23%, entre el 21.6% de FY2025 y el 26.6% record del 2T 2026) da margen de seguridad negativo (-14.0%), en tension con el consenso de analistas Buy (+10.6% a +13.1%) que parece pagar por la continuidad del momentum reciente",
+    "tesis": "Banco de inversion con la transformacion estructural mas exitosa hacia ingresos recurrentes de gestion de patrimonio del Dashboard (via la integracion de E*Trade), pero cotizando a un precio que exige que el ROTCE record reciente se sostenga, no solo el promedio de ciclo completo."
+  }
+}
