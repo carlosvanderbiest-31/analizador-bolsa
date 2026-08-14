@@ -1,6 +1,7 @@
 import json
 import streamlit as st
 from pathlib import Path
+from streamlit_searchbox import st_searchbox
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
 
@@ -224,6 +225,32 @@ def cargar_ficha_etf(ticker: str):
         return None
     with open(path, encoding="utf-8") as f:
         return json.load(f)
+
+
+# ── BUSCADOR (acciones + ETFs, sobre los datos de Mi Análisis) ─────────────────
+
+@st.cache_data(ttl=3600, show_spinner=False)
+def _indice_busqueda():
+    idx = []
+    for e in cargar_datos_excel():
+        idx.append(("acciones", e["ticker"], e.get("empresa") or "", e.get("sector") or ""))
+    for e in cargar_datos_etfs():
+        idx.append(("etfs", e["ticker"], e.get("nombre") or "", e.get("categoria") or ""))
+    return idx
+
+
+def buscar_activo(query: str):
+    if not query or len(query.strip()) < 1:
+        return []
+    q = query.strip().upper()
+    resultados = []
+    for modo, ticker, nombre, tag in _indice_busqueda():
+        if q in ticker.upper() or q in nombre.upper():
+            etiqueta_modo = "Acción" if modo == "acciones" else "ETF"
+            label = f"{ticker} — {nombre}  ({etiqueta_modo})" if nombre else f"{ticker}  ({etiqueta_modo})"
+            resultados.append((label, f"{modo}|{ticker}"))
+    resultados.sort(key=lambda r: (not r[1].split("|", 1)[1].upper().startswith(q), r[0]))
+    return resultados[:15]
 
 
 # ── ANÁLISIS FUNDAMENTAL PROPIO (Excel) ─────────────────────────────────────────
@@ -979,8 +1006,26 @@ with st.sidebar:
     # Título clicable → vuelve a la pantalla principal
     if st.button("📊 Analizador de Bolsa", key="btn_home", use_container_width=True):
         st.session_state.ticker_click = None
+        for k in [k for k in st.session_state if k.startswith("buscador_activo")]:
+            del st.session_state[k]
         st.rerun()
     st.caption("Análisis fundamental · mediano y largo plazo")
+    st.markdown("---")
+
+    ticker_buscado = st_searchbox(
+        buscar_activo,
+        placeholder="Ticker o nombre (acción o ETF)...",
+        label="Buscar en Mi Análisis",
+        key="buscador_activo",
+        default=None,
+        clear_on_submit=True,
+    )
+    if ticker_buscado:
+        _modo_busq, _tk_busq = ticker_buscado.split("|", 1)
+        st.session_state.modo = _modo_busq
+        st.session_state["modo_selector"] = "📊 Acciones" if _modo_busq == "acciones" else "📦 ETFs"
+        st.session_state.ticker_click = _tk_busq
+        st.rerun()
     st.markdown("---")
 
     st.markdown("**Modo**")
