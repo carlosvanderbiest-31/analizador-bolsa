@@ -1,36 +1,36 @@
 {
   "nombre": "iShares iBoxx $ High Yield Corporate Bond ETF",
   "ticker": "HYG",
-  "categoria": "Renta Fija Corporativa (HIGH YIELD / grado especulativo, duracion corta ~2.9 anios)",
+  "categoria": "Renta Fija Corporativa (HIGH YIELD / grado especulativo, duración corta ~2.9 años)",
   "emisor": "BlackRock/iShares",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO ('index-sampling approach', patron estandar iShares) - esperado para un indice amplio de mas de mil bonos de alto rendimiento. Sin riesgo de contraparte (no hay swaps).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO ('index-sampling approach', patrón estándar iShares) - esperado para un índice amplio de mas de mil bonos de alto rendimiento. Sin riesgo de contraparte (no hay swaps).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. Bonos denominados en USD, emisores mayoritariamente US (muchos LBOs privados via colocaciones 144A) - mismo criterio fiscal que el resto de renta fija del proyecto, el interes tributa como INGRESO ORDINARIO.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. Bonos denominados en USD, emisores mayoritariamente US (muchos LBOs privados via colocaciones 144A) - mismo criterio fiscal que el resto de renta fija del proyecto, el interés tributa como INGRESO ORDINARIO.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM = $17.37bn (stockanalysis) - menor que los 4 ETFs de renta fija IG del proyecto (VCIT $67bn, VCSH $45-52bn, LQD $32bn) pero mayor que VCLT ($9.2bn) y aun asi uno de los ETFs de high yield mas grandes del mercado.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM = $17.37bn (stockanalysis) - menor que los 4 ETFs de renta fija IG del proyecto (VCIT $67bn, VCSH $45-52bn, LQD $32bn) pero mayor que VCLT ($9.2bn) y aun así uno de los ETFs de high yield mas grandes del mercado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 4-abr-2007 (~19.3 anios) - SEGUNDO track record de renta fija mas largo del proyecto tras LQD (24.1 anios), y JUNTO CON LQD el UNICO ETF de renta fija del proyecto cuyo historial incluye la crisis financiera 2008 COMPLETA (a diferencia de VCSH/VCLT/VCIT, todos nacidos nov-2009 ya post-crisis) - relevante porque el credito high yield fue de los segmentos mas golpeados en 2008.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 4-abr-2007 (~19.3 años) - SEGUNDO track record de renta fija mas largo del proyecto tras LQD (24.1 años), y JUNTO CON LQD el ÚNICO ETF de renta fija del proyecto cuyo historial incluye la crisis financiera 2008 COMPLETA (a diferencia de VCSH/VCLT/VCIT, todos nacidos nov-2009 ya post-crisis) - relevante porque el crédito high yield fue de los segmentos mas golpeados en 2008.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - SEXTA aparicion en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, ahora HYG).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - SEXTA aparición en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, ahora HYG).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.49% - EL MAS CARO entre los 5 ETFs de renta fija del proyecto (3.5x mas caro que LQD, 0.14%), aunque razonable para el segmento HY donde el research crediticio es mas intensivo. Competidores mas baratos identificados: JNK (SPDR, TER 0.40%), USHY (iShares Broad High Yield, mas barato y diversificado). **Presion competitiva nueva**: Vanguard planea lanzar VCHY en jun-2026 como competidor directo de bajo costo (24/7 Wall St, abr-2026) - primera vez que el proyecto documenta un lanzamiento FUTURO anunciado como riesgo competitivo explicito.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.49% - EL MAS CARO entre los 5 ETFs de renta fija del proyecto (3.5x mas caro que LQD, 0.14%), aunque razonable para el segmento HY donde el research crediticio es mas intensivo. Competidores mas baratos identificados: JNK (SPDR, TER 0.40%), USHY (iShares Broad High Yield, mas barato y diversificado). **Presión competitiva nueva**: Vanguard planea lanzar VCHY en jun-2026 como competidor directo de bajo costo (24/7 Wall St, abr-2026) - primera vez que el proyecto documenta un lanzamiento FUTURO anunciado como riesgo competitivo explicito.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion. **Gotcha de bloqueo de iShares.com RECONFIRMADO por segunda vez** (ya documentado con LQD): el fact sheet oficial actual devolvio error 403 en todos los intentos; el unico mirror encontrado (Kristal, Singapur) tenia fecha 30-jun-2020, descartado explicitamente por desactualizado (6 anios) sin siquiera citarse, mismo criterio que el fact sheet de LQD de 2020.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión. **Gotcha de bloqueo de iShares.com RECONFIRMADO por segunda vez** (ya documentado con LQD): el fact sheet oficial actual devolvio error 403 en todos los intentos; el único mirror encontrado (Kristal, Singapur) tenia fecha 30-jun-2020, descartado explícitamente por desactualizado (6 años) sin siquiera citarse, mismo criterio que el fact sheet de LQD de 2020.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion.",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover rate no verificado con fuente primaria esta sesion (fact sheet oficial bloqueado, mismo patron que la fila 19).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover rate no verificado con fuente primaria esta sesión (fact sheet oficial bloqueado, mismo patrón que la fila 19).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 23,049,120 acciones (stockanalysis) x $79.46/accion = aprox **$1,831.5M/dia - SEGUNDO RECORD DE LIQUIDEZ DEL PROYECTO tras LQD ($2.03bn/dia)**, muy por encima de VCIT ($587.2M), XLE ($1.23bn) y el resto del proyecto. HYG es ampliamente usado por instituciones como vehiculo de cobertura/expresion macro de credito, lo que explica su liquidez extrema pese a un AUM menor que VCIT/VCSH.",
+          "notas": "Volumen diario = 23,049,120 acciones (stockanalysis) x $79.46/acción = aprox **$1,831.5M/dia - SEGUNDO RÉCORD DE LIQUIDEZ DEL PROYECTO tras LQD ($2.03bn/dia)**, muy por encima de VCIT ($587.2M), XLE ($1.23bn) y el resto del proyecto. HYG es ampliamente usado por instituciones como vehículo de cobertura/expresión macro de crédito, lo que explica su liquidez extrema pese a un AUM menor que VCIT/VCSH.",
           "calificacion": 5
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesion, pero el volumen extremo ($1.8bn+/dia) sugiere un mercado muy liquido con spread ajustado.",
+          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesión, pero el volumen extremo ($1.8bn+/dia) sugiere un mercado muy liquido con spread ajustado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV = +0.08% a +0.25% segun fuente - **premium ESTRUCTURAL Y PERSISTENTE** (no una senal de ineficiencia): la NAV de HYG se calcula usando el precio BID de los bonos subyacentes, mientras el ETF cotiza cerca del punto medio/ask - mismo mecanismo ya documentado con VCLT (nota tecnica de Vanguard sobre bid vs midpoint), aqui mas pronunciado y confirmado explicitamente por una fuente dedicada a este fenomeno especifico de HYG.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV = +0.08% a +0.25% según fuente - **premium ESTRUCTURAL Y PERSISTENTE** (no una señal de ineficiencia): la NAV de HYG se calcula usando el precio BID de los bonos subyacentes, mientras el ETF cotiza cerca del punto medio/ask - mismo mecanismo ya documentado con VCLT (nota técnica de Vanguard sobre bid vs midpoint), aquí mas pronunciado y confirmado explícitamente por una fuente dedicada a este fenomeno específico de HYG.",
           "calificacion": 4
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "1,333 holdings (stockanalysis) - MENOR que los 4 ETFs de renta fija IG del proyecto (2,269-3,143), reflejo tipico del universo HY (menos emisores institucionales elegibles y liquidos que en investment grade).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "1,333 holdings (stockanalysis) - MENOR que los 4 ETFs de renta fija IG del proyecto (2,269-3,143), reflejo típico del universo HY (menos emisores institucionales elegibles y liquidos que en investment grade).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 holdings = aprox 4.34% (calculado de stockanalysis: suma de las 10 posiciones principales, 0.99% a 0.30% cada una) - MAYOR que los 4 ETFs de renta fija IG del proyecto (2.71%-2.94%), coherente con un universo HY mas concentrado en menos emisores, pero aun razonablemente diversificado dado que ningun bono individual supera el 1%. Posicion #1 (0.99%) es nuevamente un instrumento de liquidez (BLK CSH FND Treasury), no un bono corporativo.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 holdings = aprox 4.34% (calculado de stockanalysis: suma de las 10 posiciones principales, 0.99% a 0.30% cada una) - MAYOR que los 4 ETFs de renta fija IG del proyecto (2.71%-2.94%), coherente con un universo HY mas concentrado en menos emisores, pero aun razonablemente diversificado dado que ningún bono individual supera el 1%. Posición #1 (0.99%) es nuevamente un instrumento de liquidez (BLK CSH FND Treasury), no un bono corporativo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Distribucion sectorial no verificada con precision esta sesion (fact sheet oficial bloqueado, mismo patron que filas 19/21). Composicion cualitativa observada en el top15: emisores de multiples sectores (telecom/medios -EchoStar, Nexstar-, salud -Centene-, materiales de construccion -Quikrete-, software -Cloud Software Group-, seguros -Hub International-, energia -Venture Global LNG-, real estate -PR/SV RNO Property Owner-) - aparenta buena diversificacion sectorial cualitativa sin verificacion cuantitativa.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Distribución sectorial no verificada con precisión esta sesión (fact sheet oficial bloqueado, mismo patrón que filas 19/21). Composición cualitativa observada en el top15: emisores de múltiples sectores (telecom/medios -EchoStar, Nexstar-, salud -Centene-, materiales de construcción -Quikrete-, software -Cloud Software Group-, seguros -Hub International-, energía -Venture Global LNG-, real estate -PR/SV RNO Property Owner-) - aparenta buena diversificación sectorial cualitativa sin verificación cuantitativa.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Emisores mayoritariamente US, muchos via colocaciones privadas 144A (LBOs, deuda de adquisicion) - mismo perfil domestico que el resto de renta fija del proyecto.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Emisores mayoritariamente US, muchos via colocaciones privadas 144A (LBOs, deuda de adquisición) - mismo perfil domestico que el resto de renta fija del proyecto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' dominante es CALIDAD CREDITICIA BAJA (grado ESPECULATIVO, avg ~B+) en vez de duracion - **PRIMERA VEZ que el eje de riesgo dominante en un ETF de renta fija del proyecto es CREDITO en vez de TASA**: duracion efectiva ~2.91 anios, SIMILAR a VCSH (2.4 anios) pese a un perfil de riesgo completamente distinto - demuestra que duracion corta NO implica bajo riesgo total cuando el riesgo de credito es alto (ver Max Drawdown -34.25%, fila 41, el mas severo del proyecto en renta fija pese a la duracion mas corta que LQD/VCLT/VCIT).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' dominante es CALIDAD CREDITICIA BAJA (grado ESPECULATIVO, avg ~B+) en vez de duración - **PRIMERA VEZ que el eje de riesgo dominante en un ETF de renta fija del proyecto es CRÉDITO en vez de TASA**: duración efectiva ~2.91 años, SIMILAR a VCSH (2.4 años) pese a un perfil de riesgo completamente distinto - demuestra que duración corta NO implica bajo riesgo total cuando el riesgo de crédito es alto (ver Max Drawdown -34.25%, fila 41, el mas severo del proyecto en renta fija pese a la duración mas corta que LQD/VCLT/VCIT).",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Markit iBoxx USD Liquid High Yield Index - mismo proveedor y filosofia de liquidez (filtro 'Liquid') que LQD, aplicado aqui al universo de grado especulativo.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Markit iBoxx USD Liquid High Yield Index - mismo proveedor y filosofia de liquidez (filtro 'Liquid') que LQD, aplicado aquí al universo de grado especulativo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesion (fact sheet oficial bloqueado).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesión (fact sheet oficial bloqueado).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = +5.01% (total return, stockanalysis, ago-2026) - un articulo de abr-2026 (24/7 Wall St) menciona un retorno de '~10% en el ultimo ano' en esa fecha anterior, no necesariamente contradictorio (ventanas de tiempo distintas en un activo con retornos variables mes a mes, no se trata como cifra irreconciliable). Retorno desde inception (19.3 anios, incluye 2008) = +4.95% anualizado (stockanalysis) - razonable dado que incluye la crisis financiera completa.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = +5.01% (total return, stockanalysis, ago-2026) - un articulo de abr-2026 (24/7 Wall St) menciona un retorno de '~10% en el último ano' en esa fecha anterior, no necesariamente contradictorio (ventanas de tiempo distintas en un activo con retornos variables mes a mes, no se trata como cifra irreconciliable). Retorno desde inception (19.3 años, incluye 2008) = +4.95% anualizado (stockanalysis) - razonable dado que incluye la crisis financiera completa.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada = 5.56% (PortfoliosLab, desde inception) - se acepta con cautela moderada (una cifra alternativa de 0.94% 'rolling 1 mes' se descarta por ser una ventana corta no comparable a las anualizadas del resto del proyecto). **Notablemente MENOR que LQD (9.3%) pese a mayor riesgo de credito** - refleja que la duracion mucho mas corta de HYG (2.9 vs 8 anios) domina la volatilidad de PRECIO diaria, aunque el riesgo de credito se manifiesta mas en drawdowns severos de cola (fila 41) que en volatilidad cotidiana - ejes de riesgo distintos (tasa vs credito) que no siempre se reflejan igual en cada metrica.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada = 5.56% (PortfoliosLab, desde inception) - se acepta con cautela moderada (una cifra alternativa de 0.94% 'rolling 1 mes' se descarta por ser una ventana corta no comparable a las anualizadas del resto del proyecto). **Notablemente MENOR que LQD (9.3%) pese a mayor riesgo de crédito** - refleja que la duración mucho mas corta de HYG (2.9 vs 8 años) domina la volatilidad de PRECIO diaria, aunque el riesgo de crédito se manifiesta mas en drawdowns severos de cola (fila 41) que en volatilidad cotidiana - ejes de riesgo distintos (tasa vs crédito) que no siempre se reflejan igual en cada métrica.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -34.25% desde inception (PortfoliosLab) - **EL MAS SEVERO entre los 5 ETFs de renta fija del proyecto**, practicamente empatado con VCLT (-34.3%, duracion 4x mayor) pese a que HYG tiene duracion mucho mas corta - confirma que el riesgo de CREDITO (no solo de tasa) puede producir drawdowns tan severos como el de mayor duracion del proyecto. Refleja el colapso de credito de 2008 (ni VCSH ni VCLT ni VCIT lo capturan en su propio historial).",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -34.25% desde inception (PortfoliosLab) - **EL MAS SEVERO entre los 5 ETFs de renta fija del proyecto**, prácticamente empatado con VCLT (-34.3%, duración 4x mayor) pese a que HYG tiene duración mucho mas corta - confirma que el riesgo de CRÉDITO (no solo de tasa) puede producir drawdowns tan severos como el de mayor duración del proyecto. Refleja el colapso de crédito de 2008 (ni VCSH ni VCLT ni VCIT lo capturan en su propio historial).",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "**Cifras de Sharpe inconsistentes (1.24 a 12 meses vs 1.42 en otra comparacion)** - mismo patron de gotcha ya documentado repetidamente (SOXX, CIBR, LQD, VCIT). Se deja en blanco en el Dashboard.",
+          "notas": "**Cifras de Sharpe inconsistentes (1.24 a 12 meses vs 1.42 en otra comparación)** - mismo patrón de gotcha ya documentado repetidamente (SOXX, CIBR, LQD, VCIT). Se deja en blanco en el Dashboard.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.40 (stockanalysis) - MAYOR que VCSH (0.13) y VCIT (0.33) pese a duracion similar o menor, reflejo de que el credito HY se correlaciona mas con el ciclo economico/equity que el credito IG de duracion comparable (los diferenciales de credito se amplian en recesiones al mismo tiempo que caen las acciones). **CERO OVERLAP CON EL DASHBOARD DE ACCIONES INDIVIDUALES DEL USUARIO** - ninguno de los emisores del top15 (1261229 BC Ltd, Meridian ARC Holdco, EchoStar, PR/SV RNO Property Owner, Quikrete, Cloud Software Group, Centene, Hub International, Venture Global LNG, Core Scientific, Asurion, Nexstar Media) coincide con la lista de 89 empresas ya analizadas - la naturaleza privada/LBO de muchos emisores HY los hace estructuralmente distintos del universo de mega-caps publicas que domina la cartera del usuario. **PRIMER DIVERSIFICADOR PURO DE RIESGO DE CREDITO del proyecto** (distinto de VCSH, que diversifica CLASE DE ACTIVO pero con riesgo de credito minimo).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.40 (stockanalysis) - MAYOR que VCSH (0.13) y VCIT (0.33) pese a duración similar o menor, reflejo de que el crédito HY se correlaciona mas con el ciclo económico/equity que el crédito IG de duración comparable (los diferenciales de crédito se amplian en recesiones al mismo tiempo que caen las acciones). **CERO OVERLAP CON EL DASHBOARD DE ACCIONES INDIVIDUALES DEL USUARIO** - ninguno de los emisores del top15 (1261229 BC Ltd, Meridian ARC Holdco, EchoStar, PR/SV RNO Property Owner, Quikrete, Cloud Software Group, Centene, Hub International, Venture Global LNG, Core Scientific, Asurion, Nexstar Media) coincide con la lista de 89 empresas ya analizadas - la naturaleza privada/LBO de muchos emisores HY los hace estructuralmente distintos del universo de mega-caps públicas que domina la cartera del usuario. **PRIMER DIVERSIFICADOR PURO DE RIESGO DE CRÉDITO del proyecto** (distinto de VCSH, que diversifica CLASE DE ACTIVO pero con riesgo de crédito mínimo).",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "19.3 anios de historial - SEGUNDO mas largo de renta fija del proyecto tras LQD - cubren la crisis financiera 2008 COMPLETA (el evento mas relevante posible para un fondo de credito HIGH YIELD especificamente, mas que para uno IG), la correccion de credito COVID 2020, y el ciclo de alzas de tasas 2022-2026.",
+          "notas": "19.3 años de historial - SEGUNDO mas largo de renta fija del proyecto tras LQD - cubren la crisis financiera 2008 COMPLETA (el evento mas relevante posible para un fondo de crédito HIGH YIELD específicamente, mas que para uno IG), la corrección de crédito COVID 2020, y el ciclo de alzas de tasas 2022-2026.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "No aplica - HYG es un fondo 100% renta fija, sin componente de equity (mismo criterio que el resto de renta fija del proyecto).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 5.90% (stockanalysis) / SEC Yield 5.77% (30-jun-2026) - buena corroboracion. Distribucion MENSUAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 5.90% (stockanalysis) / SEC Yield 5.77% (30-jun-2026) - buena corroboración. Distribución MENSUAL.",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "Duracion efectiva ~2.91 anios (24/7 Wall St, abr-2026) - **duracion CORTA, similar a VCSH (2.4 anios)** pese al perfil de riesgo de credito completamente distinto (ver fila 34). Vencimiento promedio ~5.5 anios. SEC Yield 5.77% (30-jun-2026, fuente confiable) - se usa esta cifra en vez de una cifra de 'YTM 9.75%' encontrada en un snippet, **DESCARTADA explicitamente por implausible/inconsistente** (no reconcilia con el SEC Yield 5.77% ni con el Dividend Yield TTM 5.90%, ambos bien corroborados entre si). Calidad crediticia: PRIMERA VEZ que un ETF de renta fija del proyecto es GRADO ESPECULATIVO - promedio ~B+, predominantemente BB y B con algo de CCC (cualitativo, 24/7 Wall St), pero el desglose PORCENTUAL exacto NO se pudo verificar esta sesion (fact sheet oficial bloqueado, mismo patron de las filas 19/21/32/36). Default rate = 2.5% trailing 12 meses (benigno, 24/7 Wall St).",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "Duración efectiva ~2.91 años (24/7 Wall St, abr-2026) - **duración CORTA, similar a VCSH (2.4 años)** pese al perfil de riesgo de crédito completamente distinto (ver fila 34). Vencimiento promedio ~5.5 años. SEC Yield 5.77% (30-jun-2026, fuente confiable) - se usa esta cifra en vez de una cifra de 'YTM 9.75%' encontrada en un snippet, **DESCARTADA explícitamente por implausible/inconsistente** (no reconcilia con el SEC Yield 5.77% ni con el Dividend Yield TTM 5.90%, ambos bien corroborados entre si). Calidad crediticia: PRIMERA VEZ que un ETF de renta fija del proyecto es GRADO ESPECULATIVO - promedio ~B+, predominantemente BB y B con algo de CCC (cualitativo, 24/7 Wall St), pero el desglose PORCENTUAL exacto NO se pudo verificar esta sesión (fact sheet oficial bloqueado, mismo patrón de las filas 19/21/32/36). Default rate = 2.5% trailing 12 meses (benigno, 24/7 Wall St).",
           "calificacion": 3
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**Primera vez que se documenta un percentil de spread de CREDITO HIGH YIELD especificamente** (distinto del spread IG ya documentado en LQD/VCIT): OAS = 262-271pb (ago-2026, Convex/24-7 Wall St) vs un umbral cualitativo de 350pb citado como senal de 'complacencia de fin de ciclo' - spreads HY tambien COMPRIMIDOS, mismo tipo de riesgo de valoracion ya visto en LQD/VCIT, aunque esta evidencia es cualitativamente MAS BLANDA (un umbral de alerta, no un percentil numerico exacto contra el propio promedio historico como el 70pb-vs-132pb de LQD). Competidores identificados sin datos propios verificados: JNK (SPDR, TER 0.40%), USHY (iShares Broad High Yield), SHYG (iShares 0-5yr HY, duracion aun mas corta), VCHY (Vanguard, lanzamiento anunciado jun-2026).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**Primera vez que se documenta un percentil de spread de CRÉDITO HIGH YIELD específicamente** (distinto del spread IG ya documentado en LQD/VCIT): OAS = 262-271pb (ago-2026, Convex/24-7 Wall St) vs un umbral cualitativo de 350pb citado como señal de 'complacencia de fin de ciclo' - spreads HY también COMPRIMIDOS, mismo tipo de riesgo de valoración ya visto en LQD/VCIT, aunque esta evidencia es cualitativamente MAS BLANDA (un umbral de alerta, no un percentil numerico exacto contra el propio promedio histórico como el 70pb-vs-132pb de LQD). Competidores identificados sin datos propios verificados: JNK (SPDR, TER 0.40%), USHY (iShares Broad High Yield), SHYG (iShares 0-5yr HY, duración aun mas corta), VCHY (Vanguard, lanzamiento anunciado jun-2026).",
           "calificacion": 4
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "**PRIMER ETF DE HIGH YIELD (grado especulativo) del proyecto** - el riesgo dominante es CREDITO, no TASA (duracion corta, similar a VCSH). Dado el beta mas alto (0.40) y la mayor correlacion con el ciclo economico/equity tipica del credito HY, se clasifica como **'Satelite'** - primera vez que esta categoria se usa para renta fija del proyecto (distinta de 'Cobertura' de VCSH, 'Tactico/Satelite' de VCLT, y 'Core' de LQD/VCIT). Su funcion de cartera es genuinamente unica: ingreso alto + diversificacion de credito, no ballast de baja volatilidad ni exposicion beta al mercado amplio de bonos IG.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "**PRIMER ETF DE HIGH YIELD (grado especulativo) del proyecto** - el riesgo dominante es CRÉDITO, no TASA (duración corta, similar a VCSH). Dado el beta mas alto (0.40) y la mayor correlación con el ciclo económico/equity típica del crédito HY, se clasifica como **'Satélite'** - primera vez que esta categoría se usa para renta fija del proyecto (distinta de 'Cobertura' de VCSH, 'Táctico/Satélite' de VCLT, y 'Core' de LQD/VCIT). Su función de cartera es genuinamente única: ingreso alto + diversificación de crédito, no ballast de baja volatilidad ni exposición beta al mercado amplio de bonos IG.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: ingreso corriente muy alto (~5.8-5.9%) con duracion corta (2.9 anios, bajo riesgo de tasa) - **diversificador GENUINO de riesgo de CREDITO** (cero overlap con acciones individuales, primer y unico ETF del proyecto con este perfil), pero con riesgo de credito real que se materializa en recesiones (Max Drawdown -34.25%, el mas severo de renta fija del proyecto).",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: ingreso corriente muy alto (~5.8-5.9%) con duración corta (2.9 años, bajo riesgo de tasa) - **diversificador GENUINO de riesgo de CRÉDITO** (cero overlap con acciones individuales, primer y único ETF del proyecto con este perfil), pero con riesgo de crédito real que se materializa en recesiones (Max Drawdown -34.25%, el mas severo de renta fija del proyecto).",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) **riesgo de CREDITO alto** (grado especulativo, default rate actual benigno 2.5% pero historicamente puede subir mucho en recesion); (2) spreads HY comprimidos (262-271pb, cerca de niveles de 'complacencia de fin de ciclo'); (3) correlacion con el ciclo economico/equity MAYOR que los bonos IG del proyecto (beta 0.40); (4) TER mas caro del proyecto en renta fija (0.49%) con presion competitiva de nuevos entrantes mas baratos (VCHY de Vanguard, jun-2026); (5) tributacion como ingreso ordinario.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) **riesgo de CRÉDITO alto** (grado especulativo, default rate actual benigno 2.5% pero históricamente puede subir mucho en recesión); (2) spreads HY comprimidos (262-271pb, cerca de niveles de 'complacencia de fin de ciclo'); (3) correlación con el ciclo económico/equity MAYOR que los bonos IG del proyecto (beta 0.40); (4) TER mas caro del proyecto en renta fija (0.49%) con presión competitiva de nuevos entrantes mas baratos (VCHY de Vanguard, jun-2026); (5) tributación como ingreso ordinario.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "JNK (SPDR, TER 0.40%), USHY (iShares Broad High Yield, mas diversificado y barato), SHYG (iShares 0-5yr HY, duracion aun mas corta) y VCHY (Vanguard, lanzamiento anunciado jun-2026, presion competitiva directa) identificados como alternativas, sin comparacion con datos propios verificados esta sesion.",
+          "notas": "JNK (SPDR, TER 0.40%), USHY (iShares Broad High Yield, mas diversificado y barato), SHYG (iShares 0-5yr HY, duración aun mas corta) y VCHY (Vanguard, lanzamiento anunciado jun-2026, presión competitiva directa) identificados como alternativas, sin comparación con datos propios verificados esta sesión.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.67/5 - solido pero no de los mas altos del proyecto, resultado de un balance genuino entre fortalezas y riesgos reales: **PRIMER Y UNICO ETF DE HIGH YIELD (grado especulativo) del proyecto**, con **CERO OVERLAP con el Dashboard de acciones individuales del usuario** (unico diversificador puro de riesgo de CREDITO, distinto de todo lo demas en el workbook - ni siquiera VCSH/VCLT/VCIT/LQD, que son investment-grade, ofrecen esta dimension), SEGUNDO RECORD DE LIQUIDEZ del proyecto (~$1.83bn/dia) y un historial de 19.3 anios que incluye la crisis financiera 2008 completa. PERO: TER mas caro de renta fija del proyecto (0.49%), Max Drawdown MAS SEVERO de renta fija del proyecto (-34.25%, refleja el riesgo de credito real materializado en 2008), y spreads HY actualmente comprimidos (262-271pb, cerca de niveles de 'complacencia de fin de ciclo' segun 24/7 Wall St) - la MISMA senal de valoracion rica ya documentada en LQD/VCIT, aunque con evidencia cualitativamente mas blanda (un umbral de alerta, no un percentil historico numerico exacto). **A diferencia de LQD (Decision ESPERAR MEJOR ENTRADA) y VCIT (Decision MANTENER-no agregar), aqui la cautela de valoracion NO se traduce en 'esperar' ni 'no agregar' sino en 'ACUMULAR GRADUAL'** - la diferencia clave es que HYG no tiene ningun problema de REDUNDANCIA (a diferencia de VCIT) y ofrece una dimension de diversificacion genuinamente unica en el proyecto (a diferencia de LQD, donde el argumento de diversificacion era mas debil/parcial) - la palabra 'GRADUAL' en la propia Decision ya encapsula la cautela de valoracion apropiada (construir la posicion de forma incremental en vez de todo de una vez), en lugar de posponer la entrada por completo a una exposicion de riesgo que el proyecto no tiene en ninguna otra parte."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.67/5 - sólido pero no de los mas altos del proyecto, resultado de un balance genuino entre fortalezas y riesgos reales: **PRIMER Y ÚNICO ETF DE HIGH YIELD (grado especulativo) del proyecto**, con **CERO OVERLAP con el Dashboard de acciones individuales del usuario** (único diversificador puro de riesgo de CRÉDITO, distinto de todo lo demas en el workbook - ni siquiera VCSH/VCLT/VCIT/LQD, que son investment-grade, ofrecen esta dimensión), SEGUNDO RÉCORD DE LIQUIDEZ del proyecto (~$1.83bn/dia) y un historial de 19.3 años que incluye la crisis financiera 2008 completa. PERO: TER mas caro de renta fija del proyecto (0.49%), Max Drawdown MAS SEVERO de renta fija del proyecto (-34.25%, refleja el riesgo de crédito real materializado en 2008), y spreads HY actualmente comprimidos (262-271pb, cerca de niveles de 'complacencia de fin de ciclo' según 24/7 Wall St) - la MISMA señal de valoración rica ya documentada en LQD/VCIT, aunque con evidencia cualitativamente mas blanda (un umbral de alerta, no un percentil histórico numerico exacto). **A diferencia de LQD (Decisión ESPERAR MEJOR ENTRADA) y VCIT (Decisión MANTENER-no agregar), aquí la cautela de valoración NO se traduce en 'esperar' ni 'no agregar' sino en 'ACUMULAR GRADUAL'** - la diferencia clave es que HYG no tiene ningún problema de REDUNDANCIA (a diferencia de VCIT) y ofrece una dimensión de diversificación genuinamente única en el proyecto (a diferencia de LQD, donde el argumento de diversificación era mas débil/parcial) - la palabra 'GRADUAL' en la propia Decisión ya encapsula la cautela de valoración apropiada (construir la posición de forma incremental en vez de todo de una vez), en lugar de posponer la entrada por completo a una exposición de riesgo que el proyecto no tiene en ninguna otra parte."
   }
 }

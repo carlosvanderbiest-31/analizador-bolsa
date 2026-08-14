@@ -1,36 +1,36 @@
 {
   "nombre": "United States Oil Fund",
   "ticker": "USO",
-  "categoria": "Materias Primas Simple 1x (petroleo WTI via futuros NYMEX, SIN apalancamiento - \"el ETF de petroleo original\", NOVENO instrumento de materias primas del proyecto, mismo emisor y categoria que BNO -fila 80- pero sobre WTI en vez de Brent, con historia 4 anios mas larga)",
+  "categoria": "Materias Primas Simple 1x (petróleo WTI via futuros NYMEX, SIN apalancamiento - \"el ETF de petróleo original\", NOVENO instrumento de materias primas del proyecto, mismo emisor y categoría que BNO -fila 80- pero sobre WTI en vez de Brent, con historia 4 años mas larga)",
   "emisor": "USCF (US Commodity Funds, matriz Marygold Companies)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica SINTETICA via futuros WTI en MEZCLA de contratos near-month y de vencimiento mas lejano (ajuste estructural tras el evento de precios negativos de abril-2020, cuando el futuro front-month puro se volvio negativo) - SIN apalancamiento (1x), estructura mas sofisticada que BNO (solo front-month).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica SINTETICA via futuros WTI en MEZCLA de contratos near-month y de vencimiento mas lejano (ajuste estructural tras el evento de precios negativos de abril-2020, cuando el futuro front-month puro se volvio negativo) - SIN apalancamiento (1x), estructura mas sofisticada que BNO (solo front-month).",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domicilio US, estructura LP (United States Oil Fund, LP) genera formulario fiscal K-1 - mismo tipo de complejidad fiscal que BNO.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $1.72bn - **EL MAS GRANDE de los NUEVE instrumentos de materias primas del proyecto**, supera incluso a AGQ ($1.25bn), refleja ser 'el ETF de petroleo original' y el mas establecido del espacio.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $1.72bn - **EL MAS GRANDE de los NUEVE instrumentos de materias primas del proyecto**, supera incluso a AGQ ($1.25bn), refleja ser 'el ETF de petróleo original' y el mas establecido del espacio.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 10-abr-2006 (~20.3 anios) - **EL MAS ANTIGUO de los nueve instrumentos de materias primas del proyecto** (BNO 16.2, KOLD/BOIL 14.8, SCO/UCO 17.75, ZSL/UGL/AGQ 17.7), cubre la Crisis Financiera 2008 DIRECTAMENTE desde antes de su inicio, el colapso petrolero 2014-16, Y el evento historico de precios NEGATIVOS de WTI en abril-2020.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 10-abr-2006 (~20.3 años) - **EL MAS ANTIGUO de los nueve instrumentos de materias primas del proyecto** (BNO 16.2, KOLD/BOIL 14.8, SCO/UCO 17.75, ZSL/UGL/AGQ 17.7), cubre la Crisis Financiera 2008 DIRECTAMENTE desde antes de su inicio, el colapso petrolero 2014-16, Y el evento histórico de precios NEGATIVOS de WTI en abril-2020.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor USCF (bajo la matriz Marygold Companies) - SEGUNDA aparicion consecutiva en el proyecto (tras BNO), se autodenomina 'el ETF de petroleo original'.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor USCF (bajo la matriz Marygold Companies) - SEGUNDA aparición consecutiva en el proyecto (tras BNO), se autodenomina 'el ETF de petróleo original'.",
           "calificacion": 3
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.60% (stockanalysis) a 0.70-0.86% (otras fuentes) - discrepancia entre fuentes, pero incluso la cifra mas alta es MENOR que el TER de BNO (~1%) y significativamente menor que los siete fondos apalancados del proyecto (0.95%).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Contango historicamente documentado como un problema SEVERO y bien conocido especificamente para USO en la prensa financiera durante anios, parcialmente mitigado post-2020 al diversificar entre contratos near-month y de vencimiento mas lejano. El CAGR desde inception NEGATIVO (-6.91%, ver fila 39) confirma que el costo de roll/contango ha sido real y sustancial en 20 anios, PEOR que BNO (+4.35%).",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Contango históricamente documentado como un problema SEVERO y bien conocido específicamente para USO en la prensa financiera durante años, parcialmente mitigado post-2020 al diversificar entre contratos near-month y de vencimiento mas lejano. El CAGR desde inception NEGATIVO (-6.91%, ver fila 39) confirma que el costo de roll/contango ha sido real y sustancial en 20 años, PEOR que BNO (+4.35%).",
           "calificacion": 2
         }
       ],
@@ -56,15 +56,15 @@
       "titulo": "Securities lending: revenue generado y % que compensa el TER",
       "aspectos": [
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion de futuros en MEZCLA near+longer-dated (ajuste post-2020, no solo front-month puro como BNO) - mejora estructural sobre el enfoque simple de BNO, aunque el costo de contango de fondo persiste.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación de futuros en MEZCLA near+longer-dated (ajuste post-2020, no solo front-month puro como BNO) - mejora estructural sobre el enfoque simple de BNO, aunque el costo de contango de fondo persiste.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -73,79 +73,79 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion; se infiere extremadamente ajustado dado el volumen excepcional.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión; se infiere extremadamente ajustado dado el volumen excepcional.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "USCF - profundidad de Authorized Participants reforzada por ser el fondo de petroleo mas grande, liquido y establecido de la casa.",
+          "notas": "USCF - profundidad de Authorized Participants reforzada por ser el fondo de petróleo mas grande, liquido y establecido de la casa.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Numero de holdings y diversificacion",
+      "titulo": "Número de holdings y diversificación",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Sigue el 'Front Month Light Sweet Crude Oil' (WTI), pero con metodologia AJUSTADA post-2020 (mezcla de vencimientos en vez de front-month puro) - mas sofisticada que BNO.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Sigue el 'Front Month Light Sweet Crude Oil' (WTI), pero con metodología AJUSTADA post-2020 (mezcla de vencimientos en vez de front-month puro) - mas sofisticada que BNO.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Roll ahora diversificado entre contratos near-month y de vencimiento mas lejano (ajustado tras la leccion de abril-2020) - mejora sobre el enfoque simple de BNO, aunque sigue siendo un roll periodico, no un rebalanceo diario como los fondos apalancados del proyecto.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Roll ahora diversificado entre contratos near-month y de vencimiento mas lejano (ajustado tras la lección de abril-2020) - mejora sobre el enfoque simple de BNO, aunque sigue siendo un roll periodico, no un rebalanceo diario como los fondos apalancados del proyecto.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = **+73.68%** (fuerte, mismo rally del petroleo que beneficio a SCO/UCO/BNO este anio). Retorno desde inception (20.3 anios) = **-6.91% CAGR, NEGATIVO** - a diferencia de BNO (+4.35%, positivo) pese a ser tambien 1x sin apalancamiento, reflejando que WTI ha tenido una historia de 20 anios materialmente mas dura para el lado largo: incluye la Crisis 2008 completa desde ANTES de su inicio (BNO nacio en 2010, ya post-crisis), el colapso 2014-16, Y el evento UNICO de precios NEGATIVOS de WTI en abril-2020 (especifico de WTI, no de Brent).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = **+73.68%** (fuerte, mismo rally del petróleo que beneficio a SCO/UCO/BNO este año). Retorno desde inception (20.3 años) = **-6.91% CAGR, NEGATIVO** - a diferencia de BNO (+4.35%, positivo) pese a ser también 1x sin apalancamiento, reflejando que WTI ha tenido una historia de 20 años materialmente mas dura para el lado largo: incluye la Crisis 2008 completa desde ANTES de su inicio (BNO nacio en 2010, ya post-crisis), el colapso 2014-16, Y el evento ÚNICO de precios NEGATIVOS de WTI en abril-2020 (específico de WTI, no de Brent).",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad: rango de 52 semanas $65.99-$154.08 (ratio 2.33x) - similar a BNO (2.24x), moderada dentro de la categoria de materias primas del proyecto, muy por debajo de los fondos apalancados.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad: rango de 52 semanas $65.99-$154.08 (ratio 2.33x) - similar a BNO (2.24x), moderada dentro de la categoría de materias primas del proyecto, muy por debajo de los fondos apalancados.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el CAGR negativo de -6.91% sobre 20.3 anios sugiere drawdowns acumulados severos, ademas del evento historico UNICO de precios NEGATIVOS de WTI en abril-2020 (el futuro llego a cotizar por debajo de cero, un evento sin precedentes en la historia moderna de commodities) que afecto directamente a este vehiculo.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero el CAGR negativo de -6.91% sobre 20.3 años sugiere drawdowns acumulados severos, además del evento histórico ÚNICO de precios NEGATIVOS de WTI en abril-2020 (el futuro llego a cotizar por debajo de cero, un evento sin precedentes en la historia moderna de commodities) que afecto directamente a este vehículo.",
           "calificacion": 1
         }
       ],
@@ -155,39 +155,39 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = -0.01 - practicamente cero, similar a BNO, no es un diversificador fiable pero tampoco correlaciona con la renta variable.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = -0.01 - prácticamente cero, similar a BNO, no es un diversificador fiable pero tampoco correlaciona con la renta variable.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "USO es el **UNICO instrumento del proyecto con exposicion historica directa al evento de precios NEGATIVOS de WTI de abril-2020** - un evento sin precedentes donde el futuro cercano llego a cotizar por debajo de cero por una combinacion de colapso de demanda COVID y falta de capacidad de almacenamiento fisico en Cushing, Oklahoma. No se encontro cifra exacta del impacto en USO esta sesion, pero el fondo tuvo que reestructurar su metodologia de roll como consecuencia directa (ver fila 11/21).",
+          "notas": "USO es el **ÚNICO instrumento del proyecto con exposición histórica directa al evento de precios NEGATIVOS de WTI de abril-2020** - un evento sin precedentes donde el futuro cercano llego a cotizar por debajo de cero por una combinación de colapso de demanda COVID y falta de capacidad de almacenamiento fisico en Cushing, Oklahoma. No se encontro cifra exacta del impacto en USO esta sesión, pero el fondo tuvo que reestructurar su metodología de roll como consecuencia directa (ver fila 11/21).",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION DIRECTA CON BNO (fila 80, ya en el workbook)**: mismo emisor USCF, misma categoria estructural (1x sin apalancamiento, LP con K-1), pero BNO sigue Brent (CAGR +4.35% desde 2010) mientras USO sigue WTI (CAGR -6.91% desde 2006) - una diferencia de casi 12 puntos porcentuales de CAGR entre dos benchmarks de petroleo que en general se mueven de forma similar, explicada principalmente por (a) la ventana de tiempo de USO 4 anios mas larga y estructuralmente mas dura -incluye la Crisis 2008 completa Y el evento unico de precios negativos WTI abril-2020- y (b) el contango historicamente mas severo y documentado especificamente para USO. SCO/UCO (fila 75/79) ofrecen exposicion apalancada al mismo WTI - categoria distinta.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN DIRECTA CON BNO (fila 80, ya en el workbook)**: mismo emisor USCF, misma categoría estructural (1x sin apalancamiento, LP con K-1), pero BNO sigue Brent (CAGR +4.35% desde 2010) mientras USO sigue WTI (CAGR -6.91% desde 2006) - una diferencia de casi 12 puntos porcentuales de CAGR entre dos benchmarks de petróleo que en general se mueven de forma similar, explicada principalmente por (a) la ventana de tiempo de USO 4 años mas larga y estructuralmente mas dura -incluye la Crisis 2008 completa Y el evento único de precios negativos WTI abril-2020- y (b) el contango históricamente mas severo y documentado específicamente para USO. SCO/UCO (fila 75/79) ofrecen exposición apalancada al mismo WTI - categoría distinta.",
           "calificacion": 3
         }
       ],
@@ -197,23 +197,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **SATELITE tactico/cobertura de commodity individual** - mismo tratamiento que BNO, no calificable como Core pese a ser el ETF de petroleo mas liquido y establecido del proyecto.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **SATÉLITE táctico/cobertura de commodity individual** - mismo tratamiento que BNO, no calificable como Core pese a ser el ETF de petróleo mas liquido y establecido del proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion directa 1x a WTI, el vehiculo de petroleo mas liquido y con mayor historial del proyecto, util para trading tactico de muy corto plazo dada su liquidez excepcional, pero el CAGR negativo de 20 anios y el contango historicamente documentado desaconsejan sostenerlo con vision de largo plazo.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición directa 1x a WTI, el vehículo de petróleo mas liquido y con mayor historial del proyecto, util para trading táctico de muy corto plazo dada su liquidez excepcional, pero el CAGR negativo de 20 años y el contango históricamente documentado desaconsejan sostenerlo con visión de largo plazo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) contango historicamente SEVERO y ampliamente documentado, confirmado por el CAGR negativo de 20 anios (-6.91%); (2) UNICO instrumento del proyecto con exposicion directa al evento de precios NEGATIVOS de WTI abril-2020; (3) estructura LP con complejidad fiscal K-1; (4) single-commodity, cero diversificacion; (5) volatilidad geopolitica del petroleo.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) contango históricamente SEVERO y ampliamente documentado, confirmado por el CAGR negativo de 20 años (-6.91%); (2) ÚNICO instrumento del proyecto con exposición directa al evento de precios NEGATIVOS de WTI abril-2020; (3) estructura LP con complejidad fiscal K-1; (4) single-commodity, cero diversificación; (5) volatilidad geopolitica del petróleo.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "BNO (mismo emisor USCF, Brent en vez de WTI, ya en el workbook fila 80, con CAGR desde inception notablemente mejor) y SCO/UCO (fila 75/79, exposicion apalancada al mismo WTI, categoria distinta) son las alternativas/comparables mas directas.",
+          "notas": "BNO (mismo emisor USCF, Brent en vez de WTI, ya en el workbook fila 80, con CAGR desde inception notablemente mejor) y SCO/UCO (fila 75/79, exposición apalancada al mismo WTI, categoría distinta) son las alternativas/comparables mas directas.",
           "calificacion": 3
         }
       ],
@@ -221,6 +221,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "SATELITE TACTICO UNICAMENTE - NO CORE. Score 2.83/5. United States Oil Fund (USCF), 'el ETF de petroleo original', exposicion 1x SIN apalancamiento a WTI via futuros NYMEX - mismo emisor y categoria estructural que BNO (fila 80), pero sobre WTI en vez de Brent. Es el instrumento de materias primas MAS GRANDE ($1.72bn), MAS LIQUIDO (~$917M/dia) y MAS ANTIGUO (20.3 anios, desde abr-2006) de todo el proyecto - cubre la Crisis 2008 completa desde antes de su inicio, el colapso 2014-16, y es el UNICO instrumento del proyecto con exposicion historica directa al evento de precios NEGATIVOS de WTI de abril-2020. A diferencia de BNO (CAGR desde inception +4.35%, positivo), USO termina con CAGR desde inception NEGATIVO (-6.91%) pese a ser tambien 1x sin apalancamiento - refleja tanto la ventana de tiempo mas larga y dura de USO como el contango historicamente severo y bien documentado en la prensa financiera especificamente para este vehiculo. El fondo tuvo que reestructurar su metodologia de roll (mezcla de vencimientos en vez de front-month puro) tras la leccion de abril-2020. Retorno 1Y fuerte (+73.68%, mismo rally del petroleo que beneficio a SCO/UCO/BNO), pero el patron ya establecido en el proyecto se repite: un buen resultado reciente no compensa el deterioro estructural acumulado en periodos largos quando el commodity atraviesa eventos extremos. TER mas bajo que BNO (0.60-0.86% vs ~1%), liquidez muy superior, pero peor resultado historico compuesto. Rol apropiado: Satelite tactico para trading de muy corto plazo dada su liquidez excepcional, nunca Core. BNO (mismo emisor, Brent, CAGR mejor) y SCO/UCO (apalancados sobre el mismo WTI) son las alternativas/comparables mas directas, ambas ya en el workbook."
+    "tesis": "SATÉLITE TÁCTICO UNICAMENTE - NO CORE. Score 2.83/5. United States Oil Fund (USCF), 'el ETF de petróleo original', exposición 1x SIN apalancamiento a WTI via futuros NYMEX - mismo emisor y categoría estructural que BNO (fila 80), pero sobre WTI en vez de Brent. Es el instrumento de materias primas MAS GRANDE ($1.72bn), MAS LIQUIDO (~$917M/dia) y MAS ANTIGUO (20.3 años, desde abr-2006) de todo el proyecto - cubre la Crisis 2008 completa desde antes de su inicio, el colapso 2014-16, y es el ÚNICO instrumento del proyecto con exposición histórica directa al evento de precios NEGATIVOS de WTI de abril-2020. A diferencia de BNO (CAGR desde inception +4.35%, positivo), USO termina con CAGR desde inception NEGATIVO (-6.91%) pese a ser también 1x sin apalancamiento - refleja tanto la ventana de tiempo mas larga y dura de USO como el contango históricamente severo y bien documentado en la prensa financiera específicamente para este vehículo. El fondo tuvo que reestructurar su metodología de roll (mezcla de vencimientos en vez de front-month puro) tras la lección de abril-2020. Retorno 1Y fuerte (+73.68%, mismo rally del petróleo que beneficio a SCO/UCO/BNO), pero el patrón ya establecido en el proyecto se repite: un buen resultado reciente no compensa el deterioro estructural acumulado en períodos largos quando el commodity atraviesa eventos extremos. TER mas bajo que BNO (0.60-0.86% vs ~1%), liquidez muy superior, pero peor resultado histórico compuesto. Rol apropiado: Satélite táctico para trading de muy corto plazo dada su liquidez excepcional, nunca Core. BNO (mismo emisor, Brent, CAGR mejor) y SCO/UCO (apalancados sobre el mismo WTI) son las alternativas/comparables mas directas, ambas ya en el workbook."
   }
 }

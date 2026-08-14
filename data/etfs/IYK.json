@@ -1,36 +1,36 @@
 {
   "nombre": "iShares U.S. Consumer Staples ETF",
   "ticker": "IYK",
-  "categoria": "Equity Sector (Consumer Staples/defensivo, Russell 1000 Consumer Staples RIC 22.5/45 Capped Index - PRIMER fondo sectorial basado en Russell del cluster reciente, distinto de la metodologia GICS Select Sector de XLU/XLK/XLE/XLC ya en el workbook - trae a KO y MO, ya analizadas individualmente en el proyecto de acciones, a un contexto de fondo)",
+  "categoria": "Equity Sector (Consumer Staples/defensivo, Russell 1000 Consumer Staples RIC 22.5/45 Capped Index - PRIMER fondo sectorial basado en Russell del cluster reciente, distinto de la metodología GICS Select Sector de XLU/XLK/XLE/XLC ya en el workbook - trae a KO y MO, ya analizadas individualmente en el proyecto de acciones, a un contexto de fondo)",
   "emisor": "iShares (BlackRock)",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica fisica por MUESTREO representativo - sin swaps ni contraparte.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica física por MUESTREO representativo - sin swaps ni contraparte.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, iShares Trust, RIC estandar.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, iShares Trust, RIC estándar.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM solo ~$1.3-1.43bn - **DIMINUTO frente a la familia Select Sector SPDR** ya en el workbook -XLU/XLK/XLE, decenas a cientos de miles de millones- y frente a su competidor directo XLP -$15.5-17.6bn, no analizado, ~10x mas grande-, pese a 26 anios de historia.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM solo ~$1.3-1.43bn - **DIMINUTO frente a la familia Select Sector SPDR** ya en el workbook -XLU/XLK/XLE, decenas a cientos de miles de millones- y frente a su competidor directo XLP -$15.5-17.6bn, no analizado, ~10x mas grande-, pese a 26 años de historia.",
           "calificacion": 2
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 12-jun-2000 (~26.17 anios) - cubre dot-com, Crisis 2008 y COVID.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 12-jun-2000 (~26.17 años) - cubre dot-com, Crisis 2008 y COVID.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor iShares/BlackRock, el mayor gestor de activos del mundo, aunque este producto especifico es claramente NO una prioridad de la firma dado su AUM diminuto pese a la antiguedad.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor iShares/BlackRock, el mayor gestor de activos del mundo, aunque este producto específico es claramente NO una prioridad de la firma dado su AUM diminuto pese a la antigüedad.",
           "calificacion": 4
         }
       ],
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.38% - **MUCHO mas caro que la familia Select Sector SPDR** -XLU/XLK/XLE/XLC, 0.08-0.09%- y que su competidor directo XLP -0.08%, no analizado- - una brecha de costo de ~4.75x frente al peer mas cercano.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica por muestreo de un indice Russell bien definido con topes 22.5/45 - tracking razonable esperado.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica por muestreo de un índice Russell bien definido con topes 22.5/45 - tracking razonable esperado.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "RIC estandar, presumiblemente presta valores - revenue especifico no verificado esta sesion.",
+          "notas": "RIC estándar, presumiblemente presta valores - revenue específico no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Reconstitucion Russell ANUAL -junio- con verificacion trimestral de topes de concentracion - turnover moderado.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Reconstitución Russell ANUAL -junio- con verificación trimestral de topes de concentración - turnover moderado.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -76,117 +76,117 @@
           "calificacion": 2
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no cuantificado con precision esta sesion, aunque se espera minimo dada la replica fisica.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no cuantificado con precisión esta sesión, aunque se espera mínimo dada la réplica física.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "iShares/BlackRock, aunque para un producto de nicho con AUM pequeno la profundidad real de AP es menor que en los productos insignia del emisor.",
+          "notas": "iShares/BlackRock, aunque para un producto de nicho con AUM pequeño la profundidad real de AP es menor que en los productos insignia del emisor.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
+          "aspecto": "Número de holdings y diversificación",
           "notas": "57 holdings - mas diversificado por conteo que XLC -23-26-, menos que XLK -76-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 = 66.1-66.2% del NAV** -Coca-Cola KO 12.96%, Procter & Gamble PG 12.94%, Philip Morris PM 11.26%, PepsiCo PEP 7.45%, CVS Health 4.64%, Altria MO 4.03%, McKesson 3.80%, Mondelez MDLZ 3.20%, Colgate-Palmolive CL 2.98%, Monster Beverage 2.86%- - concentracion muy alta, comparable a XLC -69.95%-, impulsada por solo TRES nombres -KO+PG+PM = 37.16%-. **KO y MO ya analizadas individualmente en el proyecto de acciones** -KO con gotcha de beta bajo degenerado documentado en la metodologia DCF, MO marcada COMPRAR CON CAUTELA, una de las pocas senales de overlap POSITIVO del proyecto-.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 = 66.1-66.2% del NAV** -Coca-Cola KO 12.96%, Procter & Gamble PG 12.94%, Philip Morris PM 11.26%, PepsiCo PEP 7.45%, CVS Health 4.64%, Altria MO 4.03%, McKesson 3.80%, Mondelez MDLZ 3.20%, Colgate-Palmolive CL 2.98%, Monster Beverage 2.86%- - concentración muy alta, comparable a XLC -69.95%-, impulsada por solo TRES nombres -KO+PG+PM = 37.16%-. **KO y MO ya analizadas individualmente en el proyecto de acciones** -KO con gotcha de beta bajo degenerado documentado en la metodología DCF, MO marcada COMPRAR CON CAUTELA, una de las pocas señales de overlap POSITIVO del proyecto-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "~85-88% consumer staples/defensivo + ~11-12% healthcare-adjacent -CVS, McKesson, distribucion farmaceutica- + ~2% materiales - la clasificacion Russell INCORPORA nombres healthcare-adjacent que un indice GICS puro de Consumer Staples excluiria, diferencia metodologica real frente a XLP.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "~85-88% consumer staples/defensivo + ~11-12% healthcare-adjacent -CVS, McKesson, distribución farmacéutica- + ~2% materiales - la clasificación Russell INCORPORA nombres healthcare-adjacent que un índice GICS puro de Consumer Staples excluiria, diferencia metodologica real frente a XLP.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US listado, aunque KO/PM/PG tienen ingresos internacionales muy significativos.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
           "notas": "Sector DEFENSIVO/bajo beta -consumer staples-, tilt de factor genuinamente distinto de los fondos growth/tech recientes del proyecto -VOO/SPY/QQQ/XLC-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Russell 1000 Consumer Staples RIC 22.5/45 Capped Index - metodologia de topes de concentracion -22.5%/45%- razonable, aunque menos iconica/seguida que el Select Sector GICS de XLU/XLK/XLE/XLC.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Russell 1000 Consumer Staples RIC 22.5/45 Capped Index - metodología de topes de concentración -22.5%/45%- razonable, aunque menos iconica/seguida que el Select Sector GICS de XLU/XLK/XLE/XLC.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reconstitucion Russell anual -junio-, con checks trimestrales de cumplimiento de topes - estandar.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reconstitución Russell anual -junio-, con checks trimestrales de cumplimiento de topes - estándar.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y +8.6% a +12.1% -**NOTABLEMENTE DEBIL** frente a VOO +22.9%/QQQ +27.16%-, 3Y anualizado solo +5.9%, 5Y anualizado +6.3-6.5%, 10Y anualizado +9.2%, desde inception -26.17 anios- ~+8.83% anualizado - **CONSISTENTEMENTE DEBIL en CASI TODOS los horizontes** frente a los fondos amplios/tech del proyecto, reflejo genuino del underperformance del sector defensivo durante este mercado alcista liderado por crecimiento/IA.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y +8.6% a +12.1% -**NOTABLEMENTE DÉBIL** frente a VOO +22.9%/QQQ +27.16%-, 3Y anualizado solo +5.9%, 5Y anualizado +6.3-6.5%, 10Y anualizado +9.2%, desde inception -26.17 años- ~+8.83% anualizado - **CONSISTENTEMENTE DÉBIL en CASI TODOS los horizontes** frente a los fondos amplios/tech del proyecto, reflejo genuino del underperformance del sector defensivo durante este mercado alcista liderado por crecimiento/IA.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Rango 52 semanas $65.21-$78.33 (ratio 1.20x) - **de los MAS BAJOS del cluster reciente** -cerca de XLC 1.146x, muy por debajo de VOO/SPY/QQQ ~1.235-1.348x- - confirma el caracter defensivo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown COVID -19.0%, bear 2022 -11.9%, ventana 5Y -15.0% a -16.3% - **TODOS notablemente MAS SUAVES** que los fondos amplios/tech -VOO -33.99% COVID, QQQ -82.97% dot-com, XLC -46.65% 2022-, resiliencia defensiva genuina pese a la concentracion en pocos nombres. Sin cifra de Crisis 2008 encontrada pese a que el fondo ya existia.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown COVID -19.0%, bear 2022 -11.9%, ventana 5Y -15.0% a -16.3% - **TODOS notablemente MAS SUAVES** que los fondos amplios/tech -VOO -33.99% COVID, QQQ -82.97% dot-com, XLC -46.65% 2022-, resiliencia defensiva genuina pese a la concentración en pocos nombres. Sin cifra de Crisis 2008 encontrada pese a que el fondo ya existia.",
           "calificacion": 4
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe 10Y 0.50 -POR ENCIMA de la mediana de categoria 0.34-, pero 5Y solo 0.21 -mas debil, coherente con el rezago reciente-.",
+          "notas": "Sharpe 10Y 0.50 -POR ENCIMA de la mediana de categoría 0.34-, pero 5Y solo 0.21 -mas débil, coherente con el rezago reciente-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = 0.42-0.50 vs S&P 500 - **genuinamente BAJO**, confirma perfil defensivo, aunque algo por encima del beta tipico de utilities -sector XLU- por el riesgo de nombre individual de la concentracion KO+PG+PM.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.42-0.50 vs S&P 500 - **genuinamente BAJO**, confirma perfil defensivo, aunque algo por encima del beta típico de utilities -sector XLU- por el riesgo de nombre individual de la concentración KO+PG+PM.",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "COVID -19.0% y bear 2022 -11.9%, ambos notablemente resilientes frente a equivalentes amplios/tech - sin cifra aislada de Crisis 2008 encontrada pese a la antiguedad del fondo -vacio de dato-.",
+          "notas": "COVID -19.0% y bear 2022 -11.9%, ambos notablemente resilientes frente a equivalentes amplios/tech - sin cifra aislada de Crisis 2008 encontrada pese a la antigüedad del fondo -vacio de dato-.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E Ponderado 20.74x - mas barato que VOO/SPY/QQQ -mid-alto 20s a 30s-, valoracion razonable para un sector defensivo. P/B no encontrado.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E Ponderado 20.74x - mas barato que VOO/SPY/QQQ -mid-alto 20s a 30s-, valoración razonable para un sector defensivo. P/B no encontrado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield 2.37-2.56% TTM, trimestral -mas distribucion ocasional de ganancias de capital anual- - **NOTABLEMENTE MAS ALTO** que VOO/SPY/QQQ/XLC -todos <1.5%-, coherente con el caracter defensivo/de ingreso del sector.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield 2.37-2.56% TTM, trimestral -mas distribución ocasional de ganancias de capital anual- - **NOTABLEMENTE MAS ALTO** que VOO/SPY/QQQ/XLC -todos <1.5%-, coherente con el caracter defensivo/de ingreso del sector.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**XLP -State Street/SPDR, NO analizado en el workbook- es el competidor DIRECTO y mucho mas eficiente** -TER 0.08% vs 0.38% de IYK, brecha de ~4.75x- y ha SUPERADO a IYK en retorno 1Y/5Y en snapshots recientes pese a un perfil de beta/drawdown similar - mismo patron ya documentado en el proyecto con SPY-vs-VOO/DIA -competidor mas caro y menos eficiente por la misma exposicion esencial-. Tambien comparable a XLU -ya en el workbook, otro sector defensivo-, aunque el beta de IYK -0.42-0.50- es algo mas alto que el tipico de utilities por concentracion de nombre individual. Diferencia real vs XLP: Russell incorpora CVS/McKesson -healthcare-adjacent-, mientras Walmart y Costco -tipicamente top holdings de XLP- NO aparecen en el Top10 de IYK. | ACTUALIZACION posterior (XLP, fila 111): ahora analizado con datos propios. XLP GANA DECISIVAMENTE la comparacion directa - TER 0.08% vs 0.38% de IYK -~4.75x mas barato-, AUM 11-13x mayor, volumen 10x+ mayor, y mejor desempeno reciente -+3.35% vs -0.23% en 1Y, $1,366 vs $1,331 en 5Y-. IYK solo gana marginalmente en beta -0.50 vs 0.59 de XLP- y Max Drawdown 5Y -15.04% vs 16.32%-. XLP es ademas GICS puro -cero healthcare, a diferencia del ~11-12% healthcare-adjacent de IYK-. Score XLP 3.82 vs IYK 3.21. Ver Ficha XLP fila 111 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**XLP -State Street/SPDR, NO analizado en el workbook- es el competidor DIRECTO y mucho mas eficiente** -TER 0.08% vs 0.38% de IYK, brecha de ~4.75x- y ha SUPERADO a IYK en retorno 1Y/5Y en snapshots recientes pese a un perfil de beta/drawdown similar - mismo patrón ya documentado en el proyecto con SPY-vs-VOO/DIA -competidor mas caro y menos eficiente por la misma exposición esencial-. También comparable a XLU -ya en el workbook, otro sector defensivo-, aunque el beta de IYK -0.42-0.50- es algo mas alto que el típico de utilities por concentración de nombre individual. Diferencia real vs XLP: Russell incorpora CVS/McKesson -healthcare-adjacent-, mientras Walmart y Costco -tipicamente top holdings de XLP- NO aparecen en el Top10 de IYK. | ACTUALIZASIÓN posterior (XLP, fila 111): ahora analizado con datos propios. XLP GANA DECISIVAMENTE la comparación directa - TER 0.08% vs 0.38% de IYK -~4.75x mas barato-, AUM 11-13x mayor, volumen 10x+ mayor, y mejor desempeño reciente -+3.35% vs -0.23% en 1Y, $1,366 vs $1,331 en 5Y-. IYK solo gana marginalmente en beta -0.50 vs 0.59 de XLP- y Max Drawdown 5Y -15.04% vs 16.32%-. XLP es además GICS puro -cero healthcare, a diferencia del ~11-12% healthcare-adjacent de IYK-. Score XLP 3.82 vs IYK 3.21. Ver Ficha XLP fila 111 para el detalle completo.",
           "calificacion": 4
         }
       ],
@@ -196,18 +196,18 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **SATELITE DEFENSIVO/DE COBERTURA** - reduce beta de portafolio de forma legitima, aunque la misma tesis se ejecutaria mas barato via XLP.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **SATÉLITE DEFENSIVO/DE COBERTURA** - reduce beta de portafolio de forma legitima, aunque la misma tesis se ejecutaria mas barato via XLP.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion defensiva de bajo beta a consumer staples, con la narrativa de rotacion 2025-2026 mas fuerte del proyecto -staples fueron 'el unico perdedor del mercado' en 2025 -XLP -3.8% YTD vs SPY +14.3%-, seguido de una reversion aguda en 2026 -XLP +13% YTD a comienzos de feb-2026, uno de sus mejores arranques en una decada- por preocupaciones de capex de IA y normalizacion de tasas-. PERO IYK especificamente es una forma mas cara y menos liquida de acceder a esta tesis que XLP.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición defensiva de bajo beta a consumer staples, con la narrativa de rotación 2025-2026 mas fuerte del proyecto -staples fueron 'el único perdedor del mercado' en 2025 -XLP -3.8% YTD vs SPY +14.3%-, seguido de una reversión aguda en 2026 -XLP +13% YTD a comienzos de feb-2026, uno de sus mejores arranques en una década- por preocupaciones de capex de IA y normalización de tasas-. PERO IYK específicamente es una forma mas cara y menos liquida de acceder a esta tesis que XLP.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) TER 0.38%, brecha de costo de ~4.75x frente al peer directo XLP - ineficiencia cuantificada real; (2) liquidez limitada - AUM solo ~$1.3-1.43bn, volumen materialmente mas delgado que los pares sectoriales del proyecto; (3) concentracion - Top10 66.1-66.2%, KO+PG+PM solos 37.16%; (4) underperformance documentado en multiples horizontes frente a los fondos amplios/tech del proyecto -aunque esto refleja la tesis defensiva funcionando segun diseno, no necesariamente un riesgo en si-.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) TER 0.38%, brecha de costo de ~4.75x frente al peer directo XLP - ineficiencia cuantificada real; (2) liquidez limitada - AUM solo ~$1.3-1.43bn, volumen materialmente mas delgado que los pares sectoriales del proyecto; (3) concentración - Top10 66.1-66.2%, KO+PG+PM solos 37.16%; (4) underperformance documentado en múltiples horizontes frente a los fondos amplios/tech del proyecto -aunque esto refleja la tesis defensiva funcionando según diseño, no necesariamente un riesgo en si-.",
           "calificacion": 2
         },
         {
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA - tesis defensiva valida pero vehiculo ineficiente frente a XLP. Score 3.21/5, en la misma banda que XLC -3.18- y por debajo de la familia Select Sector SPDR ya en el workbook -XLU 3.85, XLK 3.45-. iShares U.S. Consumer Staples ETF, Russell 1000 Consumer Staples RIC 22.5/45 Capped Index - PRIMER fondo sectorial basado en Russell del cluster reciente, metodologia distinta de la GICS Select Sector de XLU/XLK/XLE/XLC. AUM solo ~$1.3-1.43bn, **DIMINUTO** frente a la familia SPDR y frente a su competidor directo XLP -~$15.5-17.6bn, no analizado-. **TER 0.38%, ~4.75x mas caro que XLP -0.08%-**, con volumen -~183K acciones/dia- y spread -~0.10%- notablemente mas debiles que la familia sectorial ya en el workbook - una ineficiencia de costo/liquidez real y cuantificada frente al peer mas cercano, mismo patron ya documentado con SPY-vs-VOO/DIA. Top 10 = 66.1-66.2% del NAV, impulsado por KO -12.96%-, PG -12.94%- y PM -11.26%- juntos 37.16%. **KO y MO -ambas ya analizadas individualmente en el proyecto de acciones- aparecen en este fondo** -KO con gotcha de beta bajo degenerado ya documentado, MO marcada COMPRAR CON CAUTELA, una de las pocas senales de overlap POSITIVO de todo el proyecto-. Retorno CONSISTENTEMENTE DEBIL en casi todos los horizontes frente a VOO/SPY/QQQ -1Y solo +8.6-12.1%, 10Y +9.2%-, reflejo genuino del rezago del sector defensivo durante este mercado alcista liderado por IA/crecimiento. A cambio: Beta 0.42-0.50 -genuinamente bajo-, Max Drawdown mucho mas suave que los fondos amplios -COVID -19.0% vs -33.99% de VOO-, dividend yield 2.37-2.56% -el mas alto del cluster reciente-, y la narrativa de rotacion defensiva 2025-2026 mas fuerte del proyecto -staples 'el unico perdedor' en 2025, reversion aguda en 2026-. Rol en Portafolio: Satelite defensivo/de cobertura, aunque XLP ejecutaria la MISMA tesis de forma mas barata y liquida - pendiente de analizar en el workbook."
+    "tesis": "ESPERAR MEJOR ENTRADA - tesis defensiva valida pero vehículo ineficiente frente a XLP. Score 3.21/5, en la misma banda que XLC -3.18- y por debajo de la familia Select Sector SPDR ya en el workbook -XLU 3.85, XLK 3.45-. iShares U.S. Consumer Staples ETF, Russell 1000 Consumer Staples RIC 22.5/45 Capped Index - PRIMER fondo sectorial basado en Russell del cluster reciente, metodología distinta de la GICS Select Sector de XLU/XLK/XLE/XLC. AUM solo ~$1.3-1.43bn, **DIMINUTO** frente a la familia SPDR y frente a su competidor directo XLP -~$15.5-17.6bn, no analizado-. **TER 0.38%, ~4.75x mas caro que XLP -0.08%-**, con volumen -~183K acciones/dia- y spread -~0.10%- notablemente mas débiles que la familia sectorial ya en el workbook - una ineficiencia de costo/liquidez real y cuantificada frente al peer mas cercano, mismo patrón ya documentado con SPY-vs-VOO/DIA. Top 10 = 66.1-66.2% del NAV, impulsado por KO -12.96%-, PG -12.94%- y PM -11.26%- juntos 37.16%. **KO y MO -ambas ya analizadas individualmente en el proyecto de acciones- aparecen en este fondo** -KO con gotcha de beta bajo degenerado ya documentado, MO marcada COMPRAR CON CAUTELA, una de las pocas señales de overlap POSITIVO de todo el proyecto-. Retorno CONSISTENTEMENTE DÉBIL en casi todos los horizontes frente a VOO/SPY/QQQ -1Y solo +8.6-12.1%, 10Y +9.2%-, reflejo genuino del rezago del sector defensivo durante este mercado alcista liderado por IA/crecimiento. A cambio: Beta 0.42-0.50 -genuinamente bajo-, Max Drawdown mucho mas suave que los fondos amplios -COVID -19.0% vs -33.99% de VOO-, dividend yield 2.37-2.56% -el mas alto del cluster reciente-, y la narrativa de rotación defensiva 2025-2026 mas fuerte del proyecto -staples 'el único perdedor' en 2025, reversión aguda en 2026-. Rol en Portafolio: Satélite defensivo/de cobertura, aunque XLP ejecutaria la MISMA tesis de forma mas barata y liquida - pendiente de analizar en el workbook."
   }
 }

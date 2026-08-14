@@ -1,7 +1,7 @@
 {
   "empresa": "Apple Inc",
   "ticker": "AAPL",
-  "sector": "Tecnologia - Hardware de Consumo y Servicios",
+  "sector": "Tecnología - Hardware de Consumo y Servicios",
   "fecha_analisis": "2026-08-05",
   "analista": null,
   "secciones": [
@@ -10,7 +10,7 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "iPhone (aprox 50% de ingresos, 209.6bn USD FY2025), Services (26% a 28%, 109.2bn USD FY2025, margen bruto de 75.6% a 76.7% vs 38.7% a 40.7% de Products - brecha estructural de 35 a 38 puntos), Mac, iPad, y Wearables-Home-Accessories. Diversificacion geografica solida con reaceleracion fuerte en Greater China (+33% interanual).",
+          "notas": "iPhone (aprox 50% de ingresos, 209.6bn USD FY2025), Services (26% a 28%, 109.2bn USD FY2025, margen bruto de 75.6% a 76.7% vs 38.7% a 40.7% de Products - brecha estructural de 35 a 38 puntos), Mac, iPad, y Wearables-Home-Accessories. Diversificación geográfica sólida con reaceleración fuerte en Greater China (+33% interanual).",
           "calificacion": 4
         },
         {
@@ -20,12 +20,12 @@
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Empate tecnico con Samsung en unidades de smartphones globales (aprox 20% a 21% cada uno segun trimestre) pero Apple captura aprox 48% de los ingresos globales de smartphones pese a solo 20% de unidades - reflejo del pricing premium. Fuerte rebote en China (de 14% a 19% de cuota de smartphones entre ene-2024 y ene-2026).",
+          "notas": "Empate técnico con Samsung en unidades de smartphones globales (aprox 20% a 21% cada uno según trimestre) pero Apple captura aprox 48% de los ingresos globales de smartphones pese a solo 20% de unidades - reflejo del pricing premium. Fuerte rebote en China (de 14% a 19% de cuota de smartphones entre ene-2024 y ene-2026).",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Fuerte y confirmado: ASP subio 11% interanual con el ciclo iPhone 17, capturando 48% de los ingresos globales de smartphones con solo 20% de las unidades. Margenes de Services (75.6% a 76.7%) en expansion estructural como proporcion creciente de ingresos.",
+          "notas": "Fuerte y confirmado: ASP subio 11% interanual con el ciclo iPhone 17, capturando 48% de los ingresos globales de smartphones con solo 20% de las unidades. Márgenes de Services (75.6% a 76.7%) en expansión estructural como proporción creciente de ingresos.",
           "calificacion": 5
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Historial de retorno de capital masivo: mas de 1 billon USD acumulado devuelto a accionistas desde el inicio del programa (mas de 850000 millones USD en recompras); nueva autorizacion de 100000 millones USD en recompras (abr-2026) mas alza de dividendo trimestral 4%. Cambio de politica relevante: Apple abandono formalmente su politica de caja neta neutral vigente desde 2018, dando mas flexibilidad futura sobre estructura de capital.",
+          "notas": "Historial de retorno de capital masivo: mas de 1 billon USD acumulado devuelto a accionistas desde el inicio del programa (mas de 850000 millones USD en recompras); nueva autorización de 100000 millones USD en recompras (abr-2026) mas alza de dividendo trimestral 4%. Cambio de política relevante: Apple abandono formalmente su política de caja neta neutral vigente desde 2018, dando mas flexibilidad futura sobre estructura de capital.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Transicion de CEO en curso: Tim Cook deja el puesto efectivo 1-sep-2026, sucedido por John Ternus (veterano de 25 anios en la empresa, SVP de Hardware Engineering), resultado de un proceso de sucesion de largo plazo aprobado unanimemente por el board. Cook pasa a Executive Chairman, no se retira completamente. Insider ownership muy bajo (0.12%), tipico de una mega-cap madura con management profesional no fundador.",
+          "notas": "Transición de CEO en curso: Tim Cook deja el puesto efectivo 1-sep-2026, sucedido por John Ternus (veterano de 25 años en la empresa, SVP de Hardware Engineering), resultado de un proceso de sucesión de largo plazo aprobado unanimemente por el board. Cook pasa a Executive Chairman, no se retira completamente. Insider ownership muy bajo (0.12%), típico de una mega-cap madura con management profesional no fundador.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion trimestral solida y consistente, guidance detallado; sin embargo el cambio de CEO (abr-2026, efectivo sep-2026) introduce incertidumbre de ejecucion de mediano plazo que aun no se ha probado en un ciclo completo de resultados bajo el nuevo liderazgo.",
+          "notas": "Comunicación trimestral sólida y consistente, guidance detallado; sin embargo el cambio de CEO (abr-2026, efectivo sep-2026) introduce incertidumbre de ejecución de mediano plazo que aun no se ha probado en un ciclo completo de resultados bajo el nuevo liderazgo.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Posicion de CAJA NETA positiva de aprox 62000 millones USD (usando la cifra amplia de tesoreria de 147000 millones USD -caja mas valores negociables de corto y largo plazo- contra deuda total de aprox 85000 millones USD), NO deuda neta como sugeriria mirar solo la linea estrecha de caja y equivalentes (39540 millones USD) que usan algunos agregadores automatizados - mismo gotcha de fuentes que se identifico con BABA. Rating crediticio Aaa y AA+, entre los mas altos de cualquier corporativa de EEUU.",
+          "notas": "Posición de CAJA NETA positiva de aprox 62000 millones USD (usando la cifra amplia de tesoreria de 147000 millones USD -caja mas valores negociables de corto y largo plazo- contra deuda total de aprox 85000 millones USD), NO deuda neta como sugeriria mirar solo la línea estrecha de caja y equivalentes (39540 millones USD) que usan algunos agregadores automatizados - mismo gotcha de fuentes que se identifico con BABA. Rating crediticio Aaa y AA+, entre los mas altos de cualquier corporativa de EEUU.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.00x, muy ajustada pero tipica de la gestion agresiva de capital de trabajo de Apple, no una senal de estres real dado el respaldo de la caja neta amplia. Prueba acida entre 0.81x y 0.93x segun fuente.",
+          "notas": "Razón corriente 1.00x, muy ajustada pero típica de la gestion agresiva de capital de trabajo de Apple, no una señal de estres real dado el respaldo de la caja neta amplia. Prueba acida entre 0.81x y 0.93x según fuente.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Deuda total moderada (aprox 85000 millones USD) con calificacion de grado de inversion maxima (Aaa Moody's, AA+ S&P) - spread de credito extremadamente ajustado sobre el Treasury, sin senales de estres de refinanciamiento.",
+          "notas": "Deuda total moderada (aprox 85000 millones USD) con calificación de grado de inversión maxima (Aaa Moody's, AA+ S&P) - spread de crédito extremadamente ajustado sobre el Treasury, sin señales de estres de refinanciamiento.",
           "calificacion": 5
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales 383270 millones USD, patrimonio bajo (107520 millones USD) por anios de recompras masivas de acciones, mismo patron que LLY - el patrimonio esta creciendo dentro del propio TTM (de 73730 millones USD a cierre FY2025 a 107520 millones USD TTM), lo que distorsiona el ROE reportado por fuentes externas.",
+          "notas": "Activos totales 383270 millones USD, patrimonio bajo (107520 millones USD) por años de recompras masivas de acciones, mismo patrón que LLY - el patrimonio esta creciendo dentro del propio TTM (de 73730 millones USD a cierre FY2025 a 107520 millones USD TTM), lo que distorsiona el ROE reportado por fuentes externas.",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margenes en expansion estructural: margen bruto TTM 48.65% (vs 46.91% FY2025), margen operativo 33.17% (vs 31.97% FY2025), impulsados por el crecimiento de Services (margen bruto 75.6% a 76.7%) como proporcion creciente de ingresos. Tendencia solida y sostenida, no un pico ciclico como en otras empresas de este Dashboard.",
+          "notas": "Márgenes en expansión estructural: margen bruto TTM 48.65% (vs 46.91% FY2025), margen operativo 33.17% (vs 31.97% FY2025), impulsados por el crecimiento de Services (margen bruto 75.6% a 76.7%) como proporción creciente de ingresos. Tendencia sólida y sostenida, no un pico ciclico como en otras empresas de este Dashboard.",
           "calificacion": 5
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROIC entre 72.08% (Finviz) y 101.57% (stockanalysis, discrepancia por definicion de capital invertido) - muy por encima del WACC estimado (aprox 9.39%), rentabilidad excelente. ROE nominal (131.76% a 148.75%) distorsionado por el patrimonio bajo tras recompras masivas, mismo patron que LLY - se prefiere ROIC como metrica de rentabilidad mas informativa.",
+          "notas": "ROIC entre 72.08% (Finviz) y 101.57% (stockanalysis, discrepancia por definición de capital invertido) - muy por encima del WACC estimado (aprox 9.39%), rentabilidad excelente. ROE nominal (131.76% a 148.75%) distorsionado por el patrimonio bajo tras recompras masivas, mismo patrón que LLY - se prefiere ROIC como métrica de rentabilidad mas informativa.",
           "calificacion": 5
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos 1.22x (Revenue TTM 466.82bn sobre Activos totales 383.27bn), alta para una empresa de este tamano - reflejo de un balance eficiente sin exceso de activos improductivos.",
+          "notas": "Rotación de activos 1.22x (Revenue TTM 466.82bn sobre Activos totales 383.27bn), alta para una empresa de este tamaño - reflejo de un balance eficiente sin exceso de activos improductivos.",
           "calificacion": 4
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Historial volatil de un digito medio a bajo (FY2021 +33.3% posCovid, FY2022 +7.8%, FY2023 -2.8%, FY2024 +2.0%, FY2025 +6.4%) con fuerte reaceleracion reciente a +14.2% TTM, impulsada por el mejor ciclo de iPhone de la historia reciente (iPhone 17), Services, y el rebote en China. CAGR de 5 anios aprox 6.8% a 8.7% segun fuente.",
+          "notas": "Historial volatil de un digito medio a bajo (FY2021 +33.3% posCovid, FY2022 +7.8%, FY2023 -2.8%, FY2024 +2.0%, FY2025 +6.4%) con fuerte reaceleración reciente a +14.2% TTM, impulsada por el mejor ciclo de iPhone de la historia reciente (iPhone 17), Services, y el rebote en China. CAGR de 5 años aprox 6.8% a 8.7% según fuente.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Consistencia moderada: el negocio depende en gran parte del ciclo de renovacion de iPhone (historicamente volatil ano a ano segun el atractivo del lanzamiento), aunque Services aporta una base cada vez mas estable y de alto margen que suaviza la ciclicidad total.",
+          "notas": "Consistencia moderada: el negocio depende en gran parte del ciclo de renovación de iPhone (históricamente volatil ano a ano según el atractivo del lanzamiento), aunque Services aporta una base cada vez mas estable y de alto margen que suaviza la ciclicidad total.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Ciclo iPhone 18 (H2 2026, primer chip A20 y A20 Pro en proceso de 2nm de TSMC); expansion continua de Services; asociacion con Google Gemini para Apple Intelligence y Siri rediseÃ±ado (modelo Gemini custom de 1.2 billones de parametros, costo aprox 1000 millones USD por anio); diversificacion de manufactura a India y Vietnam.",
+          "notas": "Ciclo iPhone 18 (H2 2026, primer chip A20 y A20 Pro en proceso de 2nm de TSMC); expansión continua de Services; asociación con Google Gemini para Apple Intelligence y Siri rediseÃ±ado (modelo Gemini custom de 1.2 billones de parametros, costo aprox 1000 millones USD por año); diversificación de manufactura a India y Vietnam.",
           "calificacion": 4
         }
       ],
@@ -130,7 +130,7 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 146.72bn USD (+35% interanual) muy por encima de la utilidad neta TTM 128.93bn USD - calidad de ganancias excelente y sin senales de distorsion contable, consistente con el historial de Apple.",
+          "notas": "OCF TTM 146.72bn USD (+35% interanual) muy por encima de la utilidad neta TTM 128.93bn USD - calidad de ganancias excelente y sin señales de distorsión contable, consistente con el historial de Apple.",
           "calificacion": 5
         },
         {
@@ -140,12 +140,12 @@
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM apenas 10.04bn USD (aprox 2.2% de ingresos) - bajo y estable, sin evidencia todavia de un salto de capex por IA como en los hyperscalers (Microsoft, Google, Meta). Modelo de negocio sigue siendo capital-light.",
+          "notas": "Capex TTM apenas 10.04bn USD (aprox 2.2% de ingresos) - bajo y estable, sin evidencia todavía de un salto de capex por IA como en los hyperscalers (Microsoft, Google, Meta). Modelo de negocio sigue siendo capital-light.",
           "calificacion": 5
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Retorno de capital masivo y consistente: mas de 1 billon USD acumulado devuelto a accionistas, nueva autorizacion de 100000 millones USD en recompras (abr-2026), dividendo en alza (4% trimestral). Cambio reciente de politica (abandono de la meta de caja neta neutral) da mas flexibilidad futura, a monitorear si implica mas apalancamiento.",
+          "notas": "Retorno de capital masivo y consistente: mas de 1 billon USD acumulado devuelto a accionistas, nueva autorización de 100000 millones USD en recompras (abr-2026), dividendo en alza (4% trimestral). Cambio reciente de política (abandono de la meta de caja neta neutral) da mas flexibilidad futura, a monitorear si implica mas apalancamiento.",
           "calificacion": 4
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "PE TTM 35.49x a 35.50x, forward PE 32.47x a 33.82x, PEG 2.61 - multiplos historicamente altos para Apple (que tradicionalmente cotizo en el rango de 15x a 25x por anios), EV a EBITDA 26.51x a 27.04x, P a FCF 33.03x a 33.06x. Valoracion exigente en terminos historicos propios de la empresa.",
+          "notas": "PE TTM 35.49x a 35.50x, forward PE 32.47x a 33.82x, PEG 2.61 - múltiplos históricamente altos para Apple (que tradicionalmente cotizo en el rango de 15x a 25x por años), EV a EBITDA 26.51x a 27.04x, P a FCF 33.03x a 33.06x. Valoración exigente en términos históricos propios de la empresa.",
           "calificacion": 2
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio (adoptado): FCF base TTM 136.68bn USD (sin lumpiness, modelo de negocio capital-light y estable), WACC 9.39% (beta confiable 1.09, consistente entre 3 fuentes independientes; Rf 3.5%, ERP 5.5%; costo de deuda post-impuestos aprox 3.56%), crecimiento decreciente tipo fade de 12% a 7% en 5 anios, terminal 4% -> 231.20 USD por accion. Escenario de sensibilidad mas generoso (crecimiento plano 11%, no adoptado) da 247.90 USD, todavia por debajo del precio de mercado. Ver Notas del Dashboard para el detalle completo.",
+          "notas": "DCF propio (adoptado): FCF base TTM 136.68bn USD (sin lumpiness, modelo de negocio capital-light y estable), WACC 9.39% (beta confiable 1.09, consistente entre 3 fuentes independientes; Rf 3.5%, ERP 5.5%; costo de deuda post-impuestos aprox 3.56%), crecimiento decreciente tipo fade de 12% a 7% en 5 años, terminal 4% -> 231.20 USD por acción. Escenario de sensibilidad mas generoso (crecimiento plano 11%, no adoptado) da 247.90 USD, todavía por debajo del precio de mercado. Ver Notas del Dashboard para el detalle completo.",
           "calificacion": 2
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de seguridad -25.3% en el escenario base y -19.9% en el escenario mas generoso - ambos en zona de vender o justo en el borde, conclusion razonablemente robusta a la eleccion de growth rate. Consistente con que el propio consenso de analistas (objetivo promedio +3.6% de alza) es apenas positivo, no fuertemente bullish como en otros casos de este Dashboard.",
+          "notas": "Margen de seguridad -25.3% en el escenario base y -19.9% en el escenario mas generoso - ambos en zona de vender o justo en el borde, conclusión razonablemente robusta a la elección de growth rate. Consistente con que el propio consenso de analistas (objetivo promedio +3.6% de alza) es apenas positivo, no fuertemente bullish como en otros casos de este Dashboard.",
           "calificacion": 2
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM maduro pero enorme en hardware premium (smartphones, computadoras personales, wearables) y en expansion en Services (pagos, publicidad, salud, contenido) e IA on-device via la asociacion con Google Gemini.",
+          "notas": "TAM maduro pero enorme en hardware premium (smartphones, computadoras personales, wearables) y en expansión en Services (pagos, publicidad, salud, contenido) e IA on-device via la asociación con Google Gemini.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas: integracion vertical de hardware, software y chips propios (silicio M-series y A-series via TSMC), escala de manufactura, marca, y el ecosistema de switching costs - dificil de replicar incluso para competidores bien capitalizados.",
+          "notas": "Muy altas: integración vertical de hardware, software y chips propios (silicio M-series y A-series via TSMC), escala de manufactura, marca, y el ecosistema de switching costs - difícil de replicar incluso para competidores bien capitalizados.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta pero estable entre pocos jugadores de gran escala (Samsung en hardware, Google-Android en sistema operativo, Microsoft y Amazon en servicios adyacentes); poder de proveedor concentrado (TSMC como proveedor exclusivo de chips, Foxconn y otros ensambladores) pero gestionado con contratos de largo plazo; poder de comprador bajo (consumidores individuales sin poder de negociacion); amenaza de sustitutos baja dentro del ecosistema por los switching costs; barreras de entrada muy altas.",
+          "notas": "Rivalidad alta pero estable entre pocos jugadores de gran escala (Samsung en hardware, Google-Android en sistema operativo, Microsoft y Amazon en servicios adyacentes); poder de proveedor concentrado (TSMC como proveedor exclusivo de chips, Foxconn y otros ensambladores) pero gestionado con contratos de largo plazo; poder de comprador bajo (consumidores individuales sin poder de negociación); amenaza de sustitutos baja dentro del ecosistema por los switching costs; barreras de entrada muy altas.",
           "calificacion": 4
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Moderadamente ciclico, ligado al ciclo de renovacion de iPhone (historicamente entre -2.8% y +33% de crecimiento anual de ingresos), pero cada vez mas suavizado por la base creciente y estable de Services de alto margen.",
+          "notas": "Moderadamente ciclico, ligado al ciclo de renovación de iPhone (históricamente entre -2.8% y +33% de crecimiento anual de ingresos), pero cada vez mas suavizado por la base creciente y estable de Services de alto margen.",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Tres frentes de litigio antimonopolio activos: DOJ vs Apple (en conversaciones tempranas de settlement, jul-2026, sin fecha de juicio fijada), Epic Games vs Apple (la Corte Suprema de EEUU acepto escuchar la apelacion de Apple, jun-2026, fallo esperado aprox jun-2027), y la UE bajo el Digital Markets Act (multa de 500 millones EUR en 2025, confirmacion de la designacion de gatekeeper en jul-2026, retraso del lanzamiento de Siri con IA en la UE por friccion regulatoria).",
+          "notas": "Tres frentes de litigio antimonopolio activos: DOJ vs Apple (en conversaciones tempranas de settlement, jul-2026, sin fecha de juicio fijada), Epic Games vs Apple (la Corte Suprema de EEUU acepto escuchar la apelación de Apple, jun-2026, fallo esperado aprox jun-2027), y la UE bajo el Digital Markets Act (multa de 500 millones EUR en 2025, confirmación de la designación de gatekeeper en jul-2026, retraso del lanzamiento de Siri con IA en la UE por fricción regulatoria).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria moderada por la diversificacion geografica de ingresos (Americas, Europa, Greater China, Japon, resto de Asia Pacifico) - no es un riesgo dominante para Apple en comparacion con otros riesgos de este analisis.",
+          "notas": "Exposición cambiaria moderada por la diversificación geográfica de ingresos (Americas, Europa, Greater China, Japon, resto de Asia Pacifico) - no es un riesgo dominante para Apple en comparación con otros riesgos de este analisis.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Sin concentracion de clientes (base de consumidores globales masiva). Concentracion de proveedor y manufactura notable: TSMC como proveedor exclusivo de chips avanzados, y ensambladores concentrados (Foxconn, Pegatron, Luxshare) mayormente en China, con diversificacion en curso hacia India (meta de mayoria de iPhones para EEUU fabricados ahi para fines de 2026) y Vietnam.",
+          "notas": "Sin concentración de clientes (base de consumidores globales masiva). Concentración de proveedor y manufactura notable: TSMC como proveedor exclusivo de chips avanzados, y ensambladores concentrados (Foxconn, Pegatron, Luxshare) mayormente en China, con diversificación en curso hacia India (meta de mayoría de iPhones para EEUU fabricados ahi para fines de 2026) y Vietnam.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de disrupcion moderado: dependencia de un acuerdo externo (Google Gemini, aprox 1000 millones USD por anio) para potenciar Apple Intelligence y Siri, en vez de un modelo de IA propio de punta - senal de que Apple no lidera la carrera de IA generativa aunque mantiene su enfoque diferenciado de privacidad y procesamiento on-device.",
+          "notas": "Riesgo de disrupción moderado: dependencia de un acuerdo externo (Google Gemini, aprox 1000 millones USD por año) para potenciar Apple Intelligence y Siri, en vez de un modelo de IA propio de punta - señal de que Apple no lidera la carrera de IA generativa aunque mantiene su enfoque diferenciado de privacidad y procesamiento on-device.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin banderas rojas mayores identificadas en esta sesion; concentracion de manufactura en fabricas de terceros (Foxconn y otros) ha sido objeto de escrutinio de condiciones laborales en el pasado, aunque no se profundizo en esta sesion.",
+          "notas": "Sin banderas rojas mayores identificadas en esta sesión; concentración de manufactura en fabricas de terceros (Foxconn y otros) ha sido objeto de escrutinio de condiciones laborales en el pasado, aunque no se profundizo en esta sesión.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Lanzamiento del iPhone 18 (H2 2026, primer chip A20 y A20 Pro en 2nm de TSMC); primeras funciones de Siri con Gemini llegando a usuarios (excepto en la UE, retrasado por el Digital Markets Act); transicion formal de CEO a John Ternus el 1-sep-2026; avances en los litigios de DOJ y Epic Games.",
+          "notas": "Lanzamiento del iPhone 18 (H2 2026, primer chip A20 y A20 Pro en 2nm de TSMC); primeras funciones de Siri con Gemini llegando a usuarios (excepto en la UE, retrasado por el Digital Markets Act); transición formal de CEO a John Ternus el 1-sep-2026; avances en los litigios de DOJ y Epic Games.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Insider ownership muy bajo (0.12%, tipico de mega-cap madura con management profesional no fundador); no se identifico informacion especifica de compras o ventas recientes de insiders en esta sesion.",
+          "notas": "Insider ownership muy bajo (0.12%, típico de mega-cap madura con management profesional no fundador); no se identifico información específica de compras o ventas recientes de insiders en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura muy amplia (46 a 49 analistas segun la fuente), calificacion de consenso mayoritariamente Buy pero con dispersion notable (21 Strong Buy, 6 Buy, 14 Hold, 3 Sell, 2 Strong Sell de 46), objetivo promedio entre 320.89 y 326.82 USD, equivalente a un alza modesta de solo aprox 3.6% - inusualmente bajo, y una fuente (Motley Fool) senalo que el precio objetivo promedio quedo por debajo del precio de mercado justo antes de resultados. Consenso apenas positivo, no fuertemente bullish, consistente con la conclusion cautelosa de este DCF propio.",
+          "notas": "Cobertura muy amplia (46 a 49 analistas según la fuente), calificación de consenso mayoritariamente Buy pero con dispersión notable (21 Strong Buy, 6 Buy, 14 Hold, 3 Sell, 2 Strong Sell de 46), objetivo promedio entre 320.89 y 326.82 USD, equivalente a un alza modesta de solo aprox 3.6% - inusualmente bajo, y una fuente (Motley Fool) senalo que el precio objetivo promedio quedo por debajo del precio de mercado justo antes de resultados. Consenso apenas positivo, no fuertemente bullish, consistente con la conclusión cautelosa de este DCF propio.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.810810810810811,
-    "recomendacion": "MANTENER CON CAUTELA - VALORACION EXIGENTE, NO ABRIR POSICION NUEVA (DCF y consenso de analistas apuntan en la misma direccion cautelosa, mismo patron que NFLX)",
-    "tesis": "El moat mas fuerte y probado de este Dashboard (ecosistema cerrado, switching costs, margenes de Services en expansion), pero cotizando en multiplos historicamente altos para los propios estandares de Apple, justo cuando enfrenta una transicion de CEO y tres litigios antimonopolio activos."
+    "recomendacion": "MANTENER CON CAUTELA - VALORASIÓN EXIGENTE, NO ABRIR POSISIÓN NUEVA (DCF y consenso de analistas apuntan en la misma dirección cautelosa, mismo patrón que NFLX)",
+    "tesis": "El moat mas fuerte y probado de este Dashboard (ecosistema cerrado, switching costs, márgenes de Services en expansión), pero cotizando en múltiplos históricamente altos para los propios estandares de Apple, justo cuando enfrenta una transición de CEO y tres litigios antimonopolio activos."
   }
 }

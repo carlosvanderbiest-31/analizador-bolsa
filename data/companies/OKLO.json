@@ -1,7 +1,7 @@
 {
   "empresa": "Oklo Inc",
   "ticker": "OKLO",
-  "sector": "Utilities - Productores Independientes de Energia (pre-ingresos, reactores nucleares modulares en desarrollo)",
+  "sector": "Utilities - Productores Independientes de Energía (pre-ingresos, reactores nucleares modulares en desarrollo)",
   "fecha_analisis": "46238",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Pre-ingresos: aun no tiene ingresos comerciales. Modelo de negocio planeado es vender electricidad mediante contratos de compra de energia (PPA) de largo plazo desde reactores modulares Aurora Powerhouse (diseno sodio-rapido de 75 MW), mas un segmento de reciclaje y venta de combustible nuclear y un segmento de radioisotopos (reactor de pruebas Groves ya con autorizacion de arranque). El primer ingreso comercial relevante no se espera antes de finales de 2027 o principios de 2028, cuando entre en operacion la primera planta en el Idaho National Laboratory (INL).",
+          "notas": "Pre-ingresos: aun no tiene ingresos comerciales. Modelo de negocio planeado es vender electricidad mediante contratos de compra de energía (PPA) de largo plazo desde reactores modulares Aurora Powerhouse (diseño sodio-rápido de 75 MW), mas un segmento de reciclaje y venta de combustible nuclear y un segmento de radioisotopos (reactor de pruebas Groves ya con autorización de arranque). El primer ingreso comercial relevante no se espera antes de finales de 2027 o principios de 2028, cuando entre en operación la primera planta en el Idaho National Laboratory (INL).",
           "calificacion": 2
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat potencial pero aun no probado: ser first-mover en licenciamiento de un reactor rapido enfriado por sodio ante la NRC (si lo logra) crearia una barrera regulatoria dificil de replicar; escala de pedidos (14 GW en cartera de LOIs no vinculantes) podria generar ventajas de curva de aprendizaje y costos si se ejecuta. Pero hoy es un moat de tesis, no de resultados: ningun SMR de este tipo esta licenciado y operando comercialmente en EEUU todavia, y compite con varios jugadores bien capitalizados (NuScale, X-Energy, TerraPower, Kairos) por los mismos clientes.",
+          "notas": "Moat potencial pero aun no probado: ser first-mover en licenciamiento de un reactor rápido enfriado por sodio ante la NRC (si lo logra) crearia una barrera regulatoria difícil de replicar; escala de pedidos (14 GW en cartera de LOIs no vinculantes) podría generar ventajas de curva de aprendizaje y costos si se ejecuta. Pero hoy es un moat de tesis, no de resultados: ningún SMR de este tipo esta licenciado y operando comercialmente en EEUU todavía, y compite con varios jugadores bien capitalizados (NuScale, X-Energy, TerraPower, Kairos) por los mismos clientes.",
           "calificacion": 3
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Uno de los desarrolladores de reactores avanzados con mayor cartera de LOIs anunciada (14 GW, incluyendo el acuerdo marco no vinculante de 12 GW con Switch y hasta 1.2 GW con Meta en Ohio), pero todos son acuerdos no vinculantes sin obligacion de pago. NuScale tiene su diseno certificado por la NRC (ventaja regulatoria); X-Energy acaba de salir a bolsa con el respaldo de Amazon; TerraPower y Kairos (con Google) son privados pero bien capitalizados. Nadie ha demostrado aun operacion comercial rentable en este segmento.",
+          "notas": "Uno de los desarrolladores de reactores avanzados con mayor cartera de LOIs anunciada (14 GW, incluyendo el acuerdo marco no vinculante de 12 GW con Switch y hasta 1.2 GW con Meta en Ohio), pero todos son acuerdos no vinculantes sin obligación de pago. NuScale tiene su diseño certificado por la NRC (ventaja regulatoria); X-Energy acaba de salir a bolsa con el respaldo de Amazon; TerraPower y Kairos (con Google) son privados pero bien capitalizados. Nadie ha demostrado aun operación comercial rentable en este segmento.",
           "calificacion": 3
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "No aplica todavia de forma real: sin ingresos comerciales no hay poder de fijacion de precios probado. Los acuerdos futuros seran PPAs de precio fijo de largo plazo negociados con clientes de gran escala (hyperscalers, desarrolladores de centros de datos), que tipicamente tienen alto poder de negociacion dado el tamano de sus compras.",
+          "notas": "No aplica todavía de forma real: sin ingresos comerciales no hay poder de fijación de precios probado. Los acuerdos futuros seran PPAs de precio fijo de largo plazo negociados con clientes de gran escala (hyperscalers, desarrolladores de centros de datos), que tipicamente tienen alto poder de negociación dado el tamaño de sus compras.",
           "calificacion": 2
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Historial corto pero disciplinado en el uso de capital recaudado: 2.54 mil millones USD en efectivo y valores al 31-03-2026 (incluyendo 1.2 mil millones USD de una oferta ATM reciente), guiado a desplegar 350 a 450 millones USD de capital en 2026 principalmente en la construccion de la planta de INL y la instalacion de fabricacion de combustible. Sin dividendos ni recompras (esperado en esta etapa). Adquisicion reciente de Creative Engineers para asegurar capacidad de ingenieria de procesos de sodio, un bolt-on estrategico razonable.",
+          "notas": "Historial corto pero disciplinado en el uso de capital recaudado: 2.54 mil millones USD en efectivo y valores al 31-03-2026 (incluyendo 1.2 mil millones USD de una oferta ATM reciente), guiado a desplegar 350 a 450 millones USD de capital en 2026 principalmente en la construcción de la planta de INL y la instalación de fabricación de combustible. Sin dividendos ni recompras (esperado en esta etapa). Adquisición reciente de Creative Engineers para asegurar capacidad de ingenieria de procesos de sodio, un bolt-on estratégico razonable.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Los cofundadores Jacob DeWitte (CEO y ahora Presidente) y Caroline Cochran (COO), ambos ingenieros nucleares del MIT, mantienen aprox 16.05% de propiedad de insiders. Senal de alerta: DeWitte y Cochran propusieron ventas de acciones combinadas de 31 millones USD el 3 de agosto de 2026 a 38.83 USD por accion, un precio por debajo del precio actual de mercado - posiblemente ventas planificadas via planes 10b5-1 anteriores, pero de todas formas una senal a monitorear en una empresa sin ingresos.",
+          "notas": "Los cofundadores Jacob DeWitte (CEO y ahora Presidente) y Caroline Cochran (COO), ambos ingenieros nucleares del MIT, mantienen aprox 16.05% de propiedad de insiders. Señal de alerta: DeWitte y Cochran propusieron ventas de acciones combinadas de 31 millones USD el 3 de agosto de 2026 a 38.83 USD por acción, un precio por debajo del precio actual de mercado - posiblemente ventas planificadas via planes 10b5-1 anteriores, pero de todas formas una señal a monitorear en una empresa sin ingresos.",
           "calificacion": 2
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunica guidance especifico de uso de efectivo operativo y despliegue de capital para el anio, y detalla el avance regulatorio y de construccion trimestre a trimestre. Historial corto (cotiza desde 2024 via fusion con la SPAC AltC Acquisition Corp) limita la evaluacion de consistencia de largo plazo.",
+          "notas": "Comunica guidance específico de uso de efectivo operativo y despliegue de capital para el año, y detalla el avance regulatorio y de construcción trimestre a trimestre. Historial corto (cotiza desde 2024 via fusión con la SPAC AltC Acquisition Corp) limita la evaluación de consistencia de largo plazo.",
           "calificacion": 3
         }
       ],
@@ -62,12 +62,12 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "No aplica de forma tradicional: Deuda a Patrimonio de 0.00 (sin deuda financiera) y EBITDA profundamente negativo (perdida operativa de 51.2 millones USD solo en el primer trimestre de 2026), por lo que el ratio Deuda Neta a EBITDA no es un indicador significativo en esta etapa. Lo relevante es que la empresa esta financiada enteramente con equity, sin apalancamiento financiero.",
+          "notas": "No aplica de forma tradicional: Deuda a Patrimonio de 0.00 (sin deuda financiera) y EBITDA profundamente negativo (pérdida operativa de 51.2 millones USD solo en el primer trimestre de 2026), por lo que el ratio Deuda Neta a EBITDA no es un indicador significativo en esta etapa. Lo relevante es que la empresa esta financiada enteramente con equity, sin apalancamiento financiero.",
           "calificacion": 4
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Liquidez excepcional: quick ratio de 59.93x segun Finviz, respaldado por 2.54 mil millones USD en efectivo y valores negociables al 31-03-2026. La gerencia estima que la liquidez actual financia las operaciones por al menos un anio, aunque con guidance de desplegar 350 a 450 millones USD de capital en 2026, el ritmo de quema de caja se acelerara con la construccion.",
+          "notas": "Liquidez excepcional: quick ratio de 59.93x según Finviz, respaldado por 2.54 mil millones USD en efectivo y valores negociables al 31-03-2026. La gerencia estima que la liquidez actual financia las operaciones por al menos un año, aunque con guidance de desplegar 350 a 450 millones USD de capital en 2026, el ritmo de quema de caja se acelerara con la construcción.",
           "calificacion": 5
         },
         {
@@ -77,7 +77,7 @@
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos dominados por efectivo y valores negociables (2.54 mil millones USD), no por activos operativos generadores de ingresos todavia. La planta de INL y la instalacion de fabricacion de combustible estan en construccion, no terminadas ni generando valor economico medible aun.",
+          "notas": "Activos dominados por efectivo y valores negociables (2.54 mil millones USD), no por activos operativos generadores de ingresos todavía. La planta de INL y la instalación de fabricación de combustible estan en construcción, no terminadas ni generando valor económico medible aun.",
           "calificacion": 2
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "No aplica: sin ingresos comerciales no hay margenes que evaluar. Gasto operativo creciendo rapido (18.6 millones USD en 2023, 52.8 millones USD en 2024, 139.3 millones USD en 2025) a medida que la empresa escala sus tres unidades de negocio (generacion, reciclaje de combustible, radioisotopos).",
+          "notas": "No aplica: sin ingresos comerciales no hay márgenes que evaluar. Gasto operativo creciendo rápido (18.6 millones USD en 2023, 52.8 millones USD en 2024, 139.3 millones USD en 2025) a medida que la empresa escala sus tres unidades de negocio (generación, reciclaje de combustible, radioisotopos).",
           "calificacion": 1
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "No aplica de forma significativa: ROE y ROIC son negativos y no informativos dado que la empresa no genera utilidades ni retornos sobre el capital invertido todavia; todo el capital esta desplegandose en construccion y desarrollo, no generando retorno corriente.",
+          "notas": "No aplica de forma significativa: ROE y ROIC son negativos y no informativos dado que la empresa no genera utilidades ni retornos sobre el capital invertido todavía; todo el capital esta desplegandose en construcción y desarrollo, no generando retorno corriente.",
           "calificacion": 1
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "No aplica de forma significativa: sin ingresos, la rotacion de activos es esencialmente cero. Los activos son mayormente efectivo en espera de ser desplegado en construccion.",
+          "notas": "No aplica de forma significativa: sin ingresos, la rotación de activos es esencialmente cero. Los activos son mayormente efectivo en espera de ser desplegado en construcción.",
           "calificacion": 1
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "No aplica: la empresa no tiene ingresos comerciales historicos que mostrar. El unico crecimiento medible es el del gasto operativo (de 18.6 millones USD en 2023 a 139.3 millones USD en 2025) y el de la cartera de LOIs no vinculantes (de 750 MW en 2024 a aprox 14 GW hacia mediados de 2026, impulsado en gran parte por el acuerdo marco de 12 GW con Switch).",
+          "notas": "No aplica: la empresa no tiene ingresos comerciales históricos que mostrar. El único crecimiento medible es el del gasto operativo (de 18.6 millones USD en 2023 a 139.3 millones USD en 2025) y el de la cartera de LOIs no vinculantes (de 750 MW en 2024 a aprox 14 GW hacia mediados de 2026, impulsado en gran parte por el acuerdo marco de 12 GW con Switch).",
           "calificacion": 2
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "No aplica en el sentido tradicional: no hay ingresos que mostrar consistencia. La cartera de LOIs ha crecido de forma constante pero son acuerdos no vinculantes sin obligacion de pago, por lo que no equivalen a ingresos contratados en firme.",
+          "notas": "No aplica en el sentido tradicional: no hay ingresos que mostrar consistencia. La cartera de LOIs ha crecido de forma constante pero son acuerdos no vinculantes sin obligación de pago, por lo que no equivalen a ingresos contratados en firme.",
           "calificacion": 2
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Cartera de LOIs de aprox 14 GW (acuerdo marco no vinculante de 12 GW con Switch para desplegar hasta 2044 con primeras entregas posibles desde 2029; hasta 1.2 GW con Meta en Ohio; acuerdos previos por hasta 750 MW con otros clientes de centros de datos desde 2024). Participacion en la iniciativa de 200 millones USD respaldada por la administracion Trump para acelerar energia nuclear para IA. Autorizacion de arranque del reactor de pruebas de isotopos Groves, que abre un segmento adicional de ingresos (radioisotopos medicos e industriales) potencialmente antes que el negocio principal de generacion.",
+          "notas": "Cartera de LOIs de aprox 14 GW (acuerdo marco no vinculante de 12 GW con Switch para desplegar hasta 2044 con primeras entregas posibles desde 2029; hasta 1.2 GW con Meta en Ohio; acuerdos previos por hasta 750 MW con otros clientes de centros de datos desde 2024). Participación en la iniciativa de 200 millones USD respaldada por la administración Trump para acelerar energía nuclear para IA. Autorización de arranque del reactor de pruebas de isotopos Groves, que abre un segmento adicional de ingresos (radioisotopos medicos e industriales) potencialmente antes que el negocio principal de generación.",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "No aplica de forma tradicional: ambos son negativos y reflejan gasto de desarrollo, no un negocio operativo maduro. Perdida neta de 33.1 millones USD en el primer trimestre de 2026 y 29.3 millones USD en el segundo trimestre de 2026, con efectivo usado en operaciones guiado en 80 a 100 millones USD para todo 2026.",
+          "notas": "No aplica de forma tradicional: ambos son negativos y reflejan gasto de desarrollo, no un negocio operativo maduro. Pérdida neta de 33.1 millones USD en el primer trimestre de 2026 y 29.3 millones USD en el segundo trimestre de 2026, con efectivo usado en operaciones guiado en 80 a 100 millones USD para todo 2026.",
           "calificacion": 2
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "No aplica: FCF profundamente negativo por diseno en esta etapa (guidance de 350 a 450 millones USD de despliegue de capital en 2026 para construccion), sin EBITDA positivo que convertir. Esto es esperado y normal para una empresa de infraestructura pre-ingresos en fase de construccion, no una senal de problema operativo.",
+          "notas": "No aplica: FCF profundamente negativo por diseño en esta etapa (guidance de 350 a 450 millones USD de despliegue de capital en 2026 para construcción), sin EBITDA positivo que convertir. Esto es esperado y normal para una empresa de infraestructura pre-ingresos en fase de construcción, no una señal de problema operativo.",
           "calificacion": 2
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "100% capex de crecimiento (construccion de la primera planta en INL, la instalacion de fabricacion de combustible, y ahora la adquisicion de Creative Engineers para capacidad de ingenieria de sodio) - no hay activos operativos existentes que mantener todavia.",
+          "notas": "100% capex de crecimiento (construcción de la primera planta en INL, la instalación de fabricación de combustible, y ahora la adquisición de Creative Engineers para capacidad de ingenieria de sodio) - no hay activos operativos existentes que mantener todavía.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Capital recaudado (incluyendo ofertas ATM recurrentes) se esta desplegando segun guidance especifico hacia construccion (350 a 450 millones USD en 2026). Sin dividendos ni recompras, apropiado para la etapa de la empresa. Dilucion accionaria relevante: las acciones en circulacion aumentaron aprox 33.27% en el ultimo anio por las ofertas de capital, un costo real para los accionistas existentes que hay que sopesar contra el avance operativo logrado.",
+          "notas": "Capital recaudado (incluyendo ofertas ATM recurrentes) se esta desplegando según guidance específico hacia construcción (350 a 450 millones USD en 2026). Sin dividendos ni recompras, apropiado para la etapa de la empresa. Dilución accionaria relevante: las acciones en circulación aumentaron aprox 33.27% en el último año por las ofertas de capital, un costo real para los accionistas existentes que hay que sopesar contra el avance operativo logrado.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "No aplica de forma tradicional: P/E, EV a EBITDA y P/FCF no son significativos por ausencia de utilidades, EBITDA y FCF positivos. El unico multiplo con algo de significado es Precio a Valor en Libros de 2.87x segun Finviz - dado que el valor en libros es mayormente efectivo, este multiplo refleja que el mercado le esta pagando una prima sustancial sobre el efectivo neto por la opcionalidad de la tesis de negocio, no por resultados. Comparables de sector (NuScale, X-Energy) tambien cotizan con logica similar de opcionalidad, no de multiplos tradicionales.",
+          "notas": "No aplica de forma tradicional: P/E, EV a EBITDA y P/FCF no son significativos por ausencia de utilidades, EBITDA y FCF positivos. El único múltiplo con algo de significado es Precio a Valor en Libros de 2.87x según Finviz - dado que el valor en libros es mayormente efectivo, este múltiplo refleja que el mercado le esta pagando una prima sustancial sobre el efectivo neto por la opcionalidad de la tesis de negocio, no por resultados. Comparables de sector (NuScale, X-Energy) también cotizan con logica similar de opcionalidad, no de múltiplos tradicionales.",
           "calificacion": 2
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "No se calculo un DCF tradicional confiable para Oklo, a diferencia de las otras empresas de este Dashboard, porque la empresa es pre-ingresos: no tiene ingresos comerciales, el EBITDA y el FCF son profundamente negativos por diseno (guidance 2026 de 80 a 100 millones USD de efectivo usado en operaciones mas 350 a 450 millones USD de despliegue de capital), la primera planta comercial (Aurora Powerhouse de 75 MW en el Idaho National Laboratory) no entraria en operacion antes de finales de 2027 o principios de 2028, y la licencia de la NRC (marco de licencia combinada 10 CFR Part 52) todavia esta en fase de pre-solicitud, sin otorgar. Cualquier proyeccion de flujo de caja a 5 anios requeriria asumir el exito de un proceso regulatorio sin precedente para este tipo de reactor, el cumplimiento de un cronograma de construccion de primer-de-su-tipo, y una tasa de conversion arbitraria de la cartera de LOIs no vinculantes (aprox 14 GW, dominada por el acuerdo marco de 12 GW con Switch) a contratos firmes con economia de precio conocida - ninguno de esos supuestos tiene una base solida hoy. Forzar un numero de DCF en este contexto daria una falsa sensacion de precision. Como referencia informativa (no como valor intrinseco): el valor en libros por accion, dominado por el efectivo neto de 2.54 mil millones USD, es de aprox 14.6 USD por accion (2.54 mil millones dividido entre 173.99 millones de acciones), un piso muy por debajo del precio de mercado de 43.51 USD - la diferencia (aprox 29 USD por accion) es enteramente el valor que el mercado le asigna a la opcionalidad de que la tesis de despliegue nuclear se materialice. La dispersion extrema de precios objetivo de analistas (de 14 a 140 USD segun una fuente) confirma que no existe consenso solido sobre el valor real de esa opcionalidad.",
+          "notas": "No se calculo un DCF tradicional confiable para Oklo, a diferencia de las otras empresas de este Dashboard, porque la empresa es pre-ingresos: no tiene ingresos comerciales, el EBITDA y el FCF son profundamente negativos por diseño (guidance 2026 de 80 a 100 millones USD de efectivo usado en operaciones mas 350 a 450 millones USD de despliegue de capital), la primera planta comercial (Aurora Powerhouse de 75 MW en el Idaho National Laboratory) no entraria en operación antes de finales de 2027 o principios de 2028, y la licencia de la NRC (marco de licencia combinada 10 CFR Part 52) todavía esta en fase de pre-solicitud, sin otorgar. Cualquier proyección de flujo de caja a 5 años requeriria asumir el exito de un proceso regulatorio sin precedente para este tipo de reactor, el cumplimiento de un cronograma de construcción de primer-de-su-tipo, y una tasa de conversión arbitraria de la cartera de LOIs no vinculantes (aprox 14 GW, dominada por el acuerdo marco de 12 GW con Switch) a contratos firmes con economía de precio conocida - ninguno de esos supuestos tiene una base sólida hoy. Forzar un número de DCF en este contexto daria una falsa sensación de precisión. Como referencia informativa (no como valor intrínseco): el valor en libros por acción, dominado por el efectivo neto de 2.54 mil millones USD, es de aprox 14.6 USD por acción (2.54 mil millones dividido entre 173.99 millones de acciones), un piso muy por debajo del precio de mercado de 43.51 USD - la diferencia (aprox 29 USD por acción) es enteramente el valor que el mercado le asigna a la opcionalidad de que la tesis de despliegue nuclear se materialice. La dispersión extrema de precios objetivo de analistas (de 14 a 140 USD según una fuente) confirma que no existe consenso sólido sobre el valor real de esa opcionalidad.",
           "calificacion": 2
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "No se calcula un margen de seguridad tradicional por la misma razon que no se calculo un DCF (ver fila 41): no hay un valor intrinseco confiable contra el cual comparar el precio de 43.51 USD. Este es un caso donde el marco de Margen de Seguridad de este framework simplemente no aplica - la decision de inversion en Oklo no deberia tomarse con la misma logica de margen de seguridad que NVDA, META, HOOD o VST, sino como una decision de tamano de posicion dentro de la porcion especulativa o de alto riesgo y alto potencial de un portafolio, si el inversor decide participar.",
+          "notas": "No se calcula un margen de seguridad tradicional por la misma razón que no se calculo un DCF (ver fila 41): no hay un valor intrínseco confiable contra el cual comparar el precio de 43.51 USD. Este es un caso donde el marco de Margen de Seguridad de este framework simplemente no aplica - la decisión de inversión en Oklo no deberia tomarse con la misma logica de margen de seguridad que NVDA, META, HOOD o VST, sino como una decisión de tamaño de posición dentro de la porción especulativa o de alto riesgo y alto potencial de un portafolio, si el inversor decide participar.",
           "calificacion": 2
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM potencialmente enorme y en expansion estructural: demanda de energia firme y libre de carbono para centros de datos de IA, con cartera de LOIs no vinculantes de la industria completa (no solo Oklo) que suma decenas de GW. Si la tesis de demanda de energia de IA se sostiene, el mercado direccionable para reactores modulares avanzados es muy grande.",
+          "notas": "TAM potencialmente enorme y en expansión estructural: demanda de energía firme y libre de carbono para centros de datos de IA, con cartera de LOIs no vinculantes de la industria completa (no solo Oklo) que suma decenas de GW. Si la tesis de demanda de energía de IA se sostiene, el mercado direccionable para reactores modulares avanzados es muy grande.",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Extremadamente altas: licenciamiento nuclear ante la NRC es un proceso de anios con alta incertidumbre regulatoria (ningun reactor rapido enfriado por sodio de este tipo esta licenciado comercialmente en EEUU hoy), capital inicial masivo, y curva de aprendizaje de construccion de primer-de-su-tipo. Estas barreras cortan en ambos sentidos: protegen a quien lo logre primero, pero tambien generan riesgo de ejecucion y de retraso para Oklo mismo.",
+          "notas": "Extremadamente altas: licenciamiento nuclear ante la NRC es un proceso de años con alta incertidumbre regulatoria (ningún reactor rápido enfriado por sodio de este tipo esta licenciado comercialmente en EEUU hoy), capital inicial masivo, y curva de aprendizaje de construcción de primer-de-su-tipo. Estas barreras cortan en ambos sentidos: protegen a quien lo logre primero, pero también generan riesgo de ejecución y de retraso para Oklo mismo.",
           "calificacion": 4
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta entre varios desarrolladores bien capitalizados (NuScale, X-Energy, TerraPower, Kairos) compitiendo por los mismos clientes de centros de datos; poder de negociacion de clientes alto (hyperscalers negociando PPAs de gran escala); poder de proveedores relevante en combustible nuclear enriquecido (HALEU) que tiene oferta limitada globalmente; amenaza de sustitutos moderada (gas natural, solar mas baterias, otras SMR); barreras de entrada altisimas. Entorno de demanda favorable pero de oferta muy competida entre desarrolladores no probados.",
+          "notas": "Rivalidad alta entre varios desarrolladores bien capitalizados (NuScale, X-Energy, TerraPower, Kairos) compitiendo por los mismos clientes de centros de datos; poder de negociación de clientes alto (hyperscalers negociando PPAs de gran escala); poder de proveedores relevante en combustible nuclear enriquecido (HALEU) que tiene oferta limitada globalmente; amenaza de sustitutos moderada (gas natural, solar mas baterias, otras SMR); barreras de entrada altisimas. Entorno de demanda favorable pero de oferta muy competida entre desarrolladores no probados.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Baja ciclicidad de la demanda subyacente (energia es una necesidad estructural, mas la demanda especifica de centros de datos de IA), pero alta ciclicidad de sentimiento de mercado hacia acciones especulativas de tecnologia nuclear (la accion cayo aprox 72 a 77% desde su maximo de 52 semanas de 193.80 USD, y perdio 27% adicional solo en el primer semestre de 2026), impulsada mas por narrativa y flujo especulativo que por resultados operativos.",
+          "notas": "Baja ciclicidad de la demanda subyacente (energía es una necesidad estructural, mas la demanda específica de centros de datos de IA), pero alta ciclicidad de sentimiento de mercado hacia acciones especulativas de tecnología nuclear (la acción cayo aprox 72 a 77% desde su máximo de 52 semanas de 193.80 USD, y perdio 27% adicional solo en el primer semestre de 2026), impulsada mas por narrativa y flujo especulativo que por resultados operativos.",
           "calificacion": 2
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo regulatorio muy alto y especifico: el proyecto de INL todavia esta en fase de pre-solicitud ante la NRC bajo el marco de licencia combinada 10 CFR Part 52, sin licencia otorgada aun. Cualquier retraso, rechazo, o cambio en el marco regulatorio (aunque la administracion actual es favorable a la energia nuclear, incluyendo la iniciativa de 200 millones USD para IA y nuclear) puede desplazar el cronograma de 2027-2028 de forma significativa, como ha pasado historicamente con otros proyectos nucleares de primer-de-su-tipo.",
+          "notas": "Riesgo regulatorio muy alto y específico: el proyecto de INL todavía esta en fase de pre-solicitud ante la NRC bajo el marco de licencia combinada 10 CFR Part 52, sin licencia otorgada aun. Cualquier retraso, rechazo, o cambio en el marco regulatorio (aunque la administración actual es favorable a la energía nuclear, incluyendo la iniciativa de 200 millones USD para IA y nuclear) puede desplazar el cronograma de 2027-2028 de forma significativa, como ha pasado históricamente con otros proyectos nucleares de primer-de-su-tipo.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Bajo: operacion enteramente domestica en EEUU (Idaho, y expansion planeada en Ohio y otros estados).",
+          "notas": "Bajo: operación enteramente domestica en EEUU (Idaho, y expansión planeada en Ohio y otros estados).",
           "calificacion": 5
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Concentracion de clientes potencial alta en el futuro: el acuerdo marco con Switch (12 GW) representa la gran mayoria de la cartera actual de 14 GW, un riesgo de concentracion relevante si esa relacion se debilita, aunque son acuerdos no vinculantes sin cliente todavia generando ingresos reales. Concentracion de proveedores en combustible HALEU (uranio poco enriquecido de alto ensayo), un insumo con oferta global limitada y pocos proveedores certificados.",
+          "notas": "Concentración de clientes potencial alta en el futuro: el acuerdo marco con Switch (12 GW) representa la gran mayoría de la cartera actual de 14 GW, un riesgo de concentración relevante si esa relación se debilita, aunque son acuerdos no vinculantes sin cliente todavía generando ingresos reales. Concentración de proveedores en combustible HALEU (uranio poco enriquecido de alto ensayo), un insumo con oferta global limitada y pocos proveedores certificados.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Alto: el diseno de reactor rapido enfriado por sodio de Oklo no tiene precedente de operacion comercial en EEUU; el riesgo de que la construccion, puesta en marcha, o desempeno operativo del primer-de-su-tipo no cumpla el cronograma o las especificaciones tecnicas es real y tipico de proyectos de infraestructura nuclear de primera generacion.",
+          "notas": "Alto: el diseño de reactor rápido enfriado por sodio de Oklo no tiene precedente de operación comercial en EEUU; el riesgo de que la construcción, puesta en marcha, o desempeño operativo del primer-de-su-tipo no cumpla el cronograma o las especificaciones técnicas es real y típico de proyectos de infraestructura nuclear de primera generación.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Perfil ESG positivo en el aspecto ambiental (energia nuclear libre de carbono, alineada con descarbonizacion), pero con el riesgo social y de percepcion publica tradicional de la energia nuclear (aceptacion social, gestion de residuos radiactivos, seguridad), aunque los reactores modulares pequenos suelen presentarse como mas seguros por diseno que las plantas nucleares tradicionales grandes.",
+          "notas": "Perfil ESG positivo en el aspecto ambiental (energía nuclear libre de carbono, alineada con descarbonización), pero con el riesgo social y de percepción pública tradicional de la energía nuclear (aceptación social, gestion de residuos radiactivos, seguridad), aunque los reactores modulares pequeños suelen presentarse como mas seguros por diseño que las plantas nucleares tradicionales grandes.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Reporte de resultados del segundo trimestre de 2026 el 7 de agosto de 2026 (consenso espera perdida de 0.16 USD por accion); avance de la fase de pre-solicitud ante la NRC para la licencia combinada de la planta de INL; inicio de operaciones de carga de combustible en el reactor de pruebas de isotopos Groves tras la autorizacion de arranque recibida; avance de la construccion fisica en INL hacia el objetivo de entrada en operacion de finales de 2027 a principios de 2028.",
+          "notas": "Reporte de resultados del segundo trimestre de 2026 el 7 de agosto de 2026 (consenso espera pérdida de 0.16 USD por acción); avance de la fase de pre-solicitud ante la NRC para la licencia combinada de la planta de INL; inicio de operaciones de carga de combustible en el reactor de pruebas de isotopos Groves tras la autorización de arranque recibida; avance de la construcción física en INL hacia el objetivo de entrada en operación de finales de 2027 a principios de 2028.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Senal a monitorear: los cofundadores Jacob DeWitte y Caroline Cochran propusieron ventas combinadas de 31 millones USD el 3 de agosto de 2026 a 38.83 USD por accion. Float corto elevado de 19.13% segun Finviz, reflejo de escepticismo relevante entre inversores sofisticados sobre la valoracion actual.",
+          "notas": "Señal a monitorear: los cofundadores Jacob DeWitte y Caroline Cochran propusieron ventas combinadas de 31 millones USD el 3 de agosto de 2026 a 38.83 USD por acción. Float corto elevado de 19.13% según Finviz, reflejo de escepticismo relevante entre inversores sofisticados sobre la valoración actual.",
           "calificacion": 2
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso de Compra o Compra Moderada entre 19 a 26 analistas segun distintas fuentes, con precio objetivo promedio disperso entre 84 y 95 USD (aprox 93 a 118% sobre el precio actual de 43.51 USD), pero con un rango de estimados extremadamente amplio (de un minimo de 14 USD a un maximo de 140 USD segun una fuente) - esa dispersion tan grande entre analistas es en si misma una senal de la incertidumbre fundamental de valorar esta empresa, y respalda la decision de no forzar un DCF de punto unico en este analisis.",
+          "notas": "Consenso de Compra o Compra Moderada entre 19 a 26 analistas según distintas fuentes, con precio objetivo promedio disperso entre 84 y 95 USD (aprox 93 a 118% sobre el precio actual de 43.51 USD), pero con un rango de estimados extremadamente amplio (de un mínimo de 14 USD a un máximo de 140 USD según una fuente) - esa dispersión tan grande entre analistas es en si misma una señal de la incertidumbre fundamental de valorar esta empresa, y respalda la decisión de no forzar un DCF de punto único en este analisis.",
           "calificacion": 3
         }
       ],
@@ -254,6 +254,6 @@
   "conclusion": {
     "score_promedio": 2.7027027027027026,
     "recomendacion": "NO APTO PARA EL MARCO DE MARGEN DE SEGURIDAD - PERFIL ESPECULATIVO",
-    "tesis": "Oklo es una apuesta de alto riesgo y alto potencial sobre la ejecucion exitosa de un reactor nuclear de primer-de-su-tipo antes de generar un dolar de ingreso, respaldada por una cartera de intencion de compra grande pero no vinculante y por un balance con mucho efectivo pero sin capacidad de generar un valor intrinseco confiable todavia; conviene tratarla como una posicion especulativa de tamano acotado, no como una inversion de valor tradicional."
+    "tesis": "Oklo es una apuesta de alto riesgo y alto potencial sobre la ejecución exitosa de un reactor nuclear de primer-de-su-tipo antes de generar un dólar de ingreso, respaldada por una cartera de intención de compra grande pero no vinculante y por un balance con mucho efectivo pero sin capacidad de generar un valor intrínseco confiable todavía; conviene tratarla como una posición especulativa de tamaño acotado, no como una inversión de valor tradicional."
   }
 }

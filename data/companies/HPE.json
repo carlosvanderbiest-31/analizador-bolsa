@@ -1,7 +1,7 @@
 {
   "empresa": "Hewlett Packard Enterprise Company",
   "ticker": "HPE",
-  "sector": "Tecnologia - Hardware (Servidores-IA, Storage, Networking tras Juniper)",
+  "sector": "Tecnología - Hardware (Servidores-IA, Storage, Networking tras Juniper)",
   "fecha_analisis": "2026-08-12",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ingresos diversificados en cuatro segmentos: Servers (incluye sistemas de IA con GPU-liquid cooling), Hybrid Cloud (GreenLake, storage Alletra), Networking (ahora incluye Juniper Networks tras el cierre de la adquisicion en jul-2025), e Intelligent Edge-Financial Services (HPEFS, financiamiento a clientes).",
+          "notas": "Ingresos diversificados en cuatro segmentos: Servers (incluye sistemas de IA con GPU-liquid cooling), Hybrid Cloud (GreenLake, storage Alletra), Networking (ahora incluye Juniper Networks tras el cierre de la adquisición en jul-2025), e Intelligent Edge-Financial Services (HPEFS, financiamiento a clientes).",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Escala en fabricacion de servidores enterprise, portfolio ampliado tras Juniper (networking, ahora entre los top 2-3 del mercado detras de Cisco-Arista), plataforma GreenLake como capa de consumo-as-a-service que crea switching costs; pero el negocio de servidores es fundamentalmente de bajo margen y alta competencia (Dell, Lenovo, Supermicro), sin moat tan fuerte como software puro.",
+          "notas": "Escala en fabricación de servidores enterprise, portfolio ampliado tras Juniper (networking, ahora entre los top 2-3 del mercado detras de Cisco-Arista), plataforma GreenLake como capa de consumo-as-a-service que crea switching costs; pero el negocio de servidores es fundamentalmente de bajo margen y alta competencia (Dell, Lenovo, Supermicro), sin moat tan fuerte como software puro.",
           "calificacion": 3
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Backlog de sistemas de IA de USD5.9bn entrando al 3T FY2026 (bookings acumulados USD16.4bn), networking +148-152% interanual tras Juniper, ordenes creciendo mas del doble que los ingresos - momentum de demanda real y fuerte, aunque en un mercado de servidores altamente competitivo con margenes estructuralmente bajos.",
+          "notas": "Backlog de sistemas de IA de USD5.9bn entrando al 3T FY2026 (bookings acumulados USD16.4bn), networking +148-152% interanual tras Juniper, ordenes creciendo mas del doble que los ingresos - momentum de demanda real y fuerte, aunque en un mercado de servidores altamente competitivo con márgenes estructuralmente bajos.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Margen bruto 31.38%, operativo apenas 6.15% - de los mas bajos del Dashboard entre negocios de tecnologia, refleja la naturaleza de integrador de hardware de bajo margen (mismo patron ya documentado con DELL-ISG), sin pricing power fuerte pese a la demanda de IA.",
+          "notas": "Margen bruto 31.38%, operativo apenas 6.15% - de los mas bajos del Dashboard entre negocios de tecnología, refleja la naturaleza de integrador de hardware de bajo margen (mismo patrón ya documentado con DELL-ISG), sin pricing power fuerte pese a la demanda de IA.",
           "calificacion": 2
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Adquisicion de Juniper Networks por USD14bn (cerrada 2-jul-2025 tras litigio de la DOJ que bloqueo el trato y luego se resolvio via settlement -incluyo desinvertir el negocio Instant On y licenciar el codigo fuente de AI Ops for Mist-) - apuesta de alta conviccion en networking, integracion aun en curso; desapalancamiento activo post-adquisicion (Deuda Neta/EBITDA ajustado mejoro de 3.1x a 2.6x en un trimestre).",
+          "notas": "Adquisición de Juniper Networks por USD14bn (cerrada 2-jul-2025 tras litigio de la DOJ que bloqueo el trato y luego se resolvio via settlement -incluyo desinvertir el negocio Instant On y licenciar el codigo fuente de AI Ops for Mist-) - apuesta de alta convicción en networking, integración aun en curso; desapalancamiento activo post-adquisición (Deuda Neta/EBITDA ajustado mejoro de 3.1x a 2.6x en un trimestre).",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO Antonio Neri: ventas netas constantes en 2026 (264,432 acciones el 25-mar-2026 por USD6.66M, 150,000 acciones el 17-abr-2026 por USD3.98M, ambas bajo plan 10b5-1), sin compras reportadas - ventas totales de insiders ultimos 90 dias ~USD15.95M sin compras, coincidiendo con un rally de +58.9% del precio.",
+          "notas": "CEO Antonio Neri: ventas netas constantes en 2026 (264,432 acciones el 25-mar-2026 por USD6.66M, 150,000 acciones el 17-abr-2026 por USD3.98M, ambas bajo plan 10b5-1), sin compras reportadas - ventas totales de insiders últimos 90 dias ~USD15.95M sin compras, coincidiendo con un rally de +58.9% del precio.",
           "calificacion": 2
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion trimestral detallada con metricas especificas de AI systems backlog-bookings y desglose de deuda core vs financiamiento (HPEFS); guia de FCF actualizada al alza durante el anio (a 'al menos USD3.5bn' FY2026).",
+          "notas": "Divulgación trimestral detallada con métricas específicas de AI systems backlog-bookings y desglose de deuda core vs financiamiento (HPEFS); guia de FCF actualizada al alza durante el año (a 'al menos USD3.5bn' FY2026).",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda neta consolidada ~USD16.0bn, de la cual ~USD10.8bn corresponde a HPE Financial Services (financiamiento a clientes, respaldado por cuentas por cobrar, ROE del segmento >25%) y solo ~USD6.0bn es deuda 'core' corporativa - extension del mismo gotcha ya documentado con DELL (separar deuda de financiamiento de clientes de la deuda operativa real). Deuda Neta/EBITDA consolidado ~3.17x (calculado via EV/EBITDA), apalancamiento elevado por la financiacion en efectivo de la adquisicion de Juniper.",
+          "notas": "Deuda neta consolidada ~USD16.0bn, de la cual ~USD10.8bn corresponde a HPE Financial Services (financiamiento a clientes, respaldado por cuentas por cobrar, ROE del segmento >25%) y solo ~USD6.0bn es deuda 'core' corporativa - extensión del mismo gotcha ya documentado con DELL (separar deuda de financiamiento de clientes de la deuda operativa real). Deuda Neta/EBITDA consolidado ~3.17x (calculado via EV/EBITDA), apalancamiento elevado por la financiación en efectivo de la adquisición de Juniper.",
           "calificacion": 3
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.08-1.09x, prueba acida mas ajustada (0.57-0.75x segun fuente) - liquidez adecuada pero no holgada, consistente con un negocio de hardware con inventario significativo (agravado por el build de componentes de sistemas de IA).",
+          "notas": "Razón corriente 1.08-1.09x, prueba acida mas ajustada (0.57-0.75x según fuente) - liquidez adecuada pero no holgada, consistente con un negocio de hardware con inventario significativo (agravado por el build de componentes de sistemas de IA).",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Emisiones recientes de notas senior escalonadas 2028-2033 (USD2bn en marzo-2026) sugieren gestion activa y proactiva del perfil de vencimientos post-adquisicion de Juniper.",
+          "notas": "Emisiones recientes de notas senior escalonadas 2028-2033 (USD2bn en marzo-2026) sugieren gestion activa y proactiva del perfil de vencimientos post-adquisición de Juniper.",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Goodwill+intangibles ~USD29.6bn (37% de activos totales), elevados por decadas de M&A (EDS, Aruba, y ahora Juniper) - patrimonio tangible por accion delgado, no cambia la metodologia DCF FCFF.",
+          "notas": "Goodwill+intangibles ~USD29.6bn (37% de activos totales), elevados por décadas de M&A (EDS, Aruba, y ahora Juniper) - patrimonio tangible por acción delgado, no cambia la metodología DCF FCFF.",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto 31.38% relativamente estable, margen operativo 6.15% y neto 3.70% - de los mas bajos del Dashboard entre tecnologicas, aunque en recuperacion desde el trough de FY2025 gracias a Juniper (mayor margen) y mejor mix de sistemas de IA de mayor valor agregado.",
+          "notas": "Margen bruto 31.38% relativamente estable, margen operativo 6.15% y neto 3.70% - de los mas bajos del Dashboard entre tecnologicas, aunque en recuperación desde el trough de FY2025 gracias a Juniper (mayor margen) y mejor mix de sistemas de IA de mayor valor agregado.",
           "calificacion": 2
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 6.33%, ROIC 3.57% (Finviz) - ambos muy por debajo del WACC (~11%), spread negativo significativo, aunque distorsionado por el salto reciente de goodwill de Juniper (denominador inflado) y por la recuperacion de margen aun en curso.",
+          "notas": "ROE 6.33%, ROIC 3.57% (Finviz) - ambos muy por debajo del WACC (~11%), spread negativo significativo, aunque distorsionado por el salto reciente de goodwill de Juniper (denominador inflado) y por la recuperación de margen aun en curso.",
           "calificacion": 2
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada (~0.49x), ciclo de conversion de efectivo historicamente volatil - el FCF colapso a solo USD627M en FY2025 por acumulacion de inventario de componentes de sistemas de IA y costos de integracion de Juniper, antes de recuperarse con fuerza a USD3.99bn TTM.",
+          "notas": "Rotación de activos moderada (~0.49x), ciclo de conversión de efectivo históricamente volatil - el FCF colapso a solo USD627M en FY2025 por acumulación de inventario de componentes de sistemas de IA y costos de integración de Juniper, antes de recuperarse con fuerza a USD3.99bn TTM.",
           "calificacion": 2
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR ingresos 5 anios apenas 4.96% (Finviz, refleja anios de estancamiento del negocio de hardware enterprise pre-IA), pero ingresos TTM +22.6% impulsados por la consolidacion de Juniper (desde jul-2025) y el ramp de sistemas de IA - crecimiento reciente mayormente inorganico-ciclico, no organico sostenido historicamente.",
+          "notas": "CAGR ingresos 5 años apenas 4.96% (Finviz, refleja años de estancamiento del negocio de hardware enterprise pre-IA), pero ingresos TTM +22.6% impulsados por la consolidación de Juniper (desde jul-2025) y el ramp de sistemas de IA - crecimiento reciente mayormente inorganico-ciclico, no orgánico sostenido históricamente.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Historial de crecimiento inconsistente-ciclico (negocio de hardware enterprise maduro con anios de estancamiento), ahora en una fase de aceleracion impulsada por dos catalizadores simultaneos (Juniper + IA) cuya sostenibilidad de largo plazo aun no esta probada.",
+          "notas": "Historial de crecimiento inconsistente-ciclico (negocio de hardware enterprise maduro con años de estancamiento), ahora en una fase de aceleración impulsada por dos catalizadores simultaneos (Juniper + IA) cuya sostenibilidad de largo plazo aun no esta probada.",
           "calificacion": 2
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Backlog de sistemas de IA USD5.9bn, bookings acumulados USD16.4bn, ordenes de networking +148-152% tras Juniper, ordenes totales creciendo mas del doble que ingresos (senal de demanda futura fuerte); reconocido por Goldman Sachs como uno de los 'top 3 hardware picks de EEUU' para gasto de IA junto a Dell y NetApp.",
+          "notas": "Backlog de sistemas de IA USD5.9bn, bookings acumulados USD16.4bn, ordenes de networking +148-152% tras Juniper, ordenes totales creciendo mas del doble que ingresos (señal de demanda futura fuerte); reconocido por Goldman Sachs como uno de los 'top 3 hardware picks de EEUU' para gasto de IA junto a Dell y NetApp.",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo TTM USD6.36bn vs utilidad neta TTM USD1.44bn - FCO excede holgadamente la utilidad neta (buena calidad de conversion cuando se normaliza), aunque ambos vienen de una base historica muy volatil (ver fila de rotacion de activos).",
+          "notas": "Flujo de caja operativo TTM USD6.36bn vs utilidad neta TTM USD1.44bn - FCO excede holgadamente la utilidad neta (buena calidad de conversión cuando se normaliza), aunque ambos vienen de una base histórica muy volatil (ver fila de rotación de activos).",
           "calificacion": 3
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM USD3.99bn (margen FCF ~10.3% sobre ingresos, moderado para el sector), recuperacion fuerte y guiada al alza por la propia empresa ('al menos USD3.5bn' FY2026, ya superado por el TTM) tras el trough de FY2025 (solo USD627M) - la mayor volatilidad de FCF ano a ano vista en el Dashboard entre empresas no financieras.",
+          "notas": "FCF TTM USD3.99bn (margen FCF ~10.3% sobre ingresos, moderado para el sector), recuperación fuerte y guiada al alza por la propia empresa ('al menos USD3.5bn' FY2026, ya superado por el TTM) tras el trough de FY2025 (solo USD627M) - la mayor volatilidad de FCF ano a ano vista en el Dashboard entre empresas no financieras.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM USD2.37bn (6.1% de ventas), relativamente estable en los ultimos anios (2.8bn-3.1bn historicamente), en gran parte ligado a la construccion de capacidad para sistemas de IA - mezcla de mantenimiento y crecimiento.",
+          "notas": "Capex TTM USD2.37bn (6.1% de ventas), relativamente estable en los últimos años (2.8bn-3.1bn históricamente), en gran parte ligado a la construcción de capacidad para sistemas de IA - mezcla de mantenimiento y crecimiento.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Dividendo modesto (yield 0.97%), desapalancamiento activo priorizado sobre recompras tras la adquisicion de Juniper financiada en efectivo - asignacion de capital coherente con la fase actual de integracion post-M&A.",
+          "notas": "Dividendo modesto (yield 0.97%), desapalancamiento activo priorizado sobre recompras tras la adquisición de Juniper financiada en efectivo - asignación de capital coherente con la fase actual de integración post-M&A.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM 55.29x (distorsionado por la base de utilidad neta aun deprimida), pero Forward P/E solo 14.54x y PEG 0.46 (uno de los mas bajos del Dashboard) - vision hacia adelante sugiere valoracion razonable-barata si la recuperacion de margen se materializa; EV/EBITDA 18.66x, P/FCF 19.52-23.53x, en linea con el sector.",
+          "notas": "P/E TTM 55.29x (distorsionado por la base de utilidad neta aun deprimida), pero Forward P/E solo 14.54x y PEG 0.46 (uno de los mas bajos del Dashboard) - visión hacia adelante sugiere valoración razonable-barata si la recuperación de margen se materializa; EV/EBITDA 18.66x, P/FCF 19.52-23.53x, en línea con el sector.",
           "calificacion": 4
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (adoptado, conservador, WACC 11.0% -CAPM Beta 1.45, deuda core ~USD6.0bn separada del financiamiento a clientes-, crecimiento con fade 15%->6% en 5 anios, terminal 4%): USD47.09/accion. Escenario B (alineado con el momentum de bookings-backlog de IA, fade 25%->10%, no adoptado): USD66.17/accion - los dos escenarios CAMBIAN DE SIGNO (doble via genuina, mismo patron ya visto en VST-DASH), la conclusion depende criticamente de si el momentum de ordenes de IA se sostiene.",
+          "notas": "Escenario A (adoptado, conservador, WACC 11.0% -CAPM Beta 1.45, deuda core ~USD6.0bn separada del financiamiento a clientes-, crecimiento con fade 15%->6% en 5 años, terminal 4%): USD47.09/acción. Escenario B (alineado con el momentum de bookings-backlog de IA, fade 25%->10%, no adoptado): USD66.17/acción - los dos escenarios CAMBIAN DE SIGNO (doble via genuina, mismo patrón ya visto en VST-DASH), la conclusión depende criticamente de si el momentum de ordenes de IA se sostiene.",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "-19.9% con el Escenario A adoptado (practicamente en el piso de -20% de venta, zona limite) vs +12.6% con el Escenario B mas optimista (zona Comprar) - doble via genuina, sin conclusion direccional robusta.",
+          "notas": "-19.9% con el Escenario A adoptado (prácticamente en el piso de -20% de venta, zona limite) vs +12.6% con el Escenario B mas optimista (zona Comprar) - doble via genuina, sin conclusión direccional robusta.",
           "calificacion": 3
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de infraestructura de TI empresarial-nube hibrida-networking-sistemas de IA grande y en expansion estructural fuerte por el supercycle de gasto en IA; TAM combinado ampliado tras la integracion de Juniper (networking) a la oferta de servidores-storage-edge.",
+          "notas": "Mercado de infraestructura de TI empresarial-nube hibrida-networking-sistemas de IA grande y en expansión estructural fuerte por el supercycle de gasto en IA; TAM combinado ampliado tras la integración de Juniper (networking) a la oferta de servidores-storage-edge.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Moderadas-bajas para hardware de servidores commodity (alta competencia de Dell, Lenovo, Supermicro), mas altas para networking especializado (Juniper) y para la plataforma de consumo GreenLake (switching costs de suscripcion).",
+          "notas": "Moderadas-bajas para hardware de servidores commodity (alta competencia de Dell, Lenovo, Supermicro), mas altas para networking especializado (Juniper) y para la plataforma de consumo GreenLake (switching costs de suscripción).",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad muy alta en servidores (Dell, Lenovo, Supermicro) y networking (Cisco, Arista, ahora HPE-Juniper combinado); poder de negociacion del comprador alto (cuentas enterprise grandes); poder de proveedores alto (Nvidia domina el suministro de GPU, cuello de botella de oferta ya mencionado en resultados); amenaza de sustitutos moderada (consumo cloud publico vs on-premise); barreras de entrada moderadas.",
+          "notas": "Rivalidad muy alta en servidores (Dell, Lenovo, Supermicro) y networking (Cisco, Arista, ahora HPE-Juniper combinado); poder de negociación del comprador alto (cuentas enterprise grandes); poder de proveedores alto (Nvidia domina el suministro de GPU, cuello de botella de oferta ya mencionado en resultados); amenaza de sustitutos moderada (consumo cloud público vs on-premise); barreras de entrada moderadas.",
           "calificacion": 2
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "El gasto en hardware enterprise es historicamente ciclico (ligado a presupuestos de capex de TI), aunque el ciclo actual de IA proporciona un viento de cola estructural que ha contrarrestado la ciclicidad tradicional en los ultimos trimestres.",
+          "notas": "El gasto en hardware enterprise es históricamente ciclico (ligado a presupuestos de capex de TI), aunque el ciclo actual de IA proporciona un viento de cola estructural que ha contrarrestado la ciclicidad tradicional en los últimos trimestres.",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo regulatorio de M&A ya materializado y resuelto (la DOJ demando para bloquear la adquisicion de Juniper en ene-2025, se resolvio via settlement en jun-2025 con desinversion del negocio Instant On y licencia del codigo AI Ops for Mist) - precedente que sienta un estandar mas exigente para futuras adquisiciones grandes de la empresa.",
+          "notas": "Riesgo regulatorio de M&A ya materializado y resuelto (la DOJ demando para bloquear la adquisición de Juniper en ene-2025, se resolvio via settlement en jun-2025 con desinversión del negocio Instant On y licencia del codigo AI Ops for Mist) - precedente que sienta un estándar mas exigente para futuras adquisiciones grandes de la empresa.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional significativa (ventas globales de hardware-networking), riesgo cambiario tipico de una multinacional de esta escala, no cuantificado en detalle en esta sesion.",
+          "notas": "Exposición internacional significativa (ventas globales de hardware-networking), riesgo cambiario típico de una multinacional de esta escala, no cuantificado en detalle en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de clientes enterprise-gobierno diversificada, sin concentracion de cliente unico relevante; PERO dependencia critica de Nvidia como proveedor de GPU para sistemas de IA (cuello de botella de oferta mencionado explicitamente por la empresa como limitante de la conversion de backlog a ingresos).",
+          "notas": "Base de clientes enterprise-gobierno diversificada, sin concentración de cliente único relevante; PERO dependencia critica de Nvidia como proveedor de GPU para sistemas de IA (cuello de botella de oferta mencionado explícitamente por la empresa como limitante de la conversión de backlog a ingresos).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de integracion de la adquisicion de Juniper (la segunda mas grande de la historia de la empresa) aun en curso; riesgo de commoditizacion del negocio de servidores frente a fabricantes de bajo costo (ODMs directos, Supermicro) que podria seguir comprimiendo margenes pese al ramp de IA.",
+          "notas": "Riesgo de integración de la adquisición de Juniper (la segunda mas grande de la historia de la empresa) aun en curso; riesgo de commoditización del negocio de servidores frente a fabricantes de bajo costo (ODMs directos, Supermicro) que podría seguir comprimiendo márgenes pese al ramp de IA.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesión.",
           "calificacion": 4
         }
       ],
@@ -239,12 +239,12 @@
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "CEO Antonio Neri y otros insiders: solo ventas en 2026 (USD15.95M en los ultimos 90 dias, sin compras), coincidiendo con un rally fuerte del precio (+58.9%) - patron tipico de toma de utilidades tras una revalorizacion grande, no necesariamente una senial negativa de conviccion pero sin refuerzo positivo tampoco.",
+          "notas": "CEO Antonio Neri y otros insiders: solo ventas en 2026 (USD15.95M en los últimos 90 dias, sin compras), coincidiendo con un rally fuerte del precio (+58.9%) - patrón típico de toma de utilidades tras una revalorización grande, no necesariamente una senial negativa de convicción pero sin refuerzo positivo tampoco.",
           "calificacion": 2
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso 'Buy' (22 analistas), precio objetivo promedio USD65.24-68.47 (+11-17% de alza desde el precio actual) - alineado en direccion con el Escenario B optimista del DCF propio, no con el Escenario A conservador adoptado; Goldman Sachs y Morgan Stanley elevaron calificaciones recientemente citando fortaleza de gasto en infraestructura de IA empresarial.",
+          "notas": "Consenso 'Buy' (22 analistas), precio objetivo promedio USD65.24-68.47 (+11-17% de alza desde el precio actual) - alineado en dirección con el Escenario B optimista del DCF propio, no con el Escenario A conservador adoptado; Goldman Sachs y Morgan Stanley elevaron calificaciones recientemente citando fortaleza de gasto en infraestructura de IA empresarial.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.027027027027027,
-    "recomendacion": "MANTENER - NO ABRIR NUEVA POSICION, RESULTADO CON DOBLE VIA GENUINA (mismo patron ya visto en VST-DASH). Score Total 3.03/5 (negocio de hardware-IA de calidad moderada, margenes estructuralmente bajos) y Margen de Seguridad practicamente neutro segun el escenario: -19.9% con el Escenario A conservador adoptado (fade de crecimiento 15%->6%, practicamente en el piso de -20% de venta) vs +12.6% con el Escenario B mas optimista alineado al momentum real de bookings de sistemas de IA (fade 25%->10%). El consenso de 22 analistas (Buy, objetivo promedio USD65.24-68.47) se alinea con el Escenario B, no con el conservador. Sin conclusion direccional robusta - depende de si el backlog de IA de USD5.9bn se convierte en ingresos reales pese a la restriccion de oferta de GPU de Nvidia.",
-    "tesis": "El fabricante de infraestructura empresarial que acaba de cerrar la mayor apuesta de su historia en networking (Juniper) y acumula un backlog real de sistemas de IA de USD5.9bn cotiza con un Forward P/E barato (14.5x) tras un rally de +196% desde minimos, pero el veredicto de valoracion depende enteramente de si ese backlog se convierte en ingresos y margen sostenido, o si el negocio vuelve a la volatilidad de FCF y margenes bajos que lo caracterizo historicamente."
+    "recomendacion": "MANTENER - NO ABRIR NUEVA POSISIÓN, RESULTADO CON DOBLE VIA GENUINA (mismo patrón ya visto en VST-DASH). Score Total 3.03/5 (negocio de hardware-IA de calidad moderada, márgenes estructuralmente bajos) y Margen de Seguridad prácticamente neutro según el escenario: -19.9% con el Escenario A conservador adoptado (fade de crecimiento 15%->6%, prácticamente en el piso de -20% de venta) vs +12.6% con el Escenario B mas optimista alineado al momentum real de bookings de sistemas de IA (fade 25%->10%). El consenso de 22 analistas (Buy, objetivo promedio USD65.24-68.47) se alinea con el Escenario B, no con el conservador. Sin conclusión direccional robusta - depende de si el backlog de IA de USD5.9bn se convierte en ingresos reales pese a la restricción de oferta de GPU de Nvidia.",
+    "tesis": "El fabricante de infraestructura empresarial que acaba de cerrar la mayor apuesta de su historia en networking (Juniper) y acumula un backlog real de sistemas de IA de USD5.9bn cotiza con un Forward P/E barato (14.5x) tras un rally de +196% desde mínimos, pero el veredicto de valoración depende enteramente de si ese backlog se convierte en ingresos y margen sostenido, o si el negocio vuelve a la volatilidad de FCF y márgenes bajos que lo caracterizo históricamente."
   }
 }

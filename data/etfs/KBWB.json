@@ -1,36 +1,36 @@
 {
   "nombre": "Invesco KBW Bank ETF",
   "ticker": "KBWB",
-  "categoria": "Equity Tematico/Factor (bancos 'money center' EEUU concentrado: diversified banks/banca de inversion/gestion de activos)",
+  "categoria": "Equity Temático/Factor (bancos 'money center' EEUU concentrado: diversified banks/banca de inversión/gestion de activos)",
   "emisor": "Invesco",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA -CONFIRMADO, invierte normalmente >=90% de activos en los componentes del indice en proporcion a sus ponderaciones, prospecto Invesco-. Sin swaps ni riesgo de contraparte.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA -CONFIRMADO, invierte normalmente >=90% de activos en los componentes del índice en proporción a sus ponderaciones, prospecto Invesco-. Sin swaps ni riesgo de contraparte.",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domiciliado en EEUU -Invesco Exchange-Traded Fund Trust II-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM con rango disperso: la MAYORIA de fuentes -stockanalysis.com, aaii.com/Morningstar, etfvaluer.com- convergen en **~$6.5-6.8bn**, pero dos fuentes -composer.trade y otra- reportan cifras muy inferiores -~$1.6bn-, posible snapshot desactualizado o error, no reconciliado con certeza.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM con rango disperso: la MAYORÍA de fuentes -stockanalysis.com, aaii.com/Morningstar, etfvaluer.com- convergen en **~$6.5-6.8bn**, pero dos fuentes -composer.trade y otra- reportan cifras muy inferiores -~$1.6bn-, posible snapshot desactualizado o error, no reconciliado con certeza.",
           "calificacion": 3
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "14.8 anios desde inception -1-nov-2011-. **HALLAZGO CRITICO: KBWB NO CUBRE la Crisis 2008 -nace 6 anios DESPUES-, a diferencia de KBE -ya en el workbook, fila 134, que SI la cubre aunque bajo la metodologia KBW antigua pre-2011-**. El fondo no ha sido probado por un evento de la severidad de 2008.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "14.8 años desde inception -1-nov-2011-. **HALLAZGO CRITICO: KBWB NO CUBRE la Crisis 2008 -nace 6 años DESPUÉS-, a diferencia de KBE -ya en el workbook, fila 134, que SI la cubre aunque bajo la metodología KBW antigua pre-2011-**. El fondo no ha sido probado por un evento de la severidad de 2008.",
           "calificacion": 2
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Invesco, PRIMER producto de la familia de indices KBW analizado bajo este emisor en el proyecto -distinto de State Street/SPDR que gestiona KBE-.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Invesco, PRIMER producto de la familia de índices KBW analizado bajo este emisor en el proyecto -distinto de State Street/SPDR que gestiona KBE-.",
           "calificacion": 4
         }
       ],
@@ -40,89 +40,89 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.35% -CONFIRMADO en TODAS las fuentes consultadas sin excepcion-, IDENTICO al TER de KBE.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.35% -CONFIRMADO en TODAS las fuentes consultadas sin excepción-, IDENTICO al TER de KBE.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference historico NO ENCONTRADO pese a busqueda dedicada en ninguna fuente.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference histórico NO ENCONTRADO pese a busqueda dedicada en ninguna fuente.",
           "calificacion": 2
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending para KBWB.",
+          "notas": "Sin dato específico de revenue por securities lending para KBWB.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "**Metodologia CONFIRMADA EN DETALLE via documento oficial de metodologia KBW/Nasdaq -Methodology_BKX.pdf-**: modified market-cap weighted, cap del 8% por security individual pero maximo 5 securities pueden estar en ese cap, redistribucion en cascada del exceso, luego cap del 4% para el resto, proceso iterativo hasta converger. Rebalanceo TRIMESTRAL. Mecanismo estructuralmente OPUESTO al equal-weight de KBE -~1% por posicion entre 103 holdings-.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "**Metodología CONFIRMADA EN DETALLE via documento oficial de metodología KBW/Nasdaq -Methodology_BKX.pdf-**: modified market-cap weighted, cap del 8% por security individual pero máximo 5 securities pueden estar en ese cap, redistribución en cascada del exceso, luego cap del 4% para el resto, proceso iterativo hasta converger. Rebalanceo TRIMESTRAL. Mecanismo estructuralmente OPUESTO al equal-weight de KBE -~1% por posición entre 103 holdings-.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen con rango disperso ~950K a ~1.96M acciones/dia segun fuente, equivalente a ~$94M-$194M/dia. Alto en terminos absolutos.",
+          "notas": "Volumen con rango disperso ~950K a ~1.96M acciones/dia según fuente, equivalente a ~$94M-$194M/dia. Alto en términos absolutos.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask NO CONFIABLE -unico dato puntual observado ~0.9% probablemente reflejo de un momento especifico de mercado, no representativo de un promedio historico-. Declarado explicitamente como no verificado.",
+          "notas": "Spread bid-ask NO CONFIABLE -único dato puntual observado ~0.9% probablemente reflejo de un momento específico de mercado, no representativo de un promedio histórico-. Declarado explícitamente como no verificado.",
           "calificacion": 2
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount NO CONFIABLE -unico dato puntual +1.46%, probablemente no representativo, sin serie historica encontrada-.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount NO CONFIABLE -único dato puntual +1.46%, probablemente no representativo, sin serie histórica encontrada-.",
           "calificacion": 2
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero Invesco tiene infraestructura de creacion/redencion razonable a nivel de firma.",
+          "notas": "Sin cifra específica de profundidad de APs, pero Invesco tiene infraestructura de creación/redención razonable a nivel de firma.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "24-29 holdings segun fuente -Invesco prospecto oficial 24 al 31-oct-2025, otras fuentes 28-29-, **MUCHO MENOS que los 103 de KBE, ya en el workbook**, consistente con la naturaleza concentrada del indice cap-weighted en bancos grandes.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "24-29 holdings según fuente -Invesco prospecto oficial 24 al 31-oct-2025, otras fuentes 28-29-, **MUCHO MENOS que los 103 de KBE, ya en el workbook**, consistente con la naturaleza concentrada del índice cap-weighted en bancos grandes.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top10 = ~60-61.5% del fondo, MUY CONCENTRADO, ~5.5x MAS que el Top10 de KBE -~11%, ya en el workbook-**. Composicion -stockanalysis.com, 7-ago-2026-: Bank of America 8.78%, JPMorgan Chase 8.52%, Wells Fargo 8.01%, Morgan Stanley 7.35%, Goldman Sachs 7.16%, State Street 4.25%, U.S. Bancorp 4.15%, Capital One 4.13%, Fifth Third Bancorp 4.06%, Bank of New York Mellon 4.06%. **Los mismos 5 nombres -BAC/JPM/WFC/MS/GS- dominan el Top5 en TODAS las fuentes consultadas, con pesos entre ~7-9.4% cada uno, coherente con el cap del 8% del indice**.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top10 = ~60-61.5% del fondo, MUY CONCENTRADO, ~5.5x MAS que el Top10 de KBE -~11%, ya en el workbook-**. Composición -stockanalysis.com, 7-ago-2026-: Bank of America 8.78%, JPMorgan Chase 8.52%, Wells Fargo 8.01%, Morgan Stanley 7.35%, Goldman Sachs 7.16%, State Street 4.25%, U.S. Bancorp 4.15%, Capital One 4.13%, Fifth Third Bancorp 4.06%, Bank of New York Mellon 4.06%. **Los mismos 5 nombres -BAC/JPM/WFC/MS/GS- dominan el Top5 en TODAS las fuentes consultadas, con pesos entre ~7-9.4% cada uno, coherente con el cap del 8% del índice**.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Desglose sectorial -SEC Form NPORT-P, filing oficial Invesco, 31-may-2026-: Diversified Banks 40.84%, Investment Banking & Brokerage 18.29%, Asset Management & Custody Banks 12.59%, Consumer Finance 3.60%. **CONTRASTE TOTAL con KBE**: sin sesgo hacia banca regional -KBE 76.93-77.33%- ni hacia aseguradoras -Top10 de KBE dominado por Corebridge/Equitable/etc-. Nota: un filing anterior -31-may-2023- mostraba Diversified Banks 57.84% + Regional Banks 23.82%, sugiriendo que la composicion sectorial reportada ha cambiado con el tiempo -posible reclasificacion de GS/MS hacia 'Investment Banking & Brokerage'-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Desglose sectorial -SEC Form NPORT-P, filing oficial Invesco, 31-may-2026-: Diversified Banks 40.84%, Investment Banking & Brokerage 18.29%, Asset Management & Custody Banks 12.59%, Consumer Finance 3.60%. **CONTRASTE TOTAL con KBE**: sin sesgo hacia banca regional -KBE 76.93-77.33%- ni hacia aseguradoras -Top10 de KBE dominado por Corebridge/Equitable/etc-. Nota: un filing anterior -31-may-2023- mostraba Diversified Banks 57.84% + Regional Banks 23.82%, sugiriendo que la composición sectorial reportada ha cambiado con el tiempo -posible reclasificación de GS/MS hacia 'Investment Banking & Brokerage'-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion cap-weighted dominada por 5 MEGA-BANCOS -BAC/JPM/WFC/MS/GS-, cada uno cerca del cap regulatorio del 8%. Confirmado que JPM/BAC/WFC/C/USB/PNC/TFC/GS/MS/BNY estan TODOS presentes -los 'money center' esperados-.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición cap-weighted dominada por 5 MEGA-BANCOS -BAC/JPM/WFC/MS/GS-, cada uno cerca del cap regulatorio del 8%. Confirmado que JPM/BAC/WFC/C/USB/PNC/TFC/GS/MS/BNY estan TODOS presentes -los 'money center' esperados-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice KBW Nasdaq Bank Index -BKX-, compilado por Keefe, Bruyette & Woods -KBW- y Nasdaq. Metodologia CONFIRMADA con detalle -ver fila 21-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice KBW Nasdaq Bank Index -BKX-, compilado por Keefe, Bruyette & Woods -KBW- y Nasdaq. Metodología CONFIRMADA con detalle -ver fila 21-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo trimestral confirmado -prospecto Invesco-.",
           "calificacion": 3
         }
@@ -130,63 +130,63 @@
       "rating_promedio": 2.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "CAGR desde inception = 13.68%-14.02% -razonablemente consistente entre fuentes-, FUERTE, pero corresponde a una ventana -desde nov-2011- que NO incluye el peor escenario historico del sector -Crisis 2008-. Retorno 1Y con rango 33.6%-40.31% segun fuente. Retornos 3Y/5Y/10Y con discrepancias GRANDES e incluso inconsistencias de UNIDAD entre fuentes -algunas reportan cifras acumuladas confundidas con anualizadas, ej. 46.62% a 5 anios que parece ser retorno acumulado no anualizado-, no se fuerza una cifra unica confiable para estas ventanas.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "CAGR desde inception = 13.68%-14.02% -razonablemente consistente entre fuentes-, FUERTE, pero corresponde a una ventana -desde nov-2011- que NO incluye el peor escenario histórico del sector -Crisis 2008-. Retorno 1Y con rango 33.6%-40.31% según fuente. Retornos 3Y/5Y/10Y con discrepancias GRANDES e incluso inconsistencias de UNIDAD entre fuentes -algunas reportan cifras acumuladas confundidas con anualizadas, ej. 46.62% a 5 años que parece ser retorno acumulado no anualizado-, no se fuerza una cifra única confiable para estas ventanas.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada con rango disperso: 5.81% -una fuente, sospechosamente baja, probable error de unidad/periodo, descartada-, 22.2% -aaii.com Standard Deviation-, 26.6% -composer.trade-. Rango mas plausible ~22-27%, sin poder confirmar con certeza una cifra unica.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada con rango disperso: 5.81% -una fuente, sospechosamente baja, probable error de unidad/período, descartada-, 22.2% -aaii.com Standard Deviation-, 26.6% -composer.trade-. Rango mas plausible ~22-27%, sin poder confirmar con certeza una cifra única.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = **-50.27% a -50.3%**, ocurrido el **23-mar-2020 -crash COVID-19-**, **BIEN VERIFICADO con DOS fuentes independientes CONVERGENTES** -mejor calidad de dato que la mayoria de metricas de riesgo de KBWB-. Este es el maximo historico DESDE SU INCEPTION -nov-2011-, pero el fondo simplemente NO HA SIDO PROBADO por un evento de la severidad de Crisis 2008 -a diferencia de KBE, que si tiene ese dato aunque bajo metodologia antigua-.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = **-50.27% a -50.3%**, ocurrido el **23-mar-2020 -crash COVID-19-**, **BIEN VERIFICADO con DOS fuentes independientes CONVERGENTES** -mejor calidad de dato que la mayoría de métricas de riesgo de KBWB-. Este es el máximo histórico DESDE SU INCEPTION -nov-2011-, pero el fondo simplemente NO HA SIDO PROBADO por un evento de la severidad de Crisis 2008 -a diferencia de KBE, que si tiene ese dato aunque bajo metodología antigua-.",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe ratio con discrepancia MUY AMPLIA entre fuentes -0.63 a 1.64-, no reconciliable, no se fuerza una cifra unica.",
+          "notas": "Sharpe ratio con discrepancia MUY AMPLIA entre fuentes -0.63 a 1.64-, no reconciliable, no se fuerza una cifra única.",
           "calificacion": 1
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta vs S&P 500 = 1.20 -2 de 3 fuentes convergen: etfvaluer.com, aaii.com/Morningstar, Yahoo Finance '5Y Monthly'-, una tercera fuente -stockanalysis.com- reporta 1.03. Moderadamente alto, consistente con un fondo concentrado en bancos money-center apalancados.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**NO CUBRE Crisis 2008** -inception nov-2011, 6 anios despues-. El impacto de la crisis bancaria regional de marzo-2023 -que SI golpeo a KBE con -7.3% en un dia- **NO SE PUDO VERIFICAR con una cifra especifica para KBWB pese a busqueda dedicada** -solo se encontraron datos del indice KRX, distinto al BKX que sigue KBWB-, declarado explicitamente como dato no encontrado.",
+          "notas": "**NO CUBRE Crisis 2008** -inception nov-2011, 6 años después-. El impacto de la crisis bancaria regional de marzo-2023 -que SI golpeo a KBE con -7.3% en un dia- **NO SE PUDO VERIFICAR con una cifra específica para KBWB pese a busqueda dedicada** -solo se encontraron datos del índice KRX, distinto al BKX que sigue KBWB-, declarado explícitamente como dato no encontrado.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 1.67
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado con rango disperso 12.68x-15.78x segun fuente, razonablemente barato en el extremo inferior.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado con rango disperso 12.68x-15.78x según fuente, razonablemente barato en el extremo inferior.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "P/B ponderado NO ENCONTRADO pese a multiples busquedas dedicadas -incluido intento de fetch al fact sheet PDF oficial de Invesco, que resulto en binario no parseable-, ninguna fuente accesible lo reporto explicitamente. Dividend yield 1.87-1.93%, payout ratio 29.85% -stockanalysis.com-.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "P/B ponderado NO ENCONTRADO pese a múltiples busquedas dedicadas -incluido intento de fetch al fact sheet PDF oficial de Invesco, que resulto en binario no parseable-, ninguna fuente accesible lo reporto explícitamente. Dividend yield 1.87-1.93%, payout ratio 29.85% -stockanalysis.com-.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**Comparacion DIRECTA con KBE -ya en el workbook, Score 2.67-**: mismo LINAJE de indice KBW -KBWB sigue la continuacion directa del KBW Bank Index original que KBE abandono en 2011-, TER IDENTICO -0.35%-, pero metodologia de ponderacion COMPLETAMENTE OPUESTA -cap-weight con topes 8%/4% vs equal-weight puro-, produciendo concentracion Top10 ~5.5x MAYOR -60-61.5% vs ~11%- y sesgo hacia money-center banks en vez de banca regional/aseguradoras. **KBWB NO cubre Crisis 2008 -KBE SI, aunque bajo metodologia distinta-, diferencia estructural clave**.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**Comparación DIRECTA con KBE -ya en el workbook, Score 2.67-**: mismo LINAJE de índice KBW -KBWB sigue la continuación directa del KBW Bank Index original que KBE abandono en 2011-, TER IDENTICO -0.35%-, pero metodología de ponderación COMPLETAMENTE OPUESTA -cap-weight con topes 8%/4% vs equal-weight puro-, produciendo concentración Top10 ~5.5x MAYOR -60-61.5% vs ~11%- y sesgo hacia money-center banks en vez de banca regional/aseguradoras. **KBWB NO cubre Crisis 2008 -KBE SI, aunque bajo metodología distinta-, diferencia estructural clave**.",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol TACTICO/ESPECULATIVO dado el beta ~1.20, la concentracion EXTREMA -Top10 ~60% en solo 24-29 holdings-, y la clasificacion regulatoria explicita como fondo 'non-diversified'.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol TÁCTICO/ESPECULATIVO dado el beta ~1.20, la concentración EXTREMA -Top10 ~60% en solo 24-29 holdings-, y la clasificación regulatoria explicita como fondo 'non-diversified'.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion PURA y CONCENTRADA a los bancos mas grandes de EEUU -BAC/JPM/WFC/MS/GS dominan el fondo-, sin la dilucion de IYF/VFH -ambos ya en el workbook, universo financiero amplio- ni el sesgo regional/asegurador de KBE. CAGR desde inception fuerte -13.68-14.02%- pero en una ventana que NO incluye el peor escenario historico del sector financiero.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición PURA y CONCENTRADA a los bancos mas grandes de EEUU -BAC/JPM/WFC/MS/GS dominan el fondo-, sin la dilución de IYF/VFH -ambos ya en el workbook, universo financiero amplio- ni el sesgo regional/asegurador de KBE. CAGR desde inception fuerte -13.68-14.02%- pero en una ventana que NO incluye el peor escenario histórico del sector financiero.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: clasificacion regulatoria explicita 'non-diversified', concentracion EXTREMA -Top10 ~60% en solo 24-29 holdings, apuesta de facto en 5 mega-bancos-, beta alto ~1.20, sensibilidad tipica a tasas/credito/ciclo de bancos money-center, R2 de solo 47% vs categoria financiera amplia -se mueve de forma bastante distinta al universo diversificado-, Y CRITICAMENTE: **no ha sido probado por un evento tan severo como Crisis 2008 -su Max Drawdown de -50% en COVID podria SUBESTIMAR el riesgo de cola real del fondo bajo un escenario equivalente a 2008-**.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: clasificación regulatoria explicita 'non-diversified', concentración EXTREMA -Top10 ~60% en solo 24-29 holdings, apuesta de facto en 5 mega-bancos-, beta alto ~1.20, sensibilidad típica a tasas/crédito/ciclo de bancos money-center, R2 de solo 47% vs categoría financiera amplia -se mueve de forma bastante distinta al universo diversificado-, Y CRITICAMENTE: **no ha sido probado por un evento tan severo como Crisis 2008 -su Max Drawdown de -50% en COVID podría SUBESTIMAR el riesgo de cola real del fondo bajo un escenario equivalente a 2008-**.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "KBE -SPDR, ya en el workbook, Score 2.67- es el comparable MAS RICO -mismo linaje de indice KBW, metodologia de ponderacion opuesta-. IYF y VFH -ambos ya en el workbook- diluyen la exposicion bancaria dentro de un universo financiero mas amplio -seguros/gestion de activos/pagos-, ofreciendo un perfil de riesgo mucho mas conservador que la apuesta concentrada de KBWB.",
+          "notas": "KBE -SPDR, ya en el workbook, Score 2.67- es el comparable MAS RICO -mismo linaje de índice KBW, metodología de ponderación opuesta-. IYF y VFH -ambos ya en el workbook- diluyen la exposición bancaria dentro de un universo financiero mas amplio -seguros/gestion de activos/pagos-, ofreciendo un perfil de riesgo mucho mas conservador que la apuesta concentrada de KBWB.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). KBWB comparte el linaje del indice KBW con KBE -ya en el workbook, Score 2.67-, pero aplica una metodologia de ponderacion DIAMETRALMENTE OPUESTA -modified market-cap con topes 8%/4% en vez de equal-weight puro-, produciendo una concentracion Top10 de ~60-61.5%, **~5.5 VECES MAYOR que el ~11% de KBE**, dominada por los 5 mega-bancos -Bank of America, JPMorgan, Wells Fargo, Morgan Stanley, Goldman Sachs- cada uno cerca del cap regulatorio del 8%. El fondo es explicitamente clasificado como 'non-diversified' por regulacion. **HALLAZGO CRITICO**: al nacer en nov-2011, **KBWB NO CUBRE la Crisis 2008** -a diferencia de KBE, que si la cubre aunque bajo la metodologia KBW antigua pre-2011-, por lo que el fondo NUNCA ha sido probado por un evento de esa severidad; su Max Drawdown historico de -50.27% a -50.3% -COVID, 23-mar-2020, bien verificado con dos fuentes convergentes- podria subestimar sustancialmente el riesgo de cola real bajo un escenario equivalente a 2008. El impacto de la crisis bancaria regional de marzo-2023 -que SI golpeo severamente a KBE- no se pudo verificar con una cifra especifica para KBWB pese a busqueda dedicada. CAGR desde inception fuerte -13.68-14.02%-, pero varias metricas de riesgo -volatilidad, Sharpe, retornos por ventana- muestran discrepancias grandes e incluso inconsistencias de unidad entre fuentes gratuitas. TER 0.35% identico a KBE, sin ventaja de costo. Score 2.48/5, en linea con AMLP e ITB, por debajo de KBE -2.67-. Rol Tactico/Especulativo unicamente dado el nivel de concentracion y el riesgo de cola no probado."
+    "tesis": "REDUCIR/VENDER (evitar). KBWB comparte el linaje del índice KBW con KBE -ya en el workbook, Score 2.67-, pero aplica una metodología de ponderación DIAMETRALMENTE OPUESTA -modified market-cap con topes 8%/4% en vez de equal-weight puro-, produciendo una concentración Top10 de ~60-61.5%, **~5.5 VECES MAYOR que el ~11% de KBE**, dominada por los 5 mega-bancos -Bank of America, JPMorgan, Wells Fargo, Morgan Stanley, Goldman Sachs- cada uno cerca del cap regulatorio del 8%. El fondo es explícitamente clasificado como 'non-diversified' por regulación. **HALLAZGO CRITICO**: al nacer en nov-2011, **KBWB NO CUBRE la Crisis 2008** -a diferencia de KBE, que si la cubre aunque bajo la metodología KBW antigua pre-2011-, por lo que el fondo NUNCA ha sido probado por un evento de esa severidad; su Max Drawdown histórico de -50.27% a -50.3% -COVID, 23-mar-2020, bien verificado con dos fuentes convergentes- podría subestimar sustancialmente el riesgo de cola real bajo un escenario equivalente a 2008. El impacto de la crisis bancaria regional de marzo-2023 -que SI golpeo severamente a KBE- no se pudo verificar con una cifra específica para KBWB pese a busqueda dedicada. CAGR desde inception fuerte -13.68-14.02%-, pero varias métricas de riesgo -volatilidad, Sharpe, retornos por ventana- muestran discrepancias grandes e incluso inconsistencias de unidad entre fuentes gratuitas. TER 0.35% identico a KBE, sin ventaja de costo. Score 2.48/5, en línea con AMLP e ITB, por debajo de KBE -2.67-. Rol Táctico/Especulativo unicamente dado el nivel de concentración y el riesgo de cola no probado."
   }
 }

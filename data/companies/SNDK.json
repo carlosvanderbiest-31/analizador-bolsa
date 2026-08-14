@@ -1,7 +1,7 @@
 {
   "empresa": "SanDisk Corporation",
   "ticker": "SNDK",
-  "sector": "Tecnologia - Semiconductores de Memoria (NAND Flash)",
+  "sector": "Tecnología - Semiconductores de Memoria (NAND Flash)",
   "fecha_analisis": "2026-08-05",
   "analista": null,
   "secciones": [
@@ -10,12 +10,12 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "NAND flash pure-play: consumer y removable (tarjetas SD, USB), SSDs cliente y embedded, y SSDs enterprise datacenter via plataforma Stargate (esta ultima ya cerca de 25% de ingresos, creciendo mas rapido). No fabrica wafers propios, obtiene el suministro casi en su totalidad via la JV Flash Ventures con Kioxia.",
+          "notas": "NAND flash pure-play: consumer y removable (tarjetas SD, USB), SSDs cliente y embedded, y SSDs enterprise datacenter via plataforma Stargate (esta última ya cerca de 25% de ingresos, creciendo mas rápido). No fabrica wafers propios, obtiene el suministro casi en su totalidad via la JV Flash Ventures con Kioxia.",
           "calificacion": 3
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat de co-desarrollo tecnologico 3D NAND con Kioxia (BiCS8 de 332 capas, BiCS10 en desarrollo), escala compartida via JV que reduce el capex individual necesario para competir con Samsung y SK hynix, y contratos plurianuales de IA con garantias financieras (aprox 42000 millones USD de backlog). No es un moat de marca o de red tradicional.",
+          "notas": "Moat de co-desarrollo tecnologico 3D NAND con Kioxia (BiCS8 de 332 capas, BiCS10 en desarrollo), escala compartida via JV que reduce el capex individual necesario para competir con Samsung y SK hynix, y contratos plurianuales de IA con garantías financieras (aprox 42000 millones USD de backlog). No es un moat de marca o de red tradicional.",
           "calificacion": 3
         },
         {
@@ -25,7 +25,7 @@
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Fuerte en el momento actual por escasez de oferta de la industria (precios de contrato NAND subieron hasta 50% en nov-2025), pero es poder de fijacion de precios de la industria en un supercycle, no una ventaja idiosincratica de SanDisk sobre sus pares.",
+          "notas": "Fuerte en el momento actual por escasez de oferta de la industria (precios de contrato NAND subieron hasta 50% en nov-2025), pero es poder de fijación de precios de la industria en un supercycle, no una ventaja idiosincratica de SanDisk sobre sus pares.",
           "calificacion": 3
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Historial de apenas 18 meses como empresa independiente (spin-off de Western Digital, feb-2025). Uso de capital hasta ahora: liquidacion total del Term Loan B (2000 millones USD) en mar-2026, deleveraging agresivo. Sin dividendo ni recompras documentadas todavia.",
+          "notas": "Historial de apenas 18 meses como empresa independiente (spin-off de Western Digital, feb-2025). Uso de capital hasta ahora: liquidación total del Term Loan B (2000 millones USD) en mar-2026, deleveraging agresivo. Sin dividendo ni recompras documentadas todavía.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO David Goeckeler, compensacion aprox 22.92 millones USD anual (98% variable en bonos y acciones), pero participacion accionaria personal baja (aprox 0.34%).",
+          "notas": "CEO David Goeckeler, compensación aprox 22.92 millones USD anual (98% variable en bonos y acciones), pero participación accionaria personal baja (aprox 0.34%).",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Una sola clase de acciones (sin doble clase), estructura de gobierno tipica de spin-off reciente (directorio constituido en 2025).",
+          "notas": "Una sola clase de acciones (sin doble clase), estructura de gobierno típica de spin-off reciente (directorio constituido en 2025).",
           "calificacion": 4
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion aun construyendo track record (spin-off reciente); Investor Day programado para el 13-ago-2026, primera oportunidad de guidance detallado a mediano plazo como empresa independiente.",
+          "notas": "Comunicación aun construyendo track record (spin-off reciente); Investor Day programado para el 13-ago-2026, primera oportunidad de guidance detallado a mediano plazo como empresa independiente.",
           "calificacion": 3
         }
       ],
@@ -62,17 +62,17 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Caja neta: deuda total 0 USD (Term Loan B de 2000 millones USD liquidado por completo el 4-mar-2026) vs caja de 3735 millones USD. Deuda Neta a EBITDA aprox -0.68x. Deuda a Patrimonio 0.02, practicamente sin apalancamiento.",
+          "notas": "Caja neta: deuda total 0 USD (Term Loan B de 2000 millones USD liquidado por completo el 4-mar-2026) vs caja de 3735 millones USD. Deuda Neta a EBITDA aprox -0.68x. Deuda a Patrimonio 0.02, prácticamente sin apalancamiento.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 4.78x, prueba acida aprox 3.5x, ambas muy solidas. Linea de credito revolvente de 1500 millones USD totalmente disponible y sin usar.",
+          "notas": "Razón corriente 4.78x, prueba acida aprox 3.5x, ambas muy sólidas. Línea de crédito revolvente de 1500 millones USD totalmente disponible y sin usar.",
           "calificacion": 5
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Sin deuda vigente; el unico compromiso de credito es la linea revolvente no dispuesta con vencimiento en 2030. Riesgo de refinanciamiento minimo.",
+          "notas": "Sin deuda vigente; el único compromiso de crédito es la línea revolvente no dispuesta con vencimiento en 2030. Riesgo de refinanciamiento mínimo.",
           "calificacion": 5
         },
         {
@@ -88,7 +88,7 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margenes actuales muy altos (bruto 56.04%, operativo 40.73%, neto 34.19%) pero con volatilidad historica extrema: en FY2023 (valle del ciclo) el margen bruto cayo a apenas 7 a 16%. Los margenes actuales reflejan el pico del supercycle de precios NAND, no un nivel sostenible estructural.",
+          "notas": "Márgenes actuales muy altos (bruto 56.04%, operativo 40.73%, neto 34.19%) pero con volatilidad histórica extrema: en FY2023 (valle del ciclo) el margen bruto cayo a apenas 7 a 16%. Los márgenes actuales reflejan el pico del supercycle de precios NAND, no un nivel sostenible estructural.",
           "calificacion": 3
         },
         {
@@ -98,7 +98,7 @@
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos 0.77x, moderada para un fabricante de semiconductores de capital intensivo (el capex mas pesado de manufactura queda dentro de la JV Flash Ventures con Kioxia, no en el balance de SanDisk).",
+          "notas": "Rotación de activos 0.77x, moderada para un fabricante de semiconductores de capital intensivo (el capex mas pesado de manufactura queda dentro de la JV Flash Ventures con Kioxia, no en el balance de SanDisk).",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Historial de ingresos combinado (previo al spin-off) muestra un ciclo clasico de commodity: FY2022 9754 millones USD, FY2023 6086 millones USD (crisis del ciclo NAND), FY2024 6663 millones USD, FY2025 7355 millones USD, TTM actual 13184 millones USD (supercycle de IA). No hay un CAGR de 5 anios limpio y comparable dado el spin-off reciente y la volatilidad del ciclo.",
+          "notas": "Historial de ingresos combinado (previo al spin-off) muestra un ciclo clasico de commodity: FY2022 9754 millones USD, FY2023 6086 millones USD (crisis del ciclo NAND), FY2024 6663 millones USD, FY2025 7355 millones USD, TTM actual 13184 millones USD (supercycle de IA). No hay un CAGR de 5 años limpio y comparable dado el spin-off reciente y la volatilidad del ciclo.",
           "calificacion": 2
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Altamente ciclico, tipico de la industria de memoria - mismo patron que Micron (MU) en este Dashboard: perdidas en el valle del ciclo, records en el pico.",
+          "notas": "Altamente ciclico, típico de la industria de memoria - mismo patrón que Micron (MU) en este Dashboard: pérdidas en el valle del ciclo, records en el pico.",
           "calificacion": 2
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Fuerte pipeline contractual: aprox 42000 millones USD en backlog de contratos plurianuales de IA (con garantias financieras de mas de 11000 millones USD) vigentes al menos hasta 2028; expansion de capacidad en Kitakami Fab2 y roadmap de BiCS10 con SSDs de hasta 512TB para 2027.",
+          "notas": "Fuerte pipeline contractual: aprox 42000 millones USD en backlog de contratos plurianuales de IA (con garantías financieras de mas de 11000 millones USD) vigentes al menos hasta 2028; expansión de capacidad en Kitakami Fab2 y roadmap de BiCS10 con SSDs de hasta 512TB para 2027.",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 4639 millones USD vs utilidad neta TTM 4507 millones USD, razonablemente alineados a nivel TTM, pero con volatilidad trimestral extrema (OCF paso de apenas 26 a 95 millones USD en trimestres de FY2025 a 3038 millones USD en el ultimo trimestre reportado, un salto de mas de 30 veces).",
+          "notas": "OCF TTM 4639 millones USD vs utilidad neta TTM 4507 millones USD, razonablemente alineados a nivel TTM, pero con volatilidad trimestral extrema (OCF paso de apenas 26 a 95 millones USD en trimestres de FY2025 a 3038 millones USD en el último trimestre reportado, un salto de mas de 30 veces).",
           "calificacion": 3
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 4460 millones USD sobre EBITDA estimado aprox 5520 millones USD, conversion aprox 81%, alta - pero con la misma lumpiness trimestral extrema que el OCF, ver fila de crecimiento y de valoracion.",
+          "notas": "FCF TTM 4460 millones USD sobre EBITDA estimado aprox 5520 millones USD, conversión aprox 81%, alta - pero con la misma lumpiness trimestral extrema que el OCF, ver fila de crecimiento y de valoración.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM apenas 179 millones USD (1.36% de ventas), muy bajo para un fabricante de semiconductores - la explicacion es que la inversion pesada de manufactura queda dentro de la JV Flash Ventures con Kioxia y no se consolida en el capex reportado de SanDisk.",
+          "notas": "Capex TTM apenas 179 millones USD (1.36% de ventas), muy bajo para un fabricante de semiconductores - la explicación es que la inversión pesada de manufactura queda dentro de la JV Flash Ventures con Kioxia y no se consolida en el capex reportado de SanDisk.",
           "calificacion": 4
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Uso del capital reciente: desapalancamiento total (liquidacion del Term Loan B en mar-2026). Sin dividendo. Sin datos de recompras de acciones identificados en esta sesion.",
+          "notas": "Uso del capital reciente: desapalancamiento total (liquidación del Term Loan B en mar-2026). Sin dividendo. Sin datos de recompras de acciones identificados en esta sesión.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "Multiplos TTM extremadamente altos: PE 46.94x a 48.56x, EV a EBITDA 37.67x, P a FCF 47.40x - muy por encima de pares como Micron (PE TTM aprox 20x en su ficha de este Dashboard). Solo luce barata en el PE adelantado (aprox 7x), que depende de que el consenso de crecimiento explosivo se cumpla.",
+          "notas": "Múltiplos TTM extremadamente altos: PE 46.94x a 48.56x, EV a EBITDA 37.67x, P a FCF 47.40x - muy por encima de pares como Micron (PE TTM aprox 20x en su ficha de este Dashboard). Solo luce barata en el PE adelantado (aprox 7x), que depende de que el consenso de crecimiento explosivo se cumpla.",
           "calificacion": 1
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio, dos escenarios: (A) adoptado, FCF base TTM 4460 millones USD, WACC 13.95% (beta sustituto 1.9, deuda cero), crecimiento 10% a 5 anios, terminal 4% -> 425.20 USD por accion. (B) sensibilidad no adoptada, FCF base anualizando el ultimo trimestre (2993 x4 = 11972 millones USD) con los mismos WACC y crecimiento -> 1099.0 USD por accion. Ver Notas del Dashboard para el detalle completo.",
+          "notas": "DCF propio, dos escenarios: (A) adoptado, FCF base TTM 4460 millones USD, WACC 13.95% (beta sustituto 1.9, deuda cero), crecimiento 10% a 5 años, terminal 4% -> 425.20 USD por acción. (B) sensibilidad no adoptada, FCF base anualizando el último trimestre (2993 x4 = 11972 millones USD) con los mismos WACC y crecimiento -> 1099.0 USD por acción. Ver Notas del Dashboard para el detalle completo.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de seguridad -69.5% en el escenario base (A) y -21.3% en el escenario agresivo (B) - ambos caen en zona de vender del marco de decision (menor a -20%), la conclusion es robusta a la eleccion de escenario de FCF base.",
+          "notas": "Margen de seguridad -69.5% en el escenario base (A) y -21.3% en el escenario agresivo (B) - ambos caen en zona de vender del marco de decisión (menor a -20%), la conclusión es robusta a la elección de escenario de FCF base.",
           "calificacion": 1
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM en expansion fuerte: demanda de NAND de centros de datos de IA representara aprox 44% de la demanda total en 2026, con los datacenters consumiendo aprox 70% de toda la memoria producida en 2026.",
+          "notas": "TAM en expansión fuerte: demanda de NAND de centros de datos de IA representara aprox 44% de la demanda total en 2026, con los datacenters consumiendo aprox 70% de toda la memoria producida en 2026.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Barreras de entrada muy altas: fabricacion de semiconductores de memoria requiere capital e I mas D masivos y decadas de conocimiento tecnico acumulado - oligopolio estable de 4 a 5 jugadores globales.",
+          "notas": "Barreras de entrada muy altas: fabricación de semiconductores de memoria requiere capital e I mas D masivos y décadas de conocimiento técnico acumulado - oligopolio estable de 4 a 5 jugadores globales.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta entre pocos jugadores grandes (Samsung, SK hynix, Kioxia, Micron); poder de proveedor muy alto y concentrado (SanDisk depende casi enteramente de Kioxia via la JV); poder de comprador moderado (hyperscalers negocian pero tambien quedan atados a contratos plurianuales); amenaza de nuevos entrantes baja en el corto plazo pero creciente por jugadores chinos (CXMT); sustitutos limitados para NAND flash a escala.",
+          "notas": "Rivalidad alta entre pocos jugadores grandes (Samsung, SK hynix, Kioxia, Micron); poder de proveedor muy alto y concentrado (SanDisk depende casi enteramente de Kioxia via la JV); poder de comprador moderado (hyperscalers negocian pero también quedan atados a contratos plurianuales); amenaza de nuevos entrantes baja en el corto plazo pero creciente por jugadores chinos (CXMT); sustitutos limitados para NAND flash a escala.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Ciclicidad historica extrema de precios de memoria - la industria colapso a perdidas en FY2023 y hoy esta en un supercycle impulsado por IA; el patron historico sugiere que la reversion es cuestion de tiempo, no de si va a pasar.",
+          "notas": "Ciclicidad histórica extrema de precios de memoria - la industria colapso a pérdidas en FY2023 y hoy esta en un supercycle impulsado por IA; el patrón histórico sugiere que la reversión es cuestion de tiempo, no de si va a pasar.",
           "calificacion": 2
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Manufactura concentrada en Japon (Kitakami, Yokkaichi) via la JV con Kioxia - exposicion baja a aranceles directos Estados Unidos-China comparado con competidores que fabrican en otras jurisdicciones, pero exposicion a riesgo pais de Japon y a cualquier evento corporativo de Kioxia.",
+          "notas": "Manufactura concentrada en Japon (Kitakami, Yokkaichi) via la JV con Kioxia - exposición baja a aranceles directos Estados Unidos-China comparado con competidores que fabrican en otras jurisdicciones, pero exposición a riesgo pais de Japon y a cualquier evento corporativo de Kioxia.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Ingresos mayormente en USD, pero costos de manufactura parcialmente en yenes japoneses via la JV Flash Ventures - exposicion cambiaria moderada.",
+          "notas": "Ingresos mayormente en USD, pero costos de manufactura parcialmente en yenes japoneses via la JV Flash Ventures - exposición cambiaria moderada.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Clientes bien diversificados (ningun cliente supera 10% de ingresos), pero concentracion de proveedor extrema y sin diversificacion real: practicamente toda la oferta de wafers NAND depende de una sola JV con Kioxia - punto unico de falla estructural del modelo de negocio.",
+          "notas": "Clientes bien diversificados (ningún cliente supera 10% de ingresos), pero concentración de proveedor extrema y sin diversificación real: prácticamente toda la oferta de wafers NAND depende de una sola JV con Kioxia - punto único de falla estructural del modelo de negocio.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de disrupcion tecnologica moderado: competencia china emergente (CXMT, IPO jul-2026) genero una caida puntual de 35% en la accion el 29-jul-2026, aunque el mercado parece haber confundido riesgo de DRAM con el negocio de NAND de SanDisk - episodio que confirma la alta volatilidad idiosincratica del titulo ante noticias de competencia asiatica.",
+          "notas": "Riesgo de disrupción tecnologica moderado: competencia china emergente (CXMT, IPO jul-2026) genero una caida puntual de 35% en la acción el 29-jul-2026, aunque el mercado parece haber confundido riesgo de DRAM con el negocio de NAND de SanDisk - episodio que confirma la alta volatilidad idiosincratica del título ante noticias de competencia asiatica.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin banderas rojas identificadas en esta sesion; huella ambiental tipica de manufactura de semiconductores (uso de agua y quimicos en fabs), mayormente asumida dentro de la JV con Kioxia y no directamente en el balance de SanDisk. No investigado en profundidad.",
+          "notas": "Sin banderas rojas identificadas en esta sesión; huella ambiental típica de manufactura de semiconductores (uso de agua y quimicos en fabs), mayormente asumida dentro de la JV con Kioxia y no directamente en el balance de SanDisk. No investigado en profundidad.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados del Q4 y ano fiscal completo FY2026 se reportan HOY, 5-ago-2026, despues del cierre del mercado, con Investor Day el 13-ago-2026 - practicamente todas las cifras TTM de esta ficha quedaran desactualizadas dentro de horas, revisar apenas se reporten.",
+          "notas": "Resultados del Q4 y ano fiscal completo FY2026 se reportan HOY, 5-ago-2026, después del cierre del mercado, con Investor Day el 13-ago-2026 - prácticamente todas las cifras TTM de esta ficha quedaran desactualizadas dentro de horas, revisar apenas se reporten.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "No se identifico informacion de compras o ventas de insiders en esta sesion de investigacion - pendiente de verificar en una sesion futura.",
+          "notas": "No se identifico información de compras o ventas de insiders en esta sesión de investigación - pendiente de verificar en una sesión futura.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "22 a 23 analistas cubren la accion, calificacion de consenso Buy, precio objetivo promedio entre 2217.77 (stockanalysis) y 2381.04 (Finviz) USD, equivalente a un alza de 59% a 71% desde el precio actual - fuertemente optimista, en contraste directo con la conclusion del DCF propio de este analisis.",
+          "notas": "22 a 23 analistas cubren la acción, calificación de consenso Buy, precio objetivo promedio entre 2217.77 (stockanalysis) y 2381.04 (Finviz) USD, equivalente a un alza de 59% a 71% desde el precio actual - fuertemente optimista, en contraste directo con la conclusión del DCF propio de este analisis.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.108108108108108,
-    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoracion extremadamente exigente en ambos escenarios de DCF)",
-    "tesis": "Pure-play NAND con supercycle real de demanda de IA pero de naturaleza ciclica historicamente comprobada, cotizando a multiplos que exigen que la bonanza actual se sostenga indefinidamente - mismo patron que Micron en este Dashboard, negocio de calidad razonable a un precio que no perdona un giro de ciclo."
+    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoración extremadamente exigente en ambos escenarios de DCF)",
+    "tesis": "Pure-play NAND con supercycle real de demanda de IA pero de naturaleza ciclica históricamente comprobada, cotizando a múltiplos que exigen que la bonanza actual se sostenga indefinidamente - mismo patrón que Micron en este Dashboard, negocio de calidad razonable a un precio que no perdona un giro de ciclo."
   }
 }

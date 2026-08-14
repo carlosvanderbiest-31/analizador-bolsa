@@ -1,7 +1,7 @@
 {
   "empresa": "Oracle Corporation",
   "ticker": "ORCL",
-  "sector": "Tecnologia - Software empresarial (base de datos, ERP en la nube) e infraestructura de nube para IA (OCI)",
+  "sector": "Tecnología - Software empresarial (base de datos, ERP en la nube) e infraestructura de nube para IA (OCI)",
   "fecha_analisis": "2026-08-07",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Tres motores: licencias-soporte de base de datos empresarial (negocio historico, altisimos margenes y switching costs), aplicaciones en la nube (Fusion ERP, NetSuite) y ahora, el motor de crecimiento dominante, infraestructura de nube para IA (OCI). Ingresos TTM 67.36 mil millones USD (+17.3 por ciento), pero el RPO (obligaciones de desempeno restantes) llego a 638 mil millones USD (+363 por ciento interanual) impulsado por contratos gigantes de computo para IA.",
+          "notas": "Tres motores: licencias-soporte de base de datos empresarial (negocio histórico, altisimos márgenes y switching costs), aplicaciones en la nube (Fusión ERP, NetSuite) y ahora, el motor de crecimiento dominante, infraestructura de nube para IA (OCI). Ingresos TTM 67.36 mil millones USD (+17.3 por ciento), pero el RPO (obligaciones de desempeño restantes) llego a 638 mil millones USD (+363 por ciento interanual) impulsado por contratos gigantes de computo para IA.",
           "calificacion": 3
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat profundo y probado de tres decadas en base de datos empresarial (sistemas de mision critica con costos de cambio altisimos). El nuevo moat de OCI es menos probado: se apoya en contratos de asignacion de GPU con NVIDIA y en ganar contratos de gran escala especificos de IA, no en una ventaja estructural de largo plazo todavia demostrada frente a AWS-Azure-GCP.",
+          "notas": "Moat profundo y probado de tres décadas en base de datos empresarial (sistemas de misión critica con costos de cambio altisimos). El nuevo moat de OCI es menos probado: se apoya en contratos de asignación de GPU con NVIDIA y en ganar contratos de gran escala específicos de IA, no en una ventaja estructural de largo plazo todavía demostrada frente a AWS-Azure-GCP.",
           "calificacion": 4
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Numero uno indiscutido en base de datos relacional empresarial. En la nube de IA, Oracle paso de ser un actor menor a competir de forma creible (RPO +363 por ciento) via contratos individuales enormes, pero sigue siendo el cuarto proveedor de infraestructura en la nube detras de AWS, Azure y Google Cloud en escala total.",
+          "notas": "Número uno indiscutido en base de datos relacional empresarial. En la nube de IA, Oracle paso de ser un actor menor a competir de forma creible (RPO +363 por ciento) via contratos individuales enormes, pero sigue siendo el cuarto proveedor de infraestructura en la nube detras de AWS, Azure y Google Cloud en escala total.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Fuerte en el negocio de base de datos historico (poder de fijacion de precios alto por el lock-in). En OCI, reportes indican precios competitivos POR DEBAJO de AWS-Azure para ganar contratos de computo de IA - sugiere menor poder de fijacion de precios en el nuevo negocio, ganado con volumen y escala mas que con margen.",
+          "notas": "Fuerte en el negocio de base de datos histórico (poder de fijación de precios alto por el lock-in). En OCI, reportes indican precios competitivos POR DEBAJO de AWS-Azure para ganar contratos de computo de IA - sugiere menor poder de fijación de precios en el nuevo negocio, ganado con volumen y escala mas que con margen.",
           "calificacion": 3
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Historicamente conocido por recompras agresivas financiadas con deuda. Ahora el patron cambio hacia financiar una construccion de infraestructura de IA extremadamente agresiva: 43 mil millones USD en deuda nueva y 5 mil millones USD en patrimonio emitidos en el ano fiscal 2026, con aprox 40 mil millones USD adicionales de financiamiento esperados en el ano fiscal 2027 - una apuesta de asignacion de capital de alto riesgo, no una gestion conservadora del balance.",
+          "notas": "Históricamente conocido por recompras agresivas financiadas con deuda. Ahora el patrón cambio hacia financiar una construcción de infraestructura de IA extremadamente agresiva: 43 mil millones USD en deuda nueva y 5 mil millones USD en patrimonio emitidos en el ano fiscal 2026, con aprox 40 mil millones USD adicionales de financiamiento esperados en el ano fiscal 2027 - una apuesta de asignación de capital de alto riesgo, no una gestion conservadora del balance.",
           "calificacion": 2
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Larry Ellison posee aprox 40 a 42 por ciento de las acciones de Oracle - participacion economica muy alta, fuerte alineacion de incentivos en ese sentido. Punto de atencion: Ellison tambien respaldo personalmente (backstop) aprox 40.4 mil millones USD de un acuerdo de medios ligado a su hijo David Ellison (CEO de Paramount Skydance, comprador de Warner Bros. Discovery - ver ficha WBD) - no involucra el balance de Oracle directamente, pero es una senial de que la atencion y el capital personal del Chairman estan repartidos entre multiples apuestas de gran escala.",
+          "notas": "Larry Ellison posee aprox 40 a 42 por ciento de las acciones de Oracle - participación económica muy alta, fuerte alineación de incentivos en ese sentido. Punto de atención: Ellison también respaldo personalmente (backstop) aprox 40.4 mil millones USD de un acuerdo de medios ligado a su hijo David Ellison (CEO de Paramount Skydance, comprador de Warner Bros. Discovery - ver ficha WBD) - no involucra el balance de Oracle directamente, pero es una senial de que la atención y el capital personal del Chairman estan repartidos entre múltiples apuestas de gran escala.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Estructura de UNA SOLA CLASE de acciones comunes, sin supervoto para fundadores - una de las estructuras de gobernanza mas simples y transparentes entre las mega-caps de tecnologia del Dashboard (contraste directo con META, ABNB, PLTR). El control de Ellison viene puramente de su participacion economica, no de un mecanismo de voto desproporcionado.",
+          "notas": "Estructura de UNA SOLA CLASE de acciones comunes, sin supervoto para fundadores - una de las estructuras de gobernanza mas simples y transparentes entre las mega-caps de tecnología del Dashboard (contraste directo con META, ABNB, PLTR). El control de Ellison viene puramente de su participación económica, no de un mecanismo de voto desproporcionado.",
           "calificacion": 4
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion estandar de una empresa publica grande. La metrica de RPO es util pero relativamente opaca a nivel de cliente individual - la concentracion en OpenAI (aprox la mitad del RPO total) no fue obvia hasta que analistas y S&P profundizaron en el desglose, lo cual es en si mismo una senial de transparencia mejorable.",
+          "notas": "Divulgación estándar de una empresa pública grande. La métrica de RPO es util pero relativamente opaca a nivel de cliente individual - la concentración en OpenAI (aprox la mitad del RPO total) no fue obvia hasta que analistas y S&P profundizaron en el desglose, lo cual es en si mismo una senial de transparencia mejorable.",
           "calificacion": 3
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deterioro severo y rapido del balance: deuda total 134.6 mil millones USD (+45 por ciento en solo nueve meses), deuda neta aprox 95.5 mil millones USD. S&P bajo la calificacion crediticia de Oracle a BBB- por A-3 (un escalon arriba de \"basura\"), citando explicitamente el riesgo de concentracion en OpenAI y el deterioro de las metricas de flujo de caja por el pivote agresivo hacia infraestructura de nube para IA.",
+          "notas": "Deterioro severo y rápido del balance: deuda total 134.6 mil millones USD (+45 por ciento en solo nueve meses), deuda neta aprox 95.5 mil millones USD. S&P bajo la calificación crediticia de Oracle a BBB- por A-3 (un escalon arriba de \"basura\"), citando explícitamente el riesgo de concentración en OpenAI y el deterioro de las métricas de flujo de caja por el pivote agresivo hacia infraestructura de nube para IA.",
           "calificacion": 1
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Liquidez de corto plazo probablemente adecuada (caja estimada aprox 39 mil millones USD, derivada de deuda total menos deuda neta), pero la presion hacia adelante es real dado el guidance de aprox 70 mil millones USD de desembolso neto de capex para el ano fiscal 2027 - la empresa depende de seguir accediendo a mercados de deuda-patrimonio en condiciones favorables.",
+          "notas": "Liquidez de corto plazo probablemente adecuada (caja estimada aprox 39 mil millones USD, derivada de deuda total menos deuda neta), pero la presión hacia adelante es real dado el guidance de aprox 70 mil millones USD de desembolso neto de capex para el ano fiscal 2027 - la empresa depende de seguir accediendo a mercados de deuda-patrimonio en condiciones favorables.",
           "calificacion": 2
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Estructura de vencimientos no verificada en detalle en esta sesion (dato pendiente) - dado el ritmo de emision reciente (43 mil millones USD de deuda nueva en un ano), es una prioridad de investigacion en una sesion futura.",
+          "notas": "Estructura de vencimientos no verificada en detalle en esta sesión (dato pendiente) - dado el ritmo de emisión reciente (43 mil millones USD de deuda nueva en un ano), es una prioridad de investigación en una sesión futura.",
           "calificacion": 2
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos crecientemente dominados por la construccion masiva de centros de datos-GPU para OCI (riesgo de obsolescencia tecnologica rapida por ciclos de chips Nvidia, mismo riesgo ya identificado en SHAZ pero a escala de mega-cap) ademas de la base historica de software-goodwill. La calidad economica de esos activos depende por completo de que los contratos de RPO se conviertan en ingresos reales.",
+          "notas": "Activos crecientemente dominados por la construcción masiva de centros de datos-GPU para OCI (riesgo de obsolescencia tecnologica rápida por ciclos de chips Nvidia, mismo riesgo ya identificado en SHAZ pero a escala de mega-cap) además de la base histórica de software-goodwill. La calidad económica de esos activos depende por completo de que los contratos de RPO se conviertan en ingresos reales.",
           "calificacion": 2
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen neto saludable y en expansion: utilidad neta TTM 16.98 mil millones USD (+37.3 por ciento) crece mas rapido que los ingresos (+17.3 por ciento). Pero el guidance de EPS no-GAAP para el ano fiscal 2027 (+18 por ciento) crece mucho MAS LENTO que el guidance de ingresos (+34 por ciento aprox, hacia 90 mil millones USD) - senial de que la depreciacion y el costo financiero de la construccion masiva de infraestructura van a comprimir margenes hacia adelante.",
+          "notas": "Margen neto saludable y en expansión: utilidad neta TTM 16.98 mil millones USD (+37.3 por ciento) crece mas rápido que los ingresos (+17.3 por ciento). Pero el guidance de EPS no-GAAP para el ano fiscal 2027 (+18 por ciento) crece mucho MAS LENTO que el guidance de ingresos (+34 por ciento aprox, hacia 90 mil millones USD) - senial de que la depreciación y el costo financiero de la construcción masiva de infraestructura van a comprimir márgenes hacia adelante.",
           "calificacion": 3
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE y ROIC no verificados con precision en esta sesion (dato pendiente) - el patrimonio contable es historicamente delgado en relacion al tamanio de Oracle (20.97 mil millones USD a 2025, antes de la ronda de deuda masiva del ano fiscal 2026), lo que puede distorsionar el ROE reportado por apalancamiento, similar en espiritu (aunque menos extremo) al caso de DELL.",
+          "notas": "ROE y ROIC no verificados con precisión en esta sesión (dato pendiente) - el patrimonio contable es históricamente delgado en relación al tamanio de Oracle (20.97 mil millones USD a 2025, antes de la ronda de deuda masiva del ano fiscal 2026), lo que puede distorsionar el ROE reportado por apalancamiento, similar en espiritu (aunque menos extremo) al caso de DELL.",
           "calificacion": 2
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Base de activos creciendo mucho mas rapido que los ingresos (construccion de capacidad de centros de datos por delante de la facturacion real) - rotacion de activos en declive mientras la capacidad nueva todavia no factura a plena capacidad.",
+          "notas": "Base de activos creciendo mucho mas rápido que los ingresos (construcción de capacidad de centros de datos por delante de la facturación real) - rotación de activos en declive mientras la capacidad nueva todavía no factura a plena capacidad.",
           "calificacion": 2
         }
       ],
@@ -114,12 +114,12 @@
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Crecimiento impulsado por un puniado de contratos gigantes de computo para IA (no crecimiento organico amplio y distribuido) - genuino pero concentrado y \"grumoso\" por naturaleza, ademas de depender fuertemente de que esos contratos especificos se ejecuten segun lo firmado.",
+          "notas": "Crecimiento impulsado por un puniado de contratos gigantes de computo para IA (no crecimiento orgánico amplio y distribuido) - genuino pero concentrado y \"grumoso\" por naturaleza, además de depender fuertemente de que esos contratos específicos se ejecuten según lo firmado.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Backlog de RPO de 638 mil millones USD (aprox 9.5 veces los ingresos TTM) es la fuente de crecimiento futuro mas grande de todo el Dashboard - SI se convierte en ingresos segun lo guiado. Tambien continua el crecimiento organico del negocio historico de base de datos y aplicaciones en la nube.",
+          "notas": "Backlog de RPO de 638 mil millones USD (aprox 9.5 veces los ingresos TTM) es la fuente de crecimiento futuro mas grande de todo el Dashboard - SI se convierte en ingresos según lo guiado. También continua el crecimiento orgánico del negocio histórico de base de datos y aplicaciones en la nube.",
           "calificacion": 4
         }
       ],
@@ -130,7 +130,7 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "La utilidad neta TTM (16.98 mil millones USD) parece limpia y real (no distorsionada por partidas puntuales identificadas en esta sesion), pero el OCF (32 mil millones USD del ano fiscal 2026) es notablemente bajo en relacion al tamanio de la empresa dado el enorme desembolso de capital en curso. La verdadera pregunta de calidad de ganancias no es si la utilidad neta actual es real, sino si los 638 mil millones USD de RPO se convertiran en caja real dado el riesgo de concentracion en OpenAI (ver fila 51).",
+          "notas": "La utilidad neta TTM (16.98 mil millones USD) parece limpia y real (no distorsionada por partidas puntuales identificadas en esta sesión), pero el OCF (32 mil millones USD del ano fiscal 2026) es notablemente bajo en relación al tamanio de la empresa dado el enorme desembolso de capital en curso. La verdadera pregunta de calidad de ganancias no es si la utilidad neta actual es real, sino si los 638 mil millones USD de RPO se convertiran en caja real dado el riesgo de concentración en OpenAI (ver fila 51).",
           "calificacion": 3
         },
         {
@@ -140,12 +140,12 @@
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Practicamente 100 por ciento capex de CRECIMIENTO (construccion de centros de datos y GPUs para OCI), no de mantenimiento - por diseno de la estrategia de apostar fuerte por la demanda de computo de IA. El guidance de desembolso neto de capex para el ano fiscal 2027 sube a aprox 70 mil millones USD, aun mas agresivo.",
+          "notas": "Prácticamente 100 por ciento capex de CRECIMIENTO (construcción de centros de datos y GPUs para OCI), no de mantenimiento - por diseño de la estrategia de apostar fuerte por la demanda de computo de IA. El guidance de desembolso neto de capex para el ano fiscal 2027 sube a aprox 70 mil millones USD, aun mas agresivo.",
           "calificacion": 2
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Giro grande de asignacion de capital: de recompras agresivas financiadas con deuda (patron historico de Oracle) a financiar una apuesta de infraestructura de IA todavia mas grande y arriesgada (43 mil millones USD de deuda nueva mas 5 mil millones USD de patrimonio en el ano fiscal 2026, aprox 40 mil millones USD adicionales esperados en el ano fiscal 2027). Dividendo de 2.00 USD por accion (rendimiento 1.37 por ciento) se mantiene pese a la presion de caja.",
+          "notas": "Giro grande de asignación de capital: de recompras agresivas financiadas con deuda (patrón histórico de Oracle) a financiar una apuesta de infraestructura de IA todavía mas grande y arriesgada (43 mil millones USD de deuda nueva mas 5 mil millones USD de patrimonio en el ano fiscal 2026, aprox 40 mil millones USD adicionales esperados en el ano fiscal 2027). Dividendo de 2.00 USD por acción (rendimiento 1.37 por ciento) se mantiene pese a la presión de caja.",
           "calificacion": 2
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P sobre E TTM 24.61x (adelantado 17.82x) - luce BARATO para el crecimiento reportado, y GuruFocus incluso senala un GF Value de 188.41 USD (aprox 32 por ciento por encima del precio actual de 145.73 USD el 7-ago-2026). Pero el propio GuruFocus etiqueta a Oracle como \"Possible Value Trap\" - los multiplos tradicionales no capturan bien el riesgo de concentracion de cliente ni el deterioro crediticio reciente (ver filas 22 y 51). Dispersion de objetivos de analistas extrema (155 a 400 USD entre 55 analistas) - evidencia de desacuerdo genuino, no de un consenso solido.",
+          "notas": "P sobre E TTM 24.61x (adelantado 17.82x) - luce BARATO para el crecimiento reportado, y GuruFocus incluso senala un GF Value de 188.41 USD (aprox 32 por ciento por encima del precio actual de 145.73 USD el 7-ago-2026). Pero el propio GuruFocus etiqueta a Oracle como \"Possible Value Trap\" - los múltiplos tradicionales no capturan bien el riesgo de concentración de cliente ni el deterioro crediticio reciente (ver filas 22 y 51). Dispersión de objetivos de analistas extrema (155 a 400 USD entre 55 analistas) - evidencia de desacuerdo genuino, no de un consenso sólido.",
           "calificacion": 2
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio, escenario adoptado (base de FCF sustituta, ver metodologia): dado que el FCF real es profundamente negativo (-23.7 mil millones USD, ver fila 36) por el capex de crecimiento, se uso la UTILIDAD NETA TTM (16.98 mil millones USD, limpia y real, no distorsionada por partidas puntuales) como base proxy - mismo criterio ya aplicado a AMZN cuando su FCF cruzo a negativo. Crecimiento: fade de 18 a 10 por ciento en 5 anios (anclado en el guidance propio de EPS no-GAAP del ano fiscal 2027, +18 por ciento, no en el guidance de ingresos mas optimista de +34 por ciento, para reflejar la compresion de margen esperada por depreciacion-costo financiero). WACC 13.5 por ciento (CAPM: Beta 1.72, Rf 3.5 por ciento, ERP 5.5 por ciento = costo de equity 12.96 por ciento; mas una prima de riesgo cualitativa de 2.5 puntos porcentuales por la concentracion extrema de cliente y el deterioro crediticio reciente a BBB-, similar en espiritu a la prima aplicada en BABA-WMB). Cruzado contra GuruFocus (14.1 por ciento, cercano, validando la prima aplicada). Terminal growth 4 por ciento estandar. Deuda neta usada en el puente de valor: 95.5 mil millones USD (reportada explicitamente por la empresa). Valor Intrinseco resultante: aprox 63.64 USD por accion.",
+          "notas": "DCF propio, escenario adoptado (base de FCF sustituta, ver metodología): dado que el FCF real es profundamente negativo (-23.7 mil millones USD, ver fila 36) por el capex de crecimiento, se uso la UTILIDAD NETA TTM (16.98 mil millones USD, limpia y real, no distorsionada por partidas puntuales) como base proxy - mismo criterio ya aplicado a AMZN cuando su FCF cruzo a negativo. Crecimiento: fade de 18 a 10 por ciento en 5 años (anclado en el guidance propio de EPS no-GAAP del ano fiscal 2027, +18 por ciento, no en el guidance de ingresos mas optimista de +34 por ciento, para reflejar la compresión de margen esperada por depreciación-costo financiero). WACC 13.5 por ciento (CAPM: Beta 1.72, Rf 3.5 por ciento, ERP 5.5 por ciento = costo de equity 12.96 por ciento; mas una prima de riesgo cualitativa de 2.5 puntos porcentuales por la concentración extrema de cliente y el deterioro crediticio reciente a BBB-, similar en espiritu a la prima aplicada en BABA-WMB). Cruzado contra GuruFocus (14.1 por ciento, cercano, validando la prima aplicada). Terminal growth 4 por ciento estándar. Deuda neta usada en el puente de valor: 95.5 mil millones USD (reportada explícitamente por la empresa). Valor Intrínseco resultante: aprox 63.64 USD por acción.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad: aprox -56.3 por ciento (precio actual 145.73 USD vs Valor Intrinseco 63.64 USD) - zona de Vender-No Comprar del marco. Sensibilidad B (crecimiento mas generoso, fade 25 a 15 por ciento, no adoptado): IV aprox 85.65 USD, MS -41.2 por ciento. Sensibilidad C (WACC 11 por ciento via CAPM puro, sin la prima de riesgo cualitativa, no adoptado): IV aprox 99.83 USD, MS -31.5 por ciento. Los TRES escenarios probados quedan solidamente en zona negativa (peor que -20 por ciento) - la conclusion es razonablemente robusta a los supuestos de growth y WACC probados, principalmente porque usar la utilidad neta actual como base (en vez de un \"poder de ganancias normalizado\" post-conversion completa del backlog) y restar la deuda neta de 95.5 mil millones USD pesa mas que el growth rate elegido. IMPORTANTE - lo que este DCF NO captura (mismo espiritu que TSLA-OKLO): si los 638 mil millones USD de RPO se convierten en ingresos rentables segun lo guiado y el margen se normaliza una vez completado el ciclo de capex, el poder de ganancias real dentro de 3 a 5 anios podria ser mucho mayor al que refleja este DCF anclado en la utilidad neta actual - pero esa conversion depende en aprox la mitad del caso de UN SOLO CLIENTE (OpenAI) cuya solidez financiera propia esta public y explicitamente cuestionada. El precio actual de mercado parece estar pagando por esa conversion exitosa del backlog sin descuento por el riesgo de concentracion - no forzar el DCF a incluir ese escenario optimista sin verificacion, dejar la decision al lector con la brecha documentada explicitamente.",
+          "notas": "Margen de Seguridad: aprox -56.3 por ciento (precio actual 145.73 USD vs Valor Intrínseco 63.64 USD) - zona de Vender-No Comprar del marco. Sensibilidad B (crecimiento mas generoso, fade 25 a 15 por ciento, no adoptado): IV aprox 85.65 USD, MS -41.2 por ciento. Sensibilidad C (WACC 11 por ciento via CAPM puro, sin la prima de riesgo cualitativa, no adoptado): IV aprox 99.83 USD, MS -31.5 por ciento. Los TRES escenarios probados quedan solidamente en zona negativa (peor que -20 por ciento) - la conclusión es razonablemente robusta a los supuestos de growth y WACC probados, principalmente porque usar la utilidad neta actual como base (en vez de un \"poder de ganancias normalizado\" post-conversión completa del backlog) y restar la deuda neta de 95.5 mil millones USD pesa mas que el growth rate elegido. IMPORTANTE - lo que este DCF NO captura (mismo espiritu que TSLA-OKLO): si los 638 mil millones USD de RPO se convierten en ingresos rentables según lo guiado y el margen se normaliza una vez completado el ciclo de capex, el poder de ganancias real dentro de 3 a 5 años podría ser mucho mayor al que refleja este DCF anclado en la utilidad neta actual - pero esa conversión depende en aprox la mitad del caso de UN SOLO CLIENTE (OpenAI) cuya solidez financiera propia esta public y explícitamente cuestionada. El precio actual de mercado parece estar pagando por esa conversión exitosa del backlog sin descuento por el riesgo de concentración - no forzar el DCF a incluir ese escenario optimista sin verificación, dejar la decisión al lector con la brecha documentada explícitamente.",
           "calificacion": 1
         }
       ],
@@ -182,17 +182,17 @@
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Barreras muy altas en el negocio historico de base de datos (decadas de lock-in de sistemas de mision critica). En infraestructura de nube, barreras de capital altas pero Oracle compite contra rivales (AWS, Azure, GCP) con balances mucho mas solidos y sin el riesgo crediticio que Oracle acaba de asumir.",
+          "notas": "Barreras muy altas en el negocio histórico de base de datos (décadas de lock-in de sistemas de misión critica). En infraestructura de nube, barreras de capital altas pero Oracle compite contra rivales (AWS, Azure, GCP) con balances mucho mas sólidos y sin el riesgo crediticio que Oracle acaba de asumir.",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Poder de proveedor alto (dependencia de asignacion de GPUs de Nvidia, mismo riesgo tematico que SHAZ pero a escala de mega-cap). Poder de COMPRADOR EXTREMO en el nuevo negocio de IA (OpenAI concentra aprox la mitad del RPO y tiene apalancamiento de negociacion significativo como cliente ancla). Rivalidad alta (AWS, Azure, Google Cloud, mas neoclouds especializadas). Barreras de entrada altas por capital pero Oracle mismo demostro que un incumbente bien capitalizado puede entrar rapido.",
+          "notas": "Poder de proveedor alto (dependencia de asignación de GPUs de Nvidia, mismo riesgo temático que SHAZ pero a escala de mega-cap). Poder de COMPRADOR EXTREMO en el nuevo negocio de IA (OpenAI concentra aprox la mitad del RPO y tiene apalancamiento de negociación significativo como cliente ancla). Rivalidad alta (AWS, Azure, Google Cloud, mas neoclouds especializadas). Barreras de entrada altas por capital pero Oracle mismo demostro que un incumbente bien capitalizado puede entrar rápido.",
           "calificacion": 2
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "El negocio historico de software empresarial es poco ciclico (contratos plurianuales, mision critica). El nuevo negocio de infraestructura de IA esta plenamente expuesto al riesgo de ciclo-sentimiento de capex de IA ya identificado en otras empresas del Dashboard (SHAZ, CAT) - si el entusiasmo por el gasto de capital de IA se enfria, Oracle tiene mucho mas en juego ahora que hace dos anios.",
+          "notas": "El negocio histórico de software empresarial es poco ciclico (contratos plurianuales, misión critica). El nuevo negocio de infraestructura de IA esta plenamente expuesto al riesgo de ciclo-sentimiento de capex de IA ya identificado en otras empresas del Dashboard (SHAZ, CAT) - si el entusiasmo por el gasto de capital de IA se enfria, Oracle tiene mucho mas en juego ahora que hace dos años.",
           "calificacion": 2
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo regulatorio moderado (regulacion de IA y soberania de datos evolucionando a nivel global), sin un problema agudo unico identificado en esta sesion comparable al de otras empresas del Dashboard.",
+          "notas": "Riesgo regulatorio moderado (regulación de IA y soberania de datos evolucionando a nivel global), sin un problema agudo único identificado en esta sesión comparable al de otras empresas del Dashboard.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria relevante por operaciones internacionales tipicas de una empresa de software global - no cuantificada con precision en esta sesion.",
+          "notas": "Exposición cambiaria relevante por operaciones internacionales típicas de una empresa de software global - no cuantificada con precisión en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "RIESGO MAYOR Y EXPLICITAMENTE SENALADO POR UNA AGENCIA CALIFICADORA: OpenAI representa aproximadamente LA MITAD de los 638 mil millones USD de RPO de Oracle. La propia solidez financiera de OpenAI ha sido cuestionada publicamente (reportes de incumplimiento de metas internas, necesidades de liquidez significativas). S&P cito explicitamente esta concentracion como motivo central de la rebaja de calificacion crediticia a BBB-. Uno de los riesgos de concentracion mas serios y mejor documentados de todo el Dashboard.",
+          "notas": "RIESGO MAYOR Y EXPLÍCITAMENTE SENALADO POR UNA AGENCIA CALIFICADORA: OpenAI representa aproximadamente LA MITAD de los 638 mil millones USD de RPO de Oracle. La propia solidez financiera de OpenAI ha sido cuestionada publicamente (reportes de incumplimiento de metas internas, necesidades de liquidez significativas). S&P cito explícitamente esta concentración como motivo central de la rebaja de calificación crediticia a BBB-. Uno de los riesgos de concentración mas serios y mejor documentados de todo el Dashboard.",
           "calificacion": 1
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de obsolescencia tecnologica real en el hardware GPU recien comprado (ciclos rapidos de nuevas generaciones de chips Nvidia). Riesgo de mas largo plazo y menor urgencia: erosion gradual del moat de base de datos frente a alternativas cloud-native-open-source.",
+          "notas": "Riesgo de obsolescencia tecnologica real en el hardware GPU recien comprado (ciclos rápidos de nuevas generaciones de chips Nvidia). Riesgo de mas largo plazo y menor urgencia: erosión gradual del moat de base de datos frente a alternativas cloud-native-open-source.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Consumo energetico intensivo de la construccion masiva de nuevos centros de datos - tema de escrutinio ESG creciente en toda la industria de infraestructura de IA (mismo tema ya identificado en SHAZ y ABNB).",
+          "notas": "Consumo energetico intensivo de la construcción masiva de nuevos centros de datos - tema de escrutinio ESG creciente en toda la industria de infraestructura de IA (mismo tema ya identificado en SHAZ y ABNB).",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados de 1T ano fiscal 2027; cualquier noticia adicional sobre la ejecucion-pago del contrato de OpenAI; posibles nuevas acciones de calificacion crediticia; actualizaciones de guidance de capex (ya elevado a aprox 70 mil millones USD de desembolso neto para el ano fiscal 2027).",
+          "notas": "Resultados de 1T ano fiscal 2027; cualquier noticia adicional sobre la ejecución-pago del contrato de OpenAI; posibles nuevas acciones de calificación crediticia; actualizaciones de guidance de capex (ya elevado a aprox 70 mil millones USD de desembolso neto para el ano fiscal 2027).",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "No investigado con profundidad en esta sesion (dato pendiente). La participacion de Ellison (aprox 40 a 42 por ciento) en si misma no ha cambiado de forma significativa segun las fuentes revisadas.",
+          "notas": "No investigado con profundidad en esta sesión (dato pendiente). La participación de Ellison (aprox 40 a 42 por ciento) en si misma no ha cambiado de forma significativa según las fuentes revisadas.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura amplia y mayormente alcista (44 a 55 analistas, consenso Compra, objetivo promedio reportado entre 225 y 247 USD), pero con dispersion EXTREMA (155 a 400 USD) que senala desacuerdo genuino sobre como valorar la apuesta de infraestructura de IA - la brecha grande entre el consenso alcista de Wall Street y el resultado de este DCF propio (fuertemente negativo) es la conclusion mas importante de esta ficha, similar en espiritu a la advertencia de \"posible trampa de valor\" de GuruFocus.",
+          "notas": "Cobertura amplia y mayormente alcista (44 a 55 analistas, consenso Compra, objetivo promedio reportado entre 225 y 247 USD), pero con dispersión EXTREMA (155 a 400 USD) que senala desacuerdo genuino sobre como valorar la apuesta de infraestructura de IA - la brecha grande entre el consenso alcista de Wall Street y el resultado de este DCF propio (fuertemente negativo) es la conclusión mas importante de esta ficha, similar en espiritu a la advertencia de \"posible trampa de valor\" de GuruFocus.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 2.6216216216216215,
-    "recomendacion": "NO COMPRAR - riesgo de concentracion de cliente unico (OpenAI) y apalancamiento elevado no compensados por el precio actual",
-    "tesis": "Negocio de base de datos empresarial excepcional financiando una apuesta extremadamente agresiva y endeudada en infraestructura de nube para IA (RPO +363 por ciento a 638 mil millones USD, FCF profundamente negativo, calificacion crediticia recien rebajada a un escalon de \"basura\"), con aprox la mitad de ese backlog concentrado en un solo cliente (OpenAI) cuya propia solidez financiera esta publicamente cuestionada - el precio actual parece pagar por una conversion exitosa del backlog sin descontar ese riesgo de concentracion."
+    "recomendacion": "NO COMPRAR - riesgo de concentración de cliente único (OpenAI) y apalancamiento elevado no compensados por el precio actual",
+    "tesis": "Negocio de base de datos empresarial excepcional financiando una apuesta extremadamente agresiva y endeudada en infraestructura de nube para IA (RPO +363 por ciento a 638 mil millones USD, FCF profundamente negativo, calificación crediticia recien rebajada a un escalon de \"basura\"), con aprox la mitad de ese backlog concentrado en un solo cliente (OpenAI) cuya propia solidez financiera esta publicamente cuestionada - el precio actual parece pagar por una conversión exitosa del backlog sin descontar ese riesgo de concentración."
   }
 }

@@ -1,36 +1,36 @@
 {
   "nombre": "Technology Select Sector SPDR Fund",
   "ticker": "XLK",
-  "categoria": "Equity Sector (tecnologia GICS, EXCLUYE Communication Services - sin GOOGL/META)",
+  "categoria": "Equity Sector (tecnología GICS, EXCLUYE Communication Services - sin GOOGL/META)",
   "emisor": "State Street (SPDR)",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA (misma metodologia '>=95% de activos' de la familia SPDR Select Sector, igual que XLU).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA (misma metodología '>=95% de activos' de la familia SPDR Select Sector, igual que XLU).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "100% empresas US (indice sectorial GICS Technology del S&P 500) - sin friccion fiscal internacional.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "100% empresas US (índice sectorial GICS Technology del S&P 500) - sin fricción fiscal internacional.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM entre $103bn y $123bn segun fuente/fecha (stockanalysis: $122.76bn) - ENORME, uno de los fondos mas grandes del proyecto, rivaliza con SCHD ($105bn), aunque menor que VGT ($147.3bn).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM entre $103bn y $123bn según fuente/fecha (stockanalysis: $122.76bn) - ENORME, uno de los fondos mas grandes del proyecto, rivaliza con SCHD ($105bn), aunque menor que VGT ($147.3bn).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 16-dic-1998 (~27.7 anios) - EMPATA con XLU (mismo dia exacto de lanzamiento, ambos parte del lote original de SPDR Select Sector Funds) como el track record MAS LARGO del proyecto. **UNICO ETF broad-tech del proyecto cuyo historial INCLUYE el estallido completo de la burbuja punto-com (2000-2002)** - VTV/VUG/VGT nacieron en 2004, ya post-crash, por lo que no tienen ese evento en su propia historia.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 16-dic-1998 (~27.7 años) - EMPATA con XLU (mismo dia exacto de lanzamiento, ambos parte del lote original de SPDR Select Sector Funds) como el track record MAS LARGO del proyecto. **ÚNICO ETF broad-tech del proyecto cuyo historial INCLUYE el estallido completo de la burbuja punto-com (2000-2002)** - VTV/VUG/VGT nacieron en 2004, ya post-crash, por lo que no tienen ese evento en su propia historia.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor State Street (SPDR) - TERCERA aparicion en el proyecto (XOP, XLU, ahora XLK).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor State Street (SPDR) - TERCERA aparición en el proyecto (XOP, XLU, ahora XLK).",
           "calificacion": 5
         }
       ],
@@ -40,34 +40,34 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.08% - de los mas baratos del proyecto (solo VTV/VUG a 0.03% son mas baratos), ligeramente MAS BARATO incluso que VGT (0.09%), su competidor mas directo en tesis.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado esta sesion.",
+          "notas": "Securities lending revenue no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rebalanceo TRIMESTRAL - misma familia SPDR Select Sector que XLU, conocimiento general bien establecido, no verificado con fuente primaria especifica de XLK esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL - misma familia SPDR Select Sector que XLU, conocimiento general bien establecido, no verificado con fuente primaria específica de XLK esta sesión.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 3,639,123 acciones (stockanalysis) x $187.20/accion (precio 10-ago-2026) = aprox $681.3M/dia - **NUEVO RECORD DE LIQUIDEZ DEL PROYECTO**, supera a XLU ($518.3M/dia, el record anterior de esta misma sesion).",
+          "notas": "Volumen diario = 3,639,123 acciones (stockanalysis) x $187.20/acción (precio 10-ago-2026) = aprox $681.3M/dia - **NUEVO RÉCORD DE LIQUIDEZ DEL PROYECTO**, supera a XLU ($518.3M/dia, el récord anterior de esta misma sesión).",
           "calificacion": 5
         },
         {
@@ -76,8 +76,8 @@
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "76 holdings - notablemente MENOS diversificado que VGT (320+ holdings) pese a cubrir nominalmente 'el mismo' sector, porque el indice GICS Technology Select Sector es mas estrecho que el universo MSCI US IMI usado por VGT (y ademas EXCLUYE Communication Services, ver fila 34).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "76 holdings - notablemente MENOS diversificado que VGT (320+ holdings) pese a cubrir nominalmente 'el mismo' sector, porque el índice GICS Technology Select Sector es mas estrecho que el universo MSCI US IMI usado por VGT (y además EXCLUYE Communication Services, ver fila 34).",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 61.57% - concentracion ALTA, similar a SMH/CIBR, MAS concentrado que VGT (59.87%) pese a compartir la misma tesis general de tecnologia amplia.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 61.57% - concentración ALTA, similar a SMH/CIBR, MAS concentrado que VGT (59.87%) pese a compartir la misma tesis general de tecnología amplia.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% Information Technology por definicion (fondo sectorial GICS puro) - mismo criterio de puntuacion ya aplicado a otros sectoriales 100%-concentrados del proyecto (SOXX/SMH/VGT).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% Information Technology por definición (fondo sectorial GICS puro) - mismo criterio de puntuación ya aplicado a otros sectoriales 100%-concentrados del proyecto (SOXX/SMH/VGT).",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% empresas US - limpio pero sin diversificacion internacional (mismo criterio aplicado a SCHD/VGT).",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% empresas US - limpio pero sin diversificación internacional (mismo criterio aplicado a SCHD/VGT).",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Growth/tech puro, con una particularidad estructural real: XLK EXCLUYE 'Communication Services' (GOOGL, META NO estan en el fondo, fueron reclasificados fuera del sector GICS 'Technology' en 2018) - diferencia de composicion frente a indices mas amplios tipo S&P 500 tech-heavy o incluso frente al universo mas amplio de VGT.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Growth/tech puro, con una particularidad estructural real: XLK EXCLUYE 'Communication Services' (GOOGL, META NO estan en el fondo, fueron reclasificados fuera del sector GICS 'Technology' en 2018) - diferencia de composición frente a índices mas amplios tipo S&P 500 tech-heavy o incluso frente al universo mas amplio de VGT.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P Technology Select Sector Index - proveedor S&P, clasificacion GICS pura, 27.7 anios de trayectoria publica y estable, CON reglas de tope de concentracion conocidas para evitar que AAPL+MSFT dominen excesivamente el fondo (mecanismo de capping ya visto en la familia SPDR Select Sector).",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P Technology Select Sector Index - proveedor S&P, clasificación GICS pura, 27.7 años de trayectoria pública y estable, CON reglas de tope de concentración conocidas para evitar que AAPL+MSFT dominen excesivamente el fondo (mecanismo de capping ya visto en la familia SPDR Select Sector).",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo TRIMESTRAL (familia SPDR Select Sector, no verificado con fuente primaria especifica de XLK esta sesion).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo TRIMESTRAL (familia SPDR Select Sector, no verificado con fuente primaria específica de XLK esta sesión).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception = 10.44% anualizado en 27.7 anios - MENOR que VTV (9.77%)/VUG (12.30%)/VGT (15.16%) en SUS respectivas ventanas de 22.5 anios, PERO la comparacion no es directa: la ventana de XLK es 5+ anios mas larga e incluye el estallido punto-com completo (2000-2002), que arrastra el promedio anualizado hacia abajo pese al fuerte retorno 1Y reciente (+41.53%, el mejor de los ETFs 'core' broad-tech del proyecto en esa ventana).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception = 10.44% anualizado en 27.7 años - MENOR que VTV (9.77%)/VUG (12.30%)/VGT (15.16%) en SUS respectivas ventanas de 22.5 años, PERO la comparación no es directa: la ventana de XLK es 5+ años mas larga e incluye el estallido punto-com completo (2000-2002), que arrastra el promedio anualizado hacia abajo pese al fuerte retorno 1Y reciente (+41.53%, el mejor de los ETFs 'core' broad-tech del proyecto en esa ventana).",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Se encontro una cifra de volatilidad de 12.50% que se DESCARTO por implausiblemente baja (mismo patron ya visto en VYMI/XLU) - se uso 25.9% (otra fuente) como mas coherente con el beta (~1.3) y el perfil concentrado en semis/megacaps growth.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Se encontro una cifra de volatilidad de 12.50% que se DESCARTO por implausiblemente baja (mismo patrón ya visto en VYMI/XLU) - se uso 25.9% (otra fuente) como mas coherente con el beta (~1.3) y el perfil concentrado en semis/megacaps growth.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -82.05% desde inception, ocurrido durante el estallido de la burbuja punto-com (2000-2002) - severo, refleja un evento de hace 25+ anios con una composicion del indice muy distinta a la actual (mucho mas peso en telecom/hardware de esa era), no necesariamente representativo del riesgo estructural actual del fondo. Ventana mas reciente de 5 anios: -33.5% (misma fuente, mucho mas moderado).",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -82.05% desde inception, ocurrido durante el estallido de la burbuja punto-com (2000-2002) - severo, refleja un evento de hace 25+ años con una composición del índice muy distinta a la actual (mucho mas peso en telecom/hardware de esa era), no necesariamente representativo del riesgo estructural actual del fondo. Ventana mas reciente de 5 años: -33.5% (misma fuente, mucho mas moderado).",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 2.10 (cifra actual/reciente, unica fuente clara encontrada esta sesion, sin contraparte de largo plazo para contrastar) - fuerte, pero se trata con cautela por ser probablemente una ventana corta/reciente favorable dado el rally del sector en 2025-2026, no necesariamente representativa del riesgo-retorno de largo plazo del fondo (que incluye el crash punto-com).",
+          "notas": "Sharpe Ratio = 2.10 (cifra actual/reciente, única fuente clara encontrada esta sesión, sin contraparte de largo plazo para contrastar) - fuerte, pero se trata con cautela por ser probablemente una ventana corta/reciente favorable dado el rally del sector en 2025-2026, no necesariamente representativa del riesgo-retorno de largo plazo del fondo (que incluye el crash punto-com).",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 1.34 (stockanalysis) / 1.21 (5 anios semanal, otro agregador) - razonablemente consistentes, se uso el promedio (~1.28). **OVERLAP MASIVO**: 9 de los 10 holdings del top10 (NVDA 14.35%, AAPL 12.41%, MSFT 10.04%, AVGO 5.39%, AMD 4.11%, MU 3.70%, CSCO 3.15%, INTC 3.11%, AMAT 2.77%) YA analizados individualmente por el usuario, sumando **59.03% del fondo** - TERCER lugar en el ranking de overlap del proyecto (detras de SMH 61.86% y VUG 60.27%, por encima de VGT 57.73% y SOXX 52.63%). Solo Lam Research (LRCX, 2.53%) sin overlap.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.34 (stockanalysis) / 1.21 (5 años semanal, otro agregador) - razonablemente consistentes, se uso el promedio (~1.28). **OVERLAP MASIVO**: 9 de los 10 holdings del top10 (NVDA 14.35%, AAPL 12.41%, MSFT 10.04%, AVGO 5.39%, AMD 4.11%, MU 3.70%, CSCO 3.15%, INTC 3.11%, AMAT 2.77%) YA analizados individualmente por el usuario, sumando **59.03% del fondo** - TERCER lugar en el ranking de overlap del proyecto (detras de SMH 61.86% y VUG 60.27%, por encima de VGT 57.73% y SOXX 52.63%). Solo Lam Research (LRCX, 2.53%) sin overlap.",
           "calificacion": 1
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "27.7 anios de historial cubren MULTIPLES crisis de mercado completas incluyendo el estallido punto-com (unico entre los ETFs broad-tech del proyecto), 2008, 2020, 2022 - evidencia extensa aunque de un fondo con composicion muy distinta en cada era historica.",
+          "notas": "27.7 años de historial cubren MÚLTIPLES crisis de mercado completas incluyendo el estallido punto-com (único entre los ETFs broad-tech del proyecto), 2008, 2020, 2022 - evidencia extensa aunque de un fondo con composición muy distinta en cada era histórica.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 37.37x - caro, similar a VGT (38.3x)/VUG (36.65x), sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 37.37x - caro, similar a VGT (38.3x)/VUG (36.65x), sin percentil histórico propio verificado esta sesión.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 0.42%, Payout Ratio = 15.83% - MUY sostenible (bajo pero coherente con un perfil growth de reinversion). Distribucion TRIMESTRAL CONFIRMADA explicitamente por la fuente (dato limpio, sin el gotcha de la cifra 'mensual' dudosa que aparecio con XLU).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 0.42%, Payout Ratio = 15.83% - MUY sostenible (bajo pero coherente con un perfil growth de reinversión). Distribución TRIMESTRAL CONFIRMADA explícitamente por la fuente (dato limpio, sin el gotcha de la cifra 'mensual' dudosa que aparecio con XLU).",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - XLK es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION CABEZA A CABEZA CON VGT** (ya analizado en este workbook, fila 19 - mismo patron IHAK/CIBR, SOXX/SMH, XOP/CRAK, VTV/VUG, URA/URNM): XLK es LIGERAMENTE mas barato en TER (0.08% vs 0.09%), MUCHO mas liquido ($681M/dia vs $280.5M/dia) y tiene un historial MAS LARGO (27.7 vs 22.5 anios, incluyendo el crash punto-com que VGT no vivio) - PERO XLK esta MAS CONCENTRADO (top10 61.57% vs 59.87%, solo 76 holdings vs 320+) y tiene un overlap LIGERAMENTE MAYOR con la cartera del usuario (59.03% vs 57.73%). Ambos cubren esencialmente la MISMA tesis de tecnologia amplia para este usuario - la eleccion entre ambos es marginal, XLK gana en costo/liquidez/historial, VGT gana en diversificacion interna. | ACTUALIZACION posterior (XLC, fila 109): Communication Services Select Sector SPDR, el complemento EXACTO de XLK - contiene precisamente las exposiciones -META, GOOGL/GOOG- que XLK excluye por definicion GICS desde 2018. XLC esta AUN MAS concentrado que XLK -Top10 69.95% vs 61.57%-, con META+GOOGL+GOOG solos ~37-37.2% del fondo. Score XLC 3.18, por debajo de XLK 3.45. Juntos XLK+XLC reconstruyen aproximadamente la exposicion mega-cap tech/internet pre-reclasificacion GICS de 2018. Ver Ficha XLC fila 109 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN CABEZA A CABEZA CON VGT** (ya analizado en este workbook, fila 19 - mismo patrón IHAK/CIBR, SOXX/SMH, XOP/CRAK, VTV/VUG, URA/URNM): XLK es LIGERAMENTE mas barato en TER (0.08% vs 0.09%), MUCHO mas liquido ($681M/dia vs $280.5M/dia) y tiene un historial MAS LARGO (27.7 vs 22.5 años, incluyendo el crash punto-com que VGT no vivio) - PERO XLK esta MAS CONCENTRADO (top10 61.57% vs 59.87%, solo 76 holdings vs 320+) y tiene un overlap LIGERAMENTE MAYOR con la cartera del usuario (59.03% vs 57.73%). Ambos cubren esencialmente la MISMA tesis de tecnología amplia para este usuario - la elección entre ambos es marginal, XLK gana en costo/liquidez/historial, VGT gana en diversificación interna. | ACTUALIZASIÓN posterior (XLC, fila 109): Communication Services Select Sector SPDR, el complemento EXACTO de XLK - contiene precisamente las exposiciones -META, GOOGL/GOOG- que XLK excluye por definición GICS desde 2018. XLC esta AUN MAS concentrado que XLK -Top10 69.95% vs 61.57%-, con META+GOOGL+GOOG solos ~37-37.2% del fondo. Score XLC 3.18, por debajo de XLK 3.45. Juntos XLK+XLC reconstruyen aproximadamente la exposición mega-cap tech/internet pre-reclasificación GICS de 2018. Ver Ficha XLC fila 109 para el detalle completo.",
           "calificacion": 4
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: overlap MASIVO (59.03% del top10) con las mismas convicciones individuales de semis/tech ya cubiertas por VGT/SOXX/SMH y las acciones individuales del usuario (NVDA, AAPL, MSFT, AVGO, AMD, MU, CSCO, INTC, AMAT) - Satelite claramente REDUNDANTE, no anade diversificacion real sobre lo que VGT/SOXX/SMH ya cubren en este workbook.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: overlap MASIVO (59.03% del top10) con las mismas convicciones individuales de semis/tech ya cubiertas por VGT/SOXX/SMH y las acciones individuales del usuario (NVDA, AAPL, MSFT, AVGO, AMD, MU, CSCO, INTC, AMAT) - Satélite claramente REDUNDANTE, no anade diversificación real sobre lo que VGT/SOXX/SMH ya cubren en este workbook.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion de bajisimo costo y maxima liquidez al sector tech amplio de EEUU, con la particularidad de EXCLUIR Communication Services (GOOGL/META) - diferencia real de composicion frente a VGT, aunque el resultado final (overlap con la cartera del usuario) sea similar.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición de bajisimo costo y maxima liquidez al sector tech amplio de EEUU, con la particularidad de EXCLUIR Communication Services (GOOGL/META) - diferencia real de composición frente a VGT, aunque el resultado final (overlap con la cartera del usuario) sea similar.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) overlap MASIVO (59.03% del top10) con VGT/SOXX/SMH y las convicciones individuales ya tomadas por el usuario en semis/megacaps tech; (2) concentracion sectorial extrema (100% tech); (3) valoracion cara (P/E 37.4x) sin percentil historico propio; (4) UNICO ETF broad-tech del proyecto con un drawdown historico que incluye el colapso punto-com completo (-82%), recordatorio de que 'tech de calidad' tambien puede sufrir colapsos extremos en un cambio de regimen de mercado, aunque el evento especifico tiene 25+ anios de antiguedad.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap MASIVO (59.03% del top10) con VGT/SOXX/SMH y las convicciones individuales ya tomadas por el usuario en semis/megacaps tech; (2) concentración sectorial extrema (100% tech); (3) valoración cara (P/E 37.4x) sin percentil histórico propio; (4) ÚNICO ETF broad-tech del proyecto con un drawdown histórico que incluye el colapso punto-com completo (-82%), recordatorio de que 'tech de calidad' también puede sufrir colapsos extremos en un cambio de régimen de mercado, aunque el evento específico tiene 25+ años de antigüedad.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "VGT ya analizado y comparado en detalle en la fila 50. QQQ (Invesco, Nasdaq-100, mas amplio en composicion -incluye Communication Services y Consumer Discretionary- pero con overlap presumiblemente similar) identificado como candidato adicional para una futura comparacion, sin verificar con datos propios esta sesion.",
+          "notas": "VGT ya analizado y comparado en detalle en la fila 50. QQQ (Invesco, Nasdaq-100, mas amplio en composición -incluye Communication Services y Consumer Discretionary- pero con overlap presumiblemente similar) identificado como candidato adicional para una futura comparación, sin verificar con datos propios esta sesión.",
           "calificacion": 3
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER - no agregar. Score 3.45/5, zona intermedia alta (3.0-3.5), muy cerca del umbral de 'acumular' (3.5). Mismo patron ya bien establecido en el proyecto (CIBR/SOXX/SMH/VUG/VGT): calidad ESTRUCTURAL EXCEPCIONAL (TER de los mas bajos del proyecto 0.08%, liquidez RECORD del proyecto $681M/dia, el track record MAS LARGO junto con XLU -27.7 anios, incluyendo el UNICO historial del proyecto que vivio el crash punto-com completo-) arrastrada por un overlap MASIVO (59.03% del top10, 9 de 10 nombres: NVDA/AAPL/MSFT/AVGO/AMD/MU/CSCO/INTC/AMAT ya analizados individualmente) - el problema dominante es REDUNDANCIA DE CARTERA, no calidad del vehiculo ni timing de valoracion. Comparacion cabeza a cabeza verificada con VGT (fila 19, tambien actualizada retroactivamente en su Ficha C50): ambos ETFs cubren esencialmente la MISMA tesis de tecnologia amplia para este usuario - XLK gana en costo/liquidez/track record, VGT gana en diversificacion interna (320+ holdings vs 76) y overlap ligeramente menor. Para este usuario, sumar XLK encima de VGT (si ya lo tuviera) o encima de las posiciones individuales ya tomadas en semis/megacaps no anadiria diversificacion real."
+    "tesis": "MANTENER - no agregar. Score 3.45/5, zona intermedia alta (3.0-3.5), muy cerca del umbral de 'acumular' (3.5). Mismo patrón ya bien establecido en el proyecto (CIBR/SOXX/SMH/VUG/VGT): calidad ESTRUCTURAL EXCEPCIONAL (TER de los mas bajos del proyecto 0.08%, liquidez RÉCORD del proyecto $681M/dia, el track record MAS LARGO junto con XLU -27.7 años, incluyendo el ÚNICO historial del proyecto que vivio el crash punto-com completo-) arrastrada por un overlap MASIVO (59.03% del top10, 9 de 10 nombres: NVDA/AAPL/MSFT/AVGO/AMD/MU/CSCO/INTC/AMAT ya analizados individualmente) - el problema dominante es REDUNDANCIA DE CARTERA, no calidad del vehículo ni timing de valoración. Comparación cabeza a cabeza verificada con VGT (fila 19, también actualizada retroactivamente en su Ficha C50): ambos ETFs cubren esencialmente la MISMA tesis de tecnología amplia para este usuario - XLK gana en costo/liquidez/track record, VGT gana en diversificación interna (320+ holdings vs 76) y overlap ligeramente menor. Para este usuario, sumar XLK encima de VGT (si ya lo tuviera) o encima de las posiciones individuales ya tomadas en semis/megacaps no anadiria diversificación real."
   }
 }

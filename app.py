@@ -186,16 +186,16 @@ def card(titulo, valor):
 # o " / "), con sinónimos evidentes normalizados a un mismo bucket.
 _SECTOR_AMPLIO_SINONIMOS = {
     "FINANCIERO": "Servicios Financieros",
-    "MATERIALES": "Materiales Basicos",
+    "MATERIALES": "Materiales Básicos",
     "INDUSTRIAL": "Industriales",
     "INDUSTRIAL-TECNOLOGIA": "Industriales",
     "CONSUMO BASICO": "Consumo Defensivo",
-    "SEMICONDUCTORES": "Tecnologia",
-    "TECNOLOGIA/COMUNICACION": "Tecnologia",
-    "TECNOLOGÍA/SEMICONDUCTORES": "Tecnologia",
-    "TELECOMUNICACIONES (COMMUNICATION SERVICES)": "Servicios de Comunicacion",
-    "COMMUNICATION SERVICES": "Servicios de Comunicacion",
-    "MEDIOS": "Servicios de Comunicacion",
+    "SEMICONDUCTORES": "Tecnología",
+    "TECNOLOGIA/COMUNICACION": "Tecnología",
+    "TECNOLOGÍA/SEMICONDUCTORES": "Tecnología",
+    "TELECOMUNICACIONES (COMMUNICATION SERVICES)": "Servicios de Comunicación",
+    "COMMUNICATION SERVICES": "Servicios de Comunicación",
+    "MEDIOS": "Servicios de Comunicación",
 }
 
 
@@ -388,9 +388,9 @@ def _mostrar_analisis_fundamental():
     fcol1, fcol2, fcol3 = st.columns([1.3, 1.3, 1.6])
     with fcol1:
         f_val = st.selectbox(
-            "Valoración (Margen de Seguridad)",
-            ["Todas", "💎 Infravalorada (MoS ≥ +15%)", "⚖️ Rango razonable (-15% a +15%)",
-             "🔺 Sobrevalorada (MoS ≤ -15%)", "❓ Sin dato de valoración"],
+            "Valoración (¿cara o barata?)",
+            ["Todas", "💎 Infravalorada — barata (≥ +15%)", "⚖️ Rango razonable (-15% a +15%)",
+             "🔺 Sobrevalorada — cara (≤ -15%)", "❓ Sin dato de valoración"],
             key="fx_val",
         )
     with fcol2:
@@ -406,9 +406,9 @@ def _mostrar_analisis_fundamental():
 
     _VAL_MAP = {
         "Todas": None,
-        "💎 Infravalorada (MoS ≥ +15%)": "infravalorada",
+        "💎 Infravalorada — barata (≥ +15%)": "infravalorada",
         "⚖️ Rango razonable (-15% a +15%)": "razonable",
-        "🔺 Sobrevalorada (MoS ≤ -15%)": "sobrevalorada",
+        "🔺 Sobrevalorada — cara (≤ -15%)": "sobrevalorada",
         "❓ Sin dato de valoración": "sin_dato",
     }
     banda_filtro = _VAL_MAP[f_val]
@@ -429,17 +429,17 @@ def _mostrar_analisis_fundamental():
     st.markdown(
         f'<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:6px">'
         f'<span style="font-size:20px;font-weight:700;color:#111827">🧭 Mi Análisis Fundamental</span>'
-        f'<span style="font-size:13px;color:#94a3b8">{conteo_txt} · basado en tu propio DCF, no en datos en vivo</span>'
+        f'<span style="font-size:13px;color:#94a3b8">{conteo_txt} · basado en tu propio análisis, no en datos automáticos en tiempo real</span>'
         f'</div>',
         unsafe_allow_html=True,
     )
-    st.caption("Clasificadas por Margen de Seguridad (precio actual vs. valor intrínseco de tu DCF).")
+    st.caption("Ordenadas según qué tan cara o barata está cada empresa hoy: comparamos el precio actual contra lo que vale de verdad, según tu propio análisis.")
 
     _BANDAS_VAL = [
-        ("infravalorada",  "#2ea87e", "💎 INFRAVALORADA",      "Margen de Seguridad ≥ +15%"),
-        ("razonable",      "#b07d2a", "⚖️ RANGO RAZONABLE",    "Margen de Seguridad entre -15% y +15%"),
-        ("sobrevalorada",  "#c0392b", "🔺 SOBREVALORADA",      "Margen de Seguridad ≤ -15%"),
-        ("sin_dato",       "#64748b", "❓ SIN DATO DE VALORACIÓN", "Especulativas, situaciones especiales u otras sin DCF"),
+        ("infravalorada",  "#2ea87e", "💎 INFRAVALORADA",      "Está más barata de lo que debería — según tu análisis, buena oportunidad para mirar de cerca"),
+        ("razonable",      "#b07d2a", "⚖️ RANGO RAZONABLE",    "El precio está en línea con lo que vale la empresa: ni muy cara ni muy barata"),
+        ("sobrevalorada",  "#c0392b", "🔺 SOBREVALORADA",      "Está más cara de lo que debería — conviene tener cuidado antes de comprar"),
+        ("sin_dato",       "#64748b", "❓ SIN DATO DE VALORACIÓN", "Casos especiales o sin suficiente información para saber si está cara o barata"),
     ]
 
     for clave, color, etiqueta, descripcion in _BANDAS_VAL:
@@ -501,7 +501,7 @@ def _mostrar_analisis_fundamental():
                         st.rerun()
 
     st.markdown("---")
-    st.caption("Margen de Seguridad = (Valor Intrínseco DCF − Precio Actual) / Precio Actual. \"≈\" indica un valor normalizado por heurística durante la exportación del Excel — verificar contra la Ficha si está cerca de un umbral.")
+    st.caption("Margen de Seguridad: cuánto más barata (positivo) o más cara (negativo) está la empresa hoy, comparado con lo que vale de verdad según tu análisis. El símbolo \"≈\" marca un valor aproximado — si está cerca del límite entre dos categorías, conviene revisar la ficha completa.")
 
 
 def _mostrar_detalle_excel(ticker: str):
@@ -546,7 +546,7 @@ def _mostrar_detalle_excel(ticker: str):
         f'<div style="display:flex;gap:24px;margin-top:16px;flex-wrap:wrap">'
         f'<div><div style="font-size:10.5px;color:#4b5563;text-transform:uppercase">Precio Actual</div>'
         f'<div style="font-size:17px;font-weight:700;color:#111827">${fmt(emp.get("precio_actual"))}</div></div>'
-        f'<div><div style="font-size:10.5px;color:#4b5563;text-transform:uppercase">Valor Intrínseco (DCF)</div>'
+        f'<div><div style="font-size:10.5px;color:#4b5563;text-transform:uppercase">Valor Real Estimado</div>'
         f'<div style="font-size:17px;font-weight:700;color:#111827">${fmt(emp.get("valor_intrinseco"))}</div></div>'
         f'<div><div style="font-size:10.5px;color:#4b5563;text-transform:uppercase">Margen de Seguridad</div>'
         f'<div style="font-size:17px;font-weight:700;color:{mos_color}">{mos_str}</div></div>'
@@ -557,7 +557,7 @@ def _mostrar_detalle_excel(ticker: str):
 
     st.link_button("📡 Ver cotización en vivo en Yahoo Finance →", f"https://finance.yahoo.com/quote/{ticker}")
 
-    st.markdown("#### Métricas clave del Dashboard")
+    st.markdown("#### Métricas clave")
     _m_cards = [
         ("P/E", fmt(emp.get("pe"))),
         ("EV/EBITDA", fmt(emp.get("ev_ebitda"))),
@@ -577,6 +577,20 @@ def _mostrar_detalle_excel(ticker: str):
         for j, (lbl, val) in enumerate(_m_cards[i:i + 4]):
             with cols[j]:
                 st.markdown(card(lbl, val), unsafe_allow_html=True)
+
+    with st.expander("ℹ️ ¿Qué significa cada métrica? (explicado simple)"):
+        st.markdown("""
+- **P/E**: cuántos años de ganancias actuales pagás por la acción. Más bajo suele ser más barato.
+- **EV/EBITDA**: parecido al P/E, pero compara el valor total de la empresa (incluyendo su deuda) contra sus ganancias operativas.
+- **P/FCF**: cuánto pagás por cada peso de efectivo real que genera el negocio (no solo ganancia contable).
+- **Deuda Neta/EBITDA**: cuántos años de ganancias operativas necesitaría la empresa para pagar toda su deuda. Más bajo es más sano.
+- **Margen Bruto / Operativo / Neto**: de cada $100 que factura la empresa, cuánto le queda como ganancia en cada etapa (después de costos directos, después de gastos operativos, y al final de todo).
+- **ROE**: cuánta ganancia genera la empresa por cada $100 que pusieron los dueños (accionistas). Más alto es mejor.
+- **ROIC**: parecido al ROE, pero mide el retorno sobre todo el capital invertido en el negocio (propio + deuda).
+- **CAGR Ingresos 5y**: cuánto crecieron las ventas, en promedio, cada año durante los últimos 5 años.
+- **FCF Yield**: cuánto efectivo real genera la empresa cada año, como porcentaje de lo que cuesta comprarla hoy.
+- **Razón Corriente**: cuánta plata líquida tiene la empresa para pagar sus deudas de corto plazo. Arriba de 1 es una señal saludable.
+""")
 
     st.markdown("---")
     st.markdown("#### Ficha detallada — 10 secciones del análisis")
@@ -611,12 +625,12 @@ def _mostrar_detalle_excel(ticker: str):
 # (AUM, TER, rendimiento, riesgo) en vez de márgenes/ROE/DCF.
 
 _BANDAS_ETF = [
-    ("MANTENER",         "#2ea87e", "✅ MANTENER / ACUMULAR",  "Postura de portafolio: continuar o sumar gradualmente"),
-    ("ESPERAR ENTRADA",  "#b07d2a", "⏳ ESPERAR MEJOR ENTRADA", "Fundamentos ok, pero la valoración actual no es el punto de entrada ideal"),
-    ("SATÉLITE TÁCTICO", "#6b5ecd", "🛰️ SATÉLITE TÁCTICO",    "Solo como posición táctica pequeña, no como core del portafolio"),
-    ("REDUCIR/VENDER",   "#c0392b", "🔻 REDUCIR / VENDER",     "Señales para reducir exposición o salir de la posición"),
-    ("NO APTO",          "#7c2d3a", "⛔ NO APTO",              "Riesgo estructural (decay, apalancamiento, etc.) descarta el ETF para el core"),
-    ("SIN CLASIFICAR",   "#64748b", "❓ SIN CLASIFICAR",       "Decisión no clasificada automáticamente"),
+    ("MANTENER",         "#2ea87e", "✅ MANTENER / ACUMULAR",  "Vas bien encaminado: podés mantenerlo o seguir sumando de a poco"),
+    ("ESPERAR ENTRADA",  "#b07d2a", "⏳ ESPERAR MEJOR ENTRADA", "Es un buen fondo, pero hoy no es el mejor momento para comprar — convendría esperar un precio mejor"),
+    ("SATÉLITE TÁCTICO", "#6b5ecd", "🛰️ SATÉLITE TÁCTICO",    "Solo como una porción chica de tu cartera, no como base principal de tu inversión"),
+    ("REDUCIR/VENDER",   "#c0392b", "🔻 REDUCIR / VENDER",     "Señales para bajar tu exposición o salir de esta posición"),
+    ("NO APTO",          "#7c2d3a", "⛔ NO APTO",              "Tiene un riesgo de fondo (por ejemplo, pierde valor con el tiempo por cómo está diseñado) que lo descarta como inversión principal"),
+    ("SIN CLASIFICAR",   "#64748b", "❓ SIN CLASIFICAR",       "No se pudo clasificar esta decisión automáticamente"),
 ]
 
 
@@ -647,7 +661,7 @@ def _mostrar_analisis_fundamental_etfs():
     fcol1, fcol2, fcol3 = st.columns([1.3, 1.3, 1.6])
     with fcol1:
         f_postura = st.selectbox(
-            "Postura",
+            "Recomendación",
             ["Todas"] + [b[0] for b in _BANDAS_ETF],
             key="fx_etf_postura",
         )
@@ -682,7 +696,7 @@ def _mostrar_analisis_fundamental_etfs():
         f'</div>',
         unsafe_allow_html=True,
     )
-    st.caption("Clasificados por postura de portafolio (sin DCF/WACC: un ETF es una canasta, no un negocio con flujos propios).")
+    st.caption("Un ETF es una canasta de muchas inversiones, no una sola empresa, así que no se valora igual que una acción: acá se clasifica según la recomendación de tu propio análisis, no por un cálculo de valor intrínseco.")
 
     for clave, color, etiqueta, descripcion in _BANDAS_ETF:
         etfs = [e for e in filtrados if e.get("decision_badge") == clave]
@@ -743,7 +757,7 @@ def _mostrar_analisis_fundamental_etfs():
                         st.rerun()
 
     st.markdown("---")
-    st.caption("Costo Total Real = TER + spread + tracking difference estimados. La postura de portafolio refleja tu propio análisis, no una recomendación genérica.")
+    st.caption("El \"Costo Total Real\" suma todo lo que te cuesta tener el ETF: la comisión anual del fondo más otros costos ocultos (diferencia de precio al comprar/vender, desvío frente a su índice). La postura refleja tu propio análisis, no una recomendación genérica.")
 
 
 def _mostrar_detalle_etf(ticker: str):
@@ -786,7 +800,7 @@ def _mostrar_detalle_etf(ticker: str):
         f'<div style="display:flex;gap:24px;margin-top:16px;flex-wrap:wrap">'
         f'<div><div style="font-size:10.5px;color:#4b5563;text-transform:uppercase">AUM</div>'
         f'<div style="font-size:17px;font-weight:700;color:#111827">{_fmt_aum(emp.get("aum_b"))}</div></div>'
-        f'<div><div style="font-size:10.5px;color:#4b5563;text-transform:uppercase">Expense Ratio (TER)</div>'
+        f'<div><div style="font-size:10.5px;color:#4b5563;text-transform:uppercase">Comisión Anual (TER)</div>'
         f'<div style="font-size:17px;font-weight:700;color:#111827">{_fmt_pct_directo(emp.get("ter_pct"))}</div></div>'
         f'<div><div style="font-size:10.5px;color:#4b5563;text-transform:uppercase">Dividend Yield</div>'
         f'<div style="font-size:17px;font-weight:700;color:#111827">{_fmt_pct_directo(emp.get("dividend_yield_pct"))}</div></div>'
@@ -797,17 +811,17 @@ def _mostrar_detalle_etf(ticker: str):
 
     st.link_button("📡 Ver cotización en vivo en Yahoo Finance →", f"https://finance.yahoo.com/quote/{ticker}")
 
-    st.markdown("#### Métricas clave del ETF")
+    st.markdown("#### Métricas clave")
     _m_cards = [
         ("AUM", _fmt_aum(emp.get("aum_b"))),
-        ("Expense Ratio (TER)", _fmt_pct_directo(emp.get("ter_pct"))),
+        ("Comisión Anual (TER)", _fmt_pct_directo(emp.get("ter_pct"))),
         ("Costo Total Real Est.", _fmt_pct_directo(emp.get("costo_total_real_pct"))),
         ("Dividend Yield", _fmt_pct_directo(emp.get("dividend_yield_pct"))),
         ("Rent. 1 año", _fmt_pct_directo(emp.get("rent_1y_pct"))),
         ("Rent. 5 años (anual.)", _fmt_pct_directo(emp.get("rent_5y_pct"))),
-        ("Rent. 10Y/Incepción (anual.)", _fmt_pct_directo(emp.get("rent_10y_pct"))),
+        ("Rent. 10 años/desde inicio (anual.)", _fmt_pct_directo(emp.get("rent_10y_pct"))),
         ("Volatilidad anualizada", _fmt_pct_directo(emp.get("volatilidad_pct"))),
-        ("Máx. Drawdown", _fmt_pct_directo(emp.get("max_drawdown_pct"))),
+        ("Caída Máxima Histórica", _fmt_pct_directo(emp.get("max_drawdown_pct"))),
         ("Sharpe Ratio", fmt(emp.get("sharpe_ratio"))),
         ("Beta vs S&P 500", fmt(emp.get("beta_sp500"))),
         ("P/E Ponderado", fmt(emp.get("pe_ponderado"))),
@@ -819,6 +833,21 @@ def _mostrar_detalle_etf(ticker: str):
         for j, (lbl, val) in enumerate(_m_cards[i:i + 4]):
             with cols[j]:
                 st.markdown(card(lbl, val), unsafe_allow_html=True)
+
+    with st.expander("ℹ️ ¿Qué significa cada métrica? (explicado simple)"):
+        st.markdown("""
+- **AUM**: cuánto dinero total tiene invertido la gente en este ETF. Más grande suele significar más estabilidad y facilidad para comprar/vender.
+- **Comisión Anual (TER)**: el % que te cobra el fondo cada año solo por tenerlo, se descuenta automáticamente del rendimiento.
+- **Costo Total Real Est.**: la comisión anual más otros costos ocultos (ver nota más abajo).
+- **Dividend Yield**: cuánto te paga en dividendos al año, como % de lo que cuesta hoy.
+- **Rentabilidad (1, 5, 10 años)**: cuánto subió (o bajó) el precio en cada período, en promedio por año.
+- **Volatilidad anualizada**: cuánto sube y baja el precio en el camino. Más alto significa más movimiento (más riesgo a corto plazo).
+- **Caída Máxima Histórica**: la peor baja que tuvo el fondo desde un máximo hasta un mínimo posterior — te da una idea de "lo peor que podría pasar".
+- **Sharpe Ratio**: qué tan bien te paga el fondo por el riesgo que tomás. Más alto es mejor.
+- **Beta vs S&P 500**: qué tanto se mueve el fondo comparado con el mercado general de EE.UU. 1.0 = se mueve igual; más de 1.0 = se mueve más fuerte (para arriba y para abajo).
+- **P/E Ponderado**: en promedio, cuántos años de ganancias pagás por las empresas que componen el fondo.
+- **Top 10 Holdings**: qué porcentaje del fondo está concentrado en sus 10 posiciones más grandes. Más alto significa menos diversificación.
+""")
 
     st.markdown("---")
     st.markdown("#### Ficha detallada")
@@ -904,7 +933,7 @@ def _mostrar_ranking_excel():
         f'</div>',
         unsafe_allow_html=True,
     )
-    st.caption("Ordenadas de mayor a menor score global de tu Excel.")
+    st.caption("Ordenadas de mayor a menor puntaje, según tu propio análisis.")
 
     for lo, hi, color, etiqueta, descripcion in _BANDAS_SCORE:
         empresas = [e for e in filtrados if e.get("score_total") is not None and lo <= e["score_total"] < hi]
@@ -960,7 +989,7 @@ def _mostrar_ranking_excel():
                         st.rerun()
 
     st.markdown("---")
-    st.caption("El score y el Margen de Seguridad (MoS) provienen de tu propio análisis en Excel.")
+    st.caption("El puntaje y el Margen de Seguridad vienen de tu propio análisis, no de datos automáticos.")
 
 
 def _mostrar_ranking_etfs():
@@ -1005,7 +1034,7 @@ def _mostrar_ranking_etfs():
         f'</div>',
         unsafe_allow_html=True,
     )
-    st.caption("Ordenados de mayor a menor score global de tu Excel.")
+    st.caption("Ordenados de mayor a menor puntaje, según tu propio análisis.")
 
     for lo, hi, color, etiqueta, descripcion in _BANDAS_SCORE:
         etfs = [e for e in filtrados if e.get("score_total") is not None and lo <= e["score_total"] < hi]
@@ -1061,7 +1090,7 @@ def _mostrar_ranking_etfs():
                         st.rerun()
 
     st.markdown("---")
-    st.caption("El score y las métricas provienen de tu propio análisis en Excel.")
+    st.caption("El puntaje y las métricas vienen de tu propio análisis, no de datos automáticos.")
 
 
 # ── SIDEBAR ──────────────────────────────────────────────────────────────────

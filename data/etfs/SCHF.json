@@ -1,36 +1,36 @@
 {
   "nombre": "Schwab International Equity ETF",
   "ticker": "SCHF",
-  "categoria": "Equity Indice Amplio (TODOS los mercados DESARROLLADOS ex-US -incluye Japon, Europa, Corea del Sur, Canada; excluye Taiwan por clasificacion FTSE-, FTSE Developed ex US - fondo PADRE del cluster de pais unico/regional desarrollado del proyecto)",
+  "categoria": "Equity Índice Amplio (TODOS los mercados DESARROLLADOS ex-US -incluye Japon, Europa, Corea del Sur, Canada; excluye Taiwan por clasificación FTSE-, FTSE Developed ex US - fondo PADRE del cluster de pais único/regional desarrollado del proyecto)",
   "emisor": "Charles Schwab",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA por MUESTREO OPTIMIZADO (Trackinsight).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA por MUESTREO OPTIMIZADO (Trackinsight).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, exposicion MULTI-PAIS a TODOS los mercados desarrollados ex-US (Japon, Europa, Corea del Sur, Canada, Australia) - riesgo cambiario MULTI-DIVISA extremo sin cobertura (JPY, EUR, GBP, KRW, CAD, AUD, etc.).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, exposición MULTI-PAIS a TODOS los mercados desarrollados ex-US (Japon, Europa, Corea del Sur, Canada, Australia) - riesgo cambiario MULTI-DIVISA extremo sin cobertura (JPY, EUR, GBP, KRW, CAD, AUD, etc.).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM ~$58.97-67.52bn (stockanalysis $67.52bn, Trackinsight EUR58.97bn~$64bn) - **MUY GRANDE**, uno de los fondos mas grandes de todo el proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 3-nov-2009 (~16.8 anios) - nace DESPUES de la Crisis Financiera 2008 (meses despues del fondo de mercado de mar-2009), por lo que su historial de drawdown NO incluye esa crisis, a diferencia de FEZ/EZU/VGK/EFV.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 3-nov-2009 (~16.8 años) - nace DESPUÉS de la Crisis Financiera 2008 (meses después del fondo de mercado de mar-2009), por lo que su historial de drawdown NO incluye esa crisis, a diferencia de FEZ/EZU/VGK/EFV.",
           "calificacion": 3
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Charles Schwab - **SEGUNDA aparicion en el proyecto** (la primera fue SCHD, el PRIMER ETF analizado en todo el workbook).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Charles Schwab - **SEGUNDA aparición en el proyecto** (la primera fue SCHD, el PRIMER ETF analizado en todo el workbook).",
           "calificacion": 5
         }
       ],
@@ -40,111 +40,111 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER: **DISCREPANCIA ENTRE FUENTES** - stockanalysis y Trackinsight coinciden independientemente en 0.03% (fuentes de datos primarias), pero otra fuente de sintesis reporta 0.06% - se prioriza la cifra de las dos fuentes primarias coincidentes (0.03%), notando la discrepancia explicitamente. En cualquier caso, **DE LOS MAS BARATOS DE TODO EL PROYECTO**.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER: **DISCREPANCIA ENTRE FUENTES** - stockanalysis y Trackinsight coinciden independientemente en 0.03% (fuentes de datos primarias), pero otra fuente de sintesis reporta 0.06% - se prioriza la cifra de las dos fuentes primarias coincidentes (0.03%), notando la discrepancia explícitamente. En cualquier caso, **DE LOS MAS BARATOS DE TODO EL PROYECTO**.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice FTSE Developed ex US - rebalanceo tipicamente semestral de FTSE Russell (mismo proveedor que VXUS/VEU/VGK/VWO en el proyecto), no confirmado con fuente primaria especifica de SCHF esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice FTSE Developed ex US - rebalanceo tipicamente semestral de FTSE Russell (mismo proveedor que VXUS/VEU/VGK/VWO en el proyecto), no confirmado con fuente primaria específica de SCHF esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario promedio = 1.69M acciones/dia, ~$47-48M/dia (calculado) - moderado, menor que otros fondos grandes del proyecto pero razonable dado el tamano del fondo.",
+          "notas": "Volumen diario promedio = 1.69M acciones/dia, ~$47-48M/dia (calculado) - moderado, menor que otros fondos grandes del proyecto pero razonable dado el tamaño del fondo.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask = 0.04% (4 puntos basicos, mediana 30 dias) - ajustado.",
+          "notas": "Spread bid-ask = 0.04% (4 puntos básicos, mediana 30 dias) - ajustado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Charles Schwab - profundidad de Authorized Participants solida, aunque de menor escala institucional historica que BlackRock/Vanguard en el mercado internacional de ETFs.",
+          "notas": "Charles Schwab - profundidad de Authorized Participants sólida, aunque de menor escala institucional histórica que BlackRock/Vanguard en el mercado internacional de ETFs.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "1,429 (Trackinsight) a 1,493 (stockanalysis) holdings - buena diversificacion interna.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "1,429 (Trackinsight) a 1,493 (stockanalysis) holdings - buena diversificación interna.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 no sumado completamente por las fuentes, pero dominado por Samsung Electronics (3.54-3.70%, LA POSICION MAS GRANDE) + SK hynix (3.15-3.19%, SEGUNDA) + ASML (2.34-2.47%, TERCERA) = ~9-9.4% del fondo en solo tres nombres, moderado.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 no sumado completamente por las fuentes, pero dominado por Samsung Electronics (3.54-3.70%, LA POSISIÓN MAS GRANDE) + SK hynix (3.15-3.19%, SEGUNDA) + ASML (2.34-2.47%, TERCERA) = ~9-9.4% del fondo en solo tres nombres, moderado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Finance 26.98% (maximo), Technology 18.60%, Industrials 14.37%, resto diversificado entre Healthcare/Materials/Consumer Non-Cyclicals/Consumer Cyclicals/Energy/Utilities/Telecom (todos <8%) - buena diversificacion sectorial.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Finance 26.98% (máximo), Technology 18.60%, Industrials 14.37%, resto diversificado entre Healthcare/Materials/Consumer Non-Cyclicals/Consumer Cyclicals/Energy/Utilities/Telecom (todos <8%) - buena diversificación sectorial.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Geografia primaria: Japon, Reino Unido y **Corea del Sur** (iShares/Schwab) - **cobertura EXTREMADAMENTE AMPLIA de mercados desarrollados** (Japon+Europa+Corea+Canada -via Royal Bank of Canada en el top10-+Australia), CONFIRMANDO que FTSE clasifica a Corea del Sur como mercado DESARROLLADO (mismo hallazgo estructural ya documentado con VWO, que EXCLUYE Corea por la misma razon FTSE) - Taiwan permanece EXCLUIDO por seguir clasificado 'Advanced Emerging' por FTSE.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Geografia primaria: Japon, Reino Unido y **Corea del Sur** (iShares/Schwab) - **cobertura EXTREMADAMENTE AMPLIA de mercados desarrollados** (Japon+Europa+Corea+Canada -via Royal Bank of Canada en el top10-+Australia), CONFIRMANDO que FTSE clasifica a Corea del Sur como mercado DESARROLLADO (mismo hallazgo estructural ya documentado con VWO, que EXCLUYE Corea por la misma razón FTSE) - Taiwan permanece EXCLUIDO por seguir clasificado 'Advanced Emerging' por FTSE.",
           "calificacion": 5
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
           "notas": "Blend puro, sin sesgo de factor (a diferencia de EFV -value- o SCZ -small-cap-, ambos ya en el workbook).",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice FTSE Developed ex US - proveedor FTSE Russell (mismo que VXUS/VEU/VGK/VWO), metodologia transparente, cobertura de TODOS los mercados desarrollados fuera de EEUU en un solo vehiculo (con la excepcion de Taiwan).",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice FTSE Developed ex US - proveedor FTSE Russell (mismo que VXUS/VEU/VGK/VWO), metodología transparente, cobertura de TODOS los mercados desarrollados fuera de EEUU en un solo vehículo (con la excepción de Taiwan).",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de SCHF esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de SCHF esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (16.8 anios) = 5.722% anualizado - modesto. Retorno 1Y = +30.03% - fuerte, consistente con el rally global de renta variable internacional ya documentado extensamente en el resto del proyecto esta sesion.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (16.8 años) = 5.722% anualizado - modesto. Retorno 1Y = +30.03% - fuerte, consistente con el rally global de renta variable internacional ya documentado extensamente en el resto del proyecto esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad: desde inception = 18.2%, reciente (1Y) = 17.07% - razonablemente consistentes entre si, plausibles.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -34.9% desde inception - **NOTABLEMENTE MENOS SEVERO que el cluster europeo/EFV** (FEZ -64.21%, EZU -65.32%, VGK -63.61%, EFV -63.94%), explicado DIRECTAMENTE por la ventana mas corta que NO incluye la Crisis 2008 (SCHF nacio meses despues del fondo de mercado de mar-2009) - mismo tipo de gotcha de ventana ya documentado extensamente en el proyecto (IEUR vs FEZ/EZU/VGK) - el numero aparentemente mejor no refleja necesariamente mayor resiliencia estructural real.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -34.9% desde inception - **NOTABLEMENTE MENOS SEVERO que el cluster europeo/EFV** (FEZ -64.21%, EZU -65.32%, VGK -63.61%, EFV -63.94%), explicado DIRECTAMENTE por la ventana mas corta que NO incluye la Crisis 2008 (SCHF nacio meses después del fondo de mercado de mar-2009) - mismo tipo de gotcha de ventana ya documentado extensamente en el proyecto (IEUR vs FEZ/EZU/VGK) - el número aparentemente mejor no refleja necesariamente mayor resiliencia estructural real.",
           "calificacion": 3
         },
         {
@@ -153,40 +153,40 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.83. **OVERLAP CONFIRMADO Y SIGNIFICATIVO: SK hynix (3.15-3.19%, LA SEGUNDA POSICION MAS GRANDE del fondo completo) YA analizada individualmente con Recomendacion NO COMPRAR por superciclo de IA** + ASML (2.34-2.47%, tercera posicion, tambien analizada individualmente) = **~5.5-5.7% del fondo COMPLETO en overlap confirmado**, con SK hynix cargando la advertencia de valoracion mas severa (Margen de Seguridad -73.1%) ya documentada con EWY.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.83. **OVERLAP CONFIRMADO Y SIGNIFICATIVO: SK hynix (3.15-3.19%, LA SEGUNDA POSISIÓN MAS GRANDE del fondo completo) YA analizada individualmente con Recomendación NO COMPRAR por superciclo de IA** + ASML (2.34-2.47%, tercera posición, también analizada individualmente) = **~5.5-5.7% del fondo COMPLETO en overlap confirmado**, con SK hynix cargando la advertencia de valoración mas severa (Margen de Seguridad -73.1%) ya documentada con EWY.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "16.8 anios de historial, pero **NO cubre la Crisis Financiera 2008** (nacio despues), SI cubre la crisis de deuda soberana europea 2010-2012, COVID 2020, y el rally reciente.",
+          "notas": "16.8 años de historial, pero **NO cubre la Crisis Financiera 2008** (nacio después), SI cubre la crisis de deuda soberana europea 2010-2012, COVID 2020, y el rally reciente.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 17.85x - moderado, similar al cluster europeo del proyecto (~17x). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 17.85x - moderado, similar al cluster europeo del proyecto (~17x). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 2.99% - moderado. Distribucion SEMESTRAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 2.99% - moderado. Distribución SEMESTRAL.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION IMPLICITA con TODO el cluster de fondos de mercados desarrollados ex-US ya en el workbook** (EWC, EWJ, EWY, FEZ, IEUR, EZU, VGK, EFV, SCZ) - SCHF es el fondo 'PADRE' natural de casi todos ellos (excepto EWT/Taiwan, que FTSE no clasifica como desarrollado), con TER extremadamente barato (0.03-0.06%) y buena diversificacion interna. PERO su ventana mas corta (no incluye 2008) hace su Max Drawdown aparentemente mejor sin ser necesariamente senal de mayor resiliencia estructural real, y tiene overlap real via SK hynix (ya NO COMPRAR) y ASML. Candidatos adicionales sin verificar: EFA (iShares MSCI EAFE, excluye Corea por clasificacion MSCI), VEA (Vanguard FTSE Developed Markets, competidor directo mas cercano por usar el mismo proveedor FTSE), IEFA (iShares Core MSCI EAFE). | ACTUALIZACION posterior (VEA, fila 70): competidor Vanguard directo, EMPATADO en TER (0.03% ambos) pero SUPERIOR en casi toda otra dimension - ~2.6x mas holdings (3,856-3,881 vs 1,429-1,493), mucho mas liquido, replica fisica completa (vs muestreo de SCHF), AUM mucho mayor (posiblemente el fondo mas grande del proyecto). VEA SI cubre la Crisis 2008 directamente (nacio jul-2007, antes del colapso) mientras SCHF nacio despues, explicando por que el Max Drawdown de VEA (-60.68%) parece peor que el de SCHF (-34.9%) sin serlo estructuralmente. Ver Ficha VEA fila 50 para el detalle completo. | ACTUALIZACION posterior (IEFA, fila 71): tercer fondo del cluster desarrollado ex-US, mas caro que SCHF (0.07% vs 0.03%) pero con overlap MUCHO MENOR (solo ASML, sin Samsung/SK hynix -MSCI clasifica Corea del Sur como Emergente, excluida de EAFE-) y mejor retorno desde inception (8.40% vs 5.722%). Trade-off genuino sin ganador absoluto entre los tres. Ver Ficha IEFA fila 50.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN IMPLÍCITA con TODO el cluster de fondos de mercados desarrollados ex-US ya en el workbook** (EWC, EWJ, EWY, FEZ, IEUR, EZU, VGK, EFV, SCZ) - SCHF es el fondo 'PADRE' natural de casi todos ellos (excepto EWT/Taiwan, que FTSE no clasifica como desarrollado), con TER extremadamente barato (0.03-0.06%) y buena diversificación interna. PERO su ventana mas corta (no incluye 2008) hace su Max Drawdown aparentemente mejor sin ser necesariamente señal de mayor resiliencia estructural real, y tiene overlap real via SK hynix (ya NO COMPRAR) y ASML. Candidatos adicionales sin verificar: EFA (iShares MSCI EAFE, excluye Corea por clasificación MSCI), VEA (Vanguard FTSE Developed Markets, competidor directo mas cercano por usar el mismo proveedor FTSE), IEFA (iShares Core MSCI EAFE). | ACTUALIZASIÓN posterior (VEA, fila 70): competidor Vanguard directo, EMPATADO en TER (0.03% ambos) pero SUPERIOR en casi toda otra dimensión - ~2.6x mas holdings (3,856-3,881 vs 1,429-1,493), mucho mas liquido, réplica física completa (vs muestreo de SCHF), AUM mucho mayor (posiblemente el fondo mas grande del proyecto). VEA SI cubre la Crisis 2008 directamente (nacio jul-2007, antes del colapso) mientras SCHF nacio después, explicando por que el Max Drawdown de VEA (-60.68%) parece peor que el de SCHF (-34.9%) sin serlo estructuralmente. Ver Ficha VEA fila 50 para el detalle completo. | ACTUALIZASIÓN posterior (IEFA, fila 71): tercer fondo del cluster desarrollado ex-US, mas caro que SCHF (0.07% vs 0.03%) pero con overlap MUCHO MENOR (solo ASML, sin Samsung/SK hynix -MSCI clasifica Corea del Sur como Emergente, excluida de EAFE-) y mejor retorno desde inception (8.40% vs 5.722%). Trade-off genuino sin ganador absoluto entre los tres. Ver Ficha IEFA fila 50.",
           "calificacion": 4
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Core** - fondo amplio 'padre' del cluster de mercados desarrollados ex-US del proyecto, cobertura la mas amplia posible de mercados desarrollados en un solo vehiculo de muy bajo costo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Core** - fondo amplio 'padre' del cluster de mercados desarrollados ex-US del proyecto, cobertura la mas amplia posible de mercados desarrollados en un solo vehículo de muy bajo costo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: la forma MAS EFICIENTE y de MENOR COSTO de cubrir practicamente TODOS los mercados desarrollados ex-US en un solo vehiculo (Japon+Europa+Corea+Canada+Australia), TER de los mas bajos de todo el proyecto, buena diversificacion interna (1,429+ holdings).",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: la forma MAS EFICIENTE y de MENOR COSTO de cubrir prácticamente TODOS los mercados desarrollados ex-US en un solo vehículo (Japon+Europa+Corea+Canada+Australia), TER de los mas bajos de todo el proyecto, buena diversificación interna (1,429+ holdings).",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
           "notas": "Riesgos principales: (1) overlap via SK hynix (ya NO COMPRAR individualmente por superciclo IA) + ASML (~5.5-5.7% combinado); (2) Max Drawdown aparentemente bueno (-34.9%) pero explicado por una ventana corta que no incluye 2008, no por resiliencia estructural real - riesgo NO observado, no necesariamente ausente; (3) riesgo cambiario multi-divisa extremo (mas monedas que cualquier fondo regional individual del proyecto); (4) discrepancia de TER entre fuentes sin resolver del todo.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "EFA (iShares MSCI EAFE, excluye Corea por clasificacion MSCI distinta), VEA (Vanguard FTSE Developed Markets, competidor directo mas cercano) e IEFA (iShares Core MSCI EAFE) identificados como candidatos sin datos propios verificados. VEA (fila 70) tambien verificado - superior a SCHF en casi toda dimension salvo TER (empatado), ver comparacion en su Ficha. IEFA (fila 71) tambien verificado - mas caro pero con overlap mucho menor, ver comparacion en su Ficha.",
+          "notas": "EFA (iShares MSCI EAFE, excluye Corea por clasificación MSCI distinta), VEA (Vanguard FTSE Developed Markets, competidor directo mas cercano) e IEFA (iShares Core MSCI EAFE) identificados como candidatos sin datos propios verificados. VEA (fila 70) también verificado - superior a SCHF en casi toda dimensión salvo TER (empatado), ver comparación en su Ficha. IEFA (fila 71) también verificado - mas caro pero con overlap mucho menor, ver comparación en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.67/5. SCHF es el fondo 'PADRE' natural de casi todo el cluster de mercados desarrollados ex-US ya analizado en este workbook (EWC, EWJ, EWY, FEZ, IEUR, EZU, VGK, EFV, SCZ), con la cobertura mas amplia posible en un solo vehiculo (Japon+Europa+Corea del Sur+Canada+Australia, confirmando que FTSE clasifica a Corea del Sur como mercado DESARROLLADO -mismo hallazgo estructural ya visto con VWO, que la EXCLUYE por la misma razon-, excluye solo Taiwan por seguir clasificado 'Advanced Emerging'). El TER es de los mas bajos de todo el proyecto (0.03% segun dos fuentes primarias coincidentes, aunque una tercera fuente reporta 0.06%, discrepancia notada explicitamente), y la diversificacion interna es solida (1,429-1,493 holdings). Sin embargo, el overlap es real y significativo: SK hynix (3.15-3.19%, LA SEGUNDA POSICION MAS GRANDE del fondo completo) ya fue analizada individualmente con Recomendacion NO COMPRAR por asumir continuidad del superciclo de IA, y ASML (2.34-2.47%, tercera posicion) tambien esta ya analizada individualmente - juntos ~5.5-5.7% del fondo. El Max Drawdown (-34.9%) es notablemente MENOR que el resto del cluster europeo/EFV (FEZ -64.21%, EZU -65.32%, VGK -63.61%, EFV -63.94%), pero esto se explica DIRECTAMENTE por la ventana mas corta del fondo (nacio en nov-2009, meses despues del fondo de mercado de la Crisis 2008) - mismo gotcha de ventana ya documentado extensamente (IEUR vs FEZ/EZU/VGK) - el numero favorable no refleja necesariamente mayor resiliencia estructural real, solo que el fondo no vivio esa crisis especifica. Rol en Portafolio: Core. Competidores identificados sin verificar: EFA, VEA, IEFA."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.67/5. SCHF es el fondo 'PADRE' natural de casi todo el cluster de mercados desarrollados ex-US ya analizado en este workbook (EWC, EWJ, EWY, FEZ, IEUR, EZU, VGK, EFV, SCZ), con la cobertura mas amplia posible en un solo vehículo (Japon+Europa+Corea del Sur+Canada+Australia, confirmando que FTSE clasifica a Corea del Sur como mercado DESARROLLADO -mismo hallazgo estructural ya visto con VWO, que la EXCLUYE por la misma razón-, excluye solo Taiwan por seguir clasificado 'Advanced Emerging'). El TER es de los mas bajos de todo el proyecto (0.03% según dos fuentes primarias coincidentes, aunque una tercera fuente reporta 0.06%, discrepancia notada explícitamente), y la diversificación interna es sólida (1,429-1,493 holdings). Sin embargo, el overlap es real y significativo: SK hynix (3.15-3.19%, LA SEGUNDA POSISIÓN MAS GRANDE del fondo completo) ya fue analizada individualmente con Recomendación NO COMPRAR por asumir continuidad del superciclo de IA, y ASML (2.34-2.47%, tercera posición) también esta ya analizada individualmente - juntos ~5.5-5.7% del fondo. El Max Drawdown (-34.9%) es notablemente MENOR que el resto del cluster europeo/EFV (FEZ -64.21%, EZU -65.32%, VGK -63.61%, EFV -63.94%), pero esto se explica DIRECTAMENTE por la ventana mas corta del fondo (nacio en nov-2009, meses después del fondo de mercado de la Crisis 2008) - mismo gotcha de ventana ya documentado extensamente (IEUR vs FEZ/EZU/VGK) - el número favorable no refleja necesariamente mayor resiliencia estructural real, solo que el fondo no vivio esa crisis específica. Rol en Portafolio: Core. Competidores identificados sin verificar: EFA, VEA, IEFA."
   }
 }

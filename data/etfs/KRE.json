@@ -1,35 +1,35 @@
 {
   "nombre": "SPDR S&P Regional Banking ETF",
   "ticker": "KRE",
-  "categoria": "Equity Tematico/Factor (banca regional PURA, sin aseguradoras - a diferencia de KBE)",
+  "categoria": "Equity Temático/Factor (banca regional PURA, sin aseguradoras - a diferencia de KBE)",
   "emisor": "State Street/SPDR",
   "fecha_analisis": "2026-08-13",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA por MUESTREO -sampling-, no obligada a comprar todos los valores del indice. Turnover con rango disperso no reconciliado entre fuentes -20.4% -etfrc.com- vs 42% -otra fuente, mas alto que el promedio de categoria Financial ~28%-, similar problema de calidad de dato que KBE.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA por MUESTREO -sampling-, no obligada a comprar todos los valores del índice. Turnover con rango disperso no reconciliado entre fuentes -20.4% -etfrc.com- vs 42% -otra fuente, mas alto que el promedio de categoría Financial ~28%-, similar problema de calidad de dato que KBE.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domiciliado en EEUU -SPDR Series Trust, NYSE Arca-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM = $4.6bn -SSGA oficial, 12-ago-2026-, rango 4.3-4.64bn segun fuente/fecha. MUCHO mas grande que KBE -$1.79bn-, sin riesgo de cierre.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM = $4.6bn -SSGA oficial, 12-ago-2026-, rango 4.3-4.64bn según fuente/fecha. MUCHO mas grande que KBE -$1.79bn-, sin riesgo de cierre.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "20.15 anios desde inception -19-jun-2006-. **MISMO HALLAZGO METODOLOGICO que KBE y KIE -ya en el workbook-**: el indice CAMBIO exactamente el 24-oct-2011 -MISMA fecha exacta que KBE/KIE- de KBW Regional Banking Index -antiguo- al actual S&P Regional Banks Select Industry Index -equal-weight-. TERCER caso confirmado de esta transicion de indice en la misma fecha dentro del proyecto. El Max Drawdown de Crisis 2008 -ver fila 41- se produjo bajo la metodologia KBW antigua, NO bajo la equal-weight actual.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "20.15 años desde inception -19-jun-2006-. **MISMO HALLAZGO METODOLOGICO que KBE y KIE -ya en el workbook-**: el índice CAMBIO exactamente el 24-oct-2011 -MISMA fecha exacta que KBE/KIE- de KBW Regional Banking Index -antiguo- al actual S&P Regional Banks Select Industry Index -equal-weight-. TERCER caso confirmado de esta transición de índice en la misma fecha dentro del proyecto. El Max Drawdown de Crisis 2008 -ver fila 41- se produjo bajo la metodología KBW antigua, NO bajo la equal-weight actual.",
           "calificacion": 3
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor State Street/SPDR, QUINTO miembro confirmado de la familia S&P Select Industry equal-weight junto a XHB/XRT/KIE/KBE ya en el workbook.",
           "calificacion": 5
         }
@@ -40,34 +40,34 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.35% -CONFIRMADO en todas las fuentes-, IDENTICO a XHB/XRT/KIE/KBE, toda la familia comparte el mismo TER.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita, mismo vacio de dato que KBE.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference histórico NO ENCONTRADO con cifra numerica explicita, mismo vacio de dato que KBE.",
           "calificacion": 2
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending para KRE.",
+          "notas": "Sin dato específico de revenue por securities lending para KRE.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover con rango disperso no reconciliado -20.4% a 42%-, rebalanceo trimestral estandar de la familia, banda de capping no vinculante en la practica dado el gran numero de holdings a pesos similares -ver fila 30-.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover con rango disperso no reconciliado -20.4% a 42%-, rebalanceo trimestral estándar de la familia, banda de capping no vinculante en la practica dado el gran número de holdings a pesos similares -ver fila 30-.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.25
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen MUY alto: ~8.4M acciones/dia a precio ~$77 = **~$650M/dia estimado**, MUCHO mayor que KBE -$145M/dia-, de la liquidez mas alta de todo el cluster financiero del proyecto -comparable a XLE 'record de liquidez'-. Una fuente aislada -barchart, 82,140 acciones/dia 30D- es un outlier no reconciliable y probablemente un error de dato, descartado.",
+          "notas": "Volumen MUY alto: ~8.4M acciones/dia a precio ~$77 = **~$650M/dia estimado**, MUCHO mayor que KBE -$145M/dia-, de la liquidez mas alta de todo el cluster financiero del proyecto -comparable a XLE 'récord de liquidez'-. Una fuente aislada -barchart, 82,140 acciones/dia 30D- es un outlier no reconciliable y probablemente un error de dato, descartado.",
           "calificacion": 5
         },
         {
@@ -76,117 +76,117 @@
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount = +0.05% -SSGA oficial, snapshot ago-2026-, ligeramente mayor que KBE -+0.02%- pero aun ajustado, sin serie historica encontrada.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount = +0.05% -SSGA oficial, snapshot ago-2026-, ligeramente mayor que KBE -+0.02%- pero aun ajustado, sin serie histórica encontrada.",
           "calificacion": 4
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero volumen ~4.5x mayor que KBE sugiere una red de creacion/redencion mas activa dentro de la misma infraestructura State Street/SPDR.",
+          "notas": "Sin cifra específica de profundidad de APs, pero volumen ~4.5x mayor que KBE sugiere una red de creación/redención mas activa dentro de la misma infraestructura State Street/SPDR.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "149-161 holdings segun fuente/fecha -SSGA oficial 159-, **MAS holdings que KBE -103-**, incluso mas diversificado por numero dentro de la familia.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "149-161 holdings según fuente/fecha -SSGA oficial 159-, **MAS holdings que KBE -103-**, incluso mas diversificado por número dentro de la familia.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
+          "aspecto": "Concentración Top 10 holdings (%)",
           "notas": "Top10 = ~13.9-14% del fondo -SSGA oficial, suma de pesos individuales-, otra fuente cita 15.71%. Mayor que KBE -~11%, la mas baja de la familia- pero aun bajo. Holdings principales -pesos ~1.4% cada uno-: Cullen/Frost Bankers 1.43%, Pinnacle Financial Partners 1.41%, SouthState Corp 1.41%, Citizens Financial Group 1.40%, UMB Financial Corp 1.40%, M&T Bank Corp 1.39%, Popular Inc 1.39%, Home BancShares 1.39%, Associated Banc-Corp 1.38%, Hancock Whitney Corp 1.38%.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "**A DIFERENCIA DE KBE, exposicion 100% Regional Banks -sin aseguradoras ni hipotecarias mezcladas-**, el nombre del fondo SI refleja fielmente su composicion. Es el ETF mas 'puro' de banca regional del proyecto, sin la dilucion cualitativa que afecta a KBE.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "**A DIFERENCIA DE KBE, exposición 100% Regional Banks -sin aseguradoras ni hipotecarias mezcladas-**, el nombre del fondo SI refleja fielmente su composición. Es el ETF mas 'puro' de banca regional del proyecto, sin la dilución cualitativa que afecta a KBE.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion equal-weight con sesgo EXTREMO -100%- hacia banca regional/comunitaria de capitalizacion media-pequena -market cap ponderado promedio ~$7.66bn-, la exposicion mas concentrada por sub-industria de todo el cluster financiero del proyecto.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición equal-weight con sesgo EXTREMO -100%- hacia banca regional/comunitaria de capitalización media-pequeña -market cap ponderado promedio ~$7.66bn-, la exposición mas concentrada por sub-industria de todo el cluster financiero del proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P Regional Banks Select Industry, equal-weight modificado, misma familia metodologica que XHB/XRT/KIE/KBE. 100% Regional Banks -sin las sub-industrias adyacentes -aseguradoras, hipotecarias- que si aparecen en KBE-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P Regional Banks Select Industry, equal-weight modificado, misma familia metodologica que XHB/XRT/KIE/KBE. 100% Regional Banks -sin las sub-industrias adyacentes -aseguradoras, hipotecarias- que si aparecen en KBE-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral estandar de la familia, banda de capping no vinculante en la practica dado el gran numero de holdings a pesos similares.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral estándar de la familia, banda de capping no vinculante en la practica dado el gran número de holdings a pesos similares.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retornos con discrepancia moderada entre fuentes: 1Y = 29.74% -SSGA oficial, jul-2026- vs 33.44% -stockanalysis.com, ago-2026, ventana distinta-. 3Y anualizado 19.32%, 5Y anualizado 6.90%, 10Y anualizado 9.31% -todos SSGA oficial-. **CAGR desde inception = 4.83-4.90%, MUY BAJO y consistente entre fuentes**, mismo patron que KBE -4.01-4.06%-, reflejo del arrastre de la Crisis 2008.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retornos con discrepancia moderada entre fuentes: 1Y = 29.74% -SSGA oficial, jul-2026- vs 33.44% -stockanalysis.com, ago-2026, ventana distinta-. 3Y anualizado 19.32%, 5Y anualizado 6.90%, 10Y anualizado 9.31% -todos SSGA oficial-. **CAGR desde inception = 4.83-4.90%, MUY BAJO y consistente entre fuentes**, mismo patrón que KBE -4.01-4.06%-, reflejo del arrastre de la Crisis 2008.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada desde inception = 33.4% -composer.trade-, PRACTICAMENTE IDENTICA a KBE -34.3%-, de las mas altas del proyecto entre fondos diversificados no apalancados.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada desde inception = 33.4% -composer.trade-, PRÁCTICAMENTE IDENTICA a KBE -34.3%-, de las mas altas del proyecto entre fondos diversificados no apalancados.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown desde inception = **-68.54% a -69.1%** -portfolioslab/composer, dos fuentes razonablemente consistentes-, MENOR que KBE -83.15-83.6%- pese a compartir el mismo patron de cambio de indice 2011 y cubrir la Crisis 2008 en ambos casos -inception KRE jun-2006 vs KBE nov-2005-, discrepancia entre miembros de la familia no reconciliada. Adicionalmente, **KRE es el EPICENTRO del proyecto para la crisis bancaria regional de marzo-2023**: cayo de $65.31 -3-feb-2023- a $41.92 -13-mar-2023-, **-35.8% en menos de 6 semanas**.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown desde inception = **-68.54% a -69.1%** -portfolioslab/composer, dos fuentes razonablemente consistentes-, MENOR que KBE -83.15-83.6%- pese a compartir el mismo patrón de cambio de índice 2011 y cubrir la Crisis 2008 en ambos casos -inception KRE jun-2006 vs KBE nov-2005-, discrepancia entre miembros de la familia no reconciliada. Adicionalmente, **KRE es el EPICENTRO del proyecto para la crisis bancaria regional de marzo-2023**: cayo de $65.31 -3-feb-2023- a $41.92 -13-mar-2023-, **-35.8% en menos de 6 semanas**.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe ratio con discrepancia GRANDE entre fuentes: 0.31 -composer.trade, desde inception, consistente con la ventana usada para volatilidad/drawdown- vs 1.00 -portfolioslab, probablemente periodo reciente/distinto, sesgado por el fuerte rally de bancos regionales 2025-2026-. Calmar ratio = 0.07 -composer-.",
+          "notas": "Sharpe ratio con discrepancia GRANDE entre fuentes: 0.31 -composer.trade, desde inception, consistente con la ventana usada para volatilidad/drawdown- vs 1.00 -portfolioslab, probablemente período reciente/distinto, sesgado por el fuerte rally de bancos regionales 2025-2026-. Calmar ratio = 0.07 -composer-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.85 -etfdb.com, fuente unica-, igual patron CONTRAINTUITIVO que XLF -memoria ~0.85- y cercano a KBE -0.91-, podria subestimar el riesgo sistemico real del sector bajo un evento de cola.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.85 -etfdb.com, fuente única-, igual patrón CONTRAINTUITIVO que XLF -memoria ~0.85- y cercano a KBE -0.91-, podría subestimar el riesgo sistemico real del sector bajo un evento de cola.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**EPICENTRO CONFIRMADO Y DIRECTO de la crisis bancaria regional de marzo-2023 -colapso de SVB, Signature Bank, luego First Republic-**: caida de **-8.1% en un SOLO DIA -9-mar-2023-**, -2.4% adicional el 13-mar-2023, y -35.8% acumulado en 6 semanas desde el 3-feb-2023. Este es el evento de riesgo idiosincratico MAS SEVERO documentado en todo el cluster financiero del proyecto -mas agudo que el impacto medido en KBE, que solo tiene exposicion parcial via 77% Regional Banks-. Preocupacion cualitativa reciente adicional -2026-: exposicion a concentracion en real estate comercial -CRE- de la banca regional -Seeking Alpha, 'CRE Overhang'-.",
+          "notas": "**EPICENTRO CONFIRMADO Y DIRECTO de la crisis bancaria regional de marzo-2023 -colapso de SVB, Signature Bank, luego First Republic-**: caida de **-8.1% en un SOLO DIA -9-mar-2023-**, -2.4% adicional el 13-mar-2023, y -35.8% acumulado en 6 semanas desde el 3-feb-2023. Este es el evento de riesgo idiosincratico MAS SEVERO documentado en todo el cluster financiero del proyecto -mas agudo que el impacto medido en KBE, que solo tiene exposición parcial via 77% Regional Banks-. Preocupación cualitativa reciente adicional -2026-: exposición a concentración en real estate comercial -CRE- de la banca regional -Seeking Alpha, 'CRE Overhang'-.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 1.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado con rango 12.30x -SSGA oficial- a 13.57x -stockanalysis.com-, razonablemente barato, similar a KBE -11.96-13.56x-, sin serie historica propia a 5-10 anios.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado con rango 12.30x -SSGA oficial- a 13.57x -stockanalysis.com-, razonablemente barato, similar a KBE -11.96-13.56x-, sin serie histórica propia a 5-10 años.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "P/B ponderado = 1.33x -SSGA oficial-, casi identico a KBE -1.36x-. Dividend yield 2.06-2.08%, distribucion trimestral.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "P/B ponderado = 1.33x -SSGA oficial-, casi identico a KBE -1.36x-. Dividend yield 2.06-2.08%, distribución trimestral.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion con KBE -ya en el workbook, mismo emisor y familia de indice-: **overlap de holdings = 64.6% -etfrc.com-, el mas alto registrado en el proyecto entre dos ETFs de emisores identicos**. KRE es la version MAS PURA -100% Regional Banks vs KBE con aseguradoras/hipotecarias mezcladas-, MAS GRANDE -$4.6bn vs $1.79bn-, MAS LIQUIDA -~$650M/dia vs $145M/dia- y con MAS holdings -159 vs 103-, pero con Max Drawdown historico MENOR -68.5-69.1% vs 83.15-83.6%- pese a ser el epicentro mas directo de la crisis 2023. Comparado con IYF/VFH -ya en el workbook-, el overlap de exposicion al riesgo es bajo, mismo patron que KBE.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación con KBE -ya en el workbook, mismo emisor y familia de índice-: **overlap de holdings = 64.6% -etfrc.com-, el mas alto registrado en el proyecto entre dos ETFs de emisores identicos**. KRE es la versión MAS PURA -100% Regional Banks vs KBE con aseguradoras/hipotecarias mezcladas-, MAS GRANDE -$4.6bn vs $1.79bn-, MAS LIQUIDA -~$650M/dia vs $145M/dia- y con MAS holdings -159 vs 103-, pero con Max Drawdown histórico MENOR -68.5-69.1% vs 83.15-83.6%- pese a ser el epicentro mas directo de la crisis 2023. Comparado con IYF/VFH -ya en el workbook-, el overlap de exposición al riesgo es bajo, mismo patrón que KBE.",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol TACTICO/ESPECULATIVO UNICAMENTE, incluso mas marcado que KBE dado que KRE es el vehiculo mas puro y liquido para apostar -o cubrirse- especificamente por banca regional, con riesgo de cola YA MATERIALIZADO de forma severa y reciente -marzo 2023-.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol TÁCTICO/ESPECULATIVO UNICAMENTE, incluso mas marcado que KBE dado que KRE es el vehículo mas puro y liquido para apostar -o cubrirse- específicamente por banca regional, con riesgo de cola YA MATERIALIZADO de forma severa y reciente -marzo 2023-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion MAS PURA -100% Regional Banks, sin dilucion de aseguradoras- y MAS LIQUIDA -~$650M/dia- a banca regional/comunitaria de todo el proyecto, altamente diversificada por numero -159 holdings, Top10 solo ~14%- pero con riesgo idiosincratico de corrida bancaria/deposit-run YA MATERIALIZADO de forma severa como epicentro directo de la crisis de marzo-2023.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición MAS PURA -100% Regional Banks, sin dilución de aseguradoras- y MAS LIQUIDA -~$650M/dia- a banca regional/comunitaria de todo el proyecto, altamente diversificada por número -159 holdings, Top10 solo ~14%- pero con riesgo idiosincratico de corrida bancaria/deposit-run YA MATERIALIZADO de forma severa como epicentro directo de la crisis de marzo-2023.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: riesgo de tasas de interes -mecanismo EXACTO que detono el colapso de SVB, perdidas no realizadas en carteras hold-to-maturity al subir tasas-, **riesgo de corrida bancaria/deposito -deposit run risk, KRE es el caso de manual, epicentro directo marzo-2023 con caida de -8.1% en un dia-**, riesgo de concentracion en real estate comercial -CRE overhang, preocupacion cualitativa 2026-, riesgo de concentracion por CAMBIO DE FAMILIA DE INDICE -mismo hallazgo critico que KBE/KIE, misma fecha exacta 24-oct-2011-, y ausencia total de diversificacion fuera del sector -100% Regional Banks, sin el 'colchon' de aseguradoras que atenua -levemente- a KBE-.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: riesgo de tasas de interés -mecanismo EXACTO que detono el colapso de SVB, pérdidas no realizadas en carteras hold-to-maturity al subir tasas-, **riesgo de corrida bancaria/deposito -deposit run risk, KRE es el caso de manual, epicentro directo marzo-2023 con caida de -8.1% en un dia-**, riesgo de concentración en real estate comercial -CRE overhang, preocupación cualitativa 2026-, riesgo de concentración por CAMBIO DE FAMILIA DE ÍNDICE -mismo hallazgo critico que KBE/KIE, misma fecha exacta 24-oct-2011-, y ausencia total de diversificación fuera del sector -100% Regional Banks, sin el 'colchon' de aseguradoras que atenua -levemente- a KBE-.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "KBE -ya en el workbook- es el comparable mas directo -overlap 64.6%- pero MAS DILUIDO -incluye aseguradoras/hipotecarias-, MAS PEQUENO y MENOS LIQUIDO. IYF y VFH -ya en el workbook- ofrecen exposicion financiera mucho mas segura via bancos money-center diversificados, sin el riesgo idiosincratico de banca regional pura.",
+          "notas": "KBE -ya en el workbook- es el comparable mas directo -overlap 64.6%- pero MAS DILUIDO -incluye aseguradoras/hipotecarias-, MAS PEQUEÑO y MENOS LIQUIDO. IYF y VFH -ya en el workbook- ofrecen exposición financiera mucho mas segura via bancos money-center diversificados, sin el riesgo idiosincratico de banca regional pura.",
           "calificacion": 2
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). KRE es el QUINTO miembro confirmado de la familia S&P Select Industry equal-weight de State Street -junto a XHB, XRT, KIE y KBE, ya en el workbook-, con el MISMO hallazgo metodologico critico que KBE/KIE: el indice CAMBIO el 24-oct-2011 -MISMA fecha exacta que KBE/KIE, TERCER caso confirmado del patron- de KBW Regional Banking Index -antiguo- al actual S&P Regional Banks Select Industry equal-weight, por lo que el Max Drawdown de Crisis 2008 -68.54% a -69.1%- NO refleja completamente la metodologia actual del fondo. A diferencia de KBE, KRE es una exposicion 100% PURA a banca regional -sin aseguradoras/hipotecarias mezcladas-, MAS GRANDE -$4.6bn vs $1.79bn-, MAS LIQUIDA -~$650M/dia, de las mas altas del cluster financiero del proyecto- y con MAS holdings -159 vs 103-, con overlap de 64.6% respecto a KBE, el mas alto del proyecto entre dos ETFs. **RIESGO MAS RELEVANTE Y SEVERO DEL PROYECTO**: KRE es el EPICENTRO DIRECTO y confirmado de la crisis bancaria regional de marzo-2023 -colapso de SVB/Signature/First Republic-, con caida de -8.1% en UN SOLO DIA -9-mar-2023- y -35.8% acumulado en menos de 6 semanas -3-feb a 13-mar-2023-, el evento de riesgo idiosincratico documentado mas agudo de todo el cluster financiero del proyecto. Volatilidad extrema -33.4% desde inception, practicamente identica a KBE- y Sharpe muy bajo -0.31 desde inception, aunque una fuente aislada cita 1.00 en periodo reciente no reconciliado-. TER 0.35% igual al resto de la familia, CAGR desde inception muy bajo -4.83-4.90%- por el arrastre de la Crisis 2008. Preocupacion cualitativa adicional 2026: exposicion a real estate comercial -CRE overhang-. Score 2.82/5, marginalmente superior a KBE -2.67- gracias a tamano/liquidez/pureza sectorial superiores, pero con el peor historial de riesgo de cola confirmado del proyecto. Rol Tactico/Especulativo UNICAMENTE, mas marcado que KBE dado el riesgo YA MATERIALIZADO de forma severa y reciente."
+    "tesis": "REDUCIR/VENDER (evitar). KRE es el QUINTO miembro confirmado de la familia S&P Select Industry equal-weight de State Street -junto a XHB, XRT, KIE y KBE, ya en el workbook-, con el MISMO hallazgo metodologico critico que KBE/KIE: el índice CAMBIO el 24-oct-2011 -MISMA fecha exacta que KBE/KIE, TERCER caso confirmado del patrón- de KBW Regional Banking Index -antiguo- al actual S&P Regional Banks Select Industry equal-weight, por lo que el Max Drawdown de Crisis 2008 -68.54% a -69.1%- NO refleja completamente la metodología actual del fondo. A diferencia de KBE, KRE es una exposición 100% PURA a banca regional -sin aseguradoras/hipotecarias mezcladas-, MAS GRANDE -$4.6bn vs $1.79bn-, MAS LIQUIDA -~$650M/dia, de las mas altas del cluster financiero del proyecto- y con MAS holdings -159 vs 103-, con overlap de 64.6% respecto a KBE, el mas alto del proyecto entre dos ETFs. **RIESGO MAS RELEVANTE Y SEVERO DEL PROYECTO**: KRE es el EPICENTRO DIRECTO y confirmado de la crisis bancaria regional de marzo-2023 -colapso de SVB/Signature/First Republic-, con caida de -8.1% en UN SOLO DIA -9-mar-2023- y -35.8% acumulado en menos de 6 semanas -3-feb a 13-mar-2023-, el evento de riesgo idiosincratico documentado mas agudo de todo el cluster financiero del proyecto. Volatilidad extrema -33.4% desde inception, prácticamente identica a KBE- y Sharpe muy bajo -0.31 desde inception, aunque una fuente aislada cita 1.00 en período reciente no reconciliado-. TER 0.35% igual al resto de la familia, CAGR desde inception muy bajo -4.83-4.90%- por el arrastre de la Crisis 2008. Preocupación cualitativa adicional 2026: exposición a real estate comercial -CRE overhang-. Score 2.82/5, marginalmente superior a KBE -2.67- gracias a tamaño/liquidez/pureza sectorial superiores, pero con el peor historial de riesgo de cola confirmado del proyecto. Rol Táctico/Especulativo UNICAMENTE, mas marcado que KBE dado el riesgo YA MATERIALIZADO de forma severa y reciente."
   }
 }

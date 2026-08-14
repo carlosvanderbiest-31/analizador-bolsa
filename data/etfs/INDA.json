@@ -1,36 +1,36 @@
 {
   "nombre": "iShares MSCI India ETF",
   "ticker": "INDA",
-  "categoria": "Equity Indice Amplio (mercado total de UN SOLO PAIS - India, emergente - SEGUNDO fondo de pais unico del proyecto tras EWC)",
+  "categoria": "Equity Índice Amplio (mercado total de UN SOLO PAIS - India, emergente - SEGUNDO fondo de pais único del proyecto tras EWC)",
   "emisor": "BlackRock (iShares)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Metodo de replica no confirmado con fuente primaria clara esta sesion (Trackinsight no disponible) - dado el tamano del fondo (170 holdings de un mercado grande y complejo operativamente para inversores extranjeros) probablemente muestreo optimizado, pero sin confirmar explicitamente como en EWC/ILF.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Metodo de réplica no confirmado con fuente primaria clara esta sesión (Trackinsight no disponible) - dado el tamaño del fondo (170 holdings de un mercado grande y complejo operativamente para inversores extranjeros) probablemente muestreo optimizado, pero sin confirmar explícitamente como en EWC/ILF.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, 100% holdings INDIOS. Riesgo cambiario INR no cubierto (la propia rupia se ha depreciado en 2026, amplificando perdidas en USD) + retencion fiscal india sobre dividendos + PRIMERA VEZ que se documenta explicitamente el riesgo de REGISTRO FPI (Foreign Portfolio Investor): India impone requisitos regulatorios y de custodia mas estrictos a inversores extranjeros que la mayoria de mercados emergentes, explicando en parte el TER mas alto del fondo frente a otros paises/regiones.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, 100% holdings INDIOS. Riesgo cambiario INR no cubierto (la propia rupia se ha depreciado en 2026, amplificando pérdidas en USD) + retención fiscal india sobre dividendos + PRIMERA VEZ que se documenta explícitamente el riesgo de REGISTRO FPI (Foreign Portfolio Investor): India impone requisitos regulatorios y de custodia mas estrictos a inversores extranjeros que la mayoría de mercados emergentes, explicando en parte el TER mas alto del fondo frente a otros paises/regiones.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $6.63bn - EL MAS GRANDE de los tres fondos de 'nueva geografia' del proyecto (EWC $6.1-6.2bn, ILF $3.6-4.3bn), solido pese al episodio de salida de capital reciente.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $6.63bn - EL MAS GRANDE de los tres fondos de 'nueva geografia' del proyecto (EWC $6.1-6.2bn, ILF $3.6-4.3bn), sólido pese al episodio de salida de capital reciente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 2-feb-2012 (~14.5 anios) - track record moderado, mas corto que EWC (30.4)/ILF (24.8)/VEU (19.4) pero solido, similar a IXUS (13.8). Cubre el COVID 2020 y esta AHORA capturando en tiempo real un episodio de salida masiva de capital extranjero (2025-2026).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 2-feb-2012 (~14.5 años) - track record moderado, mas corto que EWC (30.4)/ILF (24.8)/VEU (19.4) pero sólido, similar a IXUS (13.8). Cubre el COVID 2020 y esta AHORA capturando en tiempo real un episodio de salida masiva de capital extranjero (2025-2026).",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - NOVENA aparicion en el proyecto (IHAK, SOXX, ITA, ARTY, IXUS, ACWX, EWC, ILF, ahora INDA).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - NOVENA aparición en el proyecto (IHAK, SOXX, ITA, ARTY, IXUS, ACWX, EWC, ILF, ahora INDA).",
           "calificacion": 5
         }
       ],
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.61% (confirmado por multiples fuentes incluyendo la pagina oficial de iShares, agosto 2026 - una fuente aislada mostro 0.69%, probablemente desactualizada, se descarto) - **EL MAS CARO de los tres fondos de nueva geografia del proyecto** (EWC 0.50%, ILF 0.47%), reflejo de la complejidad regulatoria/de custodia real de invertir en India como extranjero (registro FPI), no solo pricing legado como en el caso de ACWX.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.61% (confirmado por múltiples fuentes incluyendo la pagina oficial de iShares, agosto 2026 - una fuente aislada mostro 0.69%, probablemente desactualizada, se descarto) - **EL MAS CARO de los tres fondos de nueva geografia del proyecto** (EWC 0.50%, ILF 0.47%), reflejo de la complejidad regulatoria/de custodia real de invertir en India como extranjero (registro FPI), no solo pricing legado como en el caso de ACWX.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending CONFIRMADO EXPLICITAMENTE: el propio top10 incluye 'BlackRock Cash Funds Treasury SL Agency' (2.99%), la linea de COLATERAL de un programa activo de prestamo de valores - PRIMERA VEZ en el proyecto que esta linea aparece con un NOMBRE CLARO Y TRANSPARENTE (a diferencia de los artefactos 'Slcmt1142'/'Slbbh1142' de Vanguard en VXUS/VB/VEU, que requerian inferencia) - confirma el mecanismo pero el revenue especifico no fue verificado.",
+          "notas": "Securities lending CONFIRMADO EXPLÍCITAMENTE: el propio top10 incluye 'BlackRock Cash Funds Treasury SL Agency' (2.99%), la línea de COLATERAL de un programa activo de prestamo de valores - PRIMERA VEZ en el proyecto que esta línea aparece con un NOMBRE CLARO Y TRANSPARENTE (a diferencia de los artefactos 'Slcmt1142'/'Slbbh1142' de Vanguard en VXUS/VB/VEU, que requerian inferencia) - confirma el mecanismo pero el revenue específico no fue verificado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice MSCI India (top 85% del mercado investible por capitalizacion) - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria especifica de INDA esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice MSCI India (top 85% del mercado investible por capitalización) - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria específica de INDA esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -72,12 +72,12 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask = 0.02% (mediana 30 dias, aunque con fecha algo mas antigua -13-nov-2025- que el resto de cifras verificadas esta sesion) - CUARTA cifra exacta de spread verificada en el proyecto (tras ACWX, VEU e ILF).",
+          "notas": "Spread bid-ask = 0.02% (mediana 30 dias, aunque con fecha algo mas antigua -13-nov-2025- que el resto de cifras verificadas esta sesión) - CUARTA cifra exacta de spread verificada en el proyecto (tras ACWX, VEU e ILF).",
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "170 holdings - notablemente MAS diversificado en numero que EWC (84-89) y similar en orden de magnitud a ILF (42-54), buena diversificacion interna para un fondo de pais unico.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "170 holdings - notablemente MAS diversificado en número que EWC (84-89) y similar en orden de magnitud a ILF (42-54), buena diversificación interna para un fondo de pais único.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 = ~35.9% (incluyendo la linea de colateral de securities lending de 2.99%, que no es una posicion de renta variable real - el top10 de ACCIONES puras es ligeramente menor) - **EL MENOS CONCENTRADO de los tres fondos de nueva geografia del proyecto** (vs EWC 44.47%, ILF 55.23%).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 = ~35.9% (incluyendo la línea de colateral de securities lending de 2.99%, que no es una posición de renta variable real - el top10 de ACCIONES puras es ligeramente menor) - **EL MENOS CONCENTRADO de los tres fondos de nueva geografia del proyecto** (vs EWC 44.47%, ILF 55.23%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Financial Services 30.09% (maximo), Consumer Cyclical 12.76%, Industrials 9.73%, Energy 8.62%, Materials 8.37%, Technology 7.89%, Healthcare 6.48%, Consumer Defensive 5.46%, Communication 5.16%, Utilities 4.02%, Real Estate 1.42% - **EL MEJOR PERFIL DE DIVERSIFICACION SECTORIAL de los tres fondos de nueva geografia del proyecto** (11 sectores representados, ningun sector supera el 31%, muy distinto de EWC Finance 46.70% o ILF Finance+Materials+Energy ~70%).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Financial Services 30.09% (máximo), Consumer Cyclical 12.76%, Industrials 9.73%, Energy 8.62%, Materials 8.37%, Technology 7.89%, Healthcare 6.48%, Consumer Defensive 5.46%, Communication 5.16%, Utilities 4.02%, Real Estate 1.42% - **EL MEJOR PERFIL DE DIVERSIFICASIÓN SECTORIAL de los tres fondos de nueva geografia del proyecto** (11 sectores representados, ningún sector supera el 31%, muy distinto de EWC Finance 46.70% o ILF Finance+Materials+Energy ~70%).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% India por definicion (fondo de pais unico) - CERO diversificacion geografica, mismo tratamiento ya aplicado a EWC.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% India por definición (fondo de pais único) - CERO diversificación geográfica, mismo tratamiento ya aplicado a EWC.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Blend con sesgo relativo hacia calidad/crecimiento (P/E 20.67x, mas alto que ILF 11.60x) - perfil de estilo mas equilibrado que el sesgo value/commodity de ILF, mas cercano al blend de VXUS/IXUS/VEU pese a ser pais unico.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Blend con sesgo relativo hacia calidad/crecimiento (P/E 20.67x, mas alto que ILF 11.60x) - perfil de estilo mas equilibrado que el sesgo value/commodity de ILF, mas cercano al blend de VXUS/IXUS/VEU pese a ser pais único.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MSCI India (top 85% del mercado investible), mismo proveedor MSCI que IXUS/ACWX/EWC, metodologia transparente y reconocida.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MSCI India (top 85% del mercado investible), mismo proveedor MSCI que IXUS/ACWX/EWC, metodología transparente y reconocida.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de INDA esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de INDA esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "**PRIMER FONDO DEL PROYECTO CON RETORNO 1Y NEGATIVO**: -5.40% (lazyportfolioetf, jul-2026) a -11.91% (otra fuente) segun fecha de corte exacta - una divergencia MARCADA frente a TODOS los demas fondos analizados esta sesion (VXUS +26.8%, IXUS +25.85%, ACWX +30.55%, VEU +26.56%, EWC +30.36%, ILF +48.82%, todos positivos y fuertes). Explicado por un episodio macro bien documentado y verificado: salidas de FII (Foreign Institutional Investors) de ~$30.6bn en lo que va de 2026 (ya superando el total de salidas de 2022), ganancias corporativas debiles, preocupaciones de valoracion, depreciacion de la rupia, y tension geopolitica (Iran, precios del petroleo). Retorno 10Y = 6.52% (jul-2026) vs 7.56% (jun-2025, una fuente mas antigua) - **la caida de 2026 arrastro incluso la ventana de 10 anos en apenas un anio**, evidencia de la magnitud del episodio. Retorno desde inception (14.5 anios) = 5.92% (jul-2026) vs 7.12% (jun-2025), misma dinamica.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "**PRIMER FONDO DEL PROYECTO CON RETORNO 1Y NEGATIVO**: -5.40% (lazyportfolioetf, jul-2026) a -11.91% (otra fuente) según fecha de corte exacta - una divergencia MARCADA frente a TODOS los demas fondos analizados esta sesión (VXUS +26.8%, IXUS +25.85%, ACWX +30.55%, VEU +26.56%, EWC +30.36%, ILF +48.82%, todos positivos y fuertes). Explicado por un episodio macro bien documentado y verificado: salidas de FII (Foreign Institutional Investors) de ~$30.6bn en lo que va de 2026 (ya superando el total de salidas de 2022), ganancias corporativas débiles, preocupaciones de valoración, depreciación de la rupia, y tensión geopolitica (Iran, precios del petróleo). Retorno 10Y = 6.52% (jul-2026) vs 7.56% (jun-2025, una fuente mas antigua) - **la caida de 2026 arrastro incluso la ventana de 10 anos en apenas un año**, evidencia de la magnitud del episodio. Retorno desde inception (14.5 años) = 5.92% (jul-2026) vs 7.12% (jun-2025), misma dinámica.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad por ventana (lazyportfolioetf): 1Y 13.45%, 5Y 13.67%, 10Y 17.31%, Maximo 17.90% - tabla razonablemente coherente y plausible. Una cifra aislada de 4.36% encontrada en otra fuente se DESCARTO por implausible (mismo gotcha recurrente ya documentado en el proyecto).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad por ventana (lazyportfolioetf): 1Y 13.45%, 5Y 13.67%, 10Y 17.31%, Máximo 17.90% - tabla razonablemente coherente y plausible. Una cifra aislada de 4.36% encontrada en otra fuente se DESCARTO por implausible (mismo gotcha recurrente ya documentado en el proyecto).",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**DISCREPANCIA REAL entre fuentes en el Max Drawdown**: -45.07% (fuente dedicada con fecha exacta, 23-mar-2020, recuperacion 172 sesiones) vs -34.00% (lazyportfolioetf, ventana 'Maximo' ~14 anios) - se prioriza la cifra con fecha y contexto especifico (-45.07%) por ser mas verificable y consistente con el impacto conocido del COVID en mercados emergentes, documentando la discrepancia en vez de descartar silenciosamente una de las dos.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**DISCREPANCIA REAL entre fuentes en el Max Drawdown**: -45.07% (fuente dedicada con fecha exacta, 23-mar-2020, recuperación 172 sesiones) vs -34.00% (lazyportfolioetf, ventana 'Máximo' ~14 años) - se prioriza la cifra con fecha y contexto específico (-45.07%) por ser mas verificable y consistente con el impacto conocido del COVID en mercados emergentes, documentando la discrepancia en vez de descartar silenciosamente una de las dos.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio: 1Y = -0.68 a -0.80 (NEGATIVO, coherente con el retorno negativo, primer caso del proyecto), 5Y = 0.01 (**practicamente CERO ajustado por riesgo en 5 anios, la cifra de largo-plazo intermedio mas debil de todo el proyecto**), 10Y = 0.25, Maximo = 0.24 - se reporta el 10Y como representativo de largo plazo, modesto pero sin el sesgo de inflacion reciente que afecta a otros fondos del proyecto (aqui el problema es el OPUESTO: el periodo reciente es el que arrastra hacia abajo, no hacia arriba).",
+          "notas": "Sharpe Ratio: 1Y = -0.68 a -0.80 (NEGATIVO, coherente con el retorno negativo, primer caso del proyecto), 5Y = 0.01 (**prácticamente CERO ajustado por riesgo en 5 años, la cifra de largo-plazo intermedio mas débil de todo el proyecto**), 10Y = 0.25, Máximo = 0.24 - se reporta el 10Y como representativo de largo plazo, modesto pero sin el sesgo de inflación reciente que afecta a otros fondos del proyecto (aquí el problema es el OPUESTO: el período reciente es el que arrastra hacia abajo, no hacia arriba).",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.44 - **EL MAS BAJO DE TODOS LOS FONDOS DE RENTA VARIABLE DEL PROYECTO** (vs 0.72-0.86 de EWC/ILF/VXUS/IXUS/ACWX/VEU), reflejo de una baja correlacion historica con EEUU acentuada este anio por un desacople genuino y observable (India cayendo mientras el resto del mundo analizado en el proyecto sube con fuerza). **CERO OVERLAP DETECTADO** con el Dashboard de acciones individuales del usuario (ninguna de las top10 holdings - HDFC Bank, Reliance, ICICI Bank, Bharti Airtel, Infosys, Mahindra & Mahindra, Axis Bank, Larsen & Toubro, Bajaj Finance - coincide).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.44 - **EL MAS BAJO DE TODOS LOS FONDOS DE RENTA VARIABLE DEL PROYECTO** (vs 0.72-0.86 de EWC/ILF/VXUS/IXUS/ACWX/VEU), reflejo de una baja correlación histórica con EEUU acentuada este año por un desacople genuino y observable (India cayendo mientras el resto del mundo analizado en el proyecto sube con fuerza). **CERO OVERLAP DETECTADO** con el Dashboard de acciones individuales del usuario (ninguna de las top10 holdings - HDFC Bank, Reliance, ICICI Bank, Bharti Airtel, Infosys, Mahindra & Mahindra, Axis Bank, Larsen & Toubro, Bajaj Finance - coincide).",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "14.5 anios de historial cubren el COVID 2020 (drawdown documentado -45.07%) y AHORA capturan en TIEMPO REAL un episodio de salida masiva de capital extranjero (2025-2026) - un caso de estres de mercado ACTUAL y observable, no solo historico, unico en el proyecto esta sesion.",
+          "notas": "14.5 años de historial cubren el COVID 2020 (drawdown documentado -45.07%) y AHORA capturan en TIEMPO REAL un episodio de salida masiva de capital extranjero (2025-2026) - un caso de estres de mercado ACTUAL y observable, no solo histórico, único en el proyecto esta sesión.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 20.67x - notablemente MAS CARO que ILF (11.60x), similar a IXUS/ACWX/VEU/VTV. Hallazgo no obvio: pese a la caida de -5.40% a -11.91% en 1Y, el P/E sigue relativamente elevado - sugiere que la correccion de PRECIO estuvo acompañada de una correccion similar en UTILIDADES (ganancias corporativas debiles, ya identificadas como causa de la caida), no de una simple compresion de multiplo que dejaria el fondo 'barato'. Sin percentil historico propio verificado.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 20.67x - notablemente MAS CARO que ILF (11.60x), similar a IXUS/ACWX/VEU/VTV. Hallazgo no obvio: pese a la caida de -5.40% a -11.91% en 1Y, el P/E sigue relativamente elevado - sugiere que la corrección de PRECIO estuvo acompañada de una corrección similar en UTILIDADES (ganancias corporativas débiles, ya identificadas como causa de la caida), no de una simple compresión de múltiplo que dejaria el fondo 'barato'. Sin percentil histórico propio verificado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield: no disponible/no reportado con cifra confiable en la fuente principal esta sesion - tipico de un mercado como India, historicamente de bajo yield y orientado a crecimiento/reinversion mas que a distribucion. Se dejo en blanco en el Dashboard en vez de forzar una cifra no verificada.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield: no disponible/no reportado con cifra confiable en la fuente principal esta sesión - típico de un mercado como India, históricamente de bajo yield y orientado a crecimiento/reinversión mas que a distribución. Se dejo en blanco en el Dashboard en vez de forzar una cifra no verificada.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "PRIMER fondo de India del proyecto - sin competidor directo verificado en este workbook. Candidatos conocidos sin datos propios: EPI (WisdomTree India Earnings, ponderado por fundamentales/utilidades en vez de capitalizacion de mercado, metodologia distinta), FLIN (Franklin FTSE India, TER historicamente mas barato, mismo patron 'iShares legado caro vs. alternativa moderna barata' ya documentado en ACWX/VEU), INDY (iShares India 50, mas concentrado en large-cap, competidor DIRECTO del propio BlackRock dentro de su gama India).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "PRIMER fondo de India del proyecto - sin competidor directo verificado en este workbook. Candidatos conocidos sin datos propios: EPI (WisdomTree India Earnings, ponderado por fundamentales/utilidades en vez de capitalización de mercado, metodología distinta), FLIN (Franklin FTSE India, TER históricamente mas barato, mismo patrón 'iShares legado caro vs. alternativa moderna barata' ya documentado en ACWX/VEU), INDY (iShares India 50, mas concentrado en large-cap, competidor DIRECTO del propio BlackRock dentro de su gama India).",
           "calificacion": 3
         }
       ],
@@ -196,18 +196,18 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Satelite** - exposicion tactica a un mercado emergente especifico con una historia MACRO actual muy diferenciada (UNICO mercado en caida de todo el proyecto esta sesion, mientras el resto del cluster ex-US/regional/pais-unico tuvo retornos 1Y de +25% a +49%), CERO overlap con acciones individuales, y el Beta MAS BAJO de todo el proyecto. El desacople actual es informativamente valioso como posible se;al de diversificacion de ciclo, aunque conlleva riesgo real no resuelto (fundamentales debiles, no solo sentimiento).",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Satélite** - exposición táctica a un mercado emergente específico con una historia MACRO actual muy diferenciada (ÚNICO mercado en caida de todo el proyecto esta sesión, mientras el resto del cluster ex-US/regional/pais-único tuvo retornos 1Y de +25% a +49%), CERO overlap con acciones individuales, y el Beta MAS BAJO de todo el proyecto. El desacople actual es informativamente valioso como posible se;al de diversificación de ciclo, aunque conlleva riesgo real no resuelto (fundamentales débiles, no solo sentimiento).",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: posible oportunidad CONTRARIAN dado el fuerte retraso frente al resto de mercados globales este anio, impulsado por salidas de capital extranjero que podrian revertir con el tiempo - PERO el P/E sigue relativamente rico (20.67x) pese a la caida, y las ganancias corporativas debiles son una senal de deterioro FUNDAMENTAL real, no solo de sentimiento/flujos, lo que hace prematuro llamarlo 'barato' todavia.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: posible oportunidad CONTRARIAN dado el fuerte retraso frente al resto de mercados globales este año, impulsado por salidas de capital extranjero que podrían revertir con el tiempo - PERO el P/E sigue relativamente rico (20.67x) pese a la caida, y las ganancias corporativas débiles son una señal de deterioro FUNDAMENTAL real, no solo de sentimiento/flujos, lo que hace prematuro llamarlo 'barato' todavía.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) episodio de salida de FII en curso (~$30.6bn en 2026), sin certeza de cuando revertira; (2) ganancias corporativas debiles - deterioro fundamental real, no solo sentimiento; (3) riesgo cambiario INR no cubierto, la rupia ya se ha depreciado amplificando perdidas en USD; (4) riesgo geopolitico (tensiones globales, precios del petroleo - India es importador neto de energia, expuesto directamente); (5) TER el mas alto de los fondos de nueva geografia del proyecto (0.61%), reflejo de la complejidad regulatoria FPI.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) episodio de salida de FII en curso (~$30.6bn en 2026), sin certeza de cuando revertira; (2) ganancias corporativas débiles - deterioro fundamental real, no solo sentimiento; (3) riesgo cambiario INR no cubierto, la rupia ya se ha depreciado amplificando pérdidas en USD; (4) riesgo geopolítico (tensiones globales, precios del petróleo - India es importador neto de energía, expuesto directamente); (5) TER el mas alto de los fondos de nueva geografia del proyecto (0.61%), reflejo de la complejidad regulatoria FPI.",
           "calificacion": 2
         },
         {
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.39/5 - zona intermedia del marco de decision del proyecto (3.0-3.5, mismo tratamiento ya aplicado a IHAK/ITA/XOP/AIPO/ILF), pero por una razon OPUESTA a la de ILF: mientras ILF acumulo un rally de +48.82% en 1Y con riesgo de estar cerca de un pico de ciclo, INDA es el **PRIMER Y UNICO FONDO DEL PROYECTO CON RETORNO 1Y NEGATIVO** (-5.40% a -11.91%), en fuerte contraste con el resto del cluster ex-US/regional/pais-unico analizado esta sesion (todos +25% a +49%). El episodio esta bien documentado: salidas masivas de FII (~$30.6bn en 2026, ya superando 2022 completo), ganancias corporativas debiles, depreciacion de la rupia y tension geopolitica. Pese a la caida, el P/E (20.67x) sigue relativamente rico -no hay una senal clara de 'barato'-, lo que sugiere que la correccion de precio vino acompañada de una correccion similar en utilidades, no de una oportunidad de valor evidente todavia. La calidad estructural del vehiculo es solida (BlackRock, AUM $6.63bn el mas grande de los fondos de nueva geografia del proyecto, mejor liquidez y mejor diversificacion sectorial de los tres -11 sectores, ningun sector >31%-, CERO overlap con acciones individuales, y el Beta mas bajo de todo el proyecto -0.44-). El TER (0.61%) es el mas alto de los fondos de nueva geografia, reflejo de la complejidad regulatoria FPI real de invertir en India. Rol en Portafolio: Satelite. Recomendacion: monitorear si las salidas de FII se estabilizan y si las ganancias corporativas muestran signos de recuperacion antes de considerar una entrada - el desacople actual es interesante como diversificador de ciclo, pero prematuro para 'acumular' sin evidencia de que el deterioro fundamental toco fondo."
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.39/5 - zona intermedia del marco de decisión del proyecto (3.0-3.5, mismo tratamiento ya aplicado a IHAK/ITA/XOP/AIPO/ILF), pero por una razón OPUESTA a la de ILF: mientras ILF acumulo un rally de +48.82% en 1Y con riesgo de estar cerca de un pico de ciclo, INDA es el **PRIMER Y ÚNICO FONDO DEL PROYECTO CON RETORNO 1Y NEGATIVO** (-5.40% a -11.91%), en fuerte contraste con el resto del cluster ex-US/regional/pais-único analizado esta sesión (todos +25% a +49%). El episodio esta bien documentado: salidas masivas de FII (~$30.6bn en 2026, ya superando 2022 completo), ganancias corporativas débiles, depreciación de la rupia y tensión geopolitica. Pese a la caida, el P/E (20.67x) sigue relativamente rico -no hay una señal clara de 'barato'-, lo que sugiere que la corrección de precio vino acompañada de una corrección similar en utilidades, no de una oportunidad de valor evidente todavía. La calidad estructural del vehículo es sólida (BlackRock, AUM $6.63bn el mas grande de los fondos de nueva geografia del proyecto, mejor liquidez y mejor diversificación sectorial de los tres -11 sectores, ningún sector >31%-, CERO overlap con acciones individuales, y el Beta mas bajo de todo el proyecto -0.44-). El TER (0.61%) es el mas alto de los fondos de nueva geografia, reflejo de la complejidad regulatoria FPI real de invertir en India. Rol en Portafolio: Satélite. Recomendación: monitorear si las salidas de FII se estabilizan y si las ganancias corporativas muestran signos de recuperación antes de considerar una entrada - el desacople actual es interesante como diversificador de ciclo, pero prematuro para 'acumular' sin evidencia de que el deterioro fundamental toco fondo."
   }
 }

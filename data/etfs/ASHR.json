@@ -1,36 +1,36 @@
 {
   "nombre": "Xtrackers Harvest CSI 300 China A-Shares ETF",
   "ticker": "ASHR",
-  "categoria": "Equity Indice Amplio (PAIS UNICO China - A-SHARES domesticas, CSI 300 - segmento de mercado distinto a YINN/FXI, diversificador genuino dentro de la tesis China)",
+  "categoria": "Equity Índice Amplio (PAIS ÚNICO China - A-SHARES domesticas, CSI 300 - segmento de mercado distinto a YINN/FXI, diversificador genuino dentro de la tesis China)",
   "emisor": "Xtrackers (DWS)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA confirmada (stockanalysis: 'Physical holdings, holds actual China A-shares') - acceso DIRECTO al mercado domestico chino via mecanismos QFII/RQFII/Stock Connect, en CONTRASTE TOTAL con la estructura sintetica de swaps de YINN (fila 57, ya en el workbook).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA confirmada (stockanalysis: 'Physical holdings, holds actual China A-shares') - acceso DIRECTO al mercado domestico chino via mecanismos QFII/RQFII/Stock Connect, en CONTRASTE TOTAL con la estructura sintetica de swaps de YINN (fila 57, ya en el workbook).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, 100% holdings de ACCIONES A CHINAS DOMESTICAS (Shanghai/Shenzhen) - riesgo cambiario CNY no cubierto + retencion fiscal china + **riesgo de ACCESO AL MERCADO especifico y unico en el proyecto**: la inversion en A-shares depende de cuotas/mecanismos regulatorios (QFII, RQFII, Stock Connect) que China podria restringir o modificar, un riesgo estructural adicional que ningun otro fondo del proyecto tiene.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, 100% holdings de ACCIONES A CHINAS DOMESTICAS (Shanghai/Shenzhen) - riesgo cambiario CNY no cubierto + retención fiscal china + **riesgo de ACCESO AL MERCADO específico y único en el proyecto**: la inversión en A-shares depende de cuotas/mecanismos regulatorios (QFII, RQFII, Stock Connect) que China podría restringir o modificar, un riesgo estructural adicional que ningún otro fondo del proyecto tiene.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$1.5-1.56bn - **EL MAS PEQUEÑO entre los fondos de pais unico/geografia del proyecto** (EWC $6.2bn, INDA $6.63bn, EWZ $8.6-9.15bn, EWJ $19.4-22.4bn).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$1.5-1.56bn - **EL MAS PEQUEÑO entre los fondos de pais único/geografia del proyecto** (EWC $6.2bn, INDA $6.63bn, EWZ $8.6-9.15bn, EWJ $19.4-22.4bn).",
           "calificacion": 2
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 6-nov-2013 (~12.8 anios) - track record moderado, uno de los mas cortos del cluster de nueva geografia (similar a IEUR 12.2 anios). Cubre el crash de A-shares de 2015-2016 (burbuja bursatil domestica china), la guerra comercial EEUU-China 2018, COVID 2020, la crisis inmobiliaria china 2021-2023 (Evergrande y sector inmobiliario), y el rally reciente.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 6-nov-2013 (~12.8 años) - track record moderado, uno de los mas cortos del cluster de nueva geografia (similar a IEUR 12.2 años). Cubre el crash de A-shares de 2015-2016 (burbuja bursatil domestica china), la guerra comercial EEUU-China 2018, COVID 2020, la crisis inmobiliaria china 2021-2023 (Evergrande y sector inmobiliario), y el rally reciente.",
           "calificacion": 3
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Xtrackers (marca de DWS/Deutsche Bank Asset Management) - **PRIMERA aparicion de este emisor en el proyecto**, un banco de inversion/gestora institucional europea, diversifica aun mas la lista de emisores ya cubierta (BlackRock, Vanguard, State Street, Schwab, Invesco, VanEck, Defiance, Roundhill, Corgi, Direxion).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Xtrackers (marca de DWS/Deutsche Bank Asset Management) - **PRIMERA aparición de este emisor en el proyecto**, un banco de inversión/gestora institucional europea, diversifica aun mas la lista de emisores ya cubierta (BlackRock, Vanguard, State Street, Schwab, Invesco, VanEck, Defiance, Roundhill, Corgi, Direxion).",
           "calificacion": 4
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.65% - moderado, ligeramente mas caro que EWZ (0.59%)/INDA (0.61%), refleja la complejidad operativa adicional de replicar fisicamente acciones A-shares via mecanismos de acceso restringido.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice CSI 300 - rebalanceo tipicamente semestral (mayo/noviembre, estandar de los indices CSI), no confirmado con fuente primaria especifica de ASHR esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice CSI 300 - rebalanceo tipicamente semestral (mayo/noviembre, estándar de los índices CSI), no confirmado con fuente primaria específica de ASHR esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario promedio = $234.63M/dia (3 meses, 6.98M acciones) - **MUY ALTO en relacion al AUM del fondo ($1.5bn)**, indica una rotacion/turnover elevada, liquidez solida en terminos absolutos pese al tamano modesto del fondo.",
+          "notas": "Volumen diario promedio = $234.63M/dia (3 meses, 6.98M acciones) - **MUY ALTO en relación al AUM del fondo ($1.5bn)**, indica una rotación/turnover elevada, liquidez sólida en términos absolutos pese al tamaño modesto del fondo.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion - relevante mencionar que los fondos de A-shares historicamente pueden mostrar premiums/discounts mas amplios dado que el mecanismo de acceso (Stock Connect) tiene limites diarios de flujo neto de capital.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión - relevante mencionar que los fondos de A-shares históricamente pueden mostrar premiums/discounts mas amplios dado que el mecanismo de acceso (Stock Connect) tiene limites diarios de flujo neto de capital.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 3.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "288 holdings - buena diversificacion interna, mas que EWZ (47-61)/ILF (42-54)/EWC (84-89), menos que INDA (170)/EWJ (169-173).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "288 holdings - buena diversificación interna, mas que EWZ (47-61)/ILF (42-54)/EWC (84-89), menos que INDA (170)/EWJ (169-173).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 = ~23.85% (suma de las cifras individuales reportadas) - concentracion MODERADA-BAJA, mejor que EWC (44.47%)/EWZ (56.75%), similar en espiritu a EZU (29.37%)/EWJ (29.45%).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 = ~23.85% (suma de las cifras individuales reportadas) - concentración MODERADA-BAJA, mejor que EWC (44.47%)/EWZ (56.75%), similar en espiritu a EZU (29.37%)/EWJ (29.45%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Technology 31.11% (maximo), Financial Services 19.15%, Industrials 16.12%, Materials 9.40%, Consumer Defensive 6.68%, Consumer Cyclical 6.36%, Healthcare 4.43%, Utilities 3.06%, Energy 2.50% - concentracion moderada en tech, perfil similar en espiritu a EWJ (Technology 26.85%).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Technology 31.11% (máximo), Financial Services 19.15%, Industrials 16.12%, Materials 9.40%, Consumer Defensive 6.68%, Consumer Cyclical 6.36%, Healthcare 4.43%, Utilities 3.06%, Energy 2.50% - concentración moderada en tech, perfil similar en espiritu a EWJ (Technology 26.85%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% China continental (A-shares) por definicion - CERO diversificacion geografica, mismo tratamiento que otros fondos de pais unico. PERO diversificacion de SEGMENTO DE MERCADO genuina frente a YINN/FXI (A-shares domesticas vs H-shares/ADRs offshore, universos de empresas CASI COMPLETAMENTE DISTINTOS: Zhongji Innolight, CATL, Kweichow Moutai, Zijin Mining, Cambricon vs Alibaba/Tencent/JD.com del universo offshore).",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% China continental (A-shares) por definición - CERO diversificación geográfica, mismo tratamiento que otros fondos de pais único. PERO diversificación de SEGMENTO DE MERCADO genuina frente a YINN/FXI (A-shares domesticas vs H-shares/ADRs offshore, universos de empresas CASI COMPLETAMENTE DISTINTOS: Zhongji Innolight, CATL, Kweichow Moutai, Zijin Mining, Cambricon vs Alibaba/Tencent/JD.com del universo offshore).",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Blend con sesgo hacia bancos domesticos, industriales, y consumo local (Kweichow Moutai, el fabricante de baijiu mas emblematico de China) ademas de tech domestico (CATL en baterias EV, Cambricon en chips de IA) - un perfil de estilo genuinamente distinto del growth-tech-plataformas que domina la exposicion offshore china tipica (Alibaba/Tencent).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Blend con sesgo hacia bancos domesticos, industriales, y consumo local (Kweichow Moutai, el fabricante de baijiu mas emblematico de China) además de tech domestico (CATL en baterias EV, Cambricon en chips de IA) - un perfil de estilo genuinamente distinto del growth-tech-plataformas que domina la exposición offshore china típica (Alibaba/Tencent).",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice CSI 300 - el indice de referencia MAS RECONOCIDO de acciones domesticas chinas (equivalente domestico al S&P500), proveedor China Securities Index Co., PRIMERA aparicion de este proveedor especifico en el proyecto.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice CSI 300 - el índice de referencia MAS RECONOCIDO de acciones domesticas chinas (equivalente domestico al S&P500), proveedor China Securities Index Co., PRIMERA aparición de este proveedor específico en el proyecto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de ASHR esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de ASHR esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.43
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "**DIVERGENCIA MAYOR CON YINN (fila 57, mismo pais, distinto segmento) DOCUMENTADA**: retorno 1Y = +31.79% (mar-2026) a +39.69% (mas reciente) - fuerte, MIENTRAS QUE YINN (China offshore/HK, apalancado 3X) estaba en PERDIDAS profundas (YTD 2026 -49.1%) en el MISMO periodo - evidencia clara de que las acciones A-shares domesticas y las acciones offshore/ADR chinas tuvieron trayectorias OPUESTAS en 2025-2026, reflejo de bases de inversionistas y dinamicas regulatorias/geopoliticas diferentes (A-shares domina inversionista minorista local, offshore domina flujo de capital extranjero mas sensible a tensiones geopoliticas). Retorno desde inception (12.8 anios) = 6.17% anualizado, 10Y = 6.07%, 3Y = +7.19% y 5Y = -2.15% (cifras que parecen acumuladas no anualizadas dado el contexto, reflejando un periodo dificil 2021-2024 para el mercado chino en general seguido de una fuerte recuperacion reciente).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "**DIVERGENCIA MAYOR CON YINN (fila 57, mismo pais, distinto segmento) DOCUMENTADA**: retorno 1Y = +31.79% (mar-2026) a +39.69% (mas reciente) - fuerte, MIENTRAS QUE YINN (China offshore/HK, apalancado 3X) estaba en PÉRDIDAS profundas (YTD 2026 -49.1%) en el MISMO período - evidencia clara de que las acciones A-shares domesticas y las acciones offshore/ADR chinas tuvieron trayectorias OPUESTAS en 2025-2026, reflejo de bases de inversionistas y dinámicas regulatorias/geopoliticas diferentes (A-shares domina inversionista minorista local, offshore domina flujo de capital extranjero mas sensible a tensiones geopoliticas). Retorno desde inception (12.8 años) = 6.17% anualizado, 10Y = 6.07%, 3Y = +7.19% y 5Y = -2.15% (cifras que parecen acumuladas no anualizadas dado el contexto, reflejando un período difícil 2021-2024 para el mercado chino en general seguido de una fuerte recuperación reciente).",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad = 28.2% (desde inception) - alta pero plausible para A-shares, un mercado historicamente dominado por inversionistas minoristas y por tanto mas propenso a movimientos bruscos que mercados institucionales como los del resto del proyecto.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad = 28.2% (desde inception) - alta pero plausible para A-shares, un mercado históricamente dominado por inversionistas minoristas y por tanto mas propenso a movimientos bruscos que mercados institucionales como los del resto del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -51.3% - severo pero **MENOS EXTREMO que EWZ (-77.25%) o YINN (-98.87%)**, moderado dentro del universo de mercados emergentes de pais unico ya cubierto en el proyecto.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -51.3% - severo pero **MENOS EXTREMO que EWZ (-77.25%) o YINN (-98.87%)**, moderado dentro del universo de mercados emergentes de pais único ya cubierto en el proyecto.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio: desde inception = 0.36, 3Y = 0.4 (razonablemente consistentes entre si, a diferencia de otros fondos con dispersion severa entre ventanas), reciente 1Y = 1.13-2.44 (inflado por el rally reciente, mismo gotcha ya documentado repetidamente en el proyecto). Se reporta el de largo plazo (0.36) como representativo.",
+          "notas": "Sharpe Ratio: desde inception = 0.36, 3Y = 0.4 (razonablemente consistentes entre si, a diferencia de otros fondos con dispersión severa entre ventanas), reciente 1Y = 1.13-2.44 (inflado por el rally reciente, mismo gotcha ya documentado repetidamente en el proyecto). Se reporta el de largo plazo (0.36) como representativo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = **0.34 - EL MAS BAJO DE TODO EL PROYECTO** (supera el record previo de INDA, 0.44), reflejo de la baja correlacion estructural de las A-shares chinas con los mercados globales (dominadas por capital domestico, con controles de capital que limitan el flujo internacional). **CERO OVERLAP** con el Dashboard de acciones individuales del usuario Y con YINN (fila 57, ya en el workbook) - ningun holding compartido entre ambos fondos de China del proyecto.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = **0.34 - EL MAS BAJO DE TODO EL PROYECTO** (supera el récord previo de INDA, 0.44), reflejo de la baja correlación estructural de las A-shares chinas con los mercados globales (dominadas por capital domestico, con controles de capital que limitan el flujo internacional). **CERO OVERLAP** con el Dashboard de acciones individuales del usuario Y con YINN (fila 57, ya en el workbook) - ningún holding compartido entre ambos fondos de China del proyecto.",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "12.8 anios de historial cubren el crash de A-shares de 2015-2016 (burbuja bursatil domestica china, caida de ~40% en semanas, un evento especifico del mercado A-shares que YINN/offshore no experimento de la misma forma), la guerra comercial EEUU-China 2018, COVID 2020, la crisis inmobiliaria china 2021-2023 (Evergrande), y el rally reciente 2025-2026.",
+          "notas": "12.8 años de historial cubren el crash de A-shares de 2015-2016 (burbuja bursatil domestica china, caida de ~40% en semanas, un evento específico del mercado A-shares que YINN/offshore no experimento de la misma forma), la guerra comercial EEUU-China 2018, COVID 2020, la crisis inmobiliaria china 2021-2023 (Evergrande), y el rally reciente 2025-2026.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 16.72x - moderado, mas barato que EWJ (18.59x)/cluster europeo (~17x), mas caro que EWZ (9.81x)/ILF (11.60x). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 16.72x - moderado, mas barato que EWJ (18.59x)/cluster europeo (~17x), mas caro que EWZ (9.81x)/ILF (11.60x). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 2.18% - moderado, MENOR que EWZ (4.22%)/ILF (3.43-3.92%), tipico de un indice con mas peso tech/growth domestico (CATL, Cambricon) frente al peso financiero/commodity de otros mercados EM del proyecto. **Distribucion ANUAL - la frecuencia de distribucion MENOS habitual documentada en todo el proyecto** (resto del proyecto: trimestral/semestral).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 2.18% - moderado, MENOR que EWZ (4.22%)/ILF (3.43-3.92%), típico de un índice con mas peso tech/growth domestico (CATL, Cambricon) frente al peso financiero/commodity de otros mercados EM del proyecto. **Distribución ANUAL - la frecuencia de distribución MENOS habitual documentada en todo el proyecto** (resto del proyecto: trimestral/semestral).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion IMPLICITA con YINN (fila 57, ya en el workbook) - mismo pais (China) pero segmento de mercado COMPLETAMENTE DISTINTO (A-shares domesticas fisicas vs FTSE China 50 offshore/HK apalancado 3X sintetico). SIN overlap de holdings entre ambos fondos - diversificador GENUINO dentro del propio universo 'China' del proyecto, no redundante como los clusters ex-US/europeo. Candidatos alternativos sin verificar: CNYA (iShares MSCI China A, competidor DIRECTO mas cercano de ASHR), KBA (KraneShares Bosera MSCI China A), MCHI (iShares MSCI China, mezcla onshore+offshore). | ACTUALIZACION posterior (MCHI, fila 59): tercer fondo de China del proyecto, mayormente offshore (overlap MINIMO/INCIERTO con ASHR, que es puramente A-shares domesticas) pero con posible inclusion parcial de A-shares via Stock Connect no verificada en el top10 reportado de MCHI. MCHI (582 holdings, Score 3.39) es la exposicion agregada mas diversificada de los tres fondos de China ahora en el workbook. Ver Ficha MCHI fila 50 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación IMPLÍCITA con YINN (fila 57, ya en el workbook) - mismo pais (China) pero segmento de mercado COMPLETAMENTE DISTINTO (A-shares domesticas físicas vs FTSE China 50 offshore/HK apalancado 3X sintetico). SIN overlap de holdings entre ambos fondos - diversificador GENUINO dentro del propio universo 'China' del proyecto, no redundante como los clusters ex-US/europeo. Candidatos alternativos sin verificar: CNYA (iShares MSCI China A, competidor DIRECTO mas cercano de ASHR), KBA (KraneShares Bosera MSCI China A), MCHI (iShares MSCI China, mezcla onshore+offshore). | ACTUALIZASIÓN posterior (MCHI, fila 59): tercer fondo de China del proyecto, mayormente offshore (overlap MÍNIMO/INCIERTO con ASHR, que es puramente A-shares domesticas) pero con posible inclusión parcial de A-shares via Stock Connect no verificada en el top10 reportado de MCHI. MCHI (582 holdings, Score 3.39) es la exposición agregada mas diversificada de los tres fondos de China ahora en el workbook. Ver Ficha MCHI fila 50 para el detalle completo.",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Satelite** - exposicion concentrada a un segmento especifico del mercado chino (A-shares domesticas), CERO overlap con acciones individuales Y con YINN (ya en el workbook), Beta el MAS BAJO de todo el proyecto, diversificador genuino de 'estilo de mercado' (domestico vs offshore) dentro de la propia tesis China.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Satélite** - exposición concentrada a un segmento específico del mercado chino (A-shares domesticas), CERO overlap con acciones individuales Y con YINN (ya en el workbook), Beta el MAS BAJO de todo el proyecto, diversificador genuino de 'estilo de mercado' (domestico vs offshore) dentro de la propia tesis China.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: acceso directo (replica fisica) a la economia DOMESTICA china mas alla de las mega-caps tecnologicas offshore ya sobre-representadas en otros vehiculos del universo de inversion tipico (Alibaba/Tencent), con lideres domesticos en baterias EV (CATL, el mayor fabricante mundial), consumo local (Kweichow Moutai), banca domestica, y semiconductores de IA (Cambricon) - una tesis genuinamente DISTINTA de exposicion a China frente a lo que ofrecen los vehiculos offshore tipicos.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: acceso directo (réplica física) a la economía DOMESTICA china mas alla de las mega-caps tecnologicas offshore ya sobre-representadas en otros vehículos del universo de inversión típico (Alibaba/Tencent), con líderes domesticos en baterias EV (CATL, el mayor fabricante mundial), consumo local (Kweichow Moutai), banca domestica, y semiconductores de IA (Cambricon) - una tesis genuinamente DISTINTA de exposición a China frente a lo que ofrecen los vehículos offshore típicos.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo de ACCESO al mercado (dependencia de mecanismos QFII/RQFII/Stock Connect, potencialmente restringibles por China); (2) riesgo cambiario CNY no cubierto; (3) volatilidad alta tipica de un mercado dominado por inversionistas minoristas (28.2% desde inception); (4) riesgo politico/regulatorio de China en general, aunque historicamente el mercado domestico A-shares ha sido MENOS afectado por el tipo de crackdown regulatorio de plataformas tech que golpeo especificamente a Alibaba/Tencent/ADRs offshore en 2021-2022; (5) sin diversificacion internacional, exposicion pura a un solo pais/segmento.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de ACCESO al mercado (dependencia de mecanismos QFII/RQFII/Stock Connect, potencialmente restringibles por China); (2) riesgo cambiario CNY no cubierto; (3) volatilidad alta típica de un mercado dominado por inversionistas minoristas (28.2% desde inception); (4) riesgo politico/regulatorio de China en general, aunque históricamente el mercado domestico A-shares ha sido MENOS afectado por el tipo de crackdown regulatorio de plataformas tech que golpeo específicamente a Alibaba/Tencent/ADRs offshore en 2021-2022; (5) sin diversificación internacional, exposición pura a un solo pais/segmento.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "CNYA (iShares MSCI China A, competidor DIRECTO mas cercano de ASHR), KBA (KraneShares Bosera MSCI China A) y MCHI (iShares MSCI China, mezcla onshore+offshore) identificados como candidatos sin datos propios verificados. MCHI (fila 59) tambien verificado - exposicion agregada offshore+algo onshore, overlap minimo con ASHR, ver comparacion en su Ficha.",
+          "notas": "CNYA (iShares MSCI China A, competidor DIRECTO mas cercano de ASHR), KBA (KraneShares Bosera MSCI China A) y MCHI (iShares MSCI China, mezcla onshore+offshore) identificados como candidatos sin datos propios verificados. MCHI (fila 59) también verificado - exposición agregada offshore+algo onshore, overlap mínimo con ASHR, ver comparación en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.30/5 - zona intermedia del marco de decision del proyecto (3.0-3.5, mismo tratamiento ya aplicado a IHAK/ITA/XOP/AIPO/ILF/INDA). ASHR es un diversificador GENUINO dentro de la propia tesis 'China' del proyecto: CERO overlap tanto con el Dashboard de acciones individuales como con YINN (fila 57, ya en el workbook) - accede a un segmento de mercado COMPLETAMENTE DISTINTO (A-shares domesticas via replica fisica, en vez del FTSE China 50 offshore/HK apalancado sintetico de YINN). El hallazgo mas interesante: mientras YINN estaba en perdidas profundas durante 2025-2026 (YTD -49.1%), ASHR tuvo un retorno 1Y fuerte (+31.79% a +39.69%) en el MISMO periodo - evidencia clara de que las acciones domesticas y offshore chinas siguieron trayectorias opuestas este ciclo, reflejo de bases de inversionistas muy distintas (domestico minorista vs capital extranjero sensible a geopolitica). El Beta de 0.34 es el MAS BAJO de todo el proyecto, y la replica fisica directa contrasta favorablemente con la estructura sintetica de YINN. Sin embargo, el AUM es el mas pequeño entre los fondos de pais unico del proyecto, persiste un riesgo estructural de ACCESO al mercado (dependencia de mecanismos QFII/RQFII/Stock Connect), y el retorno de mediano plazo (5Y -2.15%, 3Y +7.19% acumulado) refleja un periodo dificil 2021-2024 para el mercado chino en general. Sin una senal clara de valoracion 'barata' (P/E 16.72x, moderado) que justifique acumular de inmediato tras el fuerte 1Y ya observado. Rol en Portafolio: Satelite. Competidores identificados sin verificar: CNYA (competidor directo), KBA, MCHI."
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.30/5 - zona intermedia del marco de decisión del proyecto (3.0-3.5, mismo tratamiento ya aplicado a IHAK/ITA/XOP/AIPO/ILF/INDA). ASHR es un diversificador GENUINO dentro de la propia tesis 'China' del proyecto: CERO overlap tanto con el Dashboard de acciones individuales como con YINN (fila 57, ya en el workbook) - accede a un segmento de mercado COMPLETAMENTE DISTINTO (A-shares domesticas via réplica física, en vez del FTSE China 50 offshore/HK apalancado sintetico de YINN). El hallazgo mas interesante: mientras YINN estaba en pérdidas profundas durante 2025-2026 (YTD -49.1%), ASHR tuvo un retorno 1Y fuerte (+31.79% a +39.69%) en el MISMO período - evidencia clara de que las acciones domesticas y offshore chinas siguieron trayectorias opuestas este ciclo, reflejo de bases de inversionistas muy distintas (domestico minorista vs capital extranjero sensible a geopolitica). El Beta de 0.34 es el MAS BAJO de todo el proyecto, y la réplica física directa contrasta favorablemente con la estructura sintetica de YINN. Sin embargo, el AUM es el mas pequeño entre los fondos de pais único del proyecto, persiste un riesgo estructural de ACCESO al mercado (dependencia de mecanismos QFII/RQFII/Stock Connect), y el retorno de mediano plazo (5Y -2.15%, 3Y +7.19% acumulado) refleja un período difícil 2021-2024 para el mercado chino en general. Sin una señal clara de valoración 'barata' (P/E 16.72x, moderado) que justifique acumular de inmediato tras el fuerte 1Y ya observado. Rol en Portafolio: Satélite. Competidores identificados sin verificar: CNYA (competidor directo), KBA, MCHI."
   }
 }

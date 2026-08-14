@@ -1,7 +1,7 @@
 {
   "empresa": "Vistra Corp",
   "ticker": "VST",
-  "sector": "Utilities - Generadoras de Energia Independientes (IPP)",
+  "sector": "Utilities - Generadoras de Energía Independientes (IPP)",
   "fecha_analisis": "46238",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Modelo integrado en tres capas: generacion (aprox 41,000 MW en gas natural, nuclear, carbon, solar y baterias), mercados mayoristas, y venta minorista de electricidad a 5 millones de clientes via marcas como TXU Energy, Ambit Energy, Dynegy, Homefield Energy, Energy Harbor y U.S. Gas and Electric. La integracion generacion-retail funciona como hedge natural: Vistra genera la mayoria de la energia que vende a sus clientes minoristas, reduciendo la exposicion a picos de precio mayorista que afectan a competidores no integrados.",
+          "notas": "Modelo integrado en tres capas: generación (aprox 41,000 MW en gas natural, nuclear, carbon, solar y baterias), mercados mayoristas, y venta minorista de electricidad a 5 millones de clientes via marcas como TXU Energy, Ambit Energy, Dynegy, Homefield Energy, Energy Harbor y U.S. Gas and Electric. La integración generación-retail funciona como hedge natural: Vistra genera la mayoría de la energía que vende a sus clientes minoristas, reduciendo la exposición a picos de precio mayorista que afectan a competidores no integrados.",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat moderado a fuerte: integracion vertical generacion-retail (hedge natural poco replicable por competidores puramente minoristas); activos nucleares (Comanche Peak, Perry, Davis-Besse, Beaver Valley) practicamente irreplicables por barreras regulatorias y de licenciamiento de decadas; escala y marca fuerte en retail de Texas (TXU Energy). Contratos de largo plazo (20 anios) con AWS y Meta profundizan el moat al asegurar demanda de capacidad nuclear por decadas.",
+          "notas": "Moat moderado a fuerte: integración vertical generación-retail (hedge natural poco replicable por competidores puramente minoristas); activos nucleares (Comanche Peak, Perry, Davis-Besse, Beaver Valley) prácticamente irreplicables por barreras regulatorias y de licenciamiento de décadas; escala y marca fuerte en retail de Texas (TXU Energy). Contratos de largo plazo (20 años) con AWS y Meta profundizan el moat al asegurar demanda de capacidad nuclear por décadas.",
           "calificacion": 4
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider en generacion y retail en ERCOT (Texas) y con presencia relevante en PJM via activos nucleares. Compite con NRG Energy en retail y con Constellation Energy en generacion nuclear (Constellation tiene una flota nuclear aun mayor). Cuota de mercado solida y en expansion via adquisiciones (Cogentrix, Lotus Infrastructure) y nuevos contratos de centros de datos.",
+          "notas": "Líder en generación y retail en ERCOT (Texas) y con presencia relevante en PJM via activos nucleares. Compite con NRG Energy en retail y con Constellation Energy en generación nuclear (Constellation tiene una flota nuclear aun mayor). Cuota de mercado sólida y en expansión via adquisiciones (Cogentrix, Lotus Infrastructure) y nuevos contratos de centros de datos.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Moderado: en retail, la marca TXU Energy y la lealtad de cliente permiten cierto poder de precios; en generacion contratada (PPAs de 20 anios con AWS y Meta) el precio esta fijado por contrato de largo plazo, reduciendo volatilidad pero tambien limitando el upside si los precios mayoristas suben mas de lo contratado. En el negocio no contratado, sigue expuesto a la volatilidad de precios de ERCOT.",
+          "notas": "Moderado: en retail, la marca TXU Energy y la lealtad de cliente permiten cierto poder de precios; en generación contratada (PPAs de 20 años con AWS y Meta) el precio esta fijado por contrato de largo plazo, reduciendo volatilidad pero también limitando el upside si los precios mayoristas suben mas de lo contratado. En el negocio no contratado, sigue expuesto a la volatilidad de precios de ERCOT.",
           "calificacion": 3
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Marco de asignacion de capital claro y bien comunicado: mas de 10 mil millones USD de caja generada en 2026-2027, de los cuales aprox 3 mil millones a accionistas (dividendos y recompras), aprox 4 mil millones a crecimiento acretivo (Cogentrix, nuclear uprates), y aprox 3 mil millones de opcionalidad adicional. Historial de 6 anios consecutivos de crecimiento de dividendo. Ha ejecutado M&A relevante (Energy Harbor, Cogentrix, Lotus Infrastructure) para escalar generacion.",
+          "notas": "Marco de asignación de capital claro y bien comunicado: mas de 10 mil millones USD de caja generada en 2026-2027, de los cuales aprox 3 mil millones a accionistas (dividendos y recompras), aprox 4 mil millones a crecimiento acretivo (Cogentrix, nuclear uprates), y aprox 3 mil millones de opcionalidad adicional. Historial de 6 años consecutivos de crecimiento de dividendo. Ha ejecutado M&A relevante (Energy Harbor, Cogentrix, Lotus Infrastructure) para escalar generación.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Propiedad de insiders baja (aprox 0.95% segun Finviz), tipico de una utility grande y madura, no necesariamente una senal negativa como en una empresa fundador-CEO. El CEO Jim Burke lleva varios anios al mando, incluyendo la gestion de la crisis de la Tormenta Uri (2021) y el pivot exitoso hacia contratos de centros de datos.",
+          "notas": "Propiedad de insiders baja (aprox 0.95% según Finviz), típico de una utility grande y madura, no necesariamente una señal negativa como en una empresa fundador-CEO. El CEO Jim Burke lleva varios años al mando, incluyendo la gestion de la crisis de la Tormenta Uri (2021) y el pivot exitoso hacia contratos de centros de datos.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Guidance detallado y trimestral de Adjusted EBITDA y Adjusted Free Cash Flow before Growth (FCFbG) por segmento, con rangos especificos para 2026 y 2027; comunicacion clara del marco de asignacion de capital. Historial de litigios regulatorios (PUCT por Tormenta Uri) resueltos mayormente a favor de la empresa en las cortes.",
+          "notas": "Guidance detallado y trimestral de Adjusted EBITDA y Adjusted Free Cash Flow before Growth (FCFbG) por segmento, con rangos específicos para 2026 y 2027; comunicación clara del marco de asignación de capital. Historial de litigios regulatorios (PUCT por Tormenta Uri) resueltos mayormente a favor de la empresa en las cortes.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda neta de aprox 20.3 mil millones USD (deuda total 21.0 mil millones USD menos caja de 671 millones USD) sobre EBITDA TTM implicito de aprox 6.55 mil millones USD (de EV de 68.71 mil millones USD y EV a EBITDA de 10.49x): Deuda Neta a EBITDA de aprox 3.10x. Apalancamiento alto pero tipico y manejable para una generadora de energia con activos de larga vida; S&P elevo la calificacion de credito a BBB- (grado de inversion) en diciembre 2025 tras el PPA de Comanche Peak y adquisiciones completadas.",
+          "notas": "Deuda neta de aprox 20.3 mil millones USD (deuda total 21.0 mil millones USD menos caja de 671 millones USD) sobre EBITDA TTM implícito de aprox 6.55 mil millones USD (de EV de 68.71 mil millones USD y EV a EBITDA de 10.49x): Deuda Neta a EBITDA de aprox 3.10x. Apalancamiento alto pero típico y manejable para una generadora de energía con activos de larga vida; S&P elevo la calificación de crédito a BBB- (grado de inversión) en diciembre 2025 tras el PPA de Comanche Peak y adquisiciones completadas.",
           "calificacion": 3
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente de 0.90x (activos corrientes de 9.02 mil millones USD vs. pasivos corrientes de 10.06 mil millones USD), ligeramente por debajo de 1.0x - comun en generadoras de energia con ciclos de cuentas por cobrar y pagar de mercados mayoristas e hedges de commodities, no necesariamente una senal de estres de liquidez dado el acceso a mercados de capital de grado de inversion.",
+          "notas": "Razón corriente de 0.90x (activos corrientes de 9.02 mil millones USD vs. pasivos corrientes de 10.06 mil millones USD), ligeramente por debajo de 1.0x - comun en generadoras de energía con ciclos de cuentas por cobrar y pagar de mercados mayoristas e hedges de commodities, no necesariamente una señal de estres de liquidez dado el acceso a mercados de capital de grado de inversión.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Deuda diversificada en multiples emisiones de notas senior con distintos vencimientos escalonados, tipico de una generadora de escala; la mejora de calificacion a BBB- (grado de inversion) en diciembre 2025 deberia facilitar refinanciamientos futuros a tasas mas bajas que la deuda legada emitida cuando la calificacion era especulativa (BB+).",
+          "notas": "Deuda diversificada en múltiples emisiones de notas senior con distintos vencimientos escalonados, típico de una generadora de escala; la mejora de calificación a BBB- (grado de inversión) en diciembre 2025 deberia facilitar refinanciamientos futuros a tasas mas bajas que la deuda legada emitida cuando la calificación era especulativa (BB+).",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales de 41.3 mil millones USD dominados por plantas de generacion (gas natural, nuclear, carbon, solar y baterias) de larga vida util, no por intangibles o goodwill especulativo. Los activos nucleares en particular son escasos y dificiles de reemplazar, lo que los hace estrategicamente valiosos mas alla de su valor contable.",
+          "notas": "Activos totales de 41.3 mil millones USD dominados por plantas de generación (gas natural, nuclear, carbon, solar y baterias) de larga vida util, no por intangibles o goodwill especulativo. Los activos nucleares en particular son escasos y difíciles de reemplazar, lo que los hace estrategicamente valiosos mas alla de su valor contable.",
           "calificacion": 4
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto TTM 29.32%, margen operativo TTM 18.13%, margen neto TTM 10.54% (utilidad neta TTM de 2049 millones USD sobre ingresos TTM de 19445 millones USD). Margenes historicamente volatiles ano a ano (margen neto de 16.33% en 2024 cayo a 5.32% en 2025) por la contabilidad de valor de mercado de los hedges de commodities, no por deterioro estructural del negocio - ver fila 35 para el detalle de esta distorsion contable.",
+          "notas": "Margen bruto TTM 29.32%, margen operativo TTM 18.13%, margen neto TTM 10.54% (utilidad neta TTM de 2049 millones USD sobre ingresos TTM de 19445 millones USD). Márgenes históricamente volatiles ano a ano (margen neto de 16.33% en 2024 cayo a 5.32% en 2025) por la contabilidad de valor de mercado de los hedges de commodities, no por deterioro estructural del negocio - ver fila 35 para el detalle de esta distorsión contable.",
           "calificacion": 3
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "DuPont TTM: margen neto 10.54% multiplicado por rotacion de activos 0.4708x multiplicado por apalancamiento financiero 7.362x da un ROE recalculado de aprox 36.54%, razonablemente en linea con el ROE de 43.01% que informa Finviz (la diferencia se explica por definiciones distintas de utilidad neta y por promediar el patrimonio). ROIC informado de solo 9.80% - la brecha enorme entre ROE (43%) y ROIC (9.8%) confirma que el retorno esta impulsado mayormente por apalancamiento financiero, no por eficiencia operativa pura; aun asi el ROIC supera el costo de deuda post-impuestos (aprox 4.35%) y esta cerca del costo de capital total (WACC 9.18%).",
+          "notas": "DuPont TTM: margen neto 10.54% multiplicado por rotación de activos 0.4708x multiplicado por apalancamiento financiero 7.362x da un ROE recalculado de aprox 36.54%, razonablemente en línea con el ROE de 43.01% que informa Finviz (la diferencia se explica por definiciones distintas de utilidad neta y por promediar el patrimonio). ROIC informado de solo 9.80% - la brecha enorme entre ROE (43%) y ROIC (9.8%) confirma que el retorno esta impulsado mayormente por apalancamiento financiero, no por eficiencia operativa pura; aun así el ROIC supera el costo de deuda post-impuestos (aprox 4.35%) y esta cerca del costo de capital total (WACC 9.18%).",
           "calificacion": 3
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos de 0.4708x, intermedia entre los negocios de capital liviano (NVDA 0.98x, HOOD 0.0872x) y refleja el uso intensivo de activos fisicos de larga vida (plantas de generacion) que generan ingresos de forma continua pero requieren una base de activos grande para operar.",
+          "notas": "Rotación de activos de 0.4708x, intermedia entre los negocios de capital liviano (NVDA 0.98x, HOOD 0.0872x) y refleja el uso intensivo de activos fisicos de larga vida (plantas de generación) que generan ingresos de forma continua pero requieren una base de activos grande para operar.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Ingresos crecieron de 12.08 mil millones USD en 2021 a 19.45 mil millones USD TTM, un CAGR de 5 anios de aprox 8.94% segun Finviz - crecimiento organico solido pero no explosivo, complementado con M&A (Energy Harbor, Cogentrix, Lotus Infrastructure). La utilidad neta GAAP es mucho mas volatil que los ingresos por la contabilidad de mark-to-market de hedges (ver fila 35).",
+          "notas": "Ingresos crecieron de 12.08 mil millones USD en 2021 a 19.45 mil millones USD TTM, un CAGR de 5 años de aprox 8.94% según Finviz - crecimiento orgánico sólido pero no explosivo, complementado con M&A (Energy Harbor, Cogentrix, Lotus Infrastructure). La utilidad neta GAAP es mucho mas volatil que los ingresos por la contabilidad de mark-to-market de hedges (ver fila 35).",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Ingresos relativamente estables ano a ano (crecimiento TTM de 7.41%), pero la utilidad neta GAAP es altamente inconsistente (752 millones USD en 2025 vs. 2467 millones USD en 2024) por swings de mark-to-market de hedges, no por el negocio subyacente. El Adjusted EBITDA (la metrica que reporta y guia la empresa) es una medida mucho mas estable y confiable del desempeno real.",
+          "notas": "Ingresos relativamente estables ano a ano (crecimiento TTM de 7.41%), pero la utilidad neta GAAP es altamente inconsistente (752 millones USD en 2025 vs. 2467 millones USD en 2024) por swings de mark-to-market de hedges, no por el negocio subyacente. El Adjusted EBITDA (la métrica que reporta y guia la empresa) es una medida mucho mas estable y confiable del desempeño real.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Multiples palancas de crecimiento bien identificadas: PPA de 20 anios con AWS en Comanche Peak (hasta 1200 MW, arranca Q4 2027), PPAs con Meta por mas de 2600 MW en la flota nuclear de PJM (arranca dic-2026), adquisicion de Cogentrix (mas 5.5 GW de gas), pipeline de 4500 MW de desarrollo organico (uprates nucleares, conversion carbon a gas, expansion en la cuenca Permico) con la mayoria en linea para 2028, y hasta 3.2 GW adicionales de capacidad nuclear contratable en Beaver Valley y Comanche Peak. Joint venture Helix Digital Infrastructure con KKR y Nvidia como punto de coordinacion para necesidades de energia de hyperscalers.",
+          "notas": "Múltiples palancas de crecimiento bien identificadas: PPA de 20 años con AWS en Comanche Peak (hasta 1200 MW, arranca Q4 2027), PPAs con Meta por mas de 2600 MW en la flota nuclear de PJM (arranca dic-2026), adquisición de Cogentrix (mas 5.5 GW de gas), pipeline de 4500 MW de desarrollo orgánico (uprates nucleares, conversión carbon a gas, expansión en la cuenca Permico) con la mayoría en línea para 2028, y hasta 3.2 GW adicionales de capacidad nuclear contratable en Beaver Valley y Comanche Peak. Joint venture Helix Digital Infrastructure con KKR y Nvidia como punto de coordinación para necesidades de energía de hyperscalers.",
           "calificacion": 5
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Divergencia relevante entre utilidad neta GAAP y el desempeno economico real del negocio: la utilidad neta de 2025 (944 millones USD) incluyo una perdida no realizada de valor de mercado en hedges de 808 millones USD antes de impuestos que se espera se reviertan en periodos futuros. Por esto la empresa reporta y guia con Adjusted EBITDA (Ongoing Operations) en vez de utilidad neta GAAP - metrica mucho mas representativa de la capacidad de generar caja del negocio.",
+          "notas": "Divergencia relevante entre utilidad neta GAAP y el desempeño económico real del negocio: la utilidad neta de 2025 (944 millones USD) incluyo una pérdida no realizada de valor de mercado en hedges de 808 millones USD antes de impuestos que se espera se reviertan en períodos futuros. Por esto la empresa reporta y guia con Adjusted EBITDA (Ongoing Operations) en vez de utilidad neta GAAP - métrica mucho mas representativa de la capacidad de generar caja del negocio.",
           "calificacion": 3
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM reportado de 1803 millones USD (flujo operativo TTM de 4670 millones USD menos capex TTM de 2867 millones USD) sobre un EBITDA TTM implicito de aprox 6.55 mil millones USD: conversion de aprox 27.5%, razonable para una generadora de energia con alto capex de mantenimiento y crecimiento. La empresa guia una metrica propia mas limpia, Adjusted Free Cash Flow before Growth (FCFbG), en 3925 a 4725 millones USD para 2026 (punto medio 4325 millones USD), que excluye capex de crecimiento discrecional.",
+          "notas": "FCF TTM reportado de 1803 millones USD (flujo operativo TTM de 4670 millones USD menos capex TTM de 2867 millones USD) sobre un EBITDA TTM implícito de aprox 6.55 mil millones USD: conversión de aprox 27.5%, razonable para una generadora de energía con alto capex de mantenimiento y crecimiento. La empresa guia una métrica propia mas limpia, Adjusted Free Cash Flow before Growth (FCFbG), en 3925 a 4725 millones USD para 2026 (punto medio 4325 millones USD), que excluye capex de crecimiento discrecional.",
           "calificacion": 4
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM de 2867 millones USD sobre ingresos de 19445 millones USD (14.74% de ventas) - capital intensivo, muy por encima de NVDA y HOOD, tipico de una generadora de energia. Gran parte del capex reciente es de crecimiento (uprates nucleares, expansion de gas en el Permico, baterias), no solo mantenimiento, respaldado por contratos de largo plazo que reducen el riesgo de esa inversion.",
+          "notas": "Capex TTM de 2867 millones USD sobre ingresos de 19445 millones USD (14.74% de ventas) - capital intensivo, muy por encima de NVDA y HOOD, típico de una generadora de energía. Gran parte del capex reciente es de crecimiento (uprates nucleares, expansión de gas en el Permico, baterias), no solo mantenimiento, respaldado por contratos de largo plazo que reducen el riesgo de esa inversión.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Marco de asignacion de capital disciplinado y cuantificado: de mas de 10 mil millones USD de caja esperada en 2026-2027, aprox 3 mil millones a accionistas (dividendo con 6 anios de crecimiento consecutivo mas recompras), aprox 4 mil millones a crecimiento acretivo, y aprox 3 mil millones de opcionalidad. Payout ratio de dividendo bajo (aprox 15.43%), deja espacio para seguir creciendo el dividendo o recomprando acciones.",
+          "notas": "Marco de asignación de capital disciplinado y cuantificado: de mas de 10 mil millones USD de caja esperada en 2026-2027, aprox 3 mil millones a accionistas (dividendo con 6 años de crecimiento consecutivo mas recompras), aprox 4 mil millones a crecimiento acretivo, y aprox 3 mil millones de opcionalidad. Payout ratio de dividendo bajo (aprox 15.43%), deja espacio para seguir creciendo el dividendo o recomprando acciones.",
           "calificacion": 4
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM de 24.44x, EV a EBITDA de 10.49x, P/FCF de 27.06x. El EV a EBITDA de 10.49x es razonable para una generadora de energia con exposicion a demanda de centros de datos, pero sin comparables de sector (Constellation Energy, NRG Energy, Talen Energy) cargados aun en la fila de multiplos del Dashboard - pendiente.",
+          "notas": "P/E TTM de 24.44x, EV a EBITDA de 10.49x, P/FCF de 27.06x. El EV a EBITDA de 10.49x es razonable para una generadora de energía con exposición a demanda de centros de datos, pero sin comparables de sector (Constellation Energy, NRG Energy, Talen Energy) cargados aun en la fila de múltiplos del Dashboard - pendiente.",
           "calificacion": 3
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio, con dos escenarios documentados dada la incertidumbre sobre el ritmo de materializacion de los contratos de centros de datos. WACC hibrido: costo de equity via CAPM = 11.26% (Rf 3.5% mas Beta 5 anios 1.41 por prima de riesgo 5.5%); costo de deuda pretax estimado 5.5% (grado de inversion BBB- desde dic-2025), post-impuestos aprox 4.35% con tasa de impuesto 21%; WACC blend 9.18% con deuda al 30% del capital (deuda total 21.0 mil millones USD, equity de mercado 48.65 mil millones USD). FCF base: se uso la guia propia de la empresa de Adjusted Free Cash Flow before Growth (FCFbG) para 2026, punto medio de 4325 millones USD (rango 3925 a 4725 millones USD), en vez del FCF operativo TTM reportado (1803 millones USD) o la utilidad neta TTM (2049 millones USD), ambos distorsionados por timing de capex y por la volatilidad contable de mark-to-market de hedges de commodities (ver fila 35). Dado que el FCFbG ya es una metrica post-interes (apalancada), se descontÃ³ al costo de equity (11.26%) en vez del WACC blend, para no contar el apalancamiento dos veces. Escenario A (adoptado, conservador): crecimiento de 5.6%, igual al crecimiento de Adjusted EBITDA guiado de 2026 a 2027 (7200 a 7600 millones USD punto medio, excluyendo Cogentrix y los PPAs de Meta y AWS), aplicado 5 anios; terminal 4%: da un FCF ano 5 de aprox 5679 millones USD, Valor de Equity de aprox 66.26 mil millones USD, Valor por accion = 66.26 mil millones dividido entre 337.18 millones de acciones = 196.55 USD. Escenario B (descartado como base, documentado como upside): crecimiento de 16.37% (consenso de analistas de crecimiento de ingresos a 3 anios, stockanalysis), que implicitamente asume una ejecucion plena y sin friccion de los contratos de centros de datos durante los 5 anios completos: da un Valor por accion de aprox 303.60 USD. Se adopto el Escenario A porque no requiere asumir una ejecucion perfecta de contratos que en su mayoria recien empiezan a entregar capacidad entre 2026 y 2027 y siguen rampeando hasta 2032-2034, con riesgo de ejecucion y de cierre de la adquisicion de Cogentrix; el Escenario B se documenta como el caso alcista si la tesis de demanda de energia de IA se materializa sin friccion.",
+          "notas": "DCF propio, con dos escenarios documentados dada la incertidumbre sobre el ritmo de materialización de los contratos de centros de datos. WACC hibrido: costo de equity via CAPM = 11.26% (Rf 3.5% mas Beta 5 años 1.41 por prima de riesgo 5.5%); costo de deuda pretax estimado 5.5% (grado de inversión BBB- desde dic-2025), post-impuestos aprox 4.35% con tasa de impuesto 21%; WACC blend 9.18% con deuda al 30% del capital (deuda total 21.0 mil millones USD, equity de mercado 48.65 mil millones USD). FCF base: se uso la guia propia de la empresa de Adjusted Free Cash Flow before Growth (FCFbG) para 2026, punto medio de 4325 millones USD (rango 3925 a 4725 millones USD), en vez del FCF operativo TTM reportado (1803 millones USD) o la utilidad neta TTM (2049 millones USD), ambos distorsionados por timing de capex y por la volatilidad contable de mark-to-market de hedges de commodities (ver fila 35). Dado que el FCFbG ya es una métrica post-interés (apalancada), se descontÃ³ al costo de equity (11.26%) en vez del WACC blend, para no contar el apalancamiento dos veces. Escenario A (adoptado, conservador): crecimiento de 5.6%, igual al crecimiento de Adjusted EBITDA guiado de 2026 a 2027 (7200 a 7600 millones USD punto medio, excluyendo Cogentrix y los PPAs de Meta y AWS), aplicado 5 años; terminal 4%: da un FCF ano 5 de aprox 5679 millones USD, Valor de Equity de aprox 66.26 mil millones USD, Valor por acción = 66.26 mil millones dividido entre 337.18 millones de acciones = 196.55 USD. Escenario B (descartado como base, documentado como upside): crecimiento de 16.37% (consenso de analistas de crecimiento de ingresos a 3 años, stockanalysis), que implicitamente asume una ejecución plena y sin fricción de los contratos de centros de datos durante los 5 años completos: da un Valor por acción de aprox 303.60 USD. Se adopto el Escenario A porque no requiere asumir una ejecución perfecta de contratos que en su mayoría recien empiezan a entregar capacidad entre 2026 y 2027 y siguen rampeando hasta 2032-2034, con riesgo de ejecución y de cierre de la adquisición de Cogentrix; el Escenario B se documenta como el caso alcista si la tesis de demanda de energía de IA se materializa sin fricción.",
           "calificacion": 4
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Con precio actual de 144.28 USD (stockanalysis, 4 de agosto de 2026) vs. valor intrinseco del Escenario A (adoptado) de 196.55 USD, el margen de seguridad es de +36.2% - dentro de la banda superior de Comprar de este framework (mayor a 20-30%), con colchon relevante incluso sin darle credito pleno a la tesis de demanda de centros de datos. Bajo el Escenario B (alcista, no adoptado como base) el margen de seguridad seria de +110%. El precio objetivo promedio de 20 analistas (221.94 USD, consenso Strong Buy segun stockanalysis.com) cae entre ambos escenarios, mas cerca del Escenario B.",
+          "notas": "Con precio actual de 144.28 USD (stockanalysis, 4 de agosto de 2026) vs. valor intrínseco del Escenario A (adoptado) de 196.55 USD, el margen de seguridad es de +36.2% - dentro de la banda superior de Comprar de este framework (mayor a 20-30%), con colchon relevante incluso sin darle crédito pleno a la tesis de demanda de centros de datos. Bajo el Escenario B (alcista, no adoptado como base) el margen de seguridad seria de +110%. El precio objetivo promedio de 20 analistas (221.94 USD, consenso Strong Buy según stockanalysis.com) cae entre ambos escenarios, mas cerca del Escenario B.",
           "calificacion": 4
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Demanda electrica en expansion estructural por electrificacion, vehiculos electricos, y sobre todo por centros de datos de IA que requieren energia firme y libre de carbono las 24 horas - Vistra esta posicionada de forma unica por su combinacion de generacion nuclear (carbon-free, base load) y gas natural flexible en dos de los mercados con mas demanda de centros de datos (ERCOT y PJM).",
+          "notas": "Demanda electrica en expansión estructural por electrificación, vehículos electricos, y sobre todo por centros de datos de IA que requieren energía firme y libre de carbono las 24 horas - Vistra esta posicionada de forma única por su combinación de generación nuclear (carbon-free, base load) y gas natural flexible en dos de los mercados con mas demanda de centros de datos (ERCOT y PJM).",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Altas para generacion nuclear (licencias regulatorias de decadas, capital inicial enorme, tiempos de construccion de anios) y significativas para generacion a escala en general (permisos, interconexion a la red, capital). Estas barreras son la base del moat de los activos nucleares de Vistra.",
+          "notas": "Altas para generación nuclear (licencias regulatorias de décadas, capital inicial enorme, tiempos de construcción de años) y significativas para generación a escala en general (permisos, interconexion a la red, capital). Estas barreras son la base del moat de los activos nucleares de Vistra.",
           "calificacion": 4
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad moderada en generacion (mercado fragmentado entre varios IPPs y utilities) pero alta en retail (NRG Energy, muchos retailers mas pequenos); poder de negociacion de clientes de centros de datos alto dado que son contratos grandes y estrategicos, pero Vistra tiene poder de negociacion fuerte tambien por la escasez de capacidad nuclear firme; amenaza de sustitutos baja para carga base nuclear, mayor para generacion a gas (renovables mas baterias); barreras de entrada altas. Entorno favorable en general dada la escasez de oferta de energia firme.",
+          "notas": "Rivalidad moderada en generación (mercado fragmentado entre varios IPPs y utilities) pero alta en retail (NRG Energy, muchos retailers mas pequeños); poder de negociación de clientes de centros de datos alto dado que son contratos grandes y estratégicos, pero Vistra tiene poder de negociación fuerte también por la escasez de capacidad nuclear firme; amenaza de sustitutos baja para carga base nuclear, mayor para generación a gas (renovables mas baterias); barreras de entrada altas. Entorno favorable en general dada la escasez de oferta de energía firme.",
           "calificacion": 4
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Moderadamente ciclica: expuesta a precios de commodities (gas natural) y clima (Tormenta Uri 2021 costo aprox 1.6 mil millones USD de flujo de caja), pero la integracion generacion-retail y los PPAs de largo plazo con centros de datos reducen la ciclicidad relativa a un generador puramente mercantil.",
+          "notas": "Moderadamente ciclica: expuesta a precios de commodities (gas natural) y clima (Tormenta Uri 2021 costo aprox 1.6 mil millones USD de flujo de caja), pero la integración generación-retail y los PPAs de largo plazo con centros de datos reducen la ciclicidad relativa a un generador puramente mercantil.",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo regulatorio moderado: disputas pasadas con la PUCT de Texas por la fijacion de precios durante la Tormenta Uri (resueltas mayormente a favor de Vistra en las cortes), riesgo de cambios en reglas de mercado de ERCOT o PJM, y riesgo de politica energetica federal sobre plantas nucleares y de carbon. La mejora de calificacion de credito a grado de inversion (BBB-) sugiere que las agencias ven este riesgo como manejable.",
+          "notas": "Riesgo regulatorio moderado: disputas pasadas con la PUCT de Texas por la fijación de precios durante la Tormenta Uri (resueltas mayormente a favor de Vistra en las cortes), riesgo de cambios en reglas de mercado de ERCOT o PJM, y riesgo de política energetica federal sobre plantas nucleares y de carbon. La mejora de calificación de crédito a grado de inversión (BBB-) sugiere que las agencias ven este riesgo como manejable.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Bajo: operacion enteramente domestica en EEUU (Texas y mercado PJM), sin exposicion relevante a tipo de cambio.",
+          "notas": "Bajo: operación enteramente domestica en EEUU (Texas y mercado PJM), sin exposición relevante a tipo de cambio.",
           "calificacion": 5
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Baja concentracion en retail (5 millones de clientes minoristas diversificados); concentracion creciente pero contractualmente asegurada en el lado de centros de datos (AWS y Meta representan una porcion relevante del crecimiento futuro de capacidad nuclear contratada) - riesgo mitigado por ser contratos de 20 anios con contrapartes de altisima calidad de credito.",
+          "notas": "Baja concentración en retail (5 millones de clientes minoristas diversificados); concentración creciente pero contractualmente asegurada en el lado de centros de datos (AWS y Meta representan una porción relevante del crecimiento futuro de capacidad nuclear contratada) - riesgo mitigado por ser contratos de 20 años con contrapartes de altisima calidad de crédito.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Bajo a moderado: el riesgo tecnologico principal es la competencia de largo plazo de renovables mas almacenamiento en baterias contra la generacion a gas y carbon, pero Vistra participa en ambos lados (tiene solar y baterias propias) y su generacion nuclear no enfrenta sustituto tecnologico creible como fuente de carga base libre de carbono.",
+          "notas": "Bajo a moderado: el riesgo tecnologico principal es la competencia de largo plazo de renovables mas almacenamiento en baterias contra la generación a gas y carbon, pero Vistra participa en ambos lados (tiene solar y baterias propias) y su generación nuclear no enfrenta sustituto tecnologico creible como fuente de carga base libre de carbono.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Mixto: la flota nuclear es carbon-free y un activo ESG positivo cada vez mas valorado, pero la empresa mantiene plantas de carbon en su mezcla de generacion, lo que genera friccion con inversores orientados a ESG estricto. La tendencia es hacia menos carbon y mas nuclear mas gas mas baterias.",
+          "notas": "Mixto: la flota nuclear es carbon-free y un activo ESG positivo cada vez mas valorado, pero la empresa mantiene plantas de carbon en su mezcla de generación, lo que genera fricción con inversores orientados a ESG estricto. La tendencia es hacia menos carbon y mas nuclear mas gas mas baterias.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Reporte de resultados del segundo trimestre de 2026 el 7 de agosto de 2026; cierre esperado de la adquisicion de Cogentrix; inicio de entrega de capacidad del PPA de Meta en la planta Perry en diciembre de 2026; conference call con KeyBanc el 7 de agosto de 2026 con el CEO Burke y el CFO Moldovan.",
+          "notas": "Reporte de resultados del segundo trimestre de 2026 el 7 de agosto de 2026; cierre esperado de la adquisición de Cogentrix; inicio de entrega de capacidad del PPA de Meta en la planta Perry en diciembre de 2026; conference call con KeyBanc el 7 de agosto de 2026 con el CEO Burke y el CFO Moldovan.",
           "calificacion": 4
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Sin senales relevantes de venta masiva de insiders reportadas (a diferencia de HOOD); propiedad de insiders baja (aprox 0.95%) pero tipica de una utility grande y madura, no necesariamente una senal de alerta.",
+          "notas": "Sin señales relevantes de venta masiva de insiders reportadas (a diferencia de HOOD); propiedad de insiders baja (aprox 0.95%) pero típica de una utility grande y madura, no necesariamente una señal de alerta.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso Strong Buy de 20 analistas segun stockanalysis.com, con precio objetivo promedio de 221.94 USD (aprox 54% sobre el precio actual de 144.28 USD); Bank of America bajo su precio objetivo a 196 USD manteniendo calificacion de Compra. El consenso alcista es direccionalmente consistente con el DCF propio de este analisis (Escenario A adoptado, ver filas 41 y 42), aunque el precio objetivo promedio de los analistas es superior al Escenario A y mas cercano al Escenario B (optimista).",
+          "notas": "Consenso Strong Buy de 20 analistas según stockanalysis.com, con precio objetivo promedio de 221.94 USD (aprox 54% sobre el precio actual de 144.28 USD); Bank of America bajo su precio objetivo a 196 USD manteniendo calificación de Compra. El consenso alcista es direccionalmente consistente con el DCF propio de este analisis (Escenario A adoptado, ver filas 41 y 42), aunque el precio objetivo promedio de los analistas es superior al Escenario A y mas cercano al Escenario B (optimista).",
           "calificacion": 4
         }
       ],
@@ -254,6 +254,6 @@
   "conclusion": {
     "score_promedio": 3.6216216216216215,
     "recomendacion": "COMPRAR",
-    "tesis": "Vistra combina generacion nuclear y de gas dificil de replicar con un negocio minorista que actua como hedge natural, y esta posicionada de forma unica para capturar la demanda de energia de centros de datos de IA via contratos de 20 anios con AWS y Meta; incluso bajo supuestos conservadores que no le dan credito pleno a esa tesis, el DCF propio muestra un margen de seguridad amplio, aunque el alto apalancamiento financiero y la volatilidad contable de las utilidades GAAP exigen seguimiento cercano."
+    "tesis": "Vistra combina generación nuclear y de gas difícil de replicar con un negocio minorista que actua como hedge natural, y esta posicionada de forma única para capturar la demanda de energía de centros de datos de IA via contratos de 20 años con AWS y Meta; incluso bajo supuestos conservadores que no le dan crédito pleno a esa tesis, el DCF propio muestra un margen de seguridad amplio, aunque el alto apalancamiento financiero y la volatilidad contable de las utilidades GAAP exigen seguimiento cercano."
   }
 }

@@ -1,36 +1,36 @@
 {
   "nombre": "SPDR S&P Metals & Mining ETF",
   "ticker": "XME",
-  "categoria": "Equity Tematico/Factor (S&P Metals & Mining Select Industry Index, EQUAL-WEIGHT modificado - mismo principio de factor que RSP ya en el workbook, aplicado a una industria angosta y ciclica- State Street/SPDR, PURO metales/mineria/acero -SIN quimicos tipo Linde, a diferencia de IYM ya en el workbook-, puente tematico hacia URA/URNM -uranio- y REMX -tierras raras-, ambos ya en el workbook, via holdings especificos)",
+  "categoria": "Equity Temático/Factor (S&P Metals & Mining Select Industry Index, EQUAL-WEIGHT modificado - mismo principio de factor que RSP ya en el workbook, aplicado a una industria angosta y ciclica- State Street/SPDR, PURO metales/mineria/acero -SIN quimicos tipo Linde, a diferencia de IYM ya en el workbook-, puente temático hacia URA/URNM -uranio- y REMX -tierras raras-, ambos ya en el workbook, via holdings específicos)",
   "emisor": "State Street (SPDR)",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica fisica del indice EQUAL-WEIGHT modificado -mecanica de reset trimestral, mismo driver de costo ya documentado con RSP-.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica física del índice EQUAL-WEIGHT modificado -mecánica de reset trimestral, mismo driver de costo ya documentado con RSP-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, RIC estandar -Select Industry SPDR NO es UIT-.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, RIC estándar -Select Industry SPDR NO es UIT-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $4.03-4.62bn - solido, MUCHO mayor que IYM -$1.05-1.18bn, fila 116- e IYK/IYZ.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $4.03-4.62bn - sólido, MUCHO mayor que IYM -$1.05-1.18bn, fila 116- e IYK/IYZ.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 19-jun-2006 (~20.15 anios) - cubre Crisis 2008, el crash de commodities 2015-16, COVID y bear 2022.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 19-jun-2006 (~20.15 años) - cubre Crisis 2008, el crash de commodities 2015-16, COVID y bear 2022.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor State Street/SPDR, aunque la linea 'Select Industry' es un sub-familia mas nicho que los Select Sector flagship -XLU/XLK/XLE/XLC/XLP/XLI-.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor State Street/SPDR, aunque la línea 'Select Industry' es un sub-familia mas nicho que los Select Sector flagship -XLU/XLK/XLE/XLC/XLP/XLI-.",
           "calificacion": 4
         }
       ],
@@ -40,22 +40,22 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.35% - algo menos que IYM -0.38%-, pero aun caro frente a la familia Select Sector -0.08%-, tier similar a RSP -0.20%- pero mas alto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica del indice equal-weight propio bien definido - tracking razonable esperado a SU indice, aunque con mayor turnover inherente que un fondo cap-weighted.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica del índice equal-weight propio bien definido - tracking razonable esperado a SU índice, aunque con mayor turnover inherente que un fondo cap-weighted.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "RIC estandar, no verificado si presta valores esta sesion.",
+          "notas": "RIC estándar, no verificado si presta valores esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
           "notas": "Rebalanceo TRIMESTRAL a peso igual - mismo mecanismo estructural de costo/turnover ya documentado con RSP -vende ganadores, compra rezagados-.",
           "calificacion": 2
         }
@@ -63,66 +63,66 @@
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~317,993 acciones/dia (~$37.2M/dia) - solido, comparable a IYM.",
+          "notas": "Volumen ~317,993 acciones/dia (~$37.2M/dia) - sólido, comparable a IYM.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread no encontrado en fuentes accesibles esta sesion - vacio de dato.",
+          "notas": "Spread no encontrado en fuentes accesibles esta sesión - vacio de dato.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no encontrado en fuentes accesibles esta sesion - vacio de dato.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no encontrado en fuentes accesibles esta sesión - vacio de dato.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "State Street/SPDR, aunque para un producto de la linea Select Industry -mas nicho- la profundidad real de AP es menor que en los Select Sector flagship.",
+          "notas": "State Street/SPDR, aunque para un producto de la línea Select Industry -mas nicho- la profundidad real de AP es menor que en los Select Sector flagship.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
+          "aspecto": "Número de holdings y diversificación",
           "notas": "39-40 holdings - similar a IYM -42-43-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 = solo 45.58% del NAV** - **NOTABLEMENTE MENOS concentrado que IYM -67-68%-**, confirma el beneficio de diversificacion genuino del equal-weighting -Hecla Mining HL 4.83%, Newmont NEM 4.83%, Centrus Energy LEU 4.70%, Uranium Energy Corp UEC 4.65%, Coeur Mining CDE 4.61%, Royal Gold RGLD 4.53%, Freeport-McMoRan FCX 4.24%, Nucor NUE 4.15%, Reliance Inc RS 4.10%, MP Materials MP 3.95%, pesos casi identicos ~4-5% cada uno-.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 = solo 45.58% del NAV** - **NOTABLEMENTE MENOS concentrado que IYM -67-68%-**, confirma el beneficio de diversificación genuino del equal-weighting -Hecla Mining HL 4.83%, Newmont NEM 4.83%, Centrus Energy LEU 4.70%, Uranium Energy Corp UEC 4.65%, Coeur Mining CDE 4.61%, Royal Gold RGLD 4.53%, Freeport-McMoRan FCX 4.24%, Nucor NUE 4.15%, Reliance Inc RS 4.10%, MP Materials MP 3.95%, pesos casi identicos ~4-5% cada uno-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Steel 28.20% + Gold 19.54% + Coal & Consumable Fuels 17.51% + Diversified Metals & Mining 16.50% + Aluminum 9.18% + Silver 4.83% + Copper 4.24% - genuinamente bien distribuido DENTRO de metales/mineria, sin una sub-industria tan dominante como Interactive Media en XLC/VOX. **SIN exposicion a Linde ni quimicos** -a diferencia de IYM-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Steel 28.20% + Gold 19.54% + Coal & Consumable Fuels 17.51% + Diversified Metals & Mining 16.50% + Aluminum 9.18% + Silver 4.83% + Copper 4.24% - genuinamente bien distribuido DENTRO de metales/mineria, sin una sub-industria tan dominante como Interactive Media en XLC/VOX. **SIN exposición a Linde ni quimicos** -a diferencia de IYM-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "US listado, aunque las mineras tienen operaciones globales significativas por naturaleza del negocio.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "**EQUAL-WEIGHT** -mismo factor que RSP ya en el workbook- aplicado a una industria angosta y altamente ciclica -metales/mineria-, con tilt implicito hacia small/mid-cap por el propio mecanismo de ponderacion igual.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "**EQUAL-WEIGHT** -mismo factor que RSP ya en el workbook- aplicado a una industria angosta y altamente ciclica -metales/mineria-, con tilt implícito hacia small/mid-cap por el propio mecanismo de ponderación igual.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "S&P Metals & Mining Select Industry Index -equal-weight modificado-, bien definido aunque mas nicho que los indices GICS Select Sector.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "S&P Metals & Mining Select Industry Index -equal-weight modificado-, bien definido aunque mas nicho que los índices GICS Select Sector.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo TRIMESTRAL a peso igual - mismo mecanismo estructural ya documentado con RSP.",
           "calificacion": 3
         }
@@ -130,63 +130,63 @@
       "rating_promedio": 3.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "**Retorno 1Y +49.69%** -extraordinario, entre los mejores del proyecto-, 3Y anualizado ~+28.5%, 5Y anualizado ~+21.5%, 10Y anualizado ~+23.05% - excepcional en el corto/mediano plazo. PERO **desde inception -20.15 anios- solo +6.25% anualizado promedio** - refleja el brutal mercado bajista de commodities 2011-2020, misma leccion de 'la fortaleza reciente enmascara una historia larga dificil' ya vista con QQQ/IYZ.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "**Retorno 1Y +49.69%** -extraordinario, entre los mejores del proyecto-, 3Y anualizado ~+28.5%, 5Y anualizado ~+21.5%, 10Y anualizado ~+23.05% - excepcional en el corto/mediano plazo. PERO **desde inception -20.15 años- solo +6.25% anualizado promedio** - refleja el brutal mercado bajista de commodities 2011-2020, misma lección de 'la fortaleza reciente enmascara una historia larga difícil' ya vista con QQQ/IYZ.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Rango 52 semanas $76.46-$135.68 (**ratio 1.774x**) - **EL MAS ALTO de todo el cluster reciente del proyecto** -supera a AIRR 1.54x e IYZ 1.527x-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown -85.89% desde inception** -probablemente periodo Crisis 2008-09- - **SEVERO, uno de los peores de TODO el proyecto** -cerca del -82.97% dot-com de QQQ-. Sin cifras aisladas de COVID, crash de commodities 2015-16 -posiblemente el stress test MAS RELEVANTE para este fondo especifico- ni bear 2022 encontradas - vacio de dato real.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown -85.89% desde inception** -probablemente período Crisis 2008-09- - **SEVERO, uno de los peores de TODO el proyecto** -cerca del -82.97% dot-com de QQQ-. Sin cifras aisladas de COVID, crash de commodities 2015-16 -posiblemente el stress test MAS RELEVANTE para este fondo específico- ni bear 2022 encontradas - vacio de dato real.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe 3.17 -portfolioslab- - **cifra EXPLICITAMENTE inflada por el rally excepcional 2025-2026, NO representativa del perfil de riesgo-retorno de largo plazo del fondo** - vacio/distorsion de dato real.",
+          "notas": "Sharpe 3.17 -portfolioslab- - **cifra EXPLÍCITAMENTE inflada por el rally excepcional 2025-2026, NO representativa del perfil de riesgo-retorno de largo plazo del fondo** - vacio/distorsión de dato real.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta = 1.29 vs S&P 500 - notablemente por encima de 1.0, mismo tier que AIRR, confirma la alta volatilidad de mineras small/mid-cap.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Max Drawdown -85.89% -probable Crisis 2008- documentado y severo, PERO vacio de dato real en el crash de commodities 2015-16 -arguiblemente el stress test MAS RELEVANTE para la tesis especifica de este fondo- y en COVID/2022 especificamente.",
+          "notas": "Max Drawdown -85.89% -probable Crisis 2008- documentado y severo, PERO vacio de dato real en el crash de commodities 2015-16 -arguiblemente el stress test MAS RELEVANTE para la tesis específica de este fondo- y en COVID/2022 específicamente.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 1.83
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "P/E 19.94x -stockanalysis- o 17.65x -SSGA forward- - razonablemente barato. **P/B 2.47x - de los mas bajos del cluster reciente** -vs SPY 5.37x, IVV 5.59x, XLI 7.19x-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield solo 0.32% - practicamente NULO, vehiculo puramente ciclico/especulativo, no de ingreso.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield solo 0.32% - prácticamente NULO, vehículo puramente ciclico/especulativo, no de ingreso.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**PUENTE TEMATICO MAS RICO del proyecto**: overlap directo con Newmont -NEM- y Freeport-McMoRan -FCX-, ambas ya analizadas individualmente en el proyecto de acciones; conexion genuina con URA/URNM -ya en el workbook, uranio- via holdings Centrus Energy -LEU- y Uranium Energy Corp -UEC-; conexion con REMX -ya en el workbook, tierras raras- via MP Materials. Comparado con IYM -fila 116, ya en el workbook-: XME es EQUAL-WEIGHT -vs el enfoque mas concentrado de IYM-, PURO metales/mineria/acero -SIN quimicos tipo Linde que domina IYM con ~19-20%-, Top10 mucho menos concentrado -45.58% vs 67-68%- pero MUCHO mas volatil -ratio 52 sem 1.774x vs ~1.38x de IYM, Beta 1.29 vs 0.88-0.98 de IYM-.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**PUENTE TEMÁTICO MAS RICO del proyecto**: overlap directo con Newmont -NEM- y Freeport-McMoRan -FCX-, ambas ya analizadas individualmente en el proyecto de acciones; conexion genuina con URA/URNM -ya en el workbook, uranio- via holdings Centrus Energy -LEU- y Uranium Energy Corp -UEC-; conexion con REMX -ya en el workbook, tierras raras- via MP Materials. Comparado con IYM -fila 116, ya en el workbook-: XME es EQUAL-WEIGHT -vs el enfoque mas concentrado de IYM-, PURO metales/mineria/acero -SIN quimicos tipo Linde que domina IYM con ~19-20%-, Top10 mucho menos concentrado -45.58% vs 67-68%- pero MUCHO mas volatil -ratio 52 sem 1.774x vs ~1.38x de IYM, Beta 1.29 vs 0.88-0.98 de IYM-.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **SATELITE TACTICO de alta conviccion commodity** - demasiado volatil -Drawdown historico -85.89%, CAGR desde inception de solo 6.25%- para un rol Core o incluso Satelite estable de largo plazo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **SATÉLITE TÁCTICO de alta convicción commodity** - demasiado volatil -Drawdown histórico -85.89%, CAGR desde inception de solo 6.25%- para un rol Core o incluso Satélite estable de largo plazo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: se beneficia del rally del oro 2025-2026 -+60% YTD-, la escasez de cobre por el boom de data centers de IA -demanda proyectada de ~110,000 a ~475,000 toneladas 2025-2026, agravada por el desastre de la mina Grasberg de Freeport en may-2025- y la proteccion arancelaria del acero - PERO el retorno 1Y extraordinario -+49.69%- se asienta sobre un CAGR historico de solo +6.25% en 20 anios, muestra de cuan rapido estas ganancias podrian revertirse.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: se beneficia del rally del oro 2025-2026 -+60% YTD-, la escasez de cobre por el boom de data centers de IA -demanda proyectada de ~110,000 a ~475,000 toneladas 2025-2026, agravada por el desastre de la mina Grasberg de Freeport en may-2025- y la protección arancelaria del acero - PERO el retorno 1Y extraordinario -+49.69%- se asienta sobre un CAGR histórico de solo +6.25% en 20 años, muestra de cuan rápido estas ganancias podrían revertirse.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) volatilidad historica EXTREMA - Max Drawdown -85.89% verificado, ratio 52 sem 1.774x el mas alto del cluster reciente; (2) CAGR desde inception de solo +6.25% en 20 anios pese al rally actual, riesgo genuino de reversion; (3) Beta 1.29, riesgo sistematico elevado; (4) Sharpe de 3.17 es una cifra enganosa/inflada por el rally, no representativa; (5) ingreso practicamente nulo -0.32%-, vehiculo puramente especulativo/ciclico.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) volatilidad histórica EXTREMA - Max Drawdown -85.89% verificado, ratio 52 sem 1.774x el mas alto del cluster reciente; (2) CAGR desde inception de solo +6.25% en 20 años pese al rally actual, riesgo genuino de reversión; (3) Beta 1.29, riesgo sistematico elevado; (4) Sharpe de 3.17 es una cifra enganosa/inflada por el rally, no representativa; (5) ingreso prácticamente nulo -0.32%-, vehículo puramente especulativo/ciclico.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "IYM -fila 116, ya en el workbook, alternativa 'Materials' mas concentrada y con quimicos, composicion genuinamente distinta- es el comparable sectorial mas cercano. URA/URNM -ya en el workbook, uranio- y REMX -ya en el workbook, tierras raras- comparten overlap tematico parcial via holdings especificos. SIVR/SLV/SGOL/IAU/GLD -ya en el workbook, metales preciosos fisicos- ofrecen una via menos volatil a la tesis de oro/plata sin riesgo operativo de mineras.",
+          "notas": "IYM -fila 116, ya en el workbook, alternativa 'Materials' mas concentrada y con quimicos, composición genuinamente distinta- es el comparable sectorial mas cercano. URA/URNM -ya en el workbook, uranio- y REMX -ya en el workbook, tierras raras- comparten overlap temático parcial via holdings específicos. SIVR/SLV/SGOL/IAU/GLD -ya en el workbook, metales preciosos fisicos- ofrecen una via menos volatil a la tesis de oro/plata sin riesgo operativo de mineras.",
           "calificacion": 4
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar) - rally extraordinario reciente sobre una base historica de volatilidad extrema y CAGR de largo plazo pobre. Score 2.94/5, cerca de la banda DIA/AIRR/IYM -2.85-2.91-. SPDR S&P Metals & Mining ETF, indice EQUAL-WEIGHT modificado -mismo principio de factor que RSP ya en el workbook, aplicado a una industria angosta y ciclica-. **PUENTE TEMATICO mas rico del proyecto**: overlap directo con Newmont y Freeport-McMoRan -ambas ya analizadas individualmente-, conexion con URA/URNM -uranio, via Centrus Energy/Uranium Energy Corp- y REMX -tierras raras, via MP Materials-, todos ya en el workbook. Comparado con IYM -fila 116, ya en el workbook-: XME es PURO metales/mineria/acero -SIN quimicos tipo Linde que domina IYM con ~19-20%-, Top 10 mucho MENOS concentrado -45.58% vs 67-68% de IYM- gracias al equal-weighting, pero MUCHO MAS VOLATIL -ratio 52 semanas 1.774x, **EL MAS ALTO de todo el cluster reciente del proyecto**, Beta 1.29 vs 0.88-0.98 de IYM-. Retorno 1Y **+49.69%**, extraordinario, entre los mejores del proyecto -3Y anualizado ~+28.5%, 5Y ~+21.5%, 10Y ~+23.05%-, PERO desde inception -20.15 anios- solo **+6.25% anualizado promedio** - refleja el brutal mercado bajista de commodities 2011-2020, misma leccion de 'fortaleza reciente enmascara historia dificil' ya vista con QQQ/IYZ. **Max Drawdown -85.89% desde inception** -uno de los peores del proyecto, cerca del -82.97% dot-com de QQQ-, sin dato aislado del crash de commodities 2015-16 -el stress test mas relevante para este fondo, no confirmado-. Sharpe de 3.17 es una cifra explicitamente enganosa, inflada por el rally actual. Dividend yield practicamente nulo -0.32%-. Rol en Portafolio: Satelite TACTICO de alta conviccion commodity unicamente, demasiado volatil para Core o Satelite estable de largo plazo. Beneficiado por el rally del oro, la escasez de cobre por IA/data centers, y la proteccion arancelaria del acero, pero con riesgo genuino de reversion dada la historia."
+    "tesis": "REDUCIR/VENDER (evitar) - rally extraordinario reciente sobre una base histórica de volatilidad extrema y CAGR de largo plazo pobre. Score 2.94/5, cerca de la banda DIA/AIRR/IYM -2.85-2.91-. SPDR S&P Metals & Mining ETF, índice EQUAL-WEIGHT modificado -mismo principio de factor que RSP ya en el workbook, aplicado a una industria angosta y ciclica-. **PUENTE TEMÁTICO mas rico del proyecto**: overlap directo con Newmont y Freeport-McMoRan -ambas ya analizadas individualmente-, conexion con URA/URNM -uranio, via Centrus Energy/Uranium Energy Corp- y REMX -tierras raras, via MP Materials-, todos ya en el workbook. Comparado con IYM -fila 116, ya en el workbook-: XME es PURO metales/mineria/acero -SIN quimicos tipo Linde que domina IYM con ~19-20%-, Top 10 mucho MENOS concentrado -45.58% vs 67-68% de IYM- gracias al equal-weighting, pero MUCHO MAS VOLATIL -ratio 52 semanas 1.774x, **EL MAS ALTO de todo el cluster reciente del proyecto**, Beta 1.29 vs 0.88-0.98 de IYM-. Retorno 1Y **+49.69%**, extraordinario, entre los mejores del proyecto -3Y anualizado ~+28.5%, 5Y ~+21.5%, 10Y ~+23.05%-, PERO desde inception -20.15 años- solo **+6.25% anualizado promedio** - refleja el brutal mercado bajista de commodities 2011-2020, misma lección de 'fortaleza reciente enmascara historia difícil' ya vista con QQQ/IYZ. **Max Drawdown -85.89% desde inception** -uno de los peores del proyecto, cerca del -82.97% dot-com de QQQ-, sin dato aislado del crash de commodities 2015-16 -el stress test mas relevante para este fondo, no confirmado-. Sharpe de 3.17 es una cifra explícitamente enganosa, inflada por el rally actual. Dividend yield prácticamente nulo -0.32%-. Rol en Portafolio: Satélite TÁCTICO de alta convicción commodity unicamente, demasiado volatil para Core o Satélite estable de largo plazo. Beneficiado por el rally del oro, la escasez de cobre por IA/data centers, y la protección arancelaria del acero, pero con riesgo genuino de reversión dada la historia."
   }
 }

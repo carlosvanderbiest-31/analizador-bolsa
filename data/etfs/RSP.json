@@ -1,35 +1,35 @@
 {
   "nombre": "Invesco S&P 500 Equal Weight ETF",
   "ticker": "RSP",
-  "categoria": "Equity Tematico/Factor (S&P 500 Equal Weight Index - LAS MISMAS 500 empresas de VOO/SPY/ITOT ya en el workbook pero ponderadas POR IGUAL -~0.2% cada una, reset trimestral- en vez de por capitalizacion de mercado - PRIMER fondo equal-weight puro del proyecto, reduce estructuralmente la concentracion mega-cap tech que se repite en VOO/SPY/ITOT/DGRO/VYM/VIG)",
+  "categoria": "Equity Temático/Factor (S&P 500 Equal Weight Index - LAS MISMAS 500 empresas de VOO/SPY/ITOT ya en el workbook pero ponderadas POR IGUAL -~0.2% cada una, reset trimestral- en vez de por capitalización de mercado - PRIMER fondo equal-weight puro del proyecto, reduce estructuralmente la concentración mega-cap tech que se repite en VOO/SPY/ITOT/DGRO/VYM/VIG)",
   "emisor": "Invesco",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA de las mismas 500 empresas del S&P 500, pero reponderadas a PESO IGUAL -~0.2% cada una- en cada rebalanceo TRIMESTRAL -tercer viernes de mar/jun/sep/dic-. Mecanicamente obliga a VENDER GANADORES y COMPRAR REZAGADOS cada trimestre para volver al peso igual - turnover estructuralmente MUCHO mayor que VOO/SPY/ITOT, que apenas rotan salvo altas/bajas del indice.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA de las mismas 500 empresas del S&P 500, pero reponderadas a PESO IGUAL -~0.2% cada una- en cada rebalanceo TRIMESTRAL -tercer viernes de mar/jun/sep/dic-. Mecanicamente obliga a VENDER GANADORES y COMPRAR REZAGADOS cada trimestre para volver al peso igual - turnover estructuralmente MUCHO mayor que VOO/SPY/ITOT, que apenas rotan salvo altas/bajas del índice.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, estructura RIC estandar -NO UIT como SPY, fila 104- - puede prestar valores y reinvertir dividendos normalmente, sin el cash drag de SPY.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, estructura RIC estándar -NO UIT como SPY, fila 104- - puede prestar valores y reinvertir dividendos normalmente, sin el cash drag de SPY.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$93-98bn segun fuente/fecha - solido, comparable a ITOT ($97.56bn, fila 103).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$93-98bn según fuente/fecha - sólido, comparable a ITOT ($97.56bn, fila 103).",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 24-abr-2003 (~23.3 anios) - CUBRE LA CRISIS FINANCIERA 2008, mas antiguo que VOO/VB/VTV/VUG -todos post-2010-, similar a ITOT (22.5 anios).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 24-abr-2003 (~23.3 años) - CUBRE LA CRISIS FINANCIERA 2008, mas antiguo que VOO/VB/VTV/VUG -todos post-2010-, similar a ITOT (22.5 años).",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor Invesco - pionero del smart-beta/equal-weight, RSP fue uno de los primeros ETFs de factor de la historia -lanzado 2003-.",
           "calificacion": 4
         }
@@ -40,89 +40,89 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.20% - notablemente mas caro que VOO/ITOT (0.03%) y que SPY (0.0945%), pero razonable dado el mecanismo de rebalanceo trimestral activo que requiere; sigue siendo muy barato frente a fondos activos tradicionales.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica fisica completa de su PROPIO indice -S&P 500 Equal Weight-, no del S&P 500 cap-weighted - tracking ajustado esperado a SU benchmark especifico, distincion importante: RSP no 'falla' en seguir al S&P 500, sigue fielmente un indice DISTINTO.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica física completa de su PROPIO índice -S&P 500 Equal Weight-, no del S&P 500 cap-weighted - tracking ajustado esperado a SU benchmark específico, distinción importante: RSP no 'falla' en seguir al S&P 500, sigue fielmente un índice DISTINTO.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Estructura RIC estandar, presumiblemente presta valores - revenue especifico no verificado esta sesion.",
+          "notas": "Estructura RIC estándar, presumiblemente presta valores - revenue específico no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "**Rotacion ESTRUCTURALMENTE ALTA** por el reset trimestral obligatorio a peso igual -vender ganadores, comprar rezagados- - el driver de costo mas distintivo de este fondo frente a cualquier otro fondo amplio del proyecto, mecanismo de 'reversion' contrario a la tendencia por diseno.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "**Rotación ESTRUCTURALMENTE ALTA** por el reset trimestral obligatorio a peso igual -vender ganadores, comprar rezagados- - el driver de costo mas distintivo de este fondo frente a cualquier otro fondo amplio del proyecto, mecanismo de 'reversión' contrario a la tendencia por diseño.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~1.44M acciones/dia (~$318M/dia al precio $220.26) - solido pero notablemente MENOR que VOO/ITOT/SPY (todos $500M-$30bn/dia), coherente con su naturaleza de nicho/factor frente a los fondos core mainstream.",
+          "notas": "Volumen ~1.44M acciones/dia (~$318M/dia al precio $220.26) - sólido pero notablemente MENOR que VOO/ITOT/SPY (todos $500M-$30bn/dia), coherente con su naturaleza de nicho/factor frente a los fondos core mainstream.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask <1 punto basico en promedio - muy ajustado pese al menor volumen relativo.",
+          "notas": "Spread bid-ask <1 punto básico en promedio - muy ajustado pese al menor volumen relativo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
+          "aspecto": "Premium/Discount histórico vs. NAV",
           "notas": "Premium/Discount vs NAV ~0.00% - opera esencialmente al NAV.",
           "calificacion": 4
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Invesco, emisor establecido con red de Authorized Participants suficientemente profunda para este tamano de fondo.",
+          "notas": "Invesco, emisor establecido con red de Authorized Participants suficientemente profunda para este tamaño de fondo.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "509 holdings - mismo universo de facto que VOO/SPY (~500-520), la diversificacion real no viene del conteo sino de la PONDERACION.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "509 holdings - mismo universo de facto que VOO/SPY (~500-520), la diversificación real no viene del conteo sino de la PONDERASIÓN.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 = solo ~2.9-4.34% del NAV** -fuentes varian- **DRAMATICAMENTE mas bajo** que VOO (36.33%), SPY (38.15%) o ITOT (33.86%) - de la concentracion mas baja de CUALQUIER fondo de gran capitalizacion del proyecto, rivaliza con el record de SCZ -2.64%, small-cap internacional-.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 = solo ~2.9-4.34% del NAV** -fuentes varian- **DRAMATICAMENTE mas bajo** que VOO (36.33%), SPY (38.15%) o ITOT (33.86%) - de la concentración mas baja de CUALQUIER fondo de gran capitalización del proyecto, rivaliza con el récord de SCZ -2.64%, small-cap internacional-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "**Tecnologia solo 16.49%** -vs 33-38% en VOO/SPY/ITOT- + Industrials 15.16% + Financials 14.68% + Healthcare 12.44% - distribucion sectorial MUCHO mas balanceada, el hallazgo estructural mas relevante de este fondo frente al resto del cluster S&P 500.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "**Tecnología solo 16.49%** -vs 33-38% en VOO/SPY/ITOT- + Industrials 15.16% + Financials 14.68% + Healthcare 12.44% - distribución sectorial MUCHO mas balanceada, el hallazgo estructural mas relevante de este fondo frente al resto del cluster S&P 500.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "**EQUAL-WEIGHT** - PRIMER fondo de este factor puro en el proyecto (distinto de VTV/VUG, que son cap-weighted DENTRO de su subconjunto de estilo, y de SPMO, que es un tilt de momentum). Implica un sesgo de reversion/tamano: sobrepondera sistematicamente las constituyentes MAS PEQUENAS del S&P 500 frente al cap-weighting.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "**EQUAL-WEIGHT** - PRIMER fondo de este factor puro en el proyecto (distinto de VTV/VUG, que son cap-weighted DENTRO de su subconjunto de estilo, y de SPMO, que es un tilt de momentum). Implica un sesgo de reversión/tamaño: sobrepondera sistematicamente las constituyentes MAS PEQUEÑAS del S&P 500 frente al cap-weighting.",
           "calificacion": 5
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P 500 Equal Weight -S&P Dow Jones Indices-, metodologia establecida y transparente, uno de los indices de smart-beta originales -desde 2003-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P 500 Equal Weight -S&P Dow Jones Índices-, metodología establecida y transparente, uno de los índices de smart-beta originales -desde 2003-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo TRIMESTRAL forzado a peso igual - mecanicamente distinto del cap-weighting casi estatico de VOO/SPY, turnover real mayor, pero SIN el mecanismo de decay compuesto diario de los fondos apalancados del proyecto.",
           "calificacion": 3
         }
@@ -130,51 +130,51 @@
       "rating_promedio": 4.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y +22.80% -cercano a VOO/SPY-, desde inception -23.3 anios- +11.41% anualizado, PERO 10Y ~11.89-12.02% vs ~15.51-15.68% de VOO / ~15.05% de SPY - **REZAGO SIGNIFICATIVO en la decada del mercado alcista liderado por mega-cap tech**. Nota 2026: reversion documentada de 'amplitud de mercado' -RSP +9.67% YTD vs SPY +8.38% YTD- sugiere posible cambio de regimen reciente.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y +22.80% -cercano a VOO/SPY-, desde inception -23.3 años- +11.41% anualizado, PERO 10Y ~11.89-12.02% vs ~15.51-15.68% de VOO / ~15.05% de SPY - **REZAGO SIGNIFICATIVO en la década del mercado alcista liderado por mega-cap tech**. Nota 2026: reversión documentada de 'amplitud de mercado' -RSP +9.67% YTD vs SPY +8.38% YTD- sugiere posible cambio de régimen reciente.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Rango 52 semanas $182.11-$221.33 (ratio 1.215x) - LIGERAMENTE menor que VOO/ITOT/SPY -~1.235x-, coherente con su beta mas bajo (0.92).",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown historico entre -59.92% y -55.6% segun fuente -conflicto no resuelto esta sesion-, en un rango similar al de VOO/ITOT/SPY sobre sus respectivas crisis. Sin cifra aislada de COVID/2022 verificada.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown histórico entre -59.92% y -55.6% según fuente -conflicto no resuelto esta sesión-, en un rango similar al de VOO/ITOT/SPY sobre sus respectivas crisis. Sin cifra aislada de COVID/2022 verificada.",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio conflictivo por ventana: 'actual' 1.50-1.88 vs decada completa 0.55 -RSP- contra 0.72 -VOO- - confirma el rezago de retorno ajustado por riesgo en el periodo largo.",
+          "notas": "Sharpe Ratio conflictivo por ventana: 'actual' 1.50-1.88 vs década completa 0.55 -RSP- contra 0.72 -VOO- - confirma el rezago de retorno ajustado por riesgo en el período largo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta = **0.92** vs S&P 500 - NO es 1.0 pese a contener literalmente las mismas 500 empresas, confirma el sesgo estructural de menor beta por el underweight de mega-cap tech de alto beta.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Inception 2003 cubre la Crisis 2008 -como ITOT- aunque sin cifra aislada verificada esta sesion. Sin dato especifico de COVID-2020 ni bear 2022 confirmado.",
+          "notas": "Inception 2003 cubre la Crisis 2008 -como ITOT- aunque sin cifra aislada verificada esta sesión. Sin dato específico de COVID-2020 ni bear 2022 confirmado.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.83
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E 21.02x -stockanalysis.com, otra fuente reporta 16.90x, conflicto no resuelto- - **NOTABLEMENTE MAS BARATO** que VOO (27.53x), SPY (26.82x) e ITOT (26.15x) - la valoracion ponderada mas barata de cualquier fondo de gran capitalizacion del proyecto, consecuencia directa de infraponderar el crecimiento mega-cap caro. P/B no encontrado.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E 21.02x -stockanalysis.com, otra fuente reporta 16.90x, conflicto no resuelto- - **NOTABLEMENTE MAS BARATO** que VOO (27.53x), SPY (26.82x) e ITOT (26.15x) - la valoración ponderada mas barata de cualquier fondo de gran capitalización del proyecto, consecuencia directa de infraponderar el crecimiento mega-cap caro. P/B no encontrado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
           "notas": "Dividend Yield 1.46-1.49% TTM, trimestral, payout ratio 30.52% - MAS ALTO que VOO (1.04%)/SPY (0.97%)/ITOT (0.97%), coherente con el tilt hacia constituyentes mas medianas/value del S&P 500.",
           "calificacion": 4
         }
@@ -182,11 +182,11 @@
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "LA COMPARACION MAS DIFERENCIADA del cluster S&P 500 del proyecto: RSP contiene LITERALMENTE las mismas 500 empresas que VOO/SPY/ITOT pero con una mecanica de ponderacion opuesta -igual vs capitalizacion-, resultando en Tech 16.49% vs 33-38%, Top10 ~3-4% vs 34-38%, P/E 21x vs 26-28x, yield 1.46-1.49% vs ~1%, y beta 0.92 vs 1.0-1.02 - a diferencia de ITOT -redundante con VOO+VB-, RSP NO es redundante pese a compartir el universo de nombres. El costo de esta diversificacion estructural es un rezago de CAGR real en la decada de mercado alcista mega-cap -10Y ~12% vs ~15% de VOO/SPY-, aunque 2026 muestra senales tempranas de reversion de 'amplitud de mercado'.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "LA COMPARASIÓN MAS DIFERENCIADA del cluster S&P 500 del proyecto: RSP contiene LITERALMENTE las mismas 500 empresas que VOO/SPY/ITOT pero con una mecánica de ponderación opuesta -igual vs capitalización-, resultando en Tech 16.49% vs 33-38%, Top10 ~3-4% vs 34-38%, P/E 21x vs 26-28x, yield 1.46-1.49% vs ~1%, y beta 0.92 vs 1.0-1.02 - a diferencia de ITOT -redundante con VOO+VB-, RSP NO es redundante pese a compartir el universo de nombres. El costo de esta diversificación estructural es un rezago de CAGR real en la década de mercado alcista mega-cap -10Y ~12% vs ~15% de VOO/SPY-, aunque 2026 muestra señales tempranas de reversión de 'amplitud de mercado'.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **SATELITE diversificador de concentracion**, no un reemplazo directo de VOO como Core - reduce especificamente el riesgo de concentracion mega-cap/superciclo IA ya flagged repetidamente en el proyecto -AVGO/MU/NVDA en VOO/SPY/ITOT/DGRO/VYM/VIG-.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **SATÉLITE diversificador de concentración**, no un reemplazo directo de VOO como Core - reduce específicamente el riesgo de concentración mega-cap/superciclo IA ya flagged repetidamente en el proyecto -AVGO/MU/NVDA en VOO/SPY/ITOT/DGRO/VYM/VIG-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion a las mismas 500 empresas de EEUU pero sin la concentracion mega-cap tech que domina VOO/SPY/ITOT, valoracion mas barata (P/E 21x) y yield mas alto (1.46-1.49%) - la respuesta directa del proyecto al patron recurrente de overlap NO COMPRAR-superciclo IA -AVGO/MU- que aparece en casi todos los fondos amplios ya analizados.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición a las mismas 500 empresas de EEUU pero sin la concentración mega-cap tech que domina VOO/SPY/ITOT, valoración mas barata (P/E 21x) y yield mas alto (1.46-1.49%) - la respuesta directa del proyecto al patrón recurrente de overlap NO COMPRAR-superciclo IA -AVGO/MU- que aparece en casi todos los fondos amplios ya analizados.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) rezago historico de CAGR frente a cap-weighted durante el mercado alcista liderado por mega-cap tech -10Y ~3.5pp/anio menos que VOO-; (2) TER mas alto (0.20%) y turnover estructuralmente mayor por el rebalanceo trimestral forzado; (3) cambia el riesgo de concentracion mega-cap por un tilt hacia mid-cap/sectores mas ciclicos -Industrials/Financials-, no es estrictamente 'mas seguro'; (4) 100% US, sin diversificacion geografica.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) rezago histórico de CAGR frente a cap-weighted durante el mercado alcista liderado por mega-cap tech -10Y ~3.5pp/año menos que VOO-; (2) TER mas alto (0.20%) y turnover estructuralmente mayor por el rebalanceo trimestral forzado; (3) cambia el riesgo de concentración mega-cap por un tilt hacia mid-cap/sectores mas ciclicos -Industrials/Financials-, no es estrictamente 'mas seguro'; (4) 100% US, sin diversificación geográfica.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "VOO/SPY/ITOT -ya en el workbook, todos cap-weighted, el contraste directo- son las comparables mas relevantes. No se identifico un competidor equal-weight S&P 500 directo de otro emisor en esta investigacion -Invesco practicamente domina este nicho especifico con RSP-.",
+          "notas": "VOO/SPY/ITOT -ya en el workbook, todos cap-weighted, el contraste directo- son las comparables mas relevantes. No se identifico un competidor equal-weight S&P 500 directo de otro emisor en esta investigación -Invesco prácticamente domina este nicho específico con RSP-.",
           "calificacion": 4
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "SATELITE DIVERSIFICADOR DE CONCENTRACION - MANTENER/ACUMULAR GRADUAL. Score 3.67/5, entre SPY (3.55) y VOO/ITOT (3.88-3.91). Invesco S&P 500 Equal Weight ETF, PRIMER fondo equal-weight puro del proyecto: contiene LITERALMENTE las mismas 500 empresas que VOO -fila 102-, SPY -fila 104- e ITOT -fila 103-, ya en el workbook, pero ponderadas POR IGUAL -~0.2% cada una, reset trimestral- en vez de por capitalizacion de mercado. Esto produce el hallazgo estructural mas relevante del cluster: Tecnologia solo 16.49% -vs 33-38% en VOO/SPY/ITOT-, Top 10 apenas ~2.9-4.34% del NAV -vs 34-38%, de la concentracion mas baja de cualquier fondo de gran capitalizacion del proyecto-, P/E 21.02x notablemente mas barato -vs 26-28x-, yield 1.46-1.49% mas alto -vs ~1%-, y Beta 0.92 -NO 1.0 pese a las mismas 500 empresas-. Esta es la respuesta MAS DIRECTA del proyecto al patron de overlap NO COMPRAR-superciclo IA -AVGO/MU- que se repite en casi todos los fondos amplios ya analizados -VOO/SPY/ITOT/DGRO/VYM/VIG-. El costo real: rezago de CAGR documentado en la decada de mercado alcista liderado por mega-cap tech -10Y ~11.89-12.02% vs ~15.05-15.68% de VOO/SPY-, TER mas alto (0.20%) y turnover estructuralmente mayor por el rebalanceo trimestral forzado -vende ganadores, compra rezagados-. 2026 YTD muestra una reversion temprana documentada de 'amplitud de mercado' -RSP +9.67% vs SPY +8.38%-, aunque insuficiente aun para revertir el rezago de largo plazo. Track record 23.3 anios -inception abr-2003- cubre la Crisis 2008, similar a ITOT. Rol en Portafolio: SATELITE, no reemplazo de VOO como Core - valioso especificamente como diversificador de la concentracion mega-cap que el resto del cluster amplio del proyecto comparte."
+    "tesis": "SATÉLITE DIVERSIFICADOR DE CONCENTRASIÓN - MANTENER/ACUMULAR GRADUAL. Score 3.67/5, entre SPY (3.55) y VOO/ITOT (3.88-3.91). Invesco S&P 500 Equal Weight ETF, PRIMER fondo equal-weight puro del proyecto: contiene LITERALMENTE las mismas 500 empresas que VOO -fila 102-, SPY -fila 104- e ITOT -fila 103-, ya en el workbook, pero ponderadas POR IGUAL -~0.2% cada una, reset trimestral- en vez de por capitalización de mercado. Esto produce el hallazgo estructural mas relevante del cluster: Tecnología solo 16.49% -vs 33-38% en VOO/SPY/ITOT-, Top 10 apenas ~2.9-4.34% del NAV -vs 34-38%, de la concentración mas baja de cualquier fondo de gran capitalización del proyecto-, P/E 21.02x notablemente mas barato -vs 26-28x-, yield 1.46-1.49% mas alto -vs ~1%-, y Beta 0.92 -NO 1.0 pese a las mismas 500 empresas-. Esta es la respuesta MAS DIRECTA del proyecto al patrón de overlap NO COMPRAR-superciclo IA -AVGO/MU- que se repite en casi todos los fondos amplios ya analizados -VOO/SPY/ITOT/DGRO/VYM/VIG-. El costo real: rezago de CAGR documentado en la década de mercado alcista liderado por mega-cap tech -10Y ~11.89-12.02% vs ~15.05-15.68% de VOO/SPY-, TER mas alto (0.20%) y turnover estructuralmente mayor por el rebalanceo trimestral forzado -vende ganadores, compra rezagados-. 2026 YTD muestra una reversión temprana documentada de 'amplitud de mercado' -RSP +9.67% vs SPY +8.38%-, aunque insuficiente aun para revertir el rezago de largo plazo. Track record 23.3 años -inception abr-2003- cubre la Crisis 2008, similar a ITOT. Rol en Portafolio: SATÉLITE, no reemplazo de VOO como Core - valioso específicamente como diversificador de la concentración mega-cap que el resto del cluster amplio del proyecto comparte."
   }
 }

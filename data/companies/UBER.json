@@ -1,7 +1,7 @@
 {
   "empresa": "Uber Technologies Inc",
   "ticker": "UBER",
-  "sector": "Tecnologia - Software Aplicado (clasificacion Finviz); GICS oficial la ubica en Industriales - Transporte Terrestre de Pasajeros",
+  "sector": "Tecnología - Software Aplicado (clasificación Finviz); GICS oficial la ubica en Industriales - Transporte Terrestre de Pasajeros",
   "fecha_analisis": "46238",
   "analista": null,
   "secciones": [
@@ -15,17 +15,17 @@
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Efecto de red de dos lados (mas pasajeros atraen mas conductores, tiempos de espera mas cortos atraen mas pasajeros) mas un moat de datos: anios de informacion de viajes y demanda alimentan los algoritmos de precio y despacho, dificiles de replicar rapido para un entrante nuevo.",
+          "notas": "Efecto de red de dos lados (mas pasajeros atraen mas conductores, tiempos de espera mas cortos atraen mas pasajeros) mas un moat de datos: años de información de viajes y demanda alimentan los algoritmos de precio y despacho, difíciles de replicar rápido para un entrante nuevo.",
           "calificacion": 4
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Dominante en EEUU (aprox 75% de cuota en rideshare vs. Lyft con 24-25%) y lider en Delivery domestico frente a DoorDash. Internacionalmente mas fragmentado: Didi domina en China (~32.8bn USD de ingresos 2025), Grab controla ~73% en el sudeste asiatico, Bolt en Europa y Africa, InDrive en mercados emergentes.",
+          "notas": "Dominante en EEUU (aprox 75% de cuota en rideshare vs. Lyft con 24-25%) y líder en Delivery domestico frente a DoorDash. Internacionalmente mas fragmentado: Didi domina en China (~32.8bn USD de ingresos 2025), Grab controla ~73% en el sudeste asiatico, Bolt en Europa y Africa, InDrive en mercados emergentes.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Moderado: puede ajustar el take rate y usar precios dinamicos (surge pricing), pero la presion competitiva de Lyft y DoorDash y la sensibilidad al precio de consumidores y conductores (que presionan por mejor paga) limitan cuanto puede subir precios sin perder volumen.",
+          "notas": "Moderado: puede ajustar el take rate y usar precios dinámicos (surge pricing), pero la presión competitiva de Lyft y DoorDash y la sensibilidad al precio de consumidores y conductores (que presionan por mejor paga) limitan cuanto puede subir precios sin perder volumen.",
           "calificacion": 3
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Dara Khosrowshahi (CEO desde 2017) convirtio a Uber de un negocio que quemaba caja a uno consistentemente rentable y generador de FCF desde 2023. Reestructuro la deuda a tasas mas bajas en 2025 y diversifico la apuesta de vehiculos autonomos de un solo socio exclusivo (Waymo) a compromisos por 10 mil millones USD repartidos entre unos 30 socios de AV, reduciendo riesgo de concentracion.",
+          "notas": "Dara Khosrowshahi (CEO desde 2017) convirtio a Uber de un negocio que quemaba caja a uno consistentemente rentable y generador de FCF desde 2023. Reestructuro la deuda a tasas mas bajas en 2025 y diversifico la apuesta de vehículos autonomos de un solo socio exclusivo (Waymo) a compromisos por 10 mil millones USD repartidos entre unos 30 socios de AV, reduciendo riesgo de concentración.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Propiedad interna moderada (4.20% segun Finviz). Patron de venta neta de insiders (9 ventas vs. 2 compras en 5 anios, incluida una venta de Khosrowshahi de 150000 acciones, ~15 millones USD, en septiembre 2025) - parece diversificacion rutinaria ligada a vesting de RSUs, no una senal de alarma pero tampoco un patron de compra que refuerce confianza.",
+          "notas": "Propiedad interna moderada (4.20% según Finviz). Patrón de venta neta de insiders (9 ventas vs. 2 compras en 5 años, incluida una venta de Khosrowshahi de 150000 acciones, ~15 millones USD, en septiembre 2025) - parece diversificación rutinaria ligada a vesting de RSUs, no una señal de alarma pero tampoco un patrón de compra que refuerce confianza.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Reporta guia trimestral de Adjusted EBITDA, publica datos suplementarios detallados por segmento y cartas del CEO con contexto de tendencias (incluyendo vientos en contra de macro y precio de gasolina) - nivel de transparencia razonable para el sector.",
+          "notas": "Reporta guia trimestral de Adjusted EBITDA, pública datos suplementarios detallados por segmento y cartas del CEO con contexto de tendencias (incluyendo vientos en contra de macro y precio de gasolina) - nivel de transparencia razonable para el sector.",
           "calificacion": 4
         }
       ],
@@ -62,12 +62,12 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda Neta sobre Adjusted EBITDA de aprox 0.74x (deuda neta ~6.86 mil millones USD sobre Adjusted EBITDA TTM ~9.3 mil millones USD), apalancamiento bajo. Deuda a Patrimonio de 0.50 segun Finviz. En septiembre 2025 emitio 2.25 mil millones USD en notas senior (4.150% a 2031 y 4.800% a 2035) para refinanciar deuda mas cara, incluyendo notas convertibles al 0% y notas al 7.5% y 6.25%.",
+          "notas": "Deuda Neta sobre Adjusted EBITDA de aprox 0.74x (deuda neta ~6.86 mil millones USD sobre Adjusted EBITDA TTM ~9.3 mil millones USD), apalancamiento bajo. Deuda a Patrimonio de 0.50 según Finviz. En septiembre 2025 emitio 2.25 mil millones USD en notas senior (4.150% a 2031 y 4.800% a 2035) para refinanciar deuda mas cara, incluyendo notas convertibles al 0% y notas al 7.5% y 6.25%.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente de 1.07 (activos corrientes 12.82 mil millones USD sobre pasivos corrientes 11.99 mil millones USD) - ajustada pero tipica de un marketplace ligero en activos con capital de trabajo de rotacion rapida; caja disponible de 5.56 mil millones USD.",
+          "notas": "Razón corriente de 1.07 (activos corrientes 12.82 mil millones USD sobre pasivos corrientes 11.99 mil millones USD) - ajustada pero típica de un marketplace ligero en activos con capital de trabajo de rotación rápida; caja disponible de 5.56 mil millones USD.",
           "calificacion": 3
         },
         {
@@ -77,7 +77,7 @@
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales de 59.89 mil millones USD sobre patrimonio de 25.81 mil millones USD. Incluye goodwill de adquisiciones pasadas (Careem, Postmates) y participaciones accionarias relevantes en Aurora, Didi y Grab que se marcan a mercado y generan volatilidad no operativa en la utilidad neta (ej. perdida no realizada de 1.5 mil millones USD antes de impuestos en Q1 2026) - calidad de activos aceptable pero con una porcion no despreciable de activos no operativos y volatiles.",
+          "notas": "Activos totales de 59.89 mil millones USD sobre patrimonio de 25.81 mil millones USD. Incluye goodwill de adquisiciones pasadas (Careem, Postmates) y participaciones accionarias relevantes en Aurora, Didi y Grab que se marcan a mercado y generan volatilidad no operativa en la utilidad neta (ej. pérdida no realizada de 1.5 mil millones USD antes de impuestos en Q1 2026) - calidad de activos aceptable pero con una porción no despreciable de activos no operativos y volatiles.",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto TTM de 41.03% segun stockanalysis (Finviz reporta 34.17% con una definicion de costo de ingresos distinta - se prioriza el calculo de stockanalysis por ser mas transparente en el desglose). Margen operativo TTM 11.66%, en clara tendencia de mejora desde perdidas operativas en anios previos a 2023. Margen neto TTM 16.13%, aunque inflado por beneficios fiscales no recurrentes (ver fila de flujo de caja).",
+          "notas": "Margen bruto TTM de 41.03% según stockanalysis (Finviz reporta 34.17% con una definición de costo de ingresos distinta - se prioriza el calculo de stockanalysis por ser mas transparente en el desglose). Margen operativo TTM 11.66%, en clara tendencia de mejora desde pérdidas operativas en años previos a 2023. Margen neto TTM 16.13%, aunque inflado por beneficios fiscales no recurrentes (ver fila de flujo de caja).",
           "calificacion": 4
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 36.55% y ROIC 23.10% segun Finviz, ambos muy por encima del costo de capital estimado (WACC ~9.32%) - spread favorable amplio, aunque el ROE esta parcialmente inflado por la utilidad neta con beneficios fiscales no recurrentes de 2024 y 2025.",
+          "notas": "ROE 36.55% y ROIC 23.10% según Finviz, ambos muy por encima del costo de capital estimado (WACC ~9.32%) - spread favorable amplio, aunque el ROE esta parcialmente inflado por la utilidad neta con beneficios fiscales no recurrentes de 2024 y 2025.",
           "calificacion": 4
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos de 0.90x (ingresos TTM 53.69 mil millones USD sobre activos totales 59.89 mil millones USD) - razonable para un modelo de marketplace ligero en activos, aunque reducida por las participaciones accionarias no operativas en el balance.",
+          "notas": "Rotación de activos de 0.90x (ingresos TTM 53.69 mil millones USD sobre activos totales 59.89 mil millones USD) - razonable para un modelo de marketplace ligero en activos, aunque reducida por las participaciones accionarias no operativas en el balance.",
           "calificacion": 4
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR de ingresos a 5 anios de 36.10% segun Finviz, pero distorsionado por la base baja de la recuperacion pos-pandemia (ingresos de 17.46 mil millones USD en 2021 a 52.02 mil millones USD en 2025). El CAGR a 3 anios (17.73%) y el crecimiento TTM (+18.3% interanual) son mas representativos del ritmo actual, organico y no impulsado por M&A relevante reciente.",
+          "notas": "CAGR de ingresos a 5 años de 36.10% según Finviz, pero distorsionado por la base baja de la recuperación pos-pandemia (ingresos de 17.46 mil millones USD en 2021 a 52.02 mil millones USD en 2025). El CAGR a 3 años (17.73%) y el crecimiento TTM (+18.3% interanual) son mas representativos del ritmo actual, orgánico y no impulsado por M&A relevante reciente.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Crecimiento trimestre a trimestre consistente (ventas trimestrales +14.48% segun Finviz), menos ciclico que negocios cripto o de commodities, aunque sensible a gasto discrecional del consumidor, precio de la gasolina y condiciones macro segun la propia carta del CEO de Q1 2026.",
+          "notas": "Crecimiento trimestre a trimestre consistente (ventas trimestrales +14.48% según Finviz), menos ciclico que negocios cripto o de commodities, aunque sensible a gasto discrecional del consumidor, precio de la gasolina y condiciones macro según la propia carta del CEO de Q1 2026.",
           "calificacion": 4
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Expansion de Delivery hacia comestibles, retail y publicidad (Uber for Business tambien crece en viajes corporativos), recuperacion de Freight por comercio EEUU-Mexico, penetracion internacional adicional, y una posible optionalidad al alza si Uber logra consolidarse como la capa de demanda agregadora para flotas de vehiculos autonomos de terceros en vez de ser desplazado por ellas.",
+          "notas": "Expansión de Delivery hacia comestibles, retail y publicidad (Uber for Business también crece en viajes corporativos), recuperación de Freight por comercio EEUU-Mexico, penetración internacional adicional, y una posible optionalidad al alza si Uber logra consolidarse como la capa de demanda agregadora para flotas de vehículos autonomos de terceros en vez de ser desplazado por ellas.",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo TTM de 10.13 mil millones USD, superior y de mejor calidad que la utilidad neta TTM de 8.54 mil millones USD, la cual esta inflada por beneficios fiscales no recurrentes de valuacion diferida (6.4 mil millones USD en 2024 y 5.0 mil millones USD en 2025) y golpeada puntualmente en Q1 2026 por una perdida no realizada de 1.5 mil millones USD en inversiones accionarias marcadas a mercado (Aurora, Didi, Grab). No se uso la utilidad neta GAAP como base del DCF - se prefirio el FCF.",
+          "notas": "Flujo de caja operativo TTM de 10.13 mil millones USD, superior y de mejor calidad que la utilidad neta TTM de 8.54 mil millones USD, la cual esta inflada por beneficios fiscales no recurrentes de valuación diferida (6.4 mil millones USD en 2024 y 5.0 mil millones USD en 2025) y golpeada puntualmente en Q1 2026 por una pérdida no realizada de 1.5 mil millones USD en inversiones accionarias marcadas a mercado (Aurora, Didi, Grab). No se uso la utilidad neta GAAP como base del DCF - se prefirio el FCF.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM de 9.80 mil millones USD sobre Adjusted EBITDA TTM de aprox 9.3 mil millones USD - conversion superior al 100%, excelente, reflejo de un capex minimo.",
+          "notas": "FCF TTM de 9.80 mil millones USD sobre Adjusted EBITDA TTM de aprox 9.3 mil millones USD - conversión superior al 100%, excelente, reflejo de un capex mínimo.",
           "calificacion": 5
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM de solo 327 millones USD, apenas 0.6% de ingresos - casi todo de mantenimiento; el crecimiento en flotas de vehiculos autonomos se financia mayormente con el capital de los aprox 30 socios de AV, no con capex propio de Uber, reforzando el perfil ligero en activos.",
+          "notas": "Capex TTM de solo 327 millones USD, apenas 0.6% de ingresos - casi todo de mantenimiento; el crecimiento en flotas de vehículos autonomos se financia mayormente con el capital de los aprox 30 socios de AV, no con capex propio de Uber, reforzando el perfil ligero en activos.",
           "calificacion": 5
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Refinanciamiento de deuda a tasas mas bajas en 2025, diversificacion de compromisos de capital hacia multiples socios de AV en vez de una apuesta concentrada en un solo socio (Waymo) tras el fin de la exclusividad - asignacion de capital prudente, aunque no se confirmo con esta investigacion el estado actual del programa de recompra de acciones.",
+          "notas": "Refinanciamiento de deuda a tasas mas bajas en 2025, diversificación de compromisos de capital hacia múltiples socios de AV en vez de una apuesta concentrada en un solo socio (Waymo) tras el fin de la exclusividad - asignación de capital prudente, aunque no se confirmo con esta investigación el estado actual del programa de recompra de acciones.",
           "calificacion": 4
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "PE TTM de 17.94x y PE forward de 16.07x segun Finviz - moderado para el crecimiento y calidad del negocio. Multiplo EV sobre EBITDA de 20.67x (stockanalysis) y precio sobre FCF de aprox 14.95x, que luce atractivo para una historia de FCF compuesto, aunque el PE esta algo distorsionado por la utilidad neta inflada por partidas fiscales no recurrentes.",
+          "notas": "PE TTM de 17.94x y PE forward de 16.07x según Finviz - moderado para el crecimiento y calidad del negocio. Múltiplo EV sobre EBITDA de 20.67x (stockanalysis) y precio sobre FCF de aprox 14.95x, que luce atractivo para una historia de FCF compuesto, aunque el PE esta algo distorsionado por la utilidad neta inflada por partidas fiscales no recurrentes.",
           "calificacion": 4
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Valor intrinseco propio de 128.46 USD por accion (Escenario A adoptado: WACC 9.32% via CAPM con Beta 1.15, Rf 3.5%, ERP 5.5%, costo de deuda post-impuestos aprox 3.375% sobre una estructura con deuda al 7.81% del capital; FCF base = TTM 9.80 mil millones USD, estable trimestre a trimestre por lo que no fue necesario promediar como en MU; crecimiento a 5 anios de 12%, anclado al crecimiento de ingresos consensuado de analistas para 2026 de 11.89%; crecimiento terminal 4%).",
+          "notas": "Valor intrínseco propio de 128.46 USD por acción (Escenario A adoptado: WACC 9.32% via CAPM con Beta 1.15, Rf 3.5%, ERP 5.5%, costo de deuda post-impuestos aprox 3.375% sobre una estructura con deuda al 7.81% del capital; FCF base = TTM 9.80 mil millones USD, estable trimestre a trimestre por lo que no fue necesario promediar como en MU; crecimiento a 5 años de 12%, anclado al crecimiento de ingresos consensuado de analistas para 2026 de 11.89%; crecimiento terminal 4%).",
           "calificacion": 5
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad de +78.5% (precio actual 71.99 USD vs. valor intrinseco 128.46 USD) - uno de los mas favorables de las nueve empresas del Dashboard. Escenario B de sensibilidad (no adoptado, creciendo al 15% anual extrapolando la aceleracion de ingresos consensuada de 2026 a 2027 de 15.35%): 145.65 USD por accion, margen +102.3%. Escenario descartado explicitamente: el EPS Next 5Y de Finviz de solo 5.25% es inconsistente con el crecimiento de ingresos consensuado (11.89% a 15.35%) y con el CAGR historico a 3 anios (17.73%), probablemente distorsionado por comparar contra una base de EPS TTM inflada por beneficios fiscales no recurrentes de 2024 y 2025 - usarlo daria 95.77 USD por accion (margen todavia positivo, +33.0%). Los tres escenarios apuntan a Comprar, sugiriendo que la conclusion es razonablemente robusta a la incertidumbre de la tasa de crecimiento. Sin embargo, ningun escenario incorpora explicitamente un descuento por el riesgo de disrupcion de vehiculos autonomos que el propio mercado esta castigando (la accion cayo 28 a 31% desde su maximo de octubre de 2025 por este motivo) - el consenso promedio de analistas (precio objetivo ~104 USD, +44% de alza) es notablemente mas conservador que nuestro propio DCF, y esa brecha es la conclusion mas importante del analisis.",
+          "notas": "Margen de Seguridad de +78.5% (precio actual 71.99 USD vs. valor intrínseco 128.46 USD) - uno de los mas favorables de las nueve empresas del Dashboard. Escenario B de sensibilidad (no adoptado, creciendo al 15% anual extrapolando la aceleración de ingresos consensuada de 2026 a 2027 de 15.35%): 145.65 USD por acción, margen +102.3%. Escenario descartado explícitamente: el EPS Next 5Y de Finviz de solo 5.25% es inconsistente con el crecimiento de ingresos consensuado (11.89% a 15.35%) y con el CAGR histórico a 3 años (17.73%), probablemente distorsionado por comparar contra una base de EPS TTM inflada por beneficios fiscales no recurrentes de 2024 y 2025 - usarlo daria 95.77 USD por acción (margen todavía positivo, +33.0%). Los tres escenarios apuntan a Comprar, sugiriendo que la conclusión es razonablemente robusta a la incertidumbre de la tasa de crecimiento. Sin embargo, ningún escenario incorpora explícitamente un descuento por el riesgo de disrupción de vehículos autonomos que el propio mercado esta castigando (la acción cayo 28 a 31% desde su máximo de octubre de 2025 por este motivo) - el consenso promedio de analistas (precio objetivo ~104 USD, +44% de alza) es notablemente mas conservador que nuestro propio DCF, y esa brecha es la conclusión mas importante del analisis.",
           "calificacion": 5
         }
       ],
@@ -177,7 +177,7 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado muy amplio y en expansion: transporte de pasajeros, entrega de comida y de comestibles o retail, y corretaje de carga a nivel global, con nuevas verticales en desarrollo (publicidad en la plataforma, medios de retail).",
+          "notas": "Mercado muy amplio y en expansión: transporte de pasajeros, entrega de comida y de comestibles o retail, y corretaje de carga a nivel global, con nuevas verticales en desarrollo (publicidad en la plataforma, medios de retail).",
           "calificacion": 5
         },
         {
@@ -187,7 +187,7 @@
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta (Lyft, DoorDash y jugadores regionales fuertes fuera de EEUU); poder de proveedores moderado (conductores y repartidores, con riesgo creciente de reclasificacion laboral); poder de compradores moderado (consumidores sensibles al precio que alternan entre apps facilmente); amenaza de nuevos entrantes baja a escala por los efectos de red; amenaza de sustitutos emergente y significativa por la disrupcion de vehiculos autonomos.",
+          "notas": "Rivalidad alta (Lyft, DoorDash y jugadores regionales fuertes fuera de EEUU); poder de proveedores moderado (conductores y repartidores, con riesgo creciente de reclasificación laboral); poder de compradores moderado (consumidores sensibles al precio que alternan entre apps facilmente); amenaza de nuevos entrantes baja a escala por los efectos de red; amenaza de sustitutos emergente y significativa por la disrupción de vehículos autonomos.",
           "calificacion": 3
         },
         {
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo activo y creciente: demanda de abril 2026 (Rideshare Drivers United contra Uber) alega incumplimiento de los requisitos de la Proposicion 22 de California (proceso de apelaciones, estipendios de salud), lo que podria reabrir la puerta a la reclasificacion total de conductores como empleados. El Departamento de Trabajo federal se mueve en direccion favorable (menos restricciones a contratistas), pero varios estados (Nueva Jersey, Illinois, Washington) proponen leyes similares a Prop 22 con riesgo de reclasificacion.",
+          "notas": "Riesgo activo y creciente: demanda de abril 2026 (Rideshare Drivers United contra Uber) alega incumplimiento de los requisitos de la Proposición 22 de California (proceso de apelaciones, estipendios de salud), lo que podría reabrir la puerta a la reclasificación total de conductores como empleados. El Departamento de Trabajo federal se mueve en dirección favorable (menos restricciones a contratistas), pero varios estados (Nueva Jersey, Illinois, Washington) proponen leyes similares a Prop 22 con riesgo de reclasificación.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional relevante en ingresos (aunque Mobility y Delivery generan ingresos en moneda local en muchos paises), con vientos en contra de macro y tipo de cambio mencionados explicitamente en la carta del CEO de Q1 2026.",
+          "notas": "Exposición internacional relevante en ingresos (aunque Mobility y Delivery generan ingresos en moneda local en muchos paises), con vientos en contra de macro y tipo de cambio mencionados explícitamente en la carta del CEO de Q1 2026.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Sin concentracion de clientes (base de aprox 189 millones de consumidores activos mensuales en la plataforma, MAPCs). El lado de la oferta (conductores y repartidores) es esencial y esta sujeto a riesgo laboral, pero la diversificacion reciente a unos 30 socios de vehiculos autonomos (tras el fin de la exclusividad con Waymo) redujo el riesgo de depender de un solo socio de AV.",
+          "notas": "Sin concentración de clientes (base de aprox 189 millones de consumidores activos mensuales en la plataforma, MAPCs). El lado de la oferta (conductores y repartidores) es esencial y esta sujeto a riesgo laboral, pero la diversificación reciente a unos 30 socios de vehículos autonomos (tras el fin de la exclusividad con Waymo) redujo el riesgo de depender de un solo socio de AV.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "El mayor factor de incertidumbre actual para la accion: la transicion a vehiculos autonomos. El fin de la exclusividad con Waymo (piloto de Phoenix terminado en junio 2026, competencia directa emergiendo en Dallas, Londres y San Francisco) junto al despliegue de robotaxi de Tesla han presionado la accion a la baja 28 a 31% desde su maximo historico de octubre de 2025 (~100 USD), pese a fundamentales solidos. El mercado esta dividido entre si los AV desintermedian el rol de agregador de demanda de Uber o se convierten en un nuevo vector de crecimiento.",
+          "notas": "El mayor factor de incertidumbre actual para la acción: la transición a vehículos autonomos. El fin de la exclusividad con Waymo (piloto de Phoenix terminado en junio 2026, competencia directa emergiendo en Dallas, Londres y San Francisco) junto al despliegue de robotaxi de Tesla han presionado la acción a la baja 28 a 31% desde su máximo histórico de octubre de 2025 (~100 USD), pese a fundamentales sólidos. El mercado esta dividido entre si los AV desintermedian el rol de agregador de demanda de Uber o se convierten en un nuevo vector de crecimiento.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "El trato laboral a conductores y repartidores (clasificacion como contratistas independientes) es el principal punto de friccion ESG, con escrutinio regulatorio y de inversores continuo; historial tambien de litigios de seguridad y responsabilidad civil relacionados con incidentes en viajes.",
+          "notas": "El trato laboral a conductores y repartidores (clasificación como contratistas independientes) es el principal punto de fricción ESG, con escrutinio regulatorio y de inversores continuo; historial también de litigios de seguridad y responsabilidad civil relacionados con incidentes en viajes.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados de Q2 2026 se reportan el 5 de agosto de 2026, un dia despues de este analisis - practicamente todas las cifras TTM de esta ficha quedaran desactualizadas dentro de 24 horas; revisar la guia de Adjusted EBITDA (2.70 a 2.80 mil millones USD para Q2) y cualquier actualizacion sobre las alianzas de vehiculos autonomos.",
+          "notas": "Resultados de Q2 2026 se reportan el 5 de agosto de 2026, un dia después de este analisis - prácticamente todas las cifras TTM de esta ficha quedaran desactualizadas dentro de 24 horas; revisar la guia de Adjusted EBITDA (2.70 a 2.80 mil millones USD para Q2) y cualquier actualización sobre las alianzas de vehículos autonomos.",
           "calificacion": 4
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Patron de venta neta pero de magnitud moderada y aparentemente rutinaria (vesting de RSUs): 9 ventas vs. 2 compras en 5 anios, propiedad interna de 4.20% segun Finviz, transacciones netas recientes de insiders de apenas -0.01% segun Finviz - no es una senal de alarma pero tampoco refuerza confianza de forma particular.",
+          "notas": "Patrón de venta neta pero de magnitud moderada y aparentemente rutinaria (vesting de RSUs): 9 ventas vs. 2 compras en 5 años, propiedad interna de 4.20% según Finviz, transacciones netas recientes de insiders de apenas -0.01% según Finviz - no es una señal de alarma pero tampoco refuerza confianza de forma particular.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso fuertemente alcista: calificacion promedio de Compra Fuerte entre 51 a 52 analistas, precio objetivo promedio de 103.89 a 104.70 USD (+44% de alza desde el precio actual) - el sentimiento de Wall Street es positivo y direccionalmente alineado con nuestro propio DCF, aunque bastante mas conservador en magnitud.",
+          "notas": "Consenso fuertemente alcista: calificación promedio de Compra Fuerte entre 51 a 52 analistas, precio objetivo promedio de 103.89 a 104.70 USD (+44% de alza desde el precio actual) - el sentimiento de Wall Street es positivo y direccionalmente alineado con nuestro propio DCF, aunque bastante mas conservador en magnitud.",
           "calificacion": 5
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.8378378378378377,
-    "recomendacion": "COMPRAR - Score de calidad de negocio solido (moat de red mas datos, balance con apalancamiento bajo, conversion de FCF excelente) y Margen de Seguridad ampliamente positivo bajo multiples escenarios de crecimiento (+33% a +102%), respaldado ademas por consenso de analistas tambien alcista (+44% de alza objetivo) - la principal reserva es que ningun escenario de DCF descuenta explicitamente el riesgo de disrupcion de vehiculos autonomos que el mercado esta castigando activamente.",
-    "tesis": "Uber es un marketplace de dos lados ligero en activos que ya alcanzo el punto de inflexion hacia rentabilidad y FCF sostenido, cotizando con un margen de seguridad amplio bajo casi cualquier supuesto razonable de crecimiento, pero con el riesgo de disrupcion de vehiculos autonomos como la variable no resuelta que probablemente explica por que el mercado no ha cerrado esa brecha de valoracion."
+    "recomendacion": "COMPRAR - Score de calidad de negocio sólido (moat de red mas datos, balance con apalancamiento bajo, conversión de FCF excelente) y Margen de Seguridad ampliamente positivo bajo múltiples escenarios de crecimiento (+33% a +102%), respaldado además por consenso de analistas también alcista (+44% de alza objetivo) - la principal reserva es que ningún escenario de DCF descuenta explícitamente el riesgo de disrupción de vehículos autonomos que el mercado esta castigando activamente.",
+    "tesis": "Uber es un marketplace de dos lados ligero en activos que ya alcanzo el punto de inflexion hacia rentabilidad y FCF sostenido, cotizando con un margen de seguridad amplio bajo casi cualquier supuesto razonable de crecimiento, pero con el riesgo de disrupción de vehículos autonomos como la variable no resuelta que probablemente explica por que el mercado no ha cerrado esa brecha de valoración."
   }
 }

@@ -21,6 +21,9 @@ from pathlib import Path
 
 import openpyxl
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from fix_tildes import restaurar_tildes
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "data"
 COMPANIES_DIR = DATA_DIR / "companies"
@@ -95,7 +98,7 @@ def clean(v):
         v = v.strip()
         if v.upper() in _NA_VALUES:
             return None
-        return v if v else None
+        return restaurar_tildes(v) if v else None
     if isinstance(v, (datetime.datetime, datetime.date)):
         return v.isoformat()[:10]
     return v

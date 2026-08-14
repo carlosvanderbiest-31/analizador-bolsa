@@ -1,36 +1,36 @@
 {
   "nombre": "iShares Silver Trust",
   "ticker": "SLV",
-  "categoria": "Materias Primas Fisico 1x (plata fisica en boveda, ONCEAVO instrumento de materias primas del proyecto, competidor directo de SIVR -fila 82-: mismo commodity/benchmark LBMA Silver Price, mas caro pero MUCHO mas grande/liquido, emisor BlackRock)",
+  "categoria": "Materias Primas Fisico 1x (plata física en boveda, ONCEAVO instrumento de materias primas del proyecto, competidor directo de SIVR -fila 82-: mismo commodity/benchmark LBMA Silver Price, mas caro pero MUCHO mas grande/liquido, emisor BlackRock)",
   "emisor": "BlackRock (iShares)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA: 100% plata fisica en boveda en Londres - Grantor Trust, SIN futuros, SIN swaps, SIN apalancamiento, misma estructura exacta que SIVR (fila 82).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA: 100% plata física en boveda en Londres - Grantor Trust, SIN futuros, SIN swaps, SIN apalancamiento, misma estructura exacta que SIVR (fila 82).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domicilio US, Grantor Trust - sin K-1 (igual que SIVR), sujeto al mismo tratamiento fiscal de 'collectible' en EEUU (hasta 28% en plusvalia de largo plazo).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM $28.60bn - **EL MAS GRANDE de TODOS los instrumentos de materias primas del proyecto por un margen ENORME** (mas de 7x el de SIVR, $3.97bn), uno de los AUM mas grandes de todo el proyecto incluyendo el cluster de acciones.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 21-abr-2006 (~20.3 anios) - **EL MAS ANTIGUO de los once instrumentos de materias primas del proyecto** (empatado en epoca con USO, tambien abril-2006), cubre la Crisis Financiera 2008 completa desde antes de su inicio.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 21-abr-2006 (~20.3 años) - **EL MAS ANTIGUO de los once instrumentos de materias primas del proyecto** (empatado en epoca con USO, también abril-2006), cubre la Crisis Financiera 2008 completa desde antes de su inicio.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - **VIGESIMOQUINTA aparicion en el proyecto** (el emisor mas frecuente por lejos), primera vez en la categoria de metales preciosos fisicos.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - **VIGESIMOQUINTA aparición en el proyecto** (el emisor mas frecuente por lejos), primera vez en la categoría de metales preciosos fisicos.",
           "calificacion": 5
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.50% - mas caro que SIVR (0.30%), pero mas barato que USO/BNO (~0.6-1%) y los siete fondos apalancados del proyecto (0.95%).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Sin contango ni costo de roll (replica fisica), tracking difference deberia mantenerse cercano al TER (0.50%) - buen tracking, aunque estructuralmente peor que SIVR por el TER mas alto.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Sin contango ni costo de roll (réplica física), tracking difference deberia mantenerse cercano al TER (0.50%) - buen tracking, aunque estructuralmente peor que SIVR por el TER mas alto.",
           "calificacion": 4
         }
       ],
@@ -58,12 +58,12 @@
       "rating_promedio": null
     },
     {
-      "titulo": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+      "titulo": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -72,79 +72,79 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion; se infiere extremadamente ajustado dada la liquidez excepcional.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión; se infiere extremadamente ajustado dada la liquidez excepcional.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "BlackRock/iShares - profundidad de Authorized Participants de PRIMER NIVEL, el fondo de plata fisica mas grande y establecido del mercado.",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de PRIMER NIVEL, el fondo de plata física mas grande y establecido del mercado.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Numero de holdings y diversificacion",
+      "titulo": "Número de holdings y diversificación",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Sigue el mismo LBMA Silver Price que SIVR, metodologia identica y transparente.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Sigue el mismo LBMA Silver Price que SIVR, metodología identica y transparente.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 5.0
     },
     {
-      "titulo": "Reglas y frecuencia de rebalanceo del indice",
+      "titulo": "Reglas y frecuencia de rebalanceo del índice",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = **+67.62%** (practicamente identico a SIVR, +67.96%, mismo rally historico de la plata). Retorno desde inception (20.3 anios) = **+7.73% CAGR, POSITIVO** pero levemente MENOR que SIVR (+9.13%) - diferencia explicada principalmente por el TER mas alto (0.50% vs 0.30%) compuesto sobre una ventana mas larga, y una fecha de inicio distinta (SLV nacio en 2006, SIVR en 2009, con niveles de precio de plata de partida diferentes).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = **+67.62%** (prácticamente identico a SIVR, +67.96%, mismo rally histórico de la plata). Retorno desde inception (20.3 años) = **+7.73% CAGR, POSITIVO** pero levemente MENOR que SIVR (+9.13%) - diferencia explicada principalmente por el TER mas alto (0.50% vs 0.30%) compuesto sobre una ventana mas larga, y una fecha de inicio distinta (SLV nacio en 2006, SIVR en 2009, con niveles de precio de plata de partida diferentes).",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad: rango de 52 semanas $33.85-$109.83 (ratio 3.24x) - practicamente identico a SIVR (3.25x), coherente con seguir el mismo commodity subyacente y benchmark.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad: rango de 52 semanas $33.85-$109.83 (ratio 3.24x) - prácticamente identico a SIVR (3.25x), coherente con seguir el mismo commodity subyacente y benchmark.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el perfil de riesgo deberia ser practicamente identico a SIVR dado que ambos siguen el mismo LBMA Silver Price.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero el perfil de riesgo deberia ser prácticamente identico a SIVR dado que ambos siguen el mismo LBMA Silver Price.",
           "calificacion": 2
         }
       ],
@@ -154,8 +154,8 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.52 - practicamente identico a SIVR (0.51), moderado, sugiere cierta correlacion con sentimiento de riesgo/inflacion sin ser un diversificador puro.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.52 - prácticamente identico a SIVR (0.51), moderado, sugiere cierta correlación con sentimiento de riesgo/inflación sin ser un diversificador puro.",
           "calificacion": 2
         }
       ],
@@ -167,26 +167,26 @@
       "rating_promedio": null
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION DIRECTA CON SIVR (fila 82, ya en el workbook)**: mismo commodity y benchmark (LBMA Silver Price), misma estructura fisica sin derivados. SLV es mas caro (0.50% vs 0.30%) y tiene un CAGR historico levemente MENOR (+7.73% vs +9.13%, por el TER mas alto y ventana de inicio distinta), PERO es MUCHO mas grande (AUM 7x mayor) y liquido (volumen 16x mayor), con el respaldo del emisor mas grande del proyecto (BlackRock). Trade-off clasico costo vs escala/liquidez/reputacion de emisor, similar en espiritu al patron 'legado caro pero con ventaja de liquidez/track-record' ya documentado en el cluster de acciones del proyecto (ACWX/EZU/FXI/EEM/EFA), aunque aqui la relacion cronologica es inversa (SLV es el MAS ANTIGUO, SIVR llego despues y mas barato, no al reves). PSLV (Sprott Physical Silver Trust, con opcion de redencion fisica, no analizado en el workbook) seria el tercer comparable relevante del espacio.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN DIRECTA CON SIVR (fila 82, ya en el workbook)**: mismo commodity y benchmark (LBMA Silver Price), misma estructura física sin derivados. SLV es mas caro (0.50% vs 0.30%) y tiene un CAGR histórico levemente MENOR (+7.73% vs +9.13%, por el TER mas alto y ventana de inicio distinta), PERO es MUCHO mas grande (AUM 7x mayor) y liquido (volumen 16x mayor), con el respaldo del emisor mas grande del proyecto (BlackRock). Trade-off clasico costo vs escala/liquidez/reputación de emisor, similar en espiritu al patrón 'legado caro pero con ventaja de liquidez/track-récord' ya documentado en el cluster de acciones del proyecto (ACWX/EZU/FXI/EEM/EFA), aunque aquí la relación cronologica es inversa (SLV es el MAS ANTIGUO, SIVR llego después y mas barato, no al reves). PSLV (Sprott Physical Silver Trust, con opción de redención física, no analizado en el workbook) seria el tercer comparable relevante del espacio.",
           "calificacion": 4
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Satelite**, mismo tratamiento que SIVR, con la ventaja adicional de ser el vehiculo de plata fisica mas liquido e institucional del mercado - preferible para quien priorice liquidez/profundidad de mercado sobre el ultimo basis point de costo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Satélite**, mismo tratamiento que SIVR, con la ventaja adicional de ser el vehículo de plata física mas liquido e institucional del mercado - preferible para quien priorice liquidez/profundidad de mercado sobre el último basis point de costo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: misma que SIVR (exposicion pura de costo relativamente bajo al precio de la plata fisica, sin riesgos de decay/contango/apalancamiento), con la ventaja de ser el vehiculo mas grande, liquido y establecido del espacio - preferible sobre SIVR para inversores institucionales o que priorizan liquidez extrema y respaldo de emisor sobre el costo minimo absoluto.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: misma que SIVR (exposición pura de costo relativamente bajo al precio de la plata física, sin riesgos de decay/contango/apalancamiento), con la ventaja de ser el vehículo mas grande, liquido y establecido del espacio - preferible sobre SIVR para inversores institucionales o que priorizan liquidez extrema y respaldo de emisor sobre el costo mínimo absoluto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: mismos que SIVR - (1) volatilidad inherente de la plata (rango 52 semanas 3.24x); (2) tratamiento fiscal de 'collectible' en EEUU (hasta 28%); (3) riesgo de custodia fisica (bajo); (4) single-commodity, cero diversificacion; (5) sin flujo de caja. Adicionalmente, el TER mas alto que SIVR reduce el retorno neto de forma permanente y acumulativa.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: mismos que SIVR - (1) volatilidad inherente de la plata (rango 52 semanas 3.24x); (2) tratamiento fiscal de 'collectible' en EEUU (hasta 28%); (3) riesgo de custodia física (bajo); (4) single-commodity, cero diversificación; (5) sin flujo de caja. Adicionalmente, el TER mas alto que SIVR reduce el retorno neto de forma permanente y acumulativa.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "SIVR (fila 82, mismo commodity/benchmark, mas barato, ya en el workbook) es la alternativa directa de menor costo. PSLV (Sprott, con opcion de redencion fisica) tambien relevante, no analizado en el workbook.",
+          "notas": "SIVR (fila 82, mismo commodity/benchmark, mas barato, ya en el workbook) es la alternativa directa de menor costo. PSLV (Sprott, con opción de redención física) también relevante, no analizado en el workbook.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL (rol Satelite, no Core). Score 3.71/5 - **EL MAS ALTO de TODOS los once instrumentos de materias primas del proyecto**, superando incluso a SIVR (3.62). iShares Silver Trust: 100% plata fisica en boveda, Grantor Trust SIN futuros/swaps/apalancamiento - misma estructura limpia que SIVR (fila 82), mismo benchmark LBMA Silver Price. SLV es mas caro que SIVR (TER 0.50% vs 0.30%) y tiene un CAGR desde inception levemente MENOR (+7.73% vs +9.13%, por el TER mas alto y una ventana de inicio distinta -SLV nacio en abr-2006, SIVR en 2009-), PERO es POR MUCHO el instrumento de materias primas mas grande (AUM $28.60bn, 7x el de SIVR) y liquido (volumen ~$681.6M/dia, 16x el de SIVR) del proyecto, respaldado por BlackRock/iShares -el emisor mas frecuente y de mayor escala institucional de todo el proyecto-. Este es el trade-off clasico costo vs escala/liquidez/reputacion de emisor, en espiritu similar al patron 'legado caro pero con ventaja de liquidez/track-record' ya documentado extensamente en el cluster de acciones del proyecto, aunque aqui la cronologia es inversa: SLV es el vehiculo MAS ANTIGUO del espacio, y SIVR llego despues ofreciendo un costo menor. Retorno 1Y = +67.62%, practicamente identico a SIVR, mismo rally historico de la plata. Sigue sin calificar como Core: single-commodity sin diversificacion, tratamiento fiscal de 'collectible' en EEUU, sin flujo de caja. Para un inversor que priorice liquidez extrema y respaldo institucional sobre el ultimo basis point de costo, SLV es preferible a SIVR; para quien priorice el menor costo absoluto, SIVR sigue siendo la opcion mas eficiente. Se actualizo retroactivamente la Ficha de SIVR con esta comparacion. PSLV (Sprott, con opcion de redencion fisica) seria el tercer comparable relevante del espacio, no analizado en el workbook."
+    "tesis": "MANTENER/ACUMULAR GRADUAL (rol Satélite, no Core). Score 3.71/5 - **EL MAS ALTO de TODOS los once instrumentos de materias primas del proyecto**, superando incluso a SIVR (3.62). iShares Silver Trust: 100% plata física en boveda, Grantor Trust SIN futuros/swaps/apalancamiento - misma estructura limpia que SIVR (fila 82), mismo benchmark LBMA Silver Price. SLV es mas caro que SIVR (TER 0.50% vs 0.30%) y tiene un CAGR desde inception levemente MENOR (+7.73% vs +9.13%, por el TER mas alto y una ventana de inicio distinta -SLV nacio en abr-2006, SIVR en 2009-), PERO es POR MUCHO el instrumento de materias primas mas grande (AUM $28.60bn, 7x el de SIVR) y liquido (volumen ~$681.6M/dia, 16x el de SIVR) del proyecto, respaldado por BlackRock/iShares -el emisor mas frecuente y de mayor escala institucional de todo el proyecto-. Este es el trade-off clasico costo vs escala/liquidez/reputación de emisor, en espiritu similar al patrón 'legado caro pero con ventaja de liquidez/track-récord' ya documentado extensamente en el cluster de acciones del proyecto, aunque aquí la cronologia es inversa: SLV es el vehículo MAS ANTIGUO del espacio, y SIVR llego después ofreciendo un costo menor. Retorno 1Y = +67.62%, prácticamente identico a SIVR, mismo rally histórico de la plata. Sigue sin calificar como Core: single-commodity sin diversificación, tratamiento fiscal de 'collectible' en EEUU, sin flujo de caja. Para un inversor que priorice liquidez extrema y respaldo institucional sobre el último basis point de costo, SLV es preferible a SIVR; para quien priorice el menor costo absoluto, SIVR sigue siendo la opción mas eficiente. Se actualizo retroactivamente la Ficha de SIVR con esta comparación. PSLV (Sprott, con opción de redención física) seria el tercer comparable relevante del espacio, no analizado en el workbook."
   }
 }

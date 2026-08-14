@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard Short-Term Treasury ETF",
   "ticker": "VGSH",
-  "categoria": "Renta Fija Gobierno - Treasuries EEUU corta duracion (~1.9 anios)",
+  "categoria": "Renta Fija Gobierno - Treasuries EEUU corta duración (~1.9 años)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO ('index-sampling approach', fact sheet oficial Vanguard 30-jun-2026) - mismo metodo que el resto de fondos Vanguard del proyecto.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO ('index-sampling approach', fact sheet oficial Vanguard 30-jun-2026) - mismo metodo que el resto de fondos Vanguard del proyecto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. 100% deuda soberana de EEUU - misma exencion de impuestos estatales/locales ya documentada con TLH/VTIP/GOVT.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. 100% deuda soberana de EEUU - misma exención de impuestos estatales/locales ya documentada con TLH/VTIP/GOVT.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM = $29,356M (ETF, fact sheet oficial Vanguard 30-jun-2026) / $33,846M (fondo total) - grande, magnitud similar a VTIP, mayor que TLH, menor que GOVT/VCSH.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 19-nov-2009 (~16.7 anios) - **LITERALMENTE EL MISMO DIA que VCSH, VCLT Y VCIT** - CONFIRMA que Vanguard lanzo una escalera de CUATRO fondos de renta fija ese dia (tres corporativos VCSH/VCIT/VCLT + este Treasury de corto plazo), no solo tres como se documento previamente. Sin cambio de mandato de fondo, aunque el INDICE tuvo un splice metodologico en dic-2017 (de 'Bloomberg U.S. 1-3 Year Government Float Adjusted Index' a 'Bloomberg U.S. Treasury 1-3 Year Bond Index'), documentado EXPLICITAMENTE por el propio Vanguard en el fact sheet - transparencia total, distinto de los gotchas de cambio de indice no revelado ya vistos en el proyecto (ej. VTV/MSCI-CRSP).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 19-nov-2009 (~16.7 años) - **LITERALMENTE EL MISMO DIA que VCSH, VCLT Y VCIT** - CONFIRMA que Vanguard lanzo una escalera de CUATRO fondos de renta fija ese dia (tres corporativos VCSH/VCIT/VCLT + este Treasury de corto plazo), no solo tres como se documento previamente. Sin cambio de mandato de fondo, aunque el ÍNDICE tuvo un splice metodologico en dic-2017 (de 'Bloomberg U.S. 1-3 Year Government Float Adjusted Index' a 'Bloomberg U.S. Treasury 1-3 Year Bond Index'), documentado EXPLÍCITAMENTE por el propio Vanguard en el fact sheet - transparencia total, distinto de los gotchas de cambio de índice no revelado ya vistos en el proyecto (ej. VTV/MSCI-CRSP).",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Vanguard - DUODECIMA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VT, VCSH, VCLT, VCIT, VTIP, ahora VGSH).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Vanguard - DUODECIMA aparición en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VT, VCSH, VCLT, VCIT, VTIP, ahora VGSH).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.03% - empata el minimo del proyecto. Comparacion oficial del fact sheet: 0.70% (fondos mutuos Short US Govt) / 0.13% (solo ETFs de la categoria) vs 0.03% de VGSH - ~23x y ~4.3x mas barato respectivamente.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.03% - empata el mínimo del proyecto. Comparación oficial del fact sheet: 0.70% (fondos mutuos Short US Govt) / 0.13% (solo ETFs de la categoría) vs 0.03% de VGSH - ~23x y ~4.3x mas barato respectivamente.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference verificada con precision (fact sheet oficial, NAV vs Indice Bloomberg U.S. Treasury 1-3Y): 1yr -0.01pp, 3yr -0.02pp, 5yr -0.02pp, 10yr -0.04pp, desde inception (16.7 anios) -0.07pp - muy ajustada en todas las ventanas, aunque no perfecta como el 0.00pp de VTIP.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference verificada con precisión (fact sheet oficial, NAV vs Índice Bloomberg U.S. Treasury 1-3Y): 1yr -0.01pp, 3yr -0.02pp, 5yr -0.02pp, 10yr -0.04pp, desde inception (16.7 años) -0.07pp - muy ajustada en todas las ventanas, aunque no perfecta como el 0.00pp de VTIP.",
           "calificacion": 5
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado explicitamente con fuente primaria esta sesion.",
+          "notas": "Securities lending revenue no verificado explícitamente con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "**Turnover rate = 92.6% (fact sheet oficial) - EL MAS ALTO DE TODO EL PROYECTO**, supera a VCIT (85.1%, el anterior record) - explicado mecanicamente por la banda de vencimiento AUN MAS ESTRECHA (1-3 anios) que la de VCIT (5-10 anios): los bonos 'envejecen' y salen de una banda tan estrecha con frecuencia muy alta, generando la maxima rotacion de indice del proyecto.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "**Turnover rate = 92.6% (fact sheet oficial) - EL MAS ALTO DE TODO EL PROYECTO**, supera a VCIT (85.1%, el anterior récord) - explicado mecanicamente por la banda de vencimiento AUN MAS ESTRECHA (1-3 años) que la de VCIT (5-10 años): los bonos 'envejecen' y salen de una banda tan estrecha con frecuencia muy alta, generando la maxima rotación de índice del proyecto.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 2,369,364 acciones (stockanalysis) x $58.02/accion = aprox $137.5M/dia - modesto, magnitud similar a VTIP/TLH/GOVT.",
+          "notas": "Volumen diario = 2,369,364 acciones (stockanalysis) x $58.02/acción = aprox $137.5M/dia - modesto, magnitud similar a VTIP/TLH/GOVT.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesion.",
+          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con precision esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con precisión esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,40 +89,40 @@
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "91 bonds (fondo, fact sheet oficial) vs 96 (indice) - razonable para una banda de vencimiento estrecha (1-3 anios).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "91 bonds (fondo, fact sheet oficial) vs 96 (índice) - razonable para una banda de vencimiento estrecha (1-3 años).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 holdings no calculado con precision esta sesion, pero dado 91 bonos y el mismo matiz metodologico ya establecido con TLH/VTIP/GOVT: la concentracion en un unico emisor (Tesoro de EEUU) no representa el mismo riesgo que en renta fija corporativa.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 holdings no calculado con precisión esta sesión, pero dado 91 bonos y el mismo matiz metodologico ya establecido con TLH/VTIP/GOVT: la concentración en un único emisor (Tesoro de EEUU) no representa el mismo riesgo que en renta fija corporativa.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Distribucion por emisor (fact sheet oficial): Treasury/Agency 99.9%, Other 0.1% - mismo perfil de maxima calidad ya documentado con TLH/VTIP/GOVT.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Distribución por emisor (fact sheet oficial): Treasury/Agency 99.9%, Other 0.1% - mismo perfil de maxima calidad ya documentado con TLH/VTIP/GOVT.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% deuda del Tesoro de EEUU - sin diversificacion geografica por diseno de la categoria, mismo perfil que el resto de Treasuries del proyecto.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% deuda del Tesoro de EEUU - sin diversificación geográfica por diseño de la categoría, mismo perfil que el resto de Treasuries del proyecto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es DURACION MINIMA (1.9 anios efectiva, fondo=indice) sin riesgo de credito - **LA DURACION MAS CORTA DE TODO EL PROYECTO EN RENTA FIJA**, mas corta incluso que VCSH (2.4 anios, su hermano corporativo del mismo dia de inception) y VTIP (2.3 anios).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es DURASIÓN MINIMA (1.9 años efectiva, fondo=índice) sin riesgo de crédito - **LA DURASIÓN MAS CORTA DE TODO EL PROYECTO EN RENTA FIJA**, mas corta incluso que VCSH (2.4 años, su hermano corporativo del mismo dia de inception) y VTIP (2.3 años).",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg U.S. Treasury 1-3 Year Bond Index - metodologia transparente, banda de vencimiento estrecha. Distribucion por vencimiento efectivo (fact sheet oficial): <1yr 0.1%, 1-2yr 55.3%, 2-3yr 44.6%.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg U.S. Treasury 1-3 Year Bond Index - metodología transparente, banda de vencimiento estrecha. Distribución por vencimiento efectivo (fact sheet oficial): <1yr 0.1%, 1-2yr 55.3%, 2-3yr 44.6%.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo con turnover confirmado 92.6% (fact sheet oficial, cifra exacta) - el mas alto del proyecto, coherente con la banda de vencimiento extremadamente estrecha (ver fila 21).",
           "calificacion": 4
         }
@@ -130,62 +130,62 @@
       "rating_promedio": 4.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno NAV: 1yr +2.91%, 3yr +4.36% anualizado, 5yr +1.88% anualizado, 10yr +1.72% anualizado, desde inception (16.7 anios) +1.40% anualizado (fact sheet oficial, cifras limpias y consistentes en las 5 ventanas) - **retornos MODESTOS pero POSITIVOS EN TODAS LAS VENTANAS**, a diferencia de LQD/VCLT (5yr negativo), coherente con la duracion minima del fondo. Comparacion pendiente con VCSH (mismo dia de inception, mismo emisor, pero CORPORATIVO): el retorno de VGSH deberia ser sistematicamente MENOR que el de VCSH por carecer de spread de credito - buena comparacion cabeza a cabeza para una futura sesion.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno NAV: 1yr +2.91%, 3yr +4.36% anualizado, 5yr +1.88% anualizado, 10yr +1.72% anualizado, desde inception (16.7 años) +1.40% anualizado (fact sheet oficial, cifras limpias y consistentes en las 5 ventanas) - **retornos MODESTOS pero POSITIVOS EN TODAS LAS VENTANAS**, a diferencia de LQD/VCLT (5yr negativo), coherente con la duración minima del fondo. Comparación pendiente con VCSH (mismo dia de inception, mismo emisor, pero CORPORATIVO): el retorno de VGSH deberia ser sistematicamente MENOR que el de VCSH por carecer de spread de crédito - buena comparación cabeza a cabeza para una futura sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada = 0.35%-0.49% (PortfoliosLab) - **ACEPTADA CON CONFIANZA** (coherente con el Max Drawdown de -5.70%, fila 41, y con la duracion mas corta del proyecto) - mismo criterio de coherencia interna que ya paso la prueba con VTIP.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada = 0.35%-0.49% (PortfoliosLab) - **ACEPTADA CON CONFIANZA** (coherente con el Max Drawdown de -5.70%, fila 41, y con la duración mas corta del proyecto) - mismo criterio de coherencia interna que ya paso la prueba con VTIP.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown = -5.70% desde inception (PortfoliosLab) - EL MENOR (MEJOR) DE TODO EL PROYECTO EN RENTA FIJA**, supera incluso a VTIP (-6.27%, el record anterior) - nuevo record del proyecto, coherente con tener la duracion mas corta y maxima calidad crediticia simultaneamente.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown = -5.70% desde inception (PortfoliosLab) - EL MENOR (MEJOR) DE TODO EL PROYECTO EN RENTA FIJA**, supera incluso a VTIP (-6.27%, el récord anterior) - nuevo récord del proyecto, coherente con tener la duración mas corta y maxima calidad crediticia simultaneamente.",
           "calificacion": 5
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = rango 2.27-2.80 segun la comparacion de PortfoliosLab consultada - **consistentemente ALTO en todas las variantes** (mismo patron confiable ya validado con VTIP, a diferencia de otras cifras de Sharpe descartadas en el proyecto por oscilar entre valores bajos/negativos).",
+          "notas": "Sharpe Ratio = rango 2.27-2.80 según la comparación de PortfoliosLab consultada - **consistentemente ALTO en todas las variantes** (mismo patrón confiable ya validado con VTIP, a diferencia de otras cifras de Sharpe descartadas en el proyecto por oscilar entre valores bajos/negativos).",
           "calificacion": 4
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.05 (stockanalysis) - **EL BETA MAS BAJO DE TODO EL PROYECTO**, supera incluso a VTIP (0.09, el record anterior) - nuevo record del proyecto. Overlap con acciones individuales: NO APLICA (100% deuda soberana de EEUU).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.05 (stockanalysis) - **EL BETA MAS BAJO DE TODO EL PROYECTO**, supera incluso a VTIP (0.09, el récord anterior) - nuevo récord del proyecto. Overlap con acciones individuales: NO APLICA (100% deuda soberana de EEUU).",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "16.7 anios de historial, mismo periodo que VCSH/VCLT/VCIT (nacidos el mismo dia, post-crisis financiera 2008, sin cobertura de ese evento) - cubre el taper tantrum 2013, la correccion COVID 2020, y el ciclo de alzas de tasas 2022-2026.",
+          "notas": "16.7 años de historial, mismo período que VCSH/VCLT/VCIT (nacidos el mismo dia, post-crisis financiera 2008, sin cobertura de ese evento) - cubre el taper tantrum 2013, la corrección COVID 2020, y el ciclo de alzas de tasas 2022-2026.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "No aplica - VGSH es un fondo 100% renta fija soberana, sin componente de equity (mismo criterio que el resto de renta fija del proyecto).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 3.82% (stockanalysis) - distribucion MENSUAL (mismo patron que VCSH/VCLT/VCIT/GOVT, a diferencia de TLH/VTIP/HYG que son trimestrales).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 3.82% (stockanalysis) - distribución MENSUAL (mismo patrón que VCSH/VCLT/VCIT/GOVT, a diferencia de TLH/VTIP/HYG que son trimestrales).",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "Duracion efectiva = 1.9 anios (fondo=indice, corroboracion perfecta, fact sheet oficial) - **la duracion mas corta de todo el proyecto**. Vencimiento promedio = 2.0 anios. Calidad crediticia: US Government 99.9% + sin calificar 0.1% (fact sheet oficial, cifra exacta) - maxima calidad crediticia posible.",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "Duración efectiva = 1.9 años (fondo=índice, corroboración perfecta, fact sheet oficial) - **la duración mas corta de todo el proyecto**. Vencimiento promedio = 2.0 años. Calidad crediticia: US Government 99.9% + sin calificar 0.1% (fact sheet oficial, cifra exacta) - maxima calidad crediticia posible.",
           "calificacion": 5
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion directa pendiente con VCSH (mismo dia de inception, mismo emisor Vanguard, pero CORPORATIVO en vez de Treasury) - el spread de credito implicito de VCSH sobre VGSH seria un dato interesante para una futura sesion cabeza a cabeza (mismo patron ya establecido con otros pares del proyecto: IHAK/CIBR, SOXX/SMH, VTV/VUG). Sin percentil de valoracion de tasas especifico verificado esta sesion. Competidores identificados: SGOV (iShares 0-3 Month Treasury, duracion aun mas corta), SCHO (Schwab Short-Term Treasury), SPTS (SPDR Short-Term Treasury).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación directa pendiente con VCSH (mismo dia de inception, mismo emisor Vanguard, pero CORPORATIVO en vez de Treasury) - el spread de crédito implícito de VCSH sobre VGSH seria un dato interesante para una futura sesión cabeza a cabeza (mismo patrón ya establecido con otros pares del proyecto: IHAK/CIBR, SOXX/SMH, VTV/VUG). Sin percentil de valoración de tasas específico verificado esta sesión. Competidores identificados: SGOV (iShares 0-3 Month Treasury, duración aun mas corta), SCHO (Schwab Short-Term Treasury), SPTS (SPDR Short-Term Treasury).",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Duracion minima + maxima calidad crediticia = **el 'ballast' mas puro y de menor duracion de todo el proyecto**. Se clasifica como **'Cobertura'** (quinta vez que se usa esta categoria en el proyecto, junto a VCSH, TLH, VTIP, GOVT) - funcion de preservacion de capital de corto plazo, la version mas conservadora de esta categoria en todo el workbook.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Duración minima + maxima calidad crediticia = **el 'ballast' mas puro y de menor duración de todo el proyecto**. Se clasifica como **'Cobertura'** (quinta vez que se usa esta categoría en el proyecto, junto a VCSH, TLH, VTIP, GOVT) - función de preservación de capital de corto plazo, la versión mas conservadora de esta categoría en todo el workbook.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion Treasury de corto plazo con la minima volatilidad y duracion de todo el proyecto - comparable directo (hermano de inception, mismo dia 19-nov-2009) de VCSH pero SIN riesgo de credito, a costo de un retorno esperado algo menor.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición Treasury de corto plazo con la minima volatilidad y duración de todo el proyecto - comparable directo (hermano de inception, mismo dia 19-nov-2009) de VCSH pero SIN riesgo de crédito, a costo de un retorno esperado algo menor.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo de tasa de interes MINIMO dada la duracion mas corta del proyecto; (2) turnover interno MAS ALTO del proyecto (92.6%, mayor costo de transaccion implicito no capturado en el TER); (3) rendimiento nominal bajo en terminos absolutos (retorno desde inception +1.40% anualizado); (4) tributacion del interes como INGRESO ORDINARIO federal (exento de impuestos estatales/locales, ver fila 12).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de tasa de interés MÍNIMO dada la duración mas corta del proyecto; (2) turnover interno MAS ALTO del proyecto (92.6%, mayor costo de transacción implícito no capturado en el TER); (3) rendimiento nominal bajo en términos absolutos (retorno desde inception +1.40% anualizado); (4) tributación del interés como INGRESO ORDINARIO federal (exento de impuestos estatales/locales, ver fila 12).",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "SGOV (iShares 0-3 Month Treasury Bond, duracion aun mas corta), SCHO (Schwab Short-Term Treasury) y SPTS (SPDR Short-Term Treasury) identificados como alternativas, sin comparacion con datos propios verificados esta sesion.",
+          "notas": "SGOV (iShares 0-3 Month Treasury Bond, duración aun mas corta), SCHO (Schwab Short-Term Treasury) y SPTS (SPDR Short-Term Treasury) identificados como alternativas, sin comparación con datos propios verificados esta sesión.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 4.12/5 - de los MAS ALTOS del proyecto (segundo lugar tras VTIP 4.21, por encima de VTV 4.06), resultado de una calidad estructural y de riesgo EXCEPCIONAL: TER minimo del proyecto (0.03%), Tracking Difference muy ajustada (fact sheet oficial, -0.07pp desde inception), **DOS NUEVOS RECORDS DEL PROYECTO EN RENTA FIJA**: Max Drawdown MAS BAJO (-5.70%, supera a VTIP) y Beta MAS BAJO (0.05, supera a VTIP 0.09) - VGSH es, en terminos de riesgo puro, el fondo MAS CONSERVADOR de todo el proyecto. **Hallazgo cualitativo central**: comparte inception EXACTA (19-nov-2009) con VCSH, VCLT Y VCIT - Vanguard lanzo una escalera de CUATRO fondos de renta fija ese dia (no solo tres como se penso previamente), confirmando el patron ya extensamente documentado de lanzamientos conjuntos de Vanguard. Retornos modestos pero POSITIVOS en TODAS las ventanas (1/3/5/10 anios y desde inception) segun el fact sheet oficial, a diferencia de LQD/VCLT (5yr negativo). Turnover interno el MAS ALTO del proyecto (92.6%, banda de vencimiento extremadamente estrecha de 1-3 anios), sin impacto negativo aparente en la Tracking Difference. Rol en Portafolio: 'Cobertura' - la version MAS CONSERVADORA de esta categoria en todo el workbook (junto a VCSH, TLH, VTIP, GOVT), funcion de preservacion de capital de plazo minimo. **No redundante con VCSH** pese a compartir dia de inception y emisor: VGSH es 100% Treasury (cero riesgo de credito) mientras VCSH es corporativo (con spread de credito) - misma logica de 'verificar clase de activo antes de asumir redundancia' ya aplicada en el proyecto."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 4.12/5 - de los MAS ALTOS del proyecto (segundo lugar tras VTIP 4.21, por encima de VTV 4.06), resultado de una calidad estructural y de riesgo EXCEPCIONAL: TER mínimo del proyecto (0.03%), Tracking Difference muy ajustada (fact sheet oficial, -0.07pp desde inception), **DOS NUEVOS RECORDS DEL PROYECTO EN RENTA FIJA**: Max Drawdown MAS BAJO (-5.70%, supera a VTIP) y Beta MAS BAJO (0.05, supera a VTIP 0.09) - VGSH es, en términos de riesgo puro, el fondo MAS CONSERVADOR de todo el proyecto. **Hallazgo cualitativo central**: comparte inception EXACTA (19-nov-2009) con VCSH, VCLT Y VCIT - Vanguard lanzo una escalera de CUATRO fondos de renta fija ese dia (no solo tres como se penso previamente), confirmando el patrón ya extensamente documentado de lanzamientos conjuntos de Vanguard. Retornos modestos pero POSITIVOS en TODAS las ventanas (1/3/5/10 años y desde inception) según el fact sheet oficial, a diferencia de LQD/VCLT (5yr negativo). Turnover interno el MAS ALTO del proyecto (92.6%, banda de vencimiento extremadamente estrecha de 1-3 años), sin impacto negativo aparente en la Tracking Difference. Rol en Portafolio: 'Cobertura' - la versión MAS CONSERVADORA de esta categoría en todo el workbook (junto a VCSH, TLH, VTIP, GOVT), función de preservación de capital de plazo mínimo. **No redundante con VCSH** pese a compartir dia de inception y emisor: VGSH es 100% Treasury (cero riesgo de crédito) mientras VCSH es corporativo (con spread de crédito) - misma logica de 'verificar clase de activo antes de asumir redundancia' ya aplicada en el proyecto."
   }
 }

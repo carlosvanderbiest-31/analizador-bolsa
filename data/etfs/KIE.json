@@ -1,35 +1,35 @@
 {
   "nombre": "SPDR S&P Insurance ETF",
   "ticker": "KIE",
-  "categoria": "Equity Tematico/Factor (seguros EEUU: P&C/vida-salud/brokers-intermediarios/reaseguro)",
+  "categoria": "Equity Temático/Factor (seguros EEUU: P&C/vida-salud/brokers-intermediarios/reaseguro)",
   "emisor": "State Street/SPDR",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Discrepancia de fuentes: SSGA -prospecto oficial- declara estrategia de MUESTREO -sampling-, Trackinsight lo describe como 'Full replication'. Se usa la clasificacion oficial de SSGA -muestreo- por ser la fuente regulatoria mas autorizada, mismo criterio aplicado a XHB/XRT.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Discrepancia de fuentes: SSGA -prospecto oficial- declara estrategia de MUESTREO -sampling-, Trackinsight lo describe como 'Full replication'. Se usa la clasificación oficial de SSGA -muestreo- por ser la fuente regulatoria mas autorizada, mismo criterio aplicado a XHB/XRT.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domiciliado en EEUU -SPDR Series Trust, fondo 1940 Act 'diversified'-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM con RANGO AMPLIO no reconciliado entre fuentes: $421.74M a $702.74M segun fecha/fuente -incluso comparando dos fuentes a la MISMA fecha 11-ago-2026 hay ~15% de diferencia-. Usando la cifra oficial del emisor -SSGA ~$700M- como referencia, es el MAS CHICO de los tres primos S&P Select Industry ya en el workbook -XHB ~$1.52bn, XRT ~$0.50bn-.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM con RANGO AMPLIO no reconciliado entre fuentes: $421.74M a $702.74M según fecha/fuente -incluso comparando dos fuentes a la MISMA fecha 11-ago-2026 hay ~15% de diferencia-. Usando la cifra oficial del emisor -SSGA ~$700M- como referencia, es el MAS CHICO de los tres primos S&P Select Industry ya en el workbook -XHB ~$1.52bn, XRT ~$0.50bn-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "20.75 anios desde inception -8-nov-2005-. **HALLAZGO METODOLOGICO CRITICO**: el indice CAMBIO el 24-oct-2011 de KBW Insurance Index -modified market-cap weighting, cap 8%/valor- al actual S&P Insurance Select Industry Index -modified equal-weight, cap 4.5%-. Esto significa que **el track record de la Crisis 2008 NO refleja la metodologia equal-weight actual del fondo**, a diferencia de XHB/XRT que nacieron ya bajo la familia S&P equal-weight desde el origen.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "20.75 años desde inception -8-nov-2005-. **HALLAZGO METODOLOGICO CRITICO**: el índice CAMBIO el 24-oct-2011 de KBW Insurance Index -modified market-cap weighting, cap 8%/valor- al actual S&P Insurance Select Industry Index -modified equal-weight, cap 4.5%-. Esto significa que **el track record de la Crisis 2008 NO refleja la metodología equal-weight actual del fondo**, a diferencia de XHB/XRT que nacieron ya bajo la familia S&P equal-weight desde el origen.",
           "calificacion": 3
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor State Street/SPDR, misma familia que XHB/XRT ya en el workbook.",
           "calificacion": 5
         }
@@ -40,153 +40,153 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.35% -CONFIRMADO sin excepcion entre fuentes: SSGA Fact Sheet oficial 'Gross Expense Ratio 0.35%', stockanalysis.com, trackinsight.com-, IDENTICO a XHB y XRT.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.35% -CONFIRMADO sin excepción entre fuentes: SSGA Fact Sheet oficial 'Gross Expense Ratio 0.35%', stockanalysis.com, trackinsight.com-, IDENTICO a XHB y XRT.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference historico NO ENCONTRADO. Tracking Error solo via UNA fuente no verificable de forma independiente -snippet, posiblemente seekingalpha.com bloqueado a fetch directo-: 1Y 1.50%, 3Y 1.54%, 5Y 1.50% vs mediana de todos los ETFs 1.36%/1.35%/1.54%. Declarado con confianza baja, no usado en el Dashboard.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference histórico NO ENCONTRADO. Tracking Error solo via UNA fuente no verificable de forma independiente -snippet, posiblemente seekingalpha.com bloqueado a fetch directo-: 1Y 1.50%, 3Y 1.54%, 5Y 1.50% vs mediana de todos los ETFs 1.36%/1.35%/1.54%. Declarado con confianza baja, no usado en el Dashboard.",
           "calificacion": 1
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending para KIE.",
+          "notas": "Sin dato específico de revenue por securities lending para KIE.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Metodologia CONFIRMADA en detalle -misma familia S&P Select Industry que XHB/XRT-: banda de capping 4.5%/constituyente, regla de reset si valores >4.8% suman mas de 50% del indice, rebalanceo TRIMESTRAL efectivo tras el cierre del tercer viernes de mar/jun/sep/dic, requisitos de permanencia -capitalizacion flotante minima $1,000M o ratio de liquidez flotante minimo 50%-, minimo 22 valores en el indice.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Metodología CONFIRMADA en detalle -misma familia S&P Select Industry que XHB/XRT-: banda de capping 4.5%/constituyente, regla de reset si valores >4.8% suman mas de 50% del índice, rebalanceo TRIMESTRAL efectivo tras el cierre del tercer viernes de mar/jun/sep/dic, requisitos de permanencia -capitalización flotante minima $1,000M o ratio de liquidez flotante mínimo 50%-, mínimo 22 valores en el índice.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen con RANGO AMPLIO no reconciliado: 735,558 acciones/dia -stockanalysis.com- a ~1.68M acciones/dia -3-month average, otra fuente-, equivalente a ~$47M-$107M/dia a precio ~$63.5/accion. Moderado, menor que XHB/XLY.",
+          "notas": "Volumen con RANGO AMPLIO no reconciliado: 735,558 acciones/dia -stockanalysis.com- a ~1.68M acciones/dia -3-month average, otra fuente-, equivalente a ~$47M-$107M/dia a precio ~$63.5/acción. Moderado, menor que XHB/XLY.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask -30-day median- = 0.02% -SSGA oficial-, dato de fuente primaria confiable aunque unica.",
+          "notas": "Spread bid-ask -30-day median- = 0.02% -SSGA oficial-, dato de fuente primaria confiable aunque única.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount = +0.03% al 11-ago-2026 -NAV $63.60 vs precio $63.62, SSGA oficial-, dato puntual unico sin serie historica encontrada.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount = +0.03% al 11-ago-2026 -NAV $63.60 vs precio $63.62, SSGA oficial-, dato puntual único sin serie histórica encontrada.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero State Street/SPDR tiene infraestructura de creacion/redencion robusta a nivel de firma, consistente con XHB/XRT.",
+          "notas": "Sin cifra específica de profundidad de APs, pero State Street/SPDR tiene infraestructura de creación/redención robusta a nivel de firma, consistente con XHB/XRT.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "53 holdings -SSGA Fact Sheet oficial 30-jun-2026-, rango 53-55 segun fuente/fecha de corte. **INTERMEDIO entre XHB -33-35, ya en el workbook- y XRT -75, ya en el workbook-**.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "53 holdings -SSGA Fact Sheet oficial 30-jun-2026-, rango 53-55 según fuente/fecha de corte. **INTERMEDIO entre XHB -33-35, ya en el workbook- y XRT -75, ya en el workbook-**.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 ~20.86%-21.12% del fondo -SSGA oficial: Baldwin Insurance Group 2.51%, Skyward Specialty 2.18%, Lemonade 2.13%, Palomar Holdings 2.04%, Cincinnati Financial 2.03%, Globe Life 2.01%, RLI Corp 2.00%, Kemper 1.99%, Ryan Specialty 1.99%, Travelers 1.99%-. **Concentracion INTERMEDIA entre XHB -39.7%- y XRT -16.8%-, ambos ya en el workbook**. Overlap confirmado con el proyecto hermano de acciones: TRV -Travelers, presente ~1.99-2.13%-, CB -Chubb, presente pero peso exacto no obtenido, fuentes con lista completa bloqueadas 403-, PGR -Progressive, presente pero peso exacto no obtenido-, ALL -Allstate ~2.01%-, MET -MetLife ~1.90%-, PRU -Prudential ~1.98%-, AIG -presente cualitativamente-, AJG -Arthur J. Gallagher ~1.93%-, MMC -Marsh & McLennan ~1.93%-, AON -presente cualitativamente-. Berkshire Hathaway NO aparece -clasificacion GICS diversificada, no 'Insurance' puro-.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 ~20.86%-21.12% del fondo -SSGA oficial: Baldwin Insurance Group 2.51%, Skyward Specialty 2.18%, Lemonade 2.13%, Palomar Holdings 2.04%, Cincinnati Financial 2.03%, Globe Life 2.01%, RLI Corp 2.00%, Kemper 1.99%, Ryan Specialty 1.99%, Travelers 1.99%-. **Concentración INTERMEDIA entre XHB -39.7%- y XRT -16.8%-, ambos ya en el workbook**. Overlap confirmado con el proyecto hermano de acciones: TRV -Travelers, presente ~1.99-2.13%-, CB -Chubb, presente pero peso exacto no obtenido, fuentes con lista completa bloqueadas 403-, PGR -Progressive, presente pero peso exacto no obtenido-, ALL -Allstate ~2.01%-, MET -MetLife ~1.90%-, PRU -Prudential ~1.98%-, AIG -presente cualitativamente-, AJG -Arthur J. Gallagher ~1.93%-, MMC -Marsh & McLennan ~1.93%-, AON -presente cualitativamente-. Berkshire Hathaway NO aparece -clasificación GICS diversificada, no 'Insurance' puro-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Desglose sectorial -dos snapshots SSGA razonablemente consistentes-: Property & Casualty 55.50-57.06% el mayor, Life & Health 21.88-22.29%, Insurance Brokers 13.53-14.79%, Reinsurance 7.43-7.53%. Una tercera fuente da P&C solo 43.31% -posible reclasificacion de 'Multi-Line' como categoria separada, rango 43-57% sin reconciliar-. Diversificacion genuina dentro del sector seguros -vida/P&C/brokers/reaseguro-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Desglose sectorial -dos snapshots SSGA razonablemente consistentes-: Property & Casualty 55.50-57.06% el mayor, Life & Health 21.88-22.29%, Insurance Brokers 13.53-14.79%, Reinsurance 7.43-7.53%. Una tercera fuente da P&C solo 43.31% -posible reclasificación de 'Multi-Line' como categoría separada, rango 43-57% sin reconciliar-. Diversificación genuina dentro del sector seguros -vida/P&C/brokers/reaseguro-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion equal-weight diluye cualquier nombre individual, incluyendo el riesgo de concentracion tipo AIG-2008 que bajo la metodologia KBW antigua -cap 8%/valor- hubiera pesado mucho mas que bajo el 4.5% actual.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición equal-weight diluye cualquier nombre individual, incluyendo el riesgo de concentración tipo AIG-2008 que bajo la metodología KBW antigua -cap 8%/valor- hubiera pesado mucho mas que bajo el 4.5% actual.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P Insurance Select Industry, modified equal-weight con banda de capping 4.5% -CONFIRMADO con detalle, incluye regla de reset y requisitos de permanencia-, misma familia metodologica que XHB/XRT.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P Insurance Select Industry, modified equal-weight con banda de capping 4.5% -CONFIRMADO con detalle, incluye regla de reset y requisitos de permanencia-, misma familia metodologica que XHB/XRT.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral -tercer viernes mar/jun/sep/dic- CONFIRMADO con detalle, reglas de permanencia claras -flotacion minima $1,000M o ratio 50%, minimo 22 constituyentes-.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral -tercer viernes mar/jun/sep/dic- CONFIRMADO con detalle, reglas de permanencia claras -flotación minima $1,000M o ratio 50%, mínimo 22 constituyentes-.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.57
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno con **DISCREPANCIA GRANDE en 1Y**: 3.84% -SSGA Fact Sheet oficial, corte 30-jun-2026- vs 13.03%-15.4% -snapshots de fechas posteriores, ~1 mes despues-, sugiere movimiento fuerte del sector en jul-2026 mas que error de fuente, pero no se puede confiar en una cifra unica. 3Y anualizado 16.14-16.7%, 5Y 11.50-13.0%, 10Y 11.89-12.4% -todos razonablemente consistentes y FUERTES-. CAGR desde inception 8.24-8.39% -mezcla el periodo KBW 2005-2011 con el periodo S&P equal-weight 2011-presente, no es un CAGR 'puro' de la metodologia actual-.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno con **DISCREPANCIA GRANDE en 1Y**: 3.84% -SSGA Fact Sheet oficial, corte 30-jun-2026- vs 13.03%-15.4% -snapshots de fechas posteriores, ~1 mes después-, sugiere movimiento fuerte del sector en jul-2026 mas que error de fuente, pero no se puede confiar en una cifra única. 3Y anualizado 16.14-16.7%, 5Y 11.50-13.0%, 10Y 11.89-12.4% -todos razonablemente consistentes y FUERTES-. CAGR desde inception 8.24-8.39% -mezcla el período KBW 2005-2011 con el período S&P equal-weight 2011-presente, no es un CAGR 'puro' de la metodología actual-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada SOLO de FUENTE UNICA -etfrc.com, sin segunda fuente para contrastar, fetch directo bloqueado en fuentes cruzadas-: 1Y 17.2%, 5Y 18.5%, 10Y 21.2%, 20Y 26.9%.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada SOLO de FUENTE ÚNICA -etfrc.com, sin segunda fuente para contrastar, fetch directo bloqueado en fuentes cruzadas-: 1Y 17.2%, 5Y 18.5%, 10Y 21.2%, 20Y 26.9%.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = **-75.30%**, minimo 9-mar-2009, recuperacion 1,054 sesiones -~4.2 anios- -FUENTE UNICA no verificada de forma independiente, fetch directo bloqueado-. **CRITICO: este drawdown ocurrio bajo la metodologia KBW Insurance Index ANTIGUA -modified market-cap, cap 8%/valor-, NO bajo la metodologia equal-weight actual del fondo desde oct-2011** -ver hallazgo de fila 14-. Retorno anual 2008 -46.67%, 2009 +28.01% -mismo snippet-. No representativo de como se comportaria la metodologia equal-weight actual bajo un escenario similar a 2008.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = **-75.30%**, mínimo 9-mar-2009, recuperación 1,054 sesiones -~4.2 años- -FUENTE ÚNICA no verificada de forma independiente, fetch directo bloqueado-. **CRITICO: este drawdown ocurrio bajo la metodología KBW Insurance Index ANTIGUA -modified market-cap, cap 8%/valor-, NO bajo la metodología equal-weight actual del fondo desde oct-2011** -ver hallazgo de fila 14-. Retorno anual 2008 -46.67%, 2009 +28.01% -mismo snippet-. No representativo de como se comportaria la metodología equal-weight actual bajo un escenario similar a 2008.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe ratio = 1.71 pero SOLO trailing 1 año -fuente unica-, sin cifras de 3/5/10 anios encontradas en ninguna fuente accesible.",
+          "notas": "Sharpe ratio = 1.71 pero SOLO trailing 1 año -fuente única-, sin cifras de 3/5/10 años encontradas en ninguna fuente accesible.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "**BANDERA DE CALIDAD DE DATO SEVERA**: Beta vs S&P 500 con discrepancia EXTREMA -0.61 stockanalysis.com vs 0.13 etfrc.com con R2 de solo 1%, correlacion estadisticamente casi nula-. Ambas cifras son notablemente mas bajas que XHB -1.25-1.30- y XRT -1.17-, plausible en terminos generales para aseguradoras pero la magnitud de la discrepancia es demasiado grande para confiar en un numero unico.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "**BANDERA DE CALIDAD DE DATO SEVERA**: Beta vs S&P 500 con discrepancia EXTREMA -0.61 stockanalysis.com vs 0.13 etfrc.com con R2 de solo 1%, correlación estadisticamente casi nula-. Ambas cifras son notablemente mas bajas que XHB -1.25-1.30- y XRT -1.17-, plausible en términos generales para aseguradoras pero la magnitud de la discrepancia es demasiado grande para confiar en un número único.",
           "calificacion": 1
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Cubre la ventana temporal de Crisis 2008 por su inception nov-2005, PERO bajo una metodologia DISTINTA -KBW Insurance Index- a la actual -matiz no presente en XHB/XRT-. Antecedente historico AIG 2008 -rescate gubernamental ~$180bn- relevante cualitativamente, aunque diluido por el capping 4.5% actual.",
+          "notas": "Cubre la ventana temporal de Crisis 2008 por su inception nov-2005, PERO bajo una metodología DISTINTA -KBW Insurance Index- a la actual -matiz no presente en XHB/XRT-. Antecedente histórico AIG 2008 -rescate gubernamental ~$180bn- relevante cualitativamente, aunque diluido por el capping 4.5% actual.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 1.67
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "P/E ponderado = 11.03x -SSGA Fact Sheet oficial- a 11.13x -otras fuentes-, **MUY BARATO, notablemente mas barato que XHB/XRT/XLY ya en el workbook**, consistente entre fuentes sin discrepancia real.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "P/B ponderado = 1.60-1.65x -metrica particularmente relevante para aseguradoras dado el rol del capital regulatorio/reservas-. Dividend yield TTM/distribution = 1.54%, payout ratio conservador 17.00% -stockanalysis.com-.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "P/B ponderado = 1.60-1.65x -métrica particularmente relevante para aseguradoras dado el rol del capital regulatorio/reservas-. Dividend yield TTM/distribution = 1.54%, payout ratio conservador 17.00% -stockanalysis.com-.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion con XHB y XRT -ambos ya en el workbook, misma familia S&P Select Industry equal-weight, mismo TER 0.35%-: KIE tiene concentracion INTERMEDIA -Top10 ~21% vs 39.7%/16.8%-, valoracion MUCHO MAS BARATA -P/E ~11x vs sin dato comparable directo para XHB/XRT en el workbook-, pero calidad de dato NOTABLEMENTE MAS DEBIL en metricas de riesgo -Beta, volatilidad y Sharpe todos con fuente unica o discrepancia extrema-, ademas del hallazgo unico del cambio de indice 2011 que no tiene paralelo en XHB/XRT.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación con XHB y XRT -ambos ya en el workbook, misma familia S&P Select Industry equal-weight, mismo TER 0.35%-: KIE tiene concentración INTERMEDIA -Top10 ~21% vs 39.7%/16.8%-, valoración MUCHO MAS BARATA -P/E ~11x vs sin dato comparable directo para XHB/XRT en el workbook-, pero calidad de dato NOTABLEMENTE MAS DÉBIL en métricas de riesgo -Beta, volatilidad y Sharpe todos con fuente única o discrepancia extrema-, además del hallazgo único del cambio de índice 2011 que no tiene paralelo en XHB/XRT.",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol Satelite sectorial financiero-seguros, perfil de riesgo distinto -catastrofes naturales/tasas de interes- al de vivienda -XHB/ITB- o retail -XRT- ya en el workbook.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol Satélite sectorial financiero-seguros, perfil de riesgo distinto -catastrofes naturales/tasas de interés- al de vivienda -XHB/ITB- o retail -XRT- ya en el workbook.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: valoracion barata -P/E ~11x, P/B ~1.6x, notablemente mas atractiva que el resto del cluster de consumo ciclico/vivienda del proyecto-, diversificacion genuina dentro del sector seguros -P&C/Vida-Salud/Brokers/Reaseguro-, mismo TER bajo -0.35%- que el resto de la familia S&P Select Industry.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: valoración barata -P/E ~11x, P/B ~1.6x, notablemente mas atractiva que el resto del cluster de consumo ciclico/vivienda del proyecto-, diversificación genuina dentro del sector seguros -P&C/Vida-Salud/Brokers/Reaseguro-, mismo TER bajo -0.35%- que el resto de la familia S&P Select Industry.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: **catastrofes naturales** -P&C 55-57% del indice, Palomar Holdings -especializada en riesgo catastrofico terremoto/inundacion- aparece recurrentemente en el Top10-, riesgo de tasas de interes para el segmento Vida-Salud -21.88-22.29%- y para el float de inversion de las P&C, riesgo de insuficiencia de reservas tecnicas -reserve development negativo, especialmente en lineas de cola larga-, ciclo de suscripcion -mercados duros vs blandos-, antecedente historico AIG 2008 -diluido por el capping actual pero relevante cualitativamente-, Y el **CAMBIO DE INDICE 2011** que hace que el track record de crisis no sea representativo de la metodologia equal-weight actual -hallazgo unico de KIE, sin paralelo en XHB/XRT-.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **catastrofes naturales** -P&C 55-57% del índice, Palomar Holdings -especializada en riesgo catastrofico terremoto/inundación- aparece recurrentemente en el Top10-, riesgo de tasas de interés para el segmento Vida-Salud -21.88-22.29%- y para el float de inversión de las P&C, riesgo de insuficiencia de reservas técnicas -reserve development negativo, especialmente en líneas de cola larga-, ciclo de suscripción -mercados duros vs blandos-, antecedente histórico AIG 2008 -diluido por el capping actual pero relevante cualitativamente-, Y el **CAMBIO DE ÍNDICE 2011** que hace que el track record de crisis no sea representativo de la metodología equal-weight actual -hallazgo único de KIE, sin paralelo en XHB/XRT-.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Overlap CONFIRMADO con multiples empresas ya potencialmente analizadas individualmente en el proyecto hermano de acciones -TRV/CB/PGR/ALL/MET/PRU/AIG/AJG/MMC/AON-, pesos exactos de CB/PGR/AIG no obtenidos por bloqueo de fuentes con lista completa de holdings -403-. Sin competidor equal-weight alternativo identificado especificamente para seguros en el workbook.",
+          "notas": "Overlap CONFIRMADO con múltiples empresas ya potencialmente analizadas individualmente en el proyecto hermano de acciones -TRV/CB/PGR/ALL/MET/PRU/AIG/AJG/MMC/AON-, pesos exactos de CB/PGR/AIG no obtenidos por bloqueo de fuentes con lista completa de holdings -403-. Sin competidor equal-weight alternativo identificado específicamente para seguros en el workbook.",
           "calificacion": 2
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). KIE es el TERCER miembro confirmado de la familia S&P Select Industry equal-weight de State Street en el workbook -junto a XHB y XRT-, con TER identico -0.35%-, misma metodologia de capping 4.5%/rebalanceo trimestral, y concentracion INTERMEDIA -Top10 ~21%, entre el 39.7% de XHB y el 16.8% de XRT-. Su valoracion es notablemente ATRACTIVA -P/E ~11x, P/B ~1.6x, mas barata que el resto del cluster de consumo ciclico/vivienda del proyecto- y sus retornos 3Y/5Y/10Y son fuertes y razonablemente consistentes -16%/12%/12%-. PERO presenta la calidad de dato MAS DEBIL de los tres primos S&P Select Industry: Beta con discrepancia EXTREMA -0.61 vs 0.13 con R2 de solo 1%-, volatilidad y Sharpe de fuente unica sin poder contrastar, retorno 1Y con discrepancia grande sin explicar -3.84% vs 13-15.4%-, y AUM con rango disperso no reconciliado -el mas chico de los tres primos, ~$700M-. **HALLAZGO METODOLOGICO DISTINTIVO Y UNICO DE KIE**: el indice CAMBIO en oct-2011 de KBW Insurance Index -modified market-cap, cap 8%/valor- al actual S&P Insurance Select Industry -equal-weight, cap 4.5%-, por lo que el Max Drawdown documentado de la Crisis 2008 -75.30%, fuente unica no verificada- NO refleja como se hubiera comportado la metodologia equal-weight actual bajo ese escenario -matiz que XHB/XRT no tienen, ambos equal-weight desde su origen-. Riesgos idiosincraticos distintos al resto del cluster: catastrofes naturales -P&C 55-57%, Palomar Holdings especializada en riesgo catastrofico en el Top10-, tasas de interes para Vida/Salud, ciclo de suscripcion. Overlap confirmado con TRV/CB/PGR/ALL/MET/PRU/AIG/AJG/MMC/AON, potencialmente ya analizadas individualmente en el proyecto hermano de acciones. Score 2.88/5, en linea con XRT -2.88-, por debajo de XHB -3.09-. Rol Satelite sectorial financiero-seguros."
+    "tesis": "REDUCIR/VENDER (evitar). KIE es el TERCER miembro confirmado de la familia S&P Select Industry equal-weight de State Street en el workbook -junto a XHB y XRT-, con TER identico -0.35%-, misma metodología de capping 4.5%/rebalanceo trimestral, y concentración INTERMEDIA -Top10 ~21%, entre el 39.7% de XHB y el 16.8% de XRT-. Su valoración es notablemente ATRACTIVA -P/E ~11x, P/B ~1.6x, mas barata que el resto del cluster de consumo ciclico/vivienda del proyecto- y sus retornos 3Y/5Y/10Y son fuertes y razonablemente consistentes -16%/12%/12%-. PERO presenta la calidad de dato MAS DÉBIL de los tres primos S&P Select Industry: Beta con discrepancia EXTREMA -0.61 vs 0.13 con R2 de solo 1%-, volatilidad y Sharpe de fuente única sin poder contrastar, retorno 1Y con discrepancia grande sin explicar -3.84% vs 13-15.4%-, y AUM con rango disperso no reconciliado -el mas chico de los tres primos, ~$700M-. **HALLAZGO METODOLOGICO DISTINTIVO Y ÚNICO DE KIE**: el índice CAMBIO en oct-2011 de KBW Insurance Index -modified market-cap, cap 8%/valor- al actual S&P Insurance Select Industry -equal-weight, cap 4.5%-, por lo que el Max Drawdown documentado de la Crisis 2008 -75.30%, fuente única no verificada- NO refleja como se hubiera comportado la metodología equal-weight actual bajo ese escenario -matiz que XHB/XRT no tienen, ambos equal-weight desde su origen-. Riesgos idiosincraticos distintos al resto del cluster: catastrofes naturales -P&C 55-57%, Palomar Holdings especializada en riesgo catastrofico en el Top10-, tasas de interés para Vida/Salud, ciclo de suscripción. Overlap confirmado con TRV/CB/PGR/ALL/MET/PRU/AIG/AJG/MMC/AON, potencialmente ya analizadas individualmente en el proyecto hermano de acciones. Score 2.88/5, en línea con XRT -2.88-, por debajo de XHB -3.09-. Rol Satélite sectorial financiero-seguros."
   }
 }

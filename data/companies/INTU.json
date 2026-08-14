@@ -1,7 +1,7 @@
 {
   "empresa": "Intuit Inc.",
   "ticker": "INTU",
-  "sector": "Tecnologia - Software financiero-contable-fiscal (QuickBooks, TurboTax, Credit Karma)",
+  "sector": "Tecnología - Software financiero-contable-fiscal (QuickBooks, TurboTax, Credit Karma)",
   "fecha_analisis": "2026-08-12",
   "analista": null,
   "secciones": [
@@ -10,17 +10,17 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ingresos diversificados en cuatro segmentos: Small Business and Self-Employed (QuickBooks, ~80% cuota estimada en contabilidad de pequenas empresas en EEUU), Consumer (TurboTax, bajo presion de disrupcion de IA), Credit Karma (finanzas personales, creciendo +23%) y ProTax (software para contadores profesionales); alta diversificacion pero con TurboTax historicamente el segmento de marca mas reconocible.",
+          "notas": "Ingresos diversificados en cuatro segmentos: Small Business and Self-Employed (QuickBooks, ~80% cuota estimada en contabilidad de pequeñas empresas en EEUU), Consumer (TurboTax, bajo presión de disrupción de IA), Credit Karma (finanzas personales, creciendo +23%) y ProTax (software para contadores profesionales); alta diversificación pero con TurboTax históricamente el segmento de marca mas reconocible.",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat solido pero DESIGUAL entre segmentos - QuickBooks tiene switching costs muy altos (datos contables-fiscales embebidos, integraciones de ecosistema), TurboTax tenia un moat de marca-confianza fuerte que ahora esta genuinamente bajo presion por la disrupcion de IA generativa en preparacion de impuestos DIY.",
+          "notas": "Moat sólido pero DESIGUAL entre segmentos - QuickBooks tiene switching costs muy altos (datos contables-fiscales embebidos, integraciones de ecosistema), TurboTax tenia un moat de marca-confianza fuerte que ahora esta genuinamente bajo presión por la disrupción de IA generativa en preparación de impuestos DIY.",
           "calificacion": 3
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "QuickBooks Online Accounting +22% interanual, Global Business Solutions +15%, Online Ecosystem +19%, Credit Karma +23% - crecimiento fuerte en la mayoria de segmentos; pero guia de ingresos de TurboTax recortada (a USD5.277-5.282bn desde USD5.305-5.330bn) y 17% de reduccion de plantilla anunciada en may-2026.",
+          "notas": "QuickBooks Online Accounting +22% interanual, Global Business Solutions +15%, Online Ecosystem +19%, Credit Karma +23% - crecimiento fuerte en la mayoría de segmentos; pero guia de ingresos de TurboTax recortada (a USD5.277-5.282bn desde USD5.305-5.330bn) y 17% de reducción de plantilla anunciada en may-2026.",
           "calificacion": 3
         },
         {
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Recompras y dividendo creciente consistentes; M&A historico incluye Credit Karma (2020) y Mailchimp (2021), ambas ya integradas y contribuyendo a crecimiento; respuesta rapida y decisiva a la presion de TurboTax con restructuracion de USD300M (17% de plantilla) - decision dificil pero orientada a preservar margenes de largo plazo.",
+          "notas": "Recompras y dividendo creciente consistentes; M&A histórico incluye Credit Karma (2020) y Mailchimp (2021), ambas ya integradas y contribuyendo a crecimiento; respuesta rápida y decisiva a la presión de TurboTax con restructuración de USD300M (17% de plantilla) - decisión difícil pero orientada a preservar márgenes de largo plazo.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO Sasan Goodarzi: 2 ventas en el periodo reciente (USD26.65M), sin compras reportadas - patron de venta tipico de ejecutivos con compensacion en acciones, sin senal fuerte en ninguna direccion; propiedad interna moderada (2.19%, mas alta que la mayoria de tecnologicas del Dashboard).",
+          "notas": "CEO Sasan Goodarzi: 2 ventas en el período reciente (USD26.65M), sin compras reportadas - patrón de venta típico de ejecutivos con compensación en acciones, sin señal fuerte en ninguna dirección; propiedad interna moderada (2.19%, mas alta que la mayoría de tecnologicas del Dashboard).",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Guia de la empresa TOTAL fue elevada (ingresos FY2026 a USD21.341-21.374bn) en el mismo reporte donde se recorto especificamente la guia de TurboTax - transparencia real sobre la fuente exacta de la debilidad, sin intentar ocultar el problema especifico del segmento.",
+          "notas": "Guia de la empresa TOTAL fue elevada (ingresos FY2026 a USD21.341-21.374bn) en el mismo reporte donde se recorto específicamente la guia de TurboTax - transparencia real sobre la fuente exacta de la debilidad, sin intentar ocultar el problema específico del segmento.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Posicion casi neutra (deuda total USD6.82bn vs caja USD4.68bn, deuda neta apenas -USD37M) - balance muy conservador, Debt/Equity 0.33x.",
+          "notas": "Posición casi neutra (deuda total USD6.82bn vs caja USD4.68bn, deuda neta apenas -USD37M) - balance muy conservador, Debt/Equity 0.33x.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.45x, prueba acida 0.77x - liquidez adecuada.",
+          "notas": "Razón corriente 1.45x, prueba acida 0.77x - liquidez adecuada.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "No verificado en detalle en esta sesion (pendiente).",
+          "notas": "No verificado en detalle en esta sesión (pendiente).",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Goodwill+intangibles ~USD18.79bn (48% de activos totales) por M&A historico (Credit Karma, Mailchimp), patrimonio positivo y no especialmente delgado (equity USD20.63bn) - no genera el gotcha de patrimonio negativo-delgado visto en otras empresas.",
+          "notas": "Goodwill+intangibles ~USD18.79bn (48% de activos totales) por M&A histórico (Credit Karma, Mailchimp), patrimonio positivo y no especialmente delgado (equity USD20.63bn) - no genera el gotcha de patrimonio negativo-delgado visto en otras empresas.",
           "calificacion": 4
         }
       ],
@@ -93,12 +93,12 @@
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 22.50-22.95%, ROIC 17.17-20.69% (Finviz-stockanalysis), ambos comodamente por encima del WACC ajustado (11.5%), spread positivo solido.",
+          "notas": "ROE 22.50-22.95%, ROIC 17.17-20.69% (Finviz-stockanalysis), ambos comodamente por encima del WACC ajustado (11.5%), spread positivo sólido.",
           "calificacion": 4
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada (~0.53x), ciclo de conversion de efectivo favorable (modelo de suscripcion-transaccion).",
+          "notas": "Rotación de activos moderada (~0.53x), ciclo de conversión de efectivo favorable (modelo de suscripción-transacción).",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR ingresos 5 anios 19.65% (Finviz, elevado), guia FY2026 revisada al alza a +13-14% de crecimiento total pese al recorte especifico de TurboTax - crecimiento agregado solido pero desacelerando desde el ritmo historico.",
+          "notas": "CAGR ingresos 5 años 19.65% (Finviz, elevado), guia FY2026 revisada al alza a +13-14% de crecimiento total pese al recorte específico de TurboTax - crecimiento agregado sólido pero desacelerando desde el ritmo histórico.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Consistencia puesta a prueba por primera vez de forma real esta sesion - el segmento historicamente mas emblematico (TurboTax) mostro una desaceleracion genuina y forzo una restructuracion, aunque el resto del portfolio (QuickBooks, Credit Karma) sigue creciendo con fuerza y compensando.",
+          "notas": "Consistencia puesta a prueba por primera vez de forma real esta sesión - el segmento históricamente mas emblematico (TurboTax) mostro una desaceleración genuina y forzo una restructuración, aunque el resto del portfolio (QuickBooks, Credit Karma) sigue creciendo con fuerza y compensando.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Expansion de 'TurboTax Live' (asistido, aunque de menor margen), disrupcion del segmento de tax asistido de H&R Block segun la propia estrategia de la empresa, crecimiento de mid-market en QuickBooks (+30%), Credit Karma expandiendo mas alla de tarjetas de credito hacia prestamos personales-seguros de auto.",
+          "notas": "Expansión de 'TurboTax Live' (asistido, aunque de menor margen), disrupción del segmento de tax asistido de H&R Block según la propia estrategia de la empresa, crecimiento de mid-market en QuickBooks (+30%), Credit Karma expandiendo mas alla de tarjetas de crédito hacia prestamos personales-seguros de auto.",
           "calificacion": 4
         }
       ],
@@ -130,7 +130,7 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo TTM USD7.89bn vs utilidad neta TTM implicita ~USD4.52bn (market cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
+          "notas": "Flujo de caja operativo TTM USD7.89bn vs utilidad neta TTM implícita ~USD4.52bn (market cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
           "calificacion": 4
         },
         {
@@ -140,12 +140,12 @@
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM minimo (USD133M, 0.6% de ingresos) - modelo de software puro extremadamente eficiente en capital.",
+          "notas": "Capex TTM mínimo (USD133M, 0.6% de ingresos) - modelo de software puro extremadamente eficiente en capital.",
           "calificacion": 5
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Dividendo creciente (yield 1.43%, payout 30.43%), recompras activas, restructuracion decisiva de USD300M para proteger margenes de largo plazo - asignacion de capital razonable y disciplinada pese a la presion del mercado.",
+          "notas": "Dividendo creciente (yield 1.43%, payout 30.43%), recompras activas, restructuración decisiva de USD300M para proteger márgenes de largo plazo - asignación de capital razonable y disciplinada pese a la presión del mercado.",
           "calificacion": 4
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM 20.27x, Forward P/E 12.21x, EV/EBITDA 13.82x, P/FCF 11.87x, PEG 0.80 - multiplos MUY comprimidos frente al historial reciente de la propia empresa (cotizaba cerca de 45-50x P/E antes de la caida), de los mas baratos entre software de calidad del Dashboard tras la caida de -61% desde maximos.",
+          "notas": "P/E TTM 20.27x, Forward P/E 12.21x, EV/EBITDA 13.82x, P/FCF 11.87x, PEG 0.80 - múltiplos MUY comprimidos frente al historial reciente de la propia empresa (cotizaba cerca de 45-50x P/E antes de la caida), de los mas baratos entre software de calidad del Dashboard tras la caida de -61% desde máximos.",
           "calificacion": 5
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (adoptado, WACC 11.5% = CAPM 8.5% + prima de riesgo de disrupcion de IA de TurboTax de ~3.0pp, crecimiento con fade 13%->7% en 5 anios, terminal 4%): USD498.99/accion, MS +49.1%. Escenario B (CAPM literal 8.5%, no adoptado): USD844.86/accion, MS +152.4% - mismo gotcha de beta no degenerado pero desactualizado ya documentado con ACN (WACC implicito de mercado ~15.2%, casi el doble del CAPM literal).",
+          "notas": "Escenario A (adoptado, WACC 11.5% = CAPM 8.5% + prima de riesgo de disrupción de IA de TurboTax de ~3.0pp, crecimiento con fade 13%->7% en 5 años, terminal 4%): USD498.99/acción, MS +49.1%. Escenario B (CAPM literal 8.5%, no adoptado): USD844.86/acción, MS +152.4% - mismo gotcha de beta no degenerado pero desactualizado ya documentado con ACN (WACC implícito de mercado ~15.2%, casi el doble del CAPM literal).",
           "calificacion": 4
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "+49.1% con el Escenario A adoptado - solido, aunque el DCF sigue siendo fragil (Valor Terminal 72.4% del EV) y el rango completo de sensibilidad (+49.1% a +152.4% segun el WACC) es de los mas amplios del Dashboard.",
+          "notas": "+49.1% con el Escenario A adoptado - sólido, aunque el DCF sigue siendo fragil (Valor Terminal 72.4% del EV) y el rango completo de sensibilidad (+49.1% a +152.4% según el WACC) es de los mas amplios del Dashboard.",
           "calificacion": 4
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de software financiero-contable-fiscal grande, con dinamica DUAL: la IA generativa amenaza genuinamente el segmento DIY de preparacion de impuestos, pero simultaneamente crea oportunidad de expansion en 'tax asistido por IA' y automatizacion contable para pequenas empresas.",
+          "notas": "Mercado de software financiero-contable-fiscal grande, con dinámica DUAL: la IA generativa amenaza genuinamente el segmento DIY de preparación de impuestos, pero simultaneamente crea oportunidad de expansión en 'tax asistido por IA' y automatización contable para pequeñas empresas.",
           "calificacion": 3
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Altas para QuickBooks (switching costs de datos contables-fiscales embebidos, integraciones de ecosistema con contadores-bancos), mas bajas para TurboTax frente a herramientas de IA generativa de proposito general que pueden replicar gran parte del valor percibido de 'hacer facil' la declaracion de impuestos.",
+          "notas": "Altas para QuickBooks (switching costs de datos contables-fiscales embebidos, integraciones de ecosistema con contadores-bancos), mas bajas para TurboTax frente a herramientas de IA generativa de proposito general que pueden replicar gran parte del valor percibido de 'hacer fácil' la declaración de impuestos.",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta y en aumento (H&R Block en tax, Xero-FreshBooks en contabilidad de pequenas empresas, herramientas de IA generativa de proposito general como sustituto directo de TurboTax); poder de negociacion del comprador bajo en QuickBooks (switching costs altos), mas alto en TurboTax (producto mas commoditizable); barreras de entrada desiguales segun segmento.",
+          "notas": "Rivalidad alta y en aumento (H&R Block en tax, Xero-FreshBooks en contabilidad de pequeñas empresas, herramientas de IA generativa de proposito general como sustituto directo de TurboTax); poder de negociación del comprador bajo en QuickBooks (switching costs altos), mas alto en TurboTax (producto mas commoditizable); barreras de entrada desiguales según segmento.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "TurboTax es estacional pero no ciclico en el sentido economico tradicional (los impuestos se presentan todos los anios); QuickBooks-Credit Karma mas ligados a la salud de pequenas empresas y del consumidor, moderadamente ciclico.",
+          "notas": "TurboTax es estacional pero no ciclico en el sentido económico tradicional (los impuestos se presentan todos los años); QuickBooks-Credit Karma mas ligados a la salud de pequeñas empresas y del consumidor, moderadamente ciclico.",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Historial de escrutinio regulatorio sobre practicas de 'free filing' de TurboTax (acuerdos previos con estados de EEUU por publicidad enganosa del programa gratuito, ya resueltos en anios anteriores) - riesgo residual bajo pero mencionado por precedente; sin litigio activo material identificado en esta sesion.",
+          "notas": "Historial de escrutinio regulatorio sobre practicas de 'free filing' de TurboTax (acuerdos previos con estados de EEUU por publicidad enganosa del programa gratuito, ya resueltos en años anteriores) - riesgo residual bajo pero mencionado por precedente; sin litigio activo material identificado en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional limitada (negocio mayormente domestico en EEUU), riesgo cambiario bajo.",
+          "notas": "Exposición internacional limitada (negocio mayormente domestico en EEUU), riesgo cambiario bajo.",
           "calificacion": 4
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de clientes extremadamente diversificada (millones de contribuyentes individuales, pequenas empresas, contadores profesionales), sin concentracion de cliente unico; sin dependencia critica de proveedores unicos (software puro).",
+          "notas": "Base de clientes extremadamente diversificada (millones de contribuyentes individuales, pequeñas empresas, contadores profesionales), sin concentración de cliente único; sin dependencia critica de proveedores únicos (software puro).",
           "calificacion": 5
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "El riesgo mas severo y activo del expediente: temor genuino y ya materializado en resultados (guia de TurboTax recortada, 17% de reduccion de plantilla) de que la IA generativa erosione el valor percibido de TurboTax para la preparacion de impuestos DIY - el mismo tipo de riesgo ya visto en ACN (consultoria) pero aqui aplicado a un producto de consumo masivo con un caso de uso mas directamente replicable por chatbots de proposito general.",
+          "notas": "El riesgo mas severo y activo del expediente: temor genuino y ya materializado en resultados (guia de TurboTax recortada, 17% de reducción de plantilla) de que la IA generativa erosione el valor percibido de TurboTax para la preparación de impuestos DIY - el mismo tipo de riesgo ya visto en ACN (consultoria) pero aquí aplicado a un producto de consumo masivo con un caso de uso mas directamente replicable por chatbots de proposito general.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversias ESG mayores identificadas en esta sesion mas alla del historial regulatorio ya mencionado sobre practicas de free filing.",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesión mas alla del historial regulatorio ya mencionado sobre practicas de free filing.",
           "calificacion": 4
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados del 4T FY2026 (cierre jul-2026) y guia inicial FY2027 - clave para confirmar si la estabilizacion de TurboTax se sostiene y si el resto del portfolio sigue compensando.",
+          "notas": "Resultados del 4T FY2026 (cierre jul-2026) y guia inicial FY2027 - clave para confirmar si la estabilización de TurboTax se sostiene y si el resto del portfolio sigue compensando.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "CEO Sasan Goodarzi: solo ventas en el periodo reciente (USD26.65M, sin compras) - patron neutro, tipico de ejecutivos con compensacion en acciones, sin senal fuerte.",
+          "notas": "CEO Sasan Goodarzi: solo ventas en el período reciente (USD26.65M, sin compras) - patrón neutro, típico de ejecutivos con compensación en acciones, sin señal fuerte.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso 'Buy-leaning' (recomendacion 1.89 Finviz), objetivo promedio USD442.28 (+32.2% de alza) pese a rebajas recientes de Truist, TD Cowen y Morgan Stanley - el consenso sigue siendo mas optimista que el precio actual pero con dispersion notable entre analistas tras el shock de mayo-2026.",
+          "notas": "Consenso 'Buy-leaning' (recomendación 1.89 Finviz), objetivo promedio USD442.28 (+32.2% de alza) pese a rebajas recientes de Truist, TD Cowen y Morgan Stanley - el consenso sigue siendo mas optimista que el precio actual pero con dispersión notable entre analistas tras el shock de mayo-2026.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.7027027027027026,
-    "recomendacion": "COMPRAR - Score Total 3.70/5 y Margen de Seguridad +49.1% (Escenario A adoptado) apuntan en la misma direccion positiva, reforzado por el consenso de analistas (objetivo promedio USD442.28, +32.2%) pese a rebajas recientes de varias casas. Mismo gotcha de 'beta no degenerado pero desactualizado' ya documentado con ACN: el WACC CAPM literal (8.5%) da un margen absurdo de +152.4% (Escenario B, no adoptado) porque el beta trailing (0.97, normal) aun no refleja la caida de -61% de mayo-2026. A diferencia de ACN, aqui el riesgo de disrupcion de IA en TurboTax ya se confirmo con una guia especifica recortada y una restructuracion real de USD300M (17% de plantilla) - el resto del portfolio (QuickBooks +22%, Credit Karma +23%) compensa con fuerza, dando un balance riesgo-recompensa favorable pero no exento de incertidumbre genuina sobre el segmento historicamente mas emblematico de la empresa.",
-    "tesis": "La plataforma financiera dominante en contabilidad de pequenas empresas (QuickBooks) y finanzas personales (Credit Karma) compensa con fuerza la disrupcion genuina y ya confirmada de IA generativa en su producto historicamente mas emblematico (TurboTax), cotizando tras una caida de -61% a multiplos que no reflejan la calidad del resto del portfolio."
+    "recomendacion": "COMPRAR - Score Total 3.70/5 y Margen de Seguridad +49.1% (Escenario A adoptado) apuntan en la misma dirección positiva, reforzado por el consenso de analistas (objetivo promedio USD442.28, +32.2%) pese a rebajas recientes de varias casas. Mismo gotcha de 'beta no degenerado pero desactualizado' ya documentado con ACN: el WACC CAPM literal (8.5%) da un margen absurdo de +152.4% (Escenario B, no adoptado) porque el beta trailing (0.97, normal) aun no refleja la caida de -61% de mayo-2026. A diferencia de ACN, aquí el riesgo de disrupción de IA en TurboTax ya se confirmo con una guia específica recortada y una restructuración real de USD300M (17% de plantilla) - el resto del portfolio (QuickBooks +22%, Credit Karma +23%) compensa con fuerza, dando un balance riesgo-recompensa favorable pero no exento de incertidumbre genuina sobre el segmento históricamente mas emblematico de la empresa.",
+    "tesis": "La plataforma financiera dominante en contabilidad de pequeñas empresas (QuickBooks) y finanzas personales (Credit Karma) compensa con fuerza la disrupción genuina y ya confirmada de IA generativa en su producto históricamente mas emblematico (TurboTax), cotizando tras una caida de -61% a múltiplos que no reflejan la calidad del resto del portfolio."
   }
 }

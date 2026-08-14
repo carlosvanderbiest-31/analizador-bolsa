@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard Total World Stock ETF",
   "ticker": "VT",
-  "categoria": "Equity Indice Amplio (mercado mundial total: ~60-65% US + ~35-40% ex-US, un solo ticket)",
+  "categoria": "Equity Índice Amplio (mercado mundial total: ~60-65% US + ~35-40% ex-US, un solo ticket)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica MUESTREO (index sampling technique), CONFIRMADA explicitamente por la fuente - coherente con el mismo tratamiento ya aplicado a VXUS/VYMI dado el tamano extremo del universo (10,070 holdings).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica MUESTREO (index sampling technique), CONFIRMADA explícitamente por la fuente - coherente con el mismo tratamiento ya aplicado a VXUS/VYMI dado el tamaño extremo del universo (10,070 holdings).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, con aprox 60-65% de holdings US (limpio) y 35-40% extranjeros (friccion fiscal parcial, mismo gotcha ya documentado con VYMI/VXUS pero diluido por el peso menor de la porcion internacional).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, con aprox 60-65% de holdings US (limpio) y 35-40% extranjeros (fricción fiscal parcial, mismo gotcha ya documentado con VYMI/VXUS pero diluido por el peso menor de la porción internacional).",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM entre $76.02bn y $80.89bn segun fuente (razonablemente consistente) - grande, comparable a SCHD/VXUS.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM entre $76.02bn y $80.89bn según fuente (razonablemente consistente) - grande, comparable a SCHD/VXUS.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 24-jun-2008 (~18.1 anios) - **UNICO FONDO 'CORE' DIVERSIFICADO DEL PROYECTO CUYO HISTORIAL INCLUYE LA CRISIS FINANCIERA DE 2008 COMPLETA DESDE EL LANZAMIENTO** (nacio literalmente meses antes del colapso de Lehman Brothers) - dato de robustez historica excepcional, solo comparable a XLU/XLK entre los ETFs sectoriales del proyecto.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 24-jun-2008 (~18.1 años) - **ÚNICO FONDO 'CORE' DIVERSIFICADO DEL PROYECTO CUYO HISTORIAL INCLUYE LA CRISIS FINANCIERA DE 2008 COMPLETA DESDE EL LANZAMIENTO** (nacio literalmente meses antes del colapso de Lehman Brothers) - dato de robustez histórica excepcional, solo comparable a XLU/XLK entre los ETFs sectoriales del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Vanguard - SEPTIMA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, ahora VT).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Vanguard - SEPTIMA aparición en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, ahora VT).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.06% - muy barato, comparable a SCHD (0.06%)/VYMI (0.07%), para un fondo que cubre LITERALMENTE todo el mercado accionario mundial.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con precision esta sesion - a diferencia de VB/VXUS, el top10 de VT consultado esta sesion NO mostro los artefactos de datos tipo 'Slcmt'/'Mktliq' ya documentados en esos otros fondos Vanguard, aunque podrian existir fuera del top10 mostrado.",
+          "notas": "Securities lending no verificado con precisión esta sesión - a diferencia de VB/VXUS, el top10 de VT consultado esta sesión NO mostro los artefactos de datos tipo 'Slcmt'/'Mktliq' ya documentados en esos otros fondos Vanguard, aunque podrían existir fuera del top10 mostrado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice FTSE Global All Cap, con **REBALANCEO AUTOMATICO explicito entre paises/regiones** mencionado por las fuentes (si EEUU supera a internacional en rendimiento, la ponderacion se ajusta internamente sin accion del inversionista) - frecuencia exacta de reconstitucion no confirmada con precision especifica esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice FTSE Global All Cap, con **REBALANCEO AUTOMÁTICO explicito entre paises/regiones** mencionado por las fuentes (si EEUU supera a internacional en rendimiento, la ponderación se ajusta internamente sin acción del inversionista) - frecuencia exacta de reconstitución no confirmada con precisión específica esta sesión.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "No se encontro una cifra de volumen diario confiable esta sesion (se dejo en blanco en el Dashboard) - dado el AUM (~$77-81bn) se infiere liquidez alta.",
+          "notas": "No se encontro una cifra de volumen diario confiable esta sesión (se dejo en blanco en el Dashboard) - dado el AUM (~$77-81bn) se infiere liquidez alta.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta, se infiere ajustado dado el tamano del fondo.",
+          "notas": "Spread bid-ask no verificado con cifra exacta, se infiere ajustado dado el tamaño del fondo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 4.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "10,070 holdings - **NUEVO RECORD ABSOLUTO DE HOLDINGS DEL PROYECTO**, supera incluso a VXUS (8,807, el record de la sesion anterior).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "10,070 holdings - **NUEVO RÉCORD ABSOLUTO DE HOLDINGS DEL PROYECTO**, supera incluso a VXUS (8,807, el récord de la sesión anterior).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 21.98% - moderado-bajo, mayor que VXUS (14.77%)/VB (6.09%)/VYMI (13.5%) pero mucho menor que la mayoria de los fondos 100% US del proyecto, reflejo de que el top10 esta dominado por megacaps US dentro de un universo global de 10,070 nombres.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 21.98% - moderado-bajo, mayor que VXUS (14.77%)/VB (6.09%)/VYMI (13.5%) pero mucho menor que la mayoría de los fondos 100% US del proyecto, reflejo de que el top10 esta dominado por megacaps US dentro de un universo global de 10,070 nombres.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sin datos de composicion sectorial exactos verificados esta sesion; el top10 sugiere un sesgo tech notable (NVDA/AAPL/MSFT/AMZN/GOOGL/AVGO/META) similar al del mercado US en general, diluido por el resto del universo global.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sin datos de composición sectorial exactos verificados esta sesión; el top10 sugiere un sesgo tech notable (NVDA/AAPL/MSFT/AMZN/GOOGL/AVGO/META) similar al del mercado US en general, diluido por el resto del universo global.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Aprox 60-65% EEUU / 35-40% ex-US (desarrollado+emergente) segun fuente - MENOS diversificado geograficamente que VXUS (0% US) pero es el UNICO fondo del proyecto que ofrece 'un solo ticket, el mundo entero' sin necesidad de combinar dos vehiculos.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Aprox 60-65% EEUU / 35-40% ex-US (desarrollado+emergente) según fuente - MENOS diversificado geograficamente que VXUS (0% US) pero es el ÚNICO fondo del proyecto que ofrece 'un solo ticket, el mundo entero' sin necesidad de combinar dos vehículos.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
           "notas": "Blend puro, cap-weighted, mercado mundial total sin sesgo de estilo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice FTSE Global All Cap Index (mismo proveedor y familia que VXUS), reglas transparentes, 18.1 anios de trayectoria publica.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice FTSE Global All Cap Index (mismo proveedor y familia que VXUS), reglas transparentes, 18.1 años de trayectoria pública.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo AUTOMATICO entre paises/regiones segun performance relativo (mencionado explicitamente por las fuentes), aunque la frecuencia exacta de reconstitucion no se confirmo con precision especifica esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo AUTOMÁTICO entre paises/regiones según performance relativo (mencionado explícitamente por las fuentes), aunque la frecuencia exacta de reconstitución no se confirmo con precisión específica esta sesión.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception = 8.94% anualizado en 18.1 anios - solido, especialmente considerando que el fondo partio justo antes de la crisis financiera de 2008 (punto de partida muy dificil). 1Y = +24.27%.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception = 8.94% anualizado en 18.1 años - sólido, especialmente considerando que el fondo partio justo antes de la crisis financiera de 2008 (punto de partida muy difícil). 1Y = +24.27%.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Se encontro una cifra de volatilidad de 4.27% que se DESCARTO por implausiblemente baja (mismo patron recurrente) - se uso 17.32% (ventana de 16 anios, misma fuente) como mas coherente con el perfil de un fondo de renta variable global.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Se encontro una cifra de volatilidad de 4.27% que se DESCARTO por implausiblemente baja (mismo patrón recurrente) - se uso 17.32% (ventana de 16 años, misma fuente) como mas coherente con el perfil de un fondo de renta variable global.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown: -50.27% (probablemente 'desde inception', que incluye la crisis de 2008) vs -34.23% (ventana de 16 anios, que la excluye) - se uso -50.27% como la cifra mas completa, consistente con el criterio ya establecido en el proyecto de preferir el historial completo sobre ventanas recientes cuando ambas estan disponibles.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown: -50.27% (probablemente 'desde inception', que incluye la crisis de 2008) vs -34.23% (ventana de 16 años, que la excluye) - se uso -50.27% como la cifra mas completa, consistente con el criterio ya establecido en el proyecto de preferir el historial completo sobre ventanas recientes cuando ambas estan disponibles.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio: 1.81 (cifra reciente) vs 0.695 (ventana de 16 anios, misma fuente) - GRAN diferencia, se uso 0.695 como mas representativo del riesgo-retorno de largo plazo, tratando 1.81 como una ventana reciente especialmente favorable (mismo criterio de cautela ya aplicado a XLU/XLK/XLE).",
+          "notas": "Sharpe Ratio: 1.81 (cifra reciente) vs 0.695 (ventana de 16 años, misma fuente) - GRAN diferencia, se uso 0.695 como mas representativo del riesgo-retorno de largo plazo, tratando 1.81 como una ventana reciente especialmente favorable (mismo criterio de cautela ya aplicado a XLU/XLK/XLE).",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.93 - cercano a 1, coherente. **OVERLAP CASI COMPLETO DEL TOP10 (10 de 10 nombres)**: NVIDIA (4.20%), Apple (3.82%), Microsoft (2.84%), Amazon (2.21%), Alphabet-GOOGL (1.90%), Broadcom (1.76%), TSM (1.53%), Alphabet-GOOG (1.49%), Meta (1.17%) y Tesla (1.05%) - TODOS YA analizados individualmente por el usuario, sumando 21.97% del fondo. **EMPATA con VUG como el UNICO OTRO caso de overlap COMPLETO (10/10) del top10 en todo el proyecto**, aunque en magnitud de % del fondo es mucho MENOR que VUG (21.97% vs 60.27%) dada la diversificacion extrema de VT (10,070 holdings vs 146-151 de VUG) - el mismo nivel de 'completitud' de convicciones duplicadas, pero diluido por un universo mucho mas amplio.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.93 - cercano a 1, coherente. **OVERLAP CASI COMPLETO DEL TOP10 (10 de 10 nombres)**: NVIDIA (4.20%), Apple (3.82%), Microsoft (2.84%), Amazon (2.21%), Alphabet-GOOGL (1.90%), Broadcom (1.76%), TSM (1.53%), Alphabet-GOOG (1.49%), Meta (1.17%) y Tesla (1.05%) - TODOS YA analizados individualmente por el usuario, sumando 21.97% del fondo. **EMPATA con VUG como el ÚNICO OTRO caso de overlap COMPLETO (10/10) del top10 en todo el proyecto**, aunque en magnitud de % del fondo es mucho MENOR que VUG (21.97% vs 60.27%) dada la diversificación extrema de VT (10,070 holdings vs 146-151 de VUG) - el mismo nivel de 'completitud' de convicciones duplicadas, pero diluido por un universo mucho mas amplio.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "18.1 anios de historial, **UNICO fondo 'core' diversificado del proyecto que incluye la crisis financiera de 2008 COMPLETA desde el lanzamiento del vehiculo mismo** (no solo dentro de la ventana de datos de un agregador, sino desde el dia 1 del fondo) - evidencia de comportamiento en crisis la mas temprana y completa de los fondos diversificados del proyecto.",
+          "notas": "18.1 años de historial, **ÚNICO fondo 'core' diversificado del proyecto que incluye la crisis financiera de 2008 COMPLETA desde el lanzamiento del vehículo mismo** (no solo dentro de la ventana de datos de un agregador, sino desde el dia 1 del fondo) - evidencia de comportamiento en crisis la mas temprana y completa de los fondos diversificados del proyecto.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 3.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 22.49x - moderado, resultado natural de mezclar el mercado US mas caro con el internacional mas barato (blend natural, similar en espiritu al P/E de VXUS pero elevado por el peso mayoritario US). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 22.49x - moderado, resultado natural de mezclar el mercado US mas caro con el internacional mas barato (blend natural, similar en espiritu al P/E de VXUS pero elevado por el peso mayoritario US). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 1.54%, Payout Ratio = 34.63% - sostenible. Frecuencia de distribucion no confirmada con fuente primaria especifica esta sesion (tipicamente trimestral en los fondos indexados de Vanguard).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 1.54%, Payout Ratio = 34.63% - sostenible. Frecuencia de distribución no confirmada con fuente primaria específica esta sesión (tipicamente trimestral en los fondos indexados de Vanguard).",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - VT es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**Comparacion natural con VXUS** (ya analizado en este workbook, fila 30): VT es aproximadamente equivalente a combinar VTI (Vanguard Total US Stock, NO analizado individualmente en este workbook) + VXUS en una proporcion ~60/40 automatica. Para ESTE usuario especifico, que ya tiene fuertes convicciones individuales en la porcion US (reflejadas en el overlap 10/10 del top10) y que ya cuenta con VXUS en el workbook para la porcion internacional, VT no anade una tesis nueva mas alla de la CONVENIENCIA de un solo ticket - la combinacion 'VXUS + acciones individuales US ya tomadas' probablemente ofrece mejor eficiencia de capital que 'VT completo', que empaqueta redundancia US junto con la diversificacion internacional util.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**Comparación natural con VXUS** (ya analizado en este workbook, fila 30): VT es aproximadamente equivalente a combinar VTI (Vanguard Total US Stock, NO analizado individualmente en este workbook) + VXUS en una proporción ~60/40 automática. Para ESTE usuario específico, que ya tiene fuertes convicciones individuales en la porción US (reflejadas en el overlap 10/10 del top10) y que ya cuenta con VXUS en el workbook para la porción internacional, VT no anade una tesis nueva mas alla de la CONVENIENCIA de un solo ticket - la combinación 'VXUS + acciones individuales US ya tomadas' probablemente ofrece mejor eficiencia de capital que 'VT completo', que empaqueta redundancia US junto con la diversificación internacional util.",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: mezcla EXACTA de 'diversificador genuino' (la porcion internacional ~35-40%, similar en espiritu a VXUS) y 'redundancia total' (la porcion US ~60-65%, que replica casi completamente el top10 de convicciones individuales ya tomadas por el usuario) - un HIBRIDO inusual en el proyecto. Rol: Core por diseño estructural del producto, aunque con la salvedad explicita de que gran parte de su valor DUPLICA lo que VXUS + acciones individuales ya cubren, posiblemente de forma mas eficiente por separado.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: mezcla EXACTA de 'diversificador genuino' (la porción internacional ~35-40%, similar en espiritu a VXUS) y 'redundancia total' (la porción US ~60-65%, que réplica casi completamente el top10 de convicciones individuales ya tomadas por el usuario) - un HIBRIDO inusual en el proyecto. Rol: Core por diseño estructural del producto, aunque con la salvedad explicita de que gran parte de su valor DUPLICA lo que VXUS + acciones individuales ya cubren, posiblemente de forma mas eficiente por separado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: solucion de 'un solo ticket' para exposicion accionaria global total (US+internacional), maxima simplicidad operativa - pero para un usuario que YA tiene convicciones individuales fuertes en la porcion US Y ya cuenta con VXUS para la porcion internacional en este mismo workbook, VT es mas una REDUNDANCIA PARCIAL conveniente que una diversificacion genuinamente nueva.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: solución de 'un solo ticket' para exposición accionaria global total (US+internacional), maxima simplicidad operativa - pero para un usuario que YA tiene convicciones individuales fuertes en la porción US Y ya cuenta con VXUS para la porción internacional en este mismo workbook, VT es mas una REDUNDANCIA PARCIAL conveniente que una diversificación genuinamente nueva.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) el ~60-65% US del fondo duplica casi completamente las convicciones individuales mega-cap ya tomadas por el usuario (mismo patron de fondo que VUG/VGT/XLK, aunque diluido a ~22% del fondo total en vez de ~57-60%); (2) riesgo cambiario/fiscal en la porcion internacional (mismo gotcha ya documentado con VYMI/VXUS); (3) para este usuario especifico, la combinacion YA EXISTENTE de VXUS (en este workbook) + las acciones individuales US ya analizadas probablemente ofrece mejor diversificacion marginal por dolar invertido que VT completo.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) el ~60-65% US del fondo duplica casi completamente las convicciones individuales mega-cap ya tomadas por el usuario (mismo patrón de fondo que VUG/VGT/XLK, aunque diluido a ~22% del fondo total en vez de ~57-60%); (2) riesgo cambiario/fiscal en la porción internacional (mismo gotcha ya documentado con VYMI/VXUS); (3) para este usuario específico, la combinación YA EXISTENTE de VXUS (en este workbook) + las acciones individuales US ya analizadas probablemente ofrece mejor diversificación marginal por dólar invertido que VT completo.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "VXUS (ya analizado, fila 30) + VTI (Vanguard Total US Stock, no analizado individualmente) identificados como la combinacion equivalente y mas personalizable a VT.",
+          "notas": "VXUS (ya analizado, fila 30) + VTI (Vanguard Total US Stock, no analizado individualmente) identificados como la combinación equivalente y mas personalizable a VT.",
           "calificacion": 3
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.76/5, solido pero NOTABLEMENTE INFERIOR a VXUS (3.94) y VB (3.88), pese a compartir emisor, bajo TER y calidad estructural excepcional (record absoluto de holdings del proyecto, 10,070; 18.1 anios de historial que incluye la crisis de 2008 completa). La razon de la diferencia: VT tiene un OVERLAP CASI COMPLETO del top10 (10 de 10 nombres: NVDA/AAPL/MSFT/AMZN/GOOGL/AVGO/TSM/GOOG/META/TSLA, todos ya analizados individualmente, empatando con VUG como unico otro caso de overlap 10/10 del proyecto) porque aprox 60-65% del fondo es mercado US, la misma porcion donde el usuario ya concentra sus convicciones individuales. A diferencia de VXUS (diversificador CASI PURO, con overlap minimo de solo 5.37%) y VB (diversificador de FACTOR TAMANO con overlap casi nulo), VT es un HIBRIDO: la porcion internacional (~35-40%) SI diversifica genuinamente, pero la porcion US (~60-65%) DUPLICA gran parte de lo que el usuario ya tiene. Para este usuario en particular, dado que YA cuenta con VXUS en este mismo workbook para la pata internacional y ya tiene convicciones individuales solidas en la pata US, la combinacion 'VXUS + acciones individuales' probablemente ofrece mejor eficiencia de capital y diversificacion marginal por dolar que agregar VT completo encima de ambas. VT sigue siendo un vehiculo de EXCELENTE calidad en terminos absolutos (ideal para un inversionista que empieza de cero sin convicciones individuales previas), pero para el perfil especifico de este usuario, su valor incremental sobre lo que ya existe en la cartera es menor de lo que su Score aislado sugeriria."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.76/5, sólido pero NOTABLEMENTE INFERIOR a VXUS (3.94) y VB (3.88), pese a compartir emisor, bajo TER y calidad estructural excepcional (récord absoluto de holdings del proyecto, 10,070; 18.1 años de historial que incluye la crisis de 2008 completa). La razón de la diferencia: VT tiene un OVERLAP CASI COMPLETO del top10 (10 de 10 nombres: NVDA/AAPL/MSFT/AMZN/GOOGL/AVGO/TSM/GOOG/META/TSLA, todos ya analizados individualmente, empatando con VUG como único otro caso de overlap 10/10 del proyecto) porque aprox 60-65% del fondo es mercado US, la misma porción donde el usuario ya concentra sus convicciones individuales. A diferencia de VXUS (diversificador CASI PURO, con overlap mínimo de solo 5.37%) y VB (diversificador de FACTOR TAMAÑO con overlap casi nulo), VT es un HIBRIDO: la porción internacional (~35-40%) SI diversifica genuinamente, pero la porción US (~60-65%) DUPLICA gran parte de lo que el usuario ya tiene. Para este usuario en particular, dado que YA cuenta con VXUS en este mismo workbook para la pata internacional y ya tiene convicciones individuales sólidas en la pata US, la combinación 'VXUS + acciones individuales' probablemente ofrece mejor eficiencia de capital y diversificación marginal por dólar que agregar VT completo encima de ambas. VT sigue siendo un vehículo de EXCELENTE calidad en términos absolutos (ideal para un inversionista que empieza de cero sin convicciones individuales previas), pero para el perfil específico de este usuario, su valor incremental sobre lo que ya existe en la cartera es menor de lo que su Score aislado sugeriria."
   }
 }

@@ -1,36 +1,36 @@
 {
   "nombre": "VanEck Oil Refiners ETF",
   "ticker": "CRAK",
-  "categoria": "Equity Sector (refino de petroleo, GLOBAL - competidor tematico de XOP)",
+  "categoria": "Equity Sector (refino de petróleo, GLOBAL - competidor temático de XOP)",
   "emisor": "VanEck",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA (confirmado por Trackinsight). Sin riesgo de contraparte.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA (confirmado por Trackinsight). Sin riesgo de contraparte.",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, PERO a diferencia de XOP (100% holdings US), CRAK tiene componentes genuinamente internacionales (India, Polonia, Japon, Finlandia, Corea del Sur, Hungria) - esto SI introduce friccion fiscal de retencion de dividendos extranjeros, mismo gotcha ya documentado con VYMI, distinto del caso de XOP.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, PERO a diferencia de XOP (100% holdings US), CRAK tiene componentes genuinamente internacionales (India, Polonia, Japon, Finlandia, Corea del Sur, Hungria) - esto SI introduce fricción fiscal de retención de dividendos extranjeros, mismo gotcha ya documentado con VYMI, distinto del caso de XOP.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$237-257M segun la fuente (stockanalysis.com $257.37M; Trackinsight EUR219M=~$237M al 7-ago-2026) - EL AUM MAS PEQUENO DE TODO EL PROYECTO (menor incluso que IHAK, ~$1bn). Por encima del umbral critico de alerta ($50-100M) del checklist de Metodologia, pero notablemente el mas pequeno analizado hasta ahora - riesgo de cierre real, aunque no inminente.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$237-257M según la fuente (stockanalysis.com $257.37M; Trackinsight EUR219M=~$237M al 7-ago-2026) - EL AUM MAS PEQUEÑO DE TODO EL PROYECTO (menor incluso que IHAK, ~$1bn). Por encima del umbral critico de alerta ($50-100M) del checklist de Metodología, pero notablemente el mas pequeño analizado hasta ahora - riesgo de cierre real, aunque no inminente.",
           "calificacion": 2
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Lanzado 18-ago-2015 (~11.0 anios de historial al 2026-08-10) - comparable a VYMI (10.5 anios), menor que XOP/ITA (~20 anios) y SOXX (25 anios).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Lanzado 18-ago-2015 (~11.0 años de historial al 2026-08-10) - comparable a VYMI (10.5 años), menor que XOP/ITA (~20 años) y SOXX (25 años).",
           "calificacion": 3
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor: VanEck, gestora de ETFs establecida y reconocida (mas pequena que BlackRock/Vanguard/State Street/Schwab/First Trust en AUM total) - primera aparicion de VanEck en este proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor: VanEck, gestora de ETFs establecida y reconocida (mas pequeña que BlackRock/Vanguard/State Street/Schwab/First Trust en AUM total) - primera aparición de VanEck en este proyecto.",
           "calificacion": 4
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.61% - verificado por CONSENSO de 6 fuentes independientes (AAII, FinanceCharts, Investing.com, ETFdb, Cbonds 0.62%, Seeking Alpha 0.62%). Trackinsight mostro un 0.94% claramente atipico frente a las otras 6 fuentes - se trata como un probable ERROR DE ESA FUENTE ESPECIFICA, no como el dato correcto (primera vez en el proyecto que Trackinsight mismo, no solo un agregador generico de busqueda, resulta ser el outlier). Con 0.61% verificado, es el TER MAS ALTO DE TODO EL PROYECTO (por encima de CIBR 0.58%).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.61% - verificado por CONSENSO de 6 fuentes independientes (AAII, FinanceCharts, Investing.com, ETFdb, Cbonds 0.62%, Seeking Alpha 0.62%). Trackinsight mostro un 0.94% claramente atipico frente a las otras 6 fuentes - se trata como un probable ERROR DE ESA FUENTE ESPECÍFICA, no como el dato correcto (primera vez en el proyecto que Trackinsight mismo, no solo un agregador generico de busqueda, resulta ser el outlier). Con 0.61% verificado, es el TER MAS ALTO DE TODO EL PROYECTO (por encima de CIBR 0.58%).",
           "calificacion": 1
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "No verificado con fuente primaria en esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesión.",
           "calificacion": 3
         },
         {
@@ -55,137 +55,137 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "No se confirmo la frecuencia exacta de rebalanceo en las fuentes consultadas esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "No se confirmo la frecuencia exacta de rebalanceo en las fuentes consultadas esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "NO se obtuvo cifra de volumen diario en esta sesion (a diferencia de XOP, donde si se encontro). Dado el AUM tan pequeno (~$250M), es razonable esperar liquidez sustancialmente menor que el resto del proyecto - revisar con cuidado antes de cualquier orden.",
+          "notas": "NO se obtuvo cifra de volumen diario en esta sesión (a diferencia de XOP, donde si se encontro). Dado el AUM tan pequeño (~$250M), es razonable esperar liquidez sustancialmente menor que el resto del proyecto - revisar con cuidado antes de cualquier orden.",
           "calificacion": 2
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "No verificado con cifra exacta, pero el AUM pequeno sugiere un spread potencialmente mas ancho que el resto del proyecto.",
+          "notas": "No verificado con cifra exacta, pero el AUM pequeño sugiere un spread potencialmente mas ancho que el resto del proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "No verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesión.",
           "calificacion": 2
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "VanEck es una gestora establecida, pero el fondo especifico es muy pequeno (~$250M) - mayor riesgo de menor profundidad de creacion/redencion que los fondos grandes del proyecto.",
+          "notas": "VanEck es una gestora establecida, pero el fondo específico es muy pequeño (~$250M) - mayor riesgo de menor profundidad de creación/redención que los fondos grandes del proyecto.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "25-30 holdings segun la fuente (Trackinsight 25, stockanalysis 30) - EL MENOR numero de holdings de TODO el proyecto, empatando/por debajo de SOXX (31-34).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "25-30 holdings según la fuente (Trackinsight 25, stockanalysis 30) - EL MENOR número de holdings de TODO el proyecto, empatando/por debajo de SOXX (31-34).",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 57.80% (stockanalysis) / 60.60% (Trackinsight), Top 15 = 79.46% (Trackinsight) - muy concentrado, similar a CIBR (57.71%), MUCHO mas que XOP (30.29%) pese a cubrir un universo de negocio similar (refino de petroleo) - la diferencia es el CAP-WEIGHTING con tope de 8% de CRAK frente al EQUAL-WEIGHT de XOP.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 57.80% (stockanalysis) / 60.60% (Trackinsight), Top 15 = 79.46% (Trackinsight) - muy concentrado, similar a CIBR (57.71%), MUCHO mas que XOP (30.29%) pese a cubrir un universo de negocio similar (refino de petróleo) - la diferencia es el CAP-WEIGHTING con tope de 8% de CRAK frente al EQUAL-WEIGHT de XOP.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Energy 94.88% + Industrials 3.87% + Non-Energy Materials 1.25% (Trackinsight) = ~100% del fondo - concentracion sectorial extrema, consistente con el resto del grupo de nicho del proyecto.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Energy 94.88% + Industrials 3.87% + Non-Energy Materials 1.25% (Trackinsight) = ~100% del fondo - concentración sectorial extrema, consistente con el resto del grupo de nicho del proyecto.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "GENUINAMENTE GLOBAL - top10 incluye Reliance Industries GDR (India), Orlen (Polonia), ENEOS (Japon), Neste Oyj (Finlandia, lider en combustibles renovables), SK Innovation (Corea del Sur) y MOL Magyar (Hungria), ademas de MPC/VLO/PSX (EEUU). Es la DIVERSIFICACION GEOGRAFICA MAS AMPLIA de cualquier ETF sectorial/tematico del proyecto (ITA/SOXX/CIBR/IHAK son casi 100% US) - diferenciador clave frente a su comparable directo XOP (100% US).",
+          "aspecto": "Concentración geográfica",
+          "notas": "GENUINAMENTE GLOBAL - top10 incluye Reliance Industries GDR (India), Orlen (Polonia), ENEOS (Japon), Neste Oyj (Finlandia, líder en combustibles renovables), SK Innovation (Corea del Sur) y MOL Magyar (Hungria), además de MPC/VLO/PSX (EEUU). Es la DIVERSIFICASIÓN GEOGRÁFICA MAS AMPLIA de cualquier ETF sectorial/temático del proyecto (ITA/SOXX/CIBR/IHAK son casi 100% US) - diferenciador clave frente a su comparable directo XOP (100% US).",
           "calificacion": 5
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Mismo perfil ciclico/commodity de refino que XOP, pero con la ventaja de diversificacion geografica que reduce el riesgo idiosincratico de un solo mercado regulatorio/de margenes de refinacion.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Mismo perfil ciclico/commodity de refino que XOP, pero con la ventaja de diversificación geográfica que reduce el riesgo idiosincratico de un solo mercado regulatorio/de márgenes de refinación.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MVIS Global Oil Refiners Index: empresas que generan >=50% de sus ingresos de refino de petroleo crudo (criterio de elegibilidad claro), ponderacion por capitalizacion de mercado MODIFICADA con tope de 8% por posicion (mas estricto que el 22.5% de ITA, igual de estricto que el tope de IHAK). Metodologia transparente.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MVIS Global Oil Refiners Index: empresas que generan >=50% de sus ingresos de refino de petróleo crudo (criterio de elegibilidad claro), ponderación por capitalización de mercado MODIFICADA con tope de 8% por posición (mas estricto que el 22.5% de ITA, igual de estricto que el tope de IHAK). Metodología transparente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "No se confirmo con precision la frecuencia exacta de rebalanceo en las fuentes consultadas esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "No se confirmo con precisión la frecuencia exacta de rebalanceo en las fuentes consultadas esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (ago-2015, ~11 anios) = 12.67% anualizado (stockanalysis.com) - NOTABLEMENTE MEJOR que XOP (2.56%) pese a cubrir un tema de negocio similar (refino), probablemente por la diversificacion geografica Y por una ventana de inicio distinta (evito el tramo mas duro del ciclo bajista de petroleo 2014-2015 que XOP si capturo desde su inception en 2006). Retorno 1Y (ago-2026) = +67.61% (stockanalysis) vs +45.46% YTD (Trackinsight) - AMBAS cifras apuntan a un rally MUY fuerte, incluso mas pronunciado que el de XOP (+44.26% 1Y). Es el mejor track record ajustado dentro del universo de refino/energia del proyecto.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (ago-2015, ~11 años) = 12.67% anualizado (stockanalysis.com) - NOTABLEMENTE MEJOR que XOP (2.56%) pese a cubrir un tema de negocio similar (refino), probablemente por la diversificación geográfica Y por una ventana de inicio distinta (evito el tramo mas duro del ciclo bajista de petróleo 2014-2015 que XOP si capturo desde su inception en 2006). Retorno 1Y (ago-2026) = +67.61% (stockanalysis) vs +45.46% YTD (Trackinsight) - AMBAS cifras apuntan a un rally MUY fuerte, incluso mas pronunciado que el de XOP (+44.26% 1Y). Es el mejor track record ajustado dentro del universo de refino/energía del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada ~18.4-18.9% segun DOS fuentes razonablemente consistentes - NOTABLEMENTE MENOR que XOP (33.21%), reflejo directo de la diversificacion geografica (menor riesgo idiosincratico concentrado en un solo mercado).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada ~18.4-18.9% según DOS fuentes razonablemente consistentes - NOTABLEMENTE MENOR que XOP (33.21%), reflejo directo de la diversificación geográfica (menor riesgo idiosincratico concentrado en un solo mercado).",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "NO se encontro una cifra clara de maximo drawdown en las fuentes consultadas esta sesion (a diferencia de XOP, donde si se encontro -90.27%) - dejar en blanco, pendiente para proxima revision.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "NO se encontro una cifra clara de máximo drawdown en las fuentes consultadas esta sesión (a diferencia de XOP, donde si se encontro -90.27%) - dejar en blanco, pendiente para proxima revisión.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "No se encontro un Sharpe Ratio en las fuentes consultadas esta sesion.",
+          "notas": "No se encontro un Sharpe Ratio en las fuentes consultadas esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.54 (stockanalysis) - similar a XOP (0.55), bajo en terminos relativos al mercado por la misma razon (correlacion baja con el ciclo economico general de EEUU dado el caracter global/commodity del negocio). OVERLAP: Marathon Petroleum (MPC, 7.97-8.15%) y HF Sinclair (DINO, 4.56%) YA estan analizados individualmente en el Dashboard de acciones del usuario, sumando 12.53-12.71% del fondo - PROPORCIONALMENTE MAYOR que el overlap de XOP (6.0%) pese a ser los MISMOS DOS TICKERS, porque CRAK tiene un universo mas concentrado (25-30 holdings vs 54 de XOP).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.54 (stockanalysis) - similar a XOP (0.55), bajo en términos relativos al mercado por la misma razón (correlación baja con el ciclo económico general de EEUU dado el caracter global/commodity del negocio). OVERLAP: Marathon Petroleum (MPC, 7.97-8.15%) y HF Sinclair (DINO, 4.56%) YA estan analizados individualmente en el Dashboard de acciones del usuario, sumando 12.53-12.71% del fondo - PROPORCIONALMENTE MAYOR que el overlap de XOP (6.0%) pese a ser los MISMOS DOS TICKERS, porque CRAK tiene un universo mas concentrado (25-30 holdings vs 54 de XOP).",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "No se verifico en detalle el comportamiento especifico en crisis pasadas en esta sesion.",
+          "notas": "No se verifico en detalle el comportamiento específico en crisis pasadas en esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 14.06x - practicamente identico a XOP (14.54x). MISMO gotcha de 'value trap' de commodity en pico de ciclo aplica aqui tambien (ver [[stock_analysis_methodology]], gotcha de MU) - tras un rally de +67.61% en 1Y, aun mas pronunciado que el de XOP, un P/E bajo probablemente refleja margenes de refinacion en el pico del ciclo, no valor sostenible.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 14.06x - prácticamente identico a XOP (14.54x). MISMO gotcha de 'value trap' de commodity en pico de ciclo aplica aquí también (ver [[stock_analysis_methodology]], gotcha de MU) - tras un rally de +67.61% en 1Y, aun mas pronunciado que el de XOP, un P/E bajo probablemente refleja márgenes de refinación en el pico del ciclo, no valor sostenible.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 1.36-1.38% - moderado, MENOR que XOP (~1.9%) pese a cubrir un negocio similar, posiblemente por mayor peso relativo de nombres de crecimiento/reinversion (ej. Neste, lider en combustibles renovables) en la composicion internacional.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 1.36-1.38% - moderado, MENOR que XOP (~1.9%) pese a cubrir un negocio similar, posiblemente por mayor peso relativo de nombres de crecimiento/reinversión (ej. Neste, líder en combustibles renovables) en la composición internacional.",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - CRAK es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "COMPARACION DIRECTA CON XOP (ya analizado en este mismo workbook, fila 11, mismo sub-sector de refino de petroleo): CRAK es mas caro en TER (0.61% vs 0.35%) y muchisimo mas pequeno en AUM ($250M vs $3.6bn), pero ofrece diversificacion geografica genuina (vs 100% US de XOP), mejor track record historico (12.67% vs 2.56% anualizado desde inception) y menor volatilidad (18.9% vs 33.2%). Trade-off claro: se paga mas TER y se acepta mas riesgo de liquidez/AUM a cambio de menor volatilidad y exposicion internacional.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "COMPARASIÓN DIRECTA CON XOP (ya analizado en este mismo workbook, fila 11, mismo sub-sector de refino de petróleo): CRAK es mas caro en TER (0.61% vs 0.35%) y muchisimo mas pequeño en AUM ($250M vs $3.6bn), pero ofrece diversificación geográfica genuina (vs 100% US de XOP), mejor track record histórico (12.67% vs 2.56% anualizado desde inception) y menor volatilidad (18.9% vs 33.2%). Trade-off claro: se paga mas TER y se acepta mas riesgo de liquidez/AUM a cambio de menor volatilidad y exposición internacional.",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol sugerido: SATELITE tactico de conviccion moderada - el perfil de menor volatilidad y mejor track record que XOP lo hace algo mas defendible como posicion satelite que XOP (clasificado como 'Tactico puro' dado su historial extremo), aunque el AUM pequeno y el TER alto siguen siendo limitantes reales que pesan en contra.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol sugerido: SATÉLITE táctico de convicción moderada - el perfil de menor volatilidad y mejor track record que XOP lo hace algo mas defendible como posición satélite que XOP (clasificado como 'Táctico puro' dado su historial extremo), aunque el AUM pequeño y el TER alto siguen siendo limitantes reales que pesan en contra.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion GLOBAL al margen de refinacion de petroleo (crack spread), diversificada geograficamente entre EEUU, Europa del Este (Polonia, Hungria), Asia (Japon, Corea del Sur, India via Reliance) y Escandinavia (Finlandia via Neste, lider en combustibles renovables) - una tesis mas matizada que XOP, con exposicion a jugadores de refino de clase mundial en mercados con distinta dinamica regulatoria y de margenes que EEUU.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición GLOBAL al margen de refinación de petróleo (crack spread), diversificada geograficamente entre EEUU, Europa del Este (Polonia, Hungria), Asia (Japon, Corea del Sur, India via Reliance) y Escandinavia (Finlandia via Neste, líder en combustibles renovables) - una tesis mas matizada que XOP, con exposición a jugadores de refino de clase mundial en mercados con distinta dinámica regulatoria y de márgenes que EEUU.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) AUM MUY pequeno (~$250M, el mas bajo del proyecto) - mayor riesgo de liquidacion que cualquier otro ETF del proyecto, aunque por encima del umbral critico; (2) TER mas alto del proyecto (0.61%); (3) mismo riesgo de 'value trap' de commodity en pico de ciclo que XOP (P/E 14x tras un rally aun mas fuerte, +67.61%); (4) concentracion extrema (solo 25-30 holdings, top10 ~58-61%); (5) overlap con MPC+DINO (12.5-12.7% del fondo, proporcionalmente MAYOR que el de XOP); (6) riesgo cambiario no cubierto por la porcion internacional del fondo (mismo gotcha ya documentado con VYMI).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) AUM MUY pequeño (~$250M, el mas bajo del proyecto) - mayor riesgo de liquidación que cualquier otro ETF del proyecto, aunque por encima del umbral critico; (2) TER mas alto del proyecto (0.61%); (3) mismo riesgo de 'value trap' de commodity en pico de ciclo que XOP (P/E 14x tras un rally aun mas fuerte, +67.61%); (4) concentración extrema (solo 25-30 holdings, top10 ~58-61%); (5) overlap con MPC+DINO (12.5-12.7% del fondo, proporcionalmente MAYOR que el de XOP); (6) riesgo cambiario no cubierto por la porción internacional del fondo (mismo gotcha ya documentado con VYMI).",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "XOP (ya analizado en este mismo workbook, fila 11) es la comparacion directa mas relevante: mas liquido, mas barato en TER, metodologia equal-weight, 100% US, pero con un track record historico MUCHO peor (2.56% vs 12.67% anualizado) y mayor volatilidad (33.2% vs 18.9%). La eleccion entre ambos depende de si se prefiere menor costo/mayor liquidez (XOP) o menor volatilidad/diversificacion geografica (CRAK).",
+          "notas": "XOP (ya analizado en este mismo workbook, fila 11) es la comparación directa mas relevante: mas liquido, mas barato en TER, metodología equal-weight, 100% US, pero con un track record histórico MUCHO peor (2.56% vs 12.67% anualizado) y mayor volatilidad (33.2% vs 18.9%). La elección entre ambos depende de si se prefiere menor costo/mayor liquidez (XOP) o menor volatilidad/diversificación geográfica (CRAK).",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (en el sentido de EVITAR/no iniciar posicion, dado que es una evaluacion pre-compra como el resto del proyecto). Score ~2.91/5, EL MAS BAJO DE TODO EL PROYECTO Y EL PRIMERO POR DEBAJO DEL UMBRAL DE 3.0 del marco de Metodologia ('Score bajo <3.0, independiente de valoracion -> reducir/evitar'). La combinacion es dificil de justificar: AUM mas pequeno del proyecto (~$250M, real riesgo de liquidez/cierre aunque no inminente), TER mas alto del proyecto (0.61%), la concentracion mas alta en numero de holdings (solo 25-30), Y el mismo riesgo de 'value trap' de commodity en pico de ciclo que XOP (P/E 14x tras el rally MAS fuerte del proyecto, +67.61% en 1Y). Los puntos a favor genuinos - diversificacion geografica real (unico ETF de refino verdaderamente global), mejor track record historico que XOP (12.67% vs 2.56% anualizado) y menor volatilidad (18.9% vs 33.2%) - no compensan lo suficiente en el promedio dado el peso de los problemas estructurales de tamano/costo/concentracion. Si el objetivo es exposicion al tema de refino de petroleo, XOP (ya analizado en este workbook, fila 11) es la opcion mas defendible pese a su propio historial fragil, simplemente por ser mas liquido, mas barato y estar respaldado por un AUM mucho mayor - o esperar a que CRAK crezca en AUM/liquidez antes de considerarlo."
+    "tesis": "REDUCIR/VENDER (en el sentido de EVITAR/no iniciar posición, dado que es una evaluación pre-compra como el resto del proyecto). Score ~2.91/5, EL MAS BAJO DE TODO EL PROYECTO Y EL PRIMERO POR DEBAJO DEL UMBRAL DE 3.0 del marco de Metodología ('Score bajo <3.0, independiente de valoración -> reducir/evitar'). La combinación es difícil de justificar: AUM mas pequeño del proyecto (~$250M, real riesgo de liquidez/cierre aunque no inminente), TER mas alto del proyecto (0.61%), la concentración mas alta en número de holdings (solo 25-30), Y el mismo riesgo de 'value trap' de commodity en pico de ciclo que XOP (P/E 14x tras el rally MAS fuerte del proyecto, +67.61% en 1Y). Los puntos a favor genuinos - diversificación geográfica real (único ETF de refino verdaderamente global), mejor track record histórico que XOP (12.67% vs 2.56% anualizado) y menor volatilidad (18.9% vs 33.2%) - no compensan lo suficiente en el promedio dado el peso de los problemas estructurales de tamaño/costo/concentración. Si el objetivo es exposición al tema de refino de petróleo, XOP (ya analizado en este workbook, fila 11) es la opción mas defendible pese a su propio historial fragil, simplemente por ser mas liquido, mas barato y estar respaldado por un AUM mucho mayor - o esperar a que CRAK crezca en AUM/liquidez antes de considerarlo."
   }
 }

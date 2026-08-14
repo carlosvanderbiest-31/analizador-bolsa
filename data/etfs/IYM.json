@@ -6,30 +6,30 @@
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica fisica -misma familia Russell-capped que IYK/IYZ-, sin swaps ni contraparte.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica física -misma familia Russell-capped que IYK/IYZ-, sin swaps ni contraparte.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, iShares Trust, RIC estandar.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, iShares Trust, RIC estándar.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM solo ~$1.05-1.18bn - DIMINUTO, misma escala de nicho que IYK -~$1.3-1.43bn- e IYZ -~$1.19-1.25bn-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 12-jun-2000 - **EL MISMO DIA EXACTO que IYK**, ya en el workbook -lanzamiento coordinado del emisor de su familia de fondos sectoriales Russell-capped-, ~26.17 anios, cubre dot-com/2008/COVID/2022.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 12-jun-2000 - **EL MISMO DIA EXACTO que IYK**, ya en el workbook -lanzamiento coordinado del emisor de su familia de fondos sectoriales Russell-capped-, ~26.17 años, cubre dot-com/2008/COVID/2022.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor iShares/BlackRock.",
           "calificacion": 4
         }
@@ -40,34 +40,34 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.38% - identico a IYK, **~4.75x mas caro que XLB -State Street/SPDR, no analizado, 0.08%-**, mismo patron ya establecido con XLP-vs-IYK.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.38% - identico a IYK, **~4.75x mas caro que XLB -State Street/SPDR, no analizado, 0.08%-**, mismo patrón ya establecido con XLP-vs-IYK.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica fisica de un indice Russell capped bien definido - tracking razonable esperado.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica física de un índice Russell capped bien definido - tracking razonable esperado.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "RIC estandar, no verificado si presta valores esta sesion.",
+          "notas": "RIC estándar, no verificado si presta valores esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Reconstitucion Russell anual -junio- con checks trimestrales de topes - estandar.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Reconstitución Russell anual -junio- con checks trimestrales de topes - estándar.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~242,635 acciones/dia (~$46M/dia) - delgado por conteo de acciones pero de hecho el MAS liquido en dolares de la familia Russell-capped de iShares del proyecto -vs IYK ~$13.45M/dia, IYZ ~$39.9M/dia-.",
+          "notas": "Volumen ~242,635 acciones/dia (~$46M/dia) - delgado por conteo de acciones pero de hecho el MAS liquido en dólares de la familia Russell-capped de iShares del proyecto -vs IYK ~$13.45M/dia, IYZ ~$39.9M/dia-.",
           "calificacion": 3
         },
         {
@@ -76,85 +76,85 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
+          "aspecto": "Premium/Discount histórico vs. NAV",
           "notas": "Premium/Discount vs NAV con lecturas RUIDOSAS e inconsistentes -~-0.7% en un snapshot, no confirmado con confianza-.",
           "calificacion": 2
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "iShares/BlackRock, aunque para un producto de nicho con AUM pequeno la profundidad real de AP es menor.",
+          "notas": "iShares/BlackRock, aunque para un producto de nicho con AUM pequeño la profundidad real de AP es menor.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
+          "aspecto": "Número de holdings y diversificación",
           "notas": "42-43 holdings - mas que XLC -23-26- pero menos que XLI -83-85-, moderado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
+          "aspecto": "Concentración Top 10 holdings (%)",
           "notas": "Top 10 = ~67-68% del NAV - muy concentrado, mismo tier que IYK -66.1-66.2%- e IYZ -71.5-72.1%-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "**Linde -LIN- ~19-20% del fondo, EXTREMADAMENTE concentrado en un solo nombre**, + Newmont -NEM- ~10.4-10.8% + Freeport-McMoRan -FCX- ~7.5-8.6% + Ecolab -ECL- ~5.9-6.2% + Air Products -APD- ~4.7-4.8% + Fastenal -FAST- ~4.1-4.5% + Nucor -NUE- ~3.4-4.5% + AngloGold Ashanti -AU- ~3.8% + Steel Dynamics -STLD- ~2.7-3.0% + Carpenter Technology -CRS- ~2.7%. Basic Materials 84-85% + Industrials ~11-12% -via Fastenal, distribucion industrial, inclusion cross-sector similar al caso CVS/McKesson de IYK- + Consumer Cyclical ~3.6-3.7%. Quimicos -LIN+ECL+APD- ~30-31%, Metales/Mineria -NEM+FCX+AU- ~22%, Acero -NUE+STLD+CRS- ~10%. Sherwin-Williams y Caterpillar -ambas YA NO COMPRAR en el proyecto de acciones- NO aparecen en el Top10 -CAT correctamente excluida por ser Industrials, SHW podria existir como posicion menor sub-2% no confirmada-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "**Linde -LIN- ~19-20% del fondo, EXTREMADAMENTE concentrado en un solo nombre**, + Newmont -NEM- ~10.4-10.8% + Freeport-McMoRan -FCX- ~7.5-8.6% + Ecolab -ECL- ~5.9-6.2% + Air Products -APD- ~4.7-4.8% + Fastenal -FAST- ~4.1-4.5% + Nucor -NUE- ~3.4-4.5% + AngloGold Ashanti -AU- ~3.8% + Steel Dynamics -STLD- ~2.7-3.0% + Carpenter Technology -CRS- ~2.7%. Basic Materials 84-85% + Industrials ~11-12% -via Fastenal, distribución industrial, inclusión cross-sector similar al caso CVS/McKesson de IYK- + Consumer Cyclical ~3.6-3.7%. Quimicos -LIN+ECL+APD- ~30-31%, Metales/Mineria -NEM+FCX+AU- ~22%, Acero -NUE+STLD+CRS- ~10%. Sherwin-Williams y Caterpillar -ambas YA NO COMPRAR en el proyecto de acciones- NO aparecen en el Top10 -CAT correctamente excluida por ser Industrials, SHW podría existir como posición menor sub-2% no confirmada-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US listado, aunque mineras -Newmont, Freeport, AngloGold Ashanti- tienen operaciones globales significativas.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Sector Basic Materials, exposicion ciclica/ligada a commodities, factor genuinamente distinto de los tilts growth/defensivo del resto del proyecto.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Sector Basic Materials, exposición ciclica/ligada a commodities, factor genuinamente distinto de los tilts growth/defensivo del resto del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Russell 1000 Basic Materials RIC 22.5/45 Capped Index - misma metodologia de familia que IYK/IYZ, razonable aunque nicho.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Russell 1000 Basic Materials RIC 22.5/45 Capped Index - misma metodología de familia que IYK/IYZ, razonable aunque nicho.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reconstitucion Russell anual -junio- con checks trimestrales de topes - estandar.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reconstitución Russell anual -junio- con checks trimestrales de topes - estándar.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 2.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y con CONFLICTO AMPLIO entre fuentes -~35% a ~48%, probablemente refleja volatilidad genuina del rally del oro/mineria 2025-2026 dado el peso de NEM/FCX/AU-, 3Y anualizado ~+8.8%, 5Y anualizado ~+10.8%, 10Y anualizado ~+12.3%, desde inception -26.17 anios- ~+8.58% anualizado - **NOTABLEMENTE MEJOR registro de largo plazo que IYZ -~1.56%- y similar a IYK -~8.83%-**.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y con CONFLICTO AMPLIO entre fuentes -~35% a ~48%, probablemente refleja volatilidad genuina del rally del oro/mineria 2025-2026 dado el peso de NEM/FCX/AU-, 3Y anualizado ~+8.8%, 5Y anualizado ~+10.8%, 10Y anualizado ~+12.3%, desde inception -26.17 años- ~+8.58% anualizado - **NOTABLEMENTE MEJOR registro de largo plazo que IYZ -~1.56%- y similar a IYK -~8.83%-**.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Rango 52 semanas $139.08-$191.99 -o $195.58 segun fuente- (ratio ~1.38x) - ALTO, entre los mas volatiles del cluster reciente.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Rango 52 semanas $139.08-$191.99 -o $195.58 según fuente- (ratio ~1.38x) - ALTO, entre los mas volatiles del cluster reciente.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown Crisis 2008: -67.78%**, piso 20-nov-2008, **1,281 sesiones -~5.1 anios- para recuperarse** - **SEVERO, una de las peores cifras/recuperaciones mas largas verificadas del cluster reciente**, peor que XLI -57.16%/43 meses-. Sin cifras de COVID ni bear 2022 encontradas -vacio de dato-.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown Crisis 2008: -67.78%**, piso 20-nov-2008, **1,281 sesiones -~5.1 años- para recuperarse** - **SEVERO, una de las peores cifras/recuperaciones mas largas verificadas del cluster reciente**, peor que XLI -57.16%/43 meses-. Sin cifras de COVID ni bear 2022 encontradas -vacio de dato-.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe ~1.59 -ventana de 12 meses trailing, EXPLICITAMENTE marcado como NO una cifra estable de largo plazo-.",
+          "notas": "Sharpe ~1.59 -ventana de 12 meses trailing, EXPLÍCITAMENTE marcado como NO una cifra estable de largo plazo-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = 0.88 -5 anios mensual- a 0.98 -stockanalysis- vs S&P 500 - moderado, por debajo del mercado.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.88 -5 años mensual- a 0.98 -stockanalysis- vs S&P 500 - moderado, por debajo del mercado.",
           "calificacion": 3
         },
         {
@@ -166,15 +166,15 @@
       "rating_promedio": 2.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "P/E ~23.92-23.95x -TTM ponderado- - moderado, tier similar a VOO/SPY/ITOT. P/B no encontrado -vacio de dato-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
           "notas": "Dividend Yield 1.23-1.33% TTM, trimestral, payout ratio ~29.3% - modesto, tier similar a VOO/SPY/ITOT.",
           "calificacion": 3
         }
@@ -182,11 +182,11 @@
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**MISMO PATRON ESTRUCTURAL ya establecido con XLP-vs-IYK**: XLB -State Street/SPDR, NO analizado en el workbook, TER 0.08% vs 0.38% de IYM, ~4.75x mas barato, 29 holdings, Top10 60.16% -MENOS concentrado que el 67-68% de IYM-- es el competidor DIRECTO y probablemente mas eficiente, pendiente de analizar. Tambien notable: **inception EL MISMO DIA EXACTO que IYK** -12-jun-2000, ya en el workbook- confirma un lanzamiento coordinado del emisor para su familia Russell-capped, junto a IYZ -22-may-2000, casi el mismo periodo-. | ACTUALIZACION posterior (XME, fila 117): SPDR S&P Metals & Mining ETF, equal-weight, PURO metales/mineria/acero SIN quimicos -a diferencia del ~30-31% en quimicos de IYM, dominado por Linde ~19-20%-. Top10 de XME mucho menos concentrado -45.58% vs 67-68% de IYM- gracias al equal-weighting, pero MUCHO mas volatil -Beta 1.29 vs 0.88-0.98 de IYM, ratio 52 sem 1.774x vs ~1.38x-. Ambos comparten overlap en Newmont y Freeport-McMoRan. Score XME 2.94 vs IYM 2.85. Ver Ficha XME fila 117 para el detalle completo. | ACTUALIZACION posterior (XLB, fila 118): ahora analizado con datos propios. XLB gana DECISIVAMENTE en costo -TER 0.08% vs 0.38% de IYM-, escala -AUM 7-8x mayor-, liquidez y concentracion -Top10 58.50% vs 67-68%, Linde 13.04-13.10% vs ~19-20% en IYM-, ademas de ejecucion GICS pura sin la fuga hacia Industrials -Fastenal- que tiene IYM. PERO, a diferencia del caso XLP-vs-IYK, **XLB RINDIO MENOS que IYM en 3Y/5Y/10Y** pese al costo mucho mas bajo -XLB 5Y +5.78-5.80% vs IYM ~+10.8%-, una diferencia honesta que complica la tesis simple de 'elegir siempre el mas barato'. Score XLB 3.61 vs IYM 2.85 -XLB sigue siendo superior en conjunto por la estructura/costo, pese al matiz de retorno-. Ver Ficha XLB fila 118 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**MISMO PATRÓN ESTRUCTURAL ya establecido con XLP-vs-IYK**: XLB -State Street/SPDR, NO analizado en el workbook, TER 0.08% vs 0.38% de IYM, ~4.75x mas barato, 29 holdings, Top10 60.16% -MENOS concentrado que el 67-68% de IYM-- es el competidor DIRECTO y probablemente mas eficiente, pendiente de analizar. También notable: **inception EL MISMO DIA EXACTO que IYK** -12-jun-2000, ya en el workbook- confirma un lanzamiento coordinado del emisor para su familia Russell-capped, junto a IYZ -22-may-2000, casi el mismo período-. | ACTUALIZASIÓN posterior (XME, fila 117): SPDR S&P Metals & Mining ETF, equal-weight, PURO metales/mineria/acero SIN quimicos -a diferencia del ~30-31% en quimicos de IYM, dominado por Linde ~19-20%-. Top10 de XME mucho menos concentrado -45.58% vs 67-68% de IYM- gracias al equal-weighting, pero MUCHO mas volatil -Beta 1.29 vs 0.88-0.98 de IYM, ratio 52 sem 1.774x vs ~1.38x-. Ambos comparten overlap en Newmont y Freeport-McMoRan. Score XME 2.94 vs IYM 2.85. Ver Ficha XME fila 117 para el detalle completo. | ACTUALIZASIÓN posterior (XLB, fila 118): ahora analizado con datos propios. XLB gana DECISIVAMENTE en costo -TER 0.08% vs 0.38% de IYM-, escala -AUM 7-8x mayor-, liquidez y concentración -Top10 58.50% vs 67-68%, Linde 13.04-13.10% vs ~19-20% en IYM-, además de ejecución GICS pura sin la fuga hacia Industrials -Fastenal- que tiene IYM. PERO, a diferencia del caso XLP-vs-IYK, **XLB RINDIO MENOS que IYM en 3Y/5Y/10Y** pese al costo mucho mas bajo -XLB 5Y +5.78-5.80% vs IYM ~+10.8%-, una diferencia honesta que complica la tesis simple de 'elegir siempre el mas barato'. Score XLB 3.61 vs IYM 2.85 -XLB sigue siendo superior en conjunto por la estructura/costo, pese al matiz de retorno-. Ver Ficha XLB fila 118 para el detalle completo.",
           "calificacion": 4
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: SATELITE ciclico/de materias primas - exposicion legitima pero con las mismas preocupaciones de costo/liquidez que IYK/IYZ frente a una alternativa SPDR mas eficiente.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: SATÉLITE ciclico/de materias primas - exposición legitima pero con las mismas preocupaciones de costo/liquidez que IYK/IYZ frente a una alternativa SPDR mas eficiente.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion ciclica/ligada a commodities via quimicos, metales/mineria y materiales industriales, beneficiada por la demanda de materiales especializados impulsada por IA y la fortaleza del oro/mineria 2025-2026, aunque enfrentando presion competitiva genuina de la expansion de capacidad quimica china documentada para 2025-2027.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición ciclica/ligada a commodities via quimicos, metales/mineria y materiales industriales, beneficiada por la demanda de materiales especializados impulsada por IA y la fortaleza del oro/mineria 2025-2026, aunque enfrentando presión competitiva genuina de la expansión de capacidad quimica china documentada para 2025-2027.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) TER 0.38%, ~4.75x mas caro que la probable alternativa XLB; (2) concentracion EXTREMA de un solo nombre -Linde ~19-20% del fondo-; (3) Max Drawdown Crisis 2008 documentado -67.78%, una de las recuperaciones mas largas del proyecto -~5.1 anios-; (4) AUM/liquidez pequenos, mismas preocupaciones de fondo de nicho que IYK/IYZ; (5) presion estructural/competitiva genuina de la expansion de capacidad quimica china documentada para 2025-2027.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) TER 0.38%, ~4.75x mas caro que la probable alternativa XLB; (2) concentración EXTREMA de un solo nombre -Linde ~19-20% del fondo-; (3) Max Drawdown Crisis 2008 documentado -67.78%, una de las recuperaciones mas largas del proyecto -~5.1 años-; (4) AUM/liquidez pequeños, mismas preocupaciones de fondo de nicho que IYK/IYZ; (5) presión estructural/competitiva genuina de la expansión de capacidad quimica china documentada para 2025-2027.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "XLB -State Street/SPDR, competidor DIRECTO y mucho mas barato, NO analizado en el workbook, pendiente claro, mismo patron que XLP-vs-IYK- es la comparable mas relevante. IYK/IYZ -ambos ya en el workbook, misma familia Russell-capped de iShares, IYK lanzado el MISMO DIA- ofrecen contexto cruzado de familia.",
+          "notas": "XLB -State Street/SPDR, competidor DIRECTO y mucho mas barato, NO analizado en el workbook, pendiente claro, mismo patrón que XLP-vs-IYK- es la comparable mas relevante. IYK/IYZ -ambos ya en el workbook, misma familia Russell-capped de iShares, IYK lanzado el MISMO DIA- ofrecen contexto cruzado de familia.",
           "calificacion": 4
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar) - mismo patron de ineficiencia de costo que IYK, con concentracion extrema adicional y drawdown historico severo. Score 2.85/5, cerca de la banda de DIA/AIRR -2.91-. iShares U.S. Basic Materials ETF, Russell 1000 Basic Materials RIC 22.5/45 Capped Index - MISMA familia Russell-capped de iShares que IYK y IYZ, ya en el workbook, con inception **EL MISMO DIA EXACTO que IYK** -12-jun-2000, lanzamiento coordinado del emisor-. AUM solo ~$1.05-1.18bn, DIMINUTO, misma escala de nicho que IYK/IYZ. **TER 0.38%, ~4.75x mas caro que XLB** -State Street/SPDR, NO analizado en el workbook, mismo patron ya establecido con XLP-vs-IYK-. **Concentracion EXTREMA en un solo nombre: Linde -LIN- ~19-20% del fondo**, seguido de Newmont ~10.4-10.8%, Freeport-McMoRan ~7.5-8.6%, Top10 total ~67-68%. Sherwin-Williams y Caterpillar -ambas ya NO COMPRAR en el proyecto de acciones- NO aparecen en el Top10. Retorno de largo plazo NOTABLEMENTE MEJOR que IYZ -desde inception ~8.58% anualizado vs ~1.56% de IYZ-, aunque el retorno 1Y tiene un CONFLICTO AMPLIO entre fuentes -~35% a ~48%-, probable reflejo de la volatilidad genuina del rally de oro/mineria 2025-2026. **Max Drawdown Crisis 2008 VERIFICADO -67.78%, 1,281 sesiones -~5.1 anios- para recuperarse** - una de las peores cifras/recuperaciones mas largas del cluster reciente, peor que XLI -57.16%/43 meses-. Rango 52 semanas ratio ~1.38x, alto. Rol en Portafolio: Satelite ciclico/de materias primas, aunque las mismas preocupaciones de costo/liquidez que IYK aplican frente a una alternativa SPDR -XLB- probablemente mas eficiente, pendiente de analizar."
+    "tesis": "REDUCIR/VENDER (evitar) - mismo patrón de ineficiencia de costo que IYK, con concentración extrema adicional y drawdown histórico severo. Score 2.85/5, cerca de la banda de DIA/AIRR -2.91-. iShares U.S. Basic Materials ETF, Russell 1000 Basic Materials RIC 22.5/45 Capped Index - MISMA familia Russell-capped de iShares que IYK y IYZ, ya en el workbook, con inception **EL MISMO DIA EXACTO que IYK** -12-jun-2000, lanzamiento coordinado del emisor-. AUM solo ~$1.05-1.18bn, DIMINUTO, misma escala de nicho que IYK/IYZ. **TER 0.38%, ~4.75x mas caro que XLB** -State Street/SPDR, NO analizado en el workbook, mismo patrón ya establecido con XLP-vs-IYK-. **Concentración EXTREMA en un solo nombre: Linde -LIN- ~19-20% del fondo**, seguido de Newmont ~10.4-10.8%, Freeport-McMoRan ~7.5-8.6%, Top10 total ~67-68%. Sherwin-Williams y Caterpillar -ambas ya NO COMPRAR en el proyecto de acciones- NO aparecen en el Top10. Retorno de largo plazo NOTABLEMENTE MEJOR que IYZ -desde inception ~8.58% anualizado vs ~1.56% de IYZ-, aunque el retorno 1Y tiene un CONFLICTO AMPLIO entre fuentes -~35% a ~48%-, probable reflejo de la volatilidad genuina del rally de oro/mineria 2025-2026. **Max Drawdown Crisis 2008 VERIFICADO -67.78%, 1,281 sesiones -~5.1 años- para recuperarse** - una de las peores cifras/recuperaciones mas largas del cluster reciente, peor que XLI -57.16%/43 meses-. Rango 52 semanas ratio ~1.38x, alto. Rol en Portafolio: Satélite ciclico/de materias primas, aunque las mismas preocupaciones de costo/liquidez que IYK aplican frente a una alternativa SPDR -XLB- probablemente mas eficiente, pendiente de analizar."
   }
 }

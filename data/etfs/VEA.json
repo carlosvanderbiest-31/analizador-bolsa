@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard FTSE Developed Markets ETF",
   "ticker": "VEA",
-  "categoria": "Equity Indice Amplio (TODOS los mercados DESARROLLADOS ex-US, FTSE Developed ALL CAP ex US -incluye small-cap- - competidor directo de SCHF, version mas diversificada y liquida)",
+  "categoria": "Equity Índice Amplio (TODOS los mercados DESARROLLADOS ex-US, FTSE Developed ALL CAP ex US -incluye small-cap- - competidor directo de SCHF, versión mas diversificada y liquida)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight) - notable dado el gran numero de holdings (3,856-3,881), refuerza el patron de capacidad de ejecucion superior de Vanguard ya documentado repetidamente en el proyecto (VTV/VUG/VGT/VXUS/VEU/VGK/VWO).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA confirmada (Trackinsight) - notable dado el gran número de holdings (3,856-3,881), refuerza el patrón de capacidad de ejecución superior de Vanguard ya documentado repetidamente en el proyecto (VTV/VUG/VGT/VXUS/VEU/VGK/VWO).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, exposicion multi-pais a mercados desarrollados ex-US - riesgo cambiario MULTI-DIVISA no cubierto.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, exposición multi-pais a mercados desarrollados ex-US - riesgo cambiario MULTI-DIVISA no cubierto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$204.71-234.99bn (stockanalysis $234.99bn, Trackinsight EUR204.71bn~$222bn) - **POSIBLEMENTE EL FONDO MAS GRANDE DE TODO EL PROYECTO** (supera a VUG, $229.61bn, el anterior record del proyecto de acciones/ETFs).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$204.71-234.99bn (stockanalysis $234.99bn, Trackinsight EUR204.71bn~$222bn) - **POSIBLEMENTE EL FONDO MAS GRANDE DE TODO EL PROYECTO** (supera a VUG, $229.61bn, el anterior récord del proyecto de acciones/ETFs).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 20-jul-2007 (~19 anios) - nace JUSTO ANTES de la Crisis Financiera 2008, por lo que **SI cubre la crisis DIRECTAMENTE en su propia historia**, a diferencia de SCHF (fila 69, inception nov-2009, nace DESPUES del fondo de mercado).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 20-jul-2007 (~19 años) - nace JUSTO ANTES de la Crisis Financiera 2008, por lo que **SI cubre la crisis DIRECTAMENTE en su propia historia**, a diferencia de SCHF (fila 69, inception nov-2009, nace DESPUÉS del fondo de mercado).",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Vanguard - DECIMA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VEU, VGK, VWO, ahora VEA).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Vanguard - DECIMA aparición en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VEU, VGK, VWO, ahora VEA).",
           "calificacion": 5
         }
       ],
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.03% - **EMPATADO con SCHF** (misma cifra primaria de las fuentes coincidentes) - primera vez en el proyecto donde Vanguard NO le gana en costo puro a su competidor mas cercano, sino que EMPATA en el nivel mas bajo posible.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending **CONFIRMADO EXPLICITAMENTE via artefacto de colateral en el top10**: 'Slbbh1142' (1.29%) - **QUINTA+ INSTANCIA CONFIRMADA** del mismo gotcha recurrente de parsing de holdings de fondos Vanguard grandes ya documentado con VXUS/VB/VEU/VWO.",
+          "notas": "Securities lending **CONFIRMADO EXPLÍCITAMENTE via artefacto de colateral en el top10**: 'Slbbh1142' (1.29%) - **QUINTA+ INSTANCIA CONFIRMADA** del mismo gotcha recurrente de parsing de holdings de fondos Vanguard grandes ya documentado con VXUS/VB/VEU/VWO.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice FTSE Developed All Cap ex US - proveedor FTSE Russell (mismo que VXUS/VEU/VGK/VWO/SCHF), rebalanceo tipicamente semestral, no confirmado con fuente primaria especifica de VEA esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice FTSE Developed All Cap ex US - proveedor FTSE Russell (mismo que VXUS/VEU/VGK/VWO/SCHF), rebalanceo tipicamente semestral, no confirmado con fuente primaria específica de VEA esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -72,12 +72,12 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask ~0.015% (calculado, $0.01 sobre ~$66/accion) - **MAS AJUSTADO que SCHF** (0.04%).",
+          "notas": "Spread bid-ask ~0.015% (calculado, $0.01 sobre ~$66/acción) - **MAS AJUSTADO que SCHF** (0.04%).",
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "3,856 (Trackinsight) a 3,881 (stockanalysis) holdings - **~2.6X MAS que SCHF** (1,429-1,493), refleja la metodologia 'All Cap' (incluye small-cap) frente al indice estandar que sigue SCHF.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "3,856 (Trackinsight) a 3,881 (stockanalysis) holdings - **~2.6X MAS que SCHF** (1,429-1,493), refleja la metodología 'All Cap' (incluye small-cap) frente al índice estándar que sigue SCHF.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 mas diluido que SCHF gracias al mayor numero de holdings totales: Samsung Electronics (3.01-3.12% vs 3.54-3.70% en SCHF), SK hynix (2.57-2.98% vs 3.15-3.19%), ASML (1.91-2.33% vs 2.34-2.47%).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 mas diluido que SCHF gracias al mayor número de holdings totales: Samsung Electronics (3.01-3.12% vs 3.54-3.70% en SCHF), SK hynix (2.57-2.98% vs 3.15-3.19%), ASML (1.91-2.33% vs 2.34-2.47%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Finance 26.04%, Technology 17.96%, Industrials 14.47% - practicamente IDENTICO a SCHF (26.98%/18.60%/14.37%), buena diversificacion sin dominancia extrema.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Finance 26.04%, Technology 17.96%, Industrials 14.47% - prácticamente IDENTICO a SCHF (26.98%/18.60%/14.37%), buena diversificación sin dominancia extrema.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia primaria: Japon, Reino Unido y Canada (Vanguard) - misma cobertura amplia que SCHF, incluye Corea del Sur (via Samsung/SK hynix en el top10), confirmando NUEVAMENTE que FTSE clasifica a Corea del Sur como mercado DESARROLLADO.",
           "calificacion": 5
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Blend puro, sin sesgo de factor (a diferencia de EFV -value- o SCZ -small-cap puro internacional-, ambos ya en el workbook, aunque VEA SI incluye algo de small-cap dentro de su metodologia 'All Cap' amplia).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Blend puro, sin sesgo de factor (a diferencia de EFV -value- o SCZ -small-cap puro internacional-, ambos ya en el workbook, aunque VEA SI incluye algo de small-cap dentro de su metodología 'All Cap' amplia).",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice FTSE Developed ALL CAP ex US - **incluye el tramo small-cap** que el indice estandar de SCHF no cubre, mismo proveedor FTSE Russell, metodologia transparente y la MAS AMPLIA de cobertura de mercados desarrollados del proyecto.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice FTSE Developed ALL CAP ex US - **incluye el tramo small-cap** que el índice estándar de SCHF no cubre, mismo proveedor FTSE Russell, metodología transparente y la MAS AMPLIA de cobertura de mercados desarrollados del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de VEA esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de VEA esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (19 anios) = 5.17% anualizado, 1Y = +29.71% - muy similar a SCHF en ambas ventanas (5.722%/+30.03%).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (19 años) = 5.17% anualizado, 1Y = +29.71% - muy similar a SCHF en ambas ventanas (5.722%/+30.03%).",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad = 17.25% (reciente/1Y) - plausible.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = **-60.68% desde inception - MUCHO MAS SEVERO que SCHF (-34.9%)**, PERO explicado DIRECTAMENTE por la ventana temporal: VEA nace en jul-2007, JUSTO ANTES de la Crisis 2008, mientras SCHF nace en nov-2009, DESPUES del fondo de mercado - mismo tipo de gotcha de ventana ya documentado extensamente en el proyecto (IEUR vs FEZ/EZU/VGK), aqui confirmado tambien entre dos fondos MUY similares en universo y proveedor de indice.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = **-60.68% desde inception - MUCHO MAS SEVERO que SCHF (-34.9%)**, PERO explicado DIRECTAMENTE por la ventana temporal: VEA nace en jul-2007, JUSTO ANTES de la Crisis 2008, mientras SCHF nace en nov-2009, DESPUÉS del fondo de mercado - mismo tipo de gotcha de ventana ya documentado extensamente en el proyecto (IEUR vs FEZ/EZU/VGK), aquí confirmado también entre dos fondos MUY similares en universo y proveedor de índice.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 1.71 (reciente/1Y, inflado por el rally, mismo gotcha ya documentado repetidamente). Sin cifra de largo plazo confiable encontrada esta sesion.",
+          "notas": "Sharpe Ratio = 1.71 (reciente/1Y, inflado por el rally, mismo gotcha ya documentado repetidamente). Sin cifra de largo plazo confiable encontrada esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.85. **OVERLAP CONFIRMADO**: SK hynix (2.57-2.98%, ya NO COMPRAR individualmente por superciclo IA) + ASML (1.91-2.33%, confirmado individualmente) = **~4.5-5.3% del fondo** - LIGERAMENTE MENOR proporcion que SCHF (~5.5-5.7%) gracias al mayor numero de holdings totales diluyendo la concentracion.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.85. **OVERLAP CONFIRMADO**: SK hynix (2.57-2.98%, ya NO COMPRAR individualmente por superciclo IA) + ASML (1.91-2.33%, confirmado individualmente) = **~4.5-5.3% del fondo** - LIGERAMENTE MENOR proporción que SCHF (~5.5-5.7%) gracias al mayor número de holdings totales diluyendo la concentración.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "19 anios de historial - **SI cubre la Crisis Financiera 2008 DIRECTAMENTE** (a diferencia de SCHF), ademas de la crisis de deuda soberana europea 2010-2012, COVID 2020, y el rally reciente - cobertura de crisis MAS COMPLETA que SCHF.",
+          "notas": "19 años de historial - **SI cubre la Crisis Financiera 2008 DIRECTAMENTE** (a diferencia de SCHF), además de la crisis de deuda soberana europea 2010-2012, COVID 2020, y el rally reciente - cobertura de crisis MAS COMPLETA que SCHF.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 17.61x - similar a SCHF (17.85x). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 17.61x - similar a SCHF (17.85x). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 2.50% - MENOR que SCHF (2.99%). Distribucion TRIMESTRAL (diferente de la semestral de SCHF).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 2.50% - MENOR que SCHF (2.99%). Distribución TRIMESTRAL (diferente de la semestral de SCHF).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION VERIFICADA con SCHF (fila 69, ya en el workbook)**: VEA es MAS DIVERSIFICADO (3,856+ vs 1,429+ holdings, ~2.6x mas), MAS LIQUIDO (20-22M vs 1.69M acciones/dia, spread mas ajustado 0.015% vs 0.04%), usa replica FISICA COMPLETA (vs muestreo de SCHF), y tiene un AUM MUCHO mayor (~$205-235bn vs $59-68bn, posiblemente el fondo mas grande de todo el proyecto). El TER esta EMPATADO (0.03% ambos). La UNICA desventaja aparente de VEA es un Max Drawdown historico mucho peor (-60.68% vs -34.9%), pero esto se explica ENTERAMENTE por la ventana mas larga de VEA que SI incluye la Crisis 2008 (SCHF nacio despues). En casi toda dimension estructural real, VEA es SUPERIOR a SCHF para el mismo proposito de exposicion a mercados desarrollados ex-US. | ACTUALIZACION posterior (IEFA, fila 71): tercer fondo del cluster desarrollado ex-US, version iShares Core del mismo universo general - mas caro que VEA (0.07% vs 0.03%) y con menos holdings, pero con overlap MUCHO MENOR (solo ASML, sin Samsung/SK hynix por exclusion MSCI de Corea del Sur) y mejor retorno desde inception (8.40% vs 5.17%). Ver Ficha IEFA fila 50 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN VERIFICADA con SCHF (fila 69, ya en el workbook)**: VEA es MAS DIVERSIFICADO (3,856+ vs 1,429+ holdings, ~2.6x mas), MAS LIQUIDO (20-22M vs 1.69M acciones/dia, spread mas ajustado 0.015% vs 0.04%), usa réplica FÍSICA COMPLETA (vs muestreo de SCHF), y tiene un AUM MUCHO mayor (~$205-235bn vs $59-68bn, posiblemente el fondo mas grande de todo el proyecto). El TER esta EMPATADO (0.03% ambos). La ÚNICA desventaja aparente de VEA es un Max Drawdown histórico mucho peor (-60.68% vs -34.9%), pero esto se explica ENTERAMENTE por la ventana mas larga de VEA que SI incluye la Crisis 2008 (SCHF nacio después). En casi toda dimensión estructural real, VEA es SUPERIOR a SCHF para el mismo proposito de exposición a mercados desarrollados ex-US. | ACTUALIZASIÓN posterior (IEFA, fila 71): tercer fondo del cluster desarrollado ex-US, versión iShares Core del mismo universo general - mas caro que VEA (0.07% vs 0.03%) y con menos holdings, pero con overlap MUCHO MENOR (solo ASML, sin Samsung/SK hynix por exclusión MSCI de Corea del Sur) y mejor retorno desde inception (8.40% vs 5.17%). Ver Ficha IEFA fila 50 para el detalle completo.",
           "calificacion": 4
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Core** - mismo tratamiento que SCHF (fondo padre del cluster desarrollado ex-US), pero version ESTRUCTURALMENTE SUPERIOR en casi toda dimension.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Core** - mismo tratamiento que SCHF (fondo padre del cluster desarrollado ex-US), pero versión ESTRUCTURALMENTE SUPERIOR en casi toda dimensión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: la version MAS DIVERSIFICADA, MAS LIQUIDA y estructuralmente MAS SOLIDA (replica fisica completa) de cubrir practicamente todos los mercados desarrollados ex-US, al MISMO costo que SCHF (0.03% ambos) - la opcion mas defendible del proyecto para esta exposicion especifica.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: la versión MAS DIVERSIFICADA, MAS LIQUIDA y estructuralmente MAS SÓLIDA (réplica física completa) de cubrir prácticamente todos los mercados desarrollados ex-US, al MISMO costo que SCHF (0.03% ambos) - la opción mas defendible del proyecto para esta exposición específica.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) overlap via SK hynix (ya NO COMPRAR individualmente) + ASML (~4.5-5.3% combinado); (2) Max Drawdown historico severo (-60.68%), aunque este SI refleja la Crisis 2008 real -a diferencia de SCHF, cuyo mejor numero es principalmente una ventana favorable-; (3) riesgo cambiario multi-divisa extremo.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap via SK hynix (ya NO COMPRAR individualmente) + ASML (~4.5-5.3% combinado); (2) Max Drawdown histórico severo (-60.68%), aunque este SI refleja la Crisis 2008 real -a diferencia de SCHF, cuyo mejor número es principalmente una ventana favorable-; (3) riesgo cambiario multi-divisa extremo.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "SCHF (fila 69, ya analizado, comparacion completa en fila 50), EFA (iShares MSCI EAFE) e IEFA (iShares Core MSCI EAFE) identificados como alternativas. IEFA (fila 71) tambien verificado - mas caro pero overlap mucho menor, ver comparacion en su Ficha.",
+          "notas": "SCHF (fila 69, ya analizado, comparación completa en fila 50), EFA (iShares MSCI EAFE) e IEFA (iShares Core MSCI EAFE) identificados como alternativas. IEFA (fila 71) también verificado - mas caro pero overlap mucho menor, ver comparación en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.88/5 - SUPERIOR a SCHF (3.67, ya en el workbook fila 69) en casi toda dimension estructural, pese a estar EMPATADOS en TER (0.03% ambos, primera vez en el proyecto donde Vanguard no gana en costo puro sino que empata). VEA tiene ~2.6 veces mas holdings (3,856-3,881 vs 1,429-1,493, gracias a su metodologia 'All Cap' que incluye small-cap), es notablemente MAS LIQUIDO (20-22M vs 1.69M acciones/dia, spread 0.015% vs 0.04%), usa replica FISICA COMPLETA en vez de muestreo, y tiene un AUM mucho mayor (~$205-235bn, POSIBLEMENTE EL FONDO MAS GRANDE DE TODO EL PROYECTO, superando a VUG). La UNICA metrica donde VEA parece peor es el Max Drawdown historico (-60.68% vs -34.9% de SCHF), pero esto se explica ENTERAMENTE por la ventana temporal: VEA nacio en jul-2007, JUSTO ANTES de la Crisis 2008, y SI la vivio directamente en su propia historia, mientras SCHF nacio en nov-2009, DESPUES del fondo de mercado, y simplemente no la experimento - mismo gotcha de ventana ya documentado extensamente (IEUR vs FEZ/EZU/VGK), aqui confirmado tambien entre dos fondos muy similares en universo y proveedor. El overlap sigue presente via SK hynix (2.57-2.98%, ya NO COMPRAR individualmente) y ASML (1.91-2.33%), aunque en una proporcion ligeramente MENOR que en SCHF gracias a la mayor diversificacion de VEA. Se confirmo ademas una QUINTA+ instancia del artefacto de securities lending de Vanguard ('Slbbh1142') ya documentado repetidamente con VXUS/VB/VEU/VWO. Rol en Portafolio: Core. Alternativa comparada en el workbook: SCHF (fila 69)."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.88/5 - SUPERIOR a SCHF (3.67, ya en el workbook fila 69) en casi toda dimensión estructural, pese a estar EMPATADOS en TER (0.03% ambos, primera vez en el proyecto donde Vanguard no gana en costo puro sino que empata). VEA tiene ~2.6 veces mas holdings (3,856-3,881 vs 1,429-1,493, gracias a su metodología 'All Cap' que incluye small-cap), es notablemente MAS LIQUIDO (20-22M vs 1.69M acciones/dia, spread 0.015% vs 0.04%), usa réplica FÍSICA COMPLETA en vez de muestreo, y tiene un AUM mucho mayor (~$205-235bn, POSIBLEMENTE EL FONDO MAS GRANDE DE TODO EL PROYECTO, superando a VUG). La ÚNICA métrica donde VEA parece peor es el Max Drawdown histórico (-60.68% vs -34.9% de SCHF), pero esto se explica ENTERAMENTE por la ventana temporal: VEA nacio en jul-2007, JUSTO ANTES de la Crisis 2008, y SI la vivio directamente en su propia historia, mientras SCHF nacio en nov-2009, DESPUÉS del fondo de mercado, y simplemente no la experimento - mismo gotcha de ventana ya documentado extensamente (IEUR vs FEZ/EZU/VGK), aquí confirmado también entre dos fondos muy similares en universo y proveedor. El overlap sigue presente via SK hynix (2.57-2.98%, ya NO COMPRAR individualmente) y ASML (1.91-2.33%), aunque en una proporción ligeramente MENOR que en SCHF gracias a la mayor diversificación de VEA. Se confirmo además una QUINTA+ instancia del artefacto de securities lending de Vanguard ('Slbbh1142') ya documentado repetidamente con VXUS/VB/VEU/VWO. Rol en Portafolio: Core. Alternativa comparada en el workbook: SCHF (fila 69)."
   }
 }

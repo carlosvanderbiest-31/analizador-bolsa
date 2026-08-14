@@ -1,7 +1,7 @@
 {
   "empresa": "Dell Technologies Inc",
   "ticker": "DELL",
-  "sector": "Tecnologia - Hardware (Servidores, Storage e IA; PCs)",
+  "sector": "Tecnología - Hardware (Servidores, Storage e IA; PCs)",
   "fecha_analisis": "46240",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Dos segmentos: ISG Infrastructure Solutions Group (servidores tradicionales y de IA, storage, networking, 66 por ciento de ingresos en el trimestre mas reciente, creciendo mas de 180 por ciento interanual por servidores de IA) y CSG Client Solutions Group (PCs y laptops, 33 por ciento, mas maduro y ciclico, +17 por ciento). Diversificacion razonable pero cada vez mas concentrado en servidores de IA de bajo margen.",
+          "notas": "Dos segmentos: ISG Infrastructure Solutions Group (servidores tradicionales y de IA, storage, networking, 66 por ciento de ingresos en el trimestre mas reciente, creciendo mas de 180 por ciento interanual por servidores de IA) y CSG Client Solutions Group (PCs y laptops, 33 por ciento, mas maduro y ciclico, +17 por ciento). Diversificación razonable pero cada vez mas concentrado en servidores de IA de bajo margen.",
           "calificacion": 3
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Escala de compras, relacion directa historica con clientes empresariales, integracion full-stack de servidor-storage-red-servicios (concepto AI Factory), red de servicio global. Moat debil especificamente en servidores de IA, donde Dell es en gran medida un integrador de bajo margen frente a Nvidia y compite con Supermicro en tiempos de entrega mas rapidos.",
+          "notas": "Escala de compras, relación directa histórica con clientes empresariales, integración full-stack de servidor-storage-red-servicios (concepto AI Factory), red de servicio global. Moat débil específicamente en servidores de IA, donde Dell es en gran medida un integrador de bajo margen frente a Nvidia y compite con Supermicro en tiempos de entrega mas rápidos.",
           "calificacion": 2
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider en cuota de mercado de servidores segun IDC (16.5 por ciento, +244 por ciento interanual), por delante de Super Micro (7.6 por ciento), Lenovo (4.6 por ciento) y HPE (3.0 por ciento). Backlog de servidores de IA de 51.3 mil millones de dolares (Q1 FY27), subiendo desde 43 mil millones un trimestre antes.",
+          "notas": "Líder en cuota de mercado de servidores según IDC (16.5 por ciento, +244 por ciento interanual), por delante de Super Micro (7.6 por ciento), Lenovo (4.6 por ciento) y HPE (3.0 por ciento). Backlog de servidores de IA de 51.3 mil millones de dólares (Q1 FY27), subiendo desde 43 mil millones un trimestre antes.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Poder de fijacion de precios muy limitado en servidores de IA (Nvidia captura la mayor parte del valor economico; margen operativo de ISG cayo de 18.1 a 8.8 por ciento en un momento y se recupero a 14.8 por ciento). Algo mejor en PCs comerciales.",
+          "notas": "Poder de fijación de precios muy limitado en servidores de IA (Nvidia captura la mayor parte del valor económico; margen operativo de ISG cayo de 18.1 a 8.8 por ciento en un momento y se recupero a 14.8 por ciento). Algo mejor en PCs comerciales.",
           "calificacion": 2
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Desapalancamiento consistente desde el LBO de 2013 y la adquisicion de EMC de 2016 (Deuda Neta a EBITDA bajando de 1.90x en FY2022 a 1.43x actual). Spin-off de VMware en nov-2021 uso 9.3 mil millones de dolares para pagar deuda. Recompras muy agresivas (14.3 mil millones de dolares acumulados desde 2021, aprox 25.6 por ciento de acciones retiradas) y dividendo subido 20 por ciento en feb-2026.",
+          "notas": "Desapalancamiento consistente desde el LBO de 2013 y la adquisición de EMC de 2016 (Deuda Neta a EBITDA bajando de 1.90x en FY2022 a 1.43x actual). Spin-off de VMware en nov-2021 uso 9.3 mil millones de dólares para pagar deuda. Recompras muy agresivas (14.3 mil millones de dólares acumulados desde 2021, aprox 25.6 por ciento de acciones retiradas) y dividendo subido 20 por ciento en feb-2026.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO y Chairman Michael Dell con participacion economica sustancial (aprox 45 por ciento) y control de voto mayoritario via acciones Clase A de 10 votos - alineacion de intereses muy alta con el negocio, aunque a costa de gobernanza compartida limitada con accionistas minoritarios.",
+          "notas": "CEO y Chairman Michael Dell con participación económica sustancial (aprox 45 por ciento) y control de voto mayoritario via acciones Clase A de 10 votos - alineación de intereses muy alta con el negocio, aunque a costa de gobernanza compartida limitada con accionistas minoritarios.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Estructura de TRES clases de acciones: Clase A (10 votos, Michael Dell), Clase B (10 votos, Silver Lake, convertible a Clase C), Clase C publica (1 voto, ticker DELL). Michael Dell controla una porcion del voto muy superior a su participacion economica, similar en espiritu al control de fundador de META pero reforzado por Silver Lake como segundo accionista de control.",
+          "notas": "Estructura de TRES clases de acciones: Clase A (10 votos, Michael Dell), Clase B (10 votos, Silver Lake, convertible a Clase C), Clase C pública (1 voto, ticker DELL). Michael Dell controla una porción del voto muy superior a su participación económica, similar en espiritu al control de fundador de META pero reforzado por Silver Lake como segundo accionista de control.",
           "calificacion": 2
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Guidance detallado por segmento y trimestre, comunicacion clara y consistente sobre el backlog de servidores de IA y la evolucion de margenes de ISG.",
+          "notas": "Guidance detallado por segmento y trimestre, comunicación clara y consistente sobre el backlog de servidores de IA y la evolución de márgenes de ISG.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda Neta a EBITDA consolidada 1.43x (mejorando desde 1.90x en FY2022). Usando solo deuda CORE (excluyendo el financiamiento de Dell Financial Services DFS, que financia cuentas por cobrar de clientes y es mayormente sin recurso a Dell Technologies, aprox 23 a 25 mil millones de dolares de deuda core vs 31.5 mil millones de dolares de deuda total), el ratio bajaria a aprox 0.86x. Rating investment grade en mejora activa: S&P y Fitch subieron a BBB mas en 2025-2026.",
+          "notas": "Deuda Neta a EBITDA consolidada 1.43x (mejorando desde 1.90x en FY2022). Usando solo deuda CORE (excluyendo el financiamiento de Dell Financial Services DFS, que financia cuentas por cobrar de clientes y es mayormente sin recurso a Dell Technologies, aprox 23 a 25 mil millones de dólares de deuda core vs 31.5 mil millones de dólares de deuda total), el ratio bajaria a aprox 0.86x. Rating investment grade en mejora activa: S&P y Fitch subieron a BBB mas en 2025-2026.",
           "calificacion": 4
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 0.95x (consistente entre fuentes), por debajo de 1.0 de forma persistente en los ultimos 5 anios - liquidez ajustada, parcialmente explicada por el modelo de rotacion rapida de inventario y el financiamiento a clientes via DFS.",
+          "notas": "Razón corriente 0.95x (consistente entre fuentes), por debajo de 1.0 de forma persistente en los últimos 5 años - liquidez ajustada, parcialmente explicada por el modelo de rotación rápida de inventario y el financiamiento a clientes via DFS.",
           "calificacion": 2
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "S&P Global y Fitch subieron el rating a BBB mas en 2025-2026 (grado de inversion desde el spin-off de VMware en 2021). Moody's en Baa3 (ultima confirmacion encontrada), posible upgrade pendiente de verificar con fuente primaria.",
+          "notas": "S&P Global y Fitch subieron el rating a BBB mas en 2025-2026 (grado de inversión desde el spin-off de VMware en 2021). Moody's en Baa3 (última confirmación encontrada), posible upgrade pendiente de verificar con fuente primaria.",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales TTM 114913 millones de dolares. No se profundizo con precision en esta sesion la proporcion exacta de goodwill-intangibles heredada de la adquisicion de EMC de 2016 - pendiente de verificar contra el 10-K.",
+          "notas": "Activos totales TTM 114913 millones de dólares. No se profundizo con precisión en esta sesión la proporción exacta de goodwill-intangibles heredada de la adquisición de EMC de 2016 - pendiente de verificar contra el 10-K.",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto TTM 19.09 por ciento (Finviz), cayendo desde niveles historicos de 21 a 23 por ciento por el mix creciente hacia servidores de IA de menor margen. Margen operativo 8.57 por ciento, margen neto 6.27 por ciento - erosion de margen pese al fuerte crecimiento de ingresos, consistente con la tesis de integrador de bajo margen.",
+          "notas": "Margen bruto TTM 19.09 por ciento (Finviz), cayendo desde niveles históricos de 21 a 23 por ciento por el mix creciente hacia servidores de IA de menor margen. Margen operativo 8.57 por ciento, margen neto 6.27 por ciento - erosión de margen pese al fuerte crecimiento de ingresos, consistente con la tesis de integrador de bajo margen.",
           "calificacion": 2
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "GOTCHA: el ROE reportado (-253 a -418 por ciento segun fuente y periodo) NO ES INFORMATIVO porque el patrimonio contable de Dell es NEGATIVO desde hace al menos 6 anios fiscales (legado del LBO de 2013 y la adquisicion de EMC de 2016), no una senal real de rentabilidad negativa. Se uso ROIC en su lugar: 22.56 por ciento (stockanalysis, subiendo consistentemente desde 10.47 por ciento en FY2022) o 37.04 por ciento (Finviz, discrepancia de metodologia de capital invertido) - ambos claramente por encima del WACC propio estimado (aprox 10.4 por ciento), senal de creacion de valor real.",
+          "notas": "GOTCHA: el ROE reportado (-253 a -418 por ciento según fuente y período) NO ES INFORMATIVO porque el patrimonio contable de Dell es NEGATIVO desde hace al menos 6 años fiscales (legado del LBO de 2013 y la adquisición de EMC de 2016), no una señal real de rentabilidad negativa. Se uso ROIC en su lugar: 22.56 por ciento (stockanalysis, subiendo consistentemente desde 10.47 por ciento en FY2022) o 37.04 por ciento (Finviz, discrepancia de metodología de capital invertido) - ambos claramente por encima del WACC propio estimado (aprox 10.4 por ciento), señal de creación de valor real.",
           "calificacion": 4
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos 1.17x (Revenue TTM 134002 millones sobre Activos totales 114913 millones) - alta para un fabricante de hardware, reflejo de un modelo de venta directa con rotacion rapida.",
+          "notas": "Rotación de activos 1.17x (Revenue TTM 134002 millones sobre Activos totales 114913 millones) - alta para un fabricante de hardware, reflejo de un modelo de venta directa con rotación rápida.",
           "calificacion": 4
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR de ingresos FY2022 a FY2026 (sin TTM) de solo aprox 2.9 por ciento, con un ano de caida fuerte en FY2024 por el ciclo bajo de PCs; pero el TTM ya refleja un salto de +38.6 por ciento interanual por el supercycle de servidores de IA. Guidance propia FY2027 de +47 a 50 por ciento y consenso de analistas aun mas alto (+50.86 por ciento ingresos, +78.77 por ciento EPS) - mismo patron de supercycle de IA ya visto en NVDA, MU, TSM, PLTR, AVGO y AMD de este Dashboard.",
+          "notas": "CAGR de ingresos FY2022 a FY2026 (sin TTM) de solo aprox 2.9 por ciento, con un ano de caida fuerte en FY2024 por el ciclo bajo de PCs; pero el TTM ya refleja un salto de +38.6 por ciento interanual por el supercycle de servidores de IA. Guidance propia FY2027 de +47 a 50 por ciento y consenso de analistas aun mas alto (+50.86 por ciento ingresos, +78.77 por ciento EPS) - mismo patrón de supercycle de IA ya visto en NVDA, MU, TSM, PLTR, AVGO y AMD de este Dashboard.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Historicamente ciclico (PC y servidores tradicionales, con un bache marcado en FY2024); el salto reciente de servidores de IA introduce una nueva fuente de crecimiento pero tambien una nueva capa de concentracion-dependencia en pocos clientes grandes (xAI, CoreWeave).",
+          "notas": "Históricamente ciclico (PC y servidores tradicionales, con un bache marcado en FY2024); el salto reciente de servidores de IA introduce una nueva fuente de crecimiento pero también una nueva capa de concentración-dependencia en pocos clientes grandes (xAI, CoreWeave).",
           "calificacion": 2
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Backlog de servidores de IA de 51.3 mil millones de dolares, guidance FY2027 de 165 a 169 mil millones de ingresos con aprox 60 mil millones en servidores de IA, contrato con xAI (aprox 5 mil millones, proyecto Colossus con GPUs Blackwell) y relacion ampliada con CoreWeave (racks PowerEdge con Nvidia GB200 NVL72).",
+          "notas": "Backlog de servidores de IA de 51.3 mil millones de dólares, guidance FY2027 de 165 a 169 mil millones de ingresos con aprox 60 mil millones en servidores de IA, contrato con xAI (aprox 5 mil millones, proyecto Colossus con GPUs Blackwell) y relación ampliada con CoreWeave (racks PowerEdge con Nvidia GB200 NVL72).",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 12470 millones de dolares por encima de la utilidad neta TTM de 8409 millones - calidad de ganancias razonable, sin distorsion evidente de mark-to-market.",
+          "notas": "OCF TTM 12470 millones de dólares por encima de la utilidad neta TTM de 8409 millones - calidad de ganancias razonable, sin distorsión evidente de mark-to-market.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 9442 millones de dolares, margen de FCF TTM aprox 7 por ciento sobre ingresos (mucho mas bajo que AMD o AVGO por ser un negocio de hardware de margen mas bajo), pero creciendo con fuerza (FCF FY2026 8552 millones vs FY2025 1869 millones, mas que cuadruplicado en un ano).",
+          "notas": "FCF TTM 9442 millones de dólares, margen de FCF TTM aprox 7 por ciento sobre ingresos (mucho mas bajo que AMD o AVGO por ser un negocio de hardware de margen mas bajo), pero creciendo con fuerza (FCF FY2026 8552 millones vs FY2025 1869 millones, mas que cuadruplicado en un ano).",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM 3028 millones de dolares, solo 2.26 por ciento de ventas - bajo, consistente con un modelo de ensamblaje-integracion mas que de manufactura de semiconductores propia.",
+          "notas": "Capex TTM 3028 millones de dólares, solo 2.26 por ciento de ventas - bajo, consistente con un modelo de ensamblaje-integración mas que de manufactura de semiconductores propia.",
           "calificacion": 4
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Recompras muy agresivas (14.3 mil millones de dolares acumulados desde 2021, aprox 25.6 por ciento de acciones retiradas), dividendo subido 20 por ciento en feb-2026, desapalancamiento constante - prioriza el retorno de capital a accionistas sobre la acumulacion de caja.",
+          "notas": "Recompras muy agresivas (14.3 mil millones de dólares acumulados desde 2021, aprox 25.6 por ciento de acciones retiradas), dividendo subido 20 por ciento en feb-2026, desapalancamiento constante - prioriza el retorno de capital a accionistas sobre la acumulación de caja.",
           "calificacion": 4
         }
       ],
@@ -161,12 +161,12 @@
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "GOTCHA METODOLOGICO NUEVO: Dell tiene PATRIMONIO CONTABLE NEGATIVO desde hace al menos 6 anios fiscales (TTM -1404 millones de dolares, rango -1482 a -3025 millones en FY2022 a FY2026), legado del LBO liderado por Michael Dell y Silver Lake en 2013 y la adquisicion de EMC en 2016 (aprox 67 mil millones de dolares, financiada mayormente con deuda). Esto hace que el ROE reportado y el DuPont tradicional (Apalancamiento Financiero = Activos entre Patrimonio) sean matematicamente no informativos (division por un denominador negativo) - se dejaron esas columnas del Dashboard en blanco de forma deliberada, mismo criterio ya usado para columnas que no aplican en OKLO o BRK. Para el WACC, dado que las ponderaciones siempre deben usar valor de MERCADO del patrimonio (no valor en libros), el patrimonio negativo no afecta la construccion del WACC en si. Se uso ademas deuda CORE (excluyendo DFS, aprox 24000 millones de dolares vs 31.5 mil millones de deuda total) para la ponderacion de la estructura de capital, mismo criterio ya usado para separar depositos de clientes de deuda corporativa real en HOOD, NU y JPM. Valor Intrinseco (DCF propio, Escenario A adoptado): 425.72 dolares por accion (WACC 10.39 por ciento via CAPM: beta 1.35 promedio Finviz-stockanalysis, costo de deuda post-impuestos aprox 3.95 por ciento sobre rating investment grade BBB mas, ponderado con deuda core 24000 millones sobre capitalizacion de mercado 288700 millones; FCF base TTM 9442 millones; crecimiento con fade decreciente de 35 por ciento a 8 por ciento en 5 anios, muy por debajo de la guia propia de 47 a 50 por ciento y del consenso de 50.86 por ciento; terminal 4 por ciento; equity value = EV menos deuda neta TOTAL de 19583 millones sobre 646.14 millones de acciones).",
+          "notas": "GOTCHA METODOLOGICO NUEVO: Dell tiene PATRIMONIO CONTABLE NEGATIVO desde hace al menos 6 años fiscales (TTM -1404 millones de dólares, rango -1482 a -3025 millones en FY2022 a FY2026), legado del LBO liderado por Michael Dell y Silver Lake en 2013 y la adquisición de EMC en 2016 (aprox 67 mil millones de dólares, financiada mayormente con deuda). Esto hace que el ROE reportado y el DuPont tradicional (Apalancamiento Financiero = Activos entre Patrimonio) sean matematicamente no informativos (división por un denominador negativo) - se dejaron esas columnas del Dashboard en blanco de forma deliberada, mismo criterio ya usado para columnas que no aplican en OKLO o BRK. Para el WACC, dado que las ponderaciones siempre deben usar valor de MERCADO del patrimonio (no valor en libros), el patrimonio negativo no afecta la construcción del WACC en si. Se uso además deuda CORE (excluyendo DFS, aprox 24000 millones de dólares vs 31.5 mil millones de deuda total) para la ponderación de la estructura de capital, mismo criterio ya usado para separar depositos de clientes de deuda corporativa real en HOOD, NU y JPM. Valor Intrínseco (DCF propio, Escenario A adoptado): 425.72 dólares por acción (WACC 10.39 por ciento via CAPM: beta 1.35 promedio Finviz-stockanalysis, costo de deuda post-impuestos aprox 3.95 por ciento sobre rating investment grade BBB mas, ponderado con deuda core 24000 millones sobre capitalización de mercado 288700 millones; FCF base TTM 9442 millones; crecimiento con fade decreciente de 35 por ciento a 8 por ciento en 5 años, muy por debajo de la guia propia de 47 a 50 por ciento y del consenso de 50.86 por ciento; terminal 4 por ciento; equity value = EV menos deuda neta TOTAL de 19583 millones sobre 646.14 millones de acciones).",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad -4.72 por ciento (precio actual 446.80 dolares vs 425.72 dolares del DCF) - zona de Mantener si ya se tiene posicion, no abrir nueva. A diferencia de AMD-AVGO-MU (donde el resultado era robusto a la eleccion de growth rate porque el multiplo de mercado dominaba independientemente), en DELL el resultado SI es sensible al growth elegido: Escenario B de sensibilidad (crecimiento plano 15 por ciento, no adoptado): 344.09 dolares por accion, margen -23.0 por ciento, zona de Vender-reducir. Ambos escenarios son consistentemente NO POSITIVOS, por lo que la conclusion direccional es razonablemente robusta pese a la amplia variacion de magnitud, similar al tratamiento ya dado a JNJ. Consenso de analistas (27 analistas, Buy, objetivo promedio 502.78 a 507.90 dolares, +12.5 a +13.7 por ciento de alza) es mas optimista que ambos escenarios del DCF propio.",
+          "notas": "Margen de Seguridad -4.72 por ciento (precio actual 446.80 dólares vs 425.72 dólares del DCF) - zona de Mantener si ya se tiene posición, no abrir nueva. A diferencia de AMD-AVGO-MU (donde el resultado era robusto a la elección de growth rate porque el múltiplo de mercado dominaba independientemente), en DELL el resultado SI es sensible al growth elegido: Escenario B de sensibilidad (crecimiento plano 15 por ciento, no adoptado): 344.09 dólares por acción, margen -23.0 por ciento, zona de Vender-reducir. Ambos escenarios son consistentemente NO POSITIVOS, por lo que la conclusión direccional es razonablemente robusta pese a la amplia variación de magnitud, similar al tratamiento ya dado a JNJ. Consenso de analistas (27 analistas, Buy, objetivo promedio 502.78 a 507.90 dólares, +12.5 a +13.7 por ciento de alza) es mas optimista que ambos escenarios del DCF propio.",
           "calificacion": 2
         }
       ],
@@ -177,7 +177,7 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM de servidores de IA-datacenter en expansion fuerte por el capex de hyperscalers y neoclouds; PC maduro y ciclico.",
+          "notas": "TAM de servidores de IA-datacenter en expansión fuerte por el capex de hyperscalers y neoclouds; PC maduro y ciclico.",
           "calificacion": 4
         },
         {
@@ -187,12 +187,12 @@
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta (Supermicro, HPE, Lenovo). Poder de proveedores muy alto (Nvidia domina la economia del servidor de IA). Poder de clientes alto (hyperscalers concentrados negocian agresivo). Amenaza de sustitutos baja-moderada. Barreras de entrada moderadas.",
+          "notas": "Rivalidad alta (Supermicro, HPE, Lenovo). Poder de proveedores muy alto (Nvidia domina la economía del servidor de IA). Poder de clientes alto (hyperscalers concentrados negocian agresivo). Amenaza de sustitutos baja-moderada. Barreras de entrada moderadas.",
           "calificacion": 2
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Ciclicidad alta - negocio de hardware tecnologico historicamente ciclico (la caida de FY2024 lo demuestra), ahora con una capa adicional de ciclicidad ligada al capex de IA de los hyperscalers.",
+          "notas": "Ciclicidad alta - negocio de hardware tecnologico históricamente ciclico (la caida de FY2024 lo demuestra), ahora con una capa adicional de ciclicidad ligada al capex de IA de los hyperscalers.",
           "calificacion": 2
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Exposicion indirecta a controles de exportacion de chips de IA via los componentes Nvidia-AMD que integra. Litigios menores activos: XTX Markets aprox 70 millones de dolares (jun-2026, precios de servidores), demanda ERISA de plan 401k por 318 millones (ene-2026). Riesgo moderado, sin el riesgo geopolitico directo de TSM o AMD por no fabricar semiconductores propios.",
+          "notas": "Exposición indirecta a controles de exportación de chips de IA via los componentes Nvidia-AMD que integra. Litigios menores activos: XTX Markets aprox 70 millones de dólares (jun-2026, precios de servidores), demanda ERISA de plan 401k por 318 millones (ene-2026). Riesgo moderado, sin el riesgo geopolítico directo de TSM o AMD por no fabricar semiconductores propios.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Riesgo de tipo de cambio moderado, ingresos globales diversificados pero mayoria facturada en dolares; exposicion a componentes importados.",
+          "notas": "Riesgo de tipo de cambio moderado, ingresos globales diversificados pero mayoría facturada en dólares; exposición a componentes importados.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Concentracion alta en ambos lados: Nvidia y AMD como proveedores de GPU con enorme poder de negociacion, memoria HBM en escasez, y concentracion de pedidos grandes de IA en pocos clientes (xAI, CoreWeave, hyperscalers).",
+          "notas": "Concentración alta en ambos lados: Nvidia y AMD como proveedores de GPU con enorme poder de negociación, memoria HBM en escasez, y concentración de pedidos grandes de IA en pocos clientes (xAI, CoreWeave, hyperscalers).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de que Supermicro u otros ODMs le quiten cuota en servidores de IA por tiempos de entrega mas rapidos; riesgo menor de que hyperscalers internalicen mas infraestructura propia (menos relevante para Dell que para proveedores de chips, dado que Dell vende el chasis-integracion, no el semiconductor).",
+          "notas": "Riesgo de que Supermicro u otros ODMs le quiten cuota en servidores de IA por tiempos de entrega mas rápidos; riesgo menor de que hyperscalers internalicen mas infraestructura propia (menos relevante para Dell que para proveedores de chips, dado que Dell vende el chasis-integración, no el semiconductor).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Litigio ERISA de ex-empleados por mala gestion del plan 401k (318 millones de dolares, ene-2026) es la senal mas relevante identificada; historial de settlement de 1000 millones de dolares por litigio de accionistas de la transaccion VMware tracking stock (Class V) ya resuelto.",
+          "notas": "Litigio ERISA de ex-empleados por mala gestion del plan 401k (318 millones de dólares, ene-2026) es la señal mas relevante identificada; historial de settlement de 1000 millones de dólares por litigio de accionistas de la transacción VMware tracking stock (Class V) ya resuelto.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados de Q2 FY2027 pendientes de reportar (fines de agosto de 2026). Evolucion del backlog de servidores de IA. Litigios XTX Markets y ERISA en curso.",
+          "notas": "Resultados de Q2 FY2027 pendientes de reportar (fines de agosto de 2026). Evolución del backlog de servidores de IA. Litigios XTX Markets y ERISA en curso.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Insider ownership muy alto (53.53 por ciento, Finviz) dominado por Michael Dell y Silver Lake vs institutional 39.53 por ciento - no se identificaron transacciones puntuales relevantes de compra o venta en esta investigacion mas alla de la posicion estructural de control.",
+          "notas": "Insider ownership muy alto (53.53 por ciento, Finviz) dominado por Michael Dell y Silver Lake vs institutional 39.53 por ciento - no se identificaron transacciones puntuales relevantes de compra o venta en esta investigación mas alla de la posición estructural de control.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "27 analistas (S&P Global), consenso Buy (19 buy, 8 hold, cero sell), objetivo promedio 502.78 a 507.90 dolares, +12.5 a +13.7 por ciento de alza - consenso moderadamente positivo, no tan extremo como en AMD o PLTR.",
+          "notas": "27 analistas (S&P Global), consenso Buy (19 buy, 8 hold, cero sell), objetivo promedio 502.78 a 507.90 dólares, +12.5 a +13.7 por ciento de alza - consenso moderadamente positivo, no tan extremo como en AMD o PLTR.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.054054054054054,
-    "recomendacion": "MANTENER SI YA SE TIENE POSICION, NO ABRIR NUEVA - RESULTADO SENSIBLE AL GROWTH RATE (margen de seguridad entre -4.7 por ciento y -23.0 por ciento segun escenario, siempre no positivo; score 3.05 de 5, moderado por buena posicion competitiva en servidores de IA y desapalancamiento activo, pero penalizado por margenes bajos de ISG y gobernanza de control concentrado)",
-    "tesis": "Lider de cuota en servidores impulsado por el backlog de IA y con desapalancamiento consistente desde el LBO de 2013, pero como integrador de bajo margen frente a Nvidia y con patrimonio contable negativo historico, cotiza a multiplos menos extremos que AMD o AVGO y el DCF propio sugiere una valoracion apenas por encima de lo justificado, sin margen de seguridad claro."
+    "recomendacion": "MANTENER SI YA SE TIENE POSISIÓN, NO ABRIR NUEVA - RESULTADO SENSIBLE AL GROWTH RATE (margen de seguridad entre -4.7 por ciento y -23.0 por ciento según escenario, siempre no positivo; score 3.05 de 5, moderado por buena posición competitiva en servidores de IA y desapalancamiento activo, pero penalizado por márgenes bajos de ISG y gobernanza de control concentrado)",
+    "tesis": "Líder de cuota en servidores impulsado por el backlog de IA y con desapalancamiento consistente desde el LBO de 2013, pero como integrador de bajo margen frente a Nvidia y con patrimonio contable negativo histórico, cotiza a múltiplos menos extremos que AMD o AVGO y el DCF propio sugiere una valoración apenas por encima de lo justificado, sin margen de seguridad claro."
   }
 }

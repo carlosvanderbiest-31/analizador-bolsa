@@ -1,36 +1,36 @@
 {
   "nombre": "SPDR EURO STOXX 50 ETF",
   "ticker": "FEZ",
-  "categoria": "Equity Indice Amplio (blue-chips de la Eurozona - top 50 empresas, Euro STOXX 50 - PRIMER fondo de la Eurozona/Europa desarrollada del proyecto)",
+  "categoria": "Equity Índice Amplio (blue-chips de la Eurozona - top 50 empresas, Euro STOXX 50 - PRIMER fondo de la Eurozona/Europa desarrollada del proyecto)",
   "emisor": "State Street (SPDR)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight) - factible dado el universo pequeno y deliberadamente acotado (47-55 holdings, indice de solo 50 nombres por diseno).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA confirmada (Trackinsight) - factible dado el universo pequeño y deliberadamente acotado (47-55 holdings, índice de solo 50 nombres por diseño).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, 100% holdings de la EUROZONA (Alemania, Francia, Espana, Paises Bajos, Italia, etc.) - riesgo cambiario EUR/USD no cubierto + retencion fiscal sobre dividendos que VARIA por pais dentro de la propia Eurozona (mas complejo que el riesgo fiscal de un solo pais como EWC).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, 100% holdings de la EUROZONA (Alemania, Francia, Espana, Paises Bajos, Italia, etc.) - riesgo cambiario EUR/USD no cubierto + retención fiscal sobre dividendos que VARIA por pais dentro de la propia Eurozona (mas complejo que el riesgo fiscal de un solo pais como EWC).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$3.9-4.5bn segun fuente (stockanalysis $4.50bn, Trackinsight EUR3.94bn~$4.3bn, otra fuente $3.5bn) - similar en orden de magnitud a ILF ($3.6-4.3bn), menor que EWC ($6.1-6.2bn) e INDA ($6.63bn).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$3.9-4.5bn según fuente (stockanalysis $4.50bn, Trackinsight EUR3.94bn~$4.3bn, otra fuente $3.5bn) - similar en orden de magnitud a ILF ($3.6-4.3bn), menor que EWC ($6.1-6.2bn) e INDA ($6.63bn).",
           "calificacion": 3
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 15-oct-2002 (~23.8 anios) - CUARTO track record mas largo del proyecto (tras EWC 30.4, SOXX 25.1, ILF 24.8, muy cerca de este ultimo). Cubre la Crisis Financiera 2008 Y la Crisis de Deuda Soberana Europea 2010-2012 (una DOBLE crisis consecutiva especifica de la region), COVID 2020 y 2022.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 15-oct-2002 (~23.8 años) - CUARTO track record mas largo del proyecto (tras EWC 30.4, SOXX 25.1, ILF 24.8, muy cerca de este último). Cubre la Crisis Financiera 2008 Y la Crisis de Deuda Soberana Europea 2010-2012 (una DOBLE crisis consecutiva específica de la region), COVID 2020 y 2022.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor State Street (SPDR) - ya presente en el proyecto via XOP/XLU/XLK/XLE (fondos sectoriales), QUINTA aparicion, PRIMERA vez como emisor de un fondo REGIONAL/geografico en este workbook.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor State Street (SPDR) - ya presente en el proyecto via XOP/XLU/XLK/XLE (fondos sectoriales), QUINTA aparición, PRIMERA vez como emisor de un fondo REGIONAL/geográfico en este workbook.",
           "calificacion": 5
         }
       ],
@@ -40,153 +40,153 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.29% - **NOTABLEMENTE MAS BARATO que los otros tres fondos de nueva geografia del proyecto** (EWC 0.50%, ILF 0.47%, INDA 0.61%), reflejo de que la Eurozona es un mercado desarrollado grande, liquido y operativamente simple de replicar (sin las restricciones de registro FPI de India o la menor liquidez estructural de LatAm).",
           "calificacion": 4
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice Euro STOXX 50 - proveedor STOXX, rebalanceo tipicamente trimestral (mar/jun/sep/dic), no confirmado con fuente primaria especifica de FEZ esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice Euro STOXX 50 - proveedor STOXX, rebalanceo tipicamente trimestral (mar/jun/sep/dic), no confirmado con fuente primaria específica de FEZ esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario promedio ~$60M/dia (1.32M acciones) - **EL MAS BAJO de los cuatro fondos de nueva geografia del proyecto** (EWC $168.87M, ILF ~$157.5M, INDA $479.33M), descrito explicitamente como liquidez 'de nivel medio' entre competidores especificos de Eurozona (menos liquido que EZU ~$150M ADV, mas liquido que IEUR ~$40M ADV).",
+          "notas": "Volumen diario promedio ~$60M/dia (1.32M acciones) - **EL MAS BAJO de los cuatro fondos de nueva geografia del proyecto** (EWC $168.87M, ILF ~$157.5M, INDA $479.33M), descrito explícitamente como liquidez 'de nivel medio' entre competidores específicos de Eurozona (menos liquido que EZU ~$150M ADV, mas liquido que IEUR ~$40M ADV).",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask = 1-2 puntos basicos (0.01-0.02%) - QUINTA cifra de spread aproximadamente exacta verificada en el proyecto, ajustada pese al menor volumen relativo.",
+          "notas": "Spread bid-ask = 1-2 puntos básicos (0.01-0.02%) - QUINTA cifra de spread aproximadamente exacta verificada en el proyecto, ajustada pese al menor volumen relativo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "State Street - profundidad de Authorized Participants de primer nivel, mismo estandar que BlackRock/Vanguard en el proyecto.",
+          "notas": "State Street - profundidad de Authorized Participants de primer nivel, mismo estándar que BlackRock/Vanguard en el proyecto.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "47 (Trackinsight) a 55 (stockanalysis) holdings - **EL MENOR numero de los cuatro fondos de nueva geografia del proyecto** (EWC 84-89, ILF 42-54, INDA 170) - por DISENO del indice (Euro STOXX 50 = exactamente 50 blue-chips, no un mercado total), la discrepancia entre fuentes probablemente refleja que Siemens Energy AG (spinoff de Siemens AG en 2020) aparece como linea separada en algunas fuentes.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "47 (Trackinsight) a 55 (stockanalysis) holdings - **EL MENOR número de los cuatro fondos de nueva geografia del proyecto** (EWC 84-89, ILF 42-54, INDA 170) - por DISEÑO del índice (Euro STOXX 50 = exactamente 50 blue-chips, no un mercado total), la discrepancia entre fuentes probablemente refleja que Siemens Energy AG (spinoff de Siemens AG en 2020) aparece como línea separada en algunas fuentes.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 = 41.06% - moderado-alto, impulsado por ASML como POSICION DOMINANTE UNICA (8.75% stockanalysis a 10.36% Trackinsight, ambas fuentes coinciden en que es la mayor posicion del fondo con gran margen) - la concentracion de UN SOLO NOMBRE mas alta entre los cuatro fondos de nueva geografia del proyecto.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 = 41.06% - moderado-alto, impulsado por ASML como POSISIÓN DOMINANTE ÚNICA (8.75% stockanalysis a 10.36% Trackinsight, ambas fuentes coinciden en que es la mayor posición del fondo con gran margen) - la concentración de UN SOLO NOMBRE mas alta entre los cuatro fondos de nueva geografia del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Industrials 20.71% (maximo), Finance 19.78%, Technology 16.12%, resto repartido entre Consumer Cyclicals/Non-Cyclicals/Utilities/Energy/Materials/Healthcare (todos <9%) - BUENA diversificacion sectorial, ningun sector supera el 21%, calidad similar a INDA (mejor que EWC/ILF, ambos con un sector >37-47%).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Industrials 20.71% (máximo), Finance 19.78%, Technology 16.12%, resto repartido entre Consumer Cyclicals/Non-Cyclicals/Utilities/Energy/Materials/Healthcare (todos <9%) - BUENA diversificación sectorial, ningún sector supera el 21%, calidad similar a INDA (mejor que EWC/ILF, ambos con un sector >37-47%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Geografia REGIONAL dentro de la Eurozona (Alemania, Francia, Espana, Paises Bajos, Italia principalmente, sin cifras exactas por pais verificadas esta sesion) - diversificacion GENUINA dentro de una union monetaria integrada, similar en espiritu a ILF (regional) pero en mercados DESARROLLADOS en vez de emergentes.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Geografia REGIONAL dentro de la Eurozona (Alemania, Francia, Espana, Paises Bajos, Italia principalmente, sin cifras exactas por pais verificadas esta sesión) - diversificación GENUINA dentro de una union monetaria integrada, similar en espiritu a ILF (regional) pero en mercados DESARROLLADOS en vez de emergentes.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
           "notas": "Blend de blue-chips grandes sin sesgo value/growth marcado (P/E 17.18x, moderado) - perfil de estilo mas equilibrado que ILF (value/commodity) y mas parecido a VXUS/IXUS/VEU.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Euro STOXX 50 - el indice de referencia BLUE-CHIP mas reconocido de la Eurozona (equivalente europeo del S&P500/Dow Jones), proveedor STOXX, metodologia transparente de 50 nombres cap-weighted con topes de concentracion.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Euro STOXX 50 - el índice de referencia BLUE-CHIP mas reconocido de la Eurozona (equivalente europeo del S&P500/Dow Jones), proveedor STOXX, metodología transparente de 50 nombres cap-weighted con topes de concentración.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de FEZ esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de FEZ esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 10Y = 7.50% (una fuente, EXPLICITAMENTE comparado con 11.05% del S&P500 en la MISMA ventana - underperformance europea bien documentada) a 10.23% (otra fuente, discrepancia notable sin reconciliar esta sesion). Retorno 1Y = +17.04% (o YTD +24.79% segun ventana) - **EL RETORNO 1Y MAS BAJO del cluster de nueva geografia + ex-US amplio analizado esta sesion** (EWC +30.36%, ILF +48.82%, VXUS/IXUS/ACWX/VEU +25-31%), consistente con el patron de underperformance estructural europeo frente a EEUU ya documentado en VXUS/VEU tambien.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 10Y = 7.50% (una fuente, EXPLÍCITAMENTE comparado con 11.05% del S&P500 en la MISMA ventana - underperformance europea bien documentada) a 10.23% (otra fuente, discrepancia notable sin reconciliar esta sesión). Retorno 1Y = +17.04% (o YTD +24.79% según ventana) - **EL RETORNO 1Y MAS BAJO del cluster de nueva geografia + ex-US amplio analizado esta sesión** (EWC +30.36%, ILF +48.82%, VXUS/IXUS/ACWX/VEU +25-31%), consistente con el patrón de underperformance estructural europeo frente a EEUU ya documentado en VXUS/VEU también.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Unica cifra de volatilidad encontrada esta sesion (0.218%) claramente implausible para un ETF de renta variable - DESCARTADA (mismo gotcha recurrente ya documentado en el proyecto), sin alternativa confiable encontrada.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Única cifra de volatilidad encontrada esta sesión (0.218%) claramente implausible para un ETF de renta variable - DESCARTADA (mismo gotcha recurrente ya documentado en el proyecto), sin alternativa confiable encontrada.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -64.21% (fecha exacta: 9-mar-2009, el fondo real de la Crisis Financiera Global) con **RECUPERACION DE 2,967 SESIONES (~11.8 ANOS) - LA RECUPERACION MAS LENTA DE TODO EL PROYECTO** (supera ampliamente a EWC, 6.5 anos, el anterior record). Explicado por una DOBLE crisis consecutiva especifica de la region: la Crisis Financiera 2008 seguida DIRECTAMENTE por la Crisis de Deuda Soberana Europea (2010-2012, Grecia/Italia/Espana/Portugal), que golpeo a la Eurozona con severidad y duracion mayores que a EEUU.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -64.21% (fecha exacta: 9-mar-2009, el fondo real de la Crisis Financiera Global) con **RECUPERASIÓN DE 2,967 SESIONES (~11.8 ANOS) - LA RECUPERASIÓN MAS LENTA DE TODO EL PROYECTO** (supera ampliamente a EWC, 6.5 anos, el anterior récord). Explicado por una DOBLE crisis consecutiva específica de la region: la Crisis Financiera 2008 seguida DIRECTAMENTE por la Crisis de Deuda Soberana Europea (2010-2012, Grecia/Italia/Espana/Portugal), que golpeo a la Eurozona con severidad y duración mayores que a EEUU.",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 0.80 (fuente unica, ventana no confirmada con precision, posiblemente de mediano/largo plazo dado que aparece junto a la cifra de retorno 10Y en la misma fuente) - se reporta con cautela dada la falta de una tabla por ventana como la disponible para EWC.",
+          "notas": "Sharpe Ratio = 0.80 (fuente única, ventana no confirmada con precisión, posiblemente de mediano/largo plazo dado que aparece junto a la cifra de retorno 10Y en la misma fuente) - se reporta con cautela dada la falta de una tabla por ventana como la disponible para EWC.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.95 - **EL MAS ALTO de los cuatro fondos de nueva geografia del proyecto** (vs EWC 0.86, ILF 0.72, INDA 0.44), refleja la mayor correlacion historica de los mercados desarrollados europeos con EEUU frente a mercados emergentes o de pais unico mas idiosincraticos. **OVERLAP CONFIRMADO: ASML Holding (8.75-10.36%, LA POSICION MAS GRANDE del fondo en ambas fuentes) ya analizado individualmente por el usuario** - mismo nombre de overlap ya visto repetidamente en VXUS/IXUS/ACWX/VEU/EUV/DRAM del proyecto, aqui con el PESO PROPORCIONAL MAS ALTO de todos esos casos.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.95 - **EL MAS ALTO de los cuatro fondos de nueva geografia del proyecto** (vs EWC 0.86, ILF 0.72, INDA 0.44), refleja la mayor correlación histórica de los mercados desarrollados europeos con EEUU frente a mercados emergentes o de pais único mas idiosincraticos. **OVERLAP CONFIRMADO: ASML Holding (8.75-10.36%, LA POSISIÓN MAS GRANDE del fondo en ambas fuentes) ya analizado individualmente por el usuario** - mismo nombre de overlap ya visto repetidamente en VXUS/IXUS/ACWX/VEU/EUV/DRAM del proyecto, aquí con el PESO PROPORCIONAL MAS ALTO de todos esos casos.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "23.8 anios de historial cubren la Crisis Financiera 2008 Y la Crisis de Deuda Soberana Europea 2010-2012 - la DOBLE crisis consecutiva mas severa observada en cualquier fondo del proyecto (de ahi la recuperacion record de 11.8 anios), ademas de COVID 2020 y 2022.",
+          "notas": "23.8 años de historial cubren la Crisis Financiera 2008 Y la Crisis de Deuda Soberana Europea 2010-2012 - la DOBLE crisis consecutiva mas severa observada en cualquier fondo del proyecto (de ahi la recuperación récord de 11.8 años), además de COVID 2020 y 2022.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 17.18x - moderado, similar a VXUS (15.86x), mas barato que IXUS/ACWX/VEU/INDA (17.54-20.67x). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 17.18x - moderado, similar a VXUS (15.86x), mas barato que IXUS/ACWX/VEU/INDA (17.54-20.67x). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 2.44-2.48% (dos fuentes consistentes) - similar a VXUS/ACWX, moderado. Distribucion TRIMESTRAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 2.44-2.48% (dos fuentes consistentes) - similar a VXUS/ACWX, moderado. Distribución TRIMESTRAL.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "PRIMER fondo de la Eurozona/Europa desarrollada del proyecto - sin competidor directo con ficha propia verificada en este workbook, pero se obtuvo contexto de liquidez comparativa: EZU (iShares MSCI Eurozone, MAS LIQUIDO -~$150M ADV vs $60M de FEZ-) e IEUR (iShares Core MSCI Europe, incluye mercados NO-Eurozona como Reino Unido/Suiza, MENOS liquido -~$40M ADV-, universo mas amplio). Candidatos claros para una futura comparacion cabeza a cabeza si se analizan. | ACTUALIZACION posterior (IEUR, fila 52): competidor directo verificado y DECISIVAMENTE superior en casi toda dimension - TER un tercio del costo (0.09-0.10% vs 0.29%), ~2x AUM, ~20x mas holdings (cobertura de TODA Europa desarrollada incl. Reino Unido/Suiza, no solo Eurozona), overlap con ASML notablemente menor (4.12-4.87% vs 8.75-10.36%), mejor retorno 1Y. La unica ventaja real que conserva FEZ es su track record mas largo, que SI cubre la Crisis 2008 y la Crisis de Deuda Soberana Europea (IEUR nacio en 2014, despues de ambas). Ver Ficha IEUR fila 50 para el detalle completo. | ACTUALIZACION posterior (EZU, fila 53): tercer fondo del cluster europeo verificado - EZU es el MAS CARO de los tres (0.50-0.51%) y comparte con FEZ el overlap mas alto via ASML, pero tiene el MEJOR desempeño historico realizado del trio en todas las ventanas (1Y +39.66-39.97%) y el AUM mas grande. FEZ queda en TERCER lugar frente a ambos competidores (IEUR e ahora EZU) en casi toda dimension estructural. Ver Ficha EZU fila 50 para el detalle completo. | ACTUALIZACION posterior (VGK, fila 54): cuarto fondo del cluster europeo, el MEJOR RESULTADO GENERAL - TER mas bajo de todo el cluster (0.06%), AUM ~7x mayor que FEZ, ~25x mas holdings, overlap ASML mucho menor. Hallazgo clave: el Max Drawdown de VGK ocurrio la MISMA fecha exacta que el de FEZ (9-mar-2009) pero se recupero en 5.1 anos vs 11.8 anos de FEZ, evidencia de que la cobertura mas amplia (no solo Eurozona) ofrece resiliencia real. Ver Ficha VGK fila 50 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "PRIMER fondo de la Eurozona/Europa desarrollada del proyecto - sin competidor directo con ficha propia verificada en este workbook, pero se obtuvo contexto de liquidez comparativa: EZU (iShares MSCI Eurozone, MAS LIQUIDO -~$150M ADV vs $60M de FEZ-) e IEUR (iShares Core MSCI Europe, incluye mercados NO-Eurozona como Reino Unido/Suiza, MENOS liquido -~$40M ADV-, universo mas amplio). Candidatos claros para una futura comparación cabeza a cabeza si se analizan. | ACTUALIZASIÓN posterior (IEUR, fila 52): competidor directo verificado y DECISIVAMENTE superior en casi toda dimensión - TER un tercio del costo (0.09-0.10% vs 0.29%), ~2x AUM, ~20x mas holdings (cobertura de TODA Europa desarrollada incl. Reino Unido/Suiza, no solo Eurozona), overlap con ASML notablemente menor (4.12-4.87% vs 8.75-10.36%), mejor retorno 1Y. La única ventaja real que conserva FEZ es su track record mas largo, que SI cubre la Crisis 2008 y la Crisis de Deuda Soberana Europea (IEUR nacio en 2014, después de ambas). Ver Ficha IEUR fila 50 para el detalle completo. | ACTUALIZASIÓN posterior (EZU, fila 53): tercer fondo del cluster europeo verificado - EZU es el MAS CARO de los tres (0.50-0.51%) y comparte con FEZ el overlap mas alto via ASML, pero tiene el MEJOR desempeño histórico realizado del trio en todas las ventanas (1Y +39.66-39.97%) y el AUM mas grande. FEZ queda en TERCER lugar frente a ambos competidores (IEUR e ahora EZU) en casi toda dimensión estructural. Ver Ficha EZU fila 50 para el detalle completo. | ACTUALIZASIÓN posterior (VGK, fila 54): cuarto fondo del cluster europeo, el MEJOR RESULTADO GENERAL - TER mas bajo de todo el cluster (0.06%), AUM ~7x mayor que FEZ, ~25x mas holdings, overlap ASML mucho menor. Hallazgo clave: el Max Drawdown de VGK ocurrio la MISMA fecha exacta que el de FEZ (9-mar-2009) pero se recupero en 5.1 anos vs 11.8 anos de FEZ, evidencia de que la cobertura mas amplia (no solo Eurozona) ofrece resiliencia real. Ver Ficha VGK fila 50 para el detalle completo.",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Satelite** - exposicion regional desarrollada concentrada en blue-chips de la Eurozona (solo 50 nombres por diseno), con el Beta mas alto del subgrupo de nueva geografia del proyecto, TER el mas barato de ese mismo subgrupo, pero con la peor historia de recuperacion de crisis de todo el proyecto (11.8 anios) y overlap significativo via ASML (la posicion mas grande del fondo).",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Satélite** - exposición regional desarrollada concentrada en blue-chips de la Eurozona (solo 50 nombres por diseño), con el Beta mas alto del subgrupo de nueva geografia del proyecto, TER el mas barato de ese mismo subgrupo, pero con la peor historia de recuperación de crisis de todo el proyecto (11.8 años) y overlap significativo via ASML (la posición mas grande del fondo).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: TER bajo para exposicion Eurozona de blue-chips (0.29%, el mas barato del subgrupo de nueva geografia), valoracion moderada (P/E 17.18x) - pero underperformance historico bien documentado frente a EEUU (10Y 7.50% vs 11.05% del S&P500 en la misma ventana) y el retorno 1Y mas bajo del cluster analizado esta sesion.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: TER bajo para exposición Eurozona de blue-chips (0.29%, el mas barato del subgrupo de nueva geografia), valoración moderada (P/E 17.18x) - pero underperformance histórico bien documentado frente a EEUU (10Y 7.50% vs 11.05% del S&P500 en la misma ventana) y el retorno 1Y mas bajo del cluster analizado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) overlap significativo via ASML (8.75-10.36%, la posicion mas grande del fondo, ya en el Dashboard de acciones individuales); (2) historial de recuperacion EXTREMADAMENTE lento tras crisis (11.8 anios, el peor de todo el proyecto) por la doble crisis 2008+deuda soberana europea; (3) riesgo cambiario EUR/USD no cubierto; (4) underperformance estructural bien documentado frente a EEUU; (5) concentracion en solo 50 nombres (menos diversificado internamente que un indice mas amplio de Europa como IEUR).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap significativo via ASML (8.75-10.36%, la posición mas grande del fondo, ya en el Dashboard de acciones individuales); (2) historial de recuperación EXTREMADAMENTE lento tras crisis (11.8 años, el peor de todo el proyecto) por la doble crisis 2008+deuda soberana europea; (3) riesgo cambiario EUR/USD no cubierto; (4) underperformance estructural bien documentado frente a EEUU; (5) concentración en solo 50 nombres (menos diversificado internamente que un índice mas amplio de Europa como IEUR).",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "EZU (iShares MSCI Eurozone, mas liquido) e IEUR (iShares Core MSCI Europe, universo mas amplio incluyendo no-Eurozona) identificados con algo de contexto de liquidez pero sin ficha propia verificada en este workbook. IEUR (fila 52) tambien verificado - competidor directo y claramente mas eficiente que FEZ, ver comparacion en su Ficha. EZU (fila 53) tambien verificado - mejor desempeño historico que FEZ pero mismo problema de overlap via ASML, ver comparacion en su Ficha. VGK (fila 54) tambien verificado - el mejor resultado general del cluster europeo, ver comparacion en su Ficha.",
+          "notas": "EZU (iShares MSCI Eurozone, mas liquido) e IEUR (iShares Core MSCI Europe, universo mas amplio incluyendo no-Eurozona) identificados con algo de contexto de liquidez pero sin ficha propia verificada en este workbook. IEUR (fila 52) también verificado - competidor directo y claramente mas eficiente que FEZ, ver comparación en su Ficha. EZU (fila 53) también verificado - mejor desempeño histórico que FEZ pero mismo problema de overlap via ASML, ver comparación en su Ficha. VGK (fila 54) también verificado - el mejor resultado general del cluster europeo, ver comparación en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER - no agregar. Score 3.52/5 - justo por encima del umbral 'alto' del marco de decision del proyecto (>=3.5), con calidad estructural solida: replica fisica completa, emisor de primer nivel (State Street, quinta aparicion en el proyecto), el TER mas barato de los cuatro fondos de nueva geografia (0.29%), y buena diversificacion sectorial (ningun sector >21%). Sin embargo, DOS problemas dominan la decision, con el mismo peso que en los casos previos de redundancia por overlap (SOXX/SMH/CIBR/VUG/VGT): (1) **overlap significativo y concentrado via ASML Holding, la POSICION MAS GRANDE del fondo (8.75-10.36%)**, ya analizada individualmente por el usuario - el peso proporcional de overlap mas alto entre los cuatro fondos de nueva geografia; y (2) **underperformance estructural bien documentado frente a EEUU** (10Y 7.50% vs 11.05% del S&P500 en la misma ventana, y el retorno 1Y mas bajo -+17.04%- de todo el cluster analizado esta sesion). El fondo tambien tiene la RECUPERACION DE CRISIS MAS LENTA DE TODO EL PROYECTO (11.8 anios tras el minimo de mar-2009), producto de la doble crisis consecutiva Financiera 2008 + Deuda Soberana Europea 2010-2012, especifica de la region. Rol en Portafolio: Satelite. Competidores identificados con algo de contexto de liquidez pero sin ficha propia: EZU (mas liquido) e IEUR (universo mas amplio, incluye Reino Unido/Suiza)."
+    "tesis": "MANTENER - no agregar. Score 3.52/5 - justo por encima del umbral 'alto' del marco de decisión del proyecto (>=3.5), con calidad estructural sólida: réplica física completa, emisor de primer nivel (State Street, quinta aparición en el proyecto), el TER mas barato de los cuatro fondos de nueva geografia (0.29%), y buena diversificación sectorial (ningún sector >21%). Sin embargo, DOS problemas dominan la decisión, con el mismo peso que en los casos previos de redundancia por overlap (SOXX/SMH/CIBR/VUG/VGT): (1) **overlap significativo y concentrado via ASML Holding, la POSISIÓN MAS GRANDE del fondo (8.75-10.36%)**, ya analizada individualmente por el usuario - el peso proporcional de overlap mas alto entre los cuatro fondos de nueva geografia; y (2) **underperformance estructural bien documentado frente a EEUU** (10Y 7.50% vs 11.05% del S&P500 en la misma ventana, y el retorno 1Y mas bajo -+17.04%- de todo el cluster analizado esta sesión). El fondo también tiene la RECUPERASIÓN DE CRISIS MAS LENTA DE TODO EL PROYECTO (11.8 años tras el mínimo de mar-2009), producto de la doble crisis consecutiva Financiera 2008 + Deuda Soberana Europea 2010-2012, específica de la region. Rol en Portafolio: Satélite. Competidores identificados con algo de contexto de liquidez pero sin ficha propia: EZU (mas liquido) e IEUR (universo mas amplio, incluye Reino Unido/Suiza)."
   }
 }

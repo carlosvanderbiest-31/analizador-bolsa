@@ -1,36 +1,36 @@
 {
   "nombre": "Alerian MLP ETF",
   "ticker": "AMLP",
-  "categoria": "Equity Sector (energia infraestructura midstream MLP)",
+  "categoria": "Equity Sector (energía infraestructura midstream MLP)",
   "emisor": "ALPS Advisors",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA -mantiene directamente los MLPs subyacentes del indice, sin swaps ni riesgo de contraparte. PERO estructura fiscal INUSUAL y UNICA en el proyecto: a diferencia de un RIC estandar -VOO/SCHD/todo el resto del workbook-, AMLP esta organizado como Subchapter C-corporation ante el IRS para poder mantener ~100% en MLPs sin el limite de 25% que aplica a un RIC. El fondo mismo paga impuesto corporativo -hasta 21% federal + estatal- sobre ganancias no realizadas, reflejado DIARIAMENTE como pasivo por impuesto diferido en el NAV. A cambio, el inversionista recibe 1099 en vez de K-1 -ventaja administrativa-, pero el fondo absorbe un drag fiscal estructural que ningun otro ETF de este proyecto tiene.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA -mantiene directamente los MLPs subyacentes del índice, sin swaps ni riesgo de contraparte. PERO estructura fiscal INUSUAL y ÚNICA en el proyecto: a diferencia de un RIC estándar -VOO/SCHD/todo el resto del workbook-, AMLP esta organizado como Subchapter C-corporation ante el IRS para poder mantener ~100% en MLPs sin el limite de 25% que aplica a un RIC. El fondo mismo paga impuesto corporativo -hasta 21% federal + estatal- sobre ganancias no realizadas, reflejado DIARIAMENTE como pasivo por impuesto diferido en el NAV. A cambio, el inversionista recibe 1099 en vez de K-1 -ventaja administrativa-, pero el fondo absorbe un drag fiscal estructural que ningún otro ETF de este proyecto tiene.",
           "calificacion": 2
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domiciliado en EEUU -NYSE Arca-, sin retencion de dividendos extranjeros -100% US-. Pero la 'eficiencia fiscal' es paradojica: el inversionista evita el papeleo de K-1 de MLPs individuales, PERO paga el costo via el drag corporativo del fondo -gap NAV vs indice de ~2.8pp/anio a 10 anios, documentado abajo-. Existe doble tributacion de facto: impuesto corporativo dentro del wrapper + impuesto personal del inversionista al recibir distribuciones/vender.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domiciliado en EEUU -NYSE Arca-, sin retención de dividendos extranjeros -100% US-. Pero la 'eficiencia fiscal' es paradojica: el inversionista evita el papeleo de K-1 de MLPs individuales, PERO paga el costo via el drag corporativo del fondo -gap NAV vs índice de ~2.8pp/año a 10 años, documentado abajo-. Existe doble tributación de facto: impuesto corporativo dentro del wrapper + impuesto personal del inversionista al recibir distribuciones/vender.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$13.21bn -stockanalysis.com, ago-2026- - EL MAS GRANDE de cualquier ETF de MLPs por lejos, sin riesgo de cierre/liquidacion. Escala muy superior a competidores RIC como MLPA/MLPX/ENFR -no analizados individualmente-.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$13.21bn -stockanalysis.com, ago-2026- - EL MAS GRANDE de cualquier ETF de MLPs por lejos, sin riesgo de cierre/liquidación. Escala muy superior a competidores RIC como MLPA/MLPX/ENFR -no analizados individualmente-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "~16 anios desde inception -24-ago-2010-. Track record solido pero NO cubre la Crisis 2008 -nace 2 anios despues, patron ya visto en URNM/otros fondos de nicho-. SI cubre el crash petrolero 2015-2016 y el shock COVID marzo-2020 -incluido el precio negativo del WTI-, los dos eventos mas relevantes para MLPs de energia del periodo.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "~16 años desde inception -24-ago-2010-. Track record sólido pero NO cubre la Crisis 2008 -nace 2 años después, patrón ya visto en URNM/otros fondos de nicho-. SI cubre el crash petrolero 2015-2016 y el shock COVID marzo-2020 -incluido el precio negativo del WTI-, los dos eventos mas relevantes para MLPs de energía del período.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor ALPS Advisors -parte de SS&C-, especialista de nicho en MLP/energia con AMLP como producto insignia -el ETF de MLPs mas grande del mercado-. Gama de productos mucho mas chica que BlackRock/Vanguard/State Street, pero reputacion solida y consolidada en esta categoria especifica desde 2010.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor ALPS Advisors -parte de SS&C-, especialista de nicho en MLP/energía con AMLP como producto insignia -el ETF de MLPs mas grande del mercado-. Gama de productos mucho mas chica que BlackRock/Vanguard/State Street, pero reputación sólida y consolidada en esta categoría específica desde 2010.",
           "calificacion": 3
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 1.01% -stockanalysis.com/Yahoo Finance-, algunas fuentes citan 0.85% como 'management fee' base. Es de los MAS CAROS de todo el cluster de energia del proyecto -vs XLE 0.08%, FENY 0.08%, XOP/CRAK mas baratos-, sin contar el drag fiscal adicional documentado abajo.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 1.01% -stockanalysis.com/Yahoo Finance-, algunas fuentes citan 0.85% como 'management fee' base. Es de los MAS CAROS de todo el cluster de energía del proyecto -vs XLE 0.08%, FENY 0.08%, XOP/CRAK mas baratos-, sin contar el drag fiscal adicional documentado abajo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "HALLAZGO CRITICO: el gap NAV-vs-indice a 10 anios es de ~2.81pp/anio -NAV compuso ~8.22% anual vs el Alerian MLP Index Total Return ~11.03% anual, fuente 24/7 Wall St jul-2026-. Esto es MUCHO MAYOR que el TER nominal de 1.01% - la diferencia -~1.8pp adicionales- es atribuible al drag fiscal corporativo del wrapper C-corp, no capturado por ningun TER publicado. Comparacion directa: en 10 anios AMLP +96.8% retorno total vs MLPX -RIC- +211.87% vs ENFR -RIC- +207.57%, una brecha de mas de 100 puntos porcentuales acumulados atribuible en gran parte a esta estructura.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "HALLAZGO CRITICO: el gap NAV-vs-índice a 10 años es de ~2.81pp/año -NAV compuso ~8.22% anual vs el Alerian MLP Index Total Return ~11.03% anual, fuente 24/7 Wall St jul-2026-. Esto es MUCHO MAYOR que el TER nominal de 1.01% - la diferencia -~1.8pp adicionales- es atribuible al drag fiscal corporativo del wrapper C-corp, no capturado por ningún TER publicado. Comparación directa: en 10 años AMLP +96.8% retorno total vs MLPX -RIC- +211.87% vs ENFR -RIC- +207.57%, una brecha de mas de 100 puntos porcentuales acumulados atribuible en gran parte a esta estructura.",
           "calificacion": 1
         },
         {
@@ -55,106 +55,106 @@
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rebalanceo TRIMESTRAL del indice AMZI -mar/jun/sep/dic-, cap del 12% por emisor con redistribucion proporcional iterativa entre componentes <12%. Rotacion moderada dado el bajo numero de holdings -15-, elegibilidad requiere >50% del cash flow de operaciones midstream, volumen minimo $2M/dia y distribuciones pagadas en los 6 meses previos.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL del índice AMZI -mar/jun/sep/dic-, cap del 12% por emisor con redistribución proporcional iterativa entre componentes <12%. Rotación moderada dado el bajo número de holdings -15-, elegibilidad requiere >50% del cash flow de operaciones midstream, volumen mínimo $2M/dia y distribuciones pagadas en los 6 meses previos.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario ~953,142 a 1,395,967 acciones/dia -stockanalysis.com/busqueda general-, equivalente a ~$52-76M/dia a precio ~$54-55/accion. Alto para un fondo de categoria de nicho, muy por delante de MLPA/MLPX/ENFR no analizados.",
+          "notas": "Volumen diario ~953,142 a 1,395,967 acciones/dia -stockanalysis.com/busqueda general-, equivalente a ~$52-76M/dia a precio ~$54-55/acción. Alto para un fondo de categoría de nicho, muy por delante de MLPA/MLPX/ENFR no analizados.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread puntual observado ~$0.01 sobre ~$54.57 -~0.02%-, Yahoo Finance. Muy ajustado, aunque no se encontro serie historica de spread promedio -solo cotizacion puntual-.",
+          "notas": "Spread puntual observado ~$0.01 sobre ~$54.57 -~0.02%-, Yahoo Finance. Muy ajustado, aunque no se encontro serie histórica de spread promedio -solo cotización puntual-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount puntual: precio $53.92 vs NAV $53.91 -> descuento de apenas ~0.02%, practicamente nulo. Mecanismo de arbitraje de APs funcionando bien dada la alta liquidez y AUM. Sin serie historica de premium/discount promedio disponible.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount puntual: precio $53.92 vs NAV $53.91 -> descuento de apenas ~0.02%, prácticamente nulo. Mecanismo de arbitraje de APs funcionando bien dada la alta liquidez y AUM. Sin serie histórica de premium/discount promedio disponible.",
           "calificacion": 4
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin dato explicito de numero/profundidad de Authorized Participants, pero el spread y premium/discount minimos observados sugieren un mecanismo de creacion/redencion funcional y activo dado el tamano del fondo.",
+          "notas": "Sin dato explicito de número/profundidad de Authorized Participants, pero el spread y premium/discount mínimos observados sugieren un mecanismo de creación/redención funcional y activo dado el tamaño del fondo.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "Solo 15 HOLDINGS -una fuente de comparacion citaba 14, discrepancia menor por timing de rebalanceo- - uno de los conteos MAS BAJOS de diversificacion interna de todo el proyecto, comparable a EUV/DRAM -productos de nicho ya marcados REDUCIR/VENDER-.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "Solo 15 HOLDINGS -una fuente de comparación citaba 14, discrepancia menor por timing de rebalanceo- - uno de los conteos MAS BAJOS de diversificación interna de todo el proyecto, comparable a EUV/DRAM -productos de nicho ya marcados REDUCIR/VENDER-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 91.86% del fondo -stockanalysis.com- - concentracion EXTREMA, entre las mas altas de todo el proyecto de ETFs. Top 6 -Sunoco, Energy Transfer, Western Midstream, MPLX, Plains All American, Enterprise Products Partners- ya representan ~75-79% del fondo.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 91.86% del fondo -stockanalysis.com- - concentración EXTREMA, entre las mas altas de todo el proyecto de ETFs. Top 6 -Sunoco, Energy Transfer, Western Midstream, MPLX, Plains All American, Enterprise Products Partners- ya representan ~75-79% del fondo.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Concentracion sectorial 100% ENERGIA MIDSTREAM -infraestructura de transporte/almacenamiento de petroleo y gas-, sin diversificacion hacia otros sub-sectores energeticos -upstream E&P como XOP, refino como CRAK, o integradas como XLE-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Concentración sectorial 100% ENERGÍA MIDSTREAM -infraestructura de transporte/almacenamiento de petróleo y gas-, sin diversificación hacia otros sub-sectores energeticos -upstream E&P como XOP, refino como CRAK, o integradas como XLE-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU -las MLPs cotizan y operan domesticamente por definicion legal-, sin exposicion internacional alguna.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU -las MLPs cotizan y operan domesticamente por definición legal-, sin exposición internacional alguna.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion de factor PURO a INCOME/YIELD -dividend yield 7.35%, uno de los mas altos de todo el proyecto- mas que a growth/value tradicional. Consistente con la tesis de infraestructura energetica como activo generador de renta.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición de factor PURO a INCOME/YIELD -dividend yield 7.35%, uno de los mas altos de todo el proyecto- mas que a growth/value tradicional. Consistente con la tesis de infraestructura energetica como activo generador de renta.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Alerian MLP Infrastructure -AMZI-, metodologia cap-weighted CAPPED con limite de 12% por emisor y redistribucion iterativa del exceso, rebalanceo trimestral -VettaFi-. Reglas transparentes y publicadas.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Alerian MLP Infrastructure -AMZI-, metodología cap-weighted CAPPED con limite de 12% por emisor y redistribución iterativa del exceso, rebalanceo trimestral -VettaFi-. Reglas transparentes y publicadas.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral -mar/jun/sep/dic- con criterios de elegibilidad claros: >50% del cash flow de operaciones midstream, volumen minimo $2M/dia, distribuciones pagadas en los 6 meses previos. Metodologia bien documentada por Alerian/VettaFi.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral -mar/jun/sep/dic- con criterios de elegibilidad claros: >50% del cash flow de operaciones midstream, volumen mínimo $2M/dia, distribuciones pagadas en los 6 meses previos. Metodología bien documentada por Alerian/VettaFi.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y +21.92% a +23.44%, 3Y anualizado ~19.19-20.27%, 5Y anualizado ~19.78-19.99% -fuerte en ventanas cortas/medias por el rally energetico reciente-. PERO retorno 10Y anualizado de apenas ~7.09% -totalrealreturns.com-, MUY por debajo del propio indice -11.03% anualizado a 10 anios-, evidenciando el drag fiscal acumulado sobre el largo plazo.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y +21.92% a +23.44%, 3Y anualizado ~19.19-20.27%, 5Y anualizado ~19.78-19.99% -fuerte en ventanas cortas/medias por el rally energetico reciente-. PERO retorno 10Y anualizado de apenas ~7.09% -totalrealreturns.com-, MUY por debajo del propio índice -11.03% anualizado a 10 años-, evidenciando el drag fiscal acumulado sobre el largo plazo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada creciente con la ventana: 1Y 12.6%, 2Y 15.8%, 3Y 14.9%, 5Y 19.4%, 10Y 27.6% -etfrc.com-. Alta en ventanas largas, reflejo del apalancamiento operativo del sector midstream y la sensibilidad al precio del petroleo/gas.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada creciente con la ventana: 1Y 12.6%, 2Y 15.8%, 3Y 14.9%, 5Y 19.4%, 10Y 27.6% -etfrc.com-. Alta en ventanas largas, reflejo del apalancamiento operativo del sector midstream y la sensibilidad al precio del petróleo/gas.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown desde inception = -77.19% -portfolioslab.com-, severo. No se encontro cifra numerica aislada para el crash COVID marzo-2020 especificamente pese a busqueda dirigida, pero multiples fuentes cualitativas confirman que 2015-2016 -crash petrolero- y 2020 -COVID, incluido el precio negativo del WTI- fueron particularmente duros para MLPs por el apalancamiento operativo del sector.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown desde inception = -77.19% -portfolioslab.com-, severo. No se encontro cifra numerica aislada para el crash COVID marzo-2020 específicamente pese a busqueda dirigida, pero múltiples fuentes cualitativas confirman que 2015-2016 -crash petrolero- y 2020 -COVID, incluido el precio negativo del WTI- fueron particularmente duros para MLPs por el apalancamiento operativo del sector.",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe ratio con datos INCONSISTENTES entre fuentes/periodos: 0.24 -vs SPY-, 1.87 -vs SCHD-, 1.08 -vs MLPA-, 1.72 -vs TLT- -portfolioslab.com-, cada uno calculado sobre un periodo comun distinto segun el fondo de comparacion. No hay una cifra unica y confiable a 3Y/5Y/10Y - bandera de calidad de dato baja.",
+          "notas": "Sharpe ratio con datos INCONSISTENTES entre fuentes/períodos: 0.24 -vs SPY-, 1.87 -vs SCHD-, 1.08 -vs MLPA-, 1.72 -vs TLT- -portfolioslab.com-, cada uno calculado sobre un período comun distinto según el fondo de comparación. No hay una cifra única y confiable a 3Y/5Y/10Y - bandera de calidad de dato baja.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 con DISCREPANCIA entre fuentes: stockanalysis.com reporta 0.49, etfrc.com reporta -0.03 con R2=0% -correlacion estadisticamente insignificante en ese periodo-. Consistente con la naturaleza de los MLPs, que se mueven mas por el precio del petroleo/gas que por el mercado amplio - potencial diversificador genuino, pero el dato en si es poco confiable.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 con DISCREPANCIA entre fuentes: stockanalysis.com reporta 0.49, etfrc.com reporta -0.03 con R2=0% -correlación estadisticamente insignificante en ese período-. Consistente con la naturaleza de los MLPs, que se mueven mas por el precio del petróleo/gas que por el mercado amplio - potencial diversificador genuino, pero el dato en si es poco confiable.",
           "calificacion": 3
         },
         {
@@ -166,27 +166,27 @@
       "rating_promedio": 2.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 17.02x -stockanalysis.com-, sin serie historica propia a 5-10 anios disponible para calcular percentil. Los MLPs individuales se valoran tipicamente por yield/distributable cash flow mas que P/E, por lo que esta metrica es de utilidad limitada para esta categoria.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 17.02x -stockanalysis.com-, sin serie histórica propia a 5-10 años disponible para calcular percentil. Los MLPs individuales se valoran tipicamente por yield/distributable cash flow mas que P/E, por lo que esta métrica es de utilidad limitada para esta categoría.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend/Distribution yield actual = 7.35% -uno de los mas altos de todo el proyecto-, TTM $4.02/accion, ultima distribucion trimestral $1.03 -Q3 2026-. PERO payout ratio = 125.41% -las distribuciones superan las ganancias/flujo, comun en MLPs pero bandera de sostenibilidad-. Solo ~3.29% de la distribucion TTM fue return of capital segun ALPS -bajo para un fondo de MLPs, reflejo de que el wrapper C-corp cambia la naturaleza fiscal de lo que recibe el inversionista final vs tener las MLPs directamente-.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend/Distribution yield actual = 7.35% -uno de los mas altos de todo el proyecto-, TTM $4.02/acción, última distribución trimestral $1.03 -Q3 2026-. PERO payout ratio = 125.41% -las distribuciones superan las ganancias/flujo, comun en MLPs pero bandera de sostenibilidad-. Solo ~3.29% de la distribución TTM fue return of capital según ALPS -bajo para un fondo de MLPs, reflejo de que el wrapper C-corp cambia la naturaleza fiscal de lo que recibe el inversionista final vs tener las MLPs directamente-.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion directa con competidores RIC -MLPA, MLPX de Global X, ENFR-: TODOS evitan el drag fiscal C-corp de AMLP. Resultado documentado a 10 anios: AMLP +96.8% retorno total vs MLPX +211.87% vs ENFR +207.57% -24/7 Wall St-, una brecha de mas de 100 puntos porcentuales. AMLP pierde CLARAMENTE la comparacion de eficiencia estructural pese a ser el mas grande/liquido de la categoria.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación directa con competidores RIC -MLPA, MLPX de Global X, ENFR-: TODOS evitan el drag fiscal C-corp de AMLP. Resultado documentado a 10 años: AMLP +96.8% retorno total vs MLPX +211.87% vs ENFR +207.57% -24/7 Wall St-, una brecha de mas de 100 puntos porcentuales. AMLP pierde CLARAMENTE la comparación de eficiencia estructural pese a ser el mas grande/liquido de la categoría.",
           "calificacion": 1
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol SATELITE tactico de renta/income con alta correlacion al precio del petroleo/gas natural y sensibilidad a tasas de interes -activo income-oriented-. NO apto como Core por concentracion extrema -15 holdings, Top10 92%- y por el drag fiscal estructural unico de este vehiculo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol SATÉLITE táctico de renta/income con alta correlación al precio del petróleo/gas natural y sensibilidad a tasas de interés -activo income-oriented-. NO apto como Core por concentración extrema -15 holdings, Top10 92%- y por el drag fiscal estructural único de este vehículo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion a infraestructura midstream de gas natural con posible tension positiva por demanda de gas para generacion electrica ligada a IA/data centers -paralelo directo a XLE/FENY ya en el workbook-, mas yield alto 7.35%. Contrapesado por el drag fiscal estructural documentado y el retorno 10Y muy inferior al propio indice.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición a infraestructura midstream de gas natural con posible tensión positiva por demanda de gas para generación electrica ligada a IA/data centers -paralelo directo a XLE/FENY ya en el workbook-, mas yield alto 7.35%. Contrapesado por el drag fiscal estructural documentado y el retorno 10Y muy inferior al propio índice.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: concentracion sectorial EXTREMA -100% midstream, Top10 92%-, drag fiscal C-corp UNICO y estructural -no presente en ningun otro ETF del proyecto-, riesgo de tasas de interes -activo income-oriented sensible a subidas de tasas, mencionado explicitamente en disclosures de ALPS-, riesgo regulatorio energetico y riesgo de conflictos de interes del general partner de las MLPs subyacentes -todos confirmados en disclosures oficiales de ALPS-.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: concentración sectorial EXTREMA -100% midstream, Top10 92%-, drag fiscal C-corp ÚNICO y estructural -no presente en ningún otro ETF del proyecto-, riesgo de tasas de interés -activo income-oriented sensible a subidas de tasas, mencionado explícitamente en disclosures de ALPS-, riesgo regulatorio energetico y riesgo de conflictos de interés del general partner de las MLPs subyacentes -todos confirmados en disclosures oficiales de ALPS-.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Alternativas RIC -MLPA, MLPX -Global X-, ENFR- EVITAN por completo el drag fiscal corporativo de AMLP, explicando gran parte de la brecha de rendimiento a 10 anios documentada. Ninguna analizada individualmente en el workbook todavia - candidatas claras para completar la comparacion directa 'MLP con C-corp vs MLP/midstream con RIC' en el futuro.",
+          "notas": "Alternativas RIC -MLPA, MLPX -Global X-, ENFR- EVITAN por completo el drag fiscal corporativo de AMLP, explicando gran parte de la brecha de rendimiento a 10 años documentada. Ninguna analizada individualmente en el workbook todavía - candidatas claras para completar la comparación directa 'MLP con C-corp vs MLP/midstream con RIC' en el futuro.",
           "calificacion": 2
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). AMLP es el ETF de MLPs mas grande y liquido del mercado -$13.21bn AUM- con yield alto -7.35%- y fuerte desempeno reciente -1Y/3Y/5Y-, pero arrastra un defecto ESTRUCTURAL UNICO en todo el proyecto: al estar organizado como C-corporation para evitar los K-1 de MLPs individuales, el fondo paga impuesto corporativo diferido sobre ganancias no realizadas, generando un drag de ~2.8pp/anio sobre el indice -NAV 10Y +8.22% anualizado vs indice +11.03%-. Sumado a una concentracion extrema -15 holdings, Top10 92%, 100% midstream energy, 100% EEUU- y un retorno 10Y muy inferior a competidores RIC -MLPX/ENFR, no analizados individualmente-, el perfil riesgo/costo/estructura no compensa el yield atractivo. Score 2.48/5, el mas bajo del cluster de energia del proyecto junto a CRAK -2.91- y por debajo de XOP -3.03-, URA -2.94- y REMX -2.76-. Rol Satelite tactico de renta unicamente para quien entienda y acepte el drag fiscal; MLPA/MLPX/ENFR -estructura RIC- serian las alternativas logicas a evaluar si se busca esta exposicion sin el defecto estructural."
+    "tesis": "REDUCIR/VENDER (evitar). AMLP es el ETF de MLPs mas grande y liquido del mercado -$13.21bn AUM- con yield alto -7.35%- y fuerte desempeño reciente -1Y/3Y/5Y-, pero arrastra un defecto ESTRUCTURAL ÚNICO en todo el proyecto: al estar organizado como C-corporation para evitar los K-1 de MLPs individuales, el fondo paga impuesto corporativo diferido sobre ganancias no realizadas, generando un drag de ~2.8pp/año sobre el índice -NAV 10Y +8.22% anualizado vs índice +11.03%-. Sumado a una concentración extrema -15 holdings, Top10 92%, 100% midstream energy, 100% EEUU- y un retorno 10Y muy inferior a competidores RIC -MLPX/ENFR, no analizados individualmente-, el perfil riesgo/costo/estructura no compensa el yield atractivo. Score 2.48/5, el mas bajo del cluster de energía del proyecto junto a CRAK -2.91- y por debajo de XOP -3.03-, URA -2.94- y REMX -2.76-. Rol Satélite táctico de renta unicamente para quien entienda y acepte el drag fiscal; MLPA/MLPX/ENFR -estructura RIC- serian las alternativas logicas a evaluar si se busca esta exposición sin el defecto estructural."
   }
 }

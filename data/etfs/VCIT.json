@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard Intermediate-Term Corporate Bond ETF",
   "ticker": "VCIT",
-  "categoria": "Renta Fija Corporativa (grado de inversion, duracion intermedia ~6.0 anios)",
+  "categoria": "Renta Fija Corporativa (grado de inversión, duración intermedia ~6.0 años)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO ('index-sampling approach', fact sheet oficial Vanguard 30-jun-2026) - mismo metodo que VCSH/VCLT/LQD.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO ('index-sampling approach', fact sheet oficial Vanguard 30-jun-2026) - mismo metodo que VCSH/VCLT/LQD.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. Bonos denominados en USD, emisores US y corporaciones globales grandes (mismo patron ya visto en VCSH/VCLT/LQD). El interes tributa como INGRESO ORDINARIO, no dividendos calificados (misma salvedad fiscal ya documentada en el resto de renta fija del proyecto).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. Bonos denominados en USD, emisores US y corporaciones globales grandes (mismo patrón ya visto en VCSH/VCLT/LQD). El interés tributa como INGRESO ORDINARIO, no dividendos calificados (misma salvedad fiscal ya documentada en el resto de renta fija del proyecto).",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM = $67,268M (ETF, fact sheet oficial Vanguard 30-jun-2026) / $69,479M (fondo total incl. otras clases de acciones) - EL AUM MAS ALTO entre los 4 ETFs de renta fija del proyecto, supera a VCSH ($44.97-51.99bn), LQD ($32.39bn) y VCLT ($9.2bn). Fondo enorme, riesgo de cierre nulo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 19-nov-2009 (~16.7 anios) - **LITERALMENTE EL MISMO DIA que VCSH Y VCLT** - confirma que Vanguard lanzo el TRIO COMPLETO de su escalera de duracion de bonos corporativos (corto/intermedio/largo) el mismo dia, mismo patron ya visto con la familia VTV/VUG/VGT/VB de 2004 pero aqui con TRES fondos de renta fija en vez de equity. Sin cambio de mandato/indice.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 19-nov-2009 (~16.7 años) - **LITERALMENTE EL MISMO DIA que VCSH Y VCLT** - confirma que Vanguard lanzo el TRIO COMPLETO de su escalera de duración de bonos corporativos (corto/intermedio/largo) el mismo dia, mismo patrón ya visto con la familia VTV/VUG/VGT/VB de 2004 pero aquí con TRES fondos de renta fija en vez de equity. Sin cambio de mandato/índice.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Vanguard - DECIMA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VT, VCSH, VCLT, ahora VCIT).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Vanguard - DECIMA aparición en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VT, VCSH, VCLT, ahora VCIT).",
           "calificacion": 5
         }
       ],
@@ -40,43 +40,43 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.03% - empata con VCSH/VCLT como el mas barato del proyecto, 4.7x MAS BARATO que LQD (0.14%) pese a cubrir un universo de bonos comparable. El propio fact sheet de Vanguard muestra el contraste: promedio de fondos de deuda corporativa BBB-rated = 0.72% (mutual funds) / 0.20% (solo ETFs) vs 0.03% de VCIT - ~24x y ~6.7x mas barato respectivamente.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "**PRIMERA VEZ EN TODO EL PROYECTO que la Tracking Difference se verifica con PRECISION TOTAL via un fact sheet oficial ACTUAL (30-jun-2026, no desactualizado)**: NAV vs Indice Bloomberg U.S. 5-10 Year Corporate Bond: -0.02pp (1yr), -0.05pp (3yr), -0.04pp (5yr), -0.10pp (10yr), -0.09pp (desde inception) - tracking excepcionalmente ajustado y CONSISTENTE en todas las ventanas, mejor documentado que cualquier otro ETF de renta fija del proyecto (incluso mejor que VCLT, que tambien logro una tabla oficial pero con un dato YTD anomalo).",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "**PRIMERA VEZ EN TODO EL PROYECTO que la Tracking Difference se verifica con PRECISIÓN TOTAL via un fact sheet oficial ACTUAL (30-jun-2026, no desactualizado)**: NAV vs Índice Bloomberg U.S. 5-10 Year Corporate Bond: -0.02pp (1yr), -0.05pp (3yr), -0.04pp (5yr), -0.10pp (10yr), -0.09pp (desde inception) - tracking excepcionalmente ajustado y CONSISTENTE en todas las ventanas, mejor documentado que cualquier otro ETF de renta fija del proyecto (incluso mejor que VCLT, que también logro una tabla oficial pero con un dato YTD anomalo).",
           "calificacion": 5
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion (mismo patron que VCSH/VCLT/LQD).",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesión (mismo patrón que VCSH/VCLT/LQD).",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "**Turnover rate = 85.1% (fact sheet oficial) - EL MAS ALTO entre los 4 ETFs de renta fija del proyecto**, casi el doble de VCLT (43.9%). Se explica mecanicamente: la banda de vencimiento de VCIT es mas ESTRECHA (5-10 anios) que la de VCLT (10+ anios sin techo) - los bonos 'envejecen' y salen de una banda estrecha con mas frecuencia relativa que de una banda ancha, generando mas rotacion de indice.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "**Turnover rate = 85.1% (fact sheet oficial) - EL MAS ALTO entre los 4 ETFs de renta fija del proyecto**, casi el doble de VCLT (43.9%). Se explica mecanicamente: la banda de vencimiento de VCIT es mas ESTRECHA (5-10 años) que la de VCLT (10+ años sin techo) - los bonos 'envejecen' y salen de una banda estrecha con mas frecuencia relativa que de una banda ancha, generando mas rotación de índice.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 7,242,459 acciones (stockanalysis) x $81.08/accion = aprox $587.2M/dia - solido pero no un record del proyecto (por debajo de LQD $2.03bn y XLE $1.23bn), superior a VCLT ($195.9M/dia).",
+          "notas": "Volumen diario = 7,242,459 acciones (stockanalysis) x $81.08/acción = aprox $587.2M/dia - sólido pero no un récord del proyecto (por debajo de LQD $2.03bn y XLE $1.23bn), superior a VCLT ($195.9M/dia).",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesion, pero el volumen sustancial y el AUM de $67bn sugieren un mercado liquido con spread razonablemente ajustado.",
+          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesión, pero el volumen sustancial y el AUM de $67bn sugieren un mercado liquido con spread razonablemente ajustado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
+          "aspecto": "Premium/Discount histórico vs. NAV",
           "notas": "Premium/Discount vs NAV = +0.01% (ycharts) - empata con VCSH como el mas ajustado del proyecto, consistente con la extrema liquidez y el AUM del fondo.",
           "calificacion": 5
         },
@@ -89,40 +89,40 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "2,269 bonds (fondo, fact sheet oficial) vs 2,327 (indice) - buena corroboracion. Menor numero que VCSH (3,019) y LQD (3,143), similar a VCLT (2,851).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "2,269 bonds (fondo, fact sheet oficial) vs 2,327 (índice) - buena corroboración. Menor número que VCSH (3,019) y LQD (3,143), similar a VCLT (2,851).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 holdings = aprox 2.71% (calculado de stockanalysis: suma de las 10 posiciones principales, 0.31% a 0.25% cada una) - NUEVO RECORD MINIMO DE CONCENTRACION DE TODO EL PROYECTO**, supera incluso a LQD (2.77%). **Primera vez entre los 4 ETFs de renta fija del proyecto donde la posicion #1 es un BONO CORPORATIVO REAL (Amazon, 0.31%) y no un instrumento de liquidez/cash** (a diferencia de VCSH/VCLT/LQD, donde el #1 siempre fue un fondo de gestion de colateral) - la cifra de concentracion de VCIT es, en ese sentido, la mas 'limpia' del proyecto.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 holdings = aprox 2.71% (calculado de stockanalysis: suma de las 10 posiciones principales, 0.31% a 0.25% cada una) - NUEVO RÉCORD MÍNIMO DE CONCENTRASIÓN DE TODO EL PROYECTO**, supera incluso a LQD (2.77%). **Primera vez entre los 4 ETFs de renta fija del proyecto donde la posición #1 es un BONO CORPORATIVO REAL (Amazon, 0.31%) y no un instrumento de liquidez/cash** (a diferencia de VCSH/VCLT/LQD, donde el #1 siempre fue un fondo de gestion de colateral) - la cifra de concentración de VCIT es, en ese sentido, la mas 'limpia' del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Distribucion por emisor/sector (fact sheet oficial): Industrial 52.7%, Finance 37.1%, Utilities 10.0%, Other 0.2%, Treasury/Agency 0.0% - clasificacion limpia y completa (suma exacta 100%, a diferencia del 25.62% 'Unavailable' de Trackinsight en LQD). Industrial domina pero sin concentracion extrema.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Distribución por emisor/sector (fact sheet oficial): Industrial 52.7%, Finance 37.1%, Utilities 10.0%, Other 0.2%, Treasury/Agency 0.0% - clasificación limpia y completa (suma exacta 100%, a diferencia del 25.62% 'Unavailable' de Trackinsight en LQD). Industrial domina pero sin concentración extrema.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Emisores mayoritariamente US con corporaciones globales grandes denominadas en USD (mismo patron ya visto en VCSH/VCLT/LQD) - sin concentracion geografica extra-US relevante.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Emisores mayoritariamente US con corporaciones globales grandes denominadas en USD (mismo patrón ya visto en VCSH/VCLT/LQD) - sin concentración geográfica extra-US relevante.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es DURACION INTERMEDIA (6.0 anios efectiva, vencimiento promedio 7.6 anios, banda de indice 5-10 anios) + grado de inversion. **CIERRA LA ESCALERA COMPLETA DE DURACION PROPIA DE VANGUARD**: VCSH 2.4 anios / VCIT 6.0 anios / VCLT 12.1 anios - los TRES lanzados el mismo dia (fila 14). A diferencia de LQD (indice Markit iBoxx distinto, argumento bullet-vs-barbell aplicable), VCIT SI comparte emisor Y familia de indice Bloomberg U.S. Corporate con VCSH/VCLT - la redundancia potencial aqui es mas directa.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es DURASIÓN INTERMEDIA (6.0 años efectiva, vencimiento promedio 7.6 años, banda de índice 5-10 años) + grado de inversión. **CIERRA LA ESCALERA COMPLETA DE DURASIÓN PROPIA DE VANGUARD**: VCSH 2.4 años / VCIT 6.0 años / VCLT 12.1 años - los TRES lanzados el mismo dia (fila 14). A diferencia de LQD (índice Markit iBoxx distinto, argumento bullet-vs-barbell aplicable), VCIT SI comparte emisor Y familia de índice Bloomberg U.S. Corporate con VCSH/VCLT - la redundancia potencial aquí es mas directa.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg U.S. 5-10 Year Corporate Bond Index - metodologia transparente, banda de vencimiento estrecha y especifica por diseno (esto explica el alto turnover de la fila 21).",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg U.S. 5-10 Year Corporate Bond Index - metodología transparente, banda de vencimiento estrecha y específica por diseño (esto explica el alto turnover de la fila 21).",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo con turnover confirmado 85.1% (fact sheet oficial, cifra exacta) - el mas alto del proyecto en renta fija, coherente con la banda de vencimiento estrecha.",
           "calificacion": 5
         }
@@ -130,62 +130,62 @@
       "rating_promedio": 4.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno NAV: 1yr +4.54%, 3yr +6.21% anualizado, 5yr **+1.16% anualizado (POSITIVO)** - a diferencia de LQD (-0.11%) y VCLT (-2.30%), el retorno a 5 anios de VCIT SI se mantiene en positivo, confirmando la logica de escalera de duracion del proyecto: a menor duracion, mejor el retorno reciente en este ciclo de tasas. 10yr +2.88% anualizado, desde inception (16.7 anios) +4.32% anualizado (fact sheet oficial, cifra limpia y consistente en las 5 ventanas).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno NAV: 1yr +4.54%, 3yr +6.21% anualizado, 5yr **+1.16% anualizado (POSITIVO)** - a diferencia de LQD (-0.11%) y VCLT (-2.30%), el retorno a 5 años de VCIT SI se mantiene en positivo, confirmando la logica de escalera de duración del proyecto: a menor duración, mejor el retorno reciente en este ciclo de tasas. 10yr +2.88% anualizado, desde inception (16.7 años) +4.32% anualizado (fact sheet oficial, cifra limpia y consistente en las 5 ventanas).",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "**Cifras de volatilidad DESCARTADAS por implausibles**: 1.25% (PortfoliosLab, comparacion) y 0.0861% (otro snippet) - ambas demasiado bajas para una duracion de 6 anios dado el patron de escalamiento ya validado en el proyecto (VCSH 0.62% a 2.4 anios, LQD 9.3% a 8 anios, VCLT 11.7% a 12.1 anios - VCIT deberia estar en un rango intermedio, no por debajo de VCSH). Se deja en blanco en el Dashboard, mismo criterio que las cifras descartadas de LQD.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "**Cifras de volatilidad DESCARTADAS por implausibles**: 1.25% (PortfoliosLab, comparación) y 0.0861% (otro snippet) - ambas demasiado bajas para una duración de 6 años dado el patrón de escalamiento ya validado en el proyecto (VCSH 0.62% a 2.4 años, LQD 9.3% a 8 años, VCLT 11.7% a 12.1 años - VCIT deberia estar en un rango intermedio, no por debajo de VCSH). Se deja en blanco en el Dashboard, mismo criterio que las cifras descartadas de LQD.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -20.56% desde inception (PortfoliosLab) - **encaja perfectamente en la progresion de escalera de duracion del proyecto**: VCSH -12.86% (2.4a) < VCIT -20.56% (6.0a) < LQD -24.95% (8.0a) < VCLT -34.3% (12.1a) - CUATRO puntos de datos ahora confirman la relacion monotona entre duracion y severidad de drawdown dentro del propio proyecto.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -20.56% desde inception (PortfoliosLab) - **encaja perfectamente en la progresión de escalera de duración del proyecto**: VCSH -12.86% (2.4a) < VCIT -20.56% (6.0a) < LQD -24.95% (8.0a) < VCLT -34.3% (12.1a) - CUATRO puntos de datos ahora confirman la relación monotona entre duración y severidad de drawdown dentro del propio proyecto.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "**Cifras de Sharpe tambien inconsistentes (1.25 vs 1.04 segun la comparacion de PortfoliosLab)** - mismo patron de gotcha ya documentado repetidamente (SOXX, CIBR, LQD). Se deja en blanco en el Dashboard.",
+          "notas": "**Cifras de Sharpe también inconsistentes (1.25 vs 1.04 según la comparación de PortfoliosLab)** - mismo patrón de gotcha ya documentado repetidamente (SOXX, CIBR, LQD). Se deja en blanco en el Dashboard.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.33 (stockanalysis) - encaja en la progresion de escalera: VCSH 0.13 < VCIT 0.33 < LQD 0.44 < VCLT 0.63. **Overlap de emisor el MAS ALTO PROPORCIONALMENTE de los 4 ETFs de renta fija del proyecto**: en el top 15, Amazon (0.31%), SpaceX/SPCX (0.27%), Meta (2 bonos, 0.54%), Oracle (0.26%), JPMorgan (2 bonos, 0.50%) y Alphabet (0.23%) YA estan analizados individualmente, sumando ~2.11% del fondo (~54% del top15, vs ~38% en LQD) - overlap real, aunque sigue siendo exposicion crediticia (no accionaria) de magnitud pequena en terminos absolutos.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.33 (stockanalysis) - encaja en la progresión de escalera: VCSH 0.13 < VCIT 0.33 < LQD 0.44 < VCLT 0.63. **Overlap de emisor el MAS ALTO PROPORCIONALMENTE de los 4 ETFs de renta fija del proyecto**: en el top 15, Amazon (0.31%), SpaceX/SPCX (0.27%), Meta (2 bonos, 0.54%), Oracle (0.26%), JPMorgan (2 bonos, 0.50%) y Alphabet (0.23%) YA estan analizados individualmente, sumando ~2.11% del fondo (~54% del top15, vs ~38% en LQD) - overlap real, aunque sigue siendo exposición crediticia (no accionaria) de magnitud pequeña en términos absolutos.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "16.7 anios de historial, mismo periodo que VCSH/VCLT (nacidos post-crisis financiera 2008, sin cobertura de ese evento) - cubren el taper tantrum 2013, la correccion de credito COVID 2020, y el ciclo de alzas de tasas 2022-2026.",
+          "notas": "16.7 años de historial, mismo período que VCSH/VCLT (nacidos post-crisis financiera 2008, sin cobertura de ese evento) - cubren el taper tantrum 2013, la corrección de crédito COVID 2020, y el ciclo de alzas de tasas 2022-2026.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "No aplica - VCIT es un fondo 100% renta fija, sin componente de equity (mismo criterio que VCSH/VCLT/LQD).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 4.89% (stockanalysis) / Distribucion 4.88% (Vanguard, 1-jun-2026) - excelente corroboracion. Distribucion MENSUAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 4.89% (stockanalysis) / Distribución 4.88% (Vanguard, 1-jun-2026) - excelente corroboración. Distribución MENSUAL.",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "**Datos de renta fija MAS PRECISOS de todo el proyecto gracias al fact sheet oficial actual**: Duracion efectiva = 6.0 anios (fondo=indice, corroboracion perfecta) - la posicion intermedia exacta de la escalera Vanguard. Vencimiento efectivo promedio = 7.6 anios (fondo) / 7.5 (indice). SEC Yield ~5.17% (fuente unica reciente, razonable frente al 4.89% TTM). **Calidad crediticia con desglose COMPLETO Y EXACTO por primera vez en el proyecto** (ni VCSH ni VCLT ni LQD lo lograron con este detalle): US Govt 0.0%, AAA 0.3%, AA 7.4%, A 45.4%, BBB 46.8%, BB 0.0%, sin calificar 0.0%. Notable: BBB (46.8%) es la categoria individual MAS GRANDE, superando ligeramente a A (45.4%) - VCIT esta mas sesgado hacia el borde inferior del grado de inversion que LQD (A 47.1% > BBB 40.9% alli).",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "**Datos de renta fija MAS PRECISOS de todo el proyecto gracias al fact sheet oficial actual**: Duración efectiva = 6.0 años (fondo=índice, corroboración perfecta) - la posición intermedia exacta de la escalera Vanguard. Vencimiento efectivo promedio = 7.6 años (fondo) / 7.5 (índice). SEC Yield ~5.17% (fuente única reciente, razonable frente al 4.89% TTM). **Calidad crediticia con desglose COMPLETO Y EXACTO por primera vez en el proyecto** (ni VCSH ni VCLT ni LQD lo lograron con este detalle): US Govt 0.0%, AAA 0.3%, AA 7.4%, A 45.4%, BBB 46.8%, BB 0.0%, sin calificar 0.0%. Notable: BBB (46.8%) es la categoría individual MAS GRANDE, superando ligeramente a A (45.4%) - VCIT esta mas sesgado hacia el borde inferior del grado de inversión que LQD (A 47.1% > BBB 40.9% alli).",
           "calificacion": 5
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Mismo contexto de valoracion de credito ya documentado en LQD: spreads IG comprimidos (~70pb vs promedio historico 132pb, 24/7 Wall St jun-2026) - aplica a todo el universo de credito corporativo IG, no es especifico de la banda de duracion de VCIT. Competidores identificados sin datos propios verificados: IGIB (iShares Intermediate Corporate, TER 0.04%) y VTC (Vanguard Total Corporate Bond, cubre todo el espectro de duracion en un solo fondo).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Mismo contexto de valoración de crédito ya documentado en LQD: spreads IG comprimidos (~70pb vs promedio histórico 132pb, 24/7 Wall St jun-2026) - aplica a todo el universo de crédito corporativo IG, no es específico de la banda de duración de VCIT. Competidores identificados sin datos propios verificados: IGIB (iShares Intermediate Corporate, TER 0.04%) y VTC (Vanguard Total Corporate Bond, cubre todo el espectro de duración en un solo fondo).",
           "calificacion": 4
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "**CIERRA LA ESCALERA COMPLETA DE DURACION DE VANGUARD (VCSH-VCIT-VCLT, los TRES lanzados el MISMO DIA)** - a diferencia de LQD (indice y emisor distintos, argumento bullet-vs-barbell mitigante), VCIT comparte emisor Y familia de indice Bloomberg con VCSH/VCLT, por lo que la redundancia frente a esas dos posiciones YA en el workbook es MAS DIRECTA que la de LQD. Se clasifica como **'Core'** (mismo rol que LQD) pero con una nota de cautela mas fuerte: sumar VCIT a una cartera que ya tiene VCSH+VCLT del mismo emisor probablemente no anade una dimension de riesgo/duracion genuinamente nueva, a diferencia de LQD (metodologia de indice distinta).",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "**CIERRA LA ESCALERA COMPLETA DE DURASIÓN DE VANGUARD (VCSH-VCIT-VCLT, los TRES lanzados el MISMO DIA)** - a diferencia de LQD (índice y emisor distintos, argumento bullet-vs-barbell mitigante), VCIT comparte emisor Y familia de índice Bloomberg con VCSH/VCLT, por lo que la redundancia frente a esas dos posiciones YA en el workbook es MAS DIRECTA que la de LQD. Se clasifica como **'Core'** (mismo rol que LQD) pero con una nota de cautela mas fuerte: sumar VCIT a una cartera que ya tiene VCSH+VCLT del mismo emisor probablemente no anade una dimensión de riesgo/duración genuinamente nueva, a diferencia de LQD (metodología de índice distinta).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: el fondo mas barato (TER 0.03%) y con el tracking mas ajustado y mejor documentado del proyecto para el tramo 5-10 anios de duracion IG corporativa - PERO su valor incremental para este usuario especifico es cuestionable dado que ya posee VCSH y VCLT del MISMO emisor, cubriendo los extremos de la misma escalera de duracion.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: el fondo mas barato (TER 0.03%) y con el tracking mas ajustado y mejor documentado del proyecto para el tramo 5-10 años de duración IG corporativa - PERO su valor incremental para este usuario específico es cuestionable dado que ya posee VCSH y VCLT del MISMO emisor, cubriendo los extremos de la misma escalera de duración.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo de tasa de interes moderado (duracion 6.0 anios); (2) BBB es la categoria de credito individual mas grande (46.8%, borde inferior del grado de inversion, mas sesgado que LQD); (3) spreads de credito IG historicamente comprimidos (mismo riesgo de valoracion ya documentado en LQD); (4) turnover interno alto (85.1%, mayor costo de rotacion implicito no capturado en el TER); (5) tributacion del interes como INGRESO ORDINARIO.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de tasa de interés moderado (duración 6.0 años); (2) BBB es la categoría de crédito individual mas grande (46.8%, borde inferior del grado de inversión, mas sesgado que LQD); (3) spreads de crédito IG históricamente comprimidos (mismo riesgo de valoración ya documentado en LQD); (4) turnover interno alto (85.1%, mayor costo de rotación implícito no capturado en el TER); (5) tributación del interés como INGRESO ORDINARIO.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "IGIB (iShares Intermediate Corporate Bond, TER 0.04%) y VTC (Vanguard Total Corporate Bond, cubre todo el espectro en un solo fondo en vez de la escalera de 3 fondos separados) identificados como alternativas, sin comparacion con datos propios verificados esta sesion.",
+          "notas": "IGIB (iShares Intermediate Corporate Bond, TER 0.04%) y VTC (Vanguard Total Corporate Bond, cubre todo el espectro en un solo fondo en vez de la escalera de 3 fondos separados) identificados como alternativas, sin comparación con datos propios verificados esta sesión.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER - no agregar. Score 4.00/5 - de los MAS ALTOS del proyecto (justo debajo de VCSH, 4.03), resultado de una calidad estructural Y de costos EXCEPCIONAL: TER mas barato del proyecto (0.03%, empata VCSH/VCLT), la Tracking Difference MEJOR VERIFICADA de todo el proyecto (fact sheet oficial ACTUAL, no desactualizado, con tabla completa NAV-vs-Indice en 5 ventanas), el desglose de calidad crediticia MAS COMPLETO Y PRECISO del proyecto (AAA/AA/A/BBB exactos), y un NUEVO RECORD DE CONCENTRACION MINIMA (Top10 2.71%, supera a LQD) que ademas es el mas 'limpio' del proyecto (sin instrumento de liquidez inflando el top10). PERO la decision no es 'acumular' pese al Score alto, por DOS motivos combinados: (1) el mismo riesgo de valoracion de credito ya documentado en LQD (spreads IG comprimidos, ~70pb vs promedio historico 132pb, poco colchon); y (2) **REDUNDANCIA GENUINA Y DIRECTA con VCSH+VCLT ya en el workbook** - los TRES fondos son del MISMO EMISOR (Vanguard), lanzados el MISMO DIA (19-nov-2009), y comparten la MISMA FAMILIA DE INDICE (Bloomberg U.S. Corporate) - a diferencia de LQD, que usa un indice y metodologia de seleccion totalmente distintos (Markit iBoxx), aqui no hay un argumento bullet-vs-barbell que mitigue la redundancia: VCIT literalmente cierra la escalera de duracion que el propio emisor diseno como continuum (2.4/6.0/12.1 anios). **Primera vez en el proyecto que un Score en el umbral de 4.0 recibe 'MANTENER - no agregar'** en vez de 'MANTENER/ACUMULAR GRADUAL' - el precedente mas alto anterior de esta Decision fue XLK (3.45). Retorno a 5 anios SI se mantiene positivo (+1.16%, a diferencia de LQD/VCLT) gracias a su duracion mas corta, y el Max Drawdown (-20.56%) encaja perfectamente en la progresion de escalera de duracion ya validada con los otros 3 ETFs de renta fija del proyecto (VCSH -12.86% < VCIT -20.56% < LQD -24.95% < VCLT -34.3%)."
+    "tesis": "MANTENER - no agregar. Score 4.00/5 - de los MAS ALTOS del proyecto (justo debajo de VCSH, 4.03), resultado de una calidad estructural Y de costos EXCEPCIONAL: TER mas barato del proyecto (0.03%, empata VCSH/VCLT), la Tracking Difference MEJOR VERIFICADA de todo el proyecto (fact sheet oficial ACTUAL, no desactualizado, con tabla completa NAV-vs-Índice en 5 ventanas), el desglose de calidad crediticia MAS COMPLETO Y PRECISO del proyecto (AAA/AA/A/BBB exactos), y un NUEVO RÉCORD DE CONCENTRASIÓN MINIMA (Top10 2.71%, supera a LQD) que además es el mas 'limpio' del proyecto (sin instrumento de liquidez inflando el top10). PERO la decisión no es 'acumular' pese al Score alto, por DOS motivos combinados: (1) el mismo riesgo de valoración de crédito ya documentado en LQD (spreads IG comprimidos, ~70pb vs promedio histórico 132pb, poco colchon); y (2) **REDUNDANCIA GENUINA Y DIRECTA con VCSH+VCLT ya en el workbook** - los TRES fondos son del MISMO EMISOR (Vanguard), lanzados el MISMO DIA (19-nov-2009), y comparten la MISMA FAMILIA DE ÍNDICE (Bloomberg U.S. Corporate) - a diferencia de LQD, que usa un índice y metodología de selección totalmente distintos (Markit iBoxx), aquí no hay un argumento bullet-vs-barbell que mitigue la redundancia: VCIT literalmente cierra la escalera de duración que el propio emisor diseño como continuum (2.4/6.0/12.1 años). **Primera vez en el proyecto que un Score en el umbral de 4.0 recibe 'MANTENER - no agregar'** en vez de 'MANTENER/ACUMULAR GRADUAL' - el precedente mas alto anterior de esta Decisión fue XLK (3.45). Retorno a 5 años SI se mantiene positivo (+1.16%, a diferencia de LQD/VCLT) gracias a su duración mas corta, y el Max Drawdown (-20.56%) encaja perfectamente en la progresión de escalera de duración ya validada con los otros 3 ETFs de renta fija del proyecto (VCSH -12.86% < VCIT -20.56% < LQD -24.95% < VCLT -34.3%)."
   }
 }

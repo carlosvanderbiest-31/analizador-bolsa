@@ -1,7 +1,7 @@
 {
   "empresa": "Teradyne, Inc.",
   "ticker": "TER",
-  "sector": "Tecnologia - Equipos de Testeo de Semiconductores (ATE) y Robotica Colaborativa",
+  "sector": "Tecnología - Equipos de Testeo de Semiconductores (ATE) y Robotica Colaborativa",
   "fecha_analisis": "2026-08-12",
   "analista": null,
   "secciones": [
@@ -15,17 +15,17 @@
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Duopolio racional con Advantest (Japon) en equipos de testeo automatizado (ATE) - Advantest domina GPU merchant (~58-60% de cuota), Teradyne domina clientes 'VIP' (muy grandes, probablemente proveedores de chips de IA de primer nivel); switching costs reales por integracion profunda en lineas de produccion de semiconductores.",
+          "notas": "Duopolio racional con Advantest (Japon) en equipos de testeo automatizado (ATE) - Advantest domina GPU merchant (~58-60% de cuota), Teradyne domina clientes 'VIP' (muy grandes, probablemente proveedores de chips de IA de primer nivel); switching costs reales por integración profunda en líneas de producción de semiconductores.",
           "calificacion": 4
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Ingresos 1T 2026 +87% interanual, guia 3T muy por encima del consenso (USD1.20-1.30bn vs consenso ~USD1.04bn), ~70% de ingresos ya ligados a IA (compute y memoria); robotica con Universal Robots integrando IA generativa para simplificar programacion.",
+          "notas": "Ingresos 1T 2026 +87% interanual, guia 3T muy por encima del consenso (USD1.20-1.30bn vs consenso ~USD1.04bn), ~70% de ingresos ya ligados a IA (compute y memoria); robotica con Universal Robots integrando IA generativa para simplificar programación.",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Margen bruto 59.06%, operativo 30.88% - fuertes y en expansion por el entorno de demanda excepcional.",
+          "notas": "Margen bruto 59.06%, operativo 30.88% - fuertes y en expansión por el entorno de demanda excepcional.",
           "calificacion": 4
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Desapalancamiento activo (deuda -65% interanual), recompras y dividendo modesto (yield 0.13%, payout 13.84%); reinversion en capacidad de manufactura (capex +18% interanual).",
+          "notas": "Desapalancamiento activo (deuda -65% interanual), recompras y dividendo modesto (yield 0.13%, payout 13.84%); reinversión en capacidad de manufactura (capex +18% interanual).",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "No investigado en profundidad en esta sesion (pendiente); transacciones de insiders levemente negativas (Insider Trans -2.81%, mucho menos pronunciado que STX), propiedad interna baja (0.56%).",
+          "notas": "No investigado en profundidad en esta sesión (pendiente); transacciones de insiders levemente negativas (Insider Trans -2.81%, mucho menos pronunciado que STX), propiedad interna baja (0.56%).",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion trimestral detallada con guia superando el consenso de forma consistente y transparente, desglose por segmento (Semiconductor Test vs Robotics).",
+          "notas": "Divulgación trimestral detallada con guia superando el consenso de forma consistente y transparente, desglose por segmento (Semiconductor Test vs Robotics).",
           "calificacion": 4
         }
       ],
@@ -62,17 +62,17 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Caja neta ~USD249M (deuda total USD100M vs caja USD350M), Debt/Equity minimo (0.02-0.03x) - balance muy conservador.",
+          "notas": "Caja neta ~USD249M (deuda total USD100M vs caja USD350M), Debt/Equity mínimo (0.02-0.03x) - balance muy conservador.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 2.12x, prueba acida 1.32-1.39x - liquidez solida.",
+          "notas": "Razón corriente 2.12x, prueba acida 1.32-1.39x - liquidez sólida.",
           "calificacion": 5
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Deuda total ya muy baja (USD100M) y en reduccion activa, riesgo de refinanciamiento minimo.",
+          "notas": "Deuda total ya muy baja (USD100M) y en reducción activa, riesgo de refinanciamiento mínimo.",
           "calificacion": 4
         },
         {
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto 59.06%, operativo 30.88%, neto 25.77% - solidos y en fuerte expansion desde el ciclo previo mas moderado.",
+          "notas": "Margen bruto 59.06%, operativo 30.88%, neto 25.77% - sólidos y en fuerte expansión desde el ciclo previo mas moderado.",
           "calificacion": 4
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 36.66-37.18%, ROIC 32.68-37.65%, ambos comodamente por encima del WACC (13.35%), spread positivo solido y con cifras razonablemente creibles (no tan extremas como STX-WDC).",
+          "notas": "ROE 36.66-37.18%, ROIC 32.68-37.65%, ambos comodamente por encima del WACC (13.35%), spread positivo sólido y con cifras razonablemente creibles (no tan extremas como STX-WDC).",
           "calificacion": 4
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada (~0.91x), ciclo de conversion de efectivo mejorando con el entorno de demanda excepcional.",
+          "notas": "Rotación de activos moderada (~0.91x), ciclo de conversión de efectivo mejorando con el entorno de demanda excepcional.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR ingresos 5 anios apenas 0.43% (Finviz, refleja anios de estancamiento pre-supercycle en un negocio ciclico de bienes de capital semiconductor), pero TTM +57.91% y 1T 2026 +87% interanual - mismo patron de crecimiento de pico ciclico ya documentado extensamente con MU-SNDK-WDC-STX.",
+          "notas": "CAGR ingresos 5 años apenas 0.43% (Finviz, refleja años de estancamiento pre-supercycle en un negocio ciclico de bienes de capital semiconductor), pero TTM +57.91% y 1T 2026 +87% interanual - mismo patrón de crecimiento de pico ciclico ya documentado extensamente con MU-SNDK-WDC-STX.",
           "calificacion": 2
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Historial de ciclicidad severa (bienes de capital para semiconductores, ligado al ciclo de capex de fabs), el salto actual es genuino pero de sostenibilidad incierta a mediano-largo plazo, mismo patron de riesgo ya visto en MU-SNDK-WDC-STX.",
+          "notas": "Historial de ciclicidad severa (bienes de capital para semiconductores, ligado al ciclo de capex de fabs), el salto actual es genuino pero de sostenibilidad incierta a mediano-largo plazo, mismo patrón de riesgo ya visto en MU-SNDK-WDC-STX.",
           "calificacion": 2
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Mercado de equipos de testeo automatizado proyectado a crecer de USD8.15bn (2026) a USD14.38bn (2034, CAGR 7.35%) impulsado por complejidad de IA; gasto de equipos de fabricacion de wafers acercandose a USD250bn para fin de decada; integracion de IA generativa en robotica (Universal Robots).",
+          "notas": "Mercado de equipos de testeo automatizado proyectado a crecer de USD8.15bn (2026) a USD14.38bn (2034, CAGR 7.35%) impulsado por complejidad de IA; gasto de equipos de fabricación de wafers acercandose a USD250bn para fin de década; integración de IA generativa en robotica (Universal Robots).",
           "calificacion": 4
         }
       ],
@@ -130,7 +130,7 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo TTM USD1.07bn vs utilidad neta TTM implicita ~USD1.14bn (market cap/P-E) - relacion razonable y sin distorsion extrema.",
+          "notas": "Flujo de caja operativo TTM USD1.07bn vs utilidad neta TTM implícita ~USD1.14bn (market cap/P-E) - relación razonable y sin distorsión extrema.",
           "calificacion": 4
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Desapalancamiento activo, recompras, dividendo modesto, reinversion en capacidad - asignacion de capital razonable y disciplinada.",
+          "notas": "Desapalancamiento activo, recompras, dividendo modesto, reinversión en capacidad - asignación de capital razonable y disciplinada.",
           "calificacion": 4
         }
       ],
@@ -156,12 +156,12 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM 55.26x, Forward P/E 34.28x, PEG 0.60 (aparenta razonable pero enganoso, mismo patron MU-SNDK-WDC-STX), EV/EBITDA 42.21x, P/FCF 78.71x, EV/FCF 78.19x - de los multiplos MAS ALTOS de todo el cluster de esta sesion, incluso por encima de STX.",
+          "notas": "P/E TTM 55.26x, Forward P/E 34.28x, PEG 0.60 (aparenta razonable pero enganoso, mismo patrón MU-SNDK-WDC-STX), EV/EBITDA 42.21x, P/FCF 78.71x, EV/FCF 78.19x - de los múltiplos MAS ALTOS de todo el cluster de esta sesión, incluso por encima de STX.",
           "calificacion": 1
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (adoptado, misma disciplina MU-SNDK-WDC-STX, WACC 13.35% -beta 1.79 no degenerado-, crecimiento con fade 15%->7% en 5 anios, FCF base TTM, terminal 4%): USD77.64/accion, MS -80.7%. Escenario B (muy agresivo, growth 40%->18%, no adoptado): USD150.54/accion, MS -62.6% - conclusion robusta, muy por debajo del piso -20% de vender.",
+          "notas": "Escenario A (adoptado, misma disciplina MU-SNDK-WDC-STX, WACC 13.35% -beta 1.79 no degenerado-, crecimiento con fade 15%->7% en 5 años, FCF base TTM, terminal 4%): USD77.64/acción, MS -80.7%. Escenario B (muy agresivo, growth 40%->18%, no adoptado): USD150.54/acción, MS -62.6% - conclusión robusta, muy por debajo del piso -20% de vender.",
           "calificacion": 1
         },
         {
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de equipos de testeo automatizado en expansion estructural fuerte (USD8.15bn a USD14.38bn proyectado 2026-2034) impulsado por la complejidad creciente de chips de IA; TAM combinado con robotica colaborativa tambien en expansion.",
+          "notas": "Mercado de equipos de testeo automatizado en expansión estructural fuerte (USD8.15bn a USD14.38bn proyectado 2026-2034) impulsado por la complejidad creciente de chips de IA; TAM combinado con robotica colaborativa también en expansión.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Altas - duopolio racional con Advantest, decadas de I+D en equipos de testeo de precision, relaciones profundas con fabricantes de semiconductores.",
+          "notas": "Altas - duopolio racional con Advantest, décadas de I+D en equipos de testeo de precisión, relaciones profundas con fabricantes de semiconductores.",
           "calificacion": 4
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad moderada-baja (duopolio de facto con Advantest, que domina el segmento GPU merchant mientras Teradyne domina clientes VIP); poder de negociacion del comprador alto (clientes grandes y concentrados de semiconductores); poder de proveedores moderado; amenaza de sustitutos baja; barreras de entrada altas.",
+          "notas": "Rivalidad moderada-baja (duopolio de facto con Advantest, que domina el segmento GPU merchant mientras Teradyne domina clientes VIP); poder de negociación del comprador alto (clientes grandes y concentrados de semiconductores); poder de proveedores moderado; amenaza de sustitutos baja; barreras de entrada altas.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Sector HISTORICAMENTE muy ciclico (bienes de capital para semiconductores, ligado al ciclo de capex de fabs y al ciclo de disenio de nuevos chips), mismo riesgo estructural ya documentado extensamente con MU-SNDK-WDC-STX.",
+          "notas": "Sector HISTÓRICAMENTE muy ciclico (bienes de capital para semiconductores, ligado al ciclo de capex de fabs y al ciclo de disenio de nuevos chips), mismo riesgo estructural ya documentado extensamente con MU-SNDK-WDC-STX.",
           "calificacion": 2
         }
       ],
@@ -203,17 +203,17 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo bajo-moderado, exposicion a controles de exportacion de tecnologia de semiconductores relacionados con China, no cuantificado en detalle en esta sesion.",
+          "notas": "Riesgo bajo-moderado, exposición a controles de exportación de tecnología de semiconductores relacionados con China, no cuantificado en detalle en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional significativa, riesgo cambiario tipico de una tecnologica global de este tamano.",
+          "notas": "Exposición internacional significativa, riesgo cambiario típico de una tecnologica global de este tamaño.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Concentracion de clientes potencialmente alta dado el enfoque en clientes 'VIP' (muy grandes, probablemente pocos proveedores de chips de IA de primer nivel) - no cuantificada con precision en esta sesion, pero el modelo de negocio sugiere un riesgo real de dependencia de pocos clientes grandes.",
+          "notas": "Concentración de clientes potencialmente alta dado el enfoque en clientes 'VIP' (muy grandes, probablemente pocos proveedores de chips de IA de primer nivel) - no cuantificada con precisión en esta sesión, pero el modelo de negocio sugiere un riesgo real de dependencia de pocos clientes grandes.",
           "calificacion": 2
         },
         {
@@ -223,7 +223,7 @@
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesión.",
           "calificacion": 4
         }
       ],
@@ -239,12 +239,12 @@
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Transacciones de insiders levemente negativas (Insider Trans -2.81%) - mucho menos pronunciado que STX, sin senal fuerte en ninguna direccion.",
+          "notas": "Transacciones de insiders levemente negativas (Insider Trans -2.81%) - mucho menos pronunciado que STX, sin señal fuerte en ninguna dirección.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso 'Buy' fuerte (recomendacion 1.70 Finviz), objetivo promedio USD455.92 (+13.2% de alza) - en direccion OPUESTA al DCF propio, mismo patron de divergencia ya visto en MU-SNDK-WDC-STX-ANET-HOOD-COIN, aunque la magnitud de la divergencia de precio objetivo es menor que en STX (+30.7%) o WDC (+49.3%).",
+          "notas": "Consenso 'Buy' fuerte (recomendación 1.70 Finviz), objetivo promedio USD455.92 (+13.2% de alza) - en dirección OPUESTA al DCF propio, mismo patrón de divergencia ya visto en MU-SNDK-WDC-STX-ANET-HOOD-COIN, aunque la magnitud de la divergencia de precio objetivo es menor que en STX (+30.7%) o WDC (+49.3%).",
           "calificacion": 2
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.324324324324324,
-    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoracion extremadamente exigente) - sexta confirmacion consecutiva del mismo patron ya establecido con MU-SNDK-WDC-ANET-STX: negocio de calidad razonable-buena (duopolio racional con Advantest en equipos de testeo de semiconductores, balance conservador con caja neta) en un supercycle genuino de demanda de testeo para IA (ingresos +87% interanual), pero precio que exige que la bonanza se sostenga indefinidamente. Margen de Seguridad -80.7%, robusto incluso en un Escenario B muy agresivo (-62.6%, no adoptado). Multiplos entre los mas exigentes de todo el cluster de esta sesion (P/FCF 78.71x, superando a STX). Consenso de analistas alcista en direccion opuesta al DCF - se prioriza el DCF bottom-up dado lo estirado de los multiplos reales.",
-    "tesis": "El duopolista de equipos de testeo de semiconductores (junto a Advantest), con ~70% de ingresos ya ligados a la demanda de testeo de chips de IA y una guia que supera ampliamente el consenso, esta genuinamente beneficiandose del supercycle de infraestructura de IA, pero cotiza a los multiplos de flujo de caja mas exigentes de todo el cluster de empresas ciclicas de esta sesion, ya incorporando anios de ejecucion perfecta."
+    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoración extremadamente exigente) - sexta confirmación consecutiva del mismo patrón ya establecido con MU-SNDK-WDC-ANET-STX: negocio de calidad razonable-buena (duopolio racional con Advantest en equipos de testeo de semiconductores, balance conservador con caja neta) en un supercycle genuino de demanda de testeo para IA (ingresos +87% interanual), pero precio que exige que la bonanza se sostenga indefinidamente. Margen de Seguridad -80.7%, robusto incluso en un Escenario B muy agresivo (-62.6%, no adoptado). Múltiplos entre los mas exigentes de todo el cluster de esta sesión (P/FCF 78.71x, superando a STX). Consenso de analistas alcista en dirección opuesta al DCF - se prioriza el DCF bottom-up dado lo estirado de los múltiplos reales.",
+    "tesis": "El duopolista de equipos de testeo de semiconductores (junto a Advantest), con ~70% de ingresos ya ligados a la demanda de testeo de chips de IA y una guia que supera ampliamente el consenso, esta genuinamente beneficiandose del supercycle de infraestructura de IA, pero cotiza a los múltiplos de flujo de caja mas exigentes de todo el cluster de empresas ciclicas de esta sesión, ya incorporando años de ejecución perfecta."
   }
 }

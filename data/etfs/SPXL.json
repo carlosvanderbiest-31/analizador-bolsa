@@ -1,36 +1,36 @@
 {
   "nombre": "Direxion Daily S&P 500 Bull 3X Shares",
   "ticker": "SPXL",
-  "categoria": "Equity Indice Amplio Apalancado/Inverso (+3x diario sobre el S&P 500 via estructura HIBRIDA acciones fisicas+swaps - DECIMOSEPTIMO apalancado/inverso del proyecto, SEGUNDO sobre el S&P 500 junto a SSO -+2x-, TERCER +3x tras UDOW -Dow30- y SQQQ -Nasdaq-100 inverso-, PRIMERA estructura hibrida fisica+swap de la categoria apalancada, PRIMER competidor directo cross-emisor -Direxion vs ProShares- del proyecto via UPRO)",
+  "categoria": "Equity Índice Amplio Apalancado/Inverso (+3x diario sobre el S&P 500 via estructura HIBRIDA acciones físicas+swaps - DECIMOSEPTIMO apalancado/inverso del proyecto, SEGUNDO sobre el S&P 500 junto a SSO -+2x-, TERCER +3x tras UDOW -Dow30- y SQQQ -Nasdaq-100 inverso-, PRIMERA estructura hibrida física+swap de la categoría apalancada, PRIMER competidor directo cross-emisor -Direxion vs ProShares- del proyecto via UPRO)",
   "emisor": "Direxion (Rafferty Asset Management)",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Estructura HIBRIDA: ~71.4% en acciones fisicas directas del S&P 500 (NVDA 5.28%, AAPL 4.68%, MSFT 3.77%...) + ~228.6% de exposicion nocional via Total Return Swaps sobre el S&P 500 (multiples tramos: 4.53%, 3.64%, 3.47%, 3.32% del NAV) = 300% objetivo. PRIMERA estructura hibrida fisica+swap de la categoria apalancada del proyecto (el resto -SSO/UDOW/SDOW/PSQ/QID/SH/SQQQ- es 100% sintetico via swaps/futuros). Contraparte CONFIRMADA Citibank N.A. via N-CSR SEC; lista completa de bancos NO totalmente revelada en el reporte simplificado post-2024 (a diferencia de los 8 bancos nombrados de SSO).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Estructura HIBRIDA: ~71.4% en acciones físicas directas del S&P 500 (NVDA 5.28%, AAPL 4.68%, MSFT 3.77%...) + ~228.6% de exposición nocional via Total Return Swaps sobre el S&P 500 (múltiples tramos: 4.53%, 3.64%, 3.47%, 3.32% del NAV) = 300% objetivo. PRIMERA estructura hibrida física+swap de la categoría apalancada del proyecto (el resto -SSO/UDOW/SDOW/PSQ/QID/SH/SQQQ- es 100% sintetico via swaps/futuros). Contraparte CONFIRMADA Citibank N.A. via N-CSR SEC; lista completa de bancos NO totalmente revelada en el reporte simplificado post-2024 (a diferencia de los 8 bancos nombrados de SSO).",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US (Direxion Shares ETF Trust, Delaware, registrado bajo la Investment Company Act de 1940). **EMITE FORMULARIO 1099, NO K-1** - PRIMERA divergencia fiscal de la categoria apalancada del proyecto (SSO/UDOW/SDOW/PSQ/QID/SH/SQQQ, todos ProShares, emiten K-1). Simplificacion fiscal real para el inversor individual.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US (Direxion Shares ETF Trust, Delaware, registrado bajo la Investment Company Act de 1940). **EMITE FORMULARIO 1099, NO K-1** - PRIMERA divergencia fiscal de la categoría apalancada del proyecto (SSO/UDOW/SDOW/PSQ/QID/SH/SQQQ, todos ProShares, emiten K-1). Simplificación fiscal real para el inversor individual.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $7.38bn (stockanalysis.com, ago-2026) a $6.08bn (N-CSR SEC, cierre fiscal oct-2025) segun fuente/fecha - SEGUNDO mas grande de la categoria apalancada del proyecto tras SSO ($8.31bn), muy por encima de UDOW ($944.80M).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $7.38bn (stockanalysis.com, ago-2026) a $6.08bn (N-CSR SEC, cierre fiscal oct-2025) según fuente/fecha - SEGUNDO mas grande de la categoría apalancada del proyecto tras SSO ($8.31bn), muy por encima de UDOW ($944.80M).",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 5-nov-2008 (~17.75 anios) - nace DENTRO de la Crisis Financiera 2008 (post-Lehman, antes del piso de mar-2009), a diferencia de SSO (jun-2006, cubre la crisis COMPLETA) y de UDOW/SDOW (feb-2010, POST-crisis). Cubre ademas el crash COVID mar-2020 (drawdown documentado, ver fila 41) y el mercado bajista 2022.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 5-nov-2008 (~17.75 años) - nace DENTRO de la Crisis Financiera 2008 (post-Lehman, antes del piso de mar-2009), a diferencia de SSO (jun-2006, cubre la crisis COMPLETA) y de UDOW/SDOW (feb-2010, POST-crisis). Cubre además el crash COVID mar-2020 (drawdown documentado, ver fila 41) y el mercado bajista 2022.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Direxion (Rafferty Asset Management) - uno de los DOS grandes especialistas en ETFs apalancados/inversos junto a ProShares, PRIMERA aparicion de este emisor en la categoria apalancada del proyecto (distinto de todo lo previo, 100% ProShares).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Direxion (Rafferty Asset Management) - uno de los DOS grandes especialistas en ETFs apalancados/inversos junto a ProShares, PRIMERA aparición de este emisor en la categoría apalancada del proyecto (distinto de todo lo previo, 100% ProShares).",
           "calificacion": 4
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.84% bruto / 0.81% neto (con exencion de Acquired Fund Fees) - MAS BARATO que el estandar 0.95% de ProShares y tambien mas barato que SSO (0.87-0.89%), el mas barato de toda la categoria apalancada del proyecto.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.84% bruto / 0.81% neto (con exención de Acquired Fund Fees) - MAS BARATO que el estándar 0.95% de ProShares y también mas barato que SSO (0.87-0.89%), el mas barato de toda la categoría apalancada del proyecto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "CAGR desde inception +27.90% (stockanalysis.com) vs +27.36% anualizado a 10 anios (N-CSR SEC) - **cifras inusualmente CONSISTENTES entre fuentes** (a diferencia de la mayoria de casos previos del proyecto con brechas grandes), refuerza confianza en el numero pese a no aislar el costo puro de decay de la direccion favorable del mercado.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "CAGR desde inception +27.90% (stockanalysis.com) vs +27.36% anualizado a 10 años (N-CSR SEC) - **cifras inusualmente CONSISTENTES entre fuentes** (a diferencia de la mayoría de casos previos del proyecto con brechas grandes), refuerza confianza en el número pese a no aislar el costo puro de decay de la dirección favorable del mercado.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending sobre el ~71.4% de la porcion fisica en acciones - revenue especifico no revelado en fuentes consultadas esta sesion.",
+          "notas": "Securities lending sobre el ~71.4% de la porción física en acciones - revenue específico no revelado en fuentes consultadas esta sesión.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion DIARIA de la porcion swap (228.6% nocional) + rebalanceo de la cesta fisica (71.4%) para mantener el objetivo 300% - misma mecanica de costo de reseteo diario del resto de la categoria.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación DIARIA de la porción swap (228.6% nocional) + rebalanceo de la cesta física (71.4%) para mantener el objetivo 300% - misma mecánica de costo de reseteo diario del resto de la categoría.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen 3 meses ~3.26M acciones/dia (~$965M/dia al precio actual $296.01, YCharts) - el mas alto en DOLARES de toda la categoria apalancada del proyecto (supera a SSO ~$110.4M/dia). Nota: el volumen de UN SOLO dia (284,768 acciones, stockanalysis.com) es notablemente mas bajo que el promedio de 3 meses - no usar como referencia aislada.",
+          "notas": "Volumen 3 meses ~3.26M acciones/dia (~$965M/dia al precio actual $296.01, YCharts) - el mas alto en DÓLARES de toda la categoría apalancada del proyecto (supera a SSO ~$110.4M/dia). Nota: el volumen de UN SOLO dia (284,768 acciones, stockanalysis.com) es notablemente mas bajo que el promedio de 3 meses - no usar como referencia aislada.",
           "calificacion": 5
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "523 posiciones referenciadas (cesta fisica S&P 500 + swaps) - base subyacente amplia, aunque el Top 10 reportado (50.83%) refleja principalmente notional de swaps/efectivo, no diversificacion real de riesgo unico.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "523 posiciones referenciadas (cesta física S&P 500 + swaps) - base subyacente amplia, aunque el Top 10 reportado (50.83%) refleja principalmente notional de swaps/efectivo, no diversificación real de riesgo único.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 50.83% del NAV, dominado por notional de swaps y gestion de caja/Treasuries, no por concentracion real en nombres individuales.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 50.83% del NAV, dominado por notional de swaps y gestion de caja/Treasuries, no por concentración real en nombres individuales.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Perfil sectorial que replica al S&P 500 amplio (mismo mix que SSO), amplificado 3x.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Perfil sectorial que réplica al S&P 500 amplio (mismo mix que SSO), amplificado 3x.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US (S&P 500).",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Metodologia +3x diario sobre un indice PONDERADO POR CAPITALIZACION DE MERCADO (igual que SSO, distinto del Dow price-weighted de UDOW) - representa fielmente la composicion del mercado accionario amplio de EEUU, distorsionado 3x por el apalancamiento.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Metodología +3x diario sobre un índice PONDERADO POR CAPITALIZASIÓN DE MERCADO (igual que SSO, distinto del Dow price-weighted de UDOW) - representa fielmente la composición del mercado accionario amplio de EEUU, distorsionado 3x por el apalancamiento.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P 500 - el benchmark de renta variable US mas seguido y representativo, metodologia transparente.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P 500 - el benchmark de renta variable US mas seguido y representativo, metodología transparente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo DIARIO para mantener el objetivo +3x - mismo apalancamiento maximo que UDOW (3x), mayor que SSO (2x); mayor riesgo mecanico de decay/gap en movimientos intradiarios extremos.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo DIARIO para mantener el objetivo +3x - mismo apalancamiento máximo que UDOW (3x), mayor que SSO (2x); mayor riesgo mecanico de decay/gap en movimientos intradiarios extremos.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.86
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = +57.44% (stockanalysis.com, ago-2026) o +43.75% (N-CSR SEC, cierre fiscal oct-2025) segun fecha de corte. CAGR desde inception +27.90% - **EL MEJOR CAGR nominal de cualquier instrumento apalancado/inverso sobre indice de acciones del proyecto** (supera a UDOW +26.91% y a SSO +15.93-20.1%), aunque la ventana de inception es distinta a ambos (ver fila 50, salvedad metodologica ya establecida con SQQQ/PSQ/QID).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = +57.44% (stockanalysis.com, ago-2026) o +43.75% (N-CSR SEC, cierre fiscal oct-2025) según fecha de corte. CAGR desde inception +27.90% - **EL MEJOR CAGR nominal de cualquier instrumento apalancado/inverso sobre índice de acciones del proyecto** (supera a UDOW +26.91% y a SSO +15.93-20.1%), aunque la ventana de inception es distinta a ambos (ver fila 50, salvedad metodologica ya establecida con SQQQ/PSQ/QID).",
           "calificacion": 5
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Rango 52 semanas $168.04-$300.96 (ratio 1.79x) - MAS volatil que SSO (1.49x) y que UDOW (1.72x), coherente con el apalancamiento maximo (3x) sobre un indice tan diversificado como el S&P 500.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Rango 52 semanas $168.04-$300.96 (ratio 1.79x) - MAS volatil que SSO (1.49x) y que UDOW (1.72x), coherente con el apalancamiento máximo (3x) sobre un índice tan diversificado como el S&P 500.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown historico **-76.86%**, minimo el 23-mar-2020 (crash COVID), 202 sesiones de trading para recuperarse (~9-10 meses) - vs -55.19% de SPY en el mismo periodo (PortfoliosLab). PRIMERA cifra de Max Drawdown VERIFICADA con fecha y tiempo de recuperacion exactos para un apalancado LARGO de indice de acciones del proyecto (SSO y UDOW no tenian cifra puntual verificada).",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown histórico **-76.86%**, mínimo el 23-mar-2020 (crash COVID), 202 sesiones de trading para recuperarse (~9-10 meses) - vs -55.19% de SPY en el mismo período (PortfoliosLab). PRIMERA cifra de Max Drawdown VERIFICADA con fecha y tiempo de recuperación exactos para un apalancado LARGO de índice de acciones del proyecto (SSO y UDOW no tenian cifra puntual verificada).",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio ~1.49-1.60 (1 anio, lecturas algo distintas entre fuentes, PortfoliosLab) - solido para un producto apalancado en un mercado alcista sostenido.",
+          "notas": "Sharpe Ratio ~1.49-1.60 (1 año, lecturas algo distintas entre fuentes, PortfoliosLab) - sólido para un producto apalancado en un mercado alcista sostenido.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = 3.03 vs S&P 500 (coherente, replica apalancada 3x del propio indice de referencia). Overlap con el mercado amplio de EEUU en su conjunto, no con posiciones individuales concentradas.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = 3.03 vs S&P 500 (coherente, réplica apalancada 3x del propio índice de referencia). Overlap con el mercado amplio de EEUU en su conjunto, no con posiciones individuales concentradas.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Crash COVID mar-2020: drawdown -76.86%, recuperacion en 202 sesiones. Sin cifra especifica verificada para el bear market 2022 esta sesion. En 2025-2026 el fondo opera cerca de maximos historicos (52-sem high $300.96 vs precio actual $296.01), sin evento de crisis reciente.",
+          "notas": "Crash COVID mar-2020: drawdown -76.86%, recuperación en 202 sesiones. Sin cifra específica verificada para el bear market 2022 esta sesión. En 2025-2026 el fondo opera cerca de máximos históricos (52-sem high $300.96 vs precio actual $296.01), sin evento de crisis reciente.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield 0.48% TTM ($1.43/accion), trimestral, payout ratio 13.07% - modesto pero presente (inusual en un producto apalancado, explicado por la porcion fisica del 71.4% en acciones que si generan dividendos reales).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield 0.48% TTM ($1.43/acción), trimestral, payout ratio 13.07% - modesto pero presente (inusual en un producto apalancado, explicado por la porción física del 71.4% en acciones que si generan dividendos reales).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "TRIANGULACION MAS RICA de la categoria apalancada del proyecto: (1) vs SSO (fila 95, mismo indice S&P 500, +2x) aisla el efecto APALANCAMIENTO PURO en el mismo benchmark - aunque con la MISMA salvedad metodologica ya establecida con SQQQ/PSQ/QID: ventanas de inception DISTINTAS (SSO jun-2006 vs SPXL nov-2008), no es una comparacion perfectamente limpia; (2) vs UDOW (fila 93, mismo +3x, distinto indice Dow30) aisla el efecto INDICE puro al mismo nivel de apalancamiento, tambien con ventanas distintas (UDOW feb-2010); (3) UPRO (ProShares, +3x S&P 500) seria el PRIMER competidor cross-emisor EXACTO del proyecto -mismo indice, mismo apalancamiento, distinto emisor y estructura- no analizado en el workbook; (4) SPXS (Direxion, -3x S&P 500) es el espejo directo del propio emisor, no analizado. | ACTUALIZACION posterior (VOO, fila 102): Vanguard S&P 500 ETF, el BASELINE 1x del mismo indice, ahora analizado en el workbook - completa la escalera 1x/2x/3x junto a SSO. Max Drawdown VOO -33.99% (COVID) vs -76.86% de SPXL en el mismo crash confirma la amplificacion casi exacta esperada por el apalancamiento 3x en un evento de cola. Ver Ficha VOO fila 102 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "TRIANGULASIÓN MAS RICA de la categoría apalancada del proyecto: (1) vs SSO (fila 95, mismo índice S&P 500, +2x) aisla el efecto APALANCAMIENTO PURO en el mismo benchmark - aunque con la MISMA salvedad metodologica ya establecida con SQQQ/PSQ/QID: ventanas de inception DISTINTAS (SSO jun-2006 vs SPXL nov-2008), no es una comparación perfectamente limpia; (2) vs UDOW (fila 93, mismo +3x, distinto índice Dow30) aisla el efecto ÍNDICE puro al mismo nivel de apalancamiento, también con ventanas distintas (UDOW feb-2010); (3) UPRO (ProShares, +3x S&P 500) seria el PRIMER competidor cross-emisor EXACTO del proyecto -mismo índice, mismo apalancamiento, distinto emisor y estructura- no analizado en el workbook; (4) SPXS (Direxion, -3x S&P 500) es el espejo directo del propio emisor, no analizado. | ACTUALIZASIÓN posterior (VOO, fila 102): Vanguard S&P 500 ETF, el BASELINE 1x del mismo índice, ahora analizado en el workbook - completa la escalera 1x/2x/3x junto a SSO. Max Drawdown VOO -33.99% (COVID) vs -76.86% de SPXL en el mismo crash confirma la amplificación casi exacta esperada por el apalancamiento 3x en un evento de cola. Ver Ficha VOO fila 102 para el detalle completo.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO - misma politica categorica que el resto de la linea apalancada del proyecto, PESE al Score mas alto de la categoria.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: TÁCTICO/ESPECULATIVO DE MUY CORTO PLAZO - misma política categorica que el resto de la línea apalancada del proyecto, PESE al Score mas alto de la categoría.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: el resultado (CAGR +27.90% desde inception) refleja haber estado LARGO con el maximo apalancamiento (3x) durante un mercado alcista de acciones EEUU sostenido, incluyendo la recuperacion post-2008 - no es evidencia de que el mecanismo de reseteo diario sea seguro para mantener a largo plazo.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: el resultado (CAGR +27.90% desde inception) refleja haber estado LARGO con el máximo apalancamiento (3x) durante un mercado alcista de acciones EEUU sostenido, incluyendo la recuperación post-2008 - no es evidencia de que el mecanismo de reseteo diario sea seguro para mantener a largo plazo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo de contraparte de swaps parcial (228.6% nocional, banco confirmado Citibank, lista completa no revelada); (2) apalancamiento 3x MAXIMO del proyecto junto a UDOW, con decay real y drawdown documentado -76.86% en crisis; (3) capacidad de perdida extrema en shocks rapidos (gap risk); (4) resultado historico, aunque el mejor CAGR nominal de la subcategoria, depende enteramente de la direccion del mercado.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de contraparte de swaps parcial (228.6% nocional, banco confirmado Citibank, lista completa no revelada); (2) apalancamiento 3x MÁXIMO del proyecto junto a UDOW, con decay real y drawdown documentado -76.86% en crisis; (3) capacidad de pérdida extrema en shocks rápidos (gap risk); (4) resultado histórico, aunque el mejor CAGR nominal de la subcategoria, depende enteramente de la dirección del mercado.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "SPXS (mismo emisor Direxion, -3x, espejo directo, no analizado), UPRO (ProShares, +3x S&P 500, PRIMER competidor cross-emisor exacto del proyecto, no analizado), SSO (fila 95, mismo indice, +2x) y UDOW (fila 93, mismo +3x, distinto indice) son las alternativas/comparables mas relevantes.",
+          "notas": "SPXS (mismo emisor Direxion, -3x, espejo directo, no analizado), UPRO (ProShares, +3x S&P 500, PRIMER competidor cross-emisor exacto del proyecto, no analizado), SSO (fila 95, mismo índice, +2x) y UDOW (fila 93, mismo +3x, distinto índice) son las alternativas/comparables mas relevantes.",
           "calificacion": 4
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "SEGUNDO instrumento apalancado del proyecto en cruzar el umbral de 3.0, y el de MAYOR SCORE de toda la categoria apalancada/inversa hasta ahora (~3.16/5, supera a SSO 3.07/5). Direxion Daily S&P 500 Bull 3X Shares, +3x diario sobre el S&P 500 via estructura HIBRIDA (71.4% acciones fisicas + 228.6% nocional de swaps, PRIMERA hibrida de la categoria) - reduce parcialmente la concentracion de riesgo de contraparte pura de swaps/futuros del resto de la linea (SSO/UDOW/SDOW/PSQ/QID/SH/SQQQ, 100% ProShares sintetico). PRIMERA divergencia fiscal de la categoria: emite 1099 en vez de K-1. TER 0.84% bruto/0.81% neto, el MAS BARATO de la categoria apalancada. AUM $7.38bn (o $6.08bn segun fuente/fecha), SEGUNDO mas grande tras SSO. Volumen en dolares ~$965M/dia (promedio 3 meses), el MAS LIQUIDO de la categoria. CAGR desde inception +27.90% (o +43.75-57.44% a 1 anio segun fuente) - el MEJOR CAGR nominal de cualquier apalancado de indice de acciones del proyecto, aunque con la MISMA salvedad de ventanas de inception distintas ya documentada con SQQQ/PSQ/QID (SSO nace jun-2006, UDOW feb-2010, SPXL nov-2008 -dentro de la Crisis 2008, sin cubrirla completa-). Max Drawdown VERIFICADO -76.86% en el crash COVID mar-2020 (202 sesiones para recuperarse) - primera cifra puntual confiable de esta metrica para un apalancado largo de indice de acciones del proyecto. Pese al mejor perfil estructural combinado de la categoria, el mecanismo de fondo NO cambia: rebalanceo diario +3x (el apalancamiento maximo del proyecto junto a UDOW), decay real, y un resultado que depende enteramente de la direccion del mercado. Rol en Portafolio: Tactico/Especulativo, NUNCA Core ni Satelite. SPXS (mismo emisor, -3x, espejo directo) y UPRO (ProShares, +3x mismo indice, PRIMER competidor cross-emisor exacto del proyecto) no analizados en el workbook."
+    "tesis": "SEGUNDO instrumento apalancado del proyecto en cruzar el umbral de 3.0, y el de MAYOR SCORE de toda la categoría apalancada/inversa hasta ahora (~3.16/5, supera a SSO 3.07/5). Direxion Daily S&P 500 Bull 3X Shares, +3x diario sobre el S&P 500 via estructura HIBRIDA (71.4% acciones físicas + 228.6% nocional de swaps, PRIMERA hibrida de la categoría) - reduce parcialmente la concentración de riesgo de contraparte pura de swaps/futuros del resto de la línea (SSO/UDOW/SDOW/PSQ/QID/SH/SQQQ, 100% ProShares sintetico). PRIMERA divergencia fiscal de la categoría: emite 1099 en vez de K-1. TER 0.84% bruto/0.81% neto, el MAS BARATO de la categoría apalancada. AUM $7.38bn (o $6.08bn según fuente/fecha), SEGUNDO mas grande tras SSO. Volumen en dólares ~$965M/dia (promedio 3 meses), el MAS LIQUIDO de la categoría. CAGR desde inception +27.90% (o +43.75-57.44% a 1 año según fuente) - el MEJOR CAGR nominal de cualquier apalancado de índice de acciones del proyecto, aunque con la MISMA salvedad de ventanas de inception distintas ya documentada con SQQQ/PSQ/QID (SSO nace jun-2006, UDOW feb-2010, SPXL nov-2008 -dentro de la Crisis 2008, sin cubrirla completa-). Max Drawdown VERIFICADO -76.86% en el crash COVID mar-2020 (202 sesiones para recuperarse) - primera cifra puntual confiable de esta métrica para un apalancado largo de índice de acciones del proyecto. Pese al mejor perfil estructural combinado de la categoría, el mecanismo de fondo NO cambia: rebalanceo diario +3x (el apalancamiento máximo del proyecto junto a UDOW), decay real, y un resultado que depende enteramente de la dirección del mercado. Rol en Portafolio: Táctico/Especulativo, NUNCA Core ni Satélite. SPXS (mismo emisor, -3x, espejo directo) y UPRO (ProShares, +3x mismo índice, PRIMER competidor cross-emisor exacto del proyecto) no analizados en el workbook."
   }
 }

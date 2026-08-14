@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Licenciamiento de arquitectura de procesadores (ISA) mas regalias por cada chip fabricado bajo esa arquitectura, con expansion reciente hacia venta de chiplets-CPUs propios (Neoverse CSS, nuevo AGI CPU de 136 nucleos). Ingresos TTM 5.16bn USD: regalias creciendo 21-22% de forma consistente trimestre a trimestre, licenciamiento mas volatil (+23% a +56% segun el trimestre, depende del timing de contratos grandes).",
+          "notas": "Licenciamiento de arquitectura de procesadores (ISA) mas regalias por cada chip fabricado bajo esa arquitectura, con expansión reciente hacia venta de chiplets-CPUs propios (Neoverse CSS, nuevo AGI CPU de 136 nucleos). Ingresos TTM 5.16bn USD: regalias creciendo 21-22% de forma consistente trimestre a trimestre, licenciamiento mas volatil (+23% a +56% según el trimestre, depende del timing de contratos grandes).",
           "calificacion": 5
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Uno de los moats mas fuertes del Dashboard: arquitectura ISA dominante en moviles-IoT durante decadas, ecosistema completo de software-herramientas-desarrolladores construido alrededor de ARM, costos de cambio extremadamente altos para los fabricantes de chips que migran su base de codigo y toolchain.",
+          "notas": "Uno de los moats mas fuertes del Dashboard: arquitectura ISA dominante en moviles-IoT durante décadas, ecosistema completo de software-herramientas-desarrolladores construido alrededor de ARM, costos de cambio extremadamente altos para los fabricantes de chips que migran su base de codigo y toolchain.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Dominante historicamente en moviles (practicamente arquitectura estandar de facto), ganando terreno rapido en centros de datos: los ingresos de regalias de Neoverse en centros de datos MAS QUE SE DUPLICARON interanual en el trimestre mas reciente, impulsados por la adopcion acelerada de nucleos Neoverse por hiperescaladores.",
+          "notas": "Dominante históricamente en moviles (prácticamente arquitectura estándar de facto), ganando terreno rápido en centros de datos: los ingresos de regalias de Neoverse en centros de datos MAS QUE SE DUPLICARON interanual en el trimestre mas reciente, impulsados por la adopción acelerada de nucleos Neoverse por hiperescaladores.",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Historicamente alto, pero bajo presion REAL creciente de RISC-V (arquitectura abierta sin regalias) - ver el riesgo tecnologico detallado en la fila 52. El poder de fijacion de precios de ARM ya no es indiscutido como en la decada anterior.",
+          "notas": "Históricamente alto, pero bajo presión REAL creciente de RISC-V (arquitectura abierta sin regalias) - ver el riesgo tecnologico detallado en la fila 52. El poder de fijación de precios de ARM ya no es indiscutido como en la década anterior.",
           "calificacion": 3
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Pivote estrategico reciente y audaz hacia silicon propio (AGI CPU de 136 nucleos, demanda ya superando 2bn USD vs meta inicial de 1bn USD) - decision de asignacion de capital ambiciosa pero con riesgo real de conflicto de interes con licenciatarios historicos (ver fila 52). Sin dividendo; recompras no destacadas con claridad en las fuentes consultadas.",
+          "notas": "Pivote estratégico reciente y audaz hacia silicon propio (AGI CPU de 136 nucleos, demanda ya superando 2bn USD vs meta inicial de 1bn USD) - decisión de asignación de capital ambiciosa pero con riesgo real de conflicto de interés con licenciatarios históricos (ver fila 52). Sin dividendo; recompras no destacadas con claridad en las fuentes consultadas.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "No se investigo con precision el detalle de compensacion e incentivos del CEO Rene Haas esta sesion.",
+          "notas": "No se investigo con precisión el detalle de compensación e incentivos del CEO Rene Haas esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "GOBERNANZA MAS CONCENTRADA DE TODO EL DASHBOARD: SoftBank Group posee aprox 86.4% de las acciones (922.73M de aprox 1070M totales), dejando un float publico de solo aprox 13.6% - los accionistas publicos tienen influencia practicamente nula sobre decisiones corporativas, superando incluso la concentracion ya documentada en WYFI (Bit Digital, 70.7%) o SPCX (control de voto de Musk). Historial de disputa de gobernanza en la joint venture Arm China (2020-2022): el entonces CEO Allen Wu se nego a ceder el control pese a ser destituido por conflictos de interes no revelados, resuelto eventualmente con el nombramiento de nuevos co-CEOs - precedente de riesgo de gobernanza real en la organizacion, aunque ya resuelto hace varios años.",
+          "notas": "GOBERNANZA MAS CONCENTRADA DE TODO EL DASHBOARD: SoftBank Group posee aprox 86.4% de las acciones (922.73M de aprox 1070M totales), dejando un float público de solo aprox 13.6% - los accionistas públicos tienen influencia prácticamente nula sobre decisiones corporativas, superando incluso la concentración ya documentada en WYFI (Bit Digital, 70.7%) o SPCX (control de voto de Musk). Historial de disputa de gobernanza en la joint venture Arm China (2020-2022): el entonces CEO Allen Wu se nego a ceder el control pese a ser destituido por conflictos de interés no revelados, resuelto eventualmente con el nombramiento de nuevos co-CEOs - precedente de riesgo de gobernanza real en la organización, aunque ya resuelto hace varios años.",
           "calificacion": 1
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion trimestral activa con guidance detallado, pero con una brecha GAAP-no GAAP MUY grande: compensacion en acciones (SBC) de 343M USD en un solo trimestre (1T FY2027), aprox 32% de los costos de I+D GAAP - complica significativamente la lectura de la rentabilidad real bajo normas contables estandar.",
+          "notas": "Comunicación trimestral activa con guidance detallado, pero con una brecha GAAP-no GAAP MUY grande: compensación en acciones (SBC) de 343M USD en un solo trimestre (1T FY2027), aprox 32% de los costos de I+D GAAP - complica significativamente la lectura de la rentabilidad real bajo normas contables estándar.",
           "calificacion": 3
         }
       ],
@@ -62,7 +62,7 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Caja neta fuerte: aprox 2.594bn USD (caja 3.058bn USD, deuda apenas 464M USD) - balance muy solido, tipico de una empresa de licenciamiento de IP de margenes altos.",
+          "notas": "Caja neta fuerte: aprox 2.594bn USD (caja 3.058bn USD, deuda apenas 464M USD) - balance muy sólido, típico de una empresa de licenciamiento de IP de márgenes altos.",
           "calificacion": 5
         },
         {
@@ -77,7 +77,7 @@
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Negocio de IP historicamente de activos livianos, aunque el pivote reciente a silicon propio (AGI CPU) esta introduciendo activos de capital mas intensivos - capex TTM subio a 588M USD, notablemente mas alto que el perfil tradicional de licenciamiento puro.",
+          "notas": "Negocio de IP históricamente de activos livianos, aunque el pivote reciente a silicon propio (AGI CPU) esta introduciendo activos de capital mas intensivos - capex TTM subio a 588M USD, notablemente mas alto que el perfil tradicional de licenciamiento puro.",
           "calificacion": 4
         }
       ],
@@ -88,12 +88,12 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen neto TTM aprox 20.1% GAAP (distorsionado a la baja por la compensacion en acciones pesada); margen operativo no-GAAP del 41.1% en el trimestre mas reciente - fuertes en terminos ajustados, tipicos de un negocio de licenciamiento de IP de alto margen.",
+          "notas": "Margen neto TTM aprox 20.1% GAAP (distorsionado a la baja por la compensación en acciones pesada); margen operativo no-GAAP del 41.1% en el trimestre mas reciente - fuertes en términos ajustados, típicos de un negocio de licenciamiento de IP de alto margen.",
           "calificacion": 4
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "No calculado con precision numerica esta sesion (dificultado por la brecha GAAP-no GAAP tan amplia), pero cualitativamente el negocio genera retornos altos dado el margen operativo ajustado y la caja neta disponible.",
+          "notas": "No calculado con precisión numerica esta sesión (dificultado por la brecha GAAP-no GAAP tan amplia), pero cualitativamente el negocio genera retornos altos dado el margen operativo ajustado y la caja neta disponible.",
           "calificacion": 3
         },
         {
@@ -109,7 +109,7 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Fuerte y consistente: ingresos de regalias creciendo 21-22% de forma sostenida trimestre tras trimestre (impulsados por volumen de chips fabricados bajo licencia ARM), ingresos de licenciamiento mas volatiles pero con tendencia fuerte (+23% a +56% segun el timing de contratos grandes firmados).",
+          "notas": "Fuerte y consistente: ingresos de regalias creciendo 21-22% de forma sostenida trimestre tras trimestre (impulsados por volumen de chips fabricados bajo licencia ARM), ingresos de licenciamiento mas volatiles pero con tendencia fuerte (+23% a +56% según el timing de contratos grandes firmados).",
           "calificacion": 5
         },
         {
@@ -119,7 +119,7 @@
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Multiples y solidas: adopcion acelerada de Neoverse en centros de datos (regalias mas que duplicadas interanual), demanda del nuevo AGI CPU ya superando 2bn USD (vs meta inicial de 1bn USD), expansion continua en automotriz-IoT, tendencia estructural de mayor complejidad de chips de IA que favorece licencias de mayor valor.",
+          "notas": "Múltiples y sólidas: adopción acelerada de Neoverse en centros de datos (regalias mas que duplicadas interanual), demanda del nuevo AGI CPU ya superando 2bn USD (vs meta inicial de 1bn USD), expansión continua en automotriz-IoT, tendencia estructural de mayor complejidad de chips de IA que favorece licencias de mayor valor.",
           "calificacion": 5
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 2.094bn USD, con una brecha grande frente a la utilidad neta GAAP explicada en gran parte por la compensacion en acciones no-cash (343M USD en un solo trimestre) - la caja generada es real y solida, pero la utilidad neta GAAP hay que interpretarla con cautela dada la magnitud del SBC.",
+          "notas": "OCF TTM 2.094bn USD, con una brecha grande frente a la utilidad neta GAAP explicada en gran parte por la compensación en acciones no-cash (343M USD en un solo trimestre) - la caja generada es real y sólida, pero la utilidad neta GAAP hay que interpretarla con cautela dada la magnitud del SBC.",
           "calificacion": 3
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 1.506bn USD, en fuerte mejora vs el año fiscal completo anterior (979M USD, FY2026 cerrado mar-2026) - conversion solida, aunque el capex esta subiendo de forma notable por el pivote estrategico hacia silicon propio.",
+          "notas": "FCF TTM 1.506bn USD, en fuerte mejora vs el año fiscal completo anterior (979M USD, FY2026 cerrado mar-2026) - conversión sólida, aunque el capex esta subiendo de forma notable por el pivote estratégico hacia silicon propio.",
           "calificacion": 4
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM 588M USD, en aumento significativo respecto al perfil historico de licenciamiento puro, mayormente de CRECIMIENTO (desarrollo del AGI CPU propio y otros proyectos de silicon) - \"Arm profundiza en silicon fisico\" segun la prensa especializada, un cambio real de perfil de capital.",
+          "notas": "Capex TTM 588M USD, en aumento significativo respecto al perfil histórico de licenciamiento puro, mayormente de CRECIMIENTO (desarrollo del AGI CPU propio y otros proyectos de silicon) - \"Arm profundiza en silicon fisico\" según la prensa especializada, un cambio real de perfil de capital.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Pivote estrategico reciente y audaz hacia silicon propio - sin dividendo ni recompras destacadas con claridad en las fuentes consultadas esta sesion; la empresa esta reinvirtiendo agresivamente en el nuevo negocio de chips propios.",
+          "notas": "Pivote estratégico reciente y audaz hacia silicon propio - sin dividendo ni recompras destacadas con claridad en las fuentes consultadas esta sesión; la empresa esta reinvirtiendo agresivamente en el nuevo negocio de chips propios.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "EXTREMOS, entre los mas altos de todo el Dashboard: P/E GAAP TTM 288.43x (distorsionado por la SBC pesada, pero incluso ajustado por metricas no-GAAP el multiplo sigue siendo muy alto), P/FCF implicito aprox 192x (capitalizacion 289.18bn USD sobre FCF TTM 1.506bn USD) - superior incluso al ya extremo 55.75x de CDNS en esta misma sesion.",
+          "notas": "EXTREMOS, entre los mas altos de todo el Dashboard: P/E GAAP TTM 288.43x (distorsionado por la SBC pesada, pero incluso ajustado por métricas no-GAAP el múltiplo sigue siendo muy alto), P/FCF implícito aprox 192x (capitalización 289.18bn USD sobre FCF TTM 1.506bn USD) - superior incluso al ya extremo 55.75x de CDNS en esta misma sesión.",
           "calificacion": 1
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio (Escenario A adoptado): FCF base TTM 1.506bn USD. WACC 25.0% (CAPM: Beta 3.91 -literal, el mas alto documentado en el Dashboard, probablemente amplificado por el float publico muy reducido dado que SoftBank posee aprox 86.4% de las acciones-, Rf 3.5%, ERP 5.5%; WACC practicamente igual al costo de equity dado el nivel minimo de deuda). Crecimiento fade 22%-9% en 5 años (anclado al crecimiento reciente de regalias +21-22% consistente); terminal 4%. Resultado: Valor Intrinseco 12.91 USD por accion, MS -95.2%. **Sensibilidad con beta sustituto mas moderado** (2.3, anclado a comparables de semiconductores de alta volatilidad ya en el Dashboard como MRVL-INTC, cuestionando si el beta literal esta inflado por el float reducido): WACC 16.15%, IV 21.20 USD, MS -92.2% - la conclusion de sobrevaloracion severa es ROBUSTA al tratamiento del beta. Sensibilidad adicional con crecimiento MUY generoso (fade 30%-10%, mas agresivo que la guia actual) y beta sustituto: IV 24.89 USD, MS -90.8% - sigue profundamente negativo. Ningun escenario razonable justifica el precio actual.",
+          "notas": "DCF propio (Escenario A adoptado): FCF base TTM 1.506bn USD. WACC 25.0% (CAPM: Beta 3.91 -literal, el mas alto documentado en el Dashboard, probablemente amplificado por el float público muy reducido dado que SoftBank posee aprox 86.4% de las acciones-, Rf 3.5%, ERP 5.5%; WACC prácticamente igual al costo de equity dado el nivel mínimo de deuda). Crecimiento fade 22%-9% en 5 años (anclado al crecimiento reciente de regalias +21-22% consistente); terminal 4%. Resultado: Valor Intrínseco 12.91 USD por acción, MS -95.2%. **Sensibilidad con beta sustituto mas moderado** (2.3, anclado a comparables de semiconductores de alta volatilidad ya en el Dashboard como MRVL-INTC, cuestionando si el beta literal esta inflado por el float reducido): WACC 16.15%, IV 21.20 USD, MS -92.2% - la conclusión de sobrevaloración severa es ROBUSTA al tratamiento del beta. Sensibilidad adicional con crecimiento MUY generoso (fade 30%-10%, mas agresivo que la guia actual) y beta sustituto: IV 24.89 USD, MS -90.8% - sigue profundamente negativo. Ningún escenario razonable justifica el precio actual.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad: -95.2% (precio actual 270.75 USD vs. valor intrinseco 12.91 USD) - de las lecturas mas negativas de todo el Dashboard, robusta a multiples sensibilidades (beta sustituto mas moderado: -92.2%; crecimiento muy generoso: -90.8%). El mercado esta pagando un precio que solo se explica si se asigna una probabilidad significativa a que ARM se convierta en mucho mas que una empresa de licenciamiento de IP (el pivote a silicon propio, AGI CPU, con demanda ya superando 2bn USD) - opcionalidad real pero que un DCF estandar de 5 años no puede capturar sin especular.",
+          "notas": "Margen de Seguridad: -95.2% (precio actual 270.75 USD vs. valor intrínseco 12.91 USD) - de las lecturas mas negativas de todo el Dashboard, robusta a múltiples sensibilidades (beta sustituto mas moderado: -92.2%; crecimiento muy generoso: -90.8%). El mercado esta pagando un precio que solo se explica si se asigna una probabilidad significativa a que ARM se convierta en mucho mas que una empresa de licenciamiento de IP (el pivote a silicon propio, AGI CPU, con demanda ya superando 2bn USD) - opcionalidad real pero que un DCF estándar de 5 años no puede capturar sin especular.",
           "calificacion": 1
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de arquitecturas de procesadores en expansion fuerte impulsado por IA (centros de datos, edge computing), con Arm ganando cuota en un mercado historicamente dominado por x86 en servidores via Neoverse.",
+          "notas": "Mercado de arquitecturas de procesadores en expansión fuerte impulsado por IA (centros de datos, edge computing), con Arm ganando cuota en un mercado históricamente dominado por x86 en servidores via Neoverse.",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas para replicar el ecosistema completo de software-herramientas-desarrolladores-licenciatarios construido durante decadas, PERO con una salvedad importante: RISC-V representa una alternativa de codigo ABIERTO genuina y en crecimiento rapido que reduce esta barrera relativa a la mayoria de los otros modelos de negocio de IP propietaria ya analizados en el Dashboard (ver fila 52).",
+          "notas": "Muy altas para replicar el ecosistema completo de software-herramientas-desarrolladores-licenciatarios construido durante décadas, PERO con una salvedad importante: RISC-V representa una alternativa de codigo ABIERTO genuina y en crecimiento rápido que reduce esta barrera relativa a la mayoría de los otros modelos de negocio de IP propietaria ya analizados en el Dashboard (ver fila 52).",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad CRECIENTE y real de RISC-V (25% de cuota de mercado global de procesadores para ene-2026, creciendo mas de 30% CAGR) ademas de x86 (Intel-AMD, ya en el Dashboard) en servidores. Poder de negociacion de clientes en aumento: hiperescaladores diversificando arquitecturas de silicio, Qualcomm (uno de los licenciatarios historicos mas grandes de ARM) compro Ventana (desarrollador de nucleos RISC-V) por 2.4bn USD como cobertura explicita. Amenaza de sustitutos alta y creciendo (RISC-V es gratuito, sin regalias). Nuevos entrantes: barrera alta pero RISC-V reduce esa barrera al ser open-source.",
+          "notas": "Rivalidad CRECIENTE y real de RISC-V (25% de cuota de mercado global de procesadores para ene-2026, creciendo mas de 30% CAGR) además de x86 (Intel-AMD, ya en el Dashboard) en servidores. Poder de negociación de clientes en aumento: hiperescaladores diversificando arquitecturas de silicio, Qualcomm (uno de los licenciatarios históricos mas grandes de ARM) compro Ventana (desarrollador de nucleos RISC-V) por 2.4bn USD como cobertura explicita. Amenaza de sustitutos alta y creciendo (RISC-V es gratuito, sin regalias). Nuevos entrantes: barrera alta pero RISC-V reduce esa barrera al ser open-source.",
           "calificacion": 2
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Moderada: ligada al ciclo general de la industria de semiconductores, aunque el modelo de regalias por unidad fabricada da cierta correlacion con VOLUMENES de produccion de chips (mas estable) en vez de con precios de commodities (mas volatil como MPC-DINO en esta misma sesion).",
+          "notas": "Moderada: ligada al ciclo general de la industria de semiconductores, aunque el modelo de regalias por unidad fabricada da cierta correlación con VOLUMENES de producción de chips (mas estable) en vez de con precios de commodities (mas volatil como MPC-DINO en esta misma sesión).",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Moderado: exposicion a controles de exportacion de tecnologia de semiconductores dado el rol central de ARM en el diseño de chips global, aunque menos directamente expuesto a China que AMAT-CDNS-ASML (modelo de licenciamiento de IP, no venta de equipos fisicos que requieran licencia de exportacion tradicional).",
+          "notas": "Moderado: exposición a controles de exportación de tecnología de semiconductores dado el rol central de ARM en el diseño de chips global, aunque menos directamente expuesto a China que AMAT-CDNS-ASML (modelo de licenciamiento de IP, no venta de equipos fisicos que requieran licencia de exportación tradicional).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Moderado-alto: empresa con sede legal en Reino Unido (aunque cotiza en Nasdaq via ADR) con ingresos y gastos en multiples monedas.",
+          "notas": "Moderado-alto: empresa con sede legal en Reino Unido (aunque cotiza en Nasdaq via ADR) con ingresos y gastos en múltiples monedas.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Relevante: dependencia de un numero relativamente pequeño de fabricantes de chips grandes (historicamente Apple, Qualcomm, Nvidia, Samsung, MediaTek entre los licenciatarios mas grandes) para la mayoria de los ingresos por regalias - concentracion real, aunque diversificada entre varios clientes grandes en vez de un unico cliente dominante.",
+          "notas": "Relevante: dependencia de un número relativamente pequeño de fabricantes de chips grandes (históricamente Apple, Qualcomm, Nvidia, Samsung, MediaTek entre los licenciatarios mas grandes) para la mayoría de los ingresos por regalias - concentración real, aunque diversificada entre varios clientes grandes en vez de un único cliente dominante.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "EL MAS ALTO Y MEJOR DOCUMENTADO DE TODO EL DASHBOARD EN SU TIPO, doble amenaza: (1) RISC-V (arquitectura abierta, sin regalias) ya tiene aprox 25% de cuota global de procesadores (ene-2026) y crece mas de 30% CAGR; Qualcomm -uno de los licenciatarios historicos mas grandes de ARM- compro Ventana (desarrollador de nucleos RISC-V) por 2.4bn USD como cobertura EXPLICITA contra la dependencia de ARM; varios hiperescaladores estan diversificando sus estrategias de silicio para reducir esa misma dependencia. (2) El propio pivote de ARM hacia vender silicon PROPIO (AGI CPU) genera un CONFLICTO DE INTERES real con sus licenciatarios historicos - Nvidia, Qualcomm y AWS podrian empezar a ver a ARM como un competidor directo en vez de solo un proveedor de IP, lo cual podria acelerar su propia migracion hacia RISC-V u otras alternativas.",
+          "notas": "EL MAS ALTO Y MEJOR DOCUMENTADO DE TODO EL DASHBOARD EN SU TIPO, doble amenaza: (1) RISC-V (arquitectura abierta, sin regalias) ya tiene aprox 25% de cuota global de procesadores (ene-2026) y crece mas de 30% CAGR; Qualcomm -uno de los licenciatarios históricos mas grandes de ARM- compro Ventana (desarrollador de nucleos RISC-V) por 2.4bn USD como cobertura EXPLICITA contra la dependencia de ARM; varios hiperescaladores estan diversificando sus estrategias de silicio para reducir esa misma dependencia. (2) El propio pivote de ARM hacia vender silicon PROPIO (AGI CPU) genera un CONFLICTO DE INTERÉS real con sus licenciatarios históricos - Nvidia, Qualcomm y AWS podrían empezar a ver a ARM como un competidor directo en vez de solo un proveedor de IP, lo cual podría acelerar su propia migración hacia RISC-V u otras alternativas.",
           "calificacion": 1
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Bajo en terminos ambientales (negocio de IP, activos livianos); el riesgo de gobernanza ya se capturo con detalle en la fila 19 (concentracion extrema de SoftBank, aprox 86.4% de las acciones).",
+          "notas": "Bajo en términos ambientales (negocio de IP, activos livianos); el riesgo de gobernanza ya se capturo con detalle en la fila 19 (concentración extrema de SoftBank, aprox 86.4% de las acciones).",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Guidance del 2T FY2027 ya entregado (ingresos 1.38bn USD +/-50M); evolucion de la adopcion de RISC-V por hiperescaladores y otros clientes grandes; progreso del AGI CPU propio y reaccion de los licenciatarios historicos ante la competencia directa de Arm en silicon.",
+          "notas": "Guidance del 2T FY2027 ya entregado (ingresos 1.38bn USD +/-50M); evolución de la adopción de RISC-V por hiperescaladores y otros clientes grandes; progreso del AGI CPU propio y reacción de los licenciatarios históricos ante la competencia directa de Arm en silicon.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "No se investigo con precision mas alla de la posicion dominante de SoftBank (ver fila 19) esta sesion.",
+          "notas": "No se investigo con precisión mas alla de la posición dominante de SoftBank (ver fila 19) esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "40 analistas, calificacion \"Compra\", pero con objetivo promedio de apenas 286.79 USD (+5.92% sobre el precio actual) - notablemente MAS MODESTO que el optimismo tipico de una calificacion \"Compra\" en este Dashboard, y muy lejos de validar la valoracion actual via un DCF disciplinado (-95.2%). Incluso Wall Street parece reconocer que el precio actual deja poco margen adicional de alza. Accion muy volatil: cayo 34% en julio-2026 tras resultados, luego recupero para romper por encima de 280 USD, cotizando ahora en 270.75 USD.",
+          "notas": "40 analistas, calificación \"Compra\", pero con objetivo promedio de apenas 286.79 USD (+5.92% sobre el precio actual) - notablemente MAS MODESTO que el optimismo típico de una calificación \"Compra\" en este Dashboard, y muy lejos de validar la valoración actual via un DCF disciplinado (-95.2%). Incluso Wall Street parece reconocer que el precio actual deja poco margen adicional de alza. Acción muy volatil: cayo 34% en julio-2026 tras resultados, luego recupero para romper por encima de 280 USD, cotizando ahora en 270.75 USD.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.2432432432432434,
-    "recomendacion": "NO COMPRAR - VALORACION EXTREMA, GOBERNANZA CONCENTRADA (SoftBank aprox 86.4%) Y RIESGO ESTRUCTURAL DE RISC-V (excelente negocio de licenciamiento de IP con moat historico fuerte, pero el precio no deja ningun margen de error y el float publico reducido mas la amenaza real de arquitecturas abiertas añaden riesgos que van mas alla de la valoracion)",
-    "tesis": "Duopolio-lider historico de licenciamiento de arquitectura de chips con moat fuerte y balance solido (caja neta, margenes altos), pero cotizando a un multiplo (P/FCF aprox 192x) que ningun escenario razonable de DCF logra justificar, incluso con crecimiento muy generoso. Suma tres riesgos serios y poco comunes juntos: gobernanza extrema (SoftBank controla aprox 86.4% de las acciones, float publico minimo), amenaza estructural real de RISC-V (arquitectura abierta ganando cuota rapido, incluso un licenciatario historico -Qualcomm- ya cubriendose contra ARM), y el propio pivote de ARM hacia silicon propio que podria generar conflicto de interes con sus clientes de toda la vida."
+    "recomendacion": "NO COMPRAR - VALORASIÓN EXTREMA, GOBERNANZA CONCENTRADA (SoftBank aprox 86.4%) Y RIESGO ESTRUCTURAL DE RISC-V (excelente negocio de licenciamiento de IP con moat histórico fuerte, pero el precio no deja ningún margen de error y el float público reducido mas la amenaza real de arquitecturas abiertas añaden riesgos que van mas alla de la valoración)",
+    "tesis": "Duopolio-líder histórico de licenciamiento de arquitectura de chips con moat fuerte y balance sólido (caja neta, márgenes altos), pero cotizando a un múltiplo (P/FCF aprox 192x) que ningún escenario razonable de DCF logra justificar, incluso con crecimiento muy generoso. Suma tres riesgos serios y poco comunes juntos: gobernanza extrema (SoftBank controla aprox 86.4% de las acciones, float público mínimo), amenaza estructural real de RISC-V (arquitectura abierta ganando cuota rápido, incluso un licenciatario histórico -Qualcomm- ya cubriendose contra ARM), y el propio pivote de ARM hacia silicon propio que podría generar conflicto de interés con sus clientes de toda la vida."
   }
 }

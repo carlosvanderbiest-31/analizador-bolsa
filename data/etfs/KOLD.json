@@ -1,36 +1,36 @@
 {
   "nombre": "ProShares UltraShort Bloomberg Natural Gas",
   "ticker": "KOLD",
-  "categoria": "Materias Primas Apalancado/Inverso (-2x diario sobre gas natural, via futuros/swaps - PRIMER instrumento apalancado/inverso del proyecto, categoria estructuralmente distinta a los 72 ETFs de exposicion diversificada buy-and-hold ya analizados)",
+  "categoria": "Materias Primas Apalancado/Inverso (-2x diario sobre gas natural, via futuros/swaps - PRIMER instrumento apalancado/inverso del proyecto, categoría estructuralmente distinta a los 72 ETFs de exposición diversificada buy-and-hold ya analizados)",
   "emisor": "ProShares",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica SINTETICA via futuros de gas natural (contratos sep/oct/nov-2026, ~200% exposicion nocional) - NO fisica. Riesgo de contraparte en los futuros (mitigado por camara de compensacion) distinto en naturaleza al riesgo de replica de los ETFs de acciones/bonos del proyecto.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica SINTETICA via futuros de gas natural (contratos sep/oct/nov-2026, ~200% exposición nocional) - NO física. Riesgo de contraparte en los futuros (mitigado por camara de compensación) distinto en naturaleza al riesgo de réplica de los ETFs de acciones/bonos del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. Sin retencion de dividendos extranjeros (no aplica, fondo de futuros), PERO genera formulario fiscal K-1 (partnership) en vez del 1099 estandar del resto del proyecto - complejidad fiscal real y no trivial para el inversor US.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. Sin retención de dividendos extranjeros (no aplica, fondo de futuros), PERO genera formulario fiscal K-1 (partnership) en vez del 1099 estándar del resto del proyecto - complejidad fiscal real y no trivial para el inversor US.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$107-108M - modesto en terminos absolutos, pero estable por 14+ anios sin senales de cierre inminente; los productos apalancados/inversos de ProShares sobreviven por demanda de trading recurrente, no por crecimiento de activos como los ETFs core.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$107-108M - modesto en términos absolutos, pero estable por 14+ años sin señales de cierre inminente; los productos apalancados/inversos de ProShares sobreviven por demanda de trading recurrente, no por crecimiento de activos como los ETFs core.",
           "calificacion": 3
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 4-oct-2011 (~14.8 anios) - track record largo para un producto apalancado, ha sobrevivido multiples ciclos completos del gas natural (incl. el boom del shale, COVID 2020, la crisis energetica europea 2022).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 4-oct-2011 (~14.8 años) - track record largo para un producto apalancado, ha sobrevivido múltiples ciclos completos del gas natural (incl. el boom del shale, COVID 2020, la crisis energetica europea 2022).",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor ProShares - el mayor especialista en ETFs apalancados/inversos de EEUU, reputacion solida en ESTE nicho especifico (no comparable directamente a BlackRock/Vanguard/Schwab del resto del proyecto).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor ProShares - el mayor especialista en ETFs apalancados/inversos de EEUU, reputación sólida en ESTE nicho específico (no comparable directamente a BlackRock/Vanguard/Schwab del resto del proyecto).",
           "calificacion": 4
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.95% - el MAS ALTO de todo el proyecto en terminos nominales (vs 0.03-0.32% del resto), pero DENTRO de rango normal para la categoria de apalancados/inversos de materias primas (tipicamente 0.95-1.5%).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.95% - el MAS ALTO de todo el proyecto en términos nominales (vs 0.03-0.32% del resto), pero DENTRO de rango normal para la categoría de apalancados/inversos de materias primas (tipicamente 0.95-1.5%).",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "El TER NO es el costo real dominante: el decay compuesto por el reseteo diario -2x ha producido una perdida acumulada de MAS DEL 80% desde inception (2011) y un CAGR desde inception de -11.94% - el peor 'costo real' medido de todo el proyecto, estructural y no evitable manteniendo el instrumento mas de un dia.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "El TER NO es el costo real dominante: el decay compuesto por el reseteo diario -2x ha producido una pérdida acumulada de MAS DEL 80% desde inception (2011) y un CAGR desde inception de -11.94% - el peor 'costo real' medido de todo el proyecto, estructural y no evitable manteniendo el instrumento mas de un dia.",
           "calificacion": 1
         }
       ],
@@ -56,96 +56,96 @@
       "titulo": "Securities lending: revenue generado y % que compensa el TER",
       "aspectos": [
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion DIARIA de los contratos de futuros (roll continuo sep/oct/nov-2026) - a diferencia de la rotacion trimestral/semestral tipica de los indices de acciones del proyecto, aqui la rotacion es constante y es la fuente mecanica directa del decay.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación DIARIA de los contratos de futuros (roll continuo sep/oct/nov-2026) - a diferencia de la rotación trimestral/semestral típica de los índices de acciones del proyecto, aquí la rotación es constante y es la fuente mecánica directa del decay.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario ~1.6-2.9M acciones/dia (~$46-84M/dia al precio actual ~$28.85) - liquidez solida para un producto de nicho apalancado, comparable o superior a varios ETFs core del proyecto.",
+          "notas": "Volumen diario ~1.6-2.9M acciones/dia (~$46-84M/dia al precio actual ~$28.85) - liquidez sólida para un producto de nicho apalancado, comparable o superior a varios ETFs core del proyecto.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion; se infiere razonablemente ajustado dado el volumen y la profundidad de ProShares como creador de mercado en esta categoria.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión; se infiere razonablemente ajustado dado el volumen y la profundidad de ProShares como creador de mercado en esta categoría.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion; fondos de futuros liquidos con multiples APs tienden a trackear el NAV de cerca intradia.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión; fondos de futuros liquidos con múltiples APs tienden a trackear el NAV de cerca intradia.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "ProShares - profundidad de Authorized Participants adecuada para la categoria de apalancados/inversos, aunque menor en numero que los grandes emisores core del proyecto.",
+          "notas": "ProShares - profundidad de Authorized Participants adecuada para la categoría de apalancados/inversos, aunque menor en número que los grandes emisores core del proyecto.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Numero de holdings y diversificacion",
+      "titulo": "Número de holdings y diversificación",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg Natural Gas Subindex, UN SOLO commodity, -2x diario via swaps/futuros - metodologia transparente pero deliberadamente NO diversificada (lo opuesto al proposito de las secciones D30-D34, que no aplican a este instrumento).",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg Natural Gas Subindex, UN SOLO commodity, -2x diario via swaps/futuros - metodología transparente pero deliberadamente NO diversificada (lo opuesto al proposito de las secciones D30-D34, que no aplican a este instrumento).",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo DIARIO al cierre de cada sesion para mantener el objetivo -2x - este es el nucleo estructural del producto y la causa directa del decay por capitalizacion negativa en mercados volatiles/laterales, a diferencia del rebalanceo periodico (trimestral/semestral) de todos los indices de acciones del proyecto.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo DIARIO al cierre de cada sesión para mantener el objetivo -2x - este es el nucleo estructural del producto y la causa directa del decay por capitalización negativa en mercados volatiles/laterales, a diferencia del rebalanceo periodico (trimestral/semestral) de todos los índices de acciones del proyecto.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = -10.32%. Retorno desde inception (14.8 anios) = -11.94% CAGR, equivalente a una perdida acumulada de MAS DEL 80% desde 2011 - el peor resultado historico de rentabilidad de todo el proyecto, resultado combinado de (a) la tendencia bajista estructural del gas natural en ese periodo y (b) el decay del apalancamiento -2x diario.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = -10.32%. Retorno desde inception (14.8 años) = -11.94% CAGR, equivalente a una pérdida acumulada de MAS DEL 80% desde 2011 - el peor resultado histórico de rentabilidad de todo el proyecto, resultado combinado de (a) la tendencia bajista estructural del gas natural en ese período y (b) el decay del apalancamiento -2x diario.",
           "calificacion": 1
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad extrema: rango de 52 semanas $13.44-$49.47 (ratio 3.7x entre minimo y maximo en solo un anio) - la volatilidad mas alta de cualquier ticker analizado en el proyecto, orden de magnitud por encima de los ETFs de acciones diversificadas.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad extrema: rango de 52 semanas $13.44-$49.47 (ratio 3.7x entre mínimo y máximo en solo un año) - la volatilidad mas alta de cualquier ticker analizado en el proyecto, orden de magnitud por encima de los ETFs de acciones diversificadas.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro una cifra puntual de Max Drawdown esta sesion, pero la perdida acumulada de mas del 80% desde inception (fila 39) es de facto equivalente a un drawdown estructural severo y recurrente, inherente al diseno del producto, no un evento aislado.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro una cifra puntual de Max Drawdown esta sesión, pero la pérdida acumulada de mas del 80% desde inception (fila 39) es de facto equivalente a un drawdown estructural severo y recurrente, inherente al diseño del producto, no un evento aislado.",
           "calificacion": 1
         }
       ],
@@ -155,8 +155,8 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = -0.11 - practicamente sin correlacion, PERO esto NO lo convierte en un diversificador fiable del portafolio: el precio de KOLD esta dominado por la dinamica de oferta/demanda del gas natural (clima, inventarios, produccion shale) y por el decay del apalancamiento, no por una relacion inversa estable con la renta variable.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = -0.11 - prácticamente sin correlación, PERO esto NO lo convierte en un diversificador fiable del portafolio: el precio de KOLD esta dominado por la dinámica de oferta/demanda del gas natural (clima, inventarios, producción shale) y por el decay del apalancamiento, no por una relación inversa estable con la renta variable.",
           "calificacion": 2
         }
       ],
@@ -168,26 +168,26 @@
       "rating_promedio": null
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Sin competidor -2x directo sobre gas natural de otro emisor identificado esta sesion. El comparable mas relevante es BOIL (tambien ProShares, +2x LARGO sobre el mismo indice) - el espejo direccional, no un sustituto. UNG (ProShares/USCF, 1x simple sin apalancamiento) seria la alternativa si se buscara exposicion direccional sin el decay amplificado del -2x. | ACTUALIZACION posterior (BOIL, fila 76): ahora con datos propios verificados, BOIL confirma ser el espejo direccional exacto (mismo indice, misma fecha de inception 4-oct-2011) pero con un resultado radicalmente distinto - CAGR desde inception de BOIL -57.80% vs -11.94% de KOLD, porque la misma tendencia bajista estructural del gas natural desde 2011 beneficio a KOLD -corto- y devasto a BOIL -largo-. Ver Ficha BOIL fila 50 para el detalle completo de esta comparacion.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Sin competidor -2x directo sobre gas natural de otro emisor identificado esta sesión. El comparable mas relevante es BOIL (también ProShares, +2x LARGO sobre el mismo índice) - el espejo direccional, no un sustituto. UNG (ProShares/USCF, 1x simple sin apalancamiento) seria la alternativa si se buscara exposición direccional sin el decay amplificado del -2x. | ACTUALIZASIÓN posterior (BOIL, fila 76): ahora con datos propios verificados, BOIL confirma ser el espejo direccional exacto (mismo índice, misma fecha de inception 4-oct-2011) pero con un resultado radicalmente distinto - CAGR desde inception de BOIL -57.80% vs -11.94% de KOLD, porque la misma tendencia bajista estructural del gas natural desde 2011 beneficio a KOLD -corto- y devasto a BOIL -largo-. Ver Ficha BOIL fila 50 para el detalle completo de esta comparación.",
           "calificacion": 3
         }
       ],
@@ -197,23 +197,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - categoria nueva en el proyecto, explicitamente DISTINTA de Core y Satelite. NUNCA apto como posicion de largo plazo dado el decay ya materializado (perdida >80% acumulada desde 2011).",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: TÁCTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - categoría nueva en el proyecto, explícitamente DISTINTA de Core y Satélite. NUNCA apto como posición de largo plazo dado el decay ya materializado (pérdida >80% acumulada desde 2011).",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: unicamente tiene sentido como (a) cobertura tactica de exposicion a gas natural por un horizonte de pocos dias (ej. para un productor o consumidor intensivo con exposicion real al commodity), o (b) apuesta direccional bajista de trading de muy corto plazo sobre el precio del gas natural. NO existe una tesis de 'comprar y mantener' valida para este instrumento.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: unicamente tiene sentido como (a) cobertura táctica de exposición a gas natural por un horizonte de pocos dias (ej. para un productor o consumidor intensivo con exposición real al commodity), o (b) apuesta direccional bajista de trading de muy corto plazo sobre el precio del gas natural. NO existe una tesis de 'comprar y mantener' valida para este instrumento.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) decay compuesto por rebalanceo diario -2x, YA MATERIALIZADO en perdida acumulada >80% desde inception - el riesgo dominante y estructural del instrumento; (2) volatilidad extrema (rango 52 semanas 3.7x); (3) riesgo de contraparte en derivados (futuros/swaps); (4) complejidad fiscal via K-1; (5) ausencia de correlacion util con el resto del portafolio (beta -0.11, no es un diversificador fiable).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) decay compuesto por rebalanceo diario -2x, YA MATERIALIZADO en pérdida acumulada >80% desde inception - el riesgo dominante y estructural del instrumento; (2) volatilidad extrema (rango 52 semanas 3.7x); (3) riesgo de contraparte en derivados (futuros/swaps); (4) complejidad fiscal via K-1; (5) ausencia de correlación util con el resto del portafolio (beta -0.11, no es un diversificador fiable).",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "BOIL (mismo emisor, +2x LARGO, espejo direccional, no sustituto) y UNG (exposicion 1x simple sin apalancamiento, la alternativa logica si se busca exposicion direccional sin decay amplificado) son las alternativas relevantes, ninguna presente en el workbook. BOIL (fila 76) ahora tambien analizado en el workbook con datos propios - ver comparacion completa en su Ficha.",
+          "notas": "BOIL (mismo emisor, +2x LARGO, espejo direccional, no sustituto) y UNG (exposición 1x simple sin apalancamiento, la alternativa logica si se busca exposición direccional sin decay amplificado) son las alternativas relevantes, ninguna presente en el workbook. BOIL (fila 76) ahora también analizado en el workbook con datos propios - ver comparación completa en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -221,6 +221,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.35/5 - el mas bajo de todo el proyecto, y refleja fielmente que KOLD es un instrumento estructuralmente distinto a los 72 ETFs de exposicion diversificada buy-and-hold ya analizados: ProShares UltraShort Bloomberg Natural Gas ofrece -2x diario sobre un unico commodity via futuros, con rebalanceo DIARIO. El decay compuesto de ese rebalanceo ya se materializo en una perdida acumulada de mas del 80% desde su inception en 2011 (CAGR -11.94%), independientemente de si la vision direccional sobre el gas natural fue correcta en algun tramo del periodo. Mantenerlo mas alla de un horizonte de pocos dias es estructuralmente destructivo de valor esperado, incluso en escenarios donde el precio del gas natural cae de forma sostenida, por la naturaleza de capitalizacion negativa del apalancamiento diario en mercados volatiles. Unico uso legitimo: cobertura tactica de exposicion real al gas natural por un horizonte de dias, o apuesta direccional bajista de trading de muy corto plazo - nunca como posicion Core o Satelite del portafolio. Sin competidor -2x directo identificado; BOIL (mismo emisor, +2x largo) es el espejo direccional, no una alternativa comparable. Primer instrumento apalancado/inverso analizado en el proyecto - categoria nueva, no comparable en escala 1-5 con el resto de fondos Core/Satelite ya evaluados."
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.35/5 - el mas bajo de todo el proyecto, y refleja fielmente que KOLD es un instrumento estructuralmente distinto a los 72 ETFs de exposición diversificada buy-and-hold ya analizados: ProShares UltraShort Bloomberg Natural Gas ofrece -2x diario sobre un único commodity via futuros, con rebalanceo DIARIO. El decay compuesto de ese rebalanceo ya se materializo en una pérdida acumulada de mas del 80% desde su inception en 2011 (CAGR -11.94%), independientemente de si la visión direccional sobre el gas natural fue correcta en algun tramo del período. Mantenerlo mas alla de un horizonte de pocos dias es estructuralmente destructivo de valor esperado, incluso en escenarios donde el precio del gas natural cae de forma sostenida, por la naturaleza de capitalización negativa del apalancamiento diario en mercados volatiles. Único uso legitimo: cobertura táctica de exposición real al gas natural por un horizonte de dias, o apuesta direccional bajista de trading de muy corto plazo - nunca como posición Core o Satélite del portafolio. Sin competidor -2x directo identificado; BOIL (mismo emisor, +2x largo) es el espejo direccional, no una alternativa comparable. Primer instrumento apalancado/inverso analizado en el proyecto - categoría nueva, no comparable en escala 1-5 con el resto de fondos Core/Satélite ya evaluados."
   }
 }

@@ -1,36 +1,36 @@
 {
   "nombre": "iShares Core S&P Total U.S. Stock Market ETF",
   "ticker": "ITOT",
-  "categoria": "Equity Indice Amplio (S&P Total Market Index - TODO el mercado US: large+mid+small+micro cap, replica muestreo - SUPERSET real de VOO -large-cap, fila 102- y VB -small-cap, fila 28-, ambos ya en el workbook, al agregar ademas la capa mid-cap y micro-cap que ninguno de los dos cubre)",
+  "categoria": "Equity Índice Amplio (S&P Total Market Index - TODO el mercado US: large+mid+small+micro cap, réplica muestreo - SUPERSET real de VOO -large-cap, fila 102- y VB -small-cap, fila 28-, ambos ya en el workbook, al agregar además la capa mid-cap y micro-cap que ninguno de los dos cubre)",
   "emisor": "iShares (BlackRock)",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica por MUESTREO OPTIMIZADO (no fisica completa) - el fondo invierte al menos 80% directamente en los componentes del indice, con hasta 20% de margen para futuros/opciones/swaps/efectivo, inevitable dado el tamano del universo (2,453 holdings referenciando un indice de miles de nombres, incl. micro-caps). Introduce un margen tecnico de derivados que VOO -fisica completa, fila 102- no tiene.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica por MUESTREO OPTIMIZADO (no física completa) - el fondo invierte al menos 80% directamente en los componentes del índice, con hasta 20% de margen para futuros/opciones/swaps/efectivo, inevitable dado el tamaño del universo (2,453 holdings referenciando un índice de miles de nombres, incl. micro-caps). Introduce un margen técnico de derivados que VOO -física completa, fila 102- no tiene.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, tratamiento fiscal estandar de ETF.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, tratamiento fiscal estándar de ETF.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $97.56bn - solido pero MUY por debajo de VOO ($1T+, fila 102); comparable en magnitud a otros grandes fondos amplios del proyecto (IEMG $150bn).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $97.56bn - sólido pero MUY por debajo de VOO ($1T+, fila 102); comparable en magnitud a otros grandes fondos amplios del proyecto (IEMG $150bn).",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 20-ene-2004 (~22.5 anios) - **CUBRE LA CRISIS FINANCIERA 2008 COMPLETA**, a diferencia de VOO -nace 2010, fila 102-, VB, VTV y VUG -todos post-2010-. Uno de los track records mas largos de cualquier fondo de renta variable amplia CORE del proyecto.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 20-ene-2004 (~22.5 años) - **CUBRE LA CRISIS FINANCIERA 2008 COMPLETA**, a diferencia de VOO -nace 2010, fila 102-, VB, VTV y VUG -todos post-2010-. Uno de los track records mas largos de cualquier fondo de renta variable amplia CORE del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor iShares/BlackRock - el mayor gestor de activos del mundo, proveedor de indexacion premier junto a Vanguard.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor iShares/BlackRock - el mayor gestor de activos del mundo, proveedor de indexación premier junto a Vanguard.",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.03% - EMPATADO como el mas barato del proyecto junto a VOO y SCHF (ya tres instrumentos en ese nivel minimo).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.03% - EMPATADO como el mas barato del proyecto junto a VOO y SCHF (ya tres instrumentos en ese nivel mínimo).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Sin cifra de tracking difference verificada esta sesion; la replica por muestreo (vs la fisica completa de VOO) implica en teoria un margen de error de tracking ligeramente mayor, aunque historicamente muy ajustado para fondos indexados de este tamano/emisor.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Sin cifra de tracking difference verificada esta sesión; la réplica por muestreo (vs la física completa de VOO) implica en teoria un margen de error de tracking ligeramente mayor, aunque históricamente muy ajustado para fondos indexados de este tamaño/emisor.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending de iShares/BlackRock activo sobre la cartera - revenue especifico no verificado esta sesion.",
+          "notas": "Securities lending de iShares/BlackRock activo sobre la cartera - revenue específico no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rebalanceo periodico del S&P Total Market Index - mayor rotacion esperada que VOO por la capa de small/micro-cap (entradas/salidas mas frecuentes que en el S&P 500 establecido).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo periodico del S&P Total Market Index - mayor rotación esperada que VOO por la capa de small/micro-cap (entradas/salidas mas frecuentes que en el S&P 500 establecido).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen 3 meses ~5.81M acciones/dia (~$868M/dia al precio actual $169.59, Seeking Alpha) - MAS ALTO en dolares que el dato de VOO (~$577M/dia, aunque ese fue de un solo dia, no promedio 3 meses) - muy liquido.",
+          "notas": "Volumen 3 meses ~5.81M acciones/dia (~$868M/dia al precio actual $169.59, Seeking Alpha) - MAS ALTO en dólares que el dato de VOO (~$577M/dia, aunque ese fue de un solo dia, no promedio 3 meses) - muy liquido.",
           "calificacion": 5
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask minimo (centavos sobre una accion de ~$169) - de los mas ajustados del proyecto.",
+          "notas": "Spread bid-ask mínimo (centavos sobre una acción de ~$169) - de los mas ajustados del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta, aunque implicitamente minimo (NAV $169.46 vs precio $169.59).",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta, aunque implicitamente mínimo (NAV $169.46 vs precio $169.59).",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "**2,453 holdings** - MUCHO mas diversificado que VOO (520, solo large-cap) o VB (1,316, solo small-cap) ya en el workbook. Cubre large+mid+small+micro cap en un solo fondo - la exposicion mas completa al mercado de EEUU de todo el proyecto.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "**2,453 holdings** - MUCHO mas diversificado que VOO (520, solo large-cap) o VB (1,316, solo small-cap) ya en el workbook. Cubre large+mid+small+micro cap en un solo fondo - la exposición mas completa al mercado de EEUU de todo el proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
+          "aspecto": "Concentración Top 10 holdings (%)",
           "notas": "Top 10 = 33.86% del NAV (NVDA 7.10%, AAPL 6.14%, MSFT 4.97%, AMZN 3.57%, GOOGL 2.81%, AVGO 2.66%, GOOG 2.26%, META 1.73%, MU 1.33%, BRK.B 1.29%) - LIGERAMENTE menos concentrado que VOO (36.33%), diluido por la cola de small/micro-cap.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector Tecnologia 35.34% (el mas dominante) + Financials 12.56% + Healthcare 9.70% - concentracion sectorial similar a VOO (33-38%), el cap-weighting de las mega-caps domina incluso en un indice de mercado TOTAL.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector Tecnología 35.34% (el mas dominante) + Financials 12.56% + Healthcare 9.70% - concentración sectorial similar a VOO (33-38%), el cap-weighting de las mega-caps domina incluso en un índice de mercado TOTAL.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "BLEND across TODOS los tamanos de capitalizacion - la exposicion mas completa y menos distorsionada al mercado de EEUU de todo el proyecto, superset real de VOO+VB (agrega ademas mid-cap y micro-cap que ninguno de los dos cubre).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "BLEND across TODOS los tamaños de capitalización - la exposición mas completa y menos distorsionada al mercado de EEUU de todo el proyecto, superset real de VOO+VB (agrega además mid-cap y micro-cap que ninguno de los dos cubre).",
           "calificacion": 5
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P Total Market Index (S&P Dow Jones Indices) - metodologia rigurosa y transparente, aunque menos iconico globalmente que el S&P 500 puro de VOO.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P Total Market Index (S&P Dow Jones Índices) - metodología rigurosa y transparente, aunque menos iconico globalmente que el S&P 500 puro de VOO.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo periodico estandar - sin reseteo diario ni mecanismo de decay.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo periodico estándar - sin reseteo diario ni mecanismo de decay.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 3.86
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y +22.92%, desde inception (22.5 anios) +10.70% anualizado (stockanalysis.com, cifra mas confiable). Otras fuentes reportan 3Y ~19.19% y 5Y ~11.27% (financecharts, presentado con reserva) y un supuesto '10Y +22.19%' claramente INCONSISTENTE con el +10.70% desde inception de 22.5 anios completos - descartado como probable error de fuente, no usado.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y +22.92%, desde inception (22.5 años) +10.70% anualizado (stockanalysis.com, cifra mas confiable). Otras fuentes reportan 3Y ~19.19% y 5Y ~11.27% (financecharts, presentado con reserva) y un supuesto '10Y +22.19%' claramente INCONSISTENTE con el +10.70% desde inception de 22.5 años completos - descartado como probable error de fuente, no usado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Rango 52 semanas $137.73-$170.21 (ratio 1.235x) - IDENTICO al ratio de VOO (1.235x) pese a la composicion y antiguedad distintas, coincidencia notable del mismo regimen de mercado reciente.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Rango 52 semanas $137.73-$170.21 (ratio 1.235x) - IDENTICO al ratio de VOO (1.235x) pese a la composición y antigüedad distintas, coincidencia notable del mismo régimen de mercado reciente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown historico **-55.20%**, minimo el 9-mar-2009 (piso de la Crisis Financiera 2008-09, NO COVID - ITOT ya existia desde 2004) - MUCHO MAS SEVERO que el -33.99% de VOO (COVID, fila 102) - refleja tanto una crisis estructuralmente peor para acciones amplias que COVID, como el mayor beta estructural de la cola de small/micro-cap en eventos de liquidez. PRIMER fondo CORE de renta variable amplia del proyecto con una cifra de drawdown verificada de la Crisis 2008 (VOO/VTV/VUG/VB nacen post-2010, sin datos propios de esa crisis).",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown histórico **-55.20%**, mínimo el 9-mar-2009 (piso de la Crisis Financiera 2008-09, NO COVID - ITOT ya existia desde 2004) - MUCHO MAS SEVERO que el -33.99% de VOO (COVID, fila 102) - refleja tanto una crisis estructuralmente peor para acciones amplias que COVID, como el mayor beta estructural de la cola de small/micro-cap en eventos de liquidez. PRIMER fondo CORE de renta variable amplia del proyecto con una cifra de drawdown verificada de la Crisis 2008 (VOO/VTV/VUG/VB nacen post-2010, sin datos propios de esa crisis).",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio ~1.79 (ventana reciente de 12 meses, PortfoliosLab) - fuerte en el corto plazo, no comparable directamente al historico de 22.5 anios completo.",
+          "notas": "Sharpe Ratio ~1.79 (ventana reciente de 12 meses, PortfoliosLab) - fuerte en el corto plazo, no comparable directamente al histórico de 22.5 años completo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = 1.02 vs S&P 500 - MUY cercano a 1.0 pese a incluir small/mid/micro-cap de mayor beta teorico, porque las mega-caps siguen dominando el peso incluso en un indice de mercado TOTAL cap-weighted.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = 1.02 vs S&P 500 - MUY cercano a 1.0 pese a incluir small/mid/micro-cap de mayor beta teorico, porque las mega-caps siguen dominando el peso incluso en un índice de mercado TOTAL cap-weighted.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**Cubre la Crisis Financiera 2008-09 COMPLETA** (drawdown -55.20%, piso mar-2009) - unico fondo CORE de renta variable amplia del proyecto con este dato propio verificado. Sin cifra especifica de COVID-2020 ni del bear 2022 encontrada con precision esta sesion (una fuente sugiere ~-34% en 2022, sin verificar).",
+          "notas": "**Cubre la Crisis Financiera 2008-09 COMPLETA** (drawdown -55.20%, piso mar-2009) - único fondo CORE de renta variable amplia del proyecto con este dato propio verificado. Sin cifra específica de COVID-2020 ni del bear 2022 encontrada con precisión esta sesión (una fuente sugiere ~-34% en 2022, sin verificar).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E Ponderado 26.15x (stockanalysis.com; otra fuente reporta 21.26x, discrepancia no resuelta esta sesion) - cercano a VOO (27.53x), mismo tema de valoracion actual relativamente rica de las mega-caps dominantes. P/B no encontrado.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E Ponderado 26.15x (stockanalysis.com; otra fuente reporta 21.26x, discrepancia no resuelta esta sesión) - cercano a VOO (27.53x), mismo tema de valoración actual relativamente rica de las mega-caps dominantes. P/B no encontrado.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield 0.97% TTM, trimestral - similar a VOO (1.04%), bajo, tipico de un blend con tilt de crecimiento actual.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield 0.97% TTM, trimestral - similar a VOO (1.04%), bajo, típico de un blend con tilt de crecimiento actual.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "TRIANGULACION MAS COMPLETA de fondos amplios CORE del proyecto: (1) vs VOO (fila 102, solo large-cap) y VB (fila 28, solo small-cap), ITOT es un SUPERSET real -agrega la capa mid-cap y micro-cap que ninguno de los dos cubre-, no una simple suma; (2) VTI (Vanguard, indice CRSP US Total Market en vez de S&P TMI, ~3,436 holdings vs 2,453, correlacion ~0.98, MISMO TER 0.03%) es el competidor MAS CERCANO posible de todo el proyecto - funcionalmente intercambiables, no analizado en el workbook; (3) SCHB (Schwab Total Stock Market, otro competidor de bajo costo) tampoco analizado; (4) track record (22.5 anios, cubre 2008) MUCHO mas largo que VOO (15.9 anios, no cubre 2008).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "TRIANGULASIÓN MAS COMPLETA de fondos amplios CORE del proyecto: (1) vs VOO (fila 102, solo large-cap) y VB (fila 28, solo small-cap), ITOT es un SUPERSET real -agrega la capa mid-cap y micro-cap que ninguno de los dos cubre-, no una simple suma; (2) VTI (Vanguard, índice CRSP US Total Market en vez de S&P TMI, ~3,436 holdings vs 2,453, correlación ~0.98, MISMO TER 0.03%) es el competidor MAS CERCANO posible de todo el proyecto - funcionalmente intercambiables, no analizado en el workbook; (3) SCHB (Schwab Total Stock Market, otro competidor de bajo costo) tampoco analizado; (4) track record (22.5 años, cubre 2008) MUCHO mas largo que VOO (15.9 años, no cubre 2008).",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **CORE** - potencialmente incluso mas completo que VOO solo, al ser una posicion unica que cubre TODO el mercado de EEUU en un solo fondo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **CORE** - potencialmente incluso mas completo que VOO solo, al ser una posición única que cubre TODO el mercado de EEUU en un solo fondo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion completa, de costo minimo (0.03%) y track record mas largo (22.5 anios, incl. Crisis 2008) a TODO el mercado de renta variable de EEUU en un unico fondo - la version mas simple posible de 'ser dueno de America', mas completa que VOO+VB por separado.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición completa, de costo mínimo (0.03%) y track record mas largo (22.5 años, incl. Crisis 2008) a TODO el mercado de renta variable de EEUU en un único fondo - la versión mas simple posible de 'ser dueno de America', mas completa que VOO+VB por separado.",
           "calificacion": 5
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) mismo overlap directo con AVGO (2.66%) y MU (1.33%), ambas NO COMPRAR-superciclo IA en el proyecto de acciones, junto a NVDA (7.10%, MANTENER) - aunque algo diluido vs VOO; (2) la cola de small/micro-cap anade riesgo de drawdown estructuralmente mayor en crisis de liquidez, evidenciado por el -55.20% de la Crisis 2008 vs -33.99% de VOO en COVID; (3) valoracion actual rica (P/E ~26x); (4) replica por muestreo -no fisica completa- introduce un margen tecnico de derivados que VOO no tiene.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) mismo overlap directo con AVGO (2.66%) y MU (1.33%), ambas NO COMPRAR-superciclo IA en el proyecto de acciones, junto a NVDA (7.10%, MANTENER) - aunque algo diluido vs VOO; (2) la cola de small/micro-cap anade riesgo de drawdown estructuralmente mayor en crisis de liquidez, evidenciado por el -55.20% de la Crisis 2008 vs -33.99% de VOO en COVID; (3) valoración actual rica (P/E ~26x); (4) réplica por muestreo -no física completa- introduce un margen técnico de derivados que VOO no tiene.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "VTI (Vanguard, competidor MAS CERCANO posible, indice CRSP en vez de S&P TMI, mismo TER 0.03%, no analizado), SCHB (Schwab, otro competidor de bajo costo, no analizado), y la combinacion VOO+VB (ambos ya en el workbook, cubren large+small pero SIN la capa mid-cap que ITOT si agrega) son las alternativas/comparables mas relevantes.",
+          "notas": "VTI (Vanguard, competidor MAS CERCANO posible, índice CRSP en vez de S&P TMI, mismo TER 0.03%, no analizado), SCHB (Schwab, otro competidor de bajo costo, no analizado), y la combinación VOO+VB (ambos ya en el workbook, cubren large+small pero SIN la capa mid-cap que ITOT si agrega) son las alternativas/comparables mas relevantes.",
           "calificacion": 5
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER - no agregar (REDUNDANCIA parcial con VOO+VB ya en el workbook). Score 3.88/5, dentro de la misma banda alta de fondos amplios CORE del proyecto (VOO 3.91, VB 3.88 identico, VXUS 3.94, VT 3.76). iShares Core S&P Total U.S. Stock Market ETF, replica por MUESTREO del S&P Total Market Index - 2,453 holdings cubriendo large+mid+small+micro cap de EEUU en un SOLO fondo, un SUPERSET real de VOO (fila 102, solo large-cap) y VB (fila 28, solo small-cap) ya en el workbook, al agregar ademas la capa mid-cap y micro-cap que ninguno de los dos cubre. TER 0.03%, empatado con VOO y SCHF como el mas barato del proyecto. Track record de 22.5 anios (inception ene-2004) - **CUBRE LA CRISIS FINANCIERA 2008 COMPLETA**, a diferencia de VOO/VB/VTV/VUG (todos post-2010) - Max Drawdown VERIFICADO -55.20% en el piso de esa crisis (mar-2009), MUCHO mas severo que el -33.99% de VOO en COVID, reflejo tanto de una crisis estructuralmente peor para acciones amplias como del mayor beta de la cola small/micro-cap en eventos de liquidez. Retorno 1Y +22.92%, desde inception +10.70% anualizado. Overlap directo con AVGO (2.66%) y MU (1.33%), ambas ya NO COMPRAR-superciclo IA en el proyecto de acciones, junto a NVDA (7.10%, MANTENER) - patron identico a VOO aunque algo diluido. VTI (Vanguard, indice CRSP, mismo TER 0.03%) seria el competidor MAS CERCANO posible de todo el proyecto, no analizado - funcionalmente casi intercambiable con ITOT. Rol en Portafolio: CORE, aunque la decision es NO AGREGAR dado el solapamiento sustancial con VOO+VB ya presentes en el workbook - un inversor que ya tiene VOO+VB no gana diversificacion proporcional al agregar ITOT (la capa mid-cap adicional es la unica diferencia real de exposicion)."
+    "tesis": "MANTENER - no agregar (REDUNDANCIA parcial con VOO+VB ya en el workbook). Score 3.88/5, dentro de la misma banda alta de fondos amplios CORE del proyecto (VOO 3.91, VB 3.88 identico, VXUS 3.94, VT 3.76). iShares Core S&P Total U.S. Stock Market ETF, réplica por MUESTREO del S&P Total Market Index - 2,453 holdings cubriendo large+mid+small+micro cap de EEUU en un SOLO fondo, un SUPERSET real de VOO (fila 102, solo large-cap) y VB (fila 28, solo small-cap) ya en el workbook, al agregar además la capa mid-cap y micro-cap que ninguno de los dos cubre. TER 0.03%, empatado con VOO y SCHF como el mas barato del proyecto. Track record de 22.5 años (inception ene-2004) - **CUBRE LA CRISIS FINANCIERA 2008 COMPLETA**, a diferencia de VOO/VB/VTV/VUG (todos post-2010) - Max Drawdown VERIFICADO -55.20% en el piso de esa crisis (mar-2009), MUCHO mas severo que el -33.99% de VOO en COVID, reflejo tanto de una crisis estructuralmente peor para acciones amplias como del mayor beta de la cola small/micro-cap en eventos de liquidez. Retorno 1Y +22.92%, desde inception +10.70% anualizado. Overlap directo con AVGO (2.66%) y MU (1.33%), ambas ya NO COMPRAR-superciclo IA en el proyecto de acciones, junto a NVDA (7.10%, MANTENER) - patrón identico a VOO aunque algo diluido. VTI (Vanguard, índice CRSP, mismo TER 0.03%) seria el competidor MAS CERCANO posible de todo el proyecto, no analizado - funcionalmente casi intercambiable con ITOT. Rol en Portafolio: CORE, aunque la decisión es NO AGREGAR dado el solapamiento sustancial con VOO+VB ya presentes en el workbook - un inversor que ya tiene VOO+VB no gana diversificación proporcional al agregar ITOT (la capa mid-cap adicional es la única diferencia real de exposición)."
   }
 }

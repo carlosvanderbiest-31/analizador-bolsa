@@ -1,36 +1,36 @@
 {
   "nombre": "Schwab U.S. Dividend Equity ETF",
   "ticker": "SCHD",
-  "categoria": "Equity Tematico/Factor (dividendo/calidad)",
+  "categoria": "Equity Temático/Factor (dividendo/calidad)",
   "emisor": "Charles Schwab (Schwab Asset Management)",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA (no muestreo, no swap) - compra los 100 componentes del indice en su ponderacion. Sin riesgo de contraparte. Confirmado via Trackinsight.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA (no muestreo, no swap) - compra los 100 componentes del índice en su ponderación. Sin riesgo de contraparte. Confirmado via Trackinsight.",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. Para inversionista US es directo (1099-DIV, dividendos calificados a tasa de ganancias de capital); no aplica retencion adicional sobre dividendos US como si ocurriria con un ETF UCITS domiciliado fuera. Simplicidad fiscal, sin PFIC ni formularios adicionales.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. Para inversionista US es directo (1099-DIV, dividendos calificados a tasa de ganancias de capital); no aplica retención adicional sobre dividendos US como si ocurriria con un ETF UCITS domiciliado fuera. Simplicidad fiscal, sin PFIC ni formularios adicionales.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$104.6-105.7bn (fuentes consultadas 2026-08-10 varian levemente por fecha de corte: stockanalysis.com $105.69bn, busqueda web $104.64bn al 3-ago-2026). Uno de los ETFs de dividendos mas grandes del mercado - riesgo de liquidacion/cierre esencialmente nulo.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$104.6-105.7bn (fuentes consultadas 2026-08-10 varian levemente por fecha de corte: stockanalysis.com $105.69bn, busqueda web $104.64bn al 3-ago-2026). Uno de los ETFs de dividendos mas grandes del mercado - riesgo de liquidación/cierre esencialmente nulo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Lanzado 20-oct-2011 (~14.8 anios de historial al 2026-08-10). Atraveso el crash COVID de 2020, el bear market de 2022 y el ciclo alcista liderado por Mag7 2023-2024 donde se quedo rezagado. Track record largo y probado en varios regimenes de mercado.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Lanzado 20-oct-2011 (~14.8 años de historial al 2026-08-10). Atraveso el crash COVID de 2020, el bear market de 2022 y el ciclo alcista liderado por Mag7 2023-2024 donde se quedo rezagado. Track record largo y probado en varios regimenes de mercado.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor: Charles Schwab (Schwab Asset Management). Gestora grande, familia amplia de ETFs de bajo costo (Schwab Core Series). Sin senales de riesgo reputacional o de negocio del emisor.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor: Charles Schwab (Schwab Asset Management). Gestora grande, familia amplia de ETFs de bajo costo (Schwab Core Series). Sin señales de riesgo reputacional o de negocio del emisor.",
           "calificacion": 5
         }
       ],
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "Expense Ratio (TER) = 0.06%. De los mas bajos en la categoria de dividend ETFs 'core quality': comparable a VYM (0.06%) y VIG (0.05%), mas barato que DGRO (0.08%) y HDV (0.08%).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "Expense Ratio (TER) = 0.06%. De los mas bajos en la categoría de dividend ETFs 'core quality': comparable a VYM (0.06%) y VIG (0.05%), mas barato que DGRO (0.08%) y HDV (0.08%).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "NO VERIFICADO con fuente primaria en esta sesion - los agregadores consultados (Trackinsight, stockanalysis) no publicaron el numero de Tracking Difference. Dado que es replica fisica completa con solo 100 posiciones (facil de replicar exacto) y TER bajo, se espera que sea muy cercana a -0.06% a -0.10%. PENDIENTE: confirmar en el 'Annual Report' de Schwab (compara retorno NAV vs retorno del indice).",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "NO VERIFICADO con fuente primaria en esta sesión - los agregadores consultados (Trackinsight, stockanalysis) no publicaron el número de Tracking Difference. Dado que es réplica física completa con solo 100 posiciones (fácil de replicar exacto) y TER bajo, se espera que sea muy cercana a -0.06% a -0.10%. PENDIENTE: confirmar en el 'Annual Report' de Schwab (compara retorno NAV vs retorno del índice).",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "NO VERIFICADO - Schwab no publica el detalle de securities lending revenue en las fuentes de agregadores consultadas (se reporta en el shareholder report anual, no en fichas rapidas). Se asume neutral/moderado dado el tamano del fondo (mayor AUM = mas volumen prestable).",
+          "notas": "NO VERIFICADO - Schwab no pública el detalle de securities lending revenue en las fuentes de agregadores consultadas (se reporta en el shareholder report anual, no en fichas rápidas). Se asume neutral/moderado dado el tamaño del fondo (mayor AUM = mas volumen prestable).",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Reconstitucion ANUAL en marzo, con revision de elegibilidad TRIMESTRAL (el indice Dow Jones U.S. Dividend 100 solo reconstituye componentes completos una vez al anio). Rotacion moderada-baja, tipica de indices de calidad/dividendo (no son indices de momentum de alta rotacion).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Reconstitución ANUAL en marzo, con revisión de elegibilidad TRIMESTRAL (el índice Dow Jones U.S. Dividend 100 solo reconstituye componentes completos una vez al año). Rotación moderada-baja, típica de índices de calidad/dividendo (no son índices de momentum de alta rotación).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -72,120 +72,120 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "NO VERIFICADO con cifra exacta en esta sesion. Dado el volumen y AUM, tipicamente el spread de SCHD es de 1-2 centavos (pocos basis points) - consistente con ETFs de mega-liquidez. Confirmar en la plataforma de trading del usuario antes de una orden grande.",
+          "notas": "NO VERIFICADO con cifra exacta en esta sesión. Dado el volumen y AUM, tipicamente el spread de SCHD es de 1-2 centavos (pocos basis points) - consistente con ETFs de mega-liquidez. Confirmar en la plataforma de trading del usuario antes de una orden grande.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
+          "aspecto": "Premium/Discount histórico vs. NAV",
           "notas": "NO VERIFICADO con cifra exacta. Para un ETF de este AUM y volumen, el premium/discount vs NAV tipicamente se mantiene bajo 0.05% gracias al arbitraje activo de Authorized Participants.",
           "calificacion": 4
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin senales de problemas de creacion/redencion. Dado el tamano de Schwab y el AUM del fondo, se infiere profundidad de AP adecuada; no se encontro data especifica de numero de AP activos.",
+          "notas": "Sin señales de problemas de creación/redención. Dado el tamaño de Schwab y el AUM del fondo, se infiere profundidad de AP adecuada; no se encontro data específica de número de AP activos.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "103 holdings (a veces reportado 99-104 segun fecha de corte/fuente). Diversificacion moderada: bastante mas concentrado que un indice total-market (miles de posiciones) pero no es un fondo de nicho de <30 posiciones.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "103 holdings (a veces reportado 99-104 según fecha de corte/fuente). Diversificación moderada: bastante mas concentrado que un índice total-market (miles de posiciones) pero no es un fondo de nicho de <30 posiciones.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 holdings = ~41.3-41.5% del fondo (ABT 4.64%, AMGN 4.61%, HD 4.31%, MRK 4.28%, KO 4.22%, UNH 4.19%, PG 4.00%, VZ 3.81%, CVX 3.76%, PEP 3.72%). BANDERA AMARILLA: concentracion relativamente alta para un ETF que se percibe como 'diversificado' - resultado directo del proceso de screening por calidad de dividendo, que reduce el universo invertible.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 holdings = ~41.3-41.5% del fondo (ABT 4.64%, AMGN 4.61%, HD 4.31%, MRK 4.28%, KO 4.22%, UNH 4.19%, PG 4.00%, VZ 3.81%, CVX 3.76%, PEP 3.72%). BANDERA AMARILLA: concentración relativamente alta para un ETF que se percibe como 'diversificado' - resultado directo del proceso de screening por calidad de dividendo, que reduce el universo invertible.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector top: Consumer Non-Cyclicals 21.03%, Healthcare 20.08%, Energy 14.44% (al 30-jun-2026, Trackinsight) = ~55.5% del fondo en solo 3 sectores. Tecnologia solo 10.44% (vs >30% en el S&P 500) - el indice EXCLUYE estructuralmente REITs y tiene poca exposicion a growth/tech de alto crecimiento. Concentracion sectorial deliberada por el factor dividendo, no un indice sectorialmente neutral.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector top: Consumer Non-Cyclicals 21.03%, Healthcare 20.08%, Energy 14.44% (al 30-jun-2026, Trackinsight) = ~55.5% del fondo en solo 3 sectores. Tecnología solo 10.44% (vs >30% en el S&P 500) - el índice EXCLUYE estructuralmente REITs y tiene poca exposición a growth/tech de alto crecimiento. Concentración sectorial deliberada por el factor dividendo, no un índice sectorialmente neutral.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% acciones domiciliadas/listadas en EEUU. Sin diversificacion geografica internacional - riesgo de concentracion de pais si el usuario ya tiene alta exposicion US en el resto del portafolio (ver Dashboard de acciones: la mayoria de las posiciones individuales del usuario tambien son US).",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% acciones domiciliadas/listadas en EEUU. Sin diversificación geográfica internacional - riesgo de concentración de pais si el usuario ya tiene alta exposición US en el resto del portafolio (ver Dashboard de acciones: la mayoría de las posiciones individuales del usuario también son US).",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Tilt fuerte a value/quality/dividendo; baja exposicion a growth y a mega-cap tech (no incluye NVDA/AAPL/MSFT/GOOGL/AMZN/META en el top, a diferencia del S&P 500). Hace exactamente lo que promete: exposicion pura a calidad de dividendo, no un 'closet indexer' del mercado amplio.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Tilt fuerte a value/quality/dividendo; baja exposición a growth y a mega-cap tech (no incluye NVDA/AAPL/MSFT/GOOGL/AMZN/META en el top, a diferencia del S&P 500). Hace exactamente lo que promete: exposición pura a calidad de dividendo, no un 'closet indexer' del mercado amplio.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Metodologia transparente y objetiva: universo elegible = empresas con >=10 anios consecutivos pagando dividendos; luego screening compuesto por ratio flujo de caja/deuda, ROE, dividend yield y tasa de crecimiento del dividendo; ponderacion final por capitalizacion de mercado dentro de los 100 seleccionados. Metodologia ampliamente estudiada y replicable, sin discrecionalidad del gestor.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Metodología transparente y objetiva: universo elegible = empresas con >=10 años consecutivos pagando dividendos; luego screening compuesto por ratio flujo de caja/deuda, ROE, dividend yield y tasa de crecimiento del dividendo; ponderación final por capitalización de mercado dentro de los 100 seleccionados. Metodología ampliamente estudiada y replicable, sin discrecionalidad del gestor.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reconstitucion anual (marzo) + revision trimestral de elegibilidad. Frecuencia adecuada para un indice de calidad/dividendo (no requiere rebalanceo mas frecuente dado que el factor no es de alta rotacion como momentum).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reconstitución anual (marzo) + revisión trimestral de elegibilidad. Frecuencia adecuada para un índice de calidad/dividendo (no requiere rebalanceo mas frecuente dado que el factor no es de alta rotación como momentum).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 10Y anualizado ~12.70% (retorno promedio anual desde inception ~13.50%, lazyportfolioetf.com / stockanalysis.com). Retorno 1Y (a ago-2026) = +31.31%, reflejo de una rotacion fuerte y reciente hacia value/dividendos. NO SE VERIFICARON cifras exactas de 3Y y 5Y en esta sesion - pendiente para proxima revision (portfoliovisualizer.com).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 10Y anualizado ~12.70% (retorno promedio anual desde inception ~13.50%, lazyportfolioetf.com / stockanalysis.com). Retorno 1Y (a ago-2026) = +31.31%, reflejo de una rotación fuerte y reciente hacia value/dividendos. NO SE VERIFICARON cifras exactas de 3Y y 5Y en esta sesión - pendiente para proxima revisión (portfoliovisualizer.com).",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada (desv. estandar) = 15.6% (lazyportfolioetf.com, ventana 10/2011-10/2025). Menor que el mercado amplio tipico (~17-19%) - perfil defensivo consistente con su composicion sectorial.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada (desv. estándar) = 15.6% (lazyportfolioetf.com, ventana 10/2011-10/2025). Menor que el mercado amplio típico (~17-19%) - perfil defensivo consistente con su composición sectorial.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Maximo Drawdown historico = -33.4% (marzo 2020, crash COVID), con recuperacion en 114 sesiones de trading (~5.5 meses) - similar en magnitud al mercado amplio en ese evento puntual, recuperacion razonablemente rapida.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Máximo Drawdown histórico = -33.4% (marzo 2020, crash COVID), con recuperación en 114 sesiones de trading (~5.5 meses) - similar en magnitud al mercado amplio en ese evento puntual, recuperación razonablemente rápida.",
           "calificacion": 4
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio desde inception (10/2011-10/2025) = 0.7 - razonable pero no excepcional en una ventana de 14 anios que incluye varios anios de rezago frente al S&P 500 (2023-2024). Sharpe de los ultimos 12 meses = 2.41, reflejo del rally reciente - alta variabilidad segun la ventana temporal usada, no tomar el numero reciente como representativo de largo plazo.",
+          "notas": "Sharpe Ratio desde inception (10/2011-10/2025) = 0.7 - razonable pero no excepcional en una ventana de 14 años que incluye varios años de rezago frente al S&P 500 (2023-2024). Sharpe de los últimos 12 meses = 2.41, reflejo del rally reciente - alta variabilidad según la ventana temporal usada, no tomar el número reciente como representativo de largo plazo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.69 (moderadamente defensivo). OVERLAP RELEVANTE: varias de las posiciones top10 de SCHD (KO, PEP, VZ, MRK, CVX) YA estan en el Dashboard de acciones individuales del usuario (ver [[stock_analysis_project]]) - el beneficio marginal de diversificacion de anadir SCHD encima de esas posiciones individuales es menor al que sugiere el beta aislado.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.69 (moderadamente defensivo). OVERLAP RELEVANTE: varias de las posiciones top10 de SCHD (KO, PEP, VZ, MRK, CVX) YA estan en el Dashboard de acciones individuales del usuario (ver [[stock_analysis_project]]) - el beneficio marginal de diversificación de anadir SCHD encima de esas posiciones individuales es menor al que sugiere el beta aislado.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "En el crash de 2020 cayo junto con el mercado amplio (drawdown similar). En ciclos bajistas de growth (ej. 2022) los ETFs de dividendo/calidad como SCHD historicamente muestran mejor comportamiento relativo por su tilt defensivo - no se verifico la cifra exacta de retorno 2022 en esta sesion.",
+          "notas": "En el crash de 2020 cayo junto con el mercado amplio (drawdown similar). En ciclos bajistas de growth (ej. 2022) los ETFs de dividendo/calidad como SCHD históricamente muestran mejor comportamiento relativo por su tilt defensivo - no se verifico la cifra exacta de retorno 2022 en esta sesión.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.83
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado actual = 17.60x (stockanalysis.com). Notablemente por debajo del P/E del S&P 500 en el mismo periodo (tipicamente 24-26x en este entorno alcista) - lectura relativa de 'no caro' frente al mercado amplio. NO SE VERIFICO el percentil contra el propio rango historico de P/E de SCHD (serie de tiempo no disponible en fuentes consultadas) - pendiente para proxima revision.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado actual = 17.60x (stockanalysis.com). Notablemente por debajo del P/E del S&P 500 en el mismo período (tipicamente 24-26x en este entorno alcista) - lectura relativa de 'no caro' frente al mercado amplio. NO SE VERIFICO el percentil contra el propio rango histórico de P/E de SCHD (serie de tiempo no disponible en fuentes consultadas) - pendiente para proxima revisión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield TTM actual = 3.08-3.12%, distribucion trimestral, payout ratio 54.42% (sostenible, no estresado). El yield esta relativamente COMPRIMIDO frente a su rango historico tipico (~2.7%-3.9%) como consecuencia directa del rally de precio +31% en 12 meses - el fondo subio de precio mas rapido de lo que crecio el dividendo. Senal de que, pese al P/E moderado, no esta en su punto mas barato historico.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield TTM actual = 3.08-3.12%, distribución trimestral, payout ratio 54.42% (sostenible, no estresado). El yield esta relativamente COMPRIMIDO frente a su rango histórico típico (~2.7%-3.9%) como consecuencia directa del rally de precio +31% en 12 meses - el fondo subio de precio mas rápido de lo que crecio el dividendo. Señal de que, pese al P/E moderado, no esta en su punto mas barato histórico.",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - SCHD es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Frente a competidores directos de la categoria 'core quality dividend': VYM (yield ~2.6-2.7%, TER 0.06%), DGRO (yield ~2.2%, TER 0.08%), HDV (yield ~3.4%, TER 0.08%), VIG (yield mas bajo, enfocado en crecimiento de dividendo mas que en yield actual, TER 0.05%). SCHD ofrece de los yields mas altos del grupo junto con uno de los TER mas bajos - muy competitivo en la categoria. | ACTUALIZACION posterior (NOBL, fila 87): competidor equal-weight con screening mas estricto (25+ anios consecutivos de crecimiento de dividendo vs los criterios compuestos de SCHD), diversificacion estructural notablemente superior (Top10 16.2% vs 41.3% de SCHD, tope sectorial 30% por regla del indice), PERO 5.8x mas caro (TER 0.35% vs 0.06%), yield mucho menor (2.0% vs 3.1%) y retorno historico notablemente inferior (1Y +15.62% vs +31.31%, CAGR desde inception +10.88% vs +12.7%). Ver Ficha NOBL fila 50 para el detalle completo de esta comparacion. | ACTUALIZACION posterior (DVY, fila 88): tercer competidor del cluster, criterio de sostenibilidad de dividendo (cobertura 5 anios, EPS no negativo). Mas caro que SCHD (0.38% vs 0.06%) pero con P/E mas barato (14.93x vs 17.6x) y yield mas alto (3.23% vs 3.1%), track record mas largo (22.75 anios, cubre Crisis 2008 directamente). Score 3.63, el segundo mas alto del trio tras SCHD. Ver Ficha DVY fila 50. | ACTUALIZACION posterior (DGRO, fila 89): cuarto competidor, ponderado por dividendos en USD, TER casi tan bajo como SCHD (0.08% vs 0.06%) y CAGR desde inception el mas cercano a SCHD (+12.63% vs +12.7%) de los tres alternativos. Mas diversificado (397 holdings) e incluye mega-cap tech (MSFT/AAPL) con overlap excepcionalmente positivo, pero yield mas bajo (1.85% vs 3.1%) y P/E mas caro (22.21x vs 17.6x). Score 3.59, tercero del cluster. Ver Ficha DGRO fila 50. | ACTUALIZACION posterior (VIG, fila 90): quinto competidor, TER el mas bajo de TODO el cluster (0.04%, incluso mas barato que SCHD) y AUM el mas grande (mayor incluso que SCHD), PERO tambien el P/E mas caro (25.03x) y yield mas bajo (1.46%), con overlap SEVERO via AVGO -NO COMPRAR, superciclo IA- como posicion #1 del fondo. Score 3.34, el segundo mas bajo del cluster tras NOBL. Ver Ficha VIG fila 50. | ACTUALIZACION posterior (HDV, fila 91): sexto competidor, el MAS DEFENSIVO del cluster (beta 0.55) con distribucion mensual unica y filtro de moat, pero con concentracion en Energia (XOM+CVX 13.53%) y overlap moderado via XOM (valoracion exigente). Score 3.41. Ver Ficha HDV fila 50. | ACTUALIZACION posterior (VYM, fila 92): septimo competidor, EL MAS DIVERSIFICADO del cluster (618 holdings) y TER minimo (0.04%), pero con el OVERLAP MAS SEVERO del cluster via AVGO+CAT (ambos NO COMPRAR-superciclo IA, 9.26% combinado). Score 3.44. Ver Ficha VYM fila 50.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Frente a competidores directos de la categoría 'core quality dividend': VYM (yield ~2.6-2.7%, TER 0.06%), DGRO (yield ~2.2%, TER 0.08%), HDV (yield ~3.4%, TER 0.08%), VIG (yield mas bajo, enfocado en crecimiento de dividendo mas que en yield actual, TER 0.05%). SCHD ofrece de los yields mas altos del grupo junto con uno de los TER mas bajos - muy competitivo en la categoría. | ACTUALIZASIÓN posterior (NOBL, fila 87): competidor equal-weight con screening mas estricto (25+ años consecutivos de crecimiento de dividendo vs los criterios compuestos de SCHD), diversificación estructural notablemente superior (Top10 16.2% vs 41.3% de SCHD, tope sectorial 30% por regla del índice), PERO 5.8x mas caro (TER 0.35% vs 0.06%), yield mucho menor (2.0% vs 3.1%) y retorno histórico notablemente inferior (1Y +15.62% vs +31.31%, CAGR desde inception +10.88% vs +12.7%). Ver Ficha NOBL fila 50 para el detalle completo de esta comparación. | ACTUALIZASIÓN posterior (DVY, fila 88): tercer competidor del cluster, criterio de sostenibilidad de dividendo (cobertura 5 años, EPS no negativo). Mas caro que SCHD (0.38% vs 0.06%) pero con P/E mas barato (14.93x vs 17.6x) y yield mas alto (3.23% vs 3.1%), track record mas largo (22.75 años, cubre Crisis 2008 directamente). Score 3.63, el segundo mas alto del trio tras SCHD. Ver Ficha DVY fila 50. | ACTUALIZASIÓN posterior (DGRO, fila 89): cuarto competidor, ponderado por dividendos en USD, TER casi tan bajo como SCHD (0.08% vs 0.06%) y CAGR desde inception el mas cercano a SCHD (+12.63% vs +12.7%) de los tres alternativos. Mas diversificado (397 holdings) e incluye mega-cap tech (MSFT/AAPL) con overlap excepcionalmente positivo, pero yield mas bajo (1.85% vs 3.1%) y P/E mas caro (22.21x vs 17.6x). Score 3.59, tercero del cluster. Ver Ficha DGRO fila 50. | ACTUALIZASIÓN posterior (VIG, fila 90): quinto competidor, TER el mas bajo de TODO el cluster (0.04%, incluso mas barato que SCHD) y AUM el mas grande (mayor incluso que SCHD), PERO también el P/E mas caro (25.03x) y yield mas bajo (1.46%), con overlap SEVERO via AVGO -NO COMPRAR, superciclo IA- como posición #1 del fondo. Score 3.34, el segundo mas bajo del cluster tras NOBL. Ver Ficha VIG fila 50. | ACTUALIZASIÓN posterior (HDV, fila 91): sexto competidor, el MAS DEFENSIVO del cluster (beta 0.55) con distribución mensual única y filtro de moat, pero con concentración en Energía (XOM+CVX 13.53%) y overlap moderado via XOM (valoración exigente). Score 3.41. Ver Ficha HDV fila 50. | ACTUALIZASIÓN posterior (VYM, fila 92): septimo competidor, EL MAS DIVERSIFICADO del cluster (618 holdings) y TER mínimo (0.04%), pero con el OVERLAP MAS SEVERO del cluster via AVGO+CAT (ambos NO COMPRAR-superciclo IA, 9.26% combinado). Score 3.44. Ver Ficha VYM fila 50.",
           "calificacion": 5
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol sugerido: CORE de la porcion dividendo/value del portafolio de renta variable. OJO: dado el overlap ya senalado (KO, PEP, VZ, MRK, CVX presentes tanto en SCHD como en el Dashboard de acciones individuales del usuario), evaluar si SCHD debe reemplazar gradualmente algunas posiciones individuales redundantes en vez de sumarse encima de ellas sin ajustar el resto del portafolio.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol sugerido: CORE de la porción dividendo/value del portafolio de renta variable. OJO: dado el overlap ya senalado (KO, PEP, VZ, MRK, CVX presentes tanto en SCHD como en el Dashboard de acciones individuales del usuario), evaluar si SCHD debe reemplazar gradualmente algunas posiciones individuales redundantes en vez de sumarse encima de ellas sin ajustar el resto del portafolio.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion diversificada y de bajo costo a ~100 empresas US de calidad con historial de dividendo sostenible (screening por ROE, flujo de caja/deuda y crecimiento de dividendo), sin necesidad de seleccionar y monitorear acciones individuales una por una. Beneficiario de la rotacion value/dividendo ya en curso (+31% 12m).",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición diversificada y de bajo costo a ~100 empresas US de calidad con historial de dividendo sostenible (screening por ROE, flujo de caja/deuda y crecimiento de dividendo), sin necesidad de seleccionar y monitorear acciones individuales una por una. Beneficiario de la rotación value/dividendo ya en curso (+31% 12m).",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) concentracion sectorial en 3 sectores ~55% del fondo; (2) sin exposicion a tech/growth de alto crecimiento -> riesgo de rezago prolongado en ciclos liderados por growth (ya ocurrido 2023-2024); (3) 100% US, sin diversificacion geografica; (4) overlap con posiciones individuales existentes del usuario reduce el beneficio de diversificacion marginal real.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentración sectorial en 3 sectores ~55% del fondo; (2) sin exposición a tech/growth de alto crecimiento -> riesgo de rezago prolongado en ciclos liderados por growth (ya ocurrido 2023-2024); (3) 100% US, sin diversificación geográfica; (4) overlap con posiciones individuales existentes del usuario reduce el beneficio de diversificación marginal real.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Alternativas directas: VYM (mas diversificado, yield algo menor), DGRO (enfoque en crecimiento de dividendo, yield menor), HDV (yield algo mayor, mas concentrado en Energy/Healthcare), VIG (enfoque en calidad/consistencia de crecimiento del dividendo, yield mas bajo). SCHD se mantiene como referencia 'core' de la categoria por su combinacion de yield + costo + track record. NOBL (fila 87) tambien analizado con datos propios - equal-weight, mas diversificado estructuralmente pero mas caro y con peor retorno historico, ver comparacion completa en su Ficha. DVY (fila 88) tambien analizado - P/E mas barato y yield mas alto que SCHD pero mas caro en TER, ver comparacion completa en su Ficha. DGRO (fila 89) tambien analizado - el mas diversificado y con CAGR mas cercano a SCHD, pero yield mas bajo, ver comparacion completa en su Ficha. VIG (fila 90) tambien analizado - TER minimo pero overlap severo via AVGO, ver comparacion completa en su Ficha. HDV (fila 91) tambien analizado - el mas defensivo del cluster con filtro de moat, ver comparacion completa en su Ficha. VYM (fila 92) tambien analizado - el mas diversificado y barato del cluster, pero con el overlap mas severo via AVGO+CAT, ver comparacion completa en su Ficha.",
+          "notas": "Alternativas directas: VYM (mas diversificado, yield algo menor), DGRO (enfoque en crecimiento de dividendo, yield menor), HDV (yield algo mayor, mas concentrado en Energy/Healthcare), VIG (enfoque en calidad/consistencia de crecimiento del dividendo, yield mas bajo). SCHD se mantiene como referencia 'core' de la categoría por su combinación de yield + costo + track record. NOBL (fila 87) también analizado con datos propios - equal-weight, mas diversificado estructuralmente pero mas caro y con peor retorno histórico, ver comparación completa en su Ficha. DVY (fila 88) también analizado - P/E mas barato y yield mas alto que SCHD pero mas caro en TER, ver comparación completa en su Ficha. DGRO (fila 89) también analizado - el mas diversificado y con CAGR mas cercano a SCHD, pero yield mas bajo, ver comparación completa en su Ficha. VIG (fila 90) también analizado - TER mínimo pero overlap severo via AVGO, ver comparación completa en su Ficha. HDV (fila 91) también analizado - el mas defensivo del cluster con filtro de moat, ver comparación completa en su Ficha. VYM (fila 92) también analizado - el mas diversificado y barato del cluster, pero con el overlap mas severo via AVGO+CAT, ver comparación completa en su Ficha.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER / ACUMULAR GRADUAL. Valoracion relativa: P/E 17.6x razonable frente al mercado amplio, pero yield TTM (3.1%) comprimido frente a su propio rango historico tras el rally +31% en 12 meses - no esta en su punto mas barato, tampoco caro. Score estructural alto (~4.06/5): bajo costo (TER 0.06%), replica fisica completa, liquidez muy alta, metodologia de indice transparente y probada en 14.8 anios incluyendo COVID. Principal matiz para este usuario especifico: overlap significativo con posiciones individuales ya existentes (KO, PEP, VZ, MRK, CVX) - evaluar consolidar en vez de sumar exposicion duplicada. Pendientes de verificar en proxima sesion: Tracking Difference exacta, retornos 3Y/5Y, spread bid-ask exacto y percentil historico de P/E/yield con serie de tiempo propia."
+    "tesis": "MANTENER / ACUMULAR GRADUAL. Valoración relativa: P/E 17.6x razonable frente al mercado amplio, pero yield TTM (3.1%) comprimido frente a su propio rango histórico tras el rally +31% en 12 meses - no esta en su punto mas barato, tampoco caro. Score estructural alto (~4.06/5): bajo costo (TER 0.06%), réplica física completa, liquidez muy alta, metodología de índice transparente y probada en 14.8 años incluyendo COVID. Principal matiz para este usuario específico: overlap significativo con posiciones individuales ya existentes (KO, PEP, VZ, MRK, CVX) - evaluar consolidar en vez de sumar exposición duplicada. Pendientes de verificar en proxima sesión: Tracking Difference exacta, retornos 3Y/5Y, spread bid-ask exacto y percentil histórico de P/E/yield con serie de tiempo propia."
   }
 }

@@ -1,36 +1,36 @@
 {
   "nombre": "ProShares Ultra Gold",
   "ticker": "UGL",
-  "categoria": "Materias Primas Apalancado/Inverso (+2x diario sobre oro via futuros/swaps - QUINTO instrumento apalancado/inverso del proyecto, PRIMERO con resultado historico NETO POSITIVO gracias al mercado alcista secular del oro)",
+  "categoria": "Materias Primas Apalancado/Inverso (+2x diario sobre oro via futuros/swaps - QUINTO instrumento apalancado/inverso del proyecto, PRIMERO con resultado histórico NETO POSITIVO gracias al mercado alcista secular del oro)",
   "emisor": "ProShares",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica SINTETICA via futuros de oro (dic-2026) Y SWAPS con contrapartes bancarias NOMBRADAS (Citibank, UBS, Goldman Sachs) - misma estructura que ZSL, riesgo de contraparte bancario explicito ademas del riesgo de camara de compensacion de los futuros.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica SINTETICA via futuros de oro (dic-2026) Y SWAPS con contrapartes bancarias NOMBRADAS (Citibank, UBS, Goldman Sachs) - misma estructura que ZSL, riesgo de contraparte bancario explicito además del riesgo de camara de compensación de los futuros.",
           "calificacion": 2
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - QUINTA confirmacion de esta complejidad fiscal en la categoria apalancado/inverso del proyecto (tras KOLD/ZSL/SCO/BOIL).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - QUINTA confirmación de esta complejidad fiscal en la categoría apalancado/inverso del proyecto (tras KOLD/ZSL/SCO/BOIL).",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $684.19M - TERCERO mas grande de los cinco apalancados/inversos del proyecto (tras SCO ~$744M-1.14bn y BOIL $356M), refleja el interes sostenido en exposicion apalancada al oro.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $684.19M - TERCERO mas grande de los cinco apalancados/inversos del proyecto (tras SCO ~$744M-1.14bn y BOIL $356M), refleja el interés sostenido en exposición apalancada al oro.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 1-dic-2008 (~17.7 anios) - MISMA fecha que ZSL (aunque distinto commodity), cubre la Crisis Financiera 2008 DIRECTAMENTE desde su nacimiento.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 1-dic-2008 (~17.7 años) - MISMA fecha que ZSL (aunque distinto commodity), cubre la Crisis Financiera 2008 DIRECTAMENTE desde su nacimiento.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor ProShares - QUINTA aparicion consecutiva en el proyecto (tras KOLD/ZSL/SCO/BOIL).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor ProShares - QUINTA aparición consecutiva en el proyecto (tras KOLD/ZSL/SCO/BOIL).",
           "calificacion": 4
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.95% - IDENTICO a KOLD/ZSL/SCO/BOIL, QUINTA confirmacion del precio estandar de la linea Ultra/UltraShort de materias primas de ProShares.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.95% - IDENTICO a KOLD/ZSL/SCO/BOIL, QUINTA confirmación del precio estándar de la línea Ultra/UltraShort de materias primas de ProShares.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "A diferencia de los cuatro apalancados/inversos previos del proyecto, el resultado NETO desde inception es POSITIVO (ver fila 39) porque el oro ha estado en tendencia alcista secular. PERO el decay estructural SIGUE PRESENTE: una fuente documenta que en 2026 'UGL sank 23% YTD' en un tramo del anio pese a que el oro solo se movio ~16% en esa ventana, evidenciando que el decay por rebalanceo diario devora parte del retorno esperado incluso en tendencia favorable - el mecanismo no desaparece, solo queda enmascarado por la magnitud del movimiento direccional a favor.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "A diferencia de los cuatro apalancados/inversos previos del proyecto, el resultado NETO desde inception es POSITIVO (ver fila 39) porque el oro ha estado en tendencia alcista secular. PERO el decay estructural SIGUE PRESENTE: una fuente documenta que en 2026 'UGL sank 23% YTD' en un tramo del año pese a que el oro solo se movio ~16% en esa ventana, evidenciando que el decay por rebalanceo diario devora parte del retorno esperado incluso en tendencia favorable - el mecanismo no desaparece, solo queda enmascarado por la magnitud del movimiento direccional a favor.",
           "calificacion": 2
         }
       ],
@@ -56,96 +56,96 @@
       "titulo": "Securities lending: revenue generado y % que compensa el TER",
       "aspectos": [
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion DIARIA de los contratos de futuros y swaps de oro - misma mecanica que KOLD/ZSL/SCO/BOIL.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación DIARIA de los contratos de futuros y swaps de oro - misma mecánica que KOLD/ZSL/SCO/BOIL.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario ~1.82M acciones/dia (~$93.4M/dia al precio actual $51.32) - LA MEJOR liquidez en dolares de los cinco apalancados/inversos del proyecto.",
+          "notas": "Volumen diario ~1.82M acciones/dia (~$93.4M/dia al precio actual $51.32) - LA MEJOR liquidez en dólares de los cinco apalancados/inversos del proyecto.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "ProShares - misma profundidad de Authorized Participants que el resto de la linea apalancada/inversa del proyecto.",
+          "notas": "ProShares - misma profundidad de Authorized Participants que el resto de la línea apalancada/inversa del proyecto.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Numero de holdings y diversificacion",
+      "titulo": "Número de holdings y diversificación",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg Gold Subindex, UN SOLO commodity, +2x diario via futuros/swaps - metodologia transparente pero deliberadamente NO diversificada, misma estructura que el resto de la categoria.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg Gold Subindex, UN SOLO commodity, +2x diario via futuros/swaps - metodología transparente pero deliberadamente NO diversificada, misma estructura que el resto de la categoría.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo DIARIO al cierre de cada sesion para mantener el objetivo +2x - identico mecanismo a KOLD/ZSL/SCO/BOIL, QUINTA confirmacion consecutiva del patron estructural de decay por rebalanceo diario, presente independientemente de si el resultado neto termina siendo positivo o negativo.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo DIARIO al cierre de cada sesión para mantener el objetivo +2x - identico mecanismo a KOLD/ZSL/SCO/BOIL, QUINTA confirmación consecutiva del patrón estructural de decay por rebalanceo diario, presente independientemente de si el resultado neto termina siendo positivo o negativo.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = **+41.76%** (incl. dividendos). Retorno desde inception (17.7 anios) = **+12.44% a +12.82% CAGR** - PRIMER resultado historico NETO POSITIVO de los cinco apalancados/inversos del proyecto (KOLD -11.94%, ZSL -42%, SCO -26%, BOIL -57.80%, todos negativos), reflejo directo del mercado alcista secular del oro, acentuado por el rally reciente del ultimo anio.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = **+41.76%** (incl. dividendos). Retorno desde inception (17.7 años) = **+12.44% a +12.82% CAGR** - PRIMER resultado histórico NETO POSITIVO de los cinco apalancados/inversos del proyecto (KOLD -11.94%, ZSL -42%, SCO -26%, BOIL -57.80%, todos negativos), reflejo directo del mercado alcista secular del oro, acentuado por el rally reciente del último año.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad: rango de 52 semanas $34.35-$90.40 (ratio 2.63x) - LA MENOS EXTREMA de los cinco apalancados/inversos del proyecto (KOLD 3.7x, ZSL 16.76x, SCO 3.68x, BOIL 5.09x), aunque sigue siendo notablemente superior a cualquier ETF de accion/bono diversificado del proyecto.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad: rango de 52 semanas $34.35-$90.40 (ratio 2.63x) - LA MENOS EXTREMA de los cinco apalancados/inversos del proyecto (KOLD 3.7x, ZSL 16.76x, SCO 3.68x, BOIL 5.09x), aunque sigue siendo notablemente superior a cualquier ETF de acción/bono diversificado del proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el hallazgo de 'sank 23% YTD' en un tramo de 2026 (fila 19) confirma que existen caidas intra-periodo severas incluso dentro de una tendencia anual positiva, mismo tipo de riesgo de volatilidad ya visto en el resto de la categoria, solo que enmascarado por el resultado final favorable.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero el hallazgo de 'sank 23% YTD' en un tramo de 2026 (fila 19) confirma que existen caidas intra-período severas incluso dentro de una tendencia anual positiva, mismo tipo de riesgo de volatilidad ya visto en el resto de la categoría, solo que enmascarado por el resultado final favorable.",
           "calificacion": 2
         }
       ],
@@ -155,8 +155,8 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = **+0.34** - PRIMER beta positivo no trivial de los cinco apalancados/inversos del proyecto (KOLD -0.11, ZSL -1.14, SCO -0.39, BOIL -0.02), pero sigue sin ser un diversificador estructuralmente fiable: el precio de UGL esta dominado por la dinamica del oro como activo refugio/monetario, no por una relacion estable con la renta variable.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = **+0.34** - PRIMER beta positivo no trivial de los cinco apalancados/inversos del proyecto (KOLD -0.11, ZSL -1.14, SCO -0.39, BOIL -0.02), pero sigue sin ser un diversificador estructuralmente fiable: el precio de UGL esta dominado por la dinámica del oro como activo refugio/monetario, no por una relación estable con la renta variable.",
           "calificacion": 2
         }
       ],
@@ -168,26 +168,26 @@
       "rating_promedio": null
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Sin competidor +2x directo sobre oro de otro emisor identificado esta sesion. GLL (mismo emisor ProShares, -2x CORTO sobre el mismo indice) seria el espejo direccional opuesto, no analizado en el workbook. GLD/IAU/SGOL/GLDM (exposicion 1x fisica simple al oro, sin apalancamiento) serian la alternativa logica si se buscara exposicion direccional sin el decay amplificado del +2x. | ACTUALIZACION posterior (SGOL, fila 84): ahora con datos propios verificados, SGOL confirma ser la exposicion 'limpia' 1x fisica al oro que UGL solo aproxima con apalancamiento y decay adicional. Curiosamente el CAGR nominal de UGL (+12.44%) supera al de SGOL (+8.83%) porque la tendencia alcista del oro fue tan fuerte que el apalancamiento amplifico la ganancia pese al decay - pero SGOL tiene volatilidad y riesgo ordenes de magnitud menores, TER minimo (0.17%) y Score EL MAS ALTO de todo el proyecto en materias primas (3.81). Ver Ficha SGOL fila 50 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Sin competidor +2x directo sobre oro de otro emisor identificado esta sesión. GLL (mismo emisor ProShares, -2x CORTO sobre el mismo índice) seria el espejo direccional opuesto, no analizado en el workbook. GLD/IAU/SGOL/GLDM (exposición 1x física simple al oro, sin apalancamiento) serian la alternativa logica si se buscara exposición direccional sin el decay amplificado del +2x. | ACTUALIZASIÓN posterior (SGOL, fila 84): ahora con datos propios verificados, SGOL confirma ser la exposición 'limpia' 1x física al oro que UGL solo aproxima con apalancamiento y decay adicional. Curiosamente el CAGR nominal de UGL (+12.44%) supera al de SGOL (+8.83%) porque la tendencia alcista del oro fue tan fuerte que el apalancamiento amplifico la ganancia pese al decay - pero SGOL tiene volatilidad y riesgo ordenes de magnitud menores, TER mínimo (0.17%) y Score EL MAS ALTO de todo el proyecto en materias primas (3.81). Ver Ficha SGOL fila 50 para el detalle completo.",
           "calificacion": 3
         }
       ],
@@ -197,23 +197,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - misma categoria estructural que KOLD/ZSL/SCO/BOIL. El buen resultado historico reciente NO cambia esta clasificacion: refleja haber acertado la direccion del oro en el pasado, no una propiedad estructural del instrumento que garantice resultados futuros similares.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: TÁCTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - misma categoría estructural que KOLD/ZSL/SCO/BOIL. El buen resultado histórico reciente NO cambia esta clasificación: refleja haber acertado la dirección del oro en el pasado, no una propiedad estructural del instrumento que garantice resultados futuros similares.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: unicamente tiene sentido como (a) cobertura tactica de exposicion real a un alza del oro por un horizonte de pocos dias, o (b) apuesta direccional alcista de trading de muy corto plazo. El buen resultado desde 2008 es la contraparte exacta del mal resultado de BOIL (fila 76) bajo la misma logica: decay + direccion correcta = ganancia amplificada; decay + direccion incorrecta = perdida amplificada - ninguno de los dos casos valida un uso de compra-y-mantenimiento.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: unicamente tiene sentido como (a) cobertura táctica de exposición real a un alza del oro por un horizonte de pocos dias, o (b) apuesta direccional alcista de trading de muy corto plazo. El buen resultado desde 2008 es la contraparte exacta del mal resultado de BOIL (fila 76) bajo la misma logica: decay + dirección correcta = ganancia amplificada; decay + dirección incorrecta = pérdida amplificada - ninguno de los dos casos valida un uso de compra-y-mantenimiento.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) decay estructural presente incluso en tendencia favorable (evidencia 'sank 23% YTD' pese a buen resultado anual); (2) volatilidad elevada, aunque la menor de los cinco apalancados/inversos del proyecto; (3) riesgo de contraparte bancario NOMBRADO en swaps (Citibank, UBS, Goldman Sachs); (4) complejidad fiscal via K-1; (5) el resultado historico positivo depende enteramente de haber acertado la direccion del oro - una reversion de tendencia revertiria rapidamente la ganancia acumulada via el mismo mecanismo de decay que ya devasto a BOIL en direccion contraria.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) decay estructural presente incluso en tendencia favorable (evidencia 'sank 23% YTD' pese a buen resultado anual); (2) volatilidad elevada, aunque la menor de los cinco apalancados/inversos del proyecto; (3) riesgo de contraparte bancario NOMBRADO en swaps (Citibank, UBS, Goldman Sachs); (4) complejidad fiscal via K-1; (5) el resultado histórico positivo depende enteramente de haber acertado la dirección del oro - una reversión de tendencia revertiria rapidamente la ganancia acumulada via el mismo mecanismo de decay que ya devasto a BOIL en dirección contraria.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "GLL (mismo emisor, -2x CORTO, espejo direccional opuesto, no analizado en el workbook) y GLD/IAU/GLDM (exposicion 1x fisica simple sin apalancamiento, no analizadas) son alternativas adicionales. SGOL (fila 84) ahora tambien analizado en el workbook con datos propios - Score 3.81 el mas alto del proyecto en materias primas, ver comparacion completa en su Ficha.",
+          "notas": "GLL (mismo emisor, -2x CORTO, espejo direccional opuesto, no analizado en el workbook) y GLD/IAU/GLDM (exposición 1x física simple sin apalancamiento, no analizadas) son alternativas adicionales. SGOL (fila 84) ahora también analizado en el workbook con datos propios - Score 3.81 el mas alto del proyecto en materias primas, ver comparación completa en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -221,6 +221,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO (pese a ser el mejor resultado historico de la categoria). Score 2.65/5 - notablemente MAS ALTO que KOLD (2.35), ZSL (2.30), SCO (2.43) y BOIL (2.39), el QUINTO instrumento apalancado/inverso del proyecto: ProShares Ultra Gold, +2x diario sobre oro via futuros y swaps con contrapartes bancarias nombradas (Citibank, UBS, Goldman Sachs). Es el PRIMERO de los cinco con resultado historico neto POSITIVO: retorno 1Y +41.76%, CAGR desde inception (17.7 anios, desde dic-2008) +12.44% a +12.82% - resultado directo de que el oro ha estado en un mercado alcista secular, acentuado por un rally reciente historico. Sin embargo, esto NO cambia la clasificacion estructural: el decay por rebalanceo diario sigue presente de forma identica (evidencia encontrada de que UGL 'sank 23% YTD' en un tramo de 2026 pese a un movimiento menor del oro en esa ventana - el decay devora retorno incluso cuando la tendencia general favorece la posicion). El buen resultado de UGL es la contraparte exacta del pesimo resultado de BOIL (fila 76, mismo mecanismo, direccion equivocada, CAGR -57.80%): decay + direccion correcta = ganancia amplificada; decay + direccion incorrecta = perdida amplificada. Ninguno de los dos casos valida un uso de compra-y-mantenimiento, porque el resultado depende enteramente de acertar la direccion del commodity subyacente, no de una propiedad estructural favorable del instrumento. Una reversion de la tendencia del oro revertiria la ganancia acumulada con la misma velocidad con la que BOIL perdio la suya. Unico uso legitimo: cobertura tactica de exposicion real a un alza del oro por un horizonte de dias, o apuesta direccional alcista de trading de muy corto plazo - nunca como posicion Core o Satelite. Sin competidor +2x directo identificado; GLL (mismo emisor, -2x corto) es el espejo direccional opuesto; GLD/IAU/SGOL/GLDM (1x fisica simple) serian la via logica para exposicion direccional sin decay amplificado."
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO (pese a ser el mejor resultado histórico de la categoría). Score 2.65/5 - notablemente MAS ALTO que KOLD (2.35), ZSL (2.30), SCO (2.43) y BOIL (2.39), el QUINTO instrumento apalancado/inverso del proyecto: ProShares Ultra Gold, +2x diario sobre oro via futuros y swaps con contrapartes bancarias nombradas (Citibank, UBS, Goldman Sachs). Es el PRIMERO de los cinco con resultado histórico neto POSITIVO: retorno 1Y +41.76%, CAGR desde inception (17.7 años, desde dic-2008) +12.44% a +12.82% - resultado directo de que el oro ha estado en un mercado alcista secular, acentuado por un rally reciente histórico. Sin embargo, esto NO cambia la clasificación estructural: el decay por rebalanceo diario sigue presente de forma identica (evidencia encontrada de que UGL 'sank 23% YTD' en un tramo de 2026 pese a un movimiento menor del oro en esa ventana - el decay devora retorno incluso cuando la tendencia general favorece la posición). El buen resultado de UGL es la contraparte exacta del pesimo resultado de BOIL (fila 76, mismo mecanismo, dirección equivocada, CAGR -57.80%): decay + dirección correcta = ganancia amplificada; decay + dirección incorrecta = pérdida amplificada. Ninguno de los dos casos valida un uso de compra-y-mantenimiento, porque el resultado depende enteramente de acertar la dirección del commodity subyacente, no de una propiedad estructural favorable del instrumento. Una reversión de la tendencia del oro revertiria la ganancia acumulada con la misma velocidad con la que BOIL perdio la suya. Único uso legitimo: cobertura táctica de exposición real a un alza del oro por un horizonte de dias, o apuesta direccional alcista de trading de muy corto plazo - nunca como posición Core o Satélite. Sin competidor +2x directo identificado; GLL (mismo emisor, -2x corto) es el espejo direccional opuesto; GLD/IAU/SGOL/GLDM (1x física simple) serian la via logica para exposición direccional sin decay amplificado."
   }
 }

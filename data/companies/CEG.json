@@ -1,7 +1,7 @@
 {
   "empresa": "Constellation Energy Corporation",
   "ticker": "CEG",
-  "sector": "Energia - Generacion (Nuclear, Gas y Renovables)",
+  "sector": "Energía - Generación (Nuclear, Gas y Renovables)",
   "fecha_analisis": "2026-08-05",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Mayor generadora de energia libre de carbono de EEUU (spin-off de Exelon, feb-2022): flota nuclear de aprox 21 GW (la mas grande del pais) mas gas, hidro, eolica y solar. Tras la adquisicion de Calpine (cerrada ene-2026, 26.6 mil millones USD de enterprise value), la capacidad combinada sube a aprox 55-60 GW, sumando gas natural de respuesta rapida y geotermica - de generacion mercantil hacia contratos bilaterales de largo plazo (PPAs de 20 anios) directamente con hyperscalers de IA (Microsoft, Meta).",
+          "notas": "Mayor generadora de energía libre de carbono de EEUU (spin-off de Exelon, feb-2022): flota nuclear de aprox 21 GW (la mas grande del pais) mas gas, hidro, eolica y solar. Tras la adquisición de Calpine (cerrada ene-2026, 26.6 mil millones USD de enterprise value), la capacidad combinada sube a aprox 55-60 GW, sumando gas natural de respuesta rápida y geotermica - de generación mercantil hacia contratos bilaterales de largo plazo (PPAs de 20 años) directamente con hyperscalers de IA (Microsoft, Meta).",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Flota nuclear mas grande de EEUU, generacion libre de carbono de base 24-7 muy dificil de replicar (practicamente no se construyen plantas nucleares nuevas en EEUU hace decadas); barreras regulatorias extremas de la NRC; posicionamiento unico para capturar demanda de centros de datos de IA que requieren energia limpia y constante simultaneamente. Post-Calpine, la complementariedad nuclear mas gas amplia el moat frente a competidores solo-nucleares o solo-gas.",
+          "notas": "Flota nuclear mas grande de EEUU, generación libre de carbono de base 24-7 muy difícil de replicar (prácticamente no se construyen plantas nucleares nuevas en EEUU hace décadas); barreras regulatorias extremas de la NRC; posicionamiento único para capturar demanda de centros de datos de IA que requieren energía limpia y constante simultaneamente. Post-Calpine, la complementariedad nuclear mas gas amplia el moat frente a competidores solo-nucleares o solo-gas.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Mayor generador de electricidad de EEUU tras la adquisicion de Calpine (aprox 55 a 60 GW combinados). Mas de 5650 MW en contratos de energia limpia con hyperscalers (Microsoft via Crane-Three Mile Island 835 MW a 20 anios, Meta via Clinton Clean Energy Center 1121 MW a 20 anios) - comparable directo mas cercano de este Dashboard es VST (Vistra), que firmo un acuerdo similar con Meta por aprox 2600 MW en ene-2026.",
+          "notas": "Mayor generador de electricidad de EEUU tras la adquisición de Calpine (aprox 55 a 60 GW combinados). Mas de 5650 MW en contratos de energía limpia con hyperscalers (Microsoft via Crane-Three Mile Island 835 MW a 20 años, Meta via Clinton Clean Energy Center 1121 MW a 20 años) - comparable directo mas cercano de este Dashboard es VST (Vistra), que firmo un acuerdo similar con Meta por aprox 2600 MW en ene-2026.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Fuerte via contratos bilaterales de largo plazo a 20 anios con hyperscalers que aseguran flujo de caja contratado independiente de la volatilidad de precios mercantiles; migracion activa de exposicion mercantil hacia estos contratos reduce el riesgo de precio de electricidad mayorista.",
+          "notas": "Fuerte via contratos bilaterales de largo plazo a 20 años con hyperscalers que aseguran flujo de caja contratado independiente de la volatilidad de precios mercantiles; migración activa de exposición mercantil hacia estos contratos reduce el riesgo de precio de electricidad mayorista.",
           "calificacion": 4
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Adquisicion de Calpine por aprox 16.4 mil millones USD de equity (4.5 mil millones USD en efectivo mas 50 millones de acciones nuevas) cerrada en ene-2026, la mayor operacion de M&A de la empresa desde el spin-off - casi duplico activos totales (57.25 mil millones USD a 96.91 mil millones USD) y triplico deuda total (8.99 mil millones USD a 22.47 mil millones USD) en un solo trimestre. Reactivacion de Crane-Three Mile Island respaldada por prestamo federal de 1000 millones USD, cronograma acelerado a 2027.",
+          "notas": "Adquisición de Calpine por aprox 16.4 mil millones USD de equity (4.5 mil millones USD en efectivo mas 50 millones de acciones nuevas) cerrada en ene-2026, la mayor operación de M&A de la empresa desde el spin-off - casi duplico activos totales (57.25 mil millones USD a 96.91 mil millones USD) y triplico deuda total (8.99 mil millones USD a 22.47 mil millones USD) en un solo trimestre. Reactivación de Crane-Three Mile Island respaldada por prestamo federal de 1000 millones USD, cronograma acelerado a 2027.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO Joseph Dominguez en el cargo desde el spin-off (feb-2022), con trayectoria previa como CEO de ComEd y en asuntos regulatorios de Exelon - perfil con fuerte experiencia regulatoria, relevante dado el peso de NRC-FERC-PJM en la tesis de inversion.",
+          "notas": "CEO Joseph Dominguez en el cargo desde el spin-off (feb-2022), con trayectoria previa como CEO de ComEd y en asuntos regulatorios de Exelon - perfil con fuerte experiencia regulatoria, relevante dado el peso de NRC-FERC-PJM en la tesis de inversión.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Una sola clase de acciones ordinarias, sin estructura dual-class - gobernanza simple, board completamente renovado en ene-2022 al momento del spin-off de Exelon, con continuidad institucional via el Chairman Robert J. Lawless (ex-director de la antigua Constellation Energy Group previa a la fusion con Exelon en 2012).",
+          "notas": "Una sola clase de acciones ordinarias, sin estructura dual-class - gobernanza simple, board completamente renovado en ene-2022 al momento del spin-off de Exelon, con continuidad institucional via el Chairman Robert J. Lawless (ex-director de la antigua Constellation Energy Group previa a la fusión con Exelon en 2012).",
           "calificacion": 4
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion trimestral solida con guidance especifico de Adjusted Operating Earnings (11.00 a 12.00 USD por accion para FY2026, reafirmado en Q1 2026); GOTCHA confirmado que aplica igual que VST: la utilidad neta GAAP y el flujo de caja operativo estan fuertemente distorsionados por mark-to-market de hedges de commodities (ejemplo Q1 2026: EPS GAAP 4.49 USD vs EPS ajustado 2.74 USD; Q1 2025 fue al reves, GAAP 0.38 USD vs ajustado 2.14 USD) - se debe usar la metrica Adjusted Operating Earnings, no la GAAP, para valorar la empresa.",
+          "notas": "Comunicación trimestral sólida con guidance específico de Adjusted Operating Earnings (11.00 a 12.00 USD por acción para FY2026, reafirmado en Q1 2026); GOTCHA confirmado que aplica igual que VST: la utilidad neta GAAP y el flujo de caja operativo estan fuertemente distorsionados por mark-to-market de hedges de commodities (ejemplo Q1 2026: EPS GAAP 4.49 USD vs EPS ajustado 2.74 USD; Q1 2025 fue al reves, GAAP 0.38 USD vs ajustado 2.14 USD) - se debe usar la métrica Adjusted Operating Earnings, no la GAAP, para valorar la empresa.",
           "calificacion": 3
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda Neta a EBITDA aprox 2.6x (deuda total salto de 8.99 mil millones USD a 22.47 mil millones USD tras la adquisicion de Calpine en un solo trimestre) - apalancamiento moderado y razonable para grado de inversion (Moody's Baa1, mejorado desde Baa2 en abr-2024; S&P BBB+). Deuda a Patrimonio aprox 0.66x a 0.67x, MUCHO menor que el apalancamiento de VST (aprox 6.59x segun el research) - CEG tiene un balance mas sano que su comparable mas cercano.",
+          "notas": "Deuda Neta a EBITDA aprox 2.6x (deuda total salto de 8.99 mil millones USD a 22.47 mil millones USD tras la adquisición de Calpine en un solo trimestre) - apalancamiento moderado y razonable para grado de inversión (Moody's Baa1, mejorado desde Baa2 en abr-2024; S&P BBB+). Deuda a Patrimonio aprox 0.66x a 0.67x, MUCHO menor que el apalancamiento de VST (aprox 6.59x según el research) - CEG tiene un balance mas sano que su comparable mas cercano.",
           "calificacion": 4
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.36x, prueba acida 1.17x - liquidez adecuada, consistente entre fuentes.",
+          "notas": "Razón corriente 1.36x, prueba acida 1.17x - liquidez adecuada, consistente entre fuentes.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Emisiones recientes de bonos (ago-2026) con cupones que reflejan el entorno de tasas actual (tramo a 40 anios con cupon de 5.875%); interest coverage de 8.04x, comodo dado el rating de grado de inversion (Baa1 y BBB+).",
+          "notas": "Emisiones recientes de bonos (ago-2026) con cupones que reflejan el entorno de tasas actual (tramo a 40 años con cupon de 5.875%); interest coverage de 8.04x, comodo dado el rating de grado de inversión (Baa1 y BBB+).",
           "calificacion": 4
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales 96.91 mil millones USD (Q1 2026, tras Calpine, +69% interanual), patrimonio 33.82 mil millones USD (+128% por la emision de 50 millones de acciones nuevas para pagar Calpine) - balance en plena transformacion por la adquisicion, no comparable limpio contra periodos previos al cierre de la operacion (7-ene-2026).",
+          "notas": "Activos totales 96.91 mil millones USD (Q1 2026, tras Calpine, +69% interanual), patrimonio 33.82 mil millones USD (+128% por la emisión de 50 millones de acciones nuevas para pagar Calpine) - balance en plena transformación por la adquisición, no comparable limpio contra períodos previos al cierre de la operación (7-ene-2026).",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Discrepancia notable entre fuentes de datos de mercado en margenes (bruto 22.85% stockanalysis vs 13.18% finviz; operativo 16.63% vs 10.75%) - probablemente por tratamiento distinto de compras de energia-combustible y hedges en el costo de ingresos reportado. Margen neto GAAP TTM aprox 12.7% a 13.3%, pero distorsionado por mark-to-market - la metrica Adjusted Operating Earnings de la propia empresa es mas representativa de la rentabilidad subyacente.",
+          "notas": "Discrepancia notable entre fuentes de datos de mercado en márgenes (bruto 22.85% stockanalysis vs 13.18% finviz; operativo 16.63% vs 10.75%) - probablemente por tratamiento distinto de compras de energía-combustible y hedges en el costo de ingresos reportado. Margen neto GAAP TTM aprox 12.7% a 13.3%, pero distorsionado por mark-to-market - la métrica Adjusted Operating Earnings de la propia empresa es mas representativa de la rentabilidad subyacente.",
           "calificacion": 3
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 16.10% a 16.33% (consistente entre fuentes), ROIC 8.03%, ambos razonables aunque no excepcionales. ROIC apenas ligeramente por debajo del costo de equity estimado (aprox 9.63%). DuPont point-in-time (11.21%) queda notablemente por debajo del ROE reportado, distorsionado por el salto de patrimonio a mitad del periodo TTM debido a la emision de acciones para pagar Calpine - mismo patron de no-reconciliacion por cambio rapido de base de patrimonio que NVDA, LLY o AAPL, aqui causado por M&A en vez de recompras o crecimiento organico.",
+          "notas": "ROE 16.10% a 16.33% (consistente entre fuentes), ROIC 8.03%, ambos razonables aunque no excepcionales. ROIC apenas ligeramente por debajo del costo de equity estimado (aprox 9.63%). DuPont point-in-time (11.21%) queda notablemente por debajo del ROE reportado, distorsionado por el salto de patrimonio a mitad del período TTM debido a la emisión de acciones para pagar Calpine - mismo patrón de no-reconciliación por cambio rápido de base de patrimonio que NVDA, LLY o AAPL, aquí causado por M&A en vez de recompras o crecimiento orgánico.",
           "calificacion": 3
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos baja (aprox 0.31x, Revenue TTM 29.87bn sobre Activos totales 96.91bn) - normal para un negocio de generacion de energia intensivo en capital, especialmente tras la consolidacion de los activos de Calpine.",
+          "notas": "Rotación de activos baja (aprox 0.31x, Revenue TTM 29.87bn sobre Activos totales 96.91bn) - normal para un negocio de generación de energía intensivo en capital, especialmente tras la consolidación de los activos de Calpine.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Crecimiento historico fuerte pero con un salto reciente inflado por M&A: CAGR de ingresos a 5 anios aprox 10.9% (2021 a TTM), pero el salto de 2025 a TTM 2026 refleja en gran parte la consolidacion parcial de Calpine, no crecimiento organico puro. Guia propia de la empresa de crecimiento de EPS base superior a 20% anual de 2026 a 2029, impulsado significativamente por la accretion de Calpine y el ramp-up de contratos con hyperscalers - no se extrapolo este 20%+ de forma literal en el DCF por el mismo criterio de descuento agresivo usado con NVDA, MU, TSM y PLTR.",
+          "notas": "Crecimiento histórico fuerte pero con un salto reciente inflado por M&A: CAGR de ingresos a 5 años aprox 10.9% (2021 a TTM), pero el salto de 2025 a TTM 2026 refleja en gran parte la consolidación parcial de Calpine, no crecimiento orgánico puro. Guia propia de la empresa de crecimiento de EPS base superior a 20% anual de 2026 a 2029, impulsado significativamente por la accretion de Calpine y el ramp-up de contratos con hyperscalers - no se extrapolo este 20%+ de forma literal en el DCF por el mismo criterio de descuento agresivo usado con NVDA, MU, TSM y PLTR.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Consistencia moderada: negocio de generacion mercantil historicamente volatil por precios de electricidad y por el ruido contable de mark-to-market de hedges, aunque la migracion hacia contratos de largo plazo con hyperscalers deberia suavizar la volatilidad de flujo de caja en los proximos anios. La accion cayo aprox 35% de pico a valle entre oct-2025 y jul-2026 por enfriamiento del sentimiento del AI power trade, pese a que el guidance fundamental se mantuvo esencialmente en linea.",
+          "notas": "Consistencia moderada: negocio de generación mercantil históricamente volatil por precios de electricidad y por el ruido contable de mark-to-market de hedges, aunque la migración hacia contratos de largo plazo con hyperscalers deberia suavizar la volatilidad de flujo de caja en los proximos años. La acción cayo aprox 35% de pico a valle entre oct-2025 y jul-2026 por enfriamiento del sentimiento del AI power trade, pese a que el guidance fundamental se mantuvo esencialmente en línea.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Reactivacion de Crane Clean Energy Center-Three Mile Island (cronograma acelerado a 2027, PPA de 20 anios por 835 MW con Microsoft); contrato con Meta via Clinton Clean Energy Center (1121 MW, 20 anios, desde jun-2027); sinergias de la integracion de Calpine (nuevo contrato con CyrusOne por 380 MW, con opcion de fase 2); acuerdo de 15 anios con Walmart (aprox 176 MW desde 2029-2030).",
+          "notas": "Reactivación de Crane Clean Energy Center-Three Mile Island (cronograma acelerado a 2027, PPA de 20 años por 835 MW con Microsoft); contrato con Meta via Clinton Clean Energy Center (1121 MW, 20 años, desde jun-2027); sinergias de la integración de Calpine (nuevo contrato con CyrusOne por 380 MW, con opción de fase 2); acuerdo de 15 años con Walmart (aprox 176 MW desde 2029-2030).",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "GOTCHA MAYOR: el flujo de caja operativo fue NEGATIVO en 2021, 2022, 2023 y 2024 (-1.34, -2.35, -5.30 y -2.46 mil millones USD respectivamente) pese a utilidad neta GAAP positiva en varios de esos anios - causado por grandes movimientos de capital de trabajo ligados a posting de colateral por hedges de commodities, actividad del fondo de decomisionamiento nuclear, y remedicion de obligaciones de retiro de activos. Recien en 2025 el OCF se volvio positivo (4.24 mil millones USD) - mismo patron estructural ya documentado para VST, confirmando que es un riesgo sectorial comun a generadoras mercantiles con hedges de commodities significativos.",
+          "notas": "GOTCHA MAYOR: el flujo de caja operativo fue NEGATIVO en 2021, 2022, 2023 y 2024 (-1.34, -2.35, -5.30 y -2.46 mil millones USD respectivamente) pese a utilidad neta GAAP positiva en varios de esos años - causado por grandes movimientos de capital de trabajo ligados a posting de colateral por hedges de commodities, actividad del fondo de decomisionamiento nuclear, y remedición de obligaciones de retiro de activos. Recien en 2025 el OCF se volvio positivo (4.24 mil millones USD) - mismo patrón estructural ya documentado para VST, confirmando que es un riesgo sectorial comun a generadoras mercantiles con hedges de commodities significativos.",
           "calificacion": 2
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF fue NEGATIVO en FY2022, FY2023 y FY2024 (-4.04, -7.72 y -5.03 mil millones USD) y recien se volvio positivo en FY2025 (+1.29 mil millones USD) y TTM (+1.14 mil millones USD) - historial muy volatil que hace que el P a FCF de mercado actual (aprox 84x) no sea comparable de forma directa con una empresa de FCF estable. Se uso la guia propia de Adjusted Operating Earnings (no el FCF historico) como base del DCF, mismo criterio que VST.",
+          "notas": "FCF fue NEGATIVO en FY2022, FY2023 y FY2024 (-4.04, -7.72 y -5.03 mil millones USD) y recien se volvio positivo en FY2025 (+1.29 mil millones USD) y TTM (+1.14 mil millones USD) - historial muy volatil que hace que el P a FCF de mercado actual (aprox 84x) no sea comparable de forma directa con una empresa de FCF estable. Se uso la guia propia de Adjusted Operating Earnings (no el FCF histórico) como base del DCF, mismo criterio que VST.",
           "calificacion": 2
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex en tendencia creciente (2.42, 2.57, 2.95 y 3.42 mil millones USD TTM en los ultimos cuatro periodos) - mezcla de mantenimiento y extension de vida util de plantas nucleares existentes mas la inversion en la reactivacion de Crane-Three Mile Island; guidance especifico de capex FY2026 no confirmado con una cifra puntual en esta sesion.",
+          "notas": "Capex en tendencia creciente (2.42, 2.57, 2.95 y 3.42 mil millones USD TTM en los últimos cuatro períodos) - mezcla de mantenimiento y extensión de vida util de plantas nucleares existentes mas la inversión en la reactivación de Crane-Three Mile Island; guidance específico de capex FY2026 no confirmado con una cifra puntual en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Uso de capital dominado por la adquisicion estrategica de Calpine (16.4 mil millones USD de equity) y la reinversion en extension de vida util nuclear y reactivacion de Crane-TMI; dividendo modesto pero en crecimiento (1.71 USD por accion anualizado, yield 0.64%, payout ratio 14.57%, +10% interanual).",
+          "notas": "Uso de capital dominado por la adquisición estratégica de Calpine (16.4 mil millones USD de equity) y la reinversión en extensión de vida util nuclear y reactivación de Crane-TMI; dividendo modesto pero en crecimiento (1.71 USD por acción anualizado, yield 0.64%, payout ratio 14.57%, +10% interanual).",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "PE TTM aprox 22.7x a 23.1x, forward PE entre 20.0x y 22.7x segun fuente, EV a EBITDA 14.4x, P a FCF extremadamente alto (aprox 84x, pero no comparable dado el historial de FCF negativo reciente). PEG discrepante entre fuentes (0.91 Finviz vs 1.48 stockanalysis). Mas caro que su comparable directo VST (forward PE aprox 18x) - el mercado paga una prima por la pureza nuclear de CEG frente al perfil mas diversificado y apalancado de VST.",
+          "notas": "PE TTM aprox 22.7x a 23.1x, forward PE entre 20.0x y 22.7x según fuente, EV a EBITDA 14.4x, P a FCF extremadamente alto (aprox 84x, pero no comparable dado el historial de FCF negativo reciente). PEG discrepante entre fuentes (0.91 Finviz vs 1.48 stockanalysis). Mas caro que su comparable directo VST (forward PE aprox 18x) - el mercado paga una prima por la pureza nuclear de CEG frente al perfil mas diversificado y apalancado de VST.",
           "calificacion": 3
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio (adoptado, metodologia adaptada por el mismo gotcha de mark-to-market ya documentado para VST): FCF base = guia propia de Adjusted Operating Earnings FY2026 (punto medio 11.50 USD por accion x 357.1 millones de acciones = aprox 4110 millones USD), descontada al COSTO DE EQUITY (9.63%, beta 1.115 promedio Finviz y stockanalysis), no al WACC blend, porque la metrica ya es una medida apalancada post-interes (mismo corolario de VST). Crecimiento decreciente tipo fade de 20% a 6% en 5 anios, terminal 4% -> 308.00 USD por accion. Escenario de sensibilidad mas conservador (crecimiento plano 10%, no adoptado) da 274.40 USD, margen +3.2% - todavia positivo, conclusion razonablemente robusta.",
+          "notas": "DCF propio (adoptado, metodología adaptada por el mismo gotcha de mark-to-market ya documentado para VST): FCF base = guia propia de Adjusted Operating Earnings FY2026 (punto medio 11.50 USD por acción x 357.1 millones de acciones = aprox 4110 millones USD), descontada al COSTO DE EQUITY (9.63%, beta 1.115 promedio Finviz y stockanalysis), no al WACC blend, porque la métrica ya es una medida apalancada post-interés (mismo corolario de VST). Crecimiento decreciente tipo fade de 20% a 6% en 5 años, terminal 4% -> 308.00 USD por acción. Escenario de sensibilidad mas conservador (crecimiento plano 10%, no adoptado) da 274.40 USD, margen +3.2% - todavía positivo, conclusión razonablemente robusta.",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de seguridad +15.8% (precio actual 266.00 USD vs. valor intrinseco 308.00 USD) - banda de mantener o esperar mejor punto de entrada, por debajo del umbral de Comprar (+20% a +30%). Escenario mas conservador da +3.2%, todavia positivo. El consenso de analistas (objetivo promedio 351.24 a 352.91 USD, +32% de alza) es notablemente mas optimista que este DCF, aunque ambos apuntan en la MISMA direccion no negativa.",
+          "notas": "Margen de seguridad +15.8% (precio actual 266.00 USD vs. valor intrínseco 308.00 USD) - banda de mantener o esperar mejor punto de entrada, por debajo del umbral de Comprar (+20% a +30%). Escenario mas conservador da +3.2%, todavía positivo. El consenso de analistas (objetivo promedio 351.24 a 352.91 USD, +32% de alza) es notablemente mas optimista que este DCF, aunque ambos apuntan en la MISMA dirección no negativa.",
           "calificacion": 3
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM enorme y en expansion estructural: demanda de energia de centros de datos de IA que requiere generacion limpia y constante simultaneamente, un requisito que muy pocos generadores en EEUU pueden satisfacer a la escala de la flota nuclear de Constellation.",
+          "notas": "TAM enorme y en expansión estructural: demanda de energía de centros de datos de IA que requiere generación limpia y constante simultaneamente, un requisito que muy pocos generadores en EEUU pueden satisfacer a la escala de la flota nuclear de Constellation.",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Extremas para nueva generacion nuclear: licencias de operacion de la NRC son activos de decadas virtualmente imposibles de obtener de cero hoy; Constellation ya tiene la infraestructura, personal calificado y licencias existentes - barrera que ningun competidor puede replicar rapido, solo adquirir activos existentes (como hizo la propia Constellation con Calpine).",
+          "notas": "Extremas para nueva generación nuclear: licencias de operación de la NRC son activos de décadas virtualmente imposibles de obtener de cero hoy; Constellation ya tiene la infraestructura, personal calificado y licencias existentes - barrera que ningún competidor puede replicar rápido, solo adquirir activos existentes (como hizo la propia Constellation con Calpine).",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad moderada entre pocos generadores de escala comparable (Vistra el mas directo, NRG Energy, Talen Energy); poder de proveedor con concentracion relevante en combustible nuclear (aprox 50% del concentrado de uranio 2022-2026 proviene de solo tres proveedores, con exposicion geopolitica a enriquecimiento ruso historico); poder de comprador alto por parte de hyperscalers grandes; amenaza de sustitutos baja para generacion base nuclear; barreras de entrada extremas.",
+          "notas": "Rivalidad moderada entre pocos generadores de escala comparable (Vistra el mas directo, NRG Energy, Talen Energy); poder de proveedor con concentración relevante en combustible nuclear (aprox 50% del concentrado de uranio 2022-2026 proviene de solo tres proveedores, con exposición geopolitica a enriquecimiento ruso histórico); poder de comprador alto por parte de hyperscalers grandes; amenaza de sustitutos baja para generación base nuclear; barreras de entrada extremas.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Beta 1.11 a 1.12, moderadamente por encima de 1 - consistente con exposicion real a precios de electricidad mercantil y al sentimiento del AI power trade (rango de 52 semanas de 228.63 a 412.70 USD, amplitud de aprox 80% del minimo, refleja alta volatilidad idiosincratica reciente mas que ciclicidad economica tradicional).",
+          "notas": "Beta 1.11 a 1.12, moderadamente por encima de 1 - consistente con exposición real a precios de electricidad mercantil y al sentimiento del AI power trade (rango de 52 semanas de 228.63 a 412.70 USD, amplitud de aprox 80% del mínimo, refleja alta volatilidad idiosincratica reciente mas que ciclicidad económica tradicional).",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo regulatorio nuclear (NRC) activo: la reactivacion de Crane-Three Mile Island depende de aprobaciones pendientes, con la NRC esperando completar su revision en 2027; riesgo adicional de cambios en politica energetica o creditos fiscales para energia nuclear-limpia (propuestas federales recientes buscan que las grandes tecnologicas financien directamente nueva generacion y limitar retornos sobre capacidad existente).",
+          "notas": "Riesgo regulatorio nuclear (NRC) activo: la reactivación de Crane-Three Mile Island depende de aprobaciones pendientes, con la NRC esperando completar su revisión en 2027; riesgo adicional de cambios en política energetica o créditos fiscales para energía nuclear-limpia (propuestas federales recientes buscan que las grandes tecnologicas financien directamente nueva generación y limitar retornos sobre capacidad existente).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria minima - negocio casi enteramente domestico de EEUU (mercados PJM, ISO-NE, NYISO), no es un riesgo relevante de esta tesis.",
+          "notas": "Exposición cambiaria minima - negocio casi enteramente domestico de EEUU (mercados PJM, ISO-NE, NYISO), no es un riesgo relevante de esta tesis.",
           "calificacion": 4
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Concentracion de clientes real: dependencia fuerte de un numero reducido de contratos grandes con hyperscalers (Microsoft, Meta). Concentracion de proveedor de combustible nuclear: aprox 50% del concentrado de uranio del periodo 2022-2026 proviene de solo tres proveedores, con exposicion geopolitica a suministro de enriquecimiento ruso historico (el CEO ha pedido al Congreso financiamiento de aprox 3500 millones USD para fuentes domesticas alternativas).",
+          "notas": "Concentración de clientes real: dependencia fuerte de un número reducido de contratos grandes con hyperscalers (Microsoft, Meta). Concentración de proveedor de combustible nuclear: aprox 50% del concentrado de uranio del período 2022-2026 proviene de solo tres proveedores, con exposición geopolitica a suministro de enriquecimiento ruso histórico (el CEO ha pedido al Congreso financiamiento de aprox 3500 millones USD para fuentes domesticas alternativas).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de disrupcion bajo en el corto-mediano plazo (la generacion nuclear base load no tiene sustituto tecnologico directo a la escala requerida por los hyperscalers), pero riesgo de ejecucion tecnica real en la reactivacion de Crane-Three Mile Island (primera reactivacion completa de este tipo en la historia de EEUU, sin comparable directo).",
+          "notas": "Riesgo de disrupción bajo en el corto-mediano plazo (la generación nuclear base load no tiene sustituto tecnologico directo a la escala requerida por los hyperscalers), pero riesgo de ejecución técnica real en la reactivación de Crane-Three Mile Island (primera reactivación completa de este tipo en la historia de EEUU, sin comparable directo).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Generacion libre de carbono (nuclear, hidro, eolica, solar) se considera positiva en terminos de impacto climatico; el riesgo ESG mas relevante es el manejo de combustible nuclear gastado y la seguridad operativa de las plantas, temas bien regulados por la NRC pero con visibilidad publica alta ante cualquier incidente.",
+          "notas": "Generación libre de carbono (nuclear, hidro, eolica, solar) se considera positiva en términos de impacto climatico; el riesgo ESG mas relevante es el manejo de combustible nuclear gastado y la seguridad operativa de las plantas, temas bien regulados por la NRC pero con visibilidad pública alta ante cualquier incidente.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados de Q2 2026 se reportan el 6-ago-2026 (un dia despues de la fecha de este analisis, no incorporados todavia); avance de la revision regulatoria de la NRC para Crane-Three Mile Island; inicio del contrato con Meta via Clinton Clean Energy Center desde jun-2027; integracion continua de los activos de Calpine.",
+          "notas": "Resultados de Q2 2026 se reportan el 6-ago-2026 (un dia después de la fecha de este analisis, no incorporados todavía); avance de la revisión regulatoria de la NRC para Crane-Three Mile Island; inicio del contrato con Meta via Clinton Clean Energy Center desde jun-2027; integración continua de los activos de Calpine.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Insider ownership aprox 6.5%, institutional ownership aprox 74.3% - no se identifico informacion especifica de compras o ventas recientes de insiders en esta sesion.",
+          "notas": "Insider ownership aprox 6.5%, institutional ownership aprox 74.3% - no se identifico información específica de compras o ventas recientes de insiders en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura amplia (23 analistas), calificacion de consenso Buy, objetivo promedio entre 351.24 y 352.91 USD, equivalente a un alza de aprox 32% desde el precio actual - notablemente mas optimista que este DCF propio (+15.8% en el escenario base), aunque ambos apuntan en la MISMA direccion no negativa. Dispersion real: Citi recorto su objetivo de 348 a 297 USD (rating Neutral) tras el guidance de abr-2026.",
+          "notas": "Cobertura amplia (23 analistas), calificación de consenso Buy, objetivo promedio entre 351.24 y 352.91 USD, equivalente a un alza de aprox 32% desde el precio actual - notablemente mas optimista que este DCF propio (+15.8% en el escenario base), aunque ambos apuntan en la MISMA dirección no negativa. Dispersión real: Citi recorto su objetivo de 348 a 297 USD (rating Neutral) tras el guidance de abr-2026.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.3513513513513513,
-    "recomendacion": "MANTENER - ESPERAR MEJOR PUNTO DE ENTRADA (DCF y consenso de analistas coinciden en direccion, el DCF propio es mas conservador)",
-    "tesis": "Mayor flota nuclear de EEUU con moat regulatorio extremo y posicionamiento unico para la demanda de energia de IA, pero atravesando una integracion de M&A transformadora (Calpine) y compartiendo con VST el mismo riesgo estructural de ruido contable por mark-to-market de hedges de commodities."
+    "recomendacion": "MANTENER - ESPERAR MEJOR PUNTO DE ENTRADA (DCF y consenso de analistas coinciden en dirección, el DCF propio es mas conservador)",
+    "tesis": "Mayor flota nuclear de EEUU con moat regulatorio extremo y posicionamiento único para la demanda de energía de IA, pero atravesando una integración de M&A transformadora (Calpine) y compartiendo con VST el mismo riesgo estructural de ruido contable por mark-to-market de hedges de commodities."
   }
 }

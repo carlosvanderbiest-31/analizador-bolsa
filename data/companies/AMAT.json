@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Portafolio mas amplio y diversificado de equipos de fabricacion de semiconductores del sector: deposicion (CVD-PVD-ALD), grabado (etch), implantacion ionica, planarizacion (CMP), metrologia e inspeccion - pocos competidores cubren tantos pasos del proceso de fabricacion de wafers. Ingresos TTM aprox 29.02bn USD (+3.3% interanual), con Applied Global Services (AGS: repuestos-servicios-actualizaciones) aportando una porcion recurrente que suaviza parcialmente la ciclicidad del negocio de equipos nuevos.",
+          "notas": "Portafolio mas amplio y diversificado de equipos de fabricación de semiconductores del sector: deposición (CVD-PVD-ALD), grabado (etch), implantación ionica, planarización (CMP), metrologia e inspección - pocos competidores cubren tantos pasos del proceso de fabricación de wafers. Ingresos TTM aprox 29.02bn USD (+3.3% interanual), con Applied Global Services (AGS: repuestos-servicios-actualizaciones) aportando una porción recurrente que suaviza parcialmente la ciclicidad del negocio de equipos nuevos.",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat de costos de cambio (switching costs) muy altos: la calificacion de un equipo nuevo en una linea de produccion de un fabricante de chips toma meses-anios, y una vez calificado es costoso-riesgoso cambiar de proveedor. Se suma escala (I+D de miles de millones USD anuales) y amplitud de portafolio (pocas empresas cubren tantos pasos del proceso como AMAT).",
+          "notas": "Moat de costos de cambio (switching costs) muy altos: la calificación de un equipo nuevo en una línea de producción de un fabricante de chips toma meses-años, y una vez calificado es costoso-riesgoso cambiar de proveedor. Se suma escala (I+D de miles de millones USD anuales) y amplitud de portafolio (pocas empresas cubren tantos pasos del proceso como AMAT).",
           "calificacion": 4
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider historico por amplitud de portafolio, pero senial de alerta reciente: AMAT (junto con Tokyo Electron) PERDIO cuota dentro de su mercado servible (SAM) en 2025, mientras Lam Research, KLA y ASML GANARON cuota en sus segmentos respectivos - primera senial de erosion competitiva documentada para AMAT en este Dashboard, a diferencia del liderazgo indiscutido de ASML en EUV.",
+          "notas": "Líder histórico por amplitud de portafolio, pero senial de alerta reciente: AMAT (junto con Tokyo Electron) PERDIO cuota dentro de su mercado servible (SAM) en 2025, mientras Lam Research, KLA y ASML GANARON cuota en sus segmentos respectivos - primera senial de erosión competitiva documentada para AMAT en este Dashboard, a diferencia del liderazgo indiscutido de ASML en EUV.",
           "calificacion": 3
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Moderado: el paso de proceso especifico donde cada herramienta se usa le da cierto poder de fijacion de precios, pero la base de clientes esta MUY concentrada (TSMC, Samsung, Intel, Micron, SK Hynix dominan el capex mundial de semiconductores) - a diferencia de ASML (monopolio EUV), AMAT enfrenta clientes grandes y sofisticados con alternativas en Lam-KLA-Tokyo Electron para varios pasos del proceso.",
+          "notas": "Moderado: el paso de proceso específico donde cada herramienta se usa le da cierto poder de fijación de precios, pero la base de clientes esta MUY concentrada (TSMC, Samsung, Intel, Micron, SK Hynix dominan el capex mundial de semiconductores) - a diferencia de ASML (monopolio EUV), AMAT enfrenta clientes grandes y sofisticados con alternativas en Lam-KLA-Tokyo Electron para varios pasos del proceso.",
           "calificacion": 3
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Excelente: 9 anios consecutivos de aumento del dividendo (incremento del 15% en mar-2026, de 0.46 a 0.53 USD por accion), CAGR de dividendo por accion del 18% en la ultima decada. Aprox 90% del FCF de los ultimos 10 anios fiscales devuelto a accionistas via dividendos y recompras. Autorizacion de recompra restante aprox 13.2bn USD.",
+          "notas": "Excelente: 9 años consecutivos de aumento del dividendo (incremento del 15% en mar-2026, de 0.46 a 0.53 USD por acción), CAGR de dividendo por acción del 18% en la última década. Aprox 90% del FCF de los últimos 10 años fiscales devuelto a accionistas via dividendos y recompras. Autorización de recompra restante aprox 13.2bn USD.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Senial mixta: el CEO Gary Dickerson (en el cargo desde 2013) vendio 161321 acciones en el ultimo anio (incluidas ventas de 78321 acciones el 29-30 jun-2026 por aprox 55.55M USD y 83000 acciones el 16-jun-2026 por aprox 49M USD) SIN NINGUNA COMPRA en el mismo periodo - patron de venta sostenida y de tamano relevante, distinto del patron neutral de retencion de impuestos por RSUs ya documentado en IONQ. Aun asi mantiene una posicion sustancial (1599843 acciones, aprox 870M USD al precio actual) tras las ventas.",
+          "notas": "Senial mixta: el CEO Gary Dickerson (en el cargo desde 2013) vendio 161321 acciones en el último año (incluidas ventas de 78321 acciones el 29-30 jun-2026 por aprox 55.55M USD y 83000 acciones el 16-jun-2026 por aprox 49M USD) SIN NINGUNA COMPRA en el mismo período - patrón de venta sostenida y de tamaño relevante, distinto del patrón neutral de retención de impuestos por RSUs ya documentado en IONQ. Aun así mantiene una posición sustancial (1599843 acciones, aprox 870M USD al precio actual) tras las ventas.",
           "calificacion": 2
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Clase unica de acciones, sin supervoto ni doble clase - estructura de gobernanza limpia, consistente con el resto de blue-chips del Dashboard (CSCO, ASML, ADBE).",
+          "notas": "Clase única de acciones, sin supervoto ni doble clase - estructura de gobernanza limpia, consistente con el resto de blue-chips del Dashboard (CSCO, ASML, ADBE).",
           "calificacion": 5
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion trimestral regular y guidance detallado (ej. guidance 3T FY2026: ingresos 8.95bn USD +/-500M, EPS no-GAAP 3.36 USD +/-0.20). Pero con una mancha de cumplimiento real: en feb-2026 AMAT acordo pagar una multa de 252.5M USD al Departamento de Comercio de EEUU por exportaciones ilegales de equipos a SMIC (China) entre 2016 y 2020 (aprox 180 herramientas por 1.4bn USD) - penaliza la calificacion pese a la comunicacion financiera regular de buena calidad.",
+          "notas": "Comunicación trimestral regular y guidance detallado (ej. guidance 3T FY2026: ingresos 8.95bn USD +/-500M, EPS no-GAAP 3.36 USD +/-0.20). Pero con una mancha de cumplimiento real: en feb-2026 AMAT acordo pagar una multa de 252.5M USD al Departamento de Comercio de EEUU por exportaciones ilegales de equipos a SMIC (China) entre 2016 y 2020 (aprox 180 herramientas por 1.4bn USD) - penaliza la calificación pese a la comunicación financiera regular de buena calidad.",
           "calificacion": 3
         }
       ],
@@ -67,12 +67,12 @@
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 2.51x, prueba acida (quick ratio) 1.62x - liquidez solida, tipica de un blue-chip de semiconductores con balance sano.",
+          "notas": "Razón corriente 2.51x, prueba acida (quick ratio) 1.62x - liquidez sólida, típica de un blue-chip de semiconductores con balance sano.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Deuda de grado de inversion, sin senales de vencimientos concentrados de corto plazo reportadas - no verificado con precision el calendario exacto de vencimientos esta sesion.",
+          "notas": "Deuda de grado de inversión, sin señales de vencimientos concentrados de corto plazo reportadas - no verificado con precisión el calendario exacto de vencimientos esta sesión.",
           "calificacion": 4
         },
         {
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margenes TTM fuertes: bruto 48.96%, operativo 28.59%, neto 29.31% - el margen bruto no-GAAP del 2T FY2026 fue el mas alto en mas de 25 anios. Senial a vigilar: el margen neto se COMPRIMIO de 26.4% en FY2024 (utilidad neta 7.177bn USD) a 24.67% en FY2025 (utilidad neta 6.998bn USD, primera caida interanual del periodo) pese a que los ingresos crecieron - el EPS record de FY2025 (8.66 USD) se debio en parte a la reduccion de acciones en circulacion via recompras, no solo a mejor rentabilidad (mismo patron ya documentado en NFLX). La compresion se revirtio con fuerza en los trimestres mas recientes (margen neto TTM ya de vuelta a 29.31%).",
+          "notas": "Márgenes TTM fuertes: bruto 48.96%, operativo 28.59%, neto 29.31% - el margen bruto no-GAAP del 2T FY2026 fue el mas alto en mas de 25 años. Senial a vigilar: el margen neto se COMPRIMIO de 26.4% en FY2024 (utilidad neta 7.177bn USD) a 24.67% en FY2025 (utilidad neta 6.998bn USD, primera caida interanual del período) pese a que los ingresos crecieron - el EPS récord de FY2025 (8.66 USD) se debio en parte a la reducción de acciones en circulación via recompras, no solo a mejor rentabilidad (mismo patrón ya documentado en NFLX). La compresión se revirtio con fuerza en los trimestres mas recientes (margen neto TTM ya de vuelta a 29.31%).",
           "calificacion": 4
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 38.39%, ROIC 32.47% - ambos muy por encima del WACC propio (aprox 12.3%), spread amplio que confirma creacion de valor economico solida.",
+          "notas": "ROE 38.39%, ROIC 32.47% - ambos muy por encima del WACC propio (aprox 12.3%), spread amplio que confirma creación de valor económico sólida.",
           "calificacion": 5
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada (0.76x), tipica de un fabricante de equipos con inventario pesado. El capital de trabajo aumento deliberadamente en el 2T FY2026 (inventario y logistica) para anticipar demanda futura - ver gotcha de FCF en fila 36.",
+          "notas": "Rotación de activos moderada (0.76x), típica de un fabricante de equipos con inventario pesado. El capital de trabajo aumento deliberadamente en el 2T FY2026 (inventario y logistica) para anticipar demanda futura - ver gotcha de FCF en fila 36.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Crecimiento de ingresos estable pero moderado en los ultimos 5 anios fiscales: FY2021 23.06bn USD a FY2025 28.37bn USD, CAGR aprox 5.4% - a diferencia de NVDA/UBER, esta cifra NO esta distorsionada por un efecto de base baja, es un crecimiento genuino y consistente ano a ano, sin ningun ano de caida en el periodo.",
+          "notas": "Crecimiento de ingresos estable pero moderado en los últimos 5 años fiscales: FY2021 23.06bn USD a FY2025 28.37bn USD, CAGR aprox 5.4% - a diferencia de NVDA/UBER, esta cifra NO esta distorsionada por un efecto de base baja, es un crecimiento genuino y consistente ano a ano, sin ningún ano de caida en el período.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Consistente en el periodo 2021-2025 (sin anios de caida), pero la industria de equipos de semiconductores tiene un historial de ciclicidad real (correcciones de capex de fabricantes de chips en 2019 y 2022-2023) que este periodo reciente de crecimiento estable no refleja completamente - ver fila 47.",
+          "notas": "Consistente en el período 2021-2025 (sin años de caida), pero la industria de equipos de semiconductores tiene un historial de ciclicidad real (correcciones de capex de fabricantes de chips en 2019 y 2022-2023) que este período reciente de crecimiento estable no refleja completamente - ver fila 47.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Superciclo de capex impulsado por IA: liderazgo de proceso avanzado (logic-foundry), DRAM, HBM (memoria de alto ancho de banda) y empaquetado avanzado creciendo simultaneamente. La propia empresa guia que su negocio de equipos de semiconductores crecera mas de 30% en el anio calendario 2026.",
+          "notas": "Superciclo de capex impulsado por IA: liderazgo de proceso avanzado (logic-foundry), DRAM, HBM (memoria de alto ancho de banda) y empaquetado avanzado creciendo simultaneamente. La propia empresa guia que su negocio de equipos de semiconductores crecera mas de 30% en el año calendario 2026.",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 7.993bn USD vs utilidad neta TTM 8.508bn USD (razon aprox 0.94x) - calidad de ganancias razonablemente alta, sin brecha significativa no explicada.",
+          "notas": "OCF TTM 7.993bn USD vs utilidad neta TTM 8.508bn USD (razón aprox 0.94x) - calidad de ganancias razonablemente alta, sin brecha significativa no explicada.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 5.343bn USD (OCF 7.993bn USD menos capex 2.650bn USD), pero con una caida real y explicada en el 2T FY2026: FCF trimestral cayo a solo 210M USD (desde 1.04bn USD en el 1T) por una inversion deliberada de capital de trabajo en inventario-logistica para preparar capacidad ante pronosticos de demanda de clientes a mas largo plazo - no es deterioro del negocio, es inversion anticipada, pero introduce volatilidad trimestral real a vigilar.",
+          "notas": "FCF TTM 5.343bn USD (OCF 7.993bn USD menos capex 2.650bn USD), pero con una caida real y explicada en el 2T FY2026: FCF trimestral cayo a solo 210M USD (desde 1.04bn USD en el 1T) por una inversión deliberada de capital de trabajo en inventario-logistica para preparar capacidad ante pronosticos de demanda de clientes a mas largo plazo - no es deterioro del negocio, es inversión anticipada, pero introduce volatilidad trimestral real a vigilar.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM aprox 2.65bn USD (aprox 9.1% de ingresos), mayoritariamente de CRECIMIENTO (expansion de capacidad de manufactura-I+D para el superciclo de demanda de IA), consistente con la narrativa de inversion anticipada de la fila 36.",
+          "notas": "Capex TTM aprox 2.65bn USD (aprox 9.1% de ingresos), mayoritariamente de CRECIMIENTO (expansión de capacidad de manufactura-I+D para el superciclo de demanda de IA), consistente con la narrativa de inversión anticipada de la fila 36.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Politica de retorno de capital muy disciplinada: aprox 90% del FCF de 10 anios devuelto via dividendos y recompras; distribuyo 765M USD a accionistas solo en el 2T FY2026. Sin M&A transformacional reciente (contraste directo con IONQ-CRWV) - crecimiento organico, no impulsado por adquisiciones grandes.",
+          "notas": "Política de retorno de capital muy disciplinada: aprox 90% del FCF de 10 años devuelto via dividendos y recompras; distribuyo 765M USD a accionistas solo en el 2T FY2026. Sin M&A transformacional reciente (contraste directo con IONQ-CRWV) - crecimiento orgánico, no impulsado por adquisiciones grandes.",
           "calificacion": 5
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "Multiplos en niveles historicamente EXTREMOS: P/E TTM aprox 50.7x (vs rangos historicos tipicos de AMAT de 15-25x en ciclos previos), EV/FCF implicito aprox 81x, EV/EBITDA estimado aprox 48x - refleja que el mercado esta pagando una prima muy alta por la continuidad del superciclo de capex de IA, no un nivel de valoracion normal para un fabricante de equipos ciclico.",
+          "notas": "Múltiplos en niveles históricamente EXTREMOS: P/E TTM aprox 50.7x (vs rangos históricos típicos de AMAT de 15-25x en ciclos previos), EV/FCF implícito aprox 81x, EV/EBITDA estimado aprox 48x - refleja que el mercado esta pagando una prima muy alta por la continuidad del superciclo de capex de IA, no un nivel de valoración normal para un fabricante de equipos ciclico.",
           "calificacion": 1
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio (Escenario A adoptado, conservador): FCF base TTM 5.343bn USD. WACC 12.3% (CAPM: Beta 1.62, Rf 3.5%, ERP 5.5% = Ke 12.41%; costo de deuda post-impuestos aprox 3.7% sobre una estructura con deuda al 1.5% del capital - WACC practicamente igual al costo de equity dado el apalancamiento minimo). Crecimiento fade 14%-12%-10%-8.5%-7% en 5 anios (anclado al guidance propio de +30% del segmento de equipos para el anio calendario 2026 en el corto plazo, moderando hacia el CAGR historico de 5.4% mas premio del ciclo de IA en el largo plazo); terminal 4%. Resultado: Valor Intrinseco 112.18 USD por accion. Caja neta sumada aprox 1.79bn USD.",
+          "notas": "DCF propio (Escenario A adoptado, conservador): FCF base TTM 5.343bn USD. WACC 12.3% (CAPM: Beta 1.62, Rf 3.5%, ERP 5.5% = Ke 12.41%; costo de deuda post-impuestos aprox 3.7% sobre una estructura con deuda al 1.5% del capital - WACC prácticamente igual al costo de equity dado el apalancamiento mínimo). Crecimiento fade 14%-12%-10%-8.5%-7% en 5 años (anclado al guidance propio de +30% del segmento de equipos para el año calendario 2026 en el corto plazo, moderando hacia el CAGR histórico de 5.4% mas premio del ciclo de IA en el largo plazo); terminal 4%. Resultado: Valor Intrínseco 112.18 USD por acción. Caja neta sumada aprox 1.79bn USD.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad: -79.5% (precio actual 546.11 USD vs. valor intrinseco 112.18 USD) - una de las lecturas mas negativas del Dashboard. Robustez confirmada con dos sensibilidades: (a) crecimiento mucho mas generoso (fade 20%-17%-14%-11%-8%, igualando el ritmo de +30% guiado por la empresa de forma sostenida): IV sube solo a 129.94 USD, MS -76.2%; (b) WACC mas bajo (11% en vez de 12.3%, asumiendo menor riesgo percibido): IV sube a 133.08 USD, MS -75.6%. La conclusion es robusta tanto al supuesto de crecimiento como al de WACC - el mercado esta pagando un multiplo que ningun escenario razonable de este DCF logra justificar.",
+          "notas": "Margen de Seguridad: -79.5% (precio actual 546.11 USD vs. valor intrínseco 112.18 USD) - una de las lecturas mas negativas del Dashboard. Robustez confirmada con dos sensibilidades: (a) crecimiento mucho mas generoso (fade 20%-17%-14%-11%-8%, igualando el ritmo de +30% guiado por la empresa de forma sostenida): IV sube solo a 129.94 USD, MS -76.2%; (b) WACC mas bajo (11% en vez de 12.3%, asumiendo menor riesgo percibido): IV sube a 133.08 USD, MS -75.6%. La conclusión es robusta tanto al supuesto de crecimiento como al de WACC - el mercado esta pagando un múltiplo que ningún escenario razonable de este DCF logra justificar.",
           "calificacion": 1
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de equipos de capital de semiconductores en expansion fuerte impulsado por inversion en IA (logica de vanguardia, DRAM, HBM, empaquetado avanzado) - multiples proyecciones ubican el mercado por encima de 150bn USD hacia 2029-2034, aunque con dispersion entre fuentes tipica de proyecciones de largo plazo de la industria.",
+          "notas": "Mercado de equipos de capital de semiconductores en expansión fuerte impulsado por inversión en IA (logica de vanguardia, DRAM, HBM, empaquetado avanzado) - múltiples proyecciones ubican el mercado por encima de 150bn USD hacia 2029-2034, aunque con dispersión entre fuentes típica de proyecciones de largo plazo de la industria.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas: decadas de I+D acumulado, relaciones de calificacion con fabricantes de chips que toman anios en construirse, portafolio de patentes extenso, escala de capital necesaria para competir en multiples pasos del proceso - barrera de entrada de las mas altas del Dashboard, junto con ASML.",
+          "notas": "Muy altas: décadas de I+D acumulado, relaciones de calificación con fabricantes de chips que toman años en construirse, portafolio de patentes extenso, escala de capital necesaria para competir en múltiples pasos del proceso - barrera de entrada de las mas altas del Dashboard, junto con ASML.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad ALTA entre 5 jugadores dominantes (AMAT, ASML, Lam Research, KLA, Tokyo Electron controlan en conjunto aprox 56-66% del mercado total). Poder de negociacion de proveedores bajo (componentes especializados pero AMAT tiene escala). Poder de negociacion de clientes alto (TSMC-Samsung-Intel-Micron-SK Hynix concentran la mayoria del capex mundial de semiconductores). Amenaza de sustitutos baja en el corto-mediano plazo. Nuevos entrantes: barrera alta pero no nula (AMAT ya perdio cuota ante competidores EXISTENTES en 2025, ver fila 14).",
+          "notas": "Rivalidad ALTA entre 5 jugadores dominantes (AMAT, ASML, Lam Research, KLA, Tokyo Electron controlan en conjunto aprox 56-66% del mercado total). Poder de negociación de proveedores bajo (componentes especializados pero AMAT tiene escala). Poder de negociación de clientes alto (TSMC-Samsung-Intel-Micron-SK Hynix concentran la mayoría del capex mundial de semiconductores). Amenaza de sustitutos baja en el corto-mediano plazo. Nuevos entrantes: barrera alta pero no nula (AMAT ya perdio cuota ante competidores EXISTENTES en 2025, ver fila 14).",
           "calificacion": 4
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Industria HISTORICAMENTE muy ciclica: el capex de los fabricantes de chips (foundries, memoria) tiene un historial de correcciones marcadas (2019, 2022-2023 downturn de memoria) que golpean directamente los pedidos de equipos de AMAT. El crecimiento estable reciente (2021-2025) no debe interpretarse como el fin de esa ciclicidad estructural - mismo tipo de riesgo ya documentado en MU-SNDK-SKHY para memoria, aqui aplicado al proveedor de equipos que sirve a esos mismos fabricantes.",
+          "notas": "Industria HISTÓRICAMENTE muy ciclica: el capex de los fabricantes de chips (foundries, memoria) tiene un historial de correcciones marcadas (2019, 2022-2023 downturn de memoria) que golpean directamente los pedidos de equipos de AMAT. El crecimiento estable reciente (2021-2025) no debe interpretarse como el fin de esa ciclicidad estructural - mismo tipo de riesgo ya documentado en MU-SNDK-SKHY para memoria, aquí aplicado al proveedor de equipos que sirve a esos mismos fabricantes.",
           "calificacion": 2
         }
       ],
@@ -203,7 +203,7 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo YA MATERIALIZADO, no solo potencial: los controles de exportacion de EEUU a China redujeron la cuota de ingresos de China de 43% (2T FY2025) a 25% (2T FY2026), con una perdida de ingresos estimada de 600-710M USD para el FY2026 completo. Ademas, AMAT pago una multa de 252.5M USD en feb-2026 por exportaciones ilegales pasadas a SMIC (2016-2020) - a diferencia de ASML (riesgo de China mayormente prospectivo), aqui el impacto financiero y de cumplimiento ya es real y cuantificado.",
+          "notas": "Riesgo YA MATERIALIZADO, no solo potencial: los controles de exportación de EEUU a China redujeron la cuota de ingresos de China de 43% (2T FY2025) a 25% (2T FY2026), con una pérdida de ingresos estimada de 600-710M USD para el FY2026 completo. Además, AMAT pago una multa de 252.5M USD en feb-2026 por exportaciones ilegales pasadas a SMIC (2016-2020) - a diferencia de ASML (riesgo de China mayormente prospectivo), aquí el impacto financiero y de cumplimiento ya es real y cuantificado.",
           "calificacion": 1
         },
         {
@@ -213,17 +213,17 @@
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Alta: la base de clientes esta dominada por un numero reducido de fabricantes de chips de escala mundial (TSMC, Samsung, Intel, Micron, SK Hynix) que concentran la mayoria del capex de la industria - riesgo de concentracion real, aunque diversificado entre varios clientes grandes en vez de un unico cliente dominante (a diferencia de CRWV-Microsoft).",
+          "notas": "Alta: la base de clientes esta dominada por un número reducido de fabricantes de chips de escala mundial (TSMC, Samsung, Intel, Micron, SK Hynix) que concentran la mayoría del capex de la industria - riesgo de concentración real, aunque diversificado entre varios clientes grandes en vez de un único cliente dominante (a diferencia de CRWV-Microsoft).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Moderado: AMAT mantiene cobertura amplia de pasos del proceso, pero la perdida de cuota documentada en 2025 frente a Lam Research, KLA y ASML en sus segmentos respectivos (fila 14) es una senial real de que la ventaja tecnologica no es absoluta en todos los pasos del proceso.",
+          "notas": "Moderado: AMAT mantiene cobertura amplia de pasos del proceso, pero la pérdida de cuota documentada en 2025 frente a Lam Research, KLA y ASML en sus segmentos respectivos (fila 14) es una senial real de que la ventaja tecnologica no es absoluta en todos los pasos del proceso.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Riesgo moderado tipico de manufactura de semiconductores (manejo de quimicos, consumo energetico-hidrico de fabricas), sin controversias mayores identificadas mas alla del tema de cumplimiento de controles de exportacion ya documentado (fila 20, gobernanza mas que ambiental).",
+          "notas": "Riesgo moderado típico de manufactura de semiconductores (manejo de quimicos, consumo energetico-hidrico de fabricas), sin controversias mayores identificadas mas alla del tema de cumplimiento de controles de exportación ya documentado (fila 20, gobernanza mas que ambiental).",
           "calificacion": 4
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados del 3T fiscal 2026 se reportan el 13-ago-2026 (3 dias despues de este analisis) - guidance ya entregado (ingresos 8.95bn USD +/-500M, EPS no-GAAP 3.36 USD +/-0.20, margen bruto no-GAAP aprox 50.1%). Practicamente todas las cifras TTM de esta ficha quedaran desactualizadas dentro de dias.",
+          "notas": "Resultados del 3T fiscal 2026 se reportan el 13-ago-2026 (3 dias después de este analisis) - guidance ya entregado (ingresos 8.95bn USD +/-500M, EPS no-GAAP 3.36 USD +/-0.20, margen bruto no-GAAP aprox 50.1%). Prácticamente todas las cifras TTM de esta ficha quedaran desactualizadas dentro de dias.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Venta insider REAL y sostenida, no solo retencion de impuestos: CEO Gary Dickerson vendio 161321 acciones en el ultimo anio (aprox 105M USD combinados en las ventas de jun-2026) sin ninguna compra en el mismo periodo - senial amber a vigilar, aunque conserva una posicion sustancial (aprox 870M USD en acciones, ver fila 18).",
+          "notas": "Venta insider REAL y sostenida, no solo retención de impuestos: CEO Gary Dickerson vendio 161321 acciones en el último año (aprox 105M USD combinados en las ventas de jun-2026) sin ninguna compra en el mismo período - senial amber a vigilar, aunque conserva una posición sustancial (aprox 870M USD en acciones, ver fila 18).",
           "calificacion": 2
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Calificacion de consenso \"Compra Fuerte\" (28 analistas), pero con objetivo promedio de 629.06 USD - solo +15.2% sobre el precio actual, notablemente MAS MODESTO que el optimismo usual de \"Compra Fuerte\" y muy lejos de validar los niveles de valoracion via DCF. Dispersion amplia entre casas (527 a 870 USD) - incluso el consenso mas alcista de Wall Street esta muy por debajo de justificar el precio via flujos de caja descontados tradicionales.",
+          "notas": "Calificación de consenso \"Compra Fuerte\" (28 analistas), pero con objetivo promedio de 629.06 USD - solo +15.2% sobre el precio actual, notablemente MAS MODESTO que el optimismo usual de \"Compra Fuerte\" y muy lejos de validar los niveles de valoración via DCF. Dispersión amplia entre casas (527 a 870 USD) - incluso el consenso mas alcista de Wall Street esta muy por debajo de justificar el precio via flujos de caja descontados tradicionales.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.2972972972972974,
-    "recomendacion": "NO COMPRAR - VALORACION EXTREMA QUE DESCUENTA CONTINUIDAD ININTERRUMPIDA DEL SUPERCICLO DE CAPEX DE IA (vender o reducir si el peso en cartera es grande; mantener con cautela solo si la posicion ya es pequenia)",
-    "tesis": "Lider de amplio portafolio en equipos de fabricacion de semiconductores con margenes y retornos de capital excelentes (ROE 38%, ROIC 32%), pero cotizando a aprox 81 veces FCF con riesgo de China ya materializado (multa de 252.5M USD, cuota de ingresos de China cayendo de 43% a 25%) y perdida de cuota de mercado documentada en 2025 - el precio ya descuenta anios de ejecucion perfecta del superciclo de IA en una industria historicamente ciclica."
+    "recomendacion": "NO COMPRAR - VALORASIÓN EXTREMA QUE DESCUENTA CONTINUIDAD ININTERRUMPIDA DEL SUPERCICLO DE CAPEX DE IA (vender o reducir si el peso en cartera es grande; mantener con cautela solo si la posición ya es pequenia)",
+    "tesis": "Líder de amplio portafolio en equipos de fabricación de semiconductores con márgenes y retornos de capital excelentes (ROE 38%, ROIC 32%), pero cotizando a aprox 81 veces FCF con riesgo de China ya materializado (multa de 252.5M USD, cuota de ingresos de China cayendo de 43% a 25%) y pérdida de cuota de mercado documentada en 2025 - el precio ya descuenta años de ejecución perfecta del superciclo de IA en una industria históricamente ciclica."
   }
 }

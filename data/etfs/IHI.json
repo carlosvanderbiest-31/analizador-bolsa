@@ -1,35 +1,35 @@
 {
   "nombre": "iShares U.S. Medical Devices ETF",
   "ticker": "IHI",
-  "categoria": "Equity Tematico/Factor (dispositivos medicos, sub-segmento de salud, SEGUNDO ETF de salud del proyecto tras VHT, comparable directo)",
+  "categoria": "Equity Temático/Factor (dispositivos medicos, sub-segmento de salud, SEGUNDO ETF de salud del proyecto tras VHT, comparable directo)",
   "emisor": "BlackRock/iShares",
   "fecha_analisis": "2026-08-13",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Metodo de replica NO CONFIRMADO explicitamente en las fuentes consultadas -pagina oficial de iShares bloqueada, 403-, pero dado el bajo numero de holdings -51-52, todos altamente liquidos-, es razonable inferir replica FISICA COMPLETA, sin confirmar.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Metodo de réplica NO CONFIRMADO explícitamente en las fuentes consultadas -pagina oficial de iShares bloqueada, 403-, pero dado el bajo número de holdings -51-52, todos altamente liquidos-, es razonable inferir réplica FÍSICA COMPLETA, sin confirmar.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domiciliado en EEUU -BlackRock/iShares, NYSE Arca-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM con rango disperso segun fuente/fecha -$3.25bn a $5.1bn-, MUCHO mas pequeno que VHT -$18.3-20.9bn, ya en el workbook-, sin riesgo de cierre pero de una escala muy distinta.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM con rango disperso según fuente/fecha -$3.25bn a $5.1bn-, MUCHO mas pequeño que VHT -$18.3-20.9bn, ya en el workbook-, sin riesgo de cierre pero de una escala muy distinta.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "20.28 anios desde inception -1-may-2006-, SIN hallazgo de cambio de indice detectado.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "20.28 años desde inception -1-may-2006-, SIN hallazgo de cambio de índice detectado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor BlackRock/iShares, top-tier, gama de productos muy amplia.",
           "calificacion": 5
         }
@@ -40,153 +40,153 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.37%, **4.1x MAS CARO que VHT -0.09%, ya en el workbook-**, composer.trade cita 0.40%, pequena discrepancia entre fuentes.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.37%, **4.1x MAS CARO que VHT -0.09%, ya en el workbook-**, composer.trade cita 0.40%, pequeña discrepancia entre fuentes.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference histórico NO ENCONTRADO con cifra numerica explicita.",
           "calificacion": 2
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending para IHI.",
+          "notas": "Sin dato específico de revenue por securities lending para IHI.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover NO ENCONTRADO con cifra específica en las fuentes consultadas.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~$131.37M/dia -2.99M acciones-, BUENO, superior a VHT -$63.6M/dia-, liquidez solida para un fondo de este tamano.",
+          "notas": "Volumen ~$131.37M/dia -2.99M acciones-, BUENO, superior a VHT -$63.6M/dia-, liquidez sólida para un fondo de este tamaño.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask ajustado -~$0.01 en terminos absolutos sobre un precio ~$54-55-, aunque el dato porcentual exacto -30-day median- no fue confirmado con una fuente oficial.",
+          "notas": "Spread bid-ask ajustado -~$0.01 en términos absolutos sobre un precio ~$54-55-, aunque el dato porcentual exacto -30-day median- no fue confirmado con una fuente oficial.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
+          "aspecto": "Premium/Discount histórico vs. NAV",
           "notas": "Dato de Premium/Discount INCONSISTENTE entre fuentes consultadas -una mostro NAV y precio de mercado con una brecha implausible, probablemente por desfase de fechas entre ambas cifras-, no se reporta cifra confiable.",
           "calificacion": 2
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero infraestructura de creacion/redencion de BlackRock/iShares es robusta a nivel de firma.",
+          "notas": "Sin cifra específica de profundidad de APs, pero infraestructura de creación/redención de BlackRock/iShares es robusta a nivel de firma.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "Solo 51-52 holdings, **EL NUMERO MAS BAJO del cluster salud del proyecto** -vs 430 de VHT, ya en el workbook-, fondo mucho menos diversificado por numero.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "Solo 51-52 holdings, **EL NÚMERO MAS BAJO del cluster salud del proyecto** -vs 430 de VHT, ya en el workbook-, fondo mucho menos diversificado por número.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
+          "aspecto": "Concentración Top 10 holdings (%)",
           "notas": "**Top10 = 74.0-74.32% del fondo, EXTREMADAMENTE CONCENTRADO** -mas alto que XLF -56.82%- y que VHT -52.1%-, de los mas concentrados de todo el proyecto. Top10: Abbott Laboratories 16.3-18.76%, Intuitive Surgical 13.02-14.7%, Stryker 9.7-11.97%, Boston Scientific ~9.7%, Becton Dickinson 4.67%, Medtronic 4.56%, y otros. **Abbott + Intuitive Surgical + Stryker solos ya suman ~40-45% del fondo.**",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
           "notas": "100% dispositivos/equipos medicos -sub-segmento MUCHO mas estrecho que el 'Health Care' amplio de VHT, ya en el workbook-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU -aunque las empresas del portafolio tienen ventas globales significativas-.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU -aunque las empresas del portafolio tienen ventas globales significativas-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion cap-weighted con concentracion extrema en 3 nombres -Abbott/Intuitive Surgical/Stryker-, sesgo hacia equipos quirurgicos/ortopedicos/cardiovasculares de alta capitalizacion.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición cap-weighted con concentración extrema en 3 nombres -Abbott/Intuitive Surgical/Stryker-, sesgo hacia equipos quirurgicos/ortopedicos/cardiovasculares de alta capitalización.",
           "calificacion": 1
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Dow Jones U.S. Select Medical Equipment Index, cap-weighted modificado SIN la banda de diversificacion 25/50 que usa VHT -ya en el workbook-, de ahi la concentracion mucho mayor pese a compartir el mismo sector amplio.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Dow Jones U.S. Select Medical Equipment Index, cap-weighted modificado SIN la banda de diversificación 25/50 que usa VHT -ya en el workbook-, de ahi la concentración mucho mayor pese a compartir el mismo sector amplio.",
           "calificacion": 2
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo estandar del indice, sin dato especifico de frecuencia o banda de capping encontrado.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo estándar del índice, sin dato específico de frecuencia o banda de capping encontrado.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 1.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
           "notas": "**Retorno 1Y = -7.79%, NEGATIVO -SEGUNDO retorno 1Y negativo de todo el proyecto tras INDA, ya en el workbook-**. Desde inception 10.36% anualizado, razonable a largo plazo pese al bache reciente.",
           "calificacion": 1
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad anualizada desde inception = 19.9% -composer.trade-, superior a VHT -16.9%- pero moderada frente al cluster financiero -33-43%-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown desde inception = -49.6% a -49.65%, MAS SEVERO que VHT -39.12%, ambos ya en el workbook- pese a compartir el sector salud amplio, reflejo de la mayor concentracion de IHI.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown desde inception = -49.6% a -49.65%, MAS SEVERO que VHT -39.12%, ambos ya en el workbook- pese a compartir el sector salud amplio, reflejo de la mayor concentración de IHI.",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe ratio con discrepancia notable segun ventana: **0.59 desde inception -composer.trade, positivo, razonable-** vs **-0.70 en periodo reciente -portfolioslab.com, NEGATIVO-**, refleja el deterioro agudo y reciente de la tesis. Calmar ratio = 0.21 -composer-.",
+          "notas": "Sharpe ratio con discrepancia notable según ventana: **0.59 desde inception -composer.trade, positivo, razonable-** vs **-0.70 en período reciente -portfolioslab.com, NEGATIVO-**, refleja el deterioro agudo y reciente de la tesis. Calmar ratio = 0.21 -composer-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.81 -etfdb.com-, defensivo -<1- pero superior al de VHT -0.60-0.74-, consistente con mayor volatilidad idiosincratica por concentracion.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.81 -etfdb.com-, defensivo -<1- pero superior al de VHT -0.60-0.74-, consistente con mayor volatilidad idiosincratica por concentración.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**RIESGO ESTRUCTURAL VIGENTE 2026**: la expansion de farmacos GLP-1 -Ozempic/Wegovy/Zepbound- esta reduciendo la demanda proyectada de cirugias asociadas a obesidad -bariatrica, ortopedica, cardiovascular-, tesis bajista activa en el mercado que coincide directamente con el retorno -7.79% 1Y y el Sharpe reciente negativo -0.70-. Es el catalizador negativo MAS RELEVANTE y ACTUAL de todo el cluster salud del proyecto.",
+          "notas": "**RIESGO ESTRUCTURAL VIGENTE 2026**: la expansión de farmacos GLP-1 -Ozempic/Wegovy/Zepbound- esta reduciendo la demanda proyectada de cirugias asociadas a obesidad -bariatrica, ortopedica, cardiovascular-, tesis bajista activa en el mercado que coincide directamente con el retorno -7.79% 1Y y el Sharpe reciente negativo -0.70-. Es el catalizador negativo MAS RELEVANTE y ACTUAL de todo el cluster salud del proyecto.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 28.91x, **MAS CARO que VHT -24.26x, ya en el workbook-** pese al retorno reciente negativo, sin serie historica propia a 5-10 anios para contextualizar percentil.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 28.91x, **MAS CARO que VHT -24.26x, ya en el workbook-** pese al retorno reciente negativo, sin serie histórica propia a 5-10 años para contextualizar percentil.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 0.43%, **MUY BAJO, incluso por debajo de VHT -1.49%-**, consistente con un sub-segmento de crecimiento/tecnologia medica mas que de ingresos.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 0.43%, **MUY BAJO, incluso por debajo de VHT -1.49%-**, consistente con un sub-segmento de crecimiento/tecnología medica mas que de ingresos.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 1.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**PRIMER competidor directo real dentro del cluster salud del proyecto vs VHT -ya en el workbook-**: IHI es TER mas caro -0.37% vs 0.09%-, mucho mas concentrado -Top10 74% vs 52%-, mas volatil -19.9% vs 16.9%-, con Max Drawdown mas severo -49.6% vs 39.1%- y retorno 1Y negativo vs positivo. VHT es estructuralmente superior como vehiculo de exposicion a salud; IHI solo se justifica como apuesta tactica pura a dispositivos medicos.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**PRIMER competidor directo real dentro del cluster salud del proyecto vs VHT -ya en el workbook-**: IHI es TER mas caro -0.37% vs 0.09%-, mucho mas concentrado -Top10 74% vs 52%-, mas volatil -19.9% vs 16.9%-, con Max Drawdown mas severo -49.6% vs 39.1%- y retorno 1Y negativo vs positivo. VHT es estructuralmente superior como vehículo de exposición a salud; IHI solo se justifica como apuesta táctica pura a dispositivos medicos.",
           "calificacion": 2
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol Tactico/Especulativo dado el nivel de concentracion extrema -Top10 74%- y la tesis bajista GLP-1 activa y vigente.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol Táctico/Especulativo dado el nivel de concentración extrema -Top10 74%- y la tesis bajista GLP-1 activa y vigente.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion pura a fabricantes de dispositivos medicos -cirugia robotica, ortopedia, cardiovascular-, pero atravesando un shock de demanda estructural por la adopcion masiva de farmacos GLP-1 que reducen la necesidad de ciertas cirugias relacionadas a obesidad.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición pura a fabricantes de dispositivos medicos -cirugia robotica, ortopedia, cardiovascular-, pero atravesando un shock de demanda estructural por la adopción masiva de farmacos GLP-1 que reducen la necesidad de ciertas cirugias relacionadas a obesidad.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: **concentracion extrema -74% en 10 nombres, Abbott+Intuitive Surgical+Stryker ~40-45% solos-**, **riesgo estructural GLP-1 vigente y actual -tesis bajista de mercado-**, riesgo regulatorio FDA sobre aprobaciones de dispositivos, TER caro relativo a VHT.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **concentración extrema -74% en 10 nombres, Abbott+Intuitive Surgical+Stryker ~40-45% solos-**, **riesgo estructural GLP-1 vigente y actual -tesis bajista de mercado-**, riesgo regulatorio FDA sobre aprobaciones de dispositivos, TER caro relativo a VHT.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "VHT -ya en el workbook- ofrece exposicion mucho mas diversificada, barata -0.09% vs 0.37%- y con mejor perfil riesgo/retorno reciente al sector salud completo; IHI solo se justifica para quien busca apuesta tactica pura a dispositivos medicos pese al viento en contra actual.",
+          "notas": "VHT -ya en el workbook- ofrece exposición mucho mas diversificada, barata -0.09% vs 0.37%- y con mejor perfil riesgo/retorno reciente al sector salud completo; IHI solo se justifica para quien busca apuesta táctica pura a dispositivos medicos pese al viento en contra actual.",
           "calificacion": 2
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). IHI es el SEGUNDO ETF de salud del proyecto y el primer competidor directo real de VHT -ya en el workbook-, pero estructuralmente inferior en casi todas las dimensiones: TER 4.1x mas caro -0.37% vs 0.09%-, solo 51-52 holdings frente a 430, **Top10 EXTREMADAMENTE concentrado -74.0-74.32%, de los mas altos del proyecto-** dominado por Abbott Laboratories, Intuitive Surgical y Stryker -juntos ~40-45% del fondo-, sin la banda de diversificacion 25/50 que usa VHT. Volatilidad -19.9%- y Max Drawdown desde inception -49.6% a -49.65%- ambos peores que VHT. **RIESGO MAS RELEVANTE Y VIGENTE: retorno 1Y NEGATIVO -7.79%, el SEGUNDO retorno 1Y negativo de todo el proyecto tras INDA-, explicado por un shock estructural de demanda -la expansion de farmacos GLP-1 -Ozempic/Wegovy/Zepbound- reduciendo la necesidad proyectada de cirugias bariatricas/ortopedicas/cardiovasculares asociadas a obesidad-, tesis bajista activa y actual del mercado**. Sharpe con discrepancia marcada entre ventanas -0.59 desde inception vs -0.70 reciente-, confirmando el deterioro agudo. P/E 28.91x mas caro que VHT pese al retorno negativo, dividend yield muy bajo 0.43%. Score 2.36/5, notablemente por debajo de VHT -3.36-, en el rango de los peores del proyecto. Rol Tactico/Especulativo unicamente. VHT sigue siendo la opcion estructuralmente superior para exposicion al sector salud; IHI solo tiene sentido como apuesta tactica pura y de alta conviccion a dispositivos medicos pese al viento en contra estructural actual."
+    "tesis": "REDUCIR/VENDER (evitar). IHI es el SEGUNDO ETF de salud del proyecto y el primer competidor directo real de VHT -ya en el workbook-, pero estructuralmente inferior en casi todas las dimensiones: TER 4.1x mas caro -0.37% vs 0.09%-, solo 51-52 holdings frente a 430, **Top10 EXTREMADAMENTE concentrado -74.0-74.32%, de los mas altos del proyecto-** dominado por Abbott Laboratories, Intuitive Surgical y Stryker -juntos ~40-45% del fondo-, sin la banda de diversificación 25/50 que usa VHT. Volatilidad -19.9%- y Max Drawdown desde inception -49.6% a -49.65%- ambos peores que VHT. **RIESGO MAS RELEVANTE Y VIGENTE: retorno 1Y NEGATIVO -7.79%, el SEGUNDO retorno 1Y negativo de todo el proyecto tras INDA-, explicado por un shock estructural de demanda -la expansión de farmacos GLP-1 -Ozempic/Wegovy/Zepbound- reduciendo la necesidad proyectada de cirugias bariatricas/ortopedicas/cardiovasculares asociadas a obesidad-, tesis bajista activa y actual del mercado**. Sharpe con discrepancia marcada entre ventanas -0.59 desde inception vs -0.70 reciente-, confirmando el deterioro agudo. P/E 28.91x mas caro que VHT pese al retorno negativo, dividend yield muy bajo 0.43%. Score 2.36/5, notablemente por debajo de VHT -3.36-, en el rango de los peores del proyecto. Rol Táctico/Especulativo unicamente. VHT sigue siendo la opción estructuralmente superior para exposición al sector salud; IHI solo tiene sentido como apuesta táctica pura y de alta convicción a dispositivos medicos pese al viento en contra estructural actual."
   }
 }

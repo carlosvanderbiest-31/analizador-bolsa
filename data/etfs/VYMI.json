@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard International High Dividend Yield ETF",
   "ticker": "VYMI",
-  "categoria": "Equity Tematico/Factor (dividendo internacional ex-US)",
+  "categoria": "Equity Temático/Factor (dividendo internacional ex-US)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO (sampling), no completa - el propio Vanguard lo declara explicitamente ('passively managed, sampling strategy') dado el tamano del indice (>1500 componentes en mercados internacionales, algunos menos liquidos que el mercado US). Sin riesgo de contraparte (no es swap), pero el muestreo introduce mas incertidumbre de tracking que la replica fisica completa de SCHD.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO (sampling), no completa - el propio Vanguard lo declara explícitamente ('passively managed, sampling strategy') dado el tamaño del índice (>1500 componentes en mercados internacionales, algunos menos liquidos que el mercado US). Sin riesgo de contraparte (no es swap), pero el muestreo introduce mas incertidumbre de tracking que la réplica física completa de SCHD.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio del ETF: US (listado en NASDAQ, CUSIP 921946794). PERO el fondo posee ~1600 acciones extranjeras -> hay RETENCION DE IMPUESTOS EN ORIGEN sobre los dividendos pagados por cada pais (withholding tax, distinta por jurisdiccion), que reduce el yield neto recibido por el inversionista US frente al yield 'headline' del indice. Este problema es estructural de cualquier fondo de renta variable internacional, independiente del domicilio del ETF - no aplica a SCHD (100% US).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio del ETF: US (listado en NASDAQ, CUSIP 921946794). PERO el fondo posee ~1600 acciones extranjeras -> hay RETENSIÓN DE IMPUESTOS EN ORIGEN sobre los dividendos pagados por cada pais (withholding tax, distinta por jurisdicción), que reduce el yield neto recibido por el inversionista US frente al yield 'headline' del índice. Este problema es estructural de cualquier fondo de renta variable internacional, independiente del domicilio del ETF - no aplica a SCHD (100% US).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$20-21bn (stockanalysis.com $21.06bn; Trackinsight EUR18.3bn=~$19.8bn; busqueda general >$17bn a ene-2026 - fondo en crecimiento, cifras varian por fecha de corte). Establecido dentro de su categoria (dividendo internacional), aunque bastante menor que SCHD ($105bn). Riesgo de cierre bajo.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$20-21bn (stockanalysis.com $21.06bn; Trackinsight EUR18.3bn=~$19.8bn; busqueda general >$17bn a ene-2026 - fondo en crecimiento, cifras varian por fecha de corte). Establecido dentro de su categoría (dividendo internacional), aunque bastante menor que SCHD ($105bn). Riesgo de cierre bajo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Lanzado 25-feb-2016 (~10.5 anios de historial al 2026-08-10). Menor track record que SCHD (14.8 anios) pero ya atraveso COVID 2020, el bear market 2022 y varios ciclos de fortaleza/debilidad del dolar.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Lanzado 25-feb-2016 (~10.5 años de historial al 2026-08-10). Menor track record que SCHD (14.8 años) pero ya atraveso COVID 2020, el bear market 2022 y varios ciclos de fortaleza/debilidad del dólar.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor: Vanguard, la gestora de ETFs de mas bajo costo del mundo, con estructura de propiedad mutualizada (los fondos son propiedad de sus inversionistas, alineamiento de incentivos hacia bajar costos). Sin senales de riesgo reputacional o de negocio.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor: Vanguard, la gestora de ETFs de mas bajo costo del mundo, con estructura de propiedad mutualizada (los fondos son propiedad de sus inversionistas, alineamiento de incentivos hacia bajar costos). Sin señales de riesgo reputacional o de negocio.",
           "calificacion": 5
         }
       ],
@@ -40,34 +40,34 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER actual = 0.07% (bajo FUERTEMENTE desde 0.28% en el factsheet de 2021 - Vanguard ha recortado costos de forma sostenida). Extremadamente bajo para la categoria de dividendo internacional, donde competidores como IDV (~0.49%) o DWX (~0.45%) cobran varias veces mas.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER actual = 0.07% (bajo FUERTEMENTE desde 0.28% en el factsheet de 2021 - Vanguard ha recortado costos de forma sostenida). Extremadamente bajo para la categoría de dividendo internacional, donde competidores como IDV (~0.49%) o DWX (~0.45%) cobran varias veces mas.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "NO VERIFICADO con cifra actual de fuente primaria en esta sesion. El factsheet 2021 de Vanguard, con un TER de 0.28% en ese momento, mostraba NAV return desde inception de 9.84% vs 10.29% del indice (brecha de -0.45pp que incluye TER + efecto de muestreo + retencion fiscal). Con el TER actual mucho mas bajo (0.07%) se esperaria una brecha menor, pero PENDIENTE confirmar con datos 2026. El sampling sobre mercados EM/menos liquidos introduce mas incertidumbre de tracking que la replica completa.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "NO VERIFICADO con cifra actual de fuente primaria en esta sesión. El factsheet 2021 de Vanguard, con un TER de 0.28% en ese momento, mostraba NAV return desde inception de 9.84% vs 10.29% del índice (brecha de -0.45pp que incluye TER + efecto de muestreo + retención fiscal). Con el TER actual mucho mas bajo (0.07%) se esperaria una brecha menor, pero PENDIENTE confirmar con datos 2026. El sampling sobre mercados EM/menos liquidos introduce mas incertidumbre de tracking que la réplica completa.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "No verificado - no disponible en las fuentes de agregadores consultadas en esta sesion.",
+          "notas": "No verificado - no disponible en las fuentes de agregadores consultadas en esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion de cartera del indice = 19.8% anual (dato del factsheet Vanguard, aunque de 2021 - la metodologia declara explicitamente el uso de 'buffer zones' durante el rebalanceo anual para reducir turnover, mecanismo que deberia mantenerse vigente). Rotacion moderada.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación de cartera del índice = 19.8% anual (dato del factsheet Vanguard, aunque de 2021 - la metodología declara explícitamente el uso de 'buffer zones' durante el rebalanceo anual para reducir turnover, mecanismo que deberia mantenerse vigente). Rotación moderada.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "NO VERIFICADO con cifra de volumen diario en USD o acciones en esta sesion. Dado el AUM de ~$20bn se infiere liquidez razonable, pero se recomienda revisar el volumen y spread real en la plataforma de trading antes de una orden grande - pendiente para proxima revision.",
+          "notas": "NO VERIFICADO con cifra de volumen diario en USD o acciones en esta sesión. Dado el AUM de ~$20bn se infiere liquidez razonable, pero se recomienda revisar el volumen y spread real en la plataforma de trading antes de una orden grande - pendiente para proxima revisión.",
           "calificacion": 3
         },
         {
@@ -76,116 +76,116 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "No verificado con cifra exacta. Mismo razonamiento que el spread: ETFs internacionales con mercados subyacentes cerrados durante el horario US tienden a mostrar mayor dispersion premium/discount intradia que ETFs domesticos, aunque el arbitraje de los AP normalmente lo corrige al cierre.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "No verificado con cifra exacta. Mismo razonamiento que el spread: ETFs internacionales con mercados subyacentes cerrados durante el horario US tienden a mostrar mayor dispersión premium/discount intradia que ETFs domesticos, aunque el arbitraje de los AP normalmente lo corrige al cierre.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Vanguard, fondo de ~$20bn, sin senales de problemas de creacion/redencion reportados.",
+          "notas": "Vanguard, fondo de ~$20bn, sin señales de problemas de creación/redención reportados.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "~1,535-1,628 holdings segun la fuente y fecha de corte consultada (stockanalysis 1,628; Trackinsight 1,561; busqueda general 1,535 a ene-2026) - MUY diversificado a nivel de emisor individual, muchas mas posiciones que SCHD (103).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "~1,535-1,628 holdings según la fuente y fecha de corte consultada (stockanalysis 1,628; Trackinsight 1,561; busqueda general 1,535 a ene-2026) - MUY diversificado a nivel de emisor individual, muchas mas posiciones que SCHD (103).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 holdings = solo ~13.47% del fondo (HSBC 1.74%, Roche 1.59%, Novartis 1.56%, Royal Bank of Canada 1.45%, Nestle 1.41%, Shell 1.30%, BHP 1.18%, Mitsubishi UFJ 1.11%, MediaTek 1.07%, Commonwealth Bank of Australia 1.07%). Concentracion muy baja comparada con SCHD (41.3%) - diversificacion real por emisor.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 holdings = solo ~13.47% del fondo (HSBC 1.74%, Roche 1.59%, Novartis 1.56%, Royal Bank of Canada 1.45%, Nestle 1.41%, Shell 1.30%, BHP 1.18%, Mitsubishi UFJ 1.11%, MediaTek 1.07%, Commonwealth Bank of Australia 1.07%). Concentración muy baja comparada con SCHD (41.3%) - diversificación real por emisor.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Financials domina el fondo: 44.01% segun Trackinsight (jun-2026) vs 31.9% en el factsheet de Vanguard de 2021 (diferencia probablemente por metodologia de clasificacion sectorial distinta, ICB vs otra). En cualquier caso, Financials es abrumadoramente el sector mas grande - tipico de indices de dividendo internacional (bancos y aseguradoras pagan dividendos altos fuera de EEUU). Energy ~8.6%, Consumer Non-Cyclicals ~7.2%, Materials ~6.5%, Healthcare ~6.4%. Concentracion sectorial real pese a la alta diversificacion por emisor.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Financials domina el fondo: 44.01% según Trackinsight (jun-2026) vs 31.9% en el factsheet de Vanguard de 2021 (diferencia probablemente por metodología de clasificación sectorial distinta, ICB vs otra). En cualquier caso, Financials es abrumadoramente el sector mas grande - típico de índices de dividendo internacional (bancos y aseguradoras pagan dividendos altos fuera de EEUU). Energy ~8.6%, Consumer Non-Cyclicals ~7.2%, Materials ~6.5%, Healthcare ~6.4%. Concentración sectorial real pese a la alta diversificación por emisor.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "MUY diversificado por pais - ningun pais domina por si solo (factsheet 2021, cifras desactualizadas pero estructura probablemente similar hoy: Reino Unido 13.4%, Japon 11.1%, Suiza 9.5%, Canada 8.2%, Australia 7.5%, Alemania 7.2%, China 5.7%, Francia 4.5%, Taiwan 4.2%, Brasil 2.7%). Busqueda 2026 confirma cualitativamente que 'UK y Japon combinan cerca de un tercio del fondo' y que hay exposicion EM relevante (~21% de los holdings, cifra sin verificar con precision). Esta es la caracteristica MAS VALIOSA de VYMI frente al resto del portafolio del usuario, dominado por acciones US.",
+          "aspecto": "Concentración geográfica",
+          "notas": "MUY diversificado por pais - ningún pais domina por si solo (factsheet 2021, cifras desactualizadas pero estructura probablemente similar hoy: Reino Unido 13.4%, Japon 11.1%, Suiza 9.5%, Canada 8.2%, Australia 7.5%, Alemania 7.2%, China 5.7%, Francia 4.5%, Taiwan 4.2%, Brasil 2.7%). Busqueda 2026 confirma cualitativamente que 'UK y Japon combinan cerca de un tercio del fondo' y que hay exposición EM relevante (~21% de los holdings, cifra sin verificar con precisión). Esta es la caracteristica MAS VALIOSA de VYMI frente al resto del portafolio del usuario, dominado por acciones US.",
           "calificacion": 5
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Tilt fuerte a value/dividendo en mercados desarrollados y emergentes ex-US. Sin exposicion a growth/tech de alto crecimiento (Technology es apenas ~5% del fondo).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Tilt fuerte a value/dividendo en mercados desarrollados y emergentes ex-US. Sin exposición a growth/tech de alto crecimiento (Technology es apenas ~5% del fondo).",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice FTSE All-World ex US High Dividend Yield Index: ponderado por capitalizacion de mercado dentro del universo seleccionado por yield proyectado por encima del promedio; EXCLUYE REITs explicitamente (tratamiento fiscal de dividendos calificados); usa 'buffer zones' durante el rebalanceo anual para reducir turnover innecesario. Metodologia transparente y bien documentada por FTSE Russell.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice FTSE All-World ex US High Dividend Yield Index: ponderado por capitalización de mercado dentro del universo seleccionado por yield proyectado por encima del promedio; EXCLUYE REITs explícitamente (tratamiento fiscal de dividendos calificados); usa 'buffer zones' durante el rebalanceo anual para reducir turnover innecesario. Metodología transparente y bien documentada por FTSE Russell.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reconstitucion anual con buffer zones (reduce turnover frente a un rebalanceo mecanico estricto).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reconstitución anual con buffer zones (reduce turnover frente a un rebalanceo mecanico estricto).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.43
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (feb-2016) ~11% anualizado (stockanalysis.com reporta 11.17% 'inception average annual return'; otra fuente derivada senala 10.79% a 10 anios - consistente dentro de un rango razonable). Retorno 1Y (ago-2026) = +31.50% (stockanalysis.com, fuente directa de la ficha del ETF). SE DESCARTO una cifra alternativa de +44.45% encontrada en un snippet de una herramienta de comparacion (PortfoliosLab) por inconsistencia con la fuente principal - mismo gotcha ya documentado en el proyecto de acciones de agregadores desactualizados o con ventanas de tiempo distintas, ver [[stock_analysis_methodology]]. NO SE VERIFICARON 3Y/5Y en esta sesion.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (feb-2016) ~11% anualizado (stockanalysis.com reporta 11.17% 'inception average annual return'; otra fuente derivada senala 10.79% a 10 años - consistente dentro de un rango razonable). Retorno 1Y (ago-2026) = +31.50% (stockanalysis.com, fuente directa de la ficha del ETF). SE DESCARTO una cifra alternativa de +44.45% encontrada en un snippet de una herramienta de comparación (PortfoliosLab) por inconsistencia con la fuente principal - mismo gotcha ya documentado en el proyecto de acciones de agregadores desactualizados o con ventanas de tiempo distintas, ver [[stock_analysis_methodology]]. NO SE VERIFICARON 3Y/5Y en esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "NO VERIFICADO con cifra actual confiable. El unico dato firme es el standard deviation de 19.57% del factsheet Vanguard de 2021 (basado en 3 anios de retornos mensuales a esa fecha, por tanto desactualizado). Una busqueda mostro una cifra de 3.06% que es IMPLAUSIBLE para un ETF de renta variable (demasiado baja) y se DESCARTO explicitamente - probablemente una metrica mal etiquetada por el agregador (ej. volatilidad mensual, no anualizada). Se espera volatilidad similar o algo mayor que SCHD (15.6%) dado el riesgo cambiario adicional no cubierto.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "NO VERIFICADO con cifra actual confiable. El único dato firme es el standard deviation de 19.57% del factsheet Vanguard de 2021 (basado en 3 años de retornos mensuales a esa fecha, por tanto desactualizado). Una busqueda mostro una cifra de 3.06% que es IMPLAUSIBLE para un ETF de renta variable (demasiado baja) y se DESCARTO explícitamente - probablemente una métrica mal etiquetada por el agregador (ej. volatilidad mensual, no anualizada). Se espera volatilidad similar o algo mayor que SCHD (15.6%) dado el riesgo cambiario adicional no cubierto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Maximo Drawdown = -40.00% segun un agregador (PortfoliosLab, derivado de un snippet de comparacion, SIN verificacion independiente de fuente primaria en esta sesion - tratar con cautela). Es mayor que el de SCHD (-33.4%), lo cual es consistente direccionalmente con el riesgo adicional de mercados emergentes y riesgo cambiario, pero la cifra exacta queda pendiente de confirmar.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Máximo Drawdown = -40.00% según un agregador (PortfoliosLab, derivado de un snippet de comparación, SIN verificación independiente de fuente primaria en esta sesión - tratar con cautela). Es mayor que el de SCHD (-33.4%), lo cual es consistente direccionalmente con el riesgo adicional de mercados emergentes y riesgo cambiario, pero la cifra exacta queda pendiente de confirmar.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 2.24 segun un agregador, MUY probablemente una ventana reciente (ultimos 12 meses, mismo patron que el Sharpe reciente de 2.41 de SCHD) y NO un Sharpe desde inception - no se encontro el dato de largo plazo. No usar esta cifra como representativa del perfil riesgo/retorno de largo plazo del fondo.",
+          "notas": "Sharpe Ratio = 2.24 según un agregador, MUY probablemente una ventana reciente (últimos 12 meses, mismo patrón que el Sharpe reciente de 2.41 de SCHD) y NO un Sharpe desde inception - no se encontro el dato de largo plazo. No usar esta cifra como representativa del perfil riesgo/retorno de largo plazo del fondo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.63 (moderadamente defensivo frente al mercado US). DIVERSIFICADOR GENUINO: a diferencia de SCHD, NINGUNA de las top-10 holdings de VYMI (HSBC, Roche, Novartis, Royal Bank of Canada, Nestle, Shell, BHP, Mitsubishi UFJ, MediaTek, Commonwealth Bank of Australia) coincide con empresas ya analizadas en el Dashboard de acciones individuales del usuario (dominado por megacaps US). Posible overlap PARCIAL a nivel de PAIS (no de emisor especifico) con las posiciones en TSM -Taiwan- y BABA -China- del usuario, sin poder confirmar solapamiento de emisor exacto dado el tamano del indice (no se reviso el listado completo de 1600 holdings).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.63 (moderadamente defensivo frente al mercado US). DIVERSIFICADOR GENUINO: a diferencia de SCHD, NINGUNA de las top-10 holdings de VYMI (HSBC, Roche, Novartis, Royal Bank of Canada, Nestle, Shell, BHP, Mitsubishi UFJ, MediaTek, Commonwealth Bank of Australia) coincide con empresas ya analizadas en el Dashboard de acciones individuales del usuario (dominado por megacaps US). Posible overlap PARCIAL a nivel de PAIS (no de emisor específico) con las posiciones en TSM -Taiwan- y BABA -China- del usuario, sin poder confirmar solapamiento de emisor exacto dado el tamaño del índice (no se reviso el listado completo de 1600 holdings).",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "No se verifico en detalle el comportamiento especifico en crisis pasadas (2020, 2022) en esta sesion - pendiente para proxima revision.",
+          "notas": "No se verifico en detalle el comportamiento específico en crisis pasadas (2020, 2022) en esta sesión - pendiente para proxima revisión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado actual = 13.46x (stockanalysis.com) - notablemente por debajo tanto de SCHD (17.6x) como del mercado US amplio (~24-26x), reflejo del descuento estructural de valoracion de mercados internacionales/value frente a EEUU. Comparado con su PROPIO historico: el factsheet 2021 mostraba P/E 9.9x - el multiplo actual (13.46x) esta MAS ALTO que hace 5 anios, sugiriendo cierta expansion de multiplo, aunque sigue siendo barato en terminos absolutos y relativos al mercado US.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado actual = 13.46x (stockanalysis.com) - notablemente por debajo tanto de SCHD (17.6x) como del mercado US amplio (~24-26x), reflejo del descuento estructural de valoración de mercados internacionales/value frente a EEUU. Comparado con su PROPIO histórico: el factsheet 2021 mostraba P/E 9.9x - el múltiplo actual (13.46x) esta MAS ALTO que hace 5 años, sugiriendo cierta expansión de múltiplo, aunque sigue siendo barato en términos absolutos y relativos al mercado US.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield TTM actual = 3.44-3.48% (dos fuentes coinciden en el rango), payout ratio 46.17% (sostenible), distribucion trimestral. Yield MAYOR que el de SCHD (3.1%), consistente con el mandato explicito de 'high dividend yield' internacional. NO SE VERIFICO el percentil exacto contra el propio rango historico del fondo.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield TTM actual = 3.44-3.48% (dos fuentes coinciden en el rango), payout ratio 46.17% (sostenible), distribución trimestral. Yield MAYOR que el de SCHD (3.1%), consistente con el mandato explicito de 'high dividend yield' internacional. NO SE VERIFICO el percentil exacto contra el propio rango histórico del fondo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - VYMI es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Frente a competidores directos de dividendo internacional: IDV (iShares International Select Dividend, TER ~0.49%, mas concentrado), DWX (SPDR S&P International Dividend, TER ~0.45%), FIDI (Fidelity International High Dividend, TER ~0.18%), VXUS (Vanguard Total International, sin tilt de dividendo, mas amplio pero yield menor). VYMI destaca por TER muy inferior a la categoria y una diversificacion por emisor mucho mayor. NOTA: cifras de competidores basadas en conocimiento general de la categoria, NO verificadas con fuente primaria en esta sesion - confirmar antes de usar en una decision final. | ACTUALIZACION posterior (IDV, fila 66): comparacion ahora VERIFICADA con datos propios (la estimacion original de TER ~0.49% se confirmo en 0.50%). VYMI sigue siendo notablemente MAS EFICIENTE: 7x mas barato, 12-16x mas holdings (1,535-1,628 vs 98-126), menos concentrado (13.5% vs 27.27% top10), y cubre tambien mercados emergentes (IDV solo EPAC desarrollado). IDV compensa con yield mas alto (5.12% vs 3.44-3.48%) y P/E mas barato (11.69x vs 13.46x). Ver Ficha IDV fila 50 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Frente a competidores directos de dividendo internacional: IDV (iShares International Select Dividend, TER ~0.49%, mas concentrado), DWX (SPDR S&P International Dividend, TER ~0.45%), FIDI (Fidelity International High Dividend, TER ~0.18%), VXUS (Vanguard Total International, sin tilt de dividendo, mas amplio pero yield menor). VYMI destaca por TER muy inferior a la categoría y una diversificación por emisor mucho mayor. NOTA: cifras de competidores basadas en conocimiento general de la categoría, NO verificadas con fuente primaria en esta sesión - confirmar antes de usar en una decisión final. | ACTUALIZASIÓN posterior (IDV, fila 66): comparación ahora VERIFICADA con datos propios (la estimación original de TER ~0.49% se confirmo en 0.50%). VYMI sigue siendo notablemente MAS EFICIENTE: 7x mas barato, 12-16x mas holdings (1,535-1,628 vs 98-126), menos concentrado (13.5% vs 27.27% top10), y cubre también mercados emergentes (IDV solo EPAC desarrollado). IDV compensa con yield mas alto (5.12% vs 3.44-3.48%) y P/E mas barato (11.69x vs 13.46x). Ver Ficha IDV fila 50 para el detalle completo.",
           "calificacion": 4
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol sugerido: CORE INTERNACIONAL del portafolio de renta variable - diversificador geografico genuino que complementa muy bien tanto a SCHD como al Dashboard de acciones individuales del usuario, ambos con sesgo 100% US. A diferencia de SCHD, aqui NO se detecto overlap de emisor relevante.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol sugerido: CORE INTERNACIONAL del portafolio de renta variable - diversificador geográfico genuino que complementa muy bien tanto a SCHD como al Dashboard de acciones individuales del usuario, ambos con sesgo 100% US. A diferencia de SCHD, aquí NO se detecto overlap de emisor relevante.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion diversificada y de muy bajo costo (TER 0.07%) a ~1600 empresas internacionales (ex-US, desarrolladas y emergentes) con dividendo proyectado por encima del promedio. Reduce la concentracion geografica US del portafolio total del usuario. Beneficiario potencial de debilidad del dolar (activos en moneda extranjera se revalorizan en terminos USD) o de una rotacion de flujos hacia mercados internacionales, actualmente mas baratos en multiplos que EEUU.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición diversificada y de muy bajo costo (TER 0.07%) a ~1600 empresas internacionales (ex-US, desarrolladas y emergentes) con dividendo proyectado por encima del promedio. Reduce la concentración geográfica US del portafolio total del usuario. Beneficiario potencial de debilidad del dólar (activos en moneda extranjera se revalorizan en términos USD) o de una rotación de flujos hacia mercados internacionales, actualmente mas baratos en múltiplos que EEUU.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) RIESGO CAMBIARIO NO CUBIERTO (unhedged) - las fluctuaciones USD frente a GBP/JPY/CHF/CAD/EUR/etc. afectan el retorno en USD independientemente del desempeno de las acciones subyacentes, riesgo estructural nuevo que no aplica a SCHD; (2) riesgo pais/regulatorio en mercados emergentes (China ~5.7%, Brasil ~2.7%, Taiwan ~4.2% del fondo segun cifras de 2021); (3) concentracion sectorial en Financials (~32-44% segun fuente y fecha); (4) retencion de impuestos extranjera sobre dividendos reduce el yield neto recibido por el inversionista US, friccion que no existe con SCHD.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) RIESGO CAMBIARIO NO CUBIERTO (unhedged) - las fluctuaciones USD frente a GBP/JPY/CHF/CAD/EUR/etc. afectan el retorno en USD independientemente del desempeño de las acciones subyacentes, riesgo estructural nuevo que no aplica a SCHD; (2) riesgo pais/regulatorio en mercados emergentes (China ~5.7%, Brasil ~2.7%, Taiwan ~4.2% del fondo según cifras de 2021); (3) concentración sectorial en Financials (~32-44% según fuente y fecha); (4) retención de impuestos extranjera sobre dividendos reduce el yield neto recibido por el inversionista US, fricción que no existe con SCHD.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Alternativas directas en la categoria dividendo internacional: IDV, DWX, FIDI (mas concentrados y mas caros en TER), VXUS (mas amplio pero sin tilt de dividendo, yield menor). VYMI se mantiene como una de las opciones mas baratas y mejor diversificadas por emisor de la categoria, aunque las cifras de competidores no se verificaron con fuente primaria en esta sesion. IDV (fila 66) ahora verificado con datos propios - confirma que VYMI es mas eficiente, ver comparacion en su Ficha.",
+          "notas": "Alternativas directas en la categoría dividendo internacional: IDV, DWX, FIDI (mas concentrados y mas caros en TER), VXUS (mas amplio pero sin tilt de dividendo, yield menor). VYMI se mantiene como una de las opciones mas baratas y mejor diversificadas por emisor de la categoría, aunque las cifras de competidores no se verificaron con fuente primaria en esta sesión. IDV (fila 66) ahora verificado con datos propios - confirma que VYMI es mas eficiente, ver comparación en su Ficha.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER / ACUMULAR GRADUAL. Valoracion relativa: P/E 13.46x barato frente al mercado US y frente a SCHD (17.6x), pero mas alto que su propio nivel de 2021 (9.9x, fuente desactualizada) - hay expansion de multiplo, no esta en su punto mas barato historico verificable. Yield 3.44-3.48%, por encima de SCHD. Score estructural alto (~3.91/5): TER extremadamente bajo (0.07%), diversificacion por emisor y pais excelente (1600+ holdings, top10 solo 13.5%), emisor Vanguard de maxima confianza. Punto mas fuerte para este usuario especifico: a diferencia de SCHD, VYMI NO tiene overlap de emisor detectado con el Dashboard de acciones individuales (dominado por megacaps US) - es un diversificador geografico genuino. Riesgos nuevos frente a SCHD: riesgo cambiario no cubierto, retencion fiscal extranjera sobre dividendos, concentracion sectorial en Financials. Pendientes de verificar en proxima sesion: Tracking Difference actual, volumen/spread exactos, volatilidad y max drawdown con fuente primaria, retornos 3Y/5Y, y confirmar cifras de TER de los competidores directos (IDV, DWX, FIDI)."
+    "tesis": "MANTENER / ACUMULAR GRADUAL. Valoración relativa: P/E 13.46x barato frente al mercado US y frente a SCHD (17.6x), pero mas alto que su propio nivel de 2021 (9.9x, fuente desactualizada) - hay expansión de múltiplo, no esta en su punto mas barato histórico verificable. Yield 3.44-3.48%, por encima de SCHD. Score estructural alto (~3.91/5): TER extremadamente bajo (0.07%), diversificación por emisor y pais excelente (1600+ holdings, top10 solo 13.5%), emisor Vanguard de maxima confianza. Punto mas fuerte para este usuario específico: a diferencia de SCHD, VYMI NO tiene overlap de emisor detectado con el Dashboard de acciones individuales (dominado por megacaps US) - es un diversificador geográfico genuino. Riesgos nuevos frente a SCHD: riesgo cambiario no cubierto, retención fiscal extranjera sobre dividendos, concentración sectorial en Financials. Pendientes de verificar en proxima sesión: Tracking Difference actual, volumen/spread exactos, volatilidad y max drawdown con fuente primaria, retornos 3Y/5Y, y confirmar cifras de TER de los competidores directos (IDV, DWX, FIDI)."
   }
 }

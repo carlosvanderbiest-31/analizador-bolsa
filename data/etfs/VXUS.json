@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard Total International Stock ETF",
   "ticker": "VXUS",
-  "categoria": "Equity Indice Amplio (mercado total ex-US, desarrollado + emergente, blend sin sesgo de estilo)",
+  "categoria": "Equity Índice Amplio (mercado total ex-US, desarrollado + emergente, blend sin sesgo de estilo)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Fuente encontrada da una respuesta AMBIGUA/CONTRADICTORIA ('full replication... holds all, or a representative sample'). Dado el tamano extremo (8,807 holdings, muchos small-caps de mercados emergentes con liquidez limitada), se trata con escepticismo la idea de replica fisica COMPLETA literal - se clasifico como Fisica MUESTREO, mismo criterio ya aplicado a VYMI (que declaro muestreo explicitamente con un universo aun mayor, 1500-1628 holdings) por la misma razon practica de gestion.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Fuente encontrada da una respuesta AMBIGUA/CONTRADICTORIA ('full replication... holds all, or a representative sample'). Dado el tamaño extremo (8,807 holdings, muchos small-caps de mercados emergentes con liquidez limitada), se trata con escepticismo la idea de réplica física COMPLETA literal - se clasifico como Física MUESTREO, mismo criterio ya aplicado a VYMI (que declaro muestreo explícitamente con un universo aun mayor, 1500-1628 holdings) por la misma razón practica de gestion.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, pero 100% holdings EXTRANJEROS por definicion (ex-US) - MISMO gotcha ya documentado extensamente con VYMI (primer ETF internacional del proyecto): riesgo cambiario no cubierto (unhedged) y retencion de impuestos extranjera sobre dividendos que reduce el yield neto frente al 'headline'.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, pero 100% holdings EXTRANJEROS por definición (ex-US) - MISMO gotcha ya documentado extensamente con VYMI (primer ETF internacional del proyecto): riesgo cambiario no cubierto (unhedged) y retención de impuestos extranjera sobre dividendos que reduce el yield neto frente al 'headline'.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM entre $158.1bn y $161.35bn segun fuente (razonablemente consistente; se descarto una cifra outlier de $645.82bn por implausible, probablemente confusion con otra cifra agregada) - **UNO DE LOS FONDOS MAS GRANDES DE TODO EL PROYECTO**, rivaliza con SCHD ($105bn), VTV ($191.4bn) y VUG ($229.6bn).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM entre $158.1bn y $161.35bn según fuente (razonablemente consistente; se descarto una cifra outlier de $645.82bn por implausible, probablemente confusión con otra cifra agregada) - **UNO DE LOS FONDOS MAS GRANDES DE TODO EL PROYECTO**, rivaliza con SCHD ($105bn), VTV ($191.4bn) y VUG ($229.6bn).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 26-ene-2011 (~15.5 anios) - SIN cambio de mandato/indice, historial limpio y de duracion solida (similar a URA/REMX en anios, pero sin sus problemas estructurales).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 26-ene-2011 (~15.5 años) - SIN cambio de mandato/índice, historial limpio y de duración sólida (similar a URA/REMX en años, pero sin sus problemas estructurales).",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Vanguard - SEXTA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, ahora VXUS).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Vanguard - SEXTA aparición en el proyecto (VYMI, VTV, VUG, VGT, VB, ahora VXUS).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.05% - MUY BARATO, extraordinario para un fondo INTERNACIONAL de esta amplitud (notablemente mas barato que VYMI, 0.07%, pese a cubrir un universo mucho mayor: 8,807 vs 1500-1628 holdings).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending: el propio top10 reportado por stockanalysis muestra DOS entradas que NO son empresas reales - 'Slcmt1142' (1.84%) y 'Mktliq 12/31/2049' (0.76%), casi con certeza artefactos de colateral de prestamo de valores / fondo de gestion de liquidez interno de Vanguard que el parser de la fuente incluyo como si fueran holdings de empresas - MISMO patron exacto ya visto en el top10 de VB ('Slcmt1142 - 1.49%'), confirmando que es un gotcha recurrente especifico de como stockanalysis.com procesa los holdings de fondos Vanguard grandes, no un error aislado. No se verifico el revenue de securities lending ni el % que compensa el TER.",
+          "notas": "Securities lending: el propio top10 reportado por stockanalysis muestra DOS entradas que NO son empresas reales - 'Slcmt1142' (1.84%) y 'Mktliq 12/31/2049' (0.76%), casi con certeza artefactos de colateral de prestamo de valores / fondo de gestion de liquidez interno de Vanguard que el parser de la fuente incluyo como si fueran holdings de empresas - MISMO patrón exacto ya visto en el top10 de VB ('Slcmt1142 - 1.49%'), confirmando que es un gotcha recurrente específico de como stockanalysis.com procesa los holdings de fondos Vanguard grandes, no un error aislado. No se verifico el revenue de securities lending ni el % que compensa el TER.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice FTSE Global All Cap ex US - reconstitucion tipicamente semestral segun la metodologia estandar de FTSE Russell, no confirmada con fuente primaria especifica de VXUS esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice FTSE Global All Cap ex US - reconstitución tipicamente semestral según la metodología estándar de FTSE Russell, no confirmada con fuente primaria específica de VXUS esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "No se encontro una cifra de volumen diario confiable esta sesion (se dejo en blanco en el Dashboard en vez de estimarla) - dado el AUM (~$161bn) se infiere liquidez alta.",
+          "notas": "No se encontro una cifra de volumen diario confiable esta sesión (se dejo en blanco en el Dashboard en vez de estimarla) - dado el AUM (~$161bn) se infiere liquidez alta.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta, se infiere ajustado dado el tamano del fondo.",
+          "notas": "Spread bid-ask no verificado con cifra exacta, se infiere ajustado dado el tamaño del fondo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 4.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "8,807 holdings - **EL NUMERO MAS ALTO DE HOLDINGS DE TODO EL PROYECTO**, supera a VYMI (1500-1628) y a VB (1316) por un margen enorme.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "8,807 holdings - **EL NÚMERO MAS ALTO DE HOLDINGS DE TODO EL PROYECTO**, supera a VYMI (1500-1628) y a VB (1316) por un margen enorme.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = solo 14.77% (incluyendo los 2 artefactos de datos ya mencionados en la fila 20) - MUY BAJO, similar en magnitud a VYMI (13.5%) y VB (6.09%), consistente con la extrema diversificacion del fondo.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = solo 14.77% (incluyendo los 2 artefactos de datos ya mencionados en la fila 20) - MUY BAJO, similar en magnitud a VYMI (13.5%) y VB (6.09%), consistente con la extrema diversificación del fondo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sin datos de composicion sectorial EXACTOS verificados esta sesion, pero descrito de forma cualitativa como diversificado entre Financials, Industrials, Tecnologia no-US, Consumo, Materiales y Salud, sin dominancia sectorial extrema aparente.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sin datos de composición sectorial EXACTOS verificados esta sesión, pero descrito de forma cualitativa como diversificado entre Financials, Industrials, Tecnología no-US, Consumo, Materiales y Salud, sin dominancia sectorial extrema aparente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "**LA DIVERSIFICACION GEOGRAFICA MAS COMPLETA DEL PROYECTO**: Japon 15.1%, Reino Unido 8.1%, Canada 8.1%, Taiwan 5.9%, Suiza 5.1%, con Europa 37.96%/Pacifico 25.41%/Mercados Emergentes 27.58% a nivel regional - ningun pais individual domina, y a diferencia de VYMI (ex-US pero solo alto dividendo), VXUS cubre TODO el mercado ex-US, desarrollado Y emergente, simultaneamente.",
+          "aspecto": "Concentración geográfica",
+          "notas": "**LA DIVERSIFICASIÓN GEOGRÁFICA MAS COMPLETA DEL PROYECTO**: Japon 15.1%, Reino Unido 8.1%, Canada 8.1%, Taiwan 5.9%, Suiza 5.1%, con Europa 37.96%/Pacifico 25.41%/Mercados Emergentes 27.58% a nivel regional - ningún pais individual domina, y a diferencia de VYMI (ex-US pero solo alto dividendo), VXUS cubre TODO el mercado ex-US, desarrollado Y emergente, simultaneamente.",
           "calificacion": 5
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
           "notas": "BLEND puro (sin sesgo value/growth/dividendo), cap-weighted de TODO el mercado accionario ex-US - complementa genuinamente el sesgo 100% domestico y growth-tech que domina el resto de la cartera del usuario.",
           "calificacion": 5
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice FTSE Global All Cap ex US Index - proveedor FTSE Russell, PRIMERA aparicion de este proveedor especifico en el proyecto (distinto de S&P/MSCI/CRSP-Morningstar/MVIS/Solactive/BlueStar ya vistos), reglas transparentes y reconocidas globalmente.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice FTSE Global All Cap ex US Index - proveedor FTSE Russell, PRIMERA aparición de este proveedor específico en el proyecto (distinto de S&P/MSCI/CRSP-Morningstar/MVIS/Solactive/BlueStar ya vistos), reglas transparentes y reconocidas globalmente.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de VXUS esta sesion (tipicamente semestral para indices FTSE de este tipo).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de VXUS esta sesión (tipicamente semestral para índices FTSE de este tipo).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.57
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception = 6.72% anualizado en 15.5 anios - MODESTO, refleja el underperformance bien documentado de las acciones internacionales frente a EEUU en la ultima decada+ (notablemente menor que VTV 9.77%/VUG 12.30%/VGT 15.16% en sus respectivas ventanas de 22.5 anios) - mismo fenomeno de rotacion de estilo ya mencionado en varias fichas del proyecto, aqui aplicado a la dimension GEOGRAFICA en vez de value/growth. Retorno 1Y = +26.80%, fuerte, sugiere una posible rotacion reciente de flujos hacia international tras anios de underperformance.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception = 6.72% anualizado en 15.5 años - MODESTO, refleja el underperformance bien documentado de las acciones internacionales frente a EEUU en la última década+ (notablemente menor que VTV 9.77%/VUG 12.30%/VGT 15.16% en sus respectivas ventanas de 22.5 años) - mismo fenomeno de rotación de estilo ya mencionado en varias fichas del proyecto, aquí aplicado a la dimensión GEOGRÁFICA en vez de value/growth. Retorno 1Y = +26.80%, fuerte, sugiere una posible rotación reciente de flujos hacia international tras años de underperformance.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Se encontro una cifra de volatilidad de 5.06% que se DESCARTO por implausiblemente baja para un ETF de renta variable (mismo patron recurrente ya visto en VYMI/XLU/XLK/XLE/VB) - no se encontro alternativa confiable esta sesion, se dejo en blanco en el Dashboard.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Se encontro una cifra de volatilidad de 5.06% que se DESCARTO por implausiblemente baja para un ETF de renta variable (mismo patrón recurrente ya visto en VYMI/XLU/XLK/XLE/VB) - no se encontro alternativa confiable esta sesión, se dejo en blanco en el Dashboard.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -35.97% desde inception - MODERADO, uno de los MENOS severos de TODO el proyecto (mucho menor que SOXX -46%/XOP -90.27%/REMX -90.9%/VTV -59.3%), coherente con el beta bajo (0.78) y la amplitud extrema de diversificacion (8,807 holdings).",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -35.97% desde inception - MODERADO, uno de los MENOS severos de TODO el proyecto (mucho menor que SOXX -46%/XOP -90.27%/REMX -90.9%/VTV -59.3%), coherente con el beta bajo (0.78) y la amplitud extrema de diversificación (8,807 holdings).",
           "calificacion": 4
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 1.66 (cifra reciente, unica fuente clara, sin contraparte de largo plazo) - fuerte, tratado con la cautela habitual del proyecto por ser probablemente una ventana favorable reciente.",
+          "notas": "Sharpe Ratio = 1.66 (cifra reciente, única fuente clara, sin contraparte de largo plazo) - fuerte, tratado con la cautela habitual del proyecto por ser probablemente una ventana favorable reciente.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.78 - moderado-bajo, coherente y sin señal de implausibilidad para un fondo de diversificacion internacional amplia. **OVERLAP MODESTO PERO REAL, a diferencia de VYMI**: Taiwan Semiconductor (TSM, 3.98%, la posicion MAS GRANDE del fondo) y ASML Holding (1.39%) del top10 YA estan analizados individualmente por el usuario, sumando 5.37% del fondo - primer caso de overlap directo en un ETF explicitamente internacional del proyecto (VYMI no mostro overlap en su analisis original).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.78 - moderado-bajo, coherente y sin señal de implausibilidad para un fondo de diversificación internacional amplia. **OVERLAP MODESTO PERO REAL, a diferencia de VYMI**: Taiwan Semiconductor (TSM, 3.98%, la posición MAS GRANDE del fondo) y ASML Holding (1.39%) del top10 YA estan analizados individualmente por el usuario, sumando 5.37% del fondo - primer caso de overlap directo en un ETF explícitamente internacional del proyecto (VYMI no mostro overlap en su analisis original).",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "15.5 anios de historial cubren la crisis de deuda europea de 2011, la desaceleracion de China 2015-16, 2020 y 2022 - evidencia solida, con un Max Drawdown relativamente contenido pese a esa variedad de eventos.",
+          "notas": "15.5 años de historial cubren la crisis de deuda europea de 2011, la desaceleración de China 2015-16, 2020 y 2022 - evidencia sólida, con un Max Drawdown relativamente contenido pese a esa variedad de eventos.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 15.86x - **NOTABLEMENTE BARATO** en el contexto del proyecto, uno de los mas bajos junto a XOP/CRAK/URA (aunque por razones estructurales DISTINTAS: aqui refleja el descuento historico de valoracion de los mercados internacionales frente a EEUU, no un value-trap de commodity ciclico). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 15.86x - **NOTABLEMENTE BARATO** en el contexto del proyecto, uno de los mas bajos junto a XOP/CRAK/URA (aunque por razones estructurales DISTINTAS: aquí refleja el descuento histórico de valoración de los mercados internacionales frente a EEUU, no un value-trap de commodity ciclico). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 2.51-2.52% (fuentes muy consistentes). Distribucion TRIMESTRAL CONFIRMADA explicitamente ($0.57/accion, $2.29 anual) - dato limpio, sin ambiguedad.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 2.51-2.52% (fuentes muy consistentes). Distribución TRIMESTRAL CONFIRMADA explícitamente ($0.57/acción, $2.29 anual) - dato limpio, sin ambiguedad.",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - VXUS es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion verificada con IXUS (iShares Core MSCI Total International Stock ETF), analizado posteriormente en este workbook (fila 45) - VXUS es OBJETIVAMENTE SUPERIOR en TER (0.05% vs 0.07%), AUM (~$161bn vs ~$60bn, ~2.7x mayor) y N Holdings (8,807 vs 4,301-4,537, ~2x mas), con overlap ligeramente MENOR con la cartera individual del usuario (5.37% vs 5.7-6.2% confirmado TSM+ASML en IXUS). IXUS gana en dividend yield (2.89-2.96% vs 2.51-2.52%) y distribuye semestralmente vs trimestral de VXUS. Beta (0.78 ambos) y Max Drawdown COVID (-35.97% vs -36.22%) practicamente identicos. VEU (Vanguard, sin small-caps) y SCHF (Schwab, solo mercados desarrollados) siguen sin datos propios verificados. | ACTUALIZACION posterior (ACWX, fila 46): tercer competidor directo del cluster ex-US amplio, PRE-serie Core de iShares (2008) - TER 0.32%, ~6.4x mas caro que VXUS, con menos holdings (1,856-1,940, sin small-cap) y overlap confirmado mayor (6.6-7.1% TSM+ASML). VXUS sigue siendo la opcion mas eficiente de los tres. Ver Ficha ACWX fila 50 para el detalle. | ACTUALIZACION posterior (VEU, fila 47): CUARTO competidor del cluster ex-US amplio y el MAS COMPETITIVO frente a VXUS hasta ahora - TER 0.04% (mas barato que el propio VXUS 0.05%), mejor liquidez verificada (volumen $353.36M/dia, spread ~0.01%) y el track record mas largo del proyecto (19.4 anios). Unica desventaja real de VEU: menos holdings sin tramo small-cap (3,895 vs 8,807). VXUS sigue siendo preferible para este usuario por su mayor diversificacion interna, pero es la comparacion MAS RENIDA del cluster. Ver Ficha VEU fila 50 para el detalle.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación verificada con IXUS (iShares Core MSCI Total International Stock ETF), analizado posteriormente en este workbook (fila 45) - VXUS es OBJETIVAMENTE SUPERIOR en TER (0.05% vs 0.07%), AUM (~$161bn vs ~$60bn, ~2.7x mayor) y N Holdings (8,807 vs 4,301-4,537, ~2x mas), con overlap ligeramente MENOR con la cartera individual del usuario (5.37% vs 5.7-6.2% confirmado TSM+ASML en IXUS). IXUS gana en dividend yield (2.89-2.96% vs 2.51-2.52%) y distribuye semestralmente vs trimestral de VXUS. Beta (0.78 ambos) y Max Drawdown COVID (-35.97% vs -36.22%) prácticamente identicos. VEU (Vanguard, sin small-caps) y SCHF (Schwab, solo mercados desarrollados) siguen sin datos propios verificados. | ACTUALIZASIÓN posterior (ACWX, fila 46): tercer competidor directo del cluster ex-US amplio, PRE-serie Core de iShares (2008) - TER 0.32%, ~6.4x mas caro que VXUS, con menos holdings (1,856-1,940, sin small-cap) y overlap confirmado mayor (6.6-7.1% TSM+ASML). VXUS sigue siendo la opción mas eficiente de los tres. Ver Ficha ACWX fila 50 para el detalle. | ACTUALIZASIÓN posterior (VEU, fila 47): CUARTO competidor del cluster ex-US amplio y el MAS COMPETITIVO frente a VXUS hasta ahora - TER 0.04% (mas barato que el propio VXUS 0.05%), mejor liquidez verificada (volumen $353.36M/dia, spread ~0.01%) y el track record mas largo del proyecto (19.4 años). Única desventaja real de VEU: menos holdings sin tramo small-cap (3,895 vs 8,807). VXUS sigue siendo preferible para este usuario por su mayor diversificación interna, pero es la comparación MAS RENIDA del cluster. Ver Ficha VEU fila 50 para el detalle.",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **DIVERSIFICADOR GEOGRAFICO DE MAXIMA CALIDAD DEL PROYECTO** - cobertura total de mercados desarrollados+emergentes ex-US en un solo vehiculo, con overlap bajo pero real (5.37%), calidad estructural excepcional (TER minimo, AUM enorme, 15.5 anios, maxima diversificacion interna). Complementa el sesgo 100% domestico que domina casi toda la cartera del usuario. Rol: Core de diversificacion geografica genuina, junto con VB (factor tamano) uno de los DOS mejores diversificadores puros identificados en el proyecto.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **DIVERSIFICADOR GEOGRÁFICO DE MAXIMA CALIDAD DEL PROYECTO** - cobertura total de mercados desarrollados+emergentes ex-US en un solo vehículo, con overlap bajo pero real (5.37%), calidad estructural excepcional (TER mínimo, AUM enorme, 15.5 años, maxima diversificación interna). Complementa el sesgo 100% domestico que domina casi toda la cartera del usuario. Rol: Core de diversificación geográfica genuina, junto con VB (factor tamaño) uno de los DOS mejores diversificadores puros identificados en el proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion de bajisimo costo a TODO el mercado accionario fuera de EEUU (desarrollado+emergente, blend de estilo), con valoracion actualmente MAS BARATA que el mercado US (P/E 15.86x) y una posible rotacion de flujos hacia international ya insinuada por el fuerte retorno 1Y (+26.80%) tras mas de una decada de underperformance relativo.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición de bajisimo costo a TODO el mercado accionario fuera de EEUU (desarrollado+emergente, blend de estilo), con valoración actualmente MAS BARATA que el mercado US (P/E 15.86x) y una posible rotación de flujos hacia international ya insinuada por el fuerte retorno 1Y (+26.80%) tras mas de una década de underperformance relativo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo cambiario no cubierto (unhedged) y retencion fiscal extranjera sobre dividendos (mismo gotcha ya documentado con VYMI); (2) underperformance historico de larga duracion frente a EEUU (retorno desde inception 6.72% vs 9.77-15.16% de los hermanos Vanguard 2004 en ventanas similares); (3) exposicion a mercados emergentes (27.58%) trae riesgo politico/regulatorio adicional (ej. China/Tencent en el top10); (4) posibles artefactos de datos en el reporte de holdings (Slcmt/Mktliq) sugieren que una fraccion pequena y no cuantificada del fondo esta en gestion de liquidez/colateral, no en acciones puras.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo cambiario no cubierto (unhedged) y retención fiscal extranjera sobre dividendos (mismo gotcha ya documentado con VYMI); (2) underperformance histórico de larga duración frente a EEUU (retorno desde inception 6.72% vs 9.77-15.16% de los hermanos Vanguard 2004 en ventanas similares); (3) exposición a mercados emergentes (27.58%) trae riesgo politico/regulatorio adicional (ej. China/Tencent en el top10); (4) posibles artefactos de datos en el reporte de holdings (Slcmt/Mktliq) sugieren que una fracción pequeña y no cuantificada del fondo esta en gestion de liquidez/colateral, no en acciones puras.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "IXUS (iShares, analizado en fila 45) verificado como el competidor mas cercano - VXUS gana en costo/escala/diversificacion, ver comparacion completa en fila 50. VEU y SCHF identificados sin datos propios verificados. ACWX (fila 46) tambien verificado - tercer lugar del cluster en eficiencia, ver comparacion en su Ficha. VEU (fila 47) tambien verificado - el competidor mas fuerte del cluster frente a VXUS, ver comparacion en su Ficha.",
+          "notas": "IXUS (iShares, analizado en fila 45) verificado como el competidor mas cercano - VXUS gana en costo/escala/diversificación, ver comparación completa en fila 50. VEU y SCHF identificados sin datos propios verificados. ACWX (fila 46) también verificado - tercer lugar del cluster en eficiencia, ver comparación en su Ficha. VEU (fila 47) también verificado - el competidor mas fuerte del cluster frente a VXUS, ver comparación en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.94/5, TERCER lugar del proyecto (detras de VTV 4.06 y SCHD 4.03), muy por encima de la mayoria de los tematicos/sectoriales recientes. VXUS combina calidad estructural de PRIMER NIVEL en casi toda dimension: TER de los mas bajos del proyecto (0.05%), AUM entre los mas grandes ($161bn), el numero de holdings MAS ALTO de todo el proyecto (8,807) y el top10 mas bajo junto con VYMI/VB (14.77%), 15.5 anios de historial limpio, y la MEJOR diversificacion geografica del proyecto (cobertura simultanea de mercados desarrollados Y emergentes, sin un solo pais dominante). El overlap es MODESTO pero real (5.37%, via TSM y ASML - a diferencia de VYMI, que no mostro overlap en su analisis original), y el retorno historico (6.72% anualizado) es el punto mas debil, reflejo del underperformance bien documentado de acciones internacionales frente a EEUU en la ultima decada+ - aunque el fuerte 1Y (+26.80%) y la valoracion barata (P/E 15.86x, notablemente por debajo del mercado US) sugieren que esa narrativa podria estar cambiando. Junto con VB (factor tamano), VXUS es uno de los DOS mejores diversificadores GENUINOS de todo el proyecto para este usuario - no reciclando convicciones mega-cap tech ya tomadas individualmente (como VUG/VGT/XLK/SOXX/SMH), sino abriendo una dimension estructural (geografia global) practicamente ausente del resto de la cartera."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.94/5, TERCER lugar del proyecto (detras de VTV 4.06 y SCHD 4.03), muy por encima de la mayoría de los temáticos/sectoriales recientes. VXUS combina calidad estructural de PRIMER NIVEL en casi toda dimensión: TER de los mas bajos del proyecto (0.05%), AUM entre los mas grandes ($161bn), el número de holdings MAS ALTO de todo el proyecto (8,807) y el top10 mas bajo junto con VYMI/VB (14.77%), 15.5 años de historial limpio, y la MEJOR diversificación geográfica del proyecto (cobertura simultanea de mercados desarrollados Y emergentes, sin un solo pais dominante). El overlap es MODESTO pero real (5.37%, via TSM y ASML - a diferencia de VYMI, que no mostro overlap en su analisis original), y el retorno histórico (6.72% anualizado) es el punto mas débil, reflejo del underperformance bien documentado de acciones internacionales frente a EEUU en la última década+ - aunque el fuerte 1Y (+26.80%) y la valoración barata (P/E 15.86x, notablemente por debajo del mercado US) sugieren que esa narrativa podría estar cambiando. Junto con VB (factor tamaño), VXUS es uno de los DOS mejores diversificadores GENUINOS de todo el proyecto para este usuario - no reciclando convicciones mega-cap tech ya tomadas individualmente (como VUG/VGT/XLK/SOXX/SMH), sino abriendo una dimensión estructural (geografia global) prácticamente ausente del resto de la cartera."
   }
 }

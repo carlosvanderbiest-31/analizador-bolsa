@@ -1,7 +1,7 @@
 {
   "empresa": "KLA Corporation",
   "ticker": "KLAC",
-  "sector": "Tecnologia - Equipos de Control de Procesos e Inspeccion para Semiconductores",
+  "sector": "Tecnología - Equipos de Control de Procesos e Inspección para Semiconductores",
   "fecha_analisis": "2026-08-12",
   "analista": null,
   "secciones": [
@@ -10,17 +10,17 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ingresos por equipos de control de procesos-inspeccion-metrologia para fabricacion de semiconductores (inspeccion optica de obleas, e-beam, empaquetado avanzado); diversificado por tipo de cliente (fabs logicas y memoria) y geografia.",
+          "notas": "Ingresos por equipos de control de procesos-inspección-metrologia para fabricación de semiconductores (inspección optica de obleas, e-beam, empaquetado avanzado); diversificado por tipo de cliente (fabs logicas y memoria) y geografia.",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat excepcional, de los mas fuertes del cluster de semiconductores del Dashboard - mas de 56% de cuota global en control de procesos-metrologia-inspeccion, mas de 85% en inspeccion optica de obleas especificamente (practicamente un cuasi-monopolio en ese subsegmento); cuota de control de procesos crecio 360 puntos basicos desde 2021.",
+          "notas": "Moat excepcional, de los mas fuertes del cluster de semiconductores del Dashboard - mas de 56% de cuota global en control de procesos-metrologia-inspección, mas de 85% en inspección optica de obleas específicamente (prácticamente un cuasi-monopolio en ese subsegmento); cuota de control de procesos crecio 360 puntos básicos desde 2021.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider indiscutido en el segmento 'inspect' de la cadena de valor de equipos de semiconductores (distinto de Applied Materials-Lam Research, que dominan el segmento 'make' de deposicion-grabado); ingresos 2T FY2026 +7.2% interanual, Process Control +9.0%, empaquetado avanzado casi duplicando ingresos (de USD635M en 2025 a ~USD1bn proyectado en 2026).",
+          "notas": "Líder indiscutido en el segmento 'inspect' de la cadena de valor de equipos de semiconductores (distinto de Applied Materials-Lam Research, que dominan el segmento 'make' de deposición-grabado); ingresos 2T FY2026 +7.2% interanual, Process Control +9.0%, empaquetado avanzado casi duplicando ingresos (de USD635M en 2025 a ~USD1bn proyectado en 2026).",
           "calificacion": 5
         },
         {
@@ -41,7 +41,7 @@
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Transacciones de insiders netamente negativas (Insider Trans -13.46%), propiedad interna muy baja (0.11%) - sin senal fuerte positiva.",
+          "notas": "Transacciones de insiders netamente negativas (Insider Trans -13.46%), propiedad interna muy baja (0.11%) - sin señal fuerte positiva.",
           "calificacion": 2
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion trimestral detallada con metricas especificas de cuota de mercado por subsegmento (inspeccion optica, e-beam, empaquetado avanzado) - nivel de detalle alto y verificable via fuentes independientes (informes de mercado).",
+          "notas": "Divulgación trimestral detallada con métricas específicas de cuota de mercado por subsegmento (inspección optica, e-beam, empaquetado avanzado) - nivel de detalle alto y verificable via fuentes independientes (informes de mercado).",
           "calificacion": 4
         }
       ],
@@ -67,17 +67,17 @@
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 2.82-2.88x, prueba acida 1.81-1.97x - liquidez muy solida.",
+          "notas": "Razón corriente 2.82-2.88x, prueba acida 1.81-1.97x - liquidez muy sólida.",
           "calificacion": 5
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "No verificado en detalle en esta sesion (pendiente).",
+          "notas": "No verificado en detalle en esta sesión (pendiente).",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Goodwill+intangibles ~USD2.05bn (11% de activos totales, moderado), patrimonio delgado por recompras (USD6.35bn vs market cap USD272bn) pero POSITIVO y creciendo (+35% interanual) - no cambia la metodologia DCF FCFF.",
+          "notas": "Goodwill+intangibles ~USD2.05bn (11% de activos totales, moderado), patrimonio delgado por recompras (USD6.35bn vs market cap USD272bn) pero POSITIVO y creciendo (+35% interanual) - no cambia la metodología DCF FCFF.",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto 60.13%, operativo 41.68%, neto 35.59% - excelentes y ESTABLES (a diferencia de TER-WDC-STX, aqui no hay un salto abrupto reciente, la expansion de margen es gradual y consistente en los ultimos 5 anios).",
+          "notas": "Margen bruto 60.13%, operativo 41.68%, neto 35.59% - excelentes y ESTABLES (a diferencia de TER-WDC-STX, aquí no hay un salto abrupto reciente, la expansión de margen es gradual y consistente en los últimos 5 años).",
           "calificacion": 5
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 81.77-87.50% (patrimonio delgado, menos informativo), ROIC 38.81-69.22% (mas informativo, ambos comodamente por encima del WACC ~11.4%), spread positivo muy solido.",
+          "notas": "ROE 81.77-87.50% (patrimonio delgado, menos informativo), ROIC 38.81-69.22% (mas informativo, ambos comodamente por encima del WACC ~11.4%), spread positivo muy sólido.",
           "calificacion": 5
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada (~0.76x), ciclo de conversion de efectivo favorable.",
+          "notas": "Rotación de activos moderada (~0.76x), ciclo de conversión de efectivo favorable.",
           "calificacion": 4
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR ingresos 5 anios 14.43% (Finviz) - MAS CREIBLE y consistente que el resto del cluster (TER 0.43%, WDC 1.60%, STX 2.69%, todos distorsionados por anios de estancamiento pre-supercycle), crecimiento reciente mas moderado y estable (+7.2% interanual 2T FY2026) - patron de crecimiento genuinamente mas sano y sostenido, no un pico ciclico abrupto.",
+          "notas": "CAGR ingresos 5 años 14.43% (Finviz) - MAS CREIBLE y consistente que el resto del cluster (TER 0.43%, WDC 1.60%, STX 2.69%, todos distorsionados por años de estancamiento pre-supercycle), crecimiento reciente mas moderado y estable (+7.2% interanual 2T FY2026) - patrón de crecimiento genuinamente mas sano y sostenido, no un pico ciclico abrupto.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "La mas consistente de todo el cluster de semiconductores de esta sesion - FCF estable y creciendo gradualmente en los ultimos 5 anios (3005M -> 3328M -> 3031M -> 3747M -> 3767M, sin el salto abrupto tipo hockey-stick de TER-WDC-STX-SNDK), refleja un negocio con demanda mas estructural y menos puramente ciclica-especulativa.",
+          "notas": "La mas consistente de todo el cluster de semiconductores de esta sesión - FCF estable y creciendo gradualmente en los últimos 5 años (3005M -> 3328M -> 3031M -> 3747M -> 3767M, sin el salto abrupto tipo hockey-stick de TER-WDC-STX-SNDK), refleja un negocio con demanda mas estructural y menos puramente ciclica-especulativa.",
           "calificacion": 4
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Empaquetado avanzado casi duplicando ingresos (USD635M a ~USD1bn, 2025-2026), intensidad de control de procesos aumentando con la complejidad de chips de IA (logica avanzada y memoria), cuota de mercado aun en expansion (+360pb desde 2021).",
+          "notas": "Empaquetado avanzado casi duplicando ingresos (USD635M a ~USD1bn, 2025-2026), intensidad de control de procesos aumentando con la complejidad de chips de IA (logica avanzada y memoria), cuota de mercado aun en expansión (+360pb desde 2021).",
           "calificacion": 5
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo FY2026 USD4.14bn vs utilidad neta TTM implicita ~USD4.79bn (market cap/P-E) - relacion razonable sin distorsion extrema.",
+          "notas": "Flujo de caja operativo FY2026 USD4.14bn vs utilidad neta TTM implícita ~USD4.79bn (market cap/P-E) - relación razonable sin distorsión extrema.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF FY2026 USD3.77bn (margen FCF ~14% sobre ingresos), estable y creciente de forma consistente en 5 anios (a diferencia del salto abrupto reciente de TER-WDC-STX) - de los perfiles de FCF mas predecibles del cluster de semiconductores.",
+          "notas": "FCF FY2026 USD3.77bn (margen FCF ~14% sobre ingresos), estable y creciente de forma consistente en 5 años (a diferencia del salto abrupto reciente de TER-WDC-STX) - de los perfiles de FCF mas predecibles del cluster de semiconductores.",
           "calificacion": 4
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex FY2026 USD376M (~7% de ingresos), estable en los ultimos anios (277M-376M), sin senales de sobre-inversion de ciclo.",
+          "notas": "Capex FY2026 USD376M (~7% de ingresos), estable en los últimos años (277M-376M), sin señales de sobre-inversión de ciclo.",
           "calificacion": 4
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Recompras, dividendo creciente, M&A bolt-on selectivo - asignacion de capital disciplinada y consistente en el tiempo, sin el historial de patrimonio negativo visto en STX.",
+          "notas": "Recompras, dividendo creciente, M&A bolt-on selectivo - asignación de capital disciplinada y consistente en el tiempo, sin el historial de patrimonio negativo visto en STX.",
           "calificacion": 4
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM 56.78x, Forward P/E 31.27x, PEG 1.17 (mas alto y menos 'enganoso' que TER-WDC-STX, refleja que el crecimiento de EPS aqui SI es mas organico-sostenido), EV/EBITDA 45.32x, P/FCF 72.23-72.84x - EXTREMADAMENTE exigentes en terminos absolutos pese a ser el negocio mas 'normal'-consistente del cluster.",
+          "notas": "P/E TTM 56.78x, Forward P/E 31.27x, PEG 1.17 (mas alto y menos 'enganoso' que TER-WDC-STX, refleja que el crecimiento de EPS aquí SI es mas orgánico-sostenido), EV/EBITDA 45.32x, P/FCF 72.23-72.84x - EXTREMADAMENTE exigentes en términos absolutos pese a ser el negocio mas 'normal'-consistente del cluster.",
           "calificacion": 1
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (adoptado, WACC 11.4% CAPM literal -beta 1.46 no degenerado-, crecimiento con fade 12%->7% en 5 anios -MAS GENEROSO que el resto del cluster dado que aqui no hay un pico ciclico reciente que evitar extrapolar-, FCF base FY2026, terminal 4%): USD47.92/accion, MS -77.0%. Escenario B (agresivo, growth 25%->12%, no adoptado): USD70.07/accion, MS -66.4% - conclusion robusta pese a usar una base de crecimiento mas generosa que TER-WDC-STX.",
+          "notas": "Escenario A (adoptado, WACC 11.4% CAPM literal -beta 1.46 no degenerado-, crecimiento con fade 12%->7% en 5 años -MAS GENEROSO que el resto del cluster dado que aquí no hay un pico ciclico reciente que evitar extrapolar-, FCF base FY2026, terminal 4%): USD47.92/acción, MS -77.0%. Escenario B (agresivo, growth 25%->12%, no adoptado): USD70.07/acción, MS -66.4% - conclusión robusta pese a usar una base de crecimiento mas generosa que TER-WDC-STX.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "-77.0% con el Escenario A adoptado - severamente negativo, similar en magnitud a WDC (-75.3%) pese a que aqui el negocio subyacente es de mayor calidad-consistencia.",
+          "notas": "-77.0% con el Escenario A adoptado - severamente negativo, similar en magnitud a WDC (-75.3%) pese a que aquí el negocio subyacente es de mayor calidad-consistencia.",
           "calificacion": 1
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de control de procesos-metrologia-inspeccion para semiconductores en expansion estructural fuerte, impulsado por la creciente complejidad de chips de IA (mas pasos de inspeccion por oblea a medida que los nodos se achican y el empaquetado avanzado se vuelve mas complejo).",
+          "notas": "Mercado de control de procesos-metrologia-inspección para semiconductores en expansión estructural fuerte, impulsado por la creciente complejidad de chips de IA (mas pasos de inspección por oblea a medida que los nodos se achican y el empaquetado avanzado se vuelve mas complejo).",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas - decadas de I+D en optica de precision-e-beam, escala, cuasi-monopolio en varios subsegmentos (mas de 85% en inspeccion optica).",
+          "notas": "Muy altas - décadas de I+D en optica de precisión-e-beam, escala, cuasi-monopolio en varios subsegmentos (mas de 85% en inspección optica).",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad baja (KLA domina el segmento 'inspect', distinto de Applied Materials-Lam Research que dominan 'make'; Onto Innovation como competidor menor en metrologia); poder de negociacion del comprador moderado (fabs grandes pero dependientes de la tecnologia de inspeccion de KLA); poder de proveedores bajo-moderado; amenaza de sustitutos baja; barreras de entrada muy altas.",
+          "notas": "Rivalidad baja (KLA domina el segmento 'inspect', distinto de Applied Materials-Lam Research que dominan 'make'; Onto Innovation como competidor menor en metrologia); poder de negociación del comprador moderado (fabs grandes pero dependientes de la tecnología de inspección de KLA); poder de proveedores bajo-moderado; amenaza de sustitutos baja; barreras de entrada muy altas.",
           "calificacion": 5
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Ligado al ciclo de capex de semiconductores (fabs), pero MENOS ciclico que equipos de 'make' (deposicion-grabado) porque el control de procesos es necesario en CADA generacion de nodo independientemente del volumen de produccion, y la intensidad de inspeccion por oblea aumenta con la complejidad (efecto contraciclico parcial).",
+          "notas": "Ligado al ciclo de capex de semiconductores (fabs), pero MENOS ciclico que equipos de 'make' (deposición-grabado) porque el control de procesos es necesario en CADA generación de nodo independientemente del volumen de producción, y la intensidad de inspección por oblea aumenta con la complejidad (efecto contraciclico parcial).",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo real de controles de exportacion de EEUU relacionados con China (equipos de semiconductores avanzados sujetos a restricciones), exposicion significativa a ingresos de China, no cuantificada en detalle en esta sesion.",
+          "notas": "Riesgo real de controles de exportación de EEUU relacionados con China (equipos de semiconductores avanzados sujetos a restricciones), exposición significativa a ingresos de China, no cuantificada en detalle en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional significativa (ventas globales a fabs en Asia-EEUU-Europa), riesgo cambiario tipico de una tecnologica global de este tamano.",
+          "notas": "Exposición internacional significativa (ventas globales a fabs en Asia-EEUU-Europa), riesgo cambiario típico de una tecnologica global de este tamaño.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de clientes diversificada entre las principales fabs globales (TSMC, Samsung, Intel, memoria), sin concentracion de cliente unico critica identificada en esta sesion, aunque el numero total de clientes relevantes es limitado (industria de fabs muy concentrada).",
+          "notas": "Base de clientes diversificada entre las principales fabs globales (TSMC, Samsung, Intel, memoria), sin concentración de cliente único critica identificada en esta sesión, aunque el número total de clientes relevantes es limitado (industria de fabs muy concentrada).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo bajo - KLA es beneficiario directo de la creciente complejidad tecnologica (mas inspeccion requerida, no menos), a diferencia de negocios donde la IA amenaza con reemplazar el producto.",
+          "notas": "Riesgo bajo - KLA es beneficiario directo de la creciente complejidad tecnologica (mas inspección requerida, no menos), a diferencia de negocios donde la IA amenaza con reemplazar el producto.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesión.",
           "calificacion": 4
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Proximos resultados trimestrales - clave para confirmar si la expansion de cuota de mercado y el crecimiento de empaquetado avanzado se mantienen.",
+          "notas": "Proximos resultados trimestrales - clave para confirmar si la expansión de cuota de mercado y el crecimiento de empaquetado avanzado se mantienen.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Transacciones de insiders netamente negativas (Insider Trans -13.46%) - senal de toma de utilidades, sin refuerzo positivo.",
+          "notas": "Transacciones de insiders netamente negativas (Insider Trans -13.46%) - señal de toma de utilidades, sin refuerzo positivo.",
           "calificacion": 2
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso 'Buy' (recomendacion 1.84 Finviz), objetivo promedio USD239.62 (+15.1% de alza) - en direccion OPUESTA al DCF propio, mismo patron de divergencia ya visto en el resto del cluster, aunque con la MENOR divergencia de magnitud del grupo.",
+          "notas": "Consenso 'Buy' (recomendación 1.84 Finviz), objetivo promedio USD239.62 (+15.1% de alza) - en dirección OPUESTA al DCF propio, mismo patrón de divergencia ya visto en el resto del cluster, aunque con la MENOR divergencia de magnitud del grupo.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.7027027027027026,
-    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoracion extremadamente exigente) - septima confirmacion del patron supercycle-vs-valoracion del cluster de semiconductores (MU-SNDK-WDC-ANET-STX-TER-KLAC). A diferencia del resto del cluster, aqui el negocio subyacente es el de MAYOR calidad-consistencia (moat cuasi-monopolico >56% cuota global, FCF creciendo de forma gradual y predecible sin saltos abruptos de pico ciclico), lo que permitio usar supuestos de crecimiento mas generosos sin violar la disciplina metodologica del cluster - y aun asi el Margen de Seguridad es severamente negativo (-77.0%), robusto incluso en un Escenario B agresivo (-66.4%, no adoptado). Consenso de analistas alcista (objetivo +15.1%) en direccion opuesta, aunque con la menor divergencia de magnitud del cluster.",
-    "tesis": "El cuasi-monopolista del segmento de inspeccion-control de procesos para semiconductores, con el moat mas fuerte y el crecimiento mas consistente-creible de todo el cluster de equipos de semiconductores del Dashboard, cotiza a multiplos que ya incorporan anios de ejecucion perfecta pese a no depender de un pico ciclico reciente para justificar su calidad."
+    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoración extremadamente exigente) - septima confirmación del patrón supercycle-vs-valoración del cluster de semiconductores (MU-SNDK-WDC-ANET-STX-TER-KLAC). A diferencia del resto del cluster, aquí el negocio subyacente es el de MAYOR calidad-consistencia (moat cuasi-monopolico >56% cuota global, FCF creciendo de forma gradual y predecible sin saltos abruptos de pico ciclico), lo que permitio usar supuestos de crecimiento mas generosos sin violar la disciplina metodologica del cluster - y aun así el Margen de Seguridad es severamente negativo (-77.0%), robusto incluso en un Escenario B agresivo (-66.4%, no adoptado). Consenso de analistas alcista (objetivo +15.1%) en dirección opuesta, aunque con la menor divergencia de magnitud del cluster.",
+    "tesis": "El cuasi-monopolista del segmento de inspección-control de procesos para semiconductores, con el moat mas fuerte y el crecimiento mas consistente-creible de todo el cluster de equipos de semiconductores del Dashboard, cotiza a múltiplos que ya incorporan años de ejecución perfecta pese a no depender de un pico ciclico reciente para justificar su calidad."
   }
 }

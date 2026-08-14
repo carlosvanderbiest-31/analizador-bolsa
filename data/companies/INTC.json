@@ -1,7 +1,7 @@
 {
   "empresa": "Intel Corporation",
   "ticker": "INTC",
-  "sector": "Tecnologia - Semiconductores (diseno de CPU y foundry de manufactura de chips)",
+  "sector": "Tecnología - Semiconductores (diseño de CPU y foundry de manufactura de chips)",
   "fecha_analisis": "2026-08-07",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Tres segmentos: computo de cliente (CPUs para PC, +13 por ciento 2T 2026), centro de datos (+59 por ciento, impulsado por demanda de IA), y foundry (manufactura de chips para terceros, +31 por ciento pero todavia con muy pocos clientes externos confirmados). Ingresos TTM 57.03 mil millones USD (+7.5 por ciento), 2T 2026 con el crecimiento trimestral mas rapido en casi 15 anios (+25 por ciento interanual).",
+          "notas": "Tres segmentos: computo de cliente (CPUs para PC, +13 por ciento 2T 2026), centro de datos (+59 por ciento, impulsado por demanda de IA), y foundry (manufactura de chips para terceros, +31 por ciento pero todavía con muy pocos clientes externos confirmados). Ingresos TTM 57.03 mil millones USD (+7.5 por ciento), 2T 2026 con el crecimiento trimestral mas rápido en casi 15 años (+25 por ciento interanual).",
           "calificacion": 3
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat historico de arquitectura x86 erosionado durante mas de una decada por AMD (CPUs) y por chips basados en ARM (Apple, Qualcomm), ademas de haber perdido casi por completo la ola de IA-GPU frente a NVIDIA. El moat de foundry (manufactura de vanguardia) esta en reconstruccion activa bajo el nuevo CEO, con mejoras reales de rendimiento en el nodo 18A, pero todavia sin probarse a escala frente a TSMC.",
+          "notas": "Moat histórico de arquitectura x86 erosionado durante mas de una década por AMD (CPUs) y por chips basados en ARM (Apple, Qualcomm), además de haber perdido casi por completo la ola de IA-GPU frente a NVIDIA. El moat de foundry (manufactura de vanguardia) esta en reconstrucción activa bajo el nuevo CEO, con mejoras reales de rendimiento en el nodo 18A, pero todavía sin probarse a escala frente a TSMC.",
           "calificacion": 2
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Posicion competitiva debilitada estructuralmente en la ultima decada: perdio cuota frente a AMD en CPUs, perdio la ola de IA-GPU frente a NVIDIA, y sigue detras de TSMC en manufactura de vanguardia. Giro genuino en curso bajo el CEO Lip-Bu Tan (desde mar-2025), mas seis trimestres consecutivos superando guidance, pero partiendo de una posicion debilitada.",
+          "notas": "Posición competitiva debilitada estructuralmente en la última década: perdio cuota frente a AMD en CPUs, perdio la ola de IA-GPU frente a NVIDIA, y sigue detras de TSMC en manufactura de vanguardia. Giro genuino en curso bajo el CEO Lip-Bu Tan (desde mar-2025), mas seis trimestres consecutivos superando guidance, pero partiendo de una posición debilitada.",
           "calificacion": 2
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Poder de fijacion de precios limitado por anios de presion competitiva de AMD en CPUs de cliente-servidor - estructuralmente debilitado, no una caracteristica ciclica pasajera.",
+          "notas": "Poder de fijación de precios limitado por años de presión competitiva de AMD en CPUs de cliente-servidor - estructuralmente debilitado, no una caracteristica ciclica pasajera.",
           "calificacion": 2
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Historial de asignacion de capital pobre durante mas de una decada (aniios de ejecucion fallida en nodos de manufactura bajo liderazgo previo, perdida de las olas de moviles y de IA-GPU). El nuevo CEO Lip-Bu Tan (desde mar-2025) muestra senales tempranas reales de un giro (mejoras de rendimiento del nodo 18A, disciplina de costos, clientes de foundry nombrados), pero el track record es todavia corto para calificarlo alto.",
+          "notas": "Historial de asignación de capital pobre durante mas de una década (aniios de ejecución fallida en nodos de manufactura bajo liderazgo previo, pérdida de las olas de moviles y de IA-GPU). El nuevo CEO Lip-Bu Tan (desde mar-2025) muestra señales tempranas reales de un giro (mejoras de rendimiento del nodo 18A, disciplina de costos, clientes de foundry nombrados), pero el track record es todavía corto para calificarlo alto.",
           "calificacion": 2
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO nuevo (poco mas de un anio en el cargo) todavia construyendo historial. La participacion accionaria SIN PRECEDENTES del gobierno de EEUU (via acciones en garantia ligadas a la Ley CHIPS) introduce una dinamica de incentivos inusual, con consideraciones politicas superpuestas a los intereses tradicionales de los accionistas.",
+          "notas": "CEO nuevo (poco mas de un año en el cargo) todavía construyendo historial. La participación accionaria SIN PRECEDENTES del gobierno de EEUU (via acciones en garantía ligadas a la Ley CHIPS) introduce una dinámica de incentivos inusual, con consideraciones políticas superpuestas a los intereses tradicionales de los accionistas.",
           "calificacion": 2
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Estructura tradicionalmente de una sola clase de acciones, PERO con una caracteristica estructural sin precedentes: el gobierno de EEUU (Departamento de Comercio) recibio acciones en garantia (Escrowed Shares) de Intel bajo un Acuerdo de Gobierno de EEUU ligado al programa \"Secure Enclave\" - una politizacion inedita de la estructura de propiedad de una gran empresa publica de tecnologia.",
+          "notas": "Estructura tradicionalmente de una sola clase de acciones, PERO con una caracteristica estructural sin precedentes: el gobierno de EEUU (Departamento de Comercio) recibio acciones en garantía (Escrowed Shares) de Intel bajo un Acuerdo de Gobierno de EEUU ligado al programa \"Secure Enclave\" - una politización inedita de la estructura de propiedad de una gran empresa pública de tecnología.",
           "calificacion": 2
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion estandar de una empresa publica grande, pero la contabilidad de las Escrowed Shares (derivados de valor razonable) hace que los estados financieros GAAP sean genuinamente dificiles de interpretar sin un ajuste cuidadoso - ver fila 35 para el detalle del mecanismo.",
+          "notas": "Divulgación estándar de una empresa pública grande, pero la contabilidad de las Escrowed Shares (derivados de valor razonable) hace que los estados financieros GAAP sean genuinamente difíciles de interpretar sin un ajuste cuidadoso - ver fila 35 para el detalle del mecanismo.",
           "calificacion": 3
         }
       ],
@@ -62,7 +62,7 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Apalancamiento significativo: deuda total aprox 50.5 mil millones USD, caja mas inversiones de corto plazo aprox 37.4 mil millones USD (14.265bn caja + 23.151bn inversiones, cifras de fin de 2025), deuda neta aprox 13 mil millones USD. Se agrego deuda nueva de 6.5 mil millones USD para recomprar el 49 por ciento de la participacion minoritaria en la fab de Irlanda (Fab 34) por 7.7 mil millones USD en efectivo mas esa deuda.",
+          "notas": "Apalancamiento significativo: deuda total aprox 50.5 mil millones USD, caja mas inversiones de corto plazo aprox 37.4 mil millones USD (14.265bn caja + 23.151bn inversiones, cifras de fin de 2025), deuda neta aprox 13 mil millones USD. Se agrego deuda nueva de 6.5 mil millones USD para recomprar el 49 por ciento de la participación minoritaria en la fab de Irlanda (Fab 34) por 7.7 mil millones USD en efectivo mas esa deuda.",
           "calificacion": 2
         },
         {
@@ -72,7 +72,7 @@
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Estructura de vencimientos no verificada en detalle en esta sesion (dato pendiente) - la reciente emision de 6.5bn USD para la compra de Fab 34 se suma a una carga de deuda ya considerable.",
+          "notas": "Estructura de vencimientos no verificada en detalle en esta sesión (dato pendiente) - la reciente emisión de 6.5bn USD para la compra de Fab 34 se suma a una carga de deuda ya considerable.",
           "calificacion": 2
         },
         {
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margenes GAAP deeply negativos por los cargos de deterioro y el mecanismo de valor razonable de las Escrowed Shares (ver fila 35), pero margenes no-GAAP mejorando genuinamente: margen bruto no-GAAP 41 por ciento en el 1T 2026, guiado a aprox 39-42 por ciento en el 3T - todavia por debajo del pico historico de Intel pero en recuperacion real.",
+          "notas": "Márgenes GAAP deeply negativos por los cargos de deterioro y el mecanismo de valor razonable de las Escrowed Shares (ver fila 35), pero márgenes no-GAAP mejorando genuinamente: margen bruto no-GAAP 41 por ciento en el 1T 2026, guiado a aprox 39-42 por ciento en el 3T - todavía por debajo del pico histórico de Intel pero en recuperación real.",
           "calificacion": 2
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE y ROIC profundamente negativos en base GAAP. Incluso en base no-GAAP ajustada, los retornos probablemente siguen por debajo del costo de capital dado el volumen de inversion en curso que todavia no genera ingresos proporcionales.",
+          "notas": "ROE y ROIC profundamente negativos en base GAAP. Incluso en base no-GAAP ajustada, los retornos probablemente siguen por debajo del costo de capital dado el volumen de inversión en curso que todavía no genera ingresos proporcionales.",
           "calificacion": 1
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Modelo intensivo en activos de manufactura (fabs) - rotacion de activos baja dado el tamanio de la base de activos frente a los ingresos actuales.",
+          "notas": "Modelo intensivo en activos de manufactura (fabs) - rotación de activos baja dado el tamanio de la base de activos frente a los ingresos actuales.",
           "calificacion": 2
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Aceleracion reciente genuina y real tras anios de estancamiento: ingresos del 2T 2026 crecieron 25 por ciento interanual, el ritmo mas rapido en casi 15 anios, con centro de datos +59 por ciento y foundry +31 por ciento. FY2025 completo habia sido practicamente plano (-0.47 por ciento) - la inflexion es reciente, no una tendencia larga todavia probada.",
+          "notas": "Aceleración reciente genuina y real tras años de estancamiento: ingresos del 2T 2026 crecieron 25 por ciento interanual, el ritmo mas rápido en casi 15 años, con centro de datos +59 por ciento y foundry +31 por ciento. FY2025 completo habia sido prácticamente plano (-0.47 por ciento) - la inflexion es reciente, no una tendencia larga todavía probada.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "SEIS trimestres consecutivos superando el guidance propio bajo el nuevo CEO - una senial de consistencia y credibilidad genuinamente positiva para una empresa que tuvo anios de decepciones de ejecucion bajo el liderazgo anterior.",
+          "notas": "SEIS trimestres consecutivos superando el guidance propio bajo el nuevo CEO - una senial de consistencia y credibilidad genuinamente positiva para una empresa que tuvo años de decepciones de ejecución bajo el liderazgo anterior.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Foundry: cliente nombrado Fortinet (chip SP6 en el proceso Intel 4), ademas de acuerdos reportados con Tesla y Google, y conversaciones con Apple - progreso real pero todavia en etapa muy temprana en terminos de ingresos externos confirmados. Demanda de centro de datos impulsada por IA. Mejoras de rendimiento del nodo 18A (7-8 por ciento de mejora de rendimiento por mes segun el propio CEO) y avance del nodo 14A.",
+          "notas": "Foundry: cliente nombrado Fortinet (chip SP6 en el proceso Intel 4), además de acuerdos reportados con Tesla y Google, y conversaciones con Apple - progreso real pero todavía en etapa muy temprana en términos de ingresos externos confirmados. Demanda de centro de datos impulsada por IA. Mejoras de rendimiento del nodo 18A (7-8 por ciento de mejora de rendimiento por mes según el propio CEO) y avance del nodo 14A.",
           "calificacion": 3
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "GOTCHA NUEVO Y NOTABLE: la perdida neta GAAP masiva (TTM -11.29bn USD; 1S 2026 incluyo -3.7bn USD en el 1T y -11.033bn USD en el 2T) esta dominada por DOS componentes bien diferenciados. (1) Un cargo de valor razonable de 12.529 mil millones USD sobre las \"Escrowed Shares\" (acciones en garantia) entregadas al Departamento de Comercio de EEUU bajo el Acuerdo de Gobierno de EEUU - mecanicamente, esta perdida CRECE cuando el precio de la accion de Intel SUBE (el valor de las acciones que eventualmente se transferiran al gobierno aumenta), EXACTAMENTE EL MISMO MECANISMO CONTRAINTUITIVO ya documentado en SHAZ con sus notas convertibles: una perdida contable que refleja que la empresa vale MAS, no menos. Hay ademas un pasivo derivado relacionado de 15.6bn USD cubriendo 143 millones de acciones en garantia no liberadas. (2) Un cargo de deterioro de goodwill de Mobileye de 3.9bn USD - este SI es un deterioro operativo real, no un artefacto de precio de accion. Estos dos componentes deben separarse: el primero no refleja deterioro del negocio, el segundo si.",
+          "notas": "GOTCHA NUEVO Y NOTABLE: la pérdida neta GAAP masiva (TTM -11.29bn USD; 1S 2026 incluyo -3.7bn USD en el 1T y -11.033bn USD en el 2T) esta dominada por DOS componentes bien diferenciados. (1) Un cargo de valor razonable de 12.529 mil millones USD sobre las \"Escrowed Shares\" (acciones en garantía) entregadas al Departamento de Comercio de EEUU bajo el Acuerdo de Gobierno de EEUU - mecanicamente, esta pérdida CRECE cuando el precio de la acción de Intel SUBE (el valor de las acciones que eventualmente se transferiran al gobierno aumenta), EXACTAMENTE EL MISMO MECANISMO CONTRAINTUITIVO ya documentado en SHAZ con sus notas convertibles: una pérdida contable que refleja que la empresa vale MAS, no menos. Hay además un pasivo derivado relacionado de 15.6bn USD cubriendo 143 millones de acciones en garantía no liberadas. (2) Un cargo de deterioro de goodwill de Mobileye de 3.9bn USD - este SI es un deterioro operativo real, no un artefacto de precio de acción. Estos dos componentes deben separarse: el primero no refleja deterioro del negocio, el segundo si.",
           "calificacion": 3
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF CONFIRMADO NEGATIVO, no solo un artefacto contable: -2 a -3.119 mil millones USD en el 1T 2026 (capex bruto de 5bn USD contra OCF de solo 1.1bn USD). El guidance de capex para 2026 es \"plano respecto al anio anterior\", con el gasto en herramientas subiendo aprox 25 por ciento interanual mientras el gasto relacionado a espacio fisico declina. La caja consumida es real, no un ajuste de valor razonable como en la fila 35.",
+          "notas": "FCF CONFIRMADO NEGATIVO, no solo un artefacto contable: -2 a -3.119 mil millones USD en el 1T 2026 (capex bruto de 5bn USD contra OCF de solo 1.1bn USD). El guidance de capex para 2026 es \"plano respecto al año anterior\", con el gasto en herramientas subiendo aprox 25 por ciento interanual mientras el gasto relacionado a espacio fisico declina. La caja consumida es real, no un ajuste de valor razonable como en la fila 35.",
           "calificacion": 1
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex casi enteramente estrategico-de crecimiento (construccion de fabs para la apuesta de foundry), a una escala enorme en relacion a los ingresos actuales. Ejemplo: recompra de la participacion minoritaria del 49 por ciento en la Fab 34 de Irlanda por 7.7bn USD en efectivo mas 6.5bn USD en deuda nueva.",
+          "notas": "Capex casi enteramente estratégico-de crecimiento (construcción de fabs para la apuesta de foundry), a una escala enorme en relación a los ingresos actuales. Ejemplo: recompra de la participación minoritaria del 49 por ciento en la Fab 34 de Irlanda por 7.7bn USD en efectivo mas 6.5bn USD en deuda nueva.",
           "calificacion": 2
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Uso del capital dominado por financiar la apuesta de foundry via una combinacion de deuda, respaldo del gobierno de EEUU (Ley CHIPS, ahora con participacion accionaria directa) y co-inversion de socios - una apuesta de altisimo capital y alto riesgo de ejecucion, sin recompras ni dividendo activo en esta etapa (Intel suspendio su dividendo en 2024).",
+          "notas": "Uso del capital dominado por financiar la apuesta de foundry via una combinación de deuda, respaldo del gobierno de EEUU (Ley CHIPS, ahora con participación accionaria directa) y co-inversión de socios - una apuesta de altisimo capital y alto riesgo de ejecución, sin recompras ni dividendo activo en esta etapa (Intel suspendio su dividendo en 2024).",
           "calificacion": 2
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P sobre E no aplica de forma limpia (perdida GAAP). Sobre una base de EPS no-GAAP anualizado (ver fila 41), el multiplo implicito supera 70x - extremadamente rico para una empresa con FCF negativo y deterioros recientes. Market cap de aprox 509.49bn USD sobre ingresos TTM de solo 57.03bn USD (P sobre ventas aprox 8.9x) - entre las valoraciones mas exigentes del Dashboard en relacion a los fundamentales actuales. La accion subio mas de 170 por ciento en lo que va de 2026 (tras +84 por ciento en 2025).",
+          "notas": "P sobre E no aplica de forma limpia (pérdida GAAP). Sobre una base de EPS no-GAAP anualizado (ver fila 41), el múltiplo implícito supera 70x - extremadamente rico para una empresa con FCF negativo y deterioros recientes. Market cap de aprox 509.49bn USD sobre ingresos TTM de solo 57.03bn USD (P sobre ventas aprox 8.9x) - entre las valoraciones mas exigentes del Dashboard en relación a los fundamentales actuales. La acción subio mas de 170 por ciento en lo que va de 2026 (tras +84 por ciento en 2025).",
           "calificacion": 1
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio, escenario adoptado: dado que el FCF real es negativo (ver fila 36), se uso una base proxy de utilidad neta no-GAAP anualizada a partir de los dos trimestres mas recientes reales (EPS no-GAAP 0.29 USD 1T 2026 + 0.42 USD 2T 2026 = 0.71 USD, anualizado x2 = 1.42 USD por accion x 5.04bn acciones = aprox 7.16bn USD) - MISMO CRITERIO ya aplicado a ORCL, pero con una advertencia mas fuerte aqui: esta base probablemente SOBRESTIMA la generacion de caja real, porque el no-GAAP no descuenta el capex masivo de construccion de fabs que si consume caja real (ver fila 36) - se documenta esto explicitamente en vez de ignorarlo. Crecimiento con fade de 15 a 7 por ciento en 5 anios (deliberadamente mas conservador que el ritmo actual de +25 por ciento en ingresos, dado que la inflexion es muy reciente y el negocio de foundry externo todavia tiene un unico cliente nombrado). WACC 15.8 por ciento (CAPM literal: Beta 2.24, reflejo de la volatilidad extraordinaria reciente - no se agrego una prima cualitativa adicional porque el beta ya esta capturando un nivel de riesgo elevado, a diferencia de los casos de beta BAJO que si requirieron prima, ver BABA-WMB-ORCL-ADBE). Terminal 4 por ciento. Deuda neta usada en el puente de valor: aprox 13bn USD. Valor Intrinseco resultante: aprox 13.66 USD por accion.",
+          "notas": "DCF propio, escenario adoptado: dado que el FCF real es negativo (ver fila 36), se uso una base proxy de utilidad neta no-GAAP anualizada a partir de los dos trimestres mas recientes reales (EPS no-GAAP 0.29 USD 1T 2026 + 0.42 USD 2T 2026 = 0.71 USD, anualizado x2 = 1.42 USD por acción x 5.04bn acciones = aprox 7.16bn USD) - MISMO CRITERIO ya aplicado a ORCL, pero con una advertencia mas fuerte aquí: esta base probablemente SOBRESTIMA la generación de caja real, porque el no-GAAP no descuenta el capex masivo de construcción de fabs que si consume caja real (ver fila 36) - se documenta esto explícitamente en vez de ignorarlo. Crecimiento con fade de 15 a 7 por ciento en 5 años (deliberadamente mas conservador que el ritmo actual de +25 por ciento en ingresos, dado que la inflexion es muy reciente y el negocio de foundry externo todavía tiene un único cliente nombrado). WACC 15.8 por ciento (CAPM literal: Beta 2.24, reflejo de la volatilidad extraordinaria reciente - no se agrego una prima cualitativa adicional porque el beta ya esta capturando un nivel de riesgo elevado, a diferencia de los casos de beta BAJO que si requirieron prima, ver BABA-WMB-ORCL-ADBE). Terminal 4 por ciento. Deuda neta usada en el puente de valor: aprox 13bn USD. Valor Intrínseco resultante: aprox 13.66 USD por acción.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad: aprox -86.5 por ciento (precio actual 101.01 USD vs IV 13.66 USD) - una de las lecturas de sobrevaloracion MAS EXTREMAS de todo el Dashboard. Sensibilidad B (crecimiento muy generoso, fade 25 a 10 por ciento, igualando el ritmo actual de crecimiento sostenido por 5 anios, no adoptado): IV aprox 18.17 USD, MS -82.0 por ciento - la conclusion sigue siendo extremadamente negativa incluso bajo el escenario mas favorable probado. Consenso de analistas (48, calificacion \"Hold\", objetivo promedio 115.27 USD, +12.41 por ciento desde el precio actual, con dispersion enorme de 74 a 200 USD) - incluso el objetivo mas BAJISTA de Wall Street (74 USD, -27.83 por ciento) esta muy por encima del resultado de este DCF propio. Esta es la divergencia mas extrema documentada en todo el Dashboard entre un DCF propio y el consenso de mercado. IMPORTANTE - lo que este DCF NO captura (mismo espiritu TSLA-OKLO-CRWD): el precio actual parece descontar una historia de exito de foundry sostenido durante una decada o mas (convertirse en una alternativa creible a TSMC a escala nacional, respaldada por el gobierno de EEUU), no solo el horizonte de 5 anios de este DCF a partir de una base de ganancias todavia pequenia. La decision de inversion real depende de cuanto credito darle a esa narrativa de largo plazo, que ningun DCF estandar de este proyecto puede validar de forma confiable con la informacion disponible hoy.",
+          "notas": "Margen de Seguridad: aprox -86.5 por ciento (precio actual 101.01 USD vs IV 13.66 USD) - una de las lecturas de sobrevaloración MAS EXTREMAS de todo el Dashboard. Sensibilidad B (crecimiento muy generoso, fade 25 a 10 por ciento, igualando el ritmo actual de crecimiento sostenido por 5 años, no adoptado): IV aprox 18.17 USD, MS -82.0 por ciento - la conclusión sigue siendo extremadamente negativa incluso bajo el escenario mas favorable probado. Consenso de analistas (48, calificación \"Hold\", objetivo promedio 115.27 USD, +12.41 por ciento desde el precio actual, con dispersión enorme de 74 a 200 USD) - incluso el objetivo mas BAJISTA de Wall Street (74 USD, -27.83 por ciento) esta muy por encima del resultado de este DCF propio. Esta es la divergencia mas extrema documentada en todo el Dashboard entre un DCF propio y el consenso de mercado. IMPORTANTE - lo que este DCF NO captura (mismo espiritu TSLA-OKLO-CRWD): el precio actual parece descontar una historia de exito de foundry sostenido durante una década o mas (convertirse en una alternativa creible a TSMC a escala nacional, respaldada por el gobierno de EEUU), no solo el horizonte de 5 años de este DCF a partir de una base de ganancias todavía pequenia. La decisión de inversión real depende de cuanto crédito darle a esa narrativa de largo plazo, que ningún DCF estándar de este proyecto puede validar de forma confiable con la información disponible hoy.",
           "calificacion": 1
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM enorme: mercado global de diseno y manufactura de semiconductores, con demanda de IA como fuerte viento de cola adicional, ademas de una dimension de importancia estrategica-seguridad nacional que respalda la ambicion de foundry de Intel (de ahi el involucramiento directo del gobierno de EEUU).",
+          "notas": "TAM enorme: mercado global de diseño y manufactura de semiconductores, con demanda de IA como fuerte viento de cola adicional, además de una dimensión de importancia estratégica-seguridad nacional que respalda la ambición de foundry de Intel (de ahi el involucramiento directo del gobierno de EEUU).",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Barreras de entrada extremadamente altas para foundry de vanguardia (intensidad de capital, complejidad tecnologica) - si Intel tiene exito, esa misma barrera se convierte en su moat. Pero desde la posicion COMPETITIVA actual de Intel, sigue siendo el retador tratando de superar la posicion dominante de TSMC, no el titular de la barrera.",
+          "notas": "Barreras de entrada extremadamente altas para foundry de vanguardia (intensidad de capital, complejidad tecnologica) - si Intel tiene exito, esa misma barrera se convierte en su moat. Pero desde la posición COMPETITIVA actual de Intel, sigue siendo el retador tratando de superar la posición dominante de TSMC, no el titular de la barrera.",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta (AMD, NVIDIA, TSMC, Samsung foundry), poder de comprador moderado-alto en foundry (clientes potenciales como Apple-Tesla-Google tienen muchas opciones y negocian duro), poder de proveedor alto para equipos de litografia de vanguardia (posicion cuasi-monopolica de ASML en litografia EUV), amenaza de sustitutos real (arquitecturas ARM ganando cuota).",
+          "notas": "Rivalidad alta (AMD, NVIDIA, TSMC, Samsung foundry), poder de comprador moderado-alto en foundry (clientes potenciales como Apple-Tesla-Google tienen muchas opciones y negocian duro), poder de proveedor alto para equipos de litografia de vanguardia (posición cuasi-monopolica de ASML en litografia EUV), amenaza de sustitutos real (arquitecturas ARM ganando cuota).",
           "calificacion": 2
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Industria de semiconductores genuinamente ciclica (ciclos de capacidad de memoria-foundry), aunque la demanda actual impulsada por IA es un viento de cola secular fuerte que parcialmente contrarresta la preocupacion de ciclicidad.",
+          "notas": "Industria de semiconductores genuinamente ciclica (ciclos de capacidad de memoria-foundry), aunque la demanda actual impulsada por IA es un viento de cola secular fuerte que parcialmente contrarresta la preocupación de ciclicidad.",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "RIESGO UNICO Y SIGNIFICATIVO: el gobierno de EEUU es ahora directamente accionista de Intel (via acciones en garantia ligadas a la Ley CHIPS y al programa \"Secure Enclave\") - una politizacion sin precedentes de la estructura de propiedad de una gran empresa publica de tecnologia. Esto introduce riesgo de dependencia de politica publica, riesgo de cambios en la relacion ante un cambio de administracion futura, y el mecanismo contable inusual ya documentado en la fila 35.",
+          "notas": "RIESGO ÚNICO Y SIGNIFICATIVO: el gobierno de EEUU es ahora directamente accionista de Intel (via acciones en garantía ligadas a la Ley CHIPS y al programa \"Secure Enclave\") - una politización sin precedentes de la estructura de propiedad de una gran empresa pública de tecnología. Esto introduce riesgo de dependencia de política pública, riesgo de cambios en la relación ante un cambio de administración futura, y el mecanismo contable inusual ya documentado en la fila 35.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria relevante por manufactura-ingresos internacionales tipica de una empresa global de semiconductores.",
+          "notas": "Exposición cambiaria relevante por manufactura-ingresos internacionales típica de una empresa global de semiconductores.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de clientes diversificada para el negocio historico de CPU. Pero el negocio de foundry (la apuesta estrategica central) tiene el problema OPUESTO de concentracion: muy POCOS clientes confirmados hasta ahora (solo Fortinet nombrado formalmente) - el exito de la estrategia depende de ganar un puniado de clientes muy grandes (Apple, Tesla, Google) que todavia no estan comprometidos a gran escala.",
+          "notas": "Base de clientes diversificada para el negocio histórico de CPU. Pero el negocio de foundry (la apuesta estratégica central) tiene el problema OPUESTO de concentración: muy POCOS clientes confirmados hasta ahora (solo Fortinet nombrado formalmente) - el exito de la estrategia depende de ganar un puniado de clientes muy grandes (Apple, Tesla, Google) que todavía no estan comprometidos a gran escala.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo tecnologico de fondo real: la causa raiz del declive de Intel en la ultima decada fue quedarse atras en tecnologia de nodos de manufactura - el riesgo de volver a quedarse atras (o de que las arquitecturas ARM sigan ganando cuota) persiste pese al progreso reciente reportado en 18A-14A.",
+          "notas": "Riesgo tecnologico de fondo real: la causa raiz del declive de Intel en la última década fue quedarse atrás en tecnología de nodos de manufactura - el riesgo de volver a quedarse atrás (o de que las arquitecturas ARM sigan ganando cuota) persiste pese al progreso reciente reportado en 18A-14A.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversia ESG especifica mas alla de consideraciones estandar de manufactura de semiconductores (uso de agua-energia en fabs) y la pregunta de gobernanza inusual que plantea la propiedad accionaria del gobierno de EEUU.",
+          "notas": "Sin controversia ESG específica mas alla de consideraciones estándar de manufactura de semiconductores (uso de agua-energía en fabs) y la pregunta de gobernanza inusual que plantea la propiedad accionaria del gobierno de EEUU.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados del 3T 2026 (guidance propio: ingresos de 15.8 a 16.8bn USD); nuevos anuncios de clientes de foundry; cualquier desarrollo en el acuerdo de participacion accionaria del gobierno de EEUU; continuidad de las mejoras de rendimiento de los nodos 18A-14A.",
+          "notas": "Resultados del 3T 2026 (guidance propio: ingresos de 15.8 a 16.8bn USD); nuevos anuncios de clientes de foundry; cualquier desarrollo en el acuerdo de participación accionaria del gobierno de EEUU; continuidad de las mejoras de rendimiento de los nodos 18A-14A.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "No investigado con profundidad en esta sesion (dato pendiente) - dado el rally extraordinario de la accion (+170 por ciento en 2026), seria especialmente informativo revisar si los insiders han estado vendiendo hacia la fortaleza en una sesion futura.",
+          "notas": "No investigado con profundidad en esta sesión (dato pendiente) - dado el rally extraordinario de la acción (+170 por ciento en 2026), seria especialmente informativo revisar si los insiders han estado vendiendo hacia la fortaleza en una sesión futura.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura amplia (48 analistas), calificacion de consenso \"Hold\", objetivo promedio de 115.27 USD (+12.41 por ciento) con dispersion enorme (74 a 200 USD, un rango de +95 por ciento entre extremos) - refleja desacuerdo genuino sobre como valorar la historia de giro. Incluso el objetivo mas bajista de Wall Street (74 USD) esta muy por encima del resultado de este DCF propio (aprox 13.66 a 18.17 USD) - la divergencia mas extrema documentada en el Dashboard.",
+          "notas": "Cobertura amplia (48 analistas), calificación de consenso \"Hold\", objetivo promedio de 115.27 USD (+12.41 por ciento) con dispersión enorme (74 a 200 USD, un rango de +95 por ciento entre extremos) - refleja desacuerdo genuino sobre como valorar la historia de giro. Incluso el objetivo mas bajista de Wall Street (74 USD) esta muy por encima del resultado de este DCF propio (aprox 13.66 a 18.17 USD) - la divergencia mas extrema documentada en el Dashboard.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 2.3513513513513513,
-    "recomendacion": "VENDER-NO COMPRAR - valoracion extrema que ya descuenta un giro exitoso de varios anios, aun no demostrado a escala",
-    "tesis": "Giro operativo genuino y reciente (seis trimestres consecutivos superando guidance, foundry ganando clientes reales, demanda de centro de datos con IA) tras mas de una decada de declive competitivo frente a AMD-NVIDIA-TSMC, pero la accion subio mas de 170 por ciento en 2026 hasta una valoracion (P sobre ventas aprox 8.9x, FCF todavia negativo) que ya descuenta una decada de exito sostenido de foundry a escala nacional - respaldado por una participacion accionaria del gobierno de EEUU sin precedentes que anade una capa de riesgo politico-de gobernanza genuinamente nueva."
+    "recomendacion": "VENDER-NO COMPRAR - valoración extrema que ya descuenta un giro exitoso de varios años, aun no demostrado a escala",
+    "tesis": "Giro operativo genuino y reciente (seis trimestres consecutivos superando guidance, foundry ganando clientes reales, demanda de centro de datos con IA) tras mas de una década de declive competitivo frente a AMD-NVIDIA-TSMC, pero la acción subio mas de 170 por ciento en 2026 hasta una valoración (P sobre ventas aprox 8.9x, FCF todavía negativo) que ya descuenta una década de exito sostenido de foundry a escala nacional - respaldado por una participación accionaria del gobierno de EEUU sin precedentes que anade una capa de riesgo politico-de gobernanza genuinamente nueva."
   }
 }

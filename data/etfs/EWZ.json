@@ -1,36 +1,36 @@
 {
   "nombre": "iShares MSCI Brazil ETF",
   "ticker": "EWZ",
-  "categoria": "Equity Indice Amplio (PAIS UNICO emergente - Brasil, MSCI Brazil 25/50 - subconjunto concentrado de ILF ya en el workbook)",
+  "categoria": "Equity Índice Amplio (PAIS ÚNICO emergente - Brasil, MSCI Brazil 25/50 - subconjunto concentrado de ILF ya en el workbook)",
   "emisor": "BlackRock (iShares)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA por MUESTREO OPTIMIZADO (Trackinsight) - metodologia estandar de iShares con topes de concentracion RIC ('25/50': single-issuer max 25%, agregado de issuers >5% max 50%).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA por MUESTREO OPTIMIZADO (Trackinsight) - metodología estándar de iShares con topes de concentración RIC ('25/50': single-issuer max 25%, agregado de issuers >5% max 50%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, 100% holdings BRASILENOS - riesgo cambiario de UNA SOLA DIVISA (BRL) no cubierto, historicamente una de las monedas emergentes mas volatiles, mas simple que el riesgo multi-divisa de ILF pero concentrado en el pais individualmente mas volatil de esa canasta.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, 100% holdings BRASILENOS - riesgo cambiario de UNA SOLA DIVISA (BRL) no cubierto, históricamente una de las monedas emergentes mas volatiles, mas simple que el riesgo multi-divisa de ILF pero concentrado en el pais individualmente mas volatil de esa canasta.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM ~$8.6-9.15bn (stockanalysis $9.15bn, Trackinsight EUR7.92bn~$8.6bn) - notablemente MAYOR que ILF ($3.6-4.3bn) pese a ser un subconjunto de un solo pais - refleja que Brasil individual atrae mas capital dedicado que la canasta regional latinoamericana completa.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 10-jul-2000 (~26.1 anios) - **EMPATADO con EZU como SEGUNDO track record mas largo de TODO EL PROYECTO** (tras EWC 30.4 anios) - ambos fondos nacieron con DIAS de diferencia en julio de 2000. Cubre la Crisis 2008, la recesion brasileña/escandalo Lava Jato-Petrobras 2015-16 (el EPICENTRO de esa crisis, impacto directo maximo), COVID 2020, 2022.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 10-jul-2000 (~26.1 años) - **EMPATADO con EZU como SEGUNDO track record mas largo de TODO EL PROYECTO** (tras EWC 30.4 años) - ambos fondos nacieron con DIAS de diferencia en julio de 2000. Cubre la Crisis 2008, la recesión brasileña/escandalo Lava Jato-Petrobras 2015-16 (el EPICENTRO de esa crisis, impacto directo máximo), COVID 2020, 2022.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - DUODECIMA aparicion en el proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DUODECIMA aparición en el proyecto.",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.59% - EL MAS CARO de los fondos de pais/region latinoamericana del proyecto (ILF 0.47%), similar orden de magnitud a INDA (0.61%) - categoria de pais unico emergente, tipicamente cara.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.59% - EL MAS CARO de los fondos de pais/region latinoamericana del proyecto (ILF 0.47%), similar orden de magnitud a INDA (0.61%) - categoría de pais único emergente, tipicamente cara.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice MSCI Brazil 25/50 - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria especifica de EWZ esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice MSCI Brazil 25/50 - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria específica de EWZ esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario promedio no verificado con cifra exacta esta sesion (fuentes solo describen 'liquidez notable historicamente' de forma cualitativa, sin cifra en USD confiable) - se dejo en blanco en el Dashboard en vez de forzar una estimacion.",
+          "notas": "Volumen diario promedio no verificado con cifra exacta esta sesión (fuentes solo describen 'liquidez notable históricamente' de forma cualitativa, sin cifra en USD confiable) - se dejo en blanco en el Dashboard en vez de forzar una estimación.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,62 +89,62 @@
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "47 (Trackinsight) a 61 (stockanalysis) holdings - similar orden de magnitud a ILF (42-54), concentracion tipica de un indice de pais unico con topes 25/50.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "47 (Trackinsight) a 61 (stockanalysis) holdings - similar orden de magnitud a ILF (42-54), concentración típica de un índice de pais único con topes 25/50.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 = 56.75% - MUY concentrado, el mas alto entre los fondos de pais/region emergente del proyecto (similar a ILF 55.23%), impulsado por Vale (10.12-10.66%, la posicion mas grande) y Nu Holdings (9.12-9.17%, la segunda).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 = 56.75% - MUY concentrado, el mas alto entre los fondos de pais/region emergente del proyecto (similar a ILF 55.23%), impulsado por Vale (10.12-10.66%, la posición mas grande) y Nu Holdings (9.12-9.17%, la segunda).",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Finance 36.49% + Non-Energy Materials 14.07% + Utilities 14.00% + Energy 13.84% = **~78% combinado en solo CUATRO sectores** - la concentracion sectorial MAS ALTA de los fondos de pais/region del proyecto (mas que ILF ~70%, EWC ~77%).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Finance 36.49% + Non-Energy Materials 14.07% + Utilities 14.00% + Energy 13.84% = **~78% combinado en solo CUATRO sectores** - la concentración sectorial MAS ALTA de los fondos de pais/region del proyecto (mas que ILF ~70%, EWC ~77%).",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% Brasil por definicion (fondo de pais unico) - CERO diversificacion geografica, mismo tratamiento que EWC/INDA. A diferencia de ILF, aqui no hay diversificacion regional dentro de LatAm en absoluto.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% Brasil por definición (fondo de pais único) - CERO diversificación geográfica, mismo tratamiento que EWC/INDA. A diferencia de ILF, aquí no hay diversificación regional dentro de LatAm en absoluto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
           "notas": "Sesgo estructural VALUE/COMMODITY MUY fuerte (P/E 9.81x, el mas barato de TODO EL PROYECTO) - apuesta de estilo extrema hacia value/materias primas/financieras brasileñas.",
           "calificacion": 2
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MSCI Brazil 25/50 - topes explicitos de concentracion (25% single-issuer, 50% agregado issuers >5%), proveedor MSCI, metodologia transparente.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MSCI Brazil 25/50 - topes explicitos de concentración (25% single-issuer, 50% agregado issuers >5%), proveedor MSCI, metodología transparente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de EWZ esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de EWZ esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.57
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (26.1 anios) = 6.33% anualizado - modesto dado lo extenso de la ventana y la volatilidad extrema. Retorno 1Y = +36.68% (fuerte) pero YTD = solo +13.03% (notablemente menor, sugiere que gran parte de la ganancia de 1Y vino de un rally concentrado en la segunda mitad del periodo previo, no un avance sostenido). **Cifras de retorno 5Y/10Y anualizado encontradas (1.00%/-1.00%) DESCARTADAS explicitamente por implausibles**: numeros sospechosamente redondos que NO reconcilian con las cifras de retorno acumulado (5Y +32.24%) de la MISMA fuente - mismo gotcha de calidad de datos ya documentado repetidamente en el proyecto, aqui con un caso especialmente claro de inconsistencia interna.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (26.1 años) = 6.33% anualizado - modesto dado lo extenso de la ventana y la volatilidad extrema. Retorno 1Y = +36.68% (fuerte) pero YTD = solo +13.03% (notablemente menor, sugiere que gran parte de la ganancia de 1Y vino de un rally concentrado en la segunda mitad del período previo, no un avance sostenido). **Cifras de retorno 5Y/10Y anualizado encontradas (1.00%/-1.00%) DESCARTADAS explícitamente por implausibles**: números sospechosamente redondos que NO reconcilian con las cifras de retorno acumulado (5Y +32.24%) de la MISMA fuente - mismo gotcha de calidad de datos ya documentado repetidamente en el proyecto, aquí con un caso especialmente claro de inconsistencia interna.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad desde inception = 37.5% - **UNA DE LAS MAS ALTAS DE TODO EL PROYECTO** (comparable a SOXX ~37-39%), coherente con el perfil de riesgo bien conocido de acciones brasileñas de pais unico (moneda, politica, commodities).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad desde inception = 37.5% - **UNA DE LAS MAS ALTAS DE TODO EL PROYECTO** (comparable a SOXX ~37-39%), coherente con el perfil de riesgo bien conocido de acciones brasileñas de pais único (moneda, política, commodities).",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -77.25% (21-ene-2016, recesion brasileña + escandalo de corrupcion Lava Jato-Petrobras) - **UNO DE LOS PEORES DRAWDOWNS DE TODO EL PROYECTO** (orden de magnitud cercano a XOP -90.27%/REMX -90.9%), fuente unica pero MUY coherente con la crisis especifica de Brasil ya documentada extensamente en la propia Ficha de ILF (misma crisis, aqui con impacto directo maximo al ser el pais de origen).",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -77.25% (21-ene-2016, recesión brasileña + escandalo de corrupción Lava Jato-Petrobras) - **UNO DE LOS PEORES DRAWDOWNS DE TODO EL PROYECTO** (orden de magnitud cercano a XOP -90.27%/REMX -90.9%), fuente única pero MUY coherente con la crisis específica de Brasil ya documentada extensamente en la propia Ficha de ILF (misma crisis, aquí con impacto directo máximo al ser el pais de origen).",
           "calificacion": 2
         },
         {
@@ -153,40 +153,40 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.65 - moderado-bajo. **OVERLAP CONFIRMADO Y SIGNIFICATIVO: Nu Holdings (9.12-9.17%, SEGUNDA posicion mas grande del fondo) ya analizado individualmente** (Score 3.57/5, Recomendacion COMPRAR, neobanco lider de LatAm) - magnitud de overlap similar a la ya vista en ILF (8.18-8.38%), mismo nombre.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.65 - moderado-bajo. **OVERLAP CONFIRMADO Y SIGNIFICATIVO: Nu Holdings (9.12-9.17%, SEGUNDA posición mas grande del fondo) ya analizado individualmente** (Score 3.57/5, Recomendación COMPRAR, neobanco líder de LatAm) - magnitud de overlap similar a la ya vista en ILF (8.18-8.38%), mismo nombre.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "26.1 anios de historial cubren la Crisis Financiera 2008, la recesion brasileña/escandalo Lava Jato-Petrobras 2015-16 (EPICENTRO directo de esa crisis, refleja el Max Drawdown record del proyecto), COVID 2020, 2022.",
+          "notas": "26.1 años de historial cubren la Crisis Financiera 2008, la recesión brasileña/escandalo Lava Jato-Petrobras 2015-16 (EPICENTRO directo de esa crisis, refleja el Max Drawdown récord del proyecto), COVID 2020, 2022.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 9.81x - **EL MAS BARATO DE TODO EL PROYECTO**, nuevo record (supera a ILF, el anterior record con 11.60x). Se aplica el MISMO principio de cautela de value-trap de commodity/ciclo ya documentado con ILF/XOP/CRAK/MU, aqui de forma AUN MAS SEVERA dado que Finance (36.49%) + Materials+Energy+Utilities (~42%) dominan casi por completo el fondo tras un rally reciente - el P/E extremadamente bajo es una senal de ALERTA, no necesariamente de oportunidad, dado el patron ya establecido en el proyecto.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 9.81x - **EL MAS BARATO DE TODO EL PROYECTO**, nuevo récord (supera a ILF, el anterior récord con 11.60x). Se aplica el MISMO principio de cautela de value-trap de commodity/ciclo ya documentado con ILF/XOP/CRAK/MU, aquí de forma AUN MAS SEVERA dado que Finance (36.49%) + Materials+Energy+Utilities (~42%) dominan casi por completo el fondo tras un rally reciente - el P/E extremadamente bajo es una señal de ALERTA, no necesariamente de oportunidad, dado el patrón ya establecido en el proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 4.22% - **EL MAS ALTO de los fondos de pais/region emergente del proyecto** (ILF 3.43-3.92%), consistente con el sesgo value/financiero/commodity extremo. Distribucion TRIMESTRAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 4.22% - **EL MAS ALTO de los fondos de pais/region emergente del proyecto** (ILF 3.43-3.92%), consistente con el sesgo value/financiero/commodity extremo. Distribución TRIMESTRAL.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION IMPLICITA CON ILF (fila 49, ya en el workbook)**: EWZ es esencialmente un SUBCONJUNTO MAS CONCENTRADO de lo que ILF ya contiene - Vale, Nu Holdings, Itau Unibanco y Petrobras (ambas clases) son posiciones GRANDES en AMBOS fondos, confirmando que Brasil domina claramente la composicion de ILF (aunque el % exacto de Brasil dentro de ILF no se verifico con precision esta sesion). Para un usuario que considere ambos, EWZ no aporta diversificacion regional (la ventaja principal de ILF sobre un pais unico) y SI aumenta la concentracion sectorial/de pais/de moneda. Candidatos alternativos sin verificar: EWZS (iShares MSCI Brazil Small-Cap, complementario), FLBR (Franklin FTSE Brazil, TER mas barato).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN IMPLÍCITA CON ILF (fila 49, ya en el workbook)**: EWZ es esencialmente un SUBCONJUNTO MAS CONCENTRADO de lo que ILF ya contiene - Vale, Nu Holdings, Itau Unibanco y Petrobras (ambas clases) son posiciones GRANDES en AMBOS fondos, confirmando que Brasil domina claramente la composición de ILF (aunque el % exacto de Brasil dentro de ILF no se verifico con precisión esta sesión). Para un usuario que considere ambos, EWZ no aporta diversificación regional (la ventaja principal de ILF sobre un pais único) y SI aumenta la concentración sectorial/de pais/de moneda. Candidatos alternativos sin verificar: EWZS (iShares MSCI Brazil Small-Cap, complementario), FLBR (Franklin FTSE Brazil, TER mas barato).",
           "calificacion": 2
         }
       ],
@@ -196,18 +196,18 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: Satelite - exposicion tactica MUY concentrada a un solo pais emergente, con el drawdown historico mas severo de los fondos de pais/region del proyecto, valoracion extrema con riesgo real de value-trap, y overlap DOBLE (via Nu Holdings individualmente Y via ILF como fondo hermano regional ya en el workbook, con posiciones brasileñas casi identicas).",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: Satélite - exposición táctica MUY concentrada a un solo pais emergente, con el drawdown histórico mas severo de los fondos de pais/region del proyecto, valoración extrema con riesgo real de value-trap, y overlap DOBLE (via Nu Holdings individualmente Y via ILF como fondo hermano regional ya en el workbook, con posiciones brasileñas casi identicas).",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: valoracion extremadamente barata (P/E 9.81x, record del proyecto) y dividend yield alto (4.22%) - PERO con riesgo real de value-trap dado el peso combinado de commodities+utilities+finance (~78%), y SIN la diversificacion regional que si ofrece ILF. El caso de inversion es debil frente a la alternativa regional ya analizada.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: valoración extremadamente barata (P/E 9.81x, récord del proyecto) y dividend yield alto (4.22%) - PERO con riesgo real de value-trap dado el peso combinado de commodities+utilities+finance (~78%), y SIN la diversificación regional que si ofrece ILF. El caso de inversión es débil frente a la alternativa regional ya analizada.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) concentracion sectorial EXTREMA (~78% en 4 sectores); (2) overlap DOBLE - via Nu Holdings (ya analizado individualmente, Recomendacion COMPRAR) Y via ILF (fondo hermano regional ya en el workbook, con las mismas posiciones brasileñas grandes); (3) riesgo cambiario BRL sin cobertura, una de las divisas emergentes historicamente mas volatiles; (4) historial de drawdowns extremos (-77.25%, uno de los peores de todo el proyecto); (5) riesgo politico/regulatorio de Brasil especificamente (Lava Jato como ejemplo mas notorio, pero no el unico episodio de inestabilidad); (6) riesgo de value-trap severo en el P/E record-bajo del proyecto.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentración sectorial EXTREMA (~78% en 4 sectores); (2) overlap DOBLE - via Nu Holdings (ya analizado individualmente, Recomendación COMPRAR) Y via ILF (fondo hermano regional ya en el workbook, con las mismas posiciones brasileñas grandes); (3) riesgo cambiario BRL sin cobertura, una de las divisas emergentes históricamente mas volatiles; (4) historial de drawdowns extremos (-77.25%, uno de los peores de todo el proyecto); (5) riesgo politico/regulatorio de Brasil específicamente (Lava Jato como ejemplo mas notorio, pero no el único episodio de inestabilidad); (6) riesgo de value-trap severo en el P/E récord-bajo del proyecto.",
           "calificacion": 1
         },
         {
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). Score 3.00/5 - justo en el umbral del marco de decision del proyecto, pero con MULTIPLES senales de riesgo severas y compuestas que justifican tratarlo con el mismo rigor que los casos de Score bajo <3.0 ya identificados (CRAK, ARTY, URA, URNM, REMX): (1) Max Drawdown de -77.25% (ene-2016, recesion brasileña + escandalo Lava Jato-Petrobras), uno de los peores del proyecto; (2) concentracion sectorial EXTREMA (~78% en Finance+Materials+Utilities+Energy, la mas alta de los fondos de pais/region del proyecto); (3) OVERLAP DOBLE - via Nu Holdings (9.12-9.17%, ya analizado individualmente con Recomendacion COMPRAR) Y via ILF (fila 49, ya en este workbook, con las MISMAS posiciones grandes -Vale, NU, Itau, Petrobras-, confirmando que EWZ es esencialmente un subconjunto mas concentrado de lo que ILF ya contiene, sin aportar diversificacion regional incremental); (4) el P/E MAS BARATO DE TODO EL PROYECTO (9.81x) tras un fuerte rally 1Y (+36.68%), el mismo patron de riesgo de value-trap de commodity/financiero ya documentado extensamente con ILF/XOP/CRAK, aqui en su forma mas extrema; (5) volatilidad desde inception de 37.5%, de las mas altas del proyecto; (6) liquidez sin verificar con cifra exacta esta sesion, a diferencia de la mayoria de fondos de nueva geografia ya analizados. La calidad estructural del vehiculo es solida (BlackRock, empatado como segundo track record mas largo del proyecto -26.1 anios-, AUM solido), pero para este usuario, que ya tiene ILF analizado en este mismo workbook cubriendo la misma tesis regional de forma mas diversificada, EWZ no aporta una ventaja incremental que compense el riesgo concentrado adicional. Rol en Portafolio: Satelite. Alternativa mas directa: ILF (fila 49, ya en el workbook)."
+    "tesis": "REDUCIR/VENDER (evitar). Score 3.00/5 - justo en el umbral del marco de decisión del proyecto, pero con MÚLTIPLES señales de riesgo severas y compuestas que justifican tratarlo con el mismo rigor que los casos de Score bajo <3.0 ya identificados (CRAK, ARTY, URA, URNM, REMX): (1) Max Drawdown de -77.25% (ene-2016, recesión brasileña + escandalo Lava Jato-Petrobras), uno de los peores del proyecto; (2) concentración sectorial EXTREMA (~78% en Finance+Materials+Utilities+Energy, la mas alta de los fondos de pais/region del proyecto); (3) OVERLAP DOBLE - via Nu Holdings (9.12-9.17%, ya analizado individualmente con Recomendación COMPRAR) Y via ILF (fila 49, ya en este workbook, con las MISMAS posiciones grandes -Vale, NU, Itau, Petrobras-, confirmando que EWZ es esencialmente un subconjunto mas concentrado de lo que ILF ya contiene, sin aportar diversificación regional incremental); (4) el P/E MAS BARATO DE TODO EL PROYECTO (9.81x) tras un fuerte rally 1Y (+36.68%), el mismo patrón de riesgo de value-trap de commodity/financiero ya documentado extensamente con ILF/XOP/CRAK, aquí en su forma mas extrema; (5) volatilidad desde inception de 37.5%, de las mas altas del proyecto; (6) liquidez sin verificar con cifra exacta esta sesión, a diferencia de la mayoría de fondos de nueva geografia ya analizados. La calidad estructural del vehículo es sólida (BlackRock, empatado como segundo track record mas largo del proyecto -26.1 años-, AUM sólido), pero para este usuario, que ya tiene ILF analizado en este mismo workbook cubriendo la misma tesis regional de forma mas diversificada, EWZ no aporta una ventaja incremental que compense el riesgo concentrado adicional. Rol en Portafolio: Satélite. Alternativa mas directa: ILF (fila 49, ya en el workbook)."
   }
 }

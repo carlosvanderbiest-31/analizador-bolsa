@@ -1,7 +1,7 @@
 {
   "empresa": "Automatic Data Processing, Inc.",
   "ticker": "ADP",
-  "sector": "Tecnologia - Servicios de nomina y RRHH tercerizados (BPO)",
+  "sector": "Tecnología - Servicios de nomina y RRHH tercerizados (BPO)",
   "fecha_analisis": "2026-08-12",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ingresos por servicios de nomina-RRHH tercerizados en dos segmentos: Employer Services (nomina, cumplimiento, beneficios, ~80% de ingresos) y PEO Services (co-empleo profesional para pequenas-medianas empresas), mas ingresos de interes sobre fondos de clientes en transito (float de nomina, guiado a USD1.54-1.56bn en FY2027) - diversificado y con una fuente de ingresos adicional ligada a tasas de interes.",
+          "notas": "Ingresos por servicios de nomina-RRHH tercerizados en dos segmentos: Employer Services (nomina, cumplimiento, beneficios, ~80% de ingresos) y PEO Services (co-empleo profesional para pequeñas-medianas empresas), mas ingresos de interés sobre fondos de clientes en transito (float de nomina, guiado a USD1.54-1.56bn en FY2027) - diversificado y con una fuente de ingresos adicional ligada a tasas de interés.",
           "calificacion": 5
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Switching costs extremos - migrar un sistema de nomina-RRHH es un proceso riesgoso y costoso para cualquier empresa cliente (riesgo de errores de pago, cumplimiento fiscal-legal), generando retencion de clientes muy alta y decadas de relaciones; escala de datos y cumplimiento regulatorio (miles de jurisdicciones fiscales en EEUU) como barrera adicional.",
+          "notas": "Switching costs extremos - migrar un sistema de nomina-RRHH es un proceso riesgoso y costoso para cualquier empresa cliente (riesgo de errores de pago, cumplimiento fiscal-legal), generando retención de clientes muy alta y décadas de relaciones; escala de datos y cumplimiento regulatorio (miles de jurisdicciones fiscales en EEUU) como barrera adicional.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider historico en nomina-RRHH tercerizado en EEUU junto a Paychex, crecimiento estable en ambos segmentos (Employer Services +7%, PEO +7% en el 4T FY2026), bookings record de USD2.2bn en el trimestre impulsados por adopcion de IA en productividad interna.",
+          "notas": "Líder histórico en nomina-RRHH tercerizado en EEUU junto a Paychex, crecimiento estable en ambos segmentos (Employer Services +7%, PEO +7% en el 4T FY2026), bookings récord de USD2.2bn en el trimestre impulsados por adopción de IA en productividad interna.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Margen bruto 50.67%, operativo 26.41%, con expansion de margen EBIT ajustado guiada (+70-90pb en FY2027) - pricing power real y consistente, reforzado por el ingreso de interes de fondos de clientes que se beneficia de tasas altas.",
+          "notas": "Margen bruto 50.67%, operativo 26.41%, con expansión de margen EBIT ajustado guiada (+70-90pb en FY2027) - pricing power real y consistente, reforzado por el ingreso de interés de fondos de clientes que se beneficia de tasas altas.",
           "calificacion": 4
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Dividend King - 50+ anios consecutivos de aumento de dividendo (payout 60.68%), recompras consistentes, reduccion activa de deuda (USD3.69bn menos interanual) - uno de los historiales de asignacion de capital mas solidos y disciplinados del Dashboard.",
+          "notas": "Dividend King - 50+ años consecutivos de aumento de dividendo (payout 60.68%), recompras consistentes, reducción activa de deuda (USD3.69bn menos interanual) - uno de los historiales de asignación de capital mas sólidos y disciplinados del Dashboard.",
           "calificacion": 5
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "No investigado en profundidad en esta sesion (pendiente); propiedad interna baja (0.23%), tipica de una empresa de esta escala y antiguedad.",
+          "notas": "No investigado en profundidad en esta sesión (pendiente); propiedad interna baja (0.23%), típica de una empresa de esta escala y antigüedad.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion trimestral detallada con guia especifica de ingresos de interes de fondos de clientes (rendimiento promedio esperado, crecimiento de saldo) - nivel de detalle y transparencia alto, tipico de una empresa madura y bien seguida por analistas.",
+          "notas": "Divulgación trimestral detallada con guia específica de ingresos de interés de fondos de clientes (rendimiento promedio esperado, crecimiento de saldo) - nivel de detalle y transparencia alto, típico de una empresa madura y bien seguida por analistas.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda neta ~USD1.18bn, ND/EBITDA bajo (~0.19x via EV/EBITDA), reduccion activa de deuda en el ultimo anio (-USD3.69bn) - balance conservador.",
+          "notas": "Deuda neta ~USD1.18bn, ND/EBITDA bajo (~0.19x via EV/EBITDA), reducción activa de deuda en el último año (-USD3.69bn) - balance conservador.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.05x, prueba acida mucho mas ajustada (0.15x segun stockanalysis, aunque el balance de ADP incluye fondos de clientes que distorsionan las razones de liquidez tradicionales) - liquidez operativa adecuada para el negocio core.",
+          "notas": "Razón corriente 1.05x, prueba acida mucho mas ajustada (0.15x según stockanalysis, aunque el balance de ADP incluye fondos de clientes que distorsionan las razones de liquidez tradicionales) - liquidez operativa adecuada para el negocio core.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "No verificado en detalle en esta sesion (pendiente).",
+          "notas": "No verificado en detalle en esta sesión (pendiente).",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Goodwill+intangibles ~USD4.94bn vs patrimonio USD6.03bn - patrimonio tangible delgado (~USD1.09bn), mismo patron de recompras-dividendos agresivos de una empresa de alta calidad ya documentado con MSI-ITW-CL-PG, no cambia la metodologia DCF FCFF.",
+          "notas": "Goodwill+intangibles ~USD4.94bn vs patrimonio USD6.03bn - patrimonio tangible delgado (~USD1.09bn), mismo patrón de recompras-dividendos agresivos de una empresa de alta calidad ya documentado con MSI-ITW-CL-PG, no cambia la metodología DCF FCFF.",
           "calificacion": 3
         }
       ],
@@ -88,7 +88,7 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto 50.67%, operativo 26.41% (expandiendo, +140pb en el trimestre, +80pb en el anio), neto 20.11% - solidos y en tendencia de mejora consistente.",
+          "notas": "Margen bruto 50.67%, operativo 26.41% (expandiendo, +140pb en el trimestre, +80pb en el año), neto 20.11% - sólidos y en tendencia de mejora consistente.",
           "calificacion": 4
         },
         {
@@ -98,7 +98,7 @@
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos baja (~0.35x, distorsionada por el balance que incluye fondos de clientes en activos totales), ciclo de conversion de efectivo favorable en el negocio core de servicios.",
+          "notas": "Rotación de activos baja (~0.35x, distorsionada por el balance que incluye fondos de clientes en activos totales), ciclo de conversión de efectivo favorable en el negocio core de servicios.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR ingresos 5 anios 7.90% (Finviz), FY2026 completo +7% (ingresos totales USD21.9bn), guia FY2027 mas moderada (+5-6%) - crecimiento estable y predecible, sin distorsion COVID ni ciclos abruptos.",
+          "notas": "CAGR ingresos 5 años 7.90% (Finviz), FY2026 completo +7% (ingresos totales USD21.9bn), guia FY2027 mas moderada (+5-6%) - crecimiento estable y predecible, sin distorsión COVID ni ciclos abruptos.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Crecimiento muy consistente y predecible durante decadas, negocio defensivo (la nomina se procesa sin importar el ciclo economico), de los perfiles mas estables del Dashboard.",
+          "notas": "Crecimiento muy consistente y predecible durante décadas, negocio defensivo (la nomina se procesa sin importar el ciclo económico), de los perfiles mas estables del Dashboard.",
           "calificacion": 5
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Bookings record de USD2.2bn en el trimestre impulsados por adopcion de IA en productividad, crecimiento de ingresos de interes de fondos de clientes (guiado a USD1.54-1.56bn FY2027, +14% interanual por mayor rendimiento y balance), expansion continua de PEO.",
+          "notas": "Bookings récord de USD2.2bn en el trimestre impulsados por adopción de IA en productividad, crecimiento de ingresos de interés de fondos de clientes (guiado a USD1.54-1.56bn FY2027, +14% interanual por mayor rendimiento y balance), expansión continua de PEO.",
           "calificacion": 4
         }
       ],
@@ -130,12 +130,12 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo FY2026 USD5.44bn vs utilidad neta FY2026 implicita ~USD4.34bn (market cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
+          "notas": "Flujo de caja operativo FY2026 USD5.44bn vs utilidad neta FY2026 implícita ~USD4.34bn (market cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF FY2026 USD5.25bn (margen FCF ~24%), creciendo con consistencia (2.93bn -> 4.00bn -> 3.95bn -> 4.77bn -> 5.25bn en los ultimos 5 anios fiscales), solo un leve bache en FY2024.",
+          "notas": "FCF FY2026 USD5.25bn (margen FCF ~24%), creciendo con consistencia (2.93bn -> 4.00bn -> 3.95bn -> 4.77bn -> 5.25bn en los últimos 5 años fiscales), solo un leve bache en FY2024.",
           "calificacion": 4
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Dividend King (50+ anios), recompras consistentes, desapalancamiento activo reciente - asignacion de capital ejemplar y de bajo riesgo.",
+          "notas": "Dividend King (50+ años), recompras consistentes, desapalancamiento activo reciente - asignación de capital ejemplar y de bajo riesgo.",
           "calificacion": 5
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM 24.61x, Forward P/E 20.12x, EV/EBITDA 17.22x, P/FCF 20.40x, PEG 2.13 - multiplos moderados-exigentes, tipicos de un 'compounder' defensivo de alta calidad, no especialmente baratos ni extremos.",
+          "notas": "P/E TTM 24.61x, Forward P/E 20.12x, EV/EBITDA 17.22x, P/FCF 20.40x, PEG 2.13 - múltiplos moderados-exigentes, típicos de un 'compounder' defensivo de alta calidad, no especialmente baratos ni extremos.",
           "calificacion": 3
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (adoptado, WACC 7.8% CAPM literal -beta 0.82 no degenerado-, crecimiento con fade 6%->4.5% en 5 anios alineado a la guia FY2027, terminal 4%): USD379.57/accion, MS +40.9%. DCF fragil (Valor Terminal 83.8% del EV): sensibilidad de WACC +1.5pp reduce el margen a solo +0.6% (practicamente valor razonable).",
+          "notas": "Escenario A (adoptado, WACC 7.8% CAPM literal -beta 0.82 no degenerado-, crecimiento con fade 6%->4.5% en 5 años alineado a la guia FY2027, terminal 4%): USD379.57/acción, MS +40.9%. DCF fragil (Valor Terminal 83.8% del EV): sensibilidad de WACC +1.5pp reduce el margen a solo +0.6% (prácticamente valor razonable).",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "+40.9% - solido en el escenario base, pero el resultado es MUY sensible al WACC (cae a ~0% con +1.5pp) y diverge notablemente del consenso de analistas (objetivo promedio USD288.36, apenas +7.1%) - divergencia de magnitud grande.",
+          "notas": "+40.9% - sólido en el escenario base, pero el resultado es MUY sensible al WACC (cae a ~0% con +1.5pp) y diverge notablemente del consenso de analistas (objetivo promedio USD288.36, apenas +7.1%) - divergencia de magnitud grande.",
           "calificacion": 3
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de servicios de nomina-RRHH-cumplimiento grande y estructuralmente estable (toda empresa con empleados necesita procesar nomina), crecimiento ligado a la formacion de nuevas empresas y a la expansion de servicios de valor agregado (analytics de RRHH, IA).",
+          "notas": "Mercado de servicios de nomina-RRHH-cumplimiento grande y estructuralmente estable (toda empresa con empleados necesita procesar nomina), crecimiento ligado a la formación de nuevas empresas y a la expansión de servicios de valor agregado (analytics de RRHH, IA).",
           "calificacion": 3
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas - switching costs extremos, escala de cumplimiento regulatorio en miles de jurisdicciones fiscales, relaciones de decadas con clientes.",
+          "notas": "Muy altas - switching costs extremos, escala de cumplimiento regulatorio en miles de jurisdicciones fiscales, relaciones de décadas con clientes.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad moderada (Paychex el competidor mas directo, Workday-UKG en nichos de software de RRHH mas grandes); poder de negociacion del comprador bajo (switching costs altos); poder de proveedores bajo; amenaza de sustitutos baja; barreras de entrada muy altas.",
+          "notas": "Rivalidad moderada (Paychex el competidor mas directo, Workday-UKG en nichos de software de RRHH mas grandes); poder de negociación del comprador bajo (switching costs altos); poder de proveedores bajo; amenaza de sustitutos baja; barreras de entrada muy altas.",
           "calificacion": 4
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Negocio defensivo-resiliente - la nomina se procesa independientemente del ciclo economico, aunque el numero de empleados en las nominas de los clientes (y por tanto los ingresos por transaccion) si fluctua algo con el empleo agregado.",
+          "notas": "Negocio defensivo-resiliente - la nomina se procesa independientemente del ciclo económico, aunque el número de empleados en las nominas de los clientes (y por tanto los ingresos por transacción) si fluctua algo con el empleo agregado.",
           "calificacion": 4
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Exposicion a cambios regulatorios de nomina-impuestos laborales en miles de jurisdicciones de EEUU y otros paises, riesgo bajo-moderado y bien gestionado dada la escala de cumplimiento de la empresa.",
+          "notas": "Exposición a cambios regulatorios de nomina-impuestos laborales en miles de jurisdicciones de EEUU y otros paises, riesgo bajo-moderado y bien gestionado dada la escala de cumplimiento de la empresa.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional moderada (negocio mayormente domestico en EEUU con presencia internacional en PEO-Employer Services), riesgo cambiario limitado.",
+          "notas": "Exposición internacional moderada (negocio mayormente domestico en EEUU con presencia internacional en PEO-Employer Services), riesgo cambiario limitado.",
           "calificacion": 4
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de clientes muy diversificada (cientos de miles de empresas clientes de todos los tamanos), sin concentracion de cliente unico relevante; sin dependencia critica de proveedores unicos.",
+          "notas": "Base de clientes muy diversificada (cientos de miles de empresas clientes de todos los tamaños), sin concentración de cliente único relevante; sin dependencia critica de proveedores únicos.",
           "calificacion": 5
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo bajo-moderado - la empresa esta invirtiendo activamente en IA para productividad interna (bookings record atribuidos en parte a esto) en vez de ser disrumpida por ella, a diferencia del patron de riesgo de IA visto en ACN-INTU-PANW; el riesgo de disrupcion por software de RRHH mas moderno (Workday, Rippling) es real pero de largo plazo.",
+          "notas": "Riesgo bajo-moderado - la empresa esta invirtiendo activamente en IA para productividad interna (bookings récord atribuidos en parte a esto) en vez de ser disrumpida por ella, a diferencia del patrón de riesgo de IA visto en ACN-INTU-PANW; el riesgo de disrupción por software de RRHH mas moderno (Workday, Rippling) es real pero de largo plazo.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesión.",
           "calificacion": 4
         }
       ],
@@ -239,12 +239,12 @@
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "No investigado en profundidad en esta sesion (pendiente).",
+          "notas": "No investigado en profundidad en esta sesión (pendiente).",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso moderadamente positivo (recomendacion 2.76 Finviz, mas neutral que la mayoria de empresas recientes del Dashboard), objetivo promedio USD288.36 (+7.1%) - notablemente MAS CONSERVADOR que el DCF propio (+40.9%), divergencia de magnitud grande sin necesariamente reflejar desacuerdo de direccion.",
+          "notas": "Consenso moderadamente positivo (recomendación 2.76 Finviz, mas neutral que la mayoría de empresas recientes del Dashboard), objetivo promedio USD288.36 (+7.1%) - notablemente MAS CONSERVADOR que el DCF propio (+40.9%), divergencia de magnitud grande sin necesariamente reflejar desacuerdo de dirección.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.945945945945946,
-    "recomendacion": "COMPRAR - Score Total 3.95/5 (uno de los mas altos del Dashboard, Dividend King con 50+ anios de aumento de dividendo) y Margen de Seguridad +40.9% apuntan en la misma direccion positiva. PERO: el DCF es fragil (Valor Terminal 83.8% del EV, sensibilidad de WACC +1.5pp reduce el margen a solo +0.6%, practicamente valor razonable) y diverge notablemente del consenso de analistas (objetivo promedio USD288.36, apenas +7.1% de alza) - una divergencia de magnitud grande sin necesariamente reflejar desacuerdo de direccion. Negocio excepcionalmente defensivo y predecible (switching costs extremos, nomina no ciclica), pero tratar con conviccion moderada dada la sensibilidad del DCF y la brecha con el consenso.",
-    "tesis": "El lider de servicios de nomina-RRHH tercerizados con uno de los moats mas defendibles del Dashboard (switching costs extremos) y 50+ anios de aumento de dividendo cotiza con un margen de seguridad solido segun el DCF propio, aunque significativamente mas optimista que el consenso de analistas y sensible al WACC elegido."
+    "recomendacion": "COMPRAR - Score Total 3.95/5 (uno de los mas altos del Dashboard, Dividend King con 50+ años de aumento de dividendo) y Margen de Seguridad +40.9% apuntan en la misma dirección positiva. PERO: el DCF es fragil (Valor Terminal 83.8% del EV, sensibilidad de WACC +1.5pp reduce el margen a solo +0.6%, prácticamente valor razonable) y diverge notablemente del consenso de analistas (objetivo promedio USD288.36, apenas +7.1% de alza) - una divergencia de magnitud grande sin necesariamente reflejar desacuerdo de dirección. Negocio excepcionalmente defensivo y predecible (switching costs extremos, nomina no ciclica), pero tratar con convicción moderada dada la sensibilidad del DCF y la brecha con el consenso.",
+    "tesis": "El líder de servicios de nomina-RRHH tercerizados con uno de los moats mas defendibles del Dashboard (switching costs extremos) y 50+ años de aumento de dividendo cotiza con un margen de seguridad sólido según el DCF propio, aunque significativamente mas optimista que el consenso de analistas y sensible al WACC elegido."
   }
 }

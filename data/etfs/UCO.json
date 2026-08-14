@@ -1,36 +1,36 @@
 {
   "nombre": "ProShares Ultra Bloomberg Crude Oil",
   "ticker": "UCO",
-  "categoria": "Materias Primas Apalancado/Inverso (+2x diario sobre petroleo WTI via futuros/swaps - SEPTIMO instrumento apalancado/inverso del proyecto, ESPEJO DIRECCIONAL EXACTO de SCO -fila 75-: mismo emisor, indice y fecha de inception, direccion opuesta)",
+  "categoria": "Materias Primas Apalancado/Inverso (+2x diario sobre petróleo WTI via futuros/swaps - SEPTIMO instrumento apalancado/inverso del proyecto, ESPEJO DIRECCIONAL EXACTO de SCO -fila 75-: mismo emisor, índice y fecha de inception, dirección opuesta)",
   "emisor": "ProShares",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica SINTETICA via futuros WTI en 3 calendarios de contrato (mensual/junio/diciembre) Y SWAPS con CUATRO contrapartes bancarias nombradas (Societe Generale, Goldman Sachs, UBS, Citigroup) - PRIMERA aparicion de Societe Generale en el proyecto, estructura de contraparte MAS COMPLEJA que SCO (solo futuros).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica SINTETICA via futuros WTI en 3 calendarios de contrato (mensual/junio/diciembre) Y SWAPS con CUATRO contrapartes bancarias nombradas (Societe Generale, Goldman Sachs, UBS, Citigroup) - PRIMERA aparición de Societe Generale en el proyecto, estructura de contraparte MAS COMPLEJA que SCO (solo futuros).",
           "calificacion": 2
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US (ProShares Trust II, organizado como commodity pool bajo regulacion CFTC). Genera formulario fiscal K-1 - SEPTIMA confirmacion de esta complejidad fiscal en la categoria apalancado/inverso del proyecto.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US (ProShares Trust II, organizado como commodity pool bajo regulación CFTC). Genera formulario fiscal K-1 - SEPTIMA confirmación de esta complejidad fiscal en la categoría apalancado/inverso del proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM ~$374.77M (stockanalysis) a $430.77M (ProShares oficial) - mediano dentro de los siete apalancados/inversos, mayor que KOLD/ZSL/BOIL pero menor que SCO/UGL/AGQ.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 24-nov-2008 (~17.75 anios) - **MISMA fecha exacta que SCO**, lanzamiento gemelo de la pareja +2x/-2x de ProShares sobre petroleo WTI, cubre la Crisis Financiera 2008 y el evento de precios negativos de WTI en abril 2020.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 24-nov-2008 (~17.75 años) - **MISMA fecha exacta que SCO**, lanzamiento gemelo de la pareja +2x/-2x de ProShares sobre petróleo WTI, cubre la Crisis Financiera 2008 y el evento de precios negativos de WTI en abril 2020.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor ProShares - SEPTIMA aparicion consecutiva en el proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor ProShares - SEPTIMA aparición consecutiva en el proyecto.",
           "calificacion": 4
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER: fuente oficial de ProShares confirma 0.95% (consistente con el resto de la linea Ultra/UltraShort de materias primas), PERO stockanalysis.com reporto 1.43% - PRIMERA discrepancia de TER detectada en la categoria apalancado/inverso del proyecto (las 6 instancias previas fueron consistentes en 0.95% entre fuentes). Se usa 0.95% como cifra primaria por ser la fuente oficial del emisor, con esta reserva documentada.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER: fuente oficial de ProShares confirma 0.95% (consistente con el resto de la línea Ultra/UltraShort de materias primas), PERO stockanalysis.com reporto 1.43% - PRIMERA discrepancia de TER detectada en la categoría apalancado/inverso del proyecto (las 6 instancias previas fueron consistentes en 0.95% entre fuentes). Se usa 0.95% como cifra primaria por ser la fuente oficial del emisor, con esta reserva documentada.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Decay CONFIRMADO en ambos lados del par: CAGR desde inception = -24.17% a -24.53% - NEGATIVO, muy similar al de SCO (~-26%, mismo commodity, direccion opuesta). **PRIMERA VEZ en el proyecto donde AMBOS lados de un par direccional (largo Y corto) terminan con CAGR fuertemente negativo**, evidencia de que la volatilidad bidireccional extrema del petroleo WTI en 17+ anios (crisis 2008, colapso 2014-16, precios negativos abril-2020, spike 2022) perjudica a ambos signos del apalancamiento, no solo a uno.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Decay CONFIRMADO en ambos lados del par: CAGR desde inception = -24.17% a -24.53% - NEGATIVO, muy similar al de SCO (~-26%, mismo commodity, dirección opuesta). **PRIMERA VEZ en el proyecto donde AMBOS lados de un par direccional (largo Y corto) terminan con CAGR fuertemente negativo**, evidencia de que la volatilidad bidireccional extrema del petróleo WTI en 17+ años (crisis 2008, colapso 2014-16, precios negativos abril-2020, spike 2022) perjudica a ambos signos del apalancamiento, no solo a uno.",
           "calificacion": 1
         }
       ],
@@ -56,96 +56,96 @@
       "titulo": "Securities lending: revenue generado y % que compensa el TER",
       "aspectos": [
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion DIARIA de los contratos de futuros/swaps WTI en 3 calendarios distintos - misma mecanica que SCO y el resto de la categoria.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación DIARIA de los contratos de futuros/swaps WTI en 3 calendarios distintos - misma mecánica que SCO y el resto de la categoría.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario ~2.03M acciones/dia (~$84.5M/dia al precio actual $41.64) - solido, en linea con SCO (~$71.6M/dia).",
+          "notas": "Volumen diario ~2.03M acciones/dia (~$84.5M/dia al precio actual $41.64) - sólido, en línea con SCO (~$71.6M/dia).",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "ProShares - misma profundidad de Authorized Participants que el resto de la categoria apalancada/inversa del proyecto.",
+          "notas": "ProShares - misma profundidad de Authorized Participants que el resto de la categoría apalancada/inversa del proyecto.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Numero de holdings y diversificacion",
+      "titulo": "Número de holdings y diversificación",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg Commodity Balanced WTI Crude Oil Index, UN SOLO commodity, +2x diario via futuros/swaps - MISMO indice que SCO, direccion opuesta.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg Commodity Balanced WTI Crude Oil Index, UN SOLO commodity, +2x diario via futuros/swaps - MISMO índice que SCO, dirección opuesta.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo DIARIO al cierre de cada sesion para mantener el objetivo +2x - identico mecanismo al resto de la categoria, SEPTIMA confirmacion consecutiva del patron estructural de decay por rebalanceo diario.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo DIARIO al cierre de cada sesión para mantener el objetivo +2x - identico mecanismo al resto de la categoría, SEPTIMA confirmación consecutiva del patrón estructural de decay por rebalanceo diario.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = **+84.24%** (fuerte, refleja el rally del petroleo del ultimo anio - el mismo movimiento que produjo la perdida de -63.42% en SCO en el lado corto). PERO el retorno desde inception (17.75 anios) = **-24.17% a -24.53% CAGR, NEGATIVO** pese al buen resultado reciente - a diferencia de UGL (oro, CAGR +12.44% limpio y positivo), aqui el fuerte 1Y NO alcanza para compensar el deterioro acumulado de mas de una decada y media de decay + volatilidad bidireccional extrema del petroleo.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = **+84.24%** (fuerte, refleja el rally del petróleo del último año - el mismo movimiento que produjo la pérdida de -63.42% en SCO en el lado corto). PERO el retorno desde inception (17.75 años) = **-24.17% a -24.53% CAGR, NEGATIVO** pese al buen resultado reciente - a diferencia de UGL (oro, CAGR +12.44% limpio y positivo), aquí el fuerte 1Y NO alcanza para compensar el deterioro acumulado de mas de una década y media de decay + volatilidad bidireccional extrema del petróleo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad: rango de 52 semanas $18.12-$52.94 (ratio 2.92x) - **LA MENOS EXTREMA de los siete apalancados/inversos del proyecto** (KOLD 3.7x, SCO 3.68x, BOIL 5.09x, UGL 2.63x, AGQ 8.68x, ZSL 16.76x), aunque sigue siendo notablemente superior a cualquier ETF diversificado del proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el CAGR negativo de -24% desde inception sobre 17.75 anios implica perdidas acumuladas sustanciales pese al buen resultado del ultimo anio.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero el CAGR negativo de -24% desde inception sobre 17.75 años implica pérdidas acumuladas sustanciales pese al buen resultado del último año.",
           "calificacion": 1
         }
       ],
@@ -155,8 +155,8 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.26 - modesto, similar a UGL (0.34), sin relacion util como diversificador del portafolio de acciones ya analizado; el precio de UCO esta dominado por la dinamica de oferta/demanda del petroleo WTI (OPEP+, geopolitica), no por el mercado accionario amplio.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.26 - modesto, similar a UGL (0.34), sin relación util como diversificador del portafolio de acciones ya analizado; el precio de UCO esta dominado por la dinámica de oferta/demanda del petróleo WTI (OPEP+, geopolitica), no por el mercado accionario amplio.",
           "calificacion": 2
         }
       ],
@@ -168,26 +168,26 @@
       "rating_promedio": null
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**ESPEJO DIRECCIONAL EXACTO de SCO (fila 75, ya en el workbook)**: mismo emisor, mismo indice Bloomberg WTI Crude Oil, MISMA fecha de inception (24-nov-2008). Hallazgo distintivo respecto a los pares previos del proyecto: **PRIMERA VEZ que AMBOS lados de un par apalancado terminan con CAGR desde inception negativo** (UCO -24.17% a -24.53%, SCO ~-26%), a diferencia del par KOLD/BOIL (tendencia unidireccional clara, un lado gana relativamente y el otro es devastado) y del par ZSL/AGQ (asimetrico, corto mucho peor que largo pero largo positivo). Esto evidencia que el petroleo WTI ha tenido tal volatilidad bidireccional en 17+ anios que el decay perjudica a ambos signos del apalancamiento, independientemente de la direccion. USO (1x simple, sin apalancamiento) seria la alternativa logica sin decay amplificado.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**ESPEJO DIRECCIONAL EXACTO de SCO (fila 75, ya en el workbook)**: mismo emisor, mismo índice Bloomberg WTI Crude Oil, MISMA fecha de inception (24-nov-2008). Hallazgo distintivo respecto a los pares previos del proyecto: **PRIMERA VEZ que AMBOS lados de un par apalancado terminan con CAGR desde inception negativo** (UCO -24.17% a -24.53%, SCO ~-26%), a diferencia del par KOLD/BOIL (tendencia unidireccional clara, un lado gana relativamente y el otro es devastado) y del par ZSL/AGQ (asimetrico, corto mucho peor que largo pero largo positivo). Esto evidencia que el petróleo WTI ha tenido tal volatilidad bidireccional en 17+ años que el decay perjudica a ambos signos del apalancamiento, independientemente de la dirección. USO (1x simple, sin apalancamiento) seria la alternativa logica sin decay amplificado.",
           "calificacion": 3
         }
       ],
@@ -197,23 +197,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - misma categoria que el resto de la linea apalancada/inversa del proyecto, NUNCA apto como posicion de largo plazo pese al fuerte retorno 1Y reciente.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: TÁCTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - misma categoría que el resto de la línea apalancada/inversa del proyecto, NUNCA apto como posición de largo plazo pese al fuerte retorno 1Y reciente.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: unicamente tiene sentido como (a) cobertura tactica de exposicion real a un alza del petroleo por un horizonte de pocos dias, o (b) apuesta direccional alcista de trading de muy corto plazo sobre el WTI. El CAGR negativo desde inception pese a un fuerte 1Y reciente es la evidencia mas clara del proyecto de que ni siquiera acertar la direccion en el corto plazo compensa el decay acumulado de mantener el instrumento por anios.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: unicamente tiene sentido como (a) cobertura táctica de exposición real a un alza del petróleo por un horizonte de pocos dias, o (b) apuesta direccional alcista de trading de muy corto plazo sobre el WTI. El CAGR negativo desde inception pese a un fuerte 1Y reciente es la evidencia mas clara del proyecto de que ni siquiera acertar la dirección en el corto plazo compensa el decay acumulado de mantener el instrumento por años.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) decay CONFIRMADO en ambos lados del par WTI (CAGR negativo tanto en UCO como en SCO); (2) discrepancia de TER entre fuentes (0.95% oficial vs 1.43% stockanalysis), primera inconsistencia de este tipo en la categoria; (3) riesgo de contraparte con CUATRO bancos nombrados (SG, GS, UBS, Citi), la estructura mas compleja de contraparte del proyecto; (4) complejidad fiscal via K-1; (5) beta 0.26 no es un diversificador util.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) decay CONFIRMADO en ambos lados del par WTI (CAGR negativo tanto en UCO como en SCO); (2) discrepancia de TER entre fuentes (0.95% oficial vs 1.43% stockanalysis), primera inconsistencia de este tipo en la categoría; (3) riesgo de contraparte con CUATRO bancos nombrados (SG, GS, UBS, Citi), la estructura mas compleja de contraparte del proyecto; (4) complejidad fiscal via K-1; (5) beta 0.26 no es un diversificador util.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "SCO (mismo emisor, -2x CORTO, espejo direccional exacto, ya en el workbook fila 75) y USO (exposicion 1x simple sin apalancamiento, la alternativa logica sin decay amplificado) son las alternativas relevantes.",
+          "notas": "SCO (mismo emisor, -2x CORTO, espejo direccional exacto, ya en el workbook fila 75) y USO (exposición 1x simple sin apalancamiento, la alternativa logica sin decay amplificado) son las alternativas relevantes.",
           "calificacion": 3
         }
       ],
@@ -221,6 +221,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.48/5. ProShares Ultra Bloomberg Crude Oil, +2x diario sobre petroleo WTI - ESPEJO DIRECCIONAL EXACTO de SCO (fila 75): mismo emisor, mismo indice, MISMA fecha de inception (24-nov-2008). Hallazgo distintivo: es la PRIMERA VEZ en el proyecto que AMBOS lados de un par apalancado terminan con CAGR desde inception negativo (UCO -24.17% a -24.53%, SCO ~-26%) - a diferencia del par KOLD/BOIL (tendencia unidireccional clara del gas natural, un lado gana relativamente y el otro es devastado) y del par ZSL/AGQ (asimetrico, corto mucho peor pero largo termina positivo). El petroleo WTI ha tenido tal volatilidad bidireccional en 17.75 anios (Crisis 2008, colapso 2014-16, precios negativos abril-2020, spike 2022) que el decay perjudica a ambos signos del apalancamiento, independientemente de la direccion. El retorno 1Y es fuerte (+84.24%, reflejo del rally reciente del petroleo, el mismo movimiento que produjo -63.42% en SCO), pero ni siquiera esto compensa el deterioro acumulado de mas de una decada y media de decay - la evidencia mas clara del proyecto de que acertar la direccion en el corto plazo no basta para que un instrumento apalancado de reseteo diario sea rentable sostenido en el tiempo. Estructura de contraparte la MAS COMPLEJA del proyecto: swaps con CUATRO bancos nombrados (Societe Generale, Goldman Sachs, UBS, Citigroup). Discrepancia de TER detectada entre fuentes (0.95% oficial ProShares vs 1.43% stockanalysis) - se uso la cifra oficial del emisor. Unico uso legitimo: cobertura tactica de exposicion real al petroleo por un horizonte de dias, o apuesta direccional alcista de trading de muy corto plazo - nunca como posicion Core o Satelite. SCO (mismo emisor, -2x, espejo exacto, ya en el workbook) y USO (1x simple) son las alternativas relevantes. Con siete instrumentos apalancados/inversos analizados, el patron de decay compuesto por rebalanceo diario queda confirmado en SIETE DE SIETE casos del proyecto."
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.48/5. ProShares Ultra Bloomberg Crude Oil, +2x diario sobre petróleo WTI - ESPEJO DIRECCIONAL EXACTO de SCO (fila 75): mismo emisor, mismo índice, MISMA fecha de inception (24-nov-2008). Hallazgo distintivo: es la PRIMERA VEZ en el proyecto que AMBOS lados de un par apalancado terminan con CAGR desde inception negativo (UCO -24.17% a -24.53%, SCO ~-26%) - a diferencia del par KOLD/BOIL (tendencia unidireccional clara del gas natural, un lado gana relativamente y el otro es devastado) y del par ZSL/AGQ (asimetrico, corto mucho peor pero largo termina positivo). El petróleo WTI ha tenido tal volatilidad bidireccional en 17.75 años (Crisis 2008, colapso 2014-16, precios negativos abril-2020, spike 2022) que el decay perjudica a ambos signos del apalancamiento, independientemente de la dirección. El retorno 1Y es fuerte (+84.24%, reflejo del rally reciente del petróleo, el mismo movimiento que produjo -63.42% en SCO), pero ni siquiera esto compensa el deterioro acumulado de mas de una década y media de decay - la evidencia mas clara del proyecto de que acertar la dirección en el corto plazo no basta para que un instrumento apalancado de reseteo diario sea rentable sostenido en el tiempo. Estructura de contraparte la MAS COMPLEJA del proyecto: swaps con CUATRO bancos nombrados (Societe Generale, Goldman Sachs, UBS, Citigroup). Discrepancia de TER detectada entre fuentes (0.95% oficial ProShares vs 1.43% stockanalysis) - se uso la cifra oficial del emisor. Único uso legitimo: cobertura táctica de exposición real al petróleo por un horizonte de dias, o apuesta direccional alcista de trading de muy corto plazo - nunca como posición Core o Satélite. SCO (mismo emisor, -2x, espejo exacto, ya en el workbook) y USO (1x simple) son las alternativas relevantes. Con siete instrumentos apalancados/inversos analizados, el patrón de decay compuesto por rebalanceo diario queda confirmado en SIETE DE SIETE casos del proyecto."
   }
 }

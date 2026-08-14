@@ -1,36 +1,36 @@
 {
   "nombre": "iShares 20+ Year Treasury Bond ETF",
   "ticker": "TLT",
-  "categoria": "Renta Fija Gobierno - Treasuries EEUU duracion MAXIMA (~15.3 anios, 20+ anios sin techo)",
+  "categoria": "Renta Fija Gobierno - Treasuries EEUU duración MAXIMA (~15.3 años, 20+ años sin techo)",
   "emisor": "BlackRock/iShares",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA, con 46-48 holdings sobre un universo pequeno (bonos del Tesoro de 20+ anios) - razonablemente completa dado el numero reducido de emisiones elegibles en esa banda.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA, con 46-48 holdings sobre un universo pequeño (bonos del Tesoro de 20+ años) - razonablemente completa dado el número reducido de emisiones elegibles en esa banda.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. 100% deuda soberana de EEUU - misma exencion de impuestos estatales/locales ya documentada con TLH/VTIP/GOVT/VGSH.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. 100% deuda soberana de EEUU - misma exención de impuestos estatales/locales ya documentada con TLH/VTIP/GOVT/VGSH.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM = $41.64bn (stockanalysis, 10-ago-2026) - **EL AUM MAS ALTO entre los Treasuries de banda larga del proyecto**, supera a TLH ($10.91bn) por un margen enorme - TLT es el fondo de Treasuries largos mas grande y reconocido del mercado.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 22-jul-2002 (~24.1 anios) - **LITERALMENTE EL MISMO DIA que LQD** - confirma que iShares lanzo su PRIMER PAR de bond ETFs (credito corporativo + tasa de Treasuries largos) el mismo dia, el nacimiento efectivo de la industria de bond ETFs. El track record de renta fija MAS LARGO del proyecto, EMPATADO con LQD.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 22-jul-2002 (~24.1 años) - **LITERALMENTE EL MISMO DIA que LQD** - confirma que iShares lanzo su PRIMER PAR de bond ETFs (crédito corporativo + tasa de Treasuries largos) el mismo dia, el nacimiento efectivo de la industria de bond ETFs. El track record de renta fija MAS LARGO del proyecto, EMPATADO con LQD.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - DECIMA aparicion en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, HYG, TLH, GOVT, MBB, ahora TLT).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMA aparición en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, HYG, TLH, GOVT, MBB, ahora TLT).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.15% - empata EXACTAMENTE con TLH (mismo emisor, franquicia de Treasuries similar), mas caro que los fondos Vanguard equivalentes (VGLT ~0.03-0.04%).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion. **Gotcha de bloqueo de BlackRock/iShares.com RECONFIRMADO por SEXTA vez** (tras LQD, HYG, TLH, GOVT, MBB): el fact sheet oficial (30-jun-2026) devolvio error 403 en todos los intentos.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión. **Gotcha de bloqueo de BlackRock/iShares.com RECONFIRMADO por SEXTA vez** (tras LQD, HYG, TLH, GOVT, MBB): el fact sheet oficial (30-jun-2026) devolvio error 403 en todos los intentos.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion.",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover rate no verificado con fuente primaria esta sesion (fact sheet oficial bloqueado, mismo patron que fila 19).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover rate no verificado con fuente primaria esta sesión (fact sheet oficial bloqueado, mismo patrón que fila 19).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 34,671,066 acciones (stockanalysis) x $82.06/accion = aprox **$2,845.1M/dia - NUEVO RECORD DE LIQUIDEZ DE TODO EL PROYECTO**, supera a LQD ($2.03bn/dia, el record anterior) - TLT es el ETF de bonos mas operado del mercado, ampliamente usado como vehiculo macro/de cobertura institucional.",
+          "notas": "Volumen diario = 34,671,066 acciones (stockanalysis) x $82.06/acción = aprox **$2,845.1M/dia - NUEVO RÉCORD DE LIQUIDEZ DE TODO EL PROYECTO**, supera a LQD ($2.03bn/dia, el récord anterior) - TLT es el ETF de bonos mas operado del mercado, ampliamente usado como vehículo macro/de cobertura institucional.",
           "calificacion": 5
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con precision, pero el volumen extremo ($2.8bn+/dia) sugiere el spread mas ajustado posible dentro del proyecto.",
+          "notas": "Spread bid-ask exacto no verificado con precisión, pero el volumen extremo ($2.8bn+/dia) sugiere el spread mas ajustado posible dentro del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "46-48 holdings segun fuente - similar a TLH (61), numero pequeno dado el universo estrecho de bonos del Tesoro de 20+ anios de vencimiento.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "46-48 holdings según fuente - similar a TLH (61), número pequeño dado el universo estrecho de bonos del Tesoro de 20+ años de vencimiento.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 holdings no calculado con precision esta sesion - mismo matiz metodologico ya establecido con TLH/GOVT/VGSH: la concentracion en un unico emisor (Tesoro de EEUU) no representa el mismo riesgo que en renta fija corporativa.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 holdings no calculado con precisión esta sesión - mismo matiz metodologico ya establecido con TLH/GOVT/VGSH: la concentración en un único emisor (Tesoro de EEUU) no representa el mismo riesgo que en renta fija corporativa.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% Gobierno de EEUU, mismo perfil de maxima calidad y ausencia de concentracion sectorial tradicional ya documentado con TLH/GOVT/VGSH/VTIP.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% Gobierno de EEUU, mismo perfil de maxima calidad y ausencia de concentración sectorial tradicional ya documentado con TLH/GOVT/VGSH/VTIP.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% deuda soberana de EEUU - sin diversificacion geografica por diseno de la categoria.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% deuda soberana de EEUU - sin diversificación geográfica por diseño de la categoría.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es DURACION MAXIMA (15.31 anios efectiva, vencimiento promedio 26.03 anios, banda 20+ anios SIN TECHO) - **LA DURACION MAS LARGA DE TODO EL PROYECTO**, supera a TLH (12.2) y VCLT (12.1). **Es ademas el INDICE SUBYACENTE EXACTO de TMF** (Direxion Daily 20+ Year Treasury Bull 3X, fila 38, Score 1.67 - el mas bajo del proyecto) - TLT es la forma NO apalancada/correcta de tomar esta misma apuesta de duracion.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es DURASIÓN MAXIMA (15.31 años efectiva, vencimiento promedio 26.03 años, banda 20+ años SIN TECHO) - **LA DURASIÓN MAS LARGA DE TODO EL PROYECTO**, supera a TLH (12.2) y VCLT (12.1). **Es además el ÍNDICE SUBYACENTE EXACTO de TMF** (Direxion Daily 20+ Year Treasury Bull 3X, fila 38, Score 1.67 - el mas bajo del proyecto) - TLT es la forma NO apalancada/correcta de tomar esta misma apuesta de duración.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice ICE U.S. Treasury 20+ Year Index - metodologia transparente, banda de vencimiento sin techo superior.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice ICE U.S. Treasury 20+ Year Index - metodología transparente, banda de vencimiento sin techo superior.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesion (fact sheet oficial bloqueado, mismo patron que fila 19).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesión (fact sheet oficial bloqueado, mismo patrón que fila 19).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = -1.67% (stockanalysis, ago-2026), desde inception (24.1 anios) = +3.47% anualizado - razonable en el largo plazo pese al mal tramo reciente, mismo patron de presion de tasas largas ya documentado extensamente en LQD/VCLT/TLH.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = -1.67% (stockanalysis, ago-2026), desde inception (24.1 años) = +3.47% anualizado - razonable en el largo plazo pese al mal tramo reciente, mismo patrón de presión de tasas largas ya documentado extensamente en LQD/VCLT/TLH.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "**Standard Deviation (3yr) = 13.74% - fuente con mayor credibilidad que las comparaciones tipicas de PortfoliosLab (cifra de agregador dedicado, no snippet de comparacion), ACEPTADA con confianza** - la volatilidad MAS ALTA de todo el proyecto en renta fija, coherente con tener la duracion mas larga (15.3 anios) del proyecto. Convexidad = 3.27 (metrica adicional, primera vez reportada en el proyecto).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "**Standard Deviation (3yr) = 13.74% - fuente con mayor credibilidad que las comparaciones típicas de PortfoliosLab (cifra de agregador dedicado, no snippet de comparación), ACEPTADA con confianza** - la volatilidad MAS ALTA de todo el proyecto en renta fija, coherente con tener la duración mas larga (15.3 años) del proyecto. Convexidad = 3.27 (métrica adicional, primera vez reportada en el proyecto).",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown = -48.35% desde inception (PortfoliosLab) - NUEVO RECORD DE TODO EL PROYECTO EN RENTA FIJA**, supera a TLH (-41.14%, el record anterior) - coherente mecanicamente con tener la duracion mas larga del proyecto (15.3 vs 12.2 anios de TLH), extendiendo aun mas la relacion duracion-drawdown ya extensamente documentada.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown = -48.35% desde inception (PortfoliosLab) - NUEVO RÉCORD DE TODO EL PROYECTO EN RENTA FIJA**, supera a TLH (-41.14%, el récord anterior) - coherente mecanicamente con tener la duración mas larga del proyecto (15.3 vs 12.2 años de TLH), extendiendo aun mas la relación duración-drawdown ya extensamente documentada.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Cifras de Sharpe inconsistentes (0.18 a 1 anio vs 0.49 'actual' segun la comparacion) - mismo patron de gotcha ya documentado repetidamente en el proyecto. Se deja en blanco en el Dashboard.",
+          "notas": "Cifras de Sharpe inconsistentes (0.18 a 1 año vs 0.49 'actual' según la comparación) - mismo patrón de gotcha ya documentado repetidamente en el proyecto. Se deja en blanco en el Dashboard.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.51 (stockanalysis) - **NUEVO RECORD DE BETA MAS ALTO entre los Treasuries/agencia puros del proyecto**, supera a TLH (0.43) - extiende la relacion duracion-beta ya extensamente documentada: VGSH 0.05 (1.9a) < VTIP 0.09 (2.3a) < GOVT 0.19 (5.6a) < MBB 0.27 (~5a) < TLH 0.43 (12.2a) < TLT 0.51 (15.3a) - SEIS puntos de datos ahora confirman esta relacion monotona. Overlap con acciones individuales: NO APLICA (100% deuda soberana de EEUU).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.51 (stockanalysis) - **NUEVO RÉCORD DE BETA MAS ALTO entre los Treasuries/agencia puros del proyecto**, supera a TLH (0.43) - extiende la relación duración-beta ya extensamente documentada: VGSH 0.05 (1.9a) < VTIP 0.09 (2.3a) < GOVT 0.19 (5.6a) < MBB 0.27 (~5a) < TLH 0.43 (12.2a) < TLT 0.51 (15.3a) - SEIS puntos de datos ahora confirman esta relación monotona. Overlap con acciones individuales: NO APLICA (100% deuda soberana de EEUU).",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "24.1 anios de historial - EMPATA con LQD como el track record MAS LARGO del proyecto - cubre la crisis financiera 2008 COMPLETA (con el comportamiento tipico de 'flight to quality' de Treasuries largos, mismo patron ya documentado en TLH), el taper tantrum 2013, la correccion COVID 2020, y el ciclo de alzas de tasas 2022-2026 (su peor tramo historico, dado el Max Drawdown record de la fila 41).",
+          "notas": "24.1 años de historial - EMPATA con LQD como el track record MAS LARGO del proyecto - cubre la crisis financiera 2008 COMPLETA (con el comportamiento típico de 'flight to quality' de Treasuries largos, mismo patrón ya documentado en TLH), el taper tantrum 2013, la corrección COVID 2020, y el ciclo de alzas de tasas 2022-2026 (su peor tramo histórico, dado el Max Drawdown récord de la fila 41).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "No aplica - TLT es un fondo 100% renta fija soberana, sin componente de equity (mismo criterio que el resto de renta fija del proyecto).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 4.76% (stockanalysis) - distribucion MENSUAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 4.76% (stockanalysis) - distribución MENSUAL.",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "Duracion efectiva = 15.31 anios (fact sheet oficial 30-jun-2026, fuente confiable y reciente) - **la mas larga de todo el proyecto**. Vencimiento promedio = 26.03 anios. SEC Yield (30-dias) = 4.89% (fuente confiable). Calidad crediticia: 100% Gobierno de EEUU - maxima calidad crediticia posible.",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "Duración efectiva = 15.31 años (fact sheet oficial 30-jun-2026, fuente confiable y reciente) - **la mas larga de todo el proyecto**. Vencimiento promedio = 26.03 años. SEC Yield (30-dias) = 4.89% (fuente confiable). Calidad crediticia: 100% Gobierno de EEUU - maxima calidad crediticia posible.",
           "calificacion": 5
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**Comparacion directa con TLH** (mismo emisor BlackRock/iShares, pero banda de vencimiento distinta: TLT 20+ anios SIN TECHO vs TLH 10-20 anios CON TECHO) - TLT es la apuesta de duracion MAS EXTREMA del proyecto. **Tambien es el indice subyacente EXACTO del producto apalancado TMF** (fila 38, Score 1.67, el mas bajo del proyecto) - la Ficha de TMF ya identifico a TLT explicitamente como la alternativa SUPERIOR sin el decay de reset diario. Sin percentil de valoracion de tasas especifico verificado esta sesion (mismo limitante de TLH/GOVT).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**Comparación directa con TLH** (mismo emisor BlackRock/iShares, pero banda de vencimiento distinta: TLT 20+ años SIN TECHO vs TLH 10-20 años CON TECHO) - TLT es la apuesta de duración MAS EXTREMA del proyecto. **También es el índice subyacente EXACTO del producto apalancado TMF** (fila 38, Score 1.67, el mas bajo del proyecto) - la Ficha de TMF ya identifico a TLT explícitamente como la alternativa SUPERIOR sin el decay de reset diario. Sin percentil de valoración de tasas específico verificado esta sesión (mismo limitante de TLH/GOVT).",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Duracion maxima, sin riesgo de credito - apuesta PURA y EXTREMA a la direccion de las tasas largas, el perfil de riesgo mas alto entre los Treasuries puros del proyecto. Se clasifica como **'Tactico'** (segunda vez que se usa esta categoria en renta fija del proyecto, tras VCLT) - distinto de la funcion de Cobertura mas conservadora de VGSH/VTIP/GOVT/TLH, dado que TLT es mas una apuesta direccional de tasas que un ballast pasivo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Duración maxima, sin riesgo de crédito - apuesta PURA y EXTREMA a la dirección de las tasas largas, el perfil de riesgo mas alto entre los Treasuries puros del proyecto. Se clasifica como **'Táctico'** (segunda vez que se usa esta categoría en renta fija del proyecto, tras VCLT) - distinto de la función de Cobertura mas conservadora de VGSH/VTIP/GOVT/TLH, dado que TLT es mas una apuesta direccional de tasas que un ballast pasivo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion de MAXIMA duracion a Treasuries de EEUU - la forma NO apalancada y estructuralmente correcta de tomar esta apuesta de duracion (a diferencia del wrapper de reset diario de TMF, ya evaluado y descartado del proyecto con Score 1.67). Solo defendible para un inversionista con una vista explicita de que las tasas largas van a bajar.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición de MAXIMA duración a Treasuries de EEUU - la forma NO apalancada y estructuralmente correcta de tomar esta apuesta de duración (a diferencia del wrapper de reset diario de TMF, ya evaluado y descartado del proyecto con Score 1.67). Solo defendible para un inversionista con una vista explicita de que las tasas largas van a bajar.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) **riesgo de tasa de interes MAXIMO del proyecto** (duracion 15.3 anios, Max Drawdown record -48.35%, volatilidad record 13.74%); (2) mismo contexto macro adverso ya documentado en LQD/TLH (Treasury a 30 anios bajo presion continua); (3) TER igual a TLH (0.15%, mas caro que alternativas Vanguard como VGLT); (4) tributacion como ingreso ordinario federal (exento de impuestos estatales/locales).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) **riesgo de tasa de interés MÁXIMO del proyecto** (duración 15.3 años, Max Drawdown récord -48.35%, volatilidad récord 13.74%); (2) mismo contexto macro adverso ya documentado en LQD/TLH (Treasury a 30 años bajo presión continua); (3) TER igual a TLH (0.15%, mas caro que alternativas Vanguard como VGLT); (4) tributación como ingreso ordinario federal (exento de impuestos estatales/locales).",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "TLH (mismo emisor, banda de duracion menos extrema 10-20 anios), VGLT (Vanguard Long-Term Treasury, mas barato ~0.03-0.04%) y EDV (Vanguard Extended Duration Treasury, duracion aun mas extrema, ya mencionado en la Ficha de TMF como alternativa superior) identificados como alternativas, sin comparacion con datos propios verificados esta sesion.",
+          "notas": "TLH (mismo emisor, banda de duración menos extrema 10-20 años), VGLT (Vanguard Long-Term Treasury, mas barato ~0.03-0.04%) y EDV (Vanguard Extended Duration Treasury, duración aun mas extrema, ya mencionado en la Ficha de TMF como alternativa superior) identificados como alternativas, sin comparación con datos propios verificados esta sesión.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.76/5 - solido, resultado de un contraste marcado entre calidad estructural excepcional (**NUEVO RECORD DE LIQUIDEZ DE TODO EL PROYECTO**, ~$2.85bn/dia, supera a LQD; AUM $41.64bn, el mas grande entre los Treasuries de banda larga del proyecto; maxima calidad crediticia; EMPATA con LQD como el track record mas largo del proyecto, 24.1 anios, ambos lanzados el MISMO DIA -22-jul-2002-, el nacimiento de la industria de bond ETFs) y el perfil de riesgo de tasas MAS EXTREMO de todo el proyecto: **NUEVO RECORD de Max Drawdown (-48.35%, supera a TLH -41.14%)**, volatilidad mas alta del proyecto (13.74%, fuente confiable), y **nuevo record de Beta mas alto entre los Treasuries puros del proyecto (0.51, supera a TLH 0.43)** - extendiendo por SEXTA vez consecutiva la relacion duracion-beta ya bien establecida en el proyecto. Decision ESPERAR MEJOR ENTRADA (mismo tratamiento que LQD/TLH, aqui con evidencia AUN MAS FUERTE dado que TLT tiene la duracion mas larga y el peor drawdown historico de todo el proyecto): exposicion pura y sin amortiguador al riesgo de tasas largas en un entorno macro donde estas siguen bajo presion (mismo contexto del umbral de 30yr Treasury >5.25% ya documentado en LQD/TLH). **Nota especial**: TLT es el INDICE SUBYACENTE EXACTO del producto apalancado TMF (fila 38, Score 1.67, el mas bajo de todo el proyecto) - TLT es la forma correcta y NO apalancada de tomar esta misma apuesta de duracion si el usuario tiene una vista explicita sobre tasas largas, evitando por completo el decay estructural de reset diario ya documentado extensamente en la Ficha de TMF. Rol en Portafolio: 'Tactico' - apuesta direccional de tasas, no un ballast pasivo como VGSH/VTIP/GOVT."
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.76/5 - sólido, resultado de un contraste marcado entre calidad estructural excepcional (**NUEVO RÉCORD DE LIQUIDEZ DE TODO EL PROYECTO**, ~$2.85bn/dia, supera a LQD; AUM $41.64bn, el mas grande entre los Treasuries de banda larga del proyecto; maxima calidad crediticia; EMPATA con LQD como el track record mas largo del proyecto, 24.1 años, ambos lanzados el MISMO DIA -22-jul-2002-, el nacimiento de la industria de bond ETFs) y el perfil de riesgo de tasas MAS EXTREMO de todo el proyecto: **NUEVO RÉCORD de Max Drawdown (-48.35%, supera a TLH -41.14%)**, volatilidad mas alta del proyecto (13.74%, fuente confiable), y **nuevo récord de Beta mas alto entre los Treasuries puros del proyecto (0.51, supera a TLH 0.43)** - extendiendo por SEXTA vez consecutiva la relación duración-beta ya bien establecida en el proyecto. Decisión ESPERAR MEJOR ENTRADA (mismo tratamiento que LQD/TLH, aquí con evidencia AUN MAS FUERTE dado que TLT tiene la duración mas larga y el peor drawdown histórico de todo el proyecto): exposición pura y sin amortiguador al riesgo de tasas largas en un entorno macro donde estas siguen bajo presión (mismo contexto del umbral de 30yr Treasury >5.25% ya documentado en LQD/TLH). **Nota especial**: TLT es el ÍNDICE SUBYACENTE EXACTO del producto apalancado TMF (fila 38, Score 1.67, el mas bajo de todo el proyecto) - TLT es la forma correcta y NO apalancada de tomar esta misma apuesta de duración si el usuario tiene una vista explicita sobre tasas largas, evitando por completo el decay estructural de reset diario ya documentado extensamente en la Ficha de TMF. Rol en Portafolio: 'Táctico' - apuesta direccional de tasas, no un ballast pasivo como VGSH/VTIP/GOVT."
   }
 }

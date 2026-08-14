@@ -1,35 +1,35 @@
 {
   "nombre": "Invesco QQQ Trust",
   "ticker": "QQQ",
-  "categoria": "Equity Sector (Nasdaq-100 Index 1x, EXCLUYE financieras por regla del indice - COMPLETA la escalera del Nasdaq-100 del proyecto como el BASELINE 1x que faltaba junto a PSQ -1x fila 96-, QID -2x fila 97- y SQQQ -3x fila 100-, todos ya en el workbook. CONVERTIDO de Unit Investment Trust -UIT- a fondo estandar '40 Act el 22-dic-2025 - UNICO caso del proyecto de una mejora estructural reciente documentada, contraste directo con SPY -fila 104-, que sigue siendo UIT)",
+  "categoria": "Equity Sector (Nasdaq-100 Index 1x, EXCLUYE financieras por regla del índice - COMPLETA la escalera del Nasdaq-100 del proyecto como el BASELINE 1x que faltaba junto a PSQ -1x fila 96-, QID -2x fila 97- y SQQQ -3x fila 100-, todos ya en el workbook. CONVERTIDO de Unit Investment Trust -UIT- a fondo estándar '40 Act el 22-dic-2025 - ÚNICO caso del proyecto de una mejora estructural reciente documentada, contraste directo con SPY -fila 104-, que sigue siendo UIT)",
   "emisor": "Invesco",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "**CONVERTIDO de Unit Investment Trust -UIT- a fondo abierto estandar '40 Act el 22-dic-2025** - primer cambio estructural mayor en 26 anios. Ahora puede reinvertir dividendos, prestar valores y usar futuros para gestionar flujos de caja -ninguno permitido bajo la estructura UIT previa-. UNICO caso del proyecto de una MEJORA estructural documentada en el tiempo, contraste directo con SPY -fila 104-, que sigue siendo UIT con las mismas limitaciones que QQQ tenia hasta hace 8 meses.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "**CONVERTIDO de Unit Investment Trust -UIT- a fondo abierto estándar '40 Act el 22-dic-2025** - primer cambio estructural mayor en 26 años. Ahora puede reinvertir dividendos, prestar valores y usar futuros para gestionar flujos de caja -ninguno permitido bajo la estructura UIT previa-. ÚNICO caso del proyecto de una MEJORA estructural documentada en el tiempo, contraste directo con SPY -fila 104-, que sigue siendo UIT con las mismas limitaciones que QQQ tenia hasta hace 8 meses.",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. Post-conversion ya NO sufre el cash drag de dividendos no reinvertidos que SPY -fila 104- si tiene por seguir siendo UIT.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. Post-conversión ya NO sufre el cash drag de dividendos no reinvertidos que SPY -fila 104- si tiene por seguir siendo UIT.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$479-491bn - uno de los ETFs mas grandes del mundo, RECORD del proyecto para la categoria Equity Sector/Tematico -muy por encima de RSP $95bn, DGRO, VGT, etc-.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$479-491bn - uno de los ETFs mas grandes del mundo, RÉCORD del proyecto para la categoría Equity Sector/Temático -muy por encima de RSP $95bn, DGRO, VGT, etc-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 10-mar-1999 (~27.4 anios) - nace UN ANIO ANTES del pico dot-com -mar-2000-, cubre esa crisis COMPLETA ademas de la Crisis 2008 y COVID. Uno de los track records mas largos del proyecto, aunque no supera a SPY -33.6 anios- ni EWJ/EWC -30.4 anios-.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 10-mar-1999 (~27.4 años) - nace UN AÑO ANTES del pico dot-com -mar-2000-, cubre esa crisis COMPLETA además de la Crisis 2008 y COVID. Uno de los track records mas largos del proyecto, aunque no supera a SPY -33.6 años- ni EWJ/EWC -30.4 años-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor Invesco - QQQ es literalmente su producto insignia, el fondo individual mas grande de la firma por un margen enorme.",
           "calificacion": 5
         }
@@ -40,22 +40,22 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.18% -recien reducido desde 0.20% en dic-2025 junto con la conversion de estructura- - mas caro que VOO/ITOT -0.03%- y que SPY -0.0945%-, pero ahora mas barato que RSP -0.20%-.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.18% -recien reducido desde 0.20% en dic-2025 junto con la conversión de estructura- - mas caro que VOO/ITOT -0.03%- y que SPY -0.0945%-, pero ahora mas barato que RSP -0.20%-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica fisica completa de un indice curado de 100 nombres -mas facil de replicar con precision que el universo de miles de nombres de ITOT o el rebalanceo forzado de RSP- - tracking historicamente muy ajustado.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica física completa de un índice curado de 100 nombres -mas fácil de replicar con precisión que el universo de miles de nombres de ITOT o el rebalanceo forzado de RSP- - tracking históricamente muy ajustado.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending AHORA PERMITIDO tras la conversion de dic-2025 -antes prohibido por la estructura UIT, igual que SPY hoy- - revenue especifico de esta nueva capacidad no verificado esta sesion.",
+          "notas": "Securities lending AHORA PERMITIDO tras la conversión de dic-2025 -antes prohibido por la estructura UIT, igual que SPY hoy- - revenue específico de esta nueva capacidad no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
           "notas": "Rebalanceo ANUAL -diciembre- con ajustes trimestrales de topes de peso si es necesario - menor turnover que el reset trimestral forzado de RSP, mas comparable a VOO/SPY/ITOT.",
           "calificacion": 4
         }
@@ -63,11 +63,11 @@
       "rating_promedio": 3.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~29-45M acciones/dia, **~$21-33bn/dia** - RIVALIZA con el record absoluto del proyecto -SPY, ~$30bn/dia-, uno de los dos instrumentos mas liquidos de todo el proyecto por un margen enorme sobre el resto.",
+          "notas": "Volumen ~29-45M acciones/dia, **~$21-33bn/dia** - RIVALIZA con el récord absoluto del proyecto -SPY, ~$30bn/dia-, uno de los dos instrumentos mas liquidos de todo el proyecto por un margen enorme sobre el resto.",
           "calificacion": 5
         },
         {
@@ -76,8 +76,8 @@
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta, aunque implicitamente minimo dada la liquidez y profundidad de AP.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta, aunque implicitamente mínimo dada la liquidez y profundidad de AP.",
           "calificacion": 3
         },
         {
@@ -89,40 +89,40 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "**Solo 100-105 holdings** -dobles clases de acciones tipo GOOGL/GOOG- - POR MUCHO el fondo MENOS diversificado por conteo del cluster de indices amplios del proyecto -vs 520 VOO, 505 SPY, 2453 ITOT, 509 RSP-, un indice curado y concentrado por diseno.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "**Solo 100-105 holdings** -dobles clases de acciones tipo GOOGL/GOOG- - POR MUCHO el fondo MENOS diversificado por conteo del cluster de índices amplios del proyecto -vs 520 VOO, 505 SPY, 2453 ITOT, 509 RSP-, un índice curado y concentrado por diseño.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 46.4-46.7% del NAV -NVDA 8.46%, AAPL 7.32%, MSFT 5.93%, AMZN 4.68%, MU 4.38%, AMD 3.52%, GOOGL/GOOG combinado ~6.4%, AVGO 3.18%, META 2.79%- - **LA CONCENTRACION MAS ALTA de todo el cluster de indices amplios del proyecto** -vs 33.86-38.15% en VOO/SPY/ITOT, y muy por encima del ~3-4% de RSP-.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 46.4-46.7% del NAV -NVDA 8.46%, AAPL 7.32%, MSFT 5.93%, AMZN 4.68%, MU 4.38%, AMD 3.52%, GOOGL/GOOG combinado ~6.4%, AVGO 3.18%, META 2.79%- - **LA CONCENTRASIÓN MAS ALTA de todo el cluster de índices amplios del proyecto** -vs 33.86-38.15% en VOO/SPY/ITOT, y muy por encima del ~3-4% de RSP-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "**Tecnologia ~58-65%** -segun fuente/clasificacion- - **POR MUCHO la concentracion sectorial mas alta de CUALQUIER fondo no apalancado del proyecto**, la razon de ser del Nasdaq-100 frente al S&P 500 -33-38% en VOO/SPY/ITOT-. El indice EXCLUYE financieras por regla explicita.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "**Tecnología ~58-65%** -según fuente/clasificación- - **POR MUCHO la concentración sectorial mas alta de CUALQUIER fondo no apalancado del proyecto**, la razón de ser del Nasdaq-100 frente al S&P 500 -33-38% en VOO/SPY/ITOT-. El índice EXCLUYE financieras por regla explicita.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US -listado-, aunque muchas constituyentes tienen ingresos internacionales significativos.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Tilt GROWTH/TECH marcado, cap-weighted DENTRO del universo curado de 100 no-financieras del Nasdaq - exposicion de factor genuinamente distinta al blend neutral de VOO.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Tilt GROWTH/TECH marcado, cap-weighted DENTRO del universo curado de 100 no-financieras del Nasdaq - exposición de factor genuinamente distinta al blend neutral de VOO.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Nasdaq-100 - EXCLUYE financieras por regla explicita, metodologia iconica aunque mas curada/concentrada que la del S&P 500 -comite amplio de 500 nombres- de VOO/SPY.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Nasdaq-100 - EXCLUYE financieras por regla explicita, metodología iconica aunque mas curada/concentrada que la del S&P 500 -comite amplio de 500 nombres- de VOO/SPY.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo ANUAL -diciembre- con ajustes de topes trimestrales - sin reseteo diario ni decay compuesto.",
           "calificacion": 5
         }
@@ -130,63 +130,63 @@
       "rating_promedio": 2.86
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y +27.16%, 3Y anualizado +28.96%, 5Y anualizado +15.22%, 10Y anualizado +20.39-20.72% - TODOS notablemente MAS ALTOS que VOO/SPY/ITOT en ventanas comparables -liderazgo tech-. PERO desde inception -27.4 anios, incl. dot-com- solo +10.84% anualizado - similar al +10.70% de ITOT pese al desempeno reciente muy superior, ilustra la severidad real del colapso dot-com sobre el CAGR de muy largo plazo.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y +27.16%, 3Y anualizado +28.96%, 5Y anualizado +15.22%, 10Y anualizado +20.39-20.72% - TODOS notablemente MAS ALTOS que VOO/SPY/ITOT en ventanas comparables -liderazgo tech-. PERO desde inception -27.4 años, incl. dot-com- solo +10.84% anualizado - similar al +10.70% de ITOT pese al desempeño reciente muy superior, ilustra la severidad real del colapso dot-com sobre el CAGR de muy largo plazo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Rango 52 semanas $555.60-$748.65 (ratio 1.348x) - **el MAS ALTO del cluster de indices amplios del proyecto** -vs ~1.235x VOO/SPY/ITOT, 1.215x RSP-, confirma mayor volatilidad por la concentracion tech.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Rango 52 semanas $555.60-$748.65 (ratio 1.348x) - **el MAS ALTO del cluster de índices amplios del proyecto** -vs ~1.235x VOO/SPY/ITOT, 1.215x RSP-, confirma mayor volatilidad por la concentración tech.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown historico -82.97%**, pico mar-2000 a piso 9-oct-2002 -crash dot-com-, **mas de 12 anios para recuperarse completamente** - **SEGUNDO PEOR drawdown verificado de TODO EL PROYECTO** tras TMF -92.74%, fondo apalancado de bonos- y **PEOR que SPXL -76.86%, un fondo APALANCADO 3x**- pese a que QQQ es 1x SIN apalancamiento - demuestra que la concentracion sola, sin apalancamiento, puede rivalizar con el riesgo de productos apalancados. Tambien documentados: Crisis 2008 ~-49% a -53.5%, COVID 2020 ~-27% a -30%.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown histórico -82.97%**, pico mar-2000 a piso 9-oct-2002 -crash dot-com-, **mas de 12 años para recuperarse completamente** - **SEGUNDO PEOR drawdown verificado de TODO EL PROYECTO** tras TMF -92.74%, fondo apalancado de bonos- y **PEOR que SPXL -76.86%, un fondo APALANCADO 3x**- pese a que QQQ es 1x SIN apalancamiento - demuestra que la concentración sola, sin apalancamiento, puede rivalizar con el riesgo de productos apalancados. También documentados: Crisis 2008 ~-49% a -53.5%, COVID 2020 ~-27% a -30%.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio conflictivo por ventana -1.18 vs 0.82 segun fuente- - solido pese a la volatilidad, reflejo del fuerte compounding desde el piso dot-com de 2002.",
+          "notas": "Sharpe Ratio conflictivo por ventana -1.18 vs 0.82 según fuente- - sólido pese a la volatilidad, reflejo del fuerte compounding desde el piso dot-com de 2002.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = ~1.15-1.23 vs S&P 500 - **NOTABLEMENTE POR ENCIMA de 1.0**, a diferencia de VOO -1.01-, SPY -1.01-, ITOT -1.02- e incluso RSP -0.92, por debajo-. Confirma el mayor riesgo sistematico genuino de la concentracion tech del Nasdaq-100.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = ~1.15-1.23 vs S&P 500 - **NOTABLEMENTE POR ENCIMA de 1.0**, a diferencia de VOO -1.01-, SPY -1.01-, ITOT -1.02- e incluso RSP -0.92, por debajo-. Confirma el mayor riesgo sistematico genuino de la concentración tech del Nasdaq-100.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**TRES crisis mayores documentadas** -dot-com -82.97%/12+ anios recuperacion, GFC 2008 ~-49-53.5%, COVID 2020 ~-27-30%- - el dataset de comportamiento en crisis MAS COMPLETO de todo el proyecto, incluso mas rico que SPY -dos crisis-.",
+          "notas": "**TRES crisis mayores documentadas** -dot-com -82.97%/12+ años recuperación, GFC 2008 ~-49-53.5%, COVID 2020 ~-27-30%- - el dataset de comportamiento en crisis MAS COMPLETO de todo el proyecto, incluso mas rico que SPY -dos crisis-.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 2.83
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E Ponderado 30.72-32.90x - **LA VALORACION MAS RICA de todo el cluster de indices amplios del proyecto** -vs 27.53x VOO, 26.82x SPY, 26.15x ITOT, 21.02x RSP-, reflejo directo de la concentracion growth/tech. P/B no encontrado.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E Ponderado 30.72-32.90x - **LA VALORASIÓN MAS RICA de todo el cluster de índices amplios del proyecto** -vs 27.53x VOO, 26.82x SPY, 26.15x ITOT, 21.02x RSP-, reflejo directo de la concentración growth/tech. P/B no encontrado.",
           "calificacion": 1
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield 0.42% TTM, trimestral - **EL MAS BAJO de todo el cluster de indices amplios del proyecto** -vs 0.97-1.04% VOO/SPY/ITOT, 1.46-1.49% RSP-, coherente con el tilt growth-sobre-income.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield 0.42% TTM, trimestral - **EL MAS BAJO de todo el cluster de índices amplios del proyecto** -vs 0.97-1.04% VOO/SPY/ITOT, 1.46-1.49% RSP-, coherente con el tilt growth-sobre-income.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 1.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPLETA LA ESCALERA del Nasdaq-100 del proyecto**: 1x QQQ / -1x PSQ -fila 96- / -2x QID -fila 97- / -3x SQQQ -fila 100-, TODOS ya en el workbook - analogo exacto a como VOO completo la escalera del S&P 500 con SSO/SPXL. Misma salvedad metodologica de ventanas de inception distintas ya establecida -QQQ mar-1999, PSQ/QID jun/jul-2006, SQQQ feb-2010-. Tambien comparable directo a VOO/SPY/ITOT -misma categoria de indice amplio de EEUU, pero Nasdaq-100 vs S&P 500- y a RSP -perfil de concentracion literalmente OPUESTO: Top10 46.7% de QQQ vs ~3-4% de RSP, dos extremos del mismo universo de gran capitalizacion de EEUU-. La conversion UIT-a-RIC de dic-2025 es un hallazgo unico -estructura MEJORANDO en el tiempo, no solo comparada estaticamente-.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPLETA LA ESCALERA del Nasdaq-100 del proyecto**: 1x QQQ / -1x PSQ -fila 96- / -2x QID -fila 97- / -3x SQQQ -fila 100-, TODOS ya en el workbook - analogo exacto a como VOO completo la escalera del S&P 500 con SSO/SPXL. Misma salvedad metodologica de ventanas de inception distintas ya establecida -QQQ mar-1999, PSQ/QID jun/jul-2006, SQQQ feb-2010-. También comparable directo a VOO/SPY/ITOT -misma categoría de índice amplio de EEUU, pero Nasdaq-100 vs S&P 500- y a RSP -perfil de concentración literalmente OPUESTO: Top10 46.7% de QQQ vs ~3-4% de RSP, dos extremos del mismo universo de gran capitalización de EEUU-. La conversión UIT-a-RIC de dic-2025 es un hallazgo único -estructura MEJORANDO en el tiempo, no solo comparada estaticamente-.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **SATELITE de alta conviccion growth/tech**, no un reemplazo de VOO como Core -la concentracion sectorial -58-65% Tech- es demasiado alta para ese rol-.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **SATÉLITE de alta convicción growth/tech**, no un reemplazo de VOO como Core -la concentración sectorial -58-65% Tech- es demasiado alta para ese rol-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion directa al liderazgo de mega-cap tech/IA -entradas de ~$10.2bn en una semana en ago-2026 impulsadas por el rally de infraestructura de IA-, ahora con una estructura MUCHO mejor -conversion RIC dic-2025- que la de SPY. PERO el historico dot-com -82.97%- demuestra que la concentracion, sin apalancamiento, puede producir un drawdown catastrofico y de recuperacion MULTI-DECADAL - no es un riesgo hipotetico, ya ocurrio.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición directa al liderazgo de mega-cap tech/IA -entradas de ~$10.2bn en una semana en ago-2026 impulsadas por el rally de infraestructura de IA-, ahora con una estructura MUCHO mejor -conversión RIC dic-2025- que la de SPY. PERO el histórico dot-com -82.97%- demuestra que la concentración, sin apalancamiento, puede producir un drawdown catastrofico y de recuperación MULTI-DECADAL - no es un riesgo hipotetico, ya ocurrio.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) concentracion sectorial EXTREMA -Tech 58-65%, Top10 46.7%- la mas alta de cualquier fondo NO apalancado del proyecto; (2) Max Drawdown verificado -82.97% -dot-com-, PEOR que varios fondos APALANCADOS del proyecto -incl. SPXL 3x-; (3) valoracion mas rica del cluster -P/E ~31x-; (4) overlap con AVGO/MU/NVDA -NO COMPRAR-superciclo IA- probablemente a pesos AUN MAS ALTOS que en VOO/SPY dada la concentracion tech.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentración sectorial EXTREMA -Tech 58-65%, Top10 46.7%- la mas alta de cualquier fondo NO apalancado del proyecto; (2) Max Drawdown verificado -82.97% -dot-com-, PEOR que varios fondos APALANCADOS del proyecto -incl. SPXL 3x-; (3) valoración mas rica del cluster -P/E ~31x-; (4) overlap con AVGO/MU/NVDA -NO COMPRAR-superciclo IA- probablemente a pesos AUN MAS ALTOS que en VOO/SPY dada la concentración tech.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "PSQ/QID/SQQQ -filas 96/97/100, ya en el workbook, la familia -1x/-2x/-3x que QQQ ahora ancla como baseline 1x-, VOO/SPY/ITOT -filas 102/104/103, ya en el workbook, la alternativa S&P 500 menos concentrada- y RSP -fila 105, ya en el workbook, el perfil de concentracion OPUESTO sobre un universo de gran capitalizacion distinto- son las alternativas/comparables mas relevantes de todo el proyecto.",
+          "notas": "PSQ/QID/SQQQ -filas 96/97/100, ya en el workbook, la familia -1x/-2x/-3x que QQQ ahora ancla como baseline 1x-, VOO/SPY/ITOT -filas 102/104/103, ya en el workbook, la alternativa S&P 500 menos concentrada- y RSP -fila 105, ya en el workbook, el perfil de concentración OPUESTO sobre un universo de gran capitalización distinto- son las alternativas/comparables mas relevantes de todo el proyecto.",
           "calificacion": 5
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "SATELITE DE ALTA CONVICCION GROWTH/TECH - ESPERAR MEJOR ENTRADA. Score 3.42/5, por debajo de todo el cluster de indices amplios del proyecto -VOO 3.91, ITOT 3.88, RSP 3.67, SPY 3.55- pese a ser uno de los ETFs mas liquidos, antiguos y estructuralmente mejorados del mundo. Invesco QQQ Trust, Nasdaq-100 Index 1x, **COMPLETA LA ESCALERA del Nasdaq-100 del proyecto** como el baseline que faltaba junto a PSQ -1x-, QID -2x- y SQQQ -3x-, todos ya en el workbook -analogo exacto a como VOO completo la escalera del S&P 500-. **CONVERTIDO de Unit Investment Trust -UIT- a fondo estandar '40 Act el 22-dic-2025** -primer cambio estructural mayor en 26 anios, ahora puede reinvertir dividendos/prestar valores/usar futuros- - UNICO caso del proyecto de una mejora estructural documentada en el tiempo, contraste directo con SPY -fila 104-, que sigue siendo UIT. AUM ~$479-491bn, uno de los ETFs mas grandes del mundo. Volumen ~$21-33bn/dia, rivaliza con el record absoluto del proyecto -SPY ~$30bn/dia-. PERO: concentracion sectorial EXTREMA -Tech 58-65%, Top10 46.4-46.7%, la mas alta de cualquier fondo NO apalancado del proyecto-, Beta 1.15-1.23 -notablemente por encima de 1.0-, valoracion la mas rica del cluster -P/E ~31x-, y sobre todo un **Max Drawdown verificado de -82.97% -crash dot-com, mar-2000 a oct-2002, MAS DE 12 ANIOS para recuperarse completamente- - el SEGUNDO PEOR de todo el proyecto tras TMF -92.74%- y PEOR que SPXL -76.86%, un fondo APALANCADO 3x- pese a ser QQQ 1x SIN apalancamiento**, la prueba mas clara del proyecto de que la concentracion sola puede rivalizar con el riesgo de productos apalancados. TRES crisis documentadas -dot-com/2008/COVID-, el dataset de comportamiento en crisis mas completo del proyecto. Overlap con AVGO/MU/NVDA -NO COMPRAR-superciclo IA- probablemente a pesos aun mas altos que en VOO/SPY. Rol en Portafolio: Satelite de alta conviccion, NUNCA Core por la concentracion. PSQ/QID/SQQQ -ya en el workbook- y RSP -perfil de concentracion opuesto, ya en el workbook- son los comparables mas ricos de todo el proyecto."
+    "tesis": "SATÉLITE DE ALTA CONVICSIÓN GROWTH/TECH - ESPERAR MEJOR ENTRADA. Score 3.42/5, por debajo de todo el cluster de índices amplios del proyecto -VOO 3.91, ITOT 3.88, RSP 3.67, SPY 3.55- pese a ser uno de los ETFs mas liquidos, antiguos y estructuralmente mejorados del mundo. Invesco QQQ Trust, Nasdaq-100 Index 1x, **COMPLETA LA ESCALERA del Nasdaq-100 del proyecto** como el baseline que faltaba junto a PSQ -1x-, QID -2x- y SQQQ -3x-, todos ya en el workbook -analogo exacto a como VOO completo la escalera del S&P 500-. **CONVERTIDO de Unit Investment Trust -UIT- a fondo estándar '40 Act el 22-dic-2025** -primer cambio estructural mayor en 26 años, ahora puede reinvertir dividendos/prestar valores/usar futuros- - ÚNICO caso del proyecto de una mejora estructural documentada en el tiempo, contraste directo con SPY -fila 104-, que sigue siendo UIT. AUM ~$479-491bn, uno de los ETFs mas grandes del mundo. Volumen ~$21-33bn/dia, rivaliza con el récord absoluto del proyecto -SPY ~$30bn/dia-. PERO: concentración sectorial EXTREMA -Tech 58-65%, Top10 46.4-46.7%, la mas alta de cualquier fondo NO apalancado del proyecto-, Beta 1.15-1.23 -notablemente por encima de 1.0-, valoración la mas rica del cluster -P/E ~31x-, y sobre todo un **Max Drawdown verificado de -82.97% -crash dot-com, mar-2000 a oct-2002, MAS DE 12 AÑOS para recuperarse completamente- - el SEGUNDO PEOR de todo el proyecto tras TMF -92.74%- y PEOR que SPXL -76.86%, un fondo APALANCADO 3x- pese a ser QQQ 1x SIN apalancamiento**, la prueba mas clara del proyecto de que la concentración sola puede rivalizar con el riesgo de productos apalancados. TRES crisis documentadas -dot-com/2008/COVID-, el dataset de comportamiento en crisis mas completo del proyecto. Overlap con AVGO/MU/NVDA -NO COMPRAR-superciclo IA- probablemente a pesos aun mas altos que en VOO/SPY. Rol en Portafolio: Satélite de alta convicción, NUNCA Core por la concentración. PSQ/QID/SQQQ -ya en el workbook- y RSP -perfil de concentración opuesto, ya en el workbook- son los comparables mas ricos de todo el proyecto."
   }
 }

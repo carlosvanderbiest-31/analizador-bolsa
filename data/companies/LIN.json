@@ -1,7 +1,7 @@
 {
   "empresa": "Linde plc",
   "ticker": "LIN",
-  "sector": "Materiales Basicos - Gases industriales",
+  "sector": "Materiales Básicos - Gases industriales",
   "fecha_analisis": "2026-10-08",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ingresos TTM 35.45bn USD via tres modelos: on-site (plantas dedicadas dentro de las instalaciones del cliente, contratos take-or-pay 15-20 anios), pipeline (redes regionales) y merchant/packaged gases (distribucion por camion/cilindro), mas un segmento de Engineering (diseno-fabricacion de plantas, ~10% de ventas). Diversificacion por geografia (Americas, EMEA, APAC) y por mercado final (electronica, metales-mineria, quimicos-energia, alimentos, salud, home care) sin concentracion relevante de clientes individuales.",
+          "notas": "Ingresos TTM 35.45bn USD via tres modelos: on-site (plantas dedicadas dentro de las instalaciones del cliente, contratos take-or-pay 15-20 años), pipeline (redes regionales) y merchant/packaged gases (distribución por camion/cilindro), mas un segmento de Engineering (diseño-fabricación de plantas, ~10% de ventas). Diversificación por geografia (Americas, EMEA, APAC) y por mercado final (electronica, metales-mineria, quimicos-energía, alimentos, salud, home care) sin concentración relevante de clientes individuales.",
           "calificacion": 5
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat estructural clasico de oligopolio: pipelines regionales y plantas on-site crean switching costs muy altos (el cliente no puede cambiar de proveedor sin reconstruir infraestructura fisica), contratos take-or-pay de 15-20 anios con clausulas de pass-through de costos de energia. Escala global (#1 en cuota de mercado, 33%) da ventajas de densidad logistica. Expertise tecnico en gases especiales de electronica agrega una barrera adicional de conocimiento.",
+          "notas": "Moat estructural clasico de oligopolio: pipelines regionales y plantas on-site crean switching costs muy altos (el cliente no puede cambiar de proveedor sin reconstruir infraestructura física), contratos take-or-pay de 15-20 años con clausulas de pass-through de costos de energía. Escala global (#1 en cuota de mercado, 33%) da ventajas de densidad logistica. Expertise técnico en gases especiales de electronica agrega una barrera adicional de conocimiento.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider global indiscutido con 33% de cuota de mercado, por delante de Air Liquide (~29%) y Air Products (~15%). Los 5 mayores players controlan 80-84% del mercado (oligopolio). Posicion reforzada por el backlog de proyectos de 8.1bn USD (creciendo, +1bn USD el ultimo trimestre) y por ser el lider en el segmento de electronica de mas rapido crecimiento (demanda ligada a IA).",
+          "notas": "Líder global indiscutido con 33% de cuota de mercado, por delante de Air Liquide (~29%) y Air Products (~15%). Los 5 mayores players controlan 80-84% del mercado (oligopolio). Posición reforzada por el backlog de proyectos de 8.1bn USD (creciendo, +1bn USD el último trimestre) y por ser el líder en el segmento de electronica de mas rápido crecimiento (demanda ligada a IA).",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Poder de fijacion de precios demostrado activamente: 2 puntos porcentuales de los 3% de crecimiento de ventas 2025 vinieron de pricing. Los contratos on-site/pipeline tienen clausulas de pass-through de costos de energia que protegen margen ante shocks de commodities. Renovaciones de contratos si generan competencia activa con Air Liquide en Europa y electronica.",
+          "notas": "Poder de fijación de precios demostrado activamente: 2 puntos porcentuales de los 3% de crecimiento de ventas 2025 vinieron de pricing. Los contratos on-site/pipeline tienen clausulas de pass-through de costos de energía que protegen margen ante shocks de commodities. Renovaciones de contratos si generan competencia activa con Air Liquide en Europa y electronica.",
           "calificacion": 4
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Track record solido: 33 anios consecutivos de aumento de dividendo (incremento de 7% en feb-2026), recompras de acciones consistentes (~4-5bn USD/anio, -2.1% de acciones en circulacion en el ultimo anio), fusion Linde-Praxair (2018) con sinergias entregadas segun lo prometido. Reinversion disciplinada en backlog de proyectos contratados con retornos garantizados por encima del costo de capital.",
+          "notas": "Track record sólido: 33 años consecutivos de aumento de dividendo (incremento de 7% en feb-2026), recompras de acciones consistentes (~4-5bn USD/año, -2.1% de acciones en circulación en el último año), fusión Linde-Praxair (2018) con sinergias entregadas según lo prometido. Reinversión disciplinada en backlog de proyectos contratados con retornos garantizados por encima del costo de capital.",
           "calificacion": 5
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Compensacion del CEO (Sanjiv Lamba, tambien Chairman desde ene-2026 tras el retiro de Steve Angel) fuertemente ligada a bonos y acciones (92.8% de compensacion total de 21.78M USD). Compra reciente de acciones del CEO por 999k USD (senal positiva), pero insiders en conjunto fueron vendedores netos por 5.7M USD en los ultimos 12 meses - senal mixta, no alarmante.",
+          "notas": "Compensación del CEO (Sanjiv Lamba, también Chairman desde ene-2026 tras el retiro de Steve Angel) fuertemente ligada a bonos y acciones (92.8% de compensación total de 21.78M USD). Compra reciente de acciones del CEO por 999k USD (señal positiva), pero insiders en conjunto fueron vendedores netos por 5.7M USD en los últimos 12 meses - señal mixta, no alarmante.",
           "calificacion": 4
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion regular con inversionistas via llamadas trimestrales, guidance actualizado activamente (elevado dos veces en 2026), reporte de sostenibilidad anual detallado. Divulgacion proactiva de la revision estrategica de Lincare (reconociendo el problema en vez de ocultarlo) y del retraso del proyecto Woodside. Sin violaciones regulatorias ni escandalos contables identificados.",
+          "notas": "Comunicación regular con inversionistas via llamadas trimestrales, guidance actualizado activamente (elevado dos veces en 2026), reporte de sostenibilidad anual detallado. Divulgación proactiva de la revisión estratégica de Lincare (reconociendo el problema en vez de ocultarlo) y del retraso del proyecto Woodside. Sin violaciones regulatorias ni escandalos contables identificados.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda Total 28.01bn USD, Caja 4.90bn USD, Deuda Neta 23.12bn USD. Deuda Neta/EBITDA aprox 1.73x (EBITDA TTM ~13.4bn USD, margen EBITDA >38%) - apalancamiento moderado, consistente con calificacion crediticia grado de inversion (A). Deuda/Patrimonio 0.66x.",
+          "notas": "Deuda Total 28.01bn USD, Caja 4.90bn USD, Deuda Neta 23.12bn USD. Deuda Neta/EBITDA aprox 1.73x (EBITDA TTM ~13.4bn USD, margen EBITDA >38%) - apalancamiento moderado, consistente con calificación crediticia grado de inversión (A). Deuda/Patrimonio 0.66x.",
           "calificacion": 4
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 0.88x (Activos corrientes 14.18bn USD / Pasivos corrientes 16.13bn USD), por debajo de 1.0x - comun en empresas industriales con gestion eficiente de capital de trabajo, no una senal de estres dado el acceso amplio a mercados de credito grado de inversion y la generacion de OCF de 10.49bn USD TTM.",
+          "notas": "Razón corriente 0.88x (Activos corrientes 14.18bn USD / Pasivos corrientes 16.13bn USD), por debajo de 1.0x - comun en empresas industriales con gestion eficiente de capital de trabajo, no una señal de estres dado el acceso amplio a mercados de crédito grado de inversión y la generación de OCF de 10.49bn USD TTM.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Perfil de vencimientos de deuda tipico de un emisor grado de inversion (A) con acceso regular a mercados de bonos globales (EEUU, Europa) - sin concentracion de vencimientos identificada en la investigacion disponible. Cobertura de intereses muy alta dado el bajo costo de deuda relativo al EBIT generado.",
+          "notas": "Perfil de vencimientos de deuda típico de un emisor grado de inversión (A) con acceso regular a mercados de bonos globales (EEUU, Europa) - sin concentración de vencimientos identificada en la investigación disponible. Cobertura de intereses muy alta dado el bajo costo de deuda relativo al EBIT generado.",
           "calificacion": 4
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos dominados por PP&E tangible (plantas de separacion de aire, redes de pipelines) - activos productivos esenciales, no especulativos. Goodwill-intangibles moderados, remanentes principalmente de la fusion Linde-Praxair de 2018, ya totalmente integrada.",
+          "notas": "Activos dominados por PP&E tangible (plantas de separación de aire, redes de pipelines) - activos productivos esenciales, no especulativos. Goodwill-intangibles moderados, remanentes principalmente de la fusión Linde-Praxair de 2018, ya totalmente integrada.",
           "calificacion": 4
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Expansion fuerte de margenes en 5 anios: Margen Bruto 41.70% (2022) -> 48.83% (2025); Margen Operativo 16.09% -> 26.25%; Margen Neto 12.32% -> 20.33%. Tendencia reciente mixta: margen operativo ex-pass-through se contrajo 60 puntos base interanual en 2T 2026 por el arrastre de Lincare y mezcla de equipos de menor margen en APAC.",
+          "notas": "Expansión fuerte de márgenes en 5 años: Margen Bruto 41.70% (2022) -> 48.83% (2025); Margen Operativo 16.09% -> 26.25%; Margen Neto 12.32% -> 20.33%. Tendencia reciente mixta: margen operativo ex-pass-through se contrajo 60 puntos base interanual en 2T 2026 por el arrastre de Lincare y mezcla de equipos de menor margen en APAC.",
           "calificacion": 4
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 18.23%, ROIC 12.19%, ambos muy por encima del WACC estimado (7.07%) - spread ROIC-WACC de mas de 5 puntos porcentuales confirma creacion de valor solida y consistente con el moat de oligopolio.",
+          "notas": "ROE 18.23%, ROIC 12.19%, ambos muy por encima del WACC estimado (7.07%) - spread ROIC-WACC de mas de 5 puntos porcentuales confirma creación de valor sólida y consistente con el moat de oligopolio.",
           "calificacion": 5
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos baja (0.40x = Ingresos TTM 35.45bn / Activos 88.35bn) - estructural y esperable en un negocio de capital muy intensivo (plantas, pipelines de larga vida util), no una ineficiencia operativa. No se encontro detalle publico del ciclo de conversion de efectivo especifico.",
+          "notas": "Rotación de activos baja (0.40x = Ingresos TTM 35.45bn / Activos 88.35bn) - estructural y esperable en un negocio de capital muy intensivo (plantas, pipelines de larga vida util), no una ineficiencia operativa. No se encontro detalle público del ciclo de conversión de efectivo específico.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Crecimiento de ingresos moderado: CAGR 5 anios ~2.5% (30.79bn USD en 2021 a 33.99bn USD en 2025), mayormente organico (pricing + volumen en electronica/metales-mineria), sin M&A relevante desde la fusion Praxair de 2018. Crecimiento de utilidades mucho mayor que el de ingresos por expansion de margen y recompras de acciones.",
+          "notas": "Crecimiento de ingresos moderado: CAGR 5 años ~2.5% (30.79bn USD en 2021 a 33.99bn USD en 2025), mayormente orgánico (pricing + volumen en electronica/metales-mineria), sin M&A relevante desde la fusión Praxair de 2018. Crecimiento de utilidades mucho mayor que el de ingresos por expansión de margen y recompras de acciones.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Crecimiento relativamente estable gracias a la diversificacion de mercados finales (electronica, salud, alimentos, quimicos, metales) que amortigua la ciclicidad de cualquier sector individual, aunque no inmune (precios de helio en declive, ciclos de produccion industrial). Mucho mas estable que competidores mas concentrados en un solo vertical.",
+          "notas": "Crecimiento relativamente estable gracias a la diversificación de mercados finales (electronica, salud, alimentos, quimicos, metales) que amortigua la ciclicidad de cualquier sector individual, aunque no inmune (precios de helio en declive, ciclos de producción industrial). Mucho mas estable que competidores mas concentrados en un solo vertical.",
           "calificacion": 4
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Backlog de proyectos contratados de 8.1bn USD y en expansion (+1bn USD en el ultimo trimestre por una nueva victoria en electronica en EEUU), mas de 20 proyectos arrancando en el resto de 2026 (~1.3bn USD de inversion). Demanda estructural de electronica ligada a IA (segmento de mas rapido crecimiento), hidrogeno-descarbonizacion, y oportunidad de espacio comercial (>1bn USD a 2030).",
+          "notas": "Backlog de proyectos contratados de 8.1bn USD y en expansión (+1bn USD en el último trimestre por una nueva victoria en electronica en EEUU), mas de 20 proyectos arrancando en el resto de 2026 (~1.3bn USD de inversión). Demanda estructural de electronica ligada a IA (segmento de mas rápido crecimiento), hidrogeno-descarbonización, y oportunidad de espacio comercial (>1bn USD a 2030).",
           "calificacion": 5
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 10.49bn USD vs. Utilidad Neta TTM 7.24bn USD (ratio ~1.45x) - calidad de ganancias solida, el flujo de caja operativo excede comodamente la utilidad contable, sin senales de distorsion por partidas no monetarias relevantes.",
+          "notas": "OCF TTM 10.49bn USD vs. Utilidad Neta TTM 7.24bn USD (ratio ~1.45x) - calidad de ganancias sólida, el flujo de caja operativo excede comodamente la utilidad contable, sin señales de distorsión por partidas no monetarias relevantes.",
           "calificacion": 5
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 4.975bn USD vs. EBITDA TTM ~13.4bn USD implica conversion EBITDA->FCF de apenas ~37%, comprimida por el capex de crecimiento elevado (ver fila 37). Conversion normalizaria a ~52% si el capex retornara a niveles de 2022 (~10% de ventas).",
+          "notas": "FCF TTM 4.975bn USD vs. EBITDA TTM ~13.4bn USD implica conversión EBITDA->FCF de apenas ~37%, comprimida por el capex de crecimiento elevado (ver fila 37). Conversión normalizaria a ~52% si el capex retornara a niveles de 2022 (~10% de ventas).",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM 5.51bn USD = 15.5% de ventas, muy por encima del 9.6% de 2022 - capex de CRECIMIENTO financiando el backlog de proyectos contratados de 8.1bn USD (retornos garantizados por contrato por encima del WACC), no deterioro del negocio (mismo patron ya documentado con WMB/AMZN en la metodologia). El FCF reportado subestima la capacidad de generacion de caja normalizada del negocio mientras el backlog madura.",
+          "notas": "Capex TTM 5.51bn USD = 15.5% de ventas, muy por encima del 9.6% de 2022 - capex de CRECIMIENTO financiando el backlog de proyectos contratados de 8.1bn USD (retornos garantizados por contrato por encima del WACC), no deterioro del negocio (mismo patrón ya documentado con WMB/AMZN en la metodología). El FCF reportado subestima la capacidad de generación de caja normalizada del negocio mientras el backlog madura.",
           "calificacion": 4
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Asignacion de capital muy balanceada en los cuatro frentes: dividendos 2.88bn USD TTM (33 anios consecutivos de aumento), recompras 4.06bn USD TTM, reinversion en backlog contratado 5.51bn USD de capex, y deuda neta moderada (1.73x EBITDA) sin senales de sobre-apalancamiento para financiar el crecimiento.",
+          "notas": "Asignación de capital muy balanceada en los cuatro frentes: dividendos 2.88bn USD TTM (33 años consecutivos de aumento), recompras 4.06bn USD TTM, reinversión en backlog contratado 5.51bn USD de capex, y deuda neta moderada (1.73x EBITDA) sin señales de sobre-apalancamiento para financiar el crecimiento.",
           "calificacion": 5
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E 31.5x, EV/EBITDA ~18.5x, P/FCF ~45x - multiplos elevados vs. el propio historico de Linde y vs. peers directos (Air Products, Air Liquide suelen cotizar por debajo, en el rango 20-25x P/E). Prima de valoracion refleja la calidad del moat y el backlog, pero deja poco margen de error.",
+          "notas": "P/E 31.5x, EV/EBITDA ~18.5x, P/FCF ~45x - múltiplos elevados vs. el propio histórico de Linde y vs. peers directos (Air Products, Air Liquide suelen cotizar por debajo, en el rango 20-25x P/E). Prima de valoración refleja la calidad del moat y el backlog, pero deja poco margen de error.",
           "calificacion": 2
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Valor intrinseco DCF (Escenario A adoptado, conservador) = 331.4 USD/accion. Ver Dashboard columna Notas para el detalle completo de los tres escenarios calculados (A conservador, B sensibilidad alcista con growth consenso, C informativo con capex normalizado).",
+          "notas": "Valor intrínseco DCF (Escenario A adoptado, conservador) = 331.4 USD/acción. Ver Dashboard columna Notas para el detalle completo de los tres escenarios calculados (A conservador, B sensibilidad alcista con growth consenso, C informativo con capex normalizado).",
           "calificacion": 2
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad -32.1% (Escenario A adoptado) frente al precio actual de 488.13 USD. Rango completo entre escenarios: -32.1% (capex se mantiene elevado) a -1.15% (capex normaliza a ~10% de ventas) - la conclusion depende casi enteramente de la trayectoria futura del capex, no del growth rate.",
+          "notas": "Margen de Seguridad -32.1% (Escenario A adoptado) frente al precio actual de 488.13 USD. Rango completo entre escenarios: -32.1% (capex se mantiene elevado) a -1.15% (capex normaliza a ~10% de ventas) - la conclusión depende casi enteramente de la trayectoria futura del capex, no del growth rate.",
           "calificacion": 2
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado global de gases industriales ~100bn USD en 2023, creciendo a tasas de un digito medio a bajo doble digito hasta 2030, impulsado por electronica-IA, hidrogeno-descarbonizacion, y demanda de salud. Linde como lider esta bien posicionado para capturar una porcion desproporcionada de ese crecimiento via su backlog contratado.",
+          "notas": "Mercado global de gases industriales ~100bn USD en 2023, creciendo a tasas de un digito medio a bajo doble digito hasta 2030, impulsado por electronica-IA, hidrogeno-descarbonización, y demanda de salud. Linde como líder esta bien posicionado para capturar una porción desproporcionada de ese crecimiento via su backlog contratado.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Barreras de entrada muy altas: intensidad de capital extrema (plantas de separacion de aire y redes de pipelines cuestan cientos de millones-miles de millones de USD), contratos de largo plazo que bloquean clientes existentes, expertise tecnico especializado (gases de electronica de alta pureza), y densidad logistica que un nuevo entrante no puede replicar rapido.",
+          "notas": "Barreras de entrada muy altas: intensidad de capital extrema (plantas de separación de aire y redes de pipelines cuestan cientos de millones-miles de millones de USD), contratos de largo plazo que bloquean clientes existentes, expertise técnico especializado (gases de electronica de alta pureza), y densidad logistica que un nuevo entrante no puede replicar rápido.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad: alta entre los 3 grandes (Linde, Air Liquide, Air Products) en renovaciones de contratos y electronica. Poder de clientes: bajo (switching costs altisimos via contratos on-site/take-or-pay). Poder de proveedores: moderado (energia, mitigado por pass-through contractual). Nuevos entrantes: amenaza baja (barreras de capital-escala). Sustitutos: amenaza baja (gases industriales no tienen sustituto directo para la mayoria de aplicaciones).",
+          "notas": "Rivalidad: alta entre los 3 grandes (Linde, Air Liquide, Air Products) en renovaciones de contratos y electronica. Poder de clientes: bajo (switching costs altisimos via contratos on-site/take-or-pay). Poder de proveedores: moderado (energía, mitigado por pass-through contractual). Nuevos entrantes: amenaza baja (barreras de capital-escala). Sustitutos: amenaza baja (gases industriales no tienen sustituto directo para la mayoría de aplicaciones).",
           "calificacion": 4
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Ciclicidad moderada-baja: ligada a produccion industrial global pero amortiguada por la diversificacion de mercados finales (electronica, salud, alimentos son menos ciclicos que metales-mineria o quimicos-energia). Mas estable que un industrial ciclico puro, pero no inmune (precios de helio en declive, volumenes base debiles en 2025).",
+          "notas": "Ciclicidad moderada-baja: ligada a producción industrial global pero amortiguada por la diversificación de mercados finales (electronica, salud, alimentos son menos ciclicos que metales-mineria o quimicos-energía). Mas estable que un industrial ciclico puro, pero no inmune (precios de helio en declive, volumenes base débiles en 2025).",
           "calificacion": 4
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo regulatorio-politico diversificado globalmente (Americas, EMEA, APAC). Salida limpia y ordenada de Rusia en 2022 (~1% de ventas, deconsolidado sin perdida material de control). Exposicion a regulacion de carbono/emisiones que puede ser tanto costo (cumplimiento) como oportunidad (subsidios a hidrogeno-captura de carbono, ya monetizados via el segmento de descarbonizacion).",
+          "notas": "Riesgo regulatorio-politico diversificado globalmente (Americas, EMEA, APAC). Salida limpia y ordenada de Rusia en 2022 (~1% de ventas, deconsolidado sin pérdida material de control). Exposición a regulación de carbono/emisiones que puede ser tanto costo (cumplimiento) como oportunidad (subsidios a hidrogeno-captura de carbono, ya monetizados via el segmento de descarbonización).",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion real a tipo de cambio EUR/GBP (EMEA) y monedas de APAC via traduccion de resultados - la fortaleza del Euro y la Libra contribuyo positivamente a las ventas de EMEA en 2025, lo que implica el riesgo inverso tambien es real. Mitigado parcialmente por produccion-venta local (hedge natural operativo) en la mayoria de mercados.",
+          "notas": "Exposición real a tipo de cambio EUR/GBP (EMEA) y monedas de APAC via traducción de resultados - la fortaleza del Euro y la Libra contribuyo positivamente a las ventas de EMEA en 2025, lo que implica el riesgo inverso también es real. Mitigado parcialmente por producción-venta local (hedge natural operativo) en la mayoría de mercados.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Sin concentracion de clientes individuales relevante (miles de contratos on-site y merchant distribuidos globalmente). Concentracion de proveedores principalmente en energia (gas natural, electricidad), mitigada por clausulas de pass-through en la mayoria de contratos de largo plazo.",
+          "notas": "Sin concentración de clientes individuales relevante (miles de contratos on-site y merchant distribuidos globalmente). Concentración de proveedores principalmente en energía (gas natural, electricidad), mitigada por clausulas de pass-through en la mayoría de contratos de largo plazo.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo tecnologico bajo para el core de gases industriales (fisica de separacion de aire dificil de disrumpir). La transicion a hidrogeno verde-azul introduce riesgo de ejecucion tecnologica y de timing (ver retraso del proyecto Woodside a 1T 2027), pero Linde participa como proveedor de la solucion, no como incumbente amenazado.",
+          "notas": "Riesgo tecnologico bajo para el core de gases industriales (física de separación de aire difícil de disrumpir). La transición a hidrogeno verde-azul introduce riesgo de ejecución tecnologica y de timing (ver retraso del proyecto Woodside a 1T 2027), pero Linde participa como proveedor de la solución, no como incumbente amenazado.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Gran consumidor de energia y emisor de GEI (separacion de aire y reformado de metano con vapor para hidrogeno son procesos intensivos en energia) - pero Linde se posiciona activamente como proveedor de soluciones de descarbonizacion (hidrogeno, captura de carbono) para otros sectores. Reduccion de 10% en emisiones absolutas vs. base 2021 ya lograda hacia la meta de -35% a 2035.",
+          "notas": "Gran consumidor de energía y emisor de GEI (separación de aire y reformado de metano con vapor para hidrogeno son procesos intensivos en energía) - pero Linde se posiciona activamente como proveedor de soluciones de descarbonización (hidrogeno, captura de carbono) para otros sectores. Reducción de 10% en emisiones absolutas vs. base 2021 ya lograda hacia la meta de -35% a 2035.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Catalizadores mixtos en el corto plazo: arranque de mas de 20 proyectos del backlog en el resto de 2026 (~1.3bn USD), pero el retraso del proyecto de secuestro de hidrogeno de Woodside a 1T 2027 y la revision estrategica en curso de Lincare (resultado incierto) agregan incertidumbre a los proximos 2-3 trimestres.",
+          "notas": "Catalizadores mixtos en el corto plazo: arranque de mas de 20 proyectos del backlog en el resto de 2026 (~1.3bn USD), pero el retraso del proyecto de secuestro de hidrogeno de Woodside a 1T 2027 y la revisión estratégica en curso de Lincare (resultado incierto) agregan incertidumbre a los proximos 2-3 trimestres.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Compra reciente de acciones por el CEO Sanjiv Lamba (999k USD) es una senal positiva de confianza tras asumir tambien el rol de Chairman, pero el conjunto de insiders fue vendedor neto por 5.7M USD en los ultimos 12 meses - senal mixta, sin alarma.",
+          "notas": "Compra reciente de acciones por el CEO Sanjiv Lamba (999k USD) es una señal positiva de confianza tras asumir también el rol de Chairman, pero el conjunto de insiders fue vendedor neto por 5.7M USD en los últimos 12 meses - señal mixta, sin alarma.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura amplia y favorable: 27 analistas con calificacion de Compra en consenso, precio objetivo promedio 547.80 USD (+12.22% sobre el precio actual) - notablemente mas optimista que los tres escenarios del DCF bottom-up (-32.1% a -1.15%), reflejo probable de que el consenso pondera mas la calidad del moat y el backlog que el nivel actual comprimido de FCF.",
+          "notas": "Cobertura amplia y favorable: 27 analistas con calificación de Compra en consenso, precio objetivo promedio 547.80 USD (+12.22% sobre el precio actual) - notablemente mas optimista que los tres escenarios del DCF bottom-up (-32.1% a -1.15%), reflejo probable de que el consenso pondera mas la calidad del moat y el backlog que el nivel actual comprimido de FCF.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.891891891891892,
-    "recomendacion": "MANTENER, NO ABRIR NUEVA POSICION - negocio de calidad excepcional (moat de oligopolio, backlog contratado en expansion, ROIC muy por encima del WACC, 33 anios de dividendo creciente) pero el DCF conservador muestra sobrevaloracion (-32.1% con FCF TTM literal) que solo se revierte a neutro si se asume que el capex de crecimiento actual (15.5% de ventas) es temporal y normaliza a niveles historicos (~10%). Genuina incertidumbre sobre la trayectoria del capex (backlog de 8.1bn USD sigue creciendo, sin senales claras de desaceleracion) hace prematuro tanto comprar como vender de forma agresiva. Reevaluar cuando se resuelva la revision estrategica de Lincare y/o cuando el backlog empiece a mostrar signos de maduracion (menor ritmo de nuevas adiciones).",
-    "tesis": "Lider global de gases industriales con moat de oligopolio dificil de replicar y backlog contratado en expansion, pero el capex de crecimiento actual comprime tanto el FCF que la valoracion solo luce razonable si ese capex resulta ser temporal."
+    "recomendacion": "MANTENER, NO ABRIR NUEVA POSISIÓN - negocio de calidad excepcional (moat de oligopolio, backlog contratado en expansión, ROIC muy por encima del WACC, 33 años de dividendo creciente) pero el DCF conservador muestra sobrevaloración (-32.1% con FCF TTM literal) que solo se revierte a neutro si se asume que el capex de crecimiento actual (15.5% de ventas) es temporal y normaliza a niveles históricos (~10%). Genuina incertidumbre sobre la trayectoria del capex (backlog de 8.1bn USD sigue creciendo, sin señales claras de desaceleración) hace prematuro tanto comprar como vender de forma agresiva. Reevaluar cuando se resuelva la revisión estratégica de Lincare y/o cuando el backlog empiece a mostrar signos de maduración (menor ritmo de nuevas adiciones).",
+    "tesis": "Líder global de gases industriales con moat de oligopolio difícil de replicar y backlog contratado en expansión, pero el capex de crecimiento actual comprime tanto el FCF que la valoración solo luce razonable si ese capex resulta ser temporal."
   }
 }

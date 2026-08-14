@@ -1,36 +1,36 @@
 {
   "nombre": "iShares Core MSCI Emerging Markets ETF",
   "ticker": "IEMG",
-  "categoria": "Equity Indice Amplio (TODOS los mercados emergentes, MSCI EM IMI, serie Core de BlackRock - el fondo PADRE natural de todo el cluster de pais unico EM del proyecto)",
+  "categoria": "Equity Índice Amplio (TODOS los mercados emergentes, MSCI EM IMI, serie Core de BlackRock - el fondo PADRE natural de todo el cluster de pais único EM del proyecto)",
   "emisor": "BlackRock (iShares)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA por MUESTREO OPTIMIZADO - necesaria dado el tamano extremo del universo (2,780-3,224 holdings).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA por MUESTREO OPTIMIZADO - necesaria dado el tamaño extremo del universo (2,780-3,224 holdings).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, exposicion a DECENAS de paises emergentes simultaneamente - riesgo cambiario MULTI-DIVISA EXTREMO (mas de 20 monedas distintas) sin cobertura + retencion fiscal variable por pais + riesgo VIE especifico para las empresas chinas del fondo (Tencent, Alibaba, ya documentado con YINN/MCHI/FXI).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, exposición a DECENAS de paises emergentes simultaneamente - riesgo cambiario MULTI-DIVISA EXTREMO (mas de 20 monedas distintas) sin cobertura + retención fiscal variable por pais + riesgo VIE específico para las empresas chinas del fondo (Tencent, Alibaba, ya documentado con YINN/MCHI/FXI).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$134.61-156.56bn (stockanalysis $156.56bn, Trackinsight EUR134.61bn~$146bn) - **EL FONDO MAS GRANDE DE TODO EL PROYECTO**, sin comparacion cercana (supera incluso a VUG $229.61bn... en realidad no, VUG es mayor - pero SI es el mas grande de todos los fondos de mercados emergentes/nueva geografia del proyecto por un margen enorme).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$134.61-156.56bn (stockanalysis $156.56bn, Trackinsight EUR134.61bn~$146bn) - **EL FONDO MAS GRANDE DE TODO EL PROYECTO**, sin comparación cercana (supera incluso a VUG $229.61bn... en realidad no, VUG es mayor - pero SI es el mas grande de todos los fondos de mercados emergentes/nueva geografia del proyecto por un margen enorme).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 18-oct-2012 (~13.8 anios) - **MISMA FECHA EXACTA que IXUS** (ambos parte del lanzamiento original de la serie 'Core' de BlackRock el mismo dia). Cubre el 'taper tantrum' 2013, la crisis de commodities 2014-2016, el crackdown regulatorio chino 2021-2022, COVID 2020, y el rally reciente.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 18-oct-2012 (~13.8 años) - **MISMA FECHA EXACTA que IXUS** (ambos parte del lanzamiento original de la serie 'Core' de BlackRock el mismo dia). Cubre el 'taper tantrum' 2013, la crisis de commodities 2014-2016, el crackdown regulatorio chino 2021-2022, COVID 2020, y el rally reciente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - DECIMOCTAVA aparicion en el proyecto, TERCERA vez como fondo de la serie 'Core' de bajo costo (tras IXUS, IEUR).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMOCTAVA aparición en el proyecto, TERCERA vez como fondo de la serie 'Core' de bajo costo (tras IXUS, IEUR).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.09% - **MUY BARATO**, mismo nivel que IXUS/IEUR (serie Core), **notablemente mas barato que CUALQUIER fondo de pais unico emergente del proyecto** (INDA 0.61%, EWZ/EWY/EWT/MCHI 0.59%, ASHR 0.65%, ILF 0.47%).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.09% - **MUY BARATO**, mismo nivel que IXUS/IEUR (serie Core), **notablemente mas barato que CUALQUIER fondo de pais único emergente del proyecto** (INDA 0.61%, EWZ/EWY/EWT/MCHI 0.59%, ASHR 0.65%, ILF 0.47%).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice MSCI Emerging Markets IMI - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria especifica de IEMG esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice MSCI Emerging Markets IMI - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria específica de IEMG esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario promedio no verificado con cifra exacta en USD esta sesion, aunque el AUM masivo y la descripcion cualitativa de liquidez sugieren un volumen muy alto.",
+          "notas": "Volumen diario promedio no verificado con cifra exacta en USD esta sesión, aunque el AUM masivo y la descripción cualitativa de liquidez sugieren un volumen muy alto.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask = 0.01-0.03% - **EXTREMADAMENTE AJUSTADO**, descrito explicitamente como uno de los ETFs de mercados emergentes MAS LIQUIDOS que existen (junto a VWO/SCHE).",
+          "notas": "Spread bid-ask = 0.01-0.03% - **EXTREMADAMENTE AJUSTADO**, descrito explícitamente como uno de los ETFs de mercados emergentes MAS LIQUIDOS que existen (junto a VWO/SCHE).",
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 4.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "2,780 (Trackinsight) a 3,224 (stockanalysis) holdings - **EL NUMERO MAS ALTO DE CUALQUIER FONDO EMERGENTE DEL PROYECTO** por un margen enorme (el anterior record EM era MCHI, 574-582).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "2,780 (Trackinsight) a 3,224 (stockanalysis) holdings - **EL NÚMERO MAS ALTO DE CUALQUIER FONDO EMERGENTE DEL PROYECTO** por un margen enorme (el anterior récord EM era MCHI, 574-582).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 sin sumar completamente en las fuentes consultadas, pero **Taiwan Semiconductor (TSM) solo ya representa 13.10-13.22% del fondo COMPLETO** - una concentracion de UN SOLO NOMBRE notablemente alta incluso dentro de un universo de 2,780+ holdings, reflejo del peso extraordinario de TSMC en el indice EM global.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 sin sumar completamente en las fuentes consultadas, pero **Taiwan Semiconductor (TSM) solo ya representa 13.10-13.22% del fondo COMPLETO** - una concentración de UN SOLO NOMBRE notablemente alta incluso dentro de un universo de 2,780+ holdings, reflejo del peso extraordinario de TSMC en el índice EM global.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Technology 45.41% (maximo) - **ALTO para un fondo nominalmente 'amplio' de mercados emergentes**, refleja el peso estructural extremo de los semiconductores asiaticos (TSMC, Samsung, SK hynix) dentro del universo EM completo, no solo dentro de fondos de pais unico como EWT/EWY.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Technology 45.41% (máximo) - **ALTO para un fondo nominalmente 'amplio' de mercados emergentes**, refleja el peso estructural extremo de los semiconductores asiaticos (TSMC, Samsung, SK hynix) dentro del universo EM completo, no solo dentro de fondos de pais único como EWT/EWY.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Exposicion a DECENAS de paises emergentes (Taiwan, Corea del Sur y China como principales segun iShares) - diversificacion regional GENUINA (mucho mas amplia que cualquier fondo de pais unico o incluso ILF), aunque con concentracion de PAIS de facto probablemente muy alta (Taiwan+Corea+China posiblemente mayoria del fondo dado el peso combinado de TSM+Samsung+SK hynix+Tencent+Alibaba).",
+          "aspecto": "Concentración geográfica",
+          "notas": "Exposición a DECENAS de paises emergentes (Taiwan, Corea del Sur y China como principales según iShares) - diversificación regional GENUINA (mucho mas amplia que cualquier fondo de pais único o incluso ILF), aunque con concentración de PAIS de facto probablemente muy alta (Taiwan+Corea+China posiblemente mayoría del fondo dado el peso combinado de TSM+Samsung+SK hynix+Tencent+Alibaba).",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Blend amplio de TODO el universo de mercados emergentes, aunque con sesgo tech pronunciado por CONSTRUCCION del propio universo (los mercados emergentes de Asia oriental son estructuralmente tech-heavy, no es una eleccion activa del fondo).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Blend amplio de TODO el universo de mercados emergentes, aunque con sesgo tech pronunciado por CONSTRUCSIÓN del propio universo (los mercados emergentes de Asia oriental son estructuralmente tech-heavy, no es una elección activa del fondo).",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MSCI Emerging Markets IMI - el indice de referencia MAS AMPLIO y reconocido de mercados emergentes globales, incluye small-cap, proveedor MSCI (mismo que IXUS/ACWX/EWC/INDA/IEUR en el proyecto).",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MSCI Emerging Markets IMI - el índice de referencia MAS AMPLIO y reconocido de mercados emergentes globales, incluye small-cap, proveedor MSCI (mismo que IXUS/ACWX/EWC/INDA/IEUR en el proyecto).",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de IEMG esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de IEMG esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 10Y anualizado = 10.12% - **EL MEJOR RETORNO 10Y DE CUALQUIER FONDO EMERGENTE 'DIVERSIFICADO' DEL PROYECTO** (mejor que MCHI 4.51%). 2025 = +32.12%, 2026 YTD = +18.3% - fuerte pero MUCHO MENOS EXTREMO que las cifras de superciclo puro de EWT (+81.30% 1Y) o EWY (+120.61% 1Y), reflejo directo de como la diversificacion diluye el efecto concentrado del rally de semiconductores.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 10Y anualizado = 10.12% - **EL MEJOR RETORNO 10Y DE CUALQUIER FONDO EMERGENTE 'DIVERSIFICADO' DEL PROYECTO** (mejor que MCHI 4.51%). 2025 = +32.12%, 2026 YTD = +18.3% - fuerte pero MUCHO MENOS EXTREMO que las cifras de superciclo puro de EWT (+81.30% 1Y) o EWY (+120.61% 1Y), reflejo directo de como la diversificación diluye el efecto concentrado del rally de semiconductores.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad = 10.46% - **NOTABLEMENTE MAS BAJA que CUALQUIER fondo de pais unico emergente del proyecto** (EWT 13.69-23.50%, INDA 13-17%), evidencia clara y cuantificable del beneficio de diversificacion amplia frente a la concentracion de pais unico.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad = 10.46% - **NOTABLEMENTE MAS BAJA que CUALQUIER fondo de pais único emergente del proyecto** (EWT 13.69-23.50%, INDA 13-17%), evidencia clara y cuantificable del beneficio de diversificación amplia frente a la concentración de pais único.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -38.71% desde inception - **NOTABLEMENTE MENOS SEVERO que CUALQUIER fondo de pais unico emergente del proyecto** (EWZ -77.25%, EWT -64.37%, EWY -70.13%, INDA -45.07%) - la diversificacion amplia REALMENTE amortiguo las crisis especificas de pais que devastaron a los fondos individuales analizados en este workbook.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -38.71% desde inception - **NOTABLEMENTE MENOS SEVERO que CUALQUIER fondo de pais único emergente del proyecto** (EWZ -77.25%, EWT -64.37%, EWY -70.13%, INDA -45.07%) - la diversificación amplia REALMENTE amortiguo las crisis específicas de pais que devastaron a los fondos individuales analizados en este workbook.",
           "calificacion": 4
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio: 1.65 (12 meses) a 2.28 (otra fuente, tambien 12 meses) - ambas cifras recientes/infladas por el rally, mismo gotcha ya documentado repetidamente. Sin cifra de largo plazo confiable encontrada esta sesion.",
+          "notas": "Sharpe Ratio: 1.65 (12 meses) a 2.28 (otra fuente, también 12 meses) - ambas cifras recientes/infladas por el rally, mismo gotcha ya documentado repetidamente. Sin cifra de largo plazo confiable encontrada esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.74 - moderado. **OVERLAP CONFIRMADO Y SEVERO, EL MAS GRANDE EN TERMINOS ABSOLUTOS DE TODO EL PROYECTO**: Taiwan Semiconductor (13.10-13.22%, YA analizado individualmente con Recomendacion NO COMPRAR por superciclo IA) + SK hynix (3.98-6.70%, YA analizado individualmente con Recomendacion NO COMPRAR por el mismo motivo) + Alibaba (1.41-1.87%, YA analizado individualmente) = **~19-21% DEL FONDO COMPLETO en overlap confirmado**, con DOS de esos tres nombres ya explicitamente marcados como sobrevalorados por el propio analisis fundamental del usuario - el overlap de mayor magnitud absoluta (no solo porcentual) de todo el proyecto, dado el tamano masivo del fondo.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.74 - moderado. **OVERLAP CONFIRMADO Y SEVERO, EL MAS GRANDE EN TÉRMINOS ABSOLUTOS DE TODO EL PROYECTO**: Taiwan Semiconductor (13.10-13.22%, YA analizado individualmente con Recomendación NO COMPRAR por superciclo IA) + SK hynix (3.98-6.70%, YA analizado individualmente con Recomendación NO COMPRAR por el mismo motivo) + Alibaba (1.41-1.87%, YA analizado individualmente) = **~19-21% DEL FONDO COMPLETO en overlap confirmado**, con DOS de esos tres nombres ya explícitamente marcados como sobrevalorados por el propio analisis fundamental del usuario - el overlap de mayor magnitud absoluta (no solo porcentual) de todo el proyecto, dado el tamaño masivo del fondo.",
           "calificacion": 1
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "13.8 anios de historial cubren el 'taper tantrum' 2013, la crisis de commodities 2014-2016, el crackdown regulatorio chino 2021-2022, COVID 2020, y el rally reciente - cobertura amplia aunque de ventana mas corta que muchos otros fondos del proyecto.",
+          "notas": "13.8 años de historial cubren el 'taper tantrum' 2013, la crisis de commodities 2014-2016, el crackdown regulatorio chino 2021-2022, COVID 2020, y el rally reciente - cobertura amplia aunque de ventana mas corta que muchos otros fondos del proyecto.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 17.19x - moderado, similar al cluster europeo del proyecto (~17x). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 17.19x - moderado, similar al cluster europeo del proyecto (~17x). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 2.24% - moderado. Distribucion SEMESTRAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 2.24% - moderado. Distribución SEMESTRAL.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion IMPLICITA con TODOS los fondos de pais unico emergente ya en el workbook (INDA, ILF, EWZ, EWY, EWT, ASHR, MCHI, FXI) - IEMG es el fondo 'PADRE' natural que los contiene a todos parcialmente, con un perfil de riesgo (volatilidad, Max Drawdown) MUCHO MEJOR que cualquiera de ellos individualmente, gracias a la diversificacion. PERO el mismo riesgo de valoracion de TSM/SK hynix sigue presente, solo que diluido proporcionalmente en vez de concentrado. Alternativas identificadas sin verificar: VWO (Vanguard FTSE Emerging Markets, competidor directo clasico, mismo patron Vanguard-vs-iShares-Core ya visto extensamente en el cluster ex-US con VEU/IXUS), SCHE (Schwab Emerging Markets). | ACTUALIZACION posterior (VWO, fila 64): competidor Vanguard directo, LIGERAMENTE SUPERIOR a IEMG en Score (3.82 vs 3.73) - mas barato (0.06% vs 0.09%), mas holdings (5,077 vs 3,224, record del proyecto), y CRUCIALMENTE excluye a Corea del Sur (clasificacion FTSE Developed vs MSCI Emerging), eliminando por completo el overlap de SK hynix que penaliza a IEMG. Pero TSM pesa PROPORCIONALMENTE MAS en VWO (14.66-15.61% vs 13.10-13.22%) por la exclusion de Corea del denominador, y VWO tiene mayor volatilidad/drawdown historico (explicado por su ventana mas larga que SI incluye la Crisis 2008). Mismo patron Vanguard-vs-iShares-Core ya visto con VEU/VGK. Ver Ficha VWO fila 50 para el detalle completo. | ACTUALIZACION posterior (EEM, fila 65): fondo EM amplio PRE-serie Core (2003), tercer lugar en eficiencia del trio (mas caro 0.72%, menos holdings 1,179-1,226, overlap MAS concentrado via TSM+SK hynix ~22-25%). Conserva la mejor liquidez institucional del trio (vehiculo de referencia de opciones/trading de gran volumen) y el track record mas largo (23.3 anios). IEMG sigue siendo mas eficiente para un inversor de largo plazo. Ver Ficha EEM fila 50.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación IMPLÍCITA con TODOS los fondos de pais único emergente ya en el workbook (INDA, ILF, EWZ, EWY, EWT, ASHR, MCHI, FXI) - IEMG es el fondo 'PADRE' natural que los contiene a todos parcialmente, con un perfil de riesgo (volatilidad, Max Drawdown) MUCHO MEJOR que cualquiera de ellos individualmente, gracias a la diversificación. PERO el mismo riesgo de valoración de TSM/SK hynix sigue presente, solo que diluido proporcionalmente en vez de concentrado. Alternativas identificadas sin verificar: VWO (Vanguard FTSE Emerging Markets, competidor directo clasico, mismo patrón Vanguard-vs-iShares-Core ya visto extensamente en el cluster ex-US con VEU/IXUS), SCHE (Schwab Emerging Markets). | ACTUALIZASIÓN posterior (VWO, fila 64): competidor Vanguard directo, LIGERAMENTE SUPERIOR a IEMG en Score (3.82 vs 3.73) - mas barato (0.06% vs 0.09%), mas holdings (5,077 vs 3,224, récord del proyecto), y CRUCIALMENTE excluye a Corea del Sur (clasificación FTSE Developed vs MSCI Emerging), eliminando por completo el overlap de SK hynix que penaliza a IEMG. Pero TSM pesa PROPORCIONALMENTE MAS en VWO (14.66-15.61% vs 13.10-13.22%) por la exclusión de Corea del denominador, y VWO tiene mayor volatilidad/drawdown histórico (explicado por su ventana mas larga que SI incluye la Crisis 2008). Mismo patrón Vanguard-vs-iShares-Core ya visto con VEU/VGK. Ver Ficha VWO fila 50 para el detalle completo. | ACTUALIZASIÓN posterior (EEM, fila 65): fondo EM amplio PRE-serie Core (2003), tercer lugar en eficiencia del trio (mas caro 0.72%, menos holdings 1,179-1,226, overlap MAS concentrado via TSM+SK hynix ~22-25%). Conserva la mejor liquidez institucional del trio (vehículo de referencia de opciones/trading de gran volumen) y el track record mas largo (23.3 años). IEMG sigue siendo mas eficiente para un inversor de largo plazo. Ver Ficha EEM fila 50.",
           "calificacion": 4
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Core** (no Satelite) - dado lo extremadamente amplio y diversificado del fondo (2,780+ holdings, decenas de paises), esto se acerca mucho mas al rol de diversificador Core ya usado con VXUS/IXUS/ACWX/VEU que al rol Satelite tipico de los fondos de pais unico/regional del proyecto - PRIMERA vez que un fondo del reciente cluster de mercados emergentes califica para este rol.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Core** (no Satélite) - dado lo extremadamente amplio y diversificado del fondo (2,780+ holdings, decenas de paises), esto se acerca mucho mas al rol de diversificador Core ya usado con VXUS/IXUS/ACWX/VEU que al rol Satélite típico de los fondos de pais único/regional del proyecto - PRIMERA vez que un fondo del reciente cluster de mercados emergentes califica para este rol.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: la forma MAS EFICIENTE y diversificada de acceder a TODA la oportunidad de mercados emergentes en un solo vehiculo de muy bajo costo, con un perfil de riesgo/drawdown sustancialmente mejor que cualquier apuesta de pais unico ya analizada en este workbook - pero el riesgo de concentracion en semiconductores asiaticos (via TSM/Samsung/SK hynix) sigue siendo real, solo que diluido en vez de eliminado.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: la forma MAS EFICIENTE y diversificada de acceder a TODA la oportunidad de mercados emergentes en un solo vehículo de muy bajo costo, con un perfil de riesgo/drawdown sustancialmente mejor que cualquier apuesta de pais único ya analizada en este workbook - pero el riesgo de concentración en semiconductores asiaticos (via TSM/Samsung/SK hynix) sigue siendo real, solo que diluido en vez de eliminado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) OVERLAP SEVERO Y DE GRAN MAGNITUD ABSOLUTA via TSM+SK hynix+Alibaba (~19-21% del fondo completo, dos de esos tres nombres ya marcados NO COMPRAR individualmente); (2) riesgo cambiario multi-divisa extremo (mas de 20 monedas); (3) riesgo VIE (empresas chinas del fondo); (4) concentracion de PAIS de facto alta (Taiwan+Corea+China probablemente mayoria del fondo pese a la diversificacion nominal de 'todos los mercados emergentes'); (5) riesgo geopolitico Taiwan-China diluido pero presente.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) OVERLAP SEVERO Y DE GRAN MAGNITUD ABSOLUTA via TSM+SK hynix+Alibaba (~19-21% del fondo completo, dos de esos tres nombres ya marcados NO COMPRAR individualmente); (2) riesgo cambiario multi-divisa extremo (mas de 20 monedas); (3) riesgo VIE (empresas chinas del fondo); (4) concentración de PAIS de facto alta (Taiwan+Corea+China probablemente mayoría del fondo pese a la diversificación nominal de 'todos los mercados emergentes'); (5) riesgo geopolítico Taiwan-China diluido pero presente.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "VWO (Vanguard FTSE Emerging Markets, competidor directo clasico) y SCHE (Schwab Emerging Markets) identificados como candidatos sin datos propios verificados. VWO (fila 64) tambien verificado - ligeramente superior a IEMG, excluye Corea del Sur, ver comparacion en su Ficha. EEM (fila 65) tambien verificado - dominado en eficiencia pero con la mejor liquidez institucional del trio, ver comparacion en su Ficha.",
+          "notas": "VWO (Vanguard FTSE Emerging Markets, competidor directo clasico) y SCHE (Schwab Emerging Markets) identificados como candidatos sin datos propios verificados. VWO (fila 64) también verificado - ligeramente superior a IEMG, excluye Corea del Sur, ver comparación en su Ficha. EEM (fila 65) también verificado - dominado en eficiencia pero con la mejor liquidez institucional del trio, ver comparación en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.73/5 - el MEJOR resultado de cualquier fondo de mercados emergentes 'diversificado' del proyecto, y el fondo mas grande de todo el proyecto por AUM (~$134.61-156.56bn). IEMG es el fondo PADRE natural de todo el cluster de pais unico emergente ya analizado en este workbook (INDA, ILF, EWZ, EWY, EWT, ASHR, MCHI, FXI): con 2,780-3,224 holdings y exposicion a decenas de paises, ofrece un perfil de riesgo NOTABLEMENTE MEJOR que cualquiera de esos fondos individuales - volatilidad (10.46%) y Max Drawdown (-38.71%) muy por debajo de EWZ (-77.25%), EWT (-64.37%), EWY (-70.13%) o INDA (-45.07%), evidencia cuantificable del beneficio real de la diversificacion amplia frente a la concentracion de pais unico. El TER (0.09%) es el mas barato de cualquier fondo emergente del proyecto por un margen enorme. Sin embargo, el overlap sigue siendo real y de gran magnitud ABSOLUTA: Taiwan Semiconductor (13.10-13.22%) + SK hynix (3.98-6.70%) + Alibaba (1.41-1.87%) suman ~19-21% del fondo COMPLETO, y DOS de esos tres nombres (TSM, SK hynix) ya fueron marcados individualmente como NO COMPRAR por asumir continuidad del superciclo de IA - el mismo riesgo de valoracion que penalizo a EWY/EWT esta presente aqui, solo que DILUIDO en vez de concentrado gracias a los miles de holdings adicionales. Rol en Portafolio: Core (a diferencia del rol Satelite tipico de los fondos de pais unico/regional del proyecto, dado lo extremadamente amplio de su cobertura). Competidores identificados sin verificar: VWO (Vanguard, competidor directo clasico), SCHE (Schwab)."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.73/5 - el MEJOR resultado de cualquier fondo de mercados emergentes 'diversificado' del proyecto, y el fondo mas grande de todo el proyecto por AUM (~$134.61-156.56bn). IEMG es el fondo PADRE natural de todo el cluster de pais único emergente ya analizado en este workbook (INDA, ILF, EWZ, EWY, EWT, ASHR, MCHI, FXI): con 2,780-3,224 holdings y exposición a decenas de paises, ofrece un perfil de riesgo NOTABLEMENTE MEJOR que cualquiera de esos fondos individuales - volatilidad (10.46%) y Max Drawdown (-38.71%) muy por debajo de EWZ (-77.25%), EWT (-64.37%), EWY (-70.13%) o INDA (-45.07%), evidencia cuantificable del beneficio real de la diversificación amplia frente a la concentración de pais único. El TER (0.09%) es el mas barato de cualquier fondo emergente del proyecto por un margen enorme. Sin embargo, el overlap sigue siendo real y de gran magnitud ABSOLUTA: Taiwan Semiconductor (13.10-13.22%) + SK hynix (3.98-6.70%) + Alibaba (1.41-1.87%) suman ~19-21% del fondo COMPLETO, y DOS de esos tres nombres (TSM, SK hynix) ya fueron marcados individualmente como NO COMPRAR por asumir continuidad del superciclo de IA - el mismo riesgo de valoración que penalizo a EWY/EWT esta presente aquí, solo que DILUIDO en vez de concentrado gracias a los miles de holdings adicionales. Rol en Portafolio: Core (a diferencia del rol Satélite típico de los fondos de pais único/regional del proyecto, dado lo extremadamente amplio de su cobertura). Competidores identificados sin verificar: VWO (Vanguard, competidor directo clasico), SCHE (Schwab)."
   }
 }

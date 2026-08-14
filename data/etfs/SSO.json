@@ -1,36 +1,36 @@
 {
   "nombre": "ProShares Ultra S&P500",
   "ticker": "SSO",
-  "categoria": "Equity Indice Amplio Apalancado/Inverso (+2x diario sobre el S&P 500 via swaps/futuros - DECIMO apalancado/inverso del proyecto, EL MAS GRANDE y ANTIGUO de la categoria, unico que cubre la Crisis 2008 directamente)",
+  "categoria": "Equity Índice Amplio Apalancado/Inverso (+2x diario sobre el S&P 500 via swaps/futuros - DECIMO apalancado/inverso del proyecto, EL MAS GRANDE y ANTIGUO de la categoría, único que cubre la Crisis 2008 directamente)",
   "emisor": "ProShares",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica SINTETICA via swaps con OCHO contrapartes bancarias nombradas (Goldman Sachs, Citibank, BNP Paribas, UBS, Barclays, Societe Generale, JPMorgan, Bank of America) mas futuros E-mini S&P 500 - **la estructura de contraparte MAS COMPLEJA de todo el proyecto** (supera a UDOW, 6 bancos).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica SINTETICA via swaps con OCHO contrapartes bancarias nombradas (Goldman Sachs, Citibank, BNP Paribas, UBS, Barclays, Societe Generale, JPMorgan, Bank of America) mas futuros E-mini S&P 500 - **la estructura de contraparte MAS COMPLEJA de todo el proyecto** (supera a UDOW, 6 bancos).",
           "calificacion": 2
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - misma complejidad fiscal que el resto de la linea apalancada.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - misma complejidad fiscal que el resto de la línea apalancada.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM $8.31bn - **EL MAS GRANDE de CUALQUIER instrumento apalancado/inverso del proyecto** (casi 9x UDOW, $944.80M).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 19/21-jun-2006 (~20 anios) - **EL MAS ANTIGUO de TODA la categoria apalancada del proyecto** (mas que UDOW/SDOW 2010, mas que cualquier apalancado de materias primas 2008-2011), **UNICO que cubre la Crisis Financiera 2008 DIRECTAMENTE** dentro de su historia como fondo apalancado sobre acciones.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 19/21-jun-2006 (~20 años) - **EL MAS ANTIGUO de TODA la categoría apalancada del proyecto** (mas que UDOW/SDOW 2010, mas que cualquier apalancado de materias primas 2008-2011), **ÚNICO que cubre la Crisis Financiera 2008 DIRECTAMENTE** dentro de su historia como fondo apalancado sobre acciones.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor ProShares - DECIMA aparicion de la linea apalancada/inversa del proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor ProShares - DECIMA aparición de la línea apalancada/inversa del proyecto.",
           "calificacion": 4
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.87-0.89% - **LIGERAMENTE MAS BARATO** que el estandar 0.95% del resto de la linea apalancada de ProShares - primera desviacion de precio a la baja en esta categoria del proyecto.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.87-0.89% - **LIGERAMENTE MAS BARATO** que el estándar 0.95% del resto de la línea apalancada de ProShares - primera desviación de precio a la baja en esta categoría del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Decay real pero superado por una tendencia alcista extraordinaria de 20 anios: CAGR desde inception reportado entre +15.93% (promedio anual) y +20.1% (anualizado, cifras algo conflictivas entre fuentes, presentadas con reserva) - refleja el patron 'decay + direccion correcta = ganancia amplificada' con el anadido de que la ventana de 20 anios SI incluyo la Crisis 2008 (a diferencia de UDOW, que nacio en 2010 post-crisis) y aun asi termino netamente fuerte.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Decay real pero superado por una tendencia alcista extraordinaria de 20 años: CAGR desde inception reportado entre +15.93% (promedio anual) y +20.1% (anualizado, cifras algo conflictivas entre fuentes, presentadas con reserva) - refleja el patrón 'decay + dirección correcta = ganancia amplificada' con el anadido de que la ventana de 20 años SI incluyo la Crisis 2008 (a diferencia de UDOW, que nacio en 2010 post-crisis) y aun así término netamente fuerte.",
           "calificacion": 3
         }
       ],
@@ -56,29 +56,29 @@
       "titulo": "Securities lending: revenue generado y % que compensa el TER",
       "aspectos": [
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion DIARIA de swaps/futuros del S&P 500 - misma mecanica de rebalanceo diario que el resto de la categoria apalancada.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación DIARIA de swaps/futuros del S&P 500 - misma mecánica de rebalanceo diario que el resto de la categoría apalancada.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario ~1.55M acciones/dia (~$110.4M/dia al precio actual $71.19) - solido.",
+          "notas": "Volumen diario ~1.55M acciones/dia (~$110.4M/dia al precio actual $71.19) - sólido.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -90,63 +90,63 @@
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "522 holdings referenciados (via swaps/futuros sobre el S&P 500 completo) - la base subyacente MAS diversificada de la categoria apalancada del proyecto (supera a los 42 de UDOW), aunque el top10 reportado (124.38%) refleja el apalancamiento 2x, no diversificacion real de riesgo.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "522 holdings referenciados (via swaps/futuros sobre el S&P 500 completo) - la base subyacente MAS diversificada de la categoría apalancada del proyecto (supera a los 42 de UDOW), aunque el top10 reportado (124.38%) refleja el apalancamiento 2x, no diversificación real de riesgo.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "El S&P 500 tiene composicion diversificada por diseno (500 empresas, cap-weighted), amplificada 2x por el vehiculo - perfil sectorial equivalente al mercado amplio de EEUU.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "El S&P 500 tiene composición diversificada por diseño (500 empresas, cap-weighted), amplificada 2x por el vehículo - perfil sectorial equivalente al mercado amplio de EEUU.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US (S&P 500).",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Metodologia +2x diario sobre un indice PONDERADO POR CAPITALIZACION DE MERCADO (a diferencia del Dow price-weighted de UDOW) - representa mas fielmente la composicion real del mercado accionario amplio de EEUU, aunque distorsionado 2x por el apalancamiento.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Metodología +2x diario sobre un índice PONDERADO POR CAPITALIZASIÓN DE MERCADO (a diferencia del Dow price-weighted de UDOW) - representa mas fielmente la composición real del mercado accionario amplio de EEUU, aunque distorsionado 2x por el apalancamiento.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P 500 - el benchmark de renta variable US mas seguido y representativo, metodologia transparente.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P 500 - el benchmark de renta variable US mas seguido y representativo, metodología transparente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo DIARIO para mantener el objetivo +2x - mismo mecanismo del resto de la categoria, nivel de apalancamiento menor que UDOW (2x vs 3x).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo DIARIO para mantener el objetivo +2x - mismo mecanismo del resto de la categoría, nivel de apalancamiento menor que UDOW (2x vs 3x).",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.8
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = +38.98%. Retorno desde inception (20 anios) = **+15.93% a +20.1% CAGR** (cifras conflictivas entre fuentes) - fuerte, aunque NOMINALMENTE MENOR que UDOW (+26.91%) pese a la ventana mucho mas larga, explicado porque SSO SI incluye la Crisis 2008 completa en su historia mientras UDOW (nacido en 2010) no.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = +38.98%. Retorno desde inception (20 años) = **+15.93% a +20.1% CAGR** (cifras conflictivas entre fuentes) - fuerte, aunque NOMINALMENTE MENOR que UDOW (+26.91%) pese a la ventana mucho mas larga, explicado porque SSO SI incluye la Crisis 2008 completa en su historia mientras UDOW (nacido en 2010) no.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad: rango de 52 semanas $48.63-$72.42 (ratio 1.49x) - **LA MENOS EXTREMA de TODA la categoria apalancada del proyecto**, incluso menor que UDOW (1.72x).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad: rango de 52 semanas $48.63-$72.42 (ratio 1.49x) - **LA MENOS EXTREMA de TODA la categoría apalancada del proyecto**, incluso menor que UDOW (1.72x).",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero al cubrir la Crisis 2008 completa (a diferencia de UDOW) se espera una cifra historica mas severa en algun punto de su track record de 20 anios, aunque no verificada esta sesion.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero al cubrir la Crisis 2008 completa (a diferencia de UDOW) se espera una cifra histórica mas severa en algun punto de su track record de 20 años, aunque no verificada esta sesión.",
           "calificacion": 2
         }
       ],
@@ -156,39 +156,39 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = 2.01 vs S&P 500 (coherente, replica apalancada del propio indice de referencia). Al replicar el S&P 500 completo via swaps/futuros, el overlap es con el mercado amplio de EEUU en su conjunto, no con posiciones individuales especificas concentradas - no genera un hallazgo de overlap puntual severo como CAT/AVGO en otros fondos del proyecto.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = 2.01 vs S&P 500 (coherente, réplica apalancada del propio índice de referencia). Al replicar el S&P 500 completo via swaps/futuros, el overlap es con el mercado amplio de EEUU en su conjunto, no con posiciones individuales específicas concentradas - no genera un hallazgo de overlap puntual severo como CAT/AVGO en otros fondos del proyecto.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**UNICO instrumento apalancado de acciones del proyecto que cubre la Crisis Financiera 2008 DIRECTAMENTE** dentro de su propia historia (a diferencia de UDOW/SDOW, nacidos en 2010, post-crisis) - track record probado a traves de un ciclo bajista severo completo.",
+          "notas": "**ÚNICO instrumento apalancado de acciones del proyecto que cubre la Crisis Financiera 2008 DIRECTAMENTE** dentro de su propia historia (a diferencia de UDOW/SDOW, nacidos en 2010, post-crisis) - track record probado a través de un ciclo bajista severo completo.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION CON UDOW (fila 93, ya en el workbook)**: ambos son apalancados LARGOS sobre indices de acciones de EEUU del mismo emisor (ProShares), aunque no son pares direccionales exactos entre si (distinto indice -S&P500 vs Dow30- y distinto apalancamiento -2x vs 3x-). SSO tiene track record MAS LARGO (20 vs 16.5 anios, incluye Crisis 2008), TER MAS BARATO, AUM MUCHO MAS GRANDE, y volatilidad MENOS extrema, aunque CAGR nominal MENOR (+15.93-20.1% vs +26.91% de UDOW) - reflejo de la ventana mas larga y mas dura de SSO. SDS (mismo emisor, -2x CORTO sobre el mismo S&P 500) seria el espejo directo, no analizado en el workbook. | ACTUALIZACION posterior (SH, fila 98): SH confirma tener la MISMA fecha exacta de inception que SSO (19-jun-2006), mismo indice S&P500, pero -1x en vez de +2x. SH CAGR desde inception -11.33% a -11.44% (perdida por apostar contra el mercado alcista), notablemente menos severo en magnitud que la ganancia de SSO (+15.93-20.1%) en terminos absolutos, coherente con la fuerza sostenida del mercado alcista de EEUU en el mismo periodo. Ver Ficha SH fila 50. | ACTUALIZACION posterior (SPXL, fila 101): Direxion Daily S&P 500 Bull 3X Shares, mismo indice S&P 500 pero +3x en vez de +2x y emisor distinto (Direxion). CAGR desde inception +27.90% (SPXL) vs +15.93-20.1% (SSO) - nominalmente mayor pero con ventana de inception DISTINTA (SPXL nace nov-2008, dentro de la Crisis 2008 sin cubrirla completa; SSO nace jun-2006, cubre la crisis entera), no una comparacion de apalancamiento puro limpia. SPXL ademas es MAS BARATO (TER 0.81% neto vs 0.87-0.89%) y usa estructura HIBRIDA fisica+swap con emision de 1099 (vs 100% swap/futuros y K-1 de SSO). Score SPXL 3.16 supera a SSO 3.07 como el mas alto de la categoria apalancada. Ver Ficha SPXL fila 101 para el detalle completo. | ACTUALIZACION posterior (VOO, fila 102): Vanguard S&P 500 ETF, el BASELINE 1x del mismo indice que faltaba en el workbook - completa la escalera 1x VOO / +2x SSO / +3x SPXL. Max Drawdown de VOO -33.99% (COVID) vs el estimado -76.86% de SPXL sobre el mismo crash, ilustra la amplificacion real del apalancamiento sobre el mismo indice/evento. Ver Ficha VOO fila 102 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN CON UDOW (fila 93, ya en el workbook)**: ambos son apalancados LARGOS sobre índices de acciones de EEUU del mismo emisor (ProShares), aunque no son pares direccionales exactos entre si (distinto índice -S&P500 vs Dow30- y distinto apalancamiento -2x vs 3x-). SSO tiene track record MAS LARGO (20 vs 16.5 años, incluye Crisis 2008), TER MAS BARATO, AUM MUCHO MAS GRANDE, y volatilidad MENOS extrema, aunque CAGR nominal MENOR (+15.93-20.1% vs +26.91% de UDOW) - reflejo de la ventana mas larga y mas dura de SSO. SDS (mismo emisor, -2x CORTO sobre el mismo S&P 500) seria el espejo directo, no analizado en el workbook. | ACTUALIZASIÓN posterior (SH, fila 98): SH confirma tener la MISMA fecha exacta de inception que SSO (19-jun-2006), mismo índice S&P500, pero -1x en vez de +2x. SH CAGR desde inception -11.33% a -11.44% (pérdida por apostar contra el mercado alcista), notablemente menos severo en magnitud que la ganancia de SSO (+15.93-20.1%) en términos absolutos, coherente con la fuerza sostenida del mercado alcista de EEUU en el mismo período. Ver Ficha SH fila 50. | ACTUALIZASIÓN posterior (SPXL, fila 101): Direxion Daily S&P 500 Bull 3X Shares, mismo índice S&P 500 pero +3x en vez de +2x y emisor distinto (Direxion). CAGR desde inception +27.90% (SPXL) vs +15.93-20.1% (SSO) - nominalmente mayor pero con ventana de inception DISTINTA (SPXL nace nov-2008, dentro de la Crisis 2008 sin cubrirla completa; SSO nace jun-2006, cubre la crisis entera), no una comparación de apalancamiento puro limpia. SPXL además es MAS BARATO (TER 0.81% neto vs 0.87-0.89%) y usa estructura HIBRIDA física+swap con emisión de 1099 (vs 100% swap/futuros y K-1 de SSO). Score SPXL 3.16 supera a SSO 3.07 como el mas alto de la categoría apalancada. Ver Ficha SPXL fila 101 para el detalle completo. | ACTUALIZASIÓN posterior (VOO, fila 102): Vanguard S&P 500 ETF, el BASELINE 1x del mismo índice que faltaba en el workbook - completa la escalera 1x VOO / +2x SSO / +3x SPXL. Max Drawdown de VOO -33.99% (COVID) vs el estimado -76.86% de SPXL sobre el mismo crash, ilustra la amplificación real del apalancamiento sobre el mismo índice/evento. Ver Ficha VOO fila 102 para el detalle completo.",
           "calificacion": 4
         }
       ],
@@ -198,23 +198,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO - mismo tratamiento categorico que el resto de la linea apalancada del proyecto, PESE al perfil estructural notablemente mejor (AUM, track record, volatilidad relativa) que cualquier otro apalancado del proyecto.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: TÁCTICO/ESPECULATIVO DE MUY CORTO PLAZO - mismo tratamiento categorico que el resto de la línea apalancada del proyecto, PESE al perfil estructural notablemente mejor (AUM, track record, volatilidad relativa) que cualquier otro apalancado del proyecto.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: el resultado fuerte y sostenido (CAGR +15.93-20.1% en 20 anios, incluyendo la Crisis 2008) refleja haber estado LARGO durante el mercado alcista de acciones de EEUU mas probado y duradero del proyecto - pero sigue sin ser evidencia de que el instrumento sea seguro para mantener a largo plazo por su mecanismo de reseteo diario.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: el resultado fuerte y sostenido (CAGR +15.93-20.1% en 20 años, incluyendo la Crisis 2008) refleja haber estado LARGO durante el mercado alcista de acciones de EEUU mas probado y duradero del proyecto - pero sigue sin ser evidencia de que el instrumento sea seguro para mantener a largo plazo por su mecanismo de reseteo diario.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo de contraparte con OCHO bancos nombrados, la estructura mas compleja de todo el proyecto; (2) apalancamiento 2x con decay real, aunque historicamente superado por la fortaleza del mercado; (3) complejidad fiscal via K-1; (4) el resultado historico, aunque el mas solido de la categoria apalancada del proyecto, sigue dependiendo de la direccion del mercado, no es una propiedad estructural segura.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de contraparte con OCHO bancos nombrados, la estructura mas compleja de todo el proyecto; (2) apalancamiento 2x con decay real, aunque históricamente superado por la fortaleza del mercado; (3) complejidad fiscal via K-1; (4) el resultado histórico, aunque el mas sólido de la categoría apalancada del proyecto, sigue dependiendo de la dirección del mercado, no es una propiedad estructural segura.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "SDS (mismo emisor, -2x CORTO, espejo directo, no analizado en el workbook), UDOW/SDOW (fila 93/94, otros apalancados de indices de acciones del mismo emisor) y exposicion 1x simple al S&P 500 (sin apalancamiento) son las alternativas/comparables relevantes. SH (fila 98) ahora tambien analizado - mismo indice/fecha inception, -1x sin apalancamiento, ver comparacion completa en su Ficha.",
+          "notas": "SDS (mismo emisor, -2x CORTO, espejo directo, no analizado en el workbook), UDOW/SDOW (fila 93/94, otros apalancados de índices de acciones del mismo emisor) y exposición 1x simple al S&P 500 (sin apalancamiento) son las alternativas/comparables relevantes. SH (fila 98) ahora también analizado - mismo índice/fecha inception, -1x sin apalancamiento, ver comparación completa en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -222,6 +222,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MEJOR PERFIL DE LA CATEGORIA APALANCADA - AUN NO APTO COMO CORE/SATELITE. Score 3.07/5 - **EL PRIMER instrumento apalancado/inverso del proyecto en cruzar el umbral de 3.0** (los nueve casos previos, KOLD a SDOW, se ubicaron entre 2.30 y 2.75). ProShares Ultra S&P500, +2x diario sobre el S&P 500 via swaps con OCHO bancos nombrados (Goldman Sachs, Citibank, BNP Paribas, UBS, Barclays, Societe Generale, JPMorgan, Bank of America) - la estructura de contraparte mas compleja del proyecto. Es EL MAS GRANDE ($8.31bn, casi 9x UDOW), MAS ANTIGUO (20 anios, desde jun-2006) y el UNICO apalancado de acciones del proyecto que cubre la Crisis Financiera 2008 DIRECTAMENTE en su propia historia. Volatilidad (rango 52 semanas ratio 1.49x) la MENOS extrema de toda la categoria apalancada del proyecto. TER 0.87-0.89%, ligeramente mas barato que el estandar 0.95% de la linea ProShares. CAGR desde inception +15.93% a +20.1% (cifras algo conflictivas entre fuentes) - fuerte pero NOMINALMENTE MENOR que UDOW (+26.91%) pese a la ventana mucho mas larga, porque SSO SI incluyo la Crisis 2008 completa mientras UDOW nacio en 2010, ya post-crisis. Retorno 1Y = +38.98%. Pese al mejor perfil estructural de toda la categoria apalancada, el mecanismo de fondo NO cambia: rebalanceo diario +2x, decay real (superado historicamente por la fortaleza y duracion del mercado alcista de EEUU, incluyendo su recuperacion tras 2008), y un resultado que sigue dependiendo enteramente de haber acertado la direccion. Rol en Portafolio: Tactico/Especulativo, NUNCA Core ni Satelite de largo plazo pese al Score mas alto de la categoria. SDS (mismo emisor, -2x corto, espejo directo) no analizado en el workbook. UDOW/SDOW (fila 93/94) son los comparables mas cercanos dentro de la misma familia de apalancados sobre indices de acciones del proyecto."
+    "tesis": "MEJOR PERFIL DE LA CATEGORÍA APALANCADA - AUN NO APTO COMO CORE/SATÉLITE. Score 3.07/5 - **EL PRIMER instrumento apalancado/inverso del proyecto en cruzar el umbral de 3.0** (los nueve casos previos, KOLD a SDOW, se ubicaron entre 2.30 y 2.75). ProShares Ultra S&P500, +2x diario sobre el S&P 500 via swaps con OCHO bancos nombrados (Goldman Sachs, Citibank, BNP Paribas, UBS, Barclays, Societe Generale, JPMorgan, Bank of America) - la estructura de contraparte mas compleja del proyecto. Es EL MAS GRANDE ($8.31bn, casi 9x UDOW), MAS ANTIGUO (20 años, desde jun-2006) y el ÚNICO apalancado de acciones del proyecto que cubre la Crisis Financiera 2008 DIRECTAMENTE en su propia historia. Volatilidad (rango 52 semanas ratio 1.49x) la MENOS extrema de toda la categoría apalancada del proyecto. TER 0.87-0.89%, ligeramente mas barato que el estándar 0.95% de la línea ProShares. CAGR desde inception +15.93% a +20.1% (cifras algo conflictivas entre fuentes) - fuerte pero NOMINALMENTE MENOR que UDOW (+26.91%) pese a la ventana mucho mas larga, porque SSO SI incluyo la Crisis 2008 completa mientras UDOW nacio en 2010, ya post-crisis. Retorno 1Y = +38.98%. Pese al mejor perfil estructural de toda la categoría apalancada, el mecanismo de fondo NO cambia: rebalanceo diario +2x, decay real (superado históricamente por la fortaleza y duración del mercado alcista de EEUU, incluyendo su recuperación tras 2008), y un resultado que sigue dependiendo enteramente de haber acertado la dirección. Rol en Portafolio: Táctico/Especulativo, NUNCA Core ni Satélite de largo plazo pese al Score mas alto de la categoría. SDS (mismo emisor, -2x corto, espejo directo) no analizado en el workbook. UDOW/SDOW (fila 93/94) son los comparables mas cercanos dentro de la misma familia de apalancados sobre índices de acciones del proyecto."
   }
 }

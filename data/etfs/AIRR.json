@@ -1,36 +1,36 @@
 {
   "nombre": "First Trust RBA American Industrial Renaissance ETF",
   "ticker": "AIRR",
-  "categoria": "Equity Tematico/Factor (Richard Bernstein Advisors American Industrial Renaissance Index - PRIMER fondo del proyecto que combina small/mid-cap industrials CON bancos comunitarios/regionales en un solo screen tematico -tesis reshoring: los bancos financian la construccion de planta que ejecutan las industriales-, universo base Russell 2500, screen >=75% ingresos US)",
+  "categoria": "Equity Temático/Factor (Richard Bernstein Advisors American Industrial Renaissance Index - PRIMER fondo del proyecto que combina small/mid-cap industrials CON bancos comunitarios/regionales en un solo screen temático -tesis reshoring: los bancos financian la construcción de planta que ejecutan las industriales-, universo base Russell 2500, screen >=75% ingresos US)",
   "emisor": "First Trust",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica fisica -90%+ en valores calificados-, sin swaps ni contraparte. Metodologia: parte de Russell 2500, filtra industriales small/mid-cap -infraestructura, manufactura, transporte- MAS bancos comunitarios/regionales en regiones manufactureras tradicionales, exige >=75% de ingresos en EEUU y utilidad proyectada positiva, reconstitucion TRIMESTRAL.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica física -90%+ en valores calificados-, sin swaps ni contraparte. Metodología: parte de Russell 2500, filtra industriales small/mid-cap -infraestructura, manufactura, transporte- MAS bancos comunitarios/regionales en regiones manufactureras tradicionales, exige >=75% de ingresos en EEUU y utilidad proyectada positiva, reconstitución TRIMESTRAL.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, RIC estandar, cotiza en Nasdaq.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, RIC estándar, cotiza en Nasdaq.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$10.7bn - **SALTO NOTABLE desde un tamano historicamente pequeno -~$1-1.5bn-**, reflejo de entradas/apreciacion fuertes 2023-2026 impulsadas por el desempeno excepcional del fondo.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$10.7bn - **SALTO NOTABLE desde un tamaño históricamente pequeño -~$1-1.5bn-**, reflejo de entradas/apreciación fuertes 2023-2026 impulsadas por el desempeño excepcional del fondo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 10-mar-2014 (~12.42 anios) - track record relativamente corto frente al resto del proyecto, cubre COVID y el bear 2022, NO cubre 2008 ni dot-com.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 10-mar-2014 (~12.42 años) - track record relativamente corto frente al resto del proyecto, cubre COVID y el bear 2022, NO cubre 2008 ni dot-com.",
           "calificacion": 3
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor First Trust - especialista establecido en ETFs tematicos/smart-beta, aunque AIRR es un producto de nicho dentro de su gama.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor First Trust - especialista establecido en ETFs temáticos/smart-beta, aunque AIRR es un producto de nicho dentro de su gama.",
           "calificacion": 3
         }
       ],
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER **0.69%** - **MUY CARO, entre los mas caros de todo el proyecto** -vs 0.08-0.09% de la familia SPDR sectorial, 0.20-0.38% de RSP/IYK-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica fisica de un indice bien definido con reconstitucion trimestral - tracking razonable esperado.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica física de un índice bien definido con reconstitución trimestral - tracking razonable esperado.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "RIC estandar - revenue de securities lending no verificado esta sesion.",
+          "notas": "RIC estándar - revenue de securities lending no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Reconstitucion **TRIMESTRAL** con screens de ingresos/utilidad - turnover mas alto que la mayoria de fondos sectoriales del proyecto, comparable en espiritu -aunque distinto mecanismo- al reset forzado de RSP.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Reconstitución **TRIMESTRAL** con screens de ingresos/utilidad - turnover mas alto que la mayoría de fondos sectoriales del proyecto, comparable en espiritu -aunque distinto mecanismo- al reset forzado de RSP.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -76,8 +76,8 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV ~+0.01% - minimo, cifra genuinamente cuantificada con precision.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV ~+0.01% - mínimo, cifra genuinamente cuantificada con precisión.",
           "calificacion": 4
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 3.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "57-60 holdings - razonablemente diversificado para un fondo tematico de nicho.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "57-60 holdings - razonablemente diversificado para un fondo temático de nicho.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
+          "aspecto": "Concentración Top 10 holdings (%)",
           "notas": "Top 10 = ~31.9% del NAV -IES Holdings ~4%, Kratos Defense ~3.2-3.9%, Karman Holdings ~3.2-3.7%, Dycom Industries ~3.1-3.2%, SPX Technologies ~3.1%, Argan ~3.0-3.2%, BWX Technologies ~3.0%, Owens Corning ~3.0-3.2%, Nextpower ~3.0-3.2%- - **MUCHO MENOS concentrado que XLC -69.95%-, XLP -~62%- o IYK -66.1-66.2%-**, genuinamente bien diversificado dentro de su nicho.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "**Industrials 93.25% + Financials solo 6.75%** - **la 'pata bancaria' de la tesis es MUCHO MAS PEQUENA de lo que sugiere el nombre/narrativa del fondo** -bancos regionales aparecen mas abajo en la lista, ej. Cullen/Frost Bankers-, en la practica es abrumadoramente un fondo industrial puro con una cola financiera menor.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "**Industrials 93.25% + Financials solo 6.75%** - **la 'pata bancaria' de la tesis es MUCHO MAS PEQUEÑA de lo que sugiere el nombre/narrativa del fondo** -bancos regionales aparecen mas abajo en la lista, ej. Cullen/Frost Bankers-, en la practica es abrumadoramente un fondo industrial puro con una cola financiera menor.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Screen explicito de >=75% de ingresos en EEUU - genuinamente enfocado en EEUU por diseno, coherente con la tesis de reshoring/renacimiento manufacturero.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Screen explicito de >=75% de ingresos en EEUU - genuinamente enfocado en EEUU por diseño, coherente con la tesis de reshoring/renacimiento manufacturero.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Tilt SMALL/MID-CAP -universo derivado de Russell 2500- COMBINADO con screen tematico -reshoring/renacimiento industrial-, la PRIMERA combinacion de tamano+tema de este tipo en el cluster reciente del proyecto.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Tilt SMALL/MID-CAP -universo derivado de Russell 2500- COMBINADO con screen temático -reshoring/renacimiento industrial-, la PRIMERA combinación de tamaño+tema de este tipo en el cluster reciente del proyecto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Richard Bernstein Advisors American Industrial Renaissance - metodologia tematica NO-GICS genuinamente novedosa -screen de ingresos US + combinacion industrial/bancario-, transparente pero nicho/menos seguida que indices mainstream.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Richard Bernstein Advisors American Industrial Renaissance - metodología temática NO-GICS genuinamente novedosa -screen de ingresos US + combinación industrial/bancario-, transparente pero nicho/menos seguida que índices mainstream.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reconstitucion TRIMESTRAL con screens de ingresos/utilidad - turnover moderado-alto, churn de composicion real cada trimestre, no solo ajuste de peso.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reconstitución TRIMESTRAL con screens de ingresos/utilidad - turnover moderado-alto, churn de composición real cada trimestre, no solo ajuste de peso.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.43
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "**Retornos EXCEPCIONALES**: 2020 +17.17%, 2021 +33.01%, 2022 -2.08% -notablemente SUAVE para un anio bajista-, 2023 +31.4% -SUPERA a VOO +26.3%-, 2024 +33.5%, 2025 +27.9%, 10Y anualizado ~21.7%, desde inception -12.42 anios- +16.07% anualizado - **entre los MEJORES retornos de todo el proyecto en casi cualquier horizonte medido**.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "**Retornos EXCEPCIONALES**: 2020 +17.17%, 2021 +33.01%, 2022 -2.08% -notablemente SUAVE para un año bajista-, 2023 +31.4% -SUPERA a VOO +26.3%-, 2024 +33.5%, 2025 +27.9%, 10Y anualizado ~21.7%, desde inception -12.42 años- +16.07% anualizado - **entre los MEJORES retornos de todo el proyecto en casi cualquier horizonte medido**.",
           "calificacion": 5
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Rango 52 semanas $87.67-$135.05 (ratio 1.54x) - **NOTABLEMENTE ALTO**, supera incluso a QQQ -1.348x-, confirma la volatilidad genuina del tilt small/mid-cap.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown COVID **-42.37%**, piso 23-mar-2020, peor mes -21.5%, ~161 sesiones -~7.5 meses- para recuperarse -severo pero recuperacion relativamente rapida-. Bear 2022 notablemente SUAVE -anio completo -2.08%, sin drawdown severo aislado reportado-, resiliencia real en un anio que golpeo duramente a fondos growth/tech. **Crisis bancaria regional mar-2023 -SVB-: NO SE ENCONTRO cifra especifica pese a busqueda dedicada** -vacio de dato real dado que este fondo SI tiene exposicion directa a bancos regionales-, aunque el retorno del anio completo 2023 -+31.4%- sugiere que el shock se absorbio sin descarrilar el anio.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown COVID **-42.37%**, piso 23-mar-2020, peor mes -21.5%, ~161 sesiones -~7.5 meses- para recuperarse -severo pero recuperación relativamente rápida-. Bear 2022 notablemente SUAVE -año completo -2.08%, sin drawdown severo aislado reportado-, resiliencia real en un año que golpeo duramente a fondos growth/tech. **Crisis bancaria regional mar-2023 -SVB-: NO SE ENCONTRO cifra específica pese a busqueda dedicada** -vacio de dato real dado que este fondo SI tiene exposición directa a bancos regionales-, aunque el retorno del año completo 2023 -+31.4%- sugiere que el shock se absorbio sin descarrilar el año.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio NO ENCONTRADO en fuentes accesibles esta sesion -fuentes primarias bloqueadas- - vacio de dato.",
+          "notas": "Sharpe Ratio NO ENCONTRADO en fuentes accesibles esta sesión -fuentes primarias bloqueadas- - vacio de dato.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta = **1.29** vs S&P 500 - **notablemente POR ENCIMA de 1.0**, de los mas altos de cualquier fondo NO apalancado del cluster reciente -supera a QQQ 1.15-1.23-, confirma el riesgo sistematico genuino del tilt small/mid-cap.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "COVID -42.37%/161 sesiones -severo pero recuperacion razonablemente rapida-, bear 2022 notablemente suave -2.08%-, PERO **vacio de dato real en la crisis bancaria regional mar-2023 -SVB-, el stress test MAS RELEVANTE para la tesis especifica de este fondo dada su exposicion a bancos comunitarios/regionales** -no confirmado pese a busqueda directa-.",
+          "notas": "COVID -42.37%/161 sesiones -severo pero recuperación razonablemente rápida-, bear 2022 notablemente suave -2.08%-, PERO **vacio de dato real en la crisis bancaria regional mar-2023 -SVB-, el stress test MAS RELEVANTE para la tesis específica de este fondo dada su exposición a bancos comunitarios/regionales** -no confirmado pese a busqueda directa-.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.67
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E 30.26x -First Trust- a 31.99x -stockanalysis-, **entre los mas caros del proyecto** -comparable a QQQ ~31x-. P/B 4.03x, P/CF 20.71x, P/S 2.05x - valoracion rica tras el rally excepcional reciente.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E 30.26x -First Trust- a 31.99x -stockanalysis-, **entre los mas caros del proyecto** -comparable a QQQ ~31x-. P/B 4.03x, P/CF 20.71x, P/S 2.05x - valoración rica tras el rally excepcional reciente.",
           "calificacion": 1
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield solo 0.09% - practicamente NULO, vehiculo de crecimiento/apreciacion puro, no de ingreso.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield solo 0.09% - prácticamente NULO, vehículo de crecimiento/apreciación puro, no de ingreso.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 1.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "TESIS GENUINAMENTE UNICA del proyecto: **UNICO fondo que combina industrials small/mid-cap CON bancos comunitarios/regionales** bajo un solo screen tematico de reshoring. Comparable mas cercano ya en el workbook: ITA -fila 10, aerospacial/defensa, tesis industrial mas ESTRECHA de un solo sub-sector-, aunque AIRR es mas diversificado entre sub-industrias industriales y anade el angulo de financiamiento bancario -aunque en la practica ese angulo es solo 6.75% del fondo-. Contraste con la familia GICS sectorial -XLU/XLK/XLE/XLC/XLP, ya en el workbook-: AIRR es tematico/multi-factor -tamano+tema- y small/mid-cap, no large-cap puro por sector. Riesgo/catalizador UNICO y oportuno: el fallo de la Corte Suprema de 2026 en contra de la mayoria de los aranceles de la era Trump podria erosionar el viento de cola de 'America First'/reshoring que ha impulsado gran parte del retorno reciente del fondo. | ACTUALIZACION posterior (XLI, fila 115): Industrial Select Sector SPDR, el fondo PADRE amplio del sector -TER 0.08%, mucho mas barato-. Pese al costo mucho menor, XLI rindio MENOS en 10Y -~14.35-14.81%/anio- que este fondo, confirmando que la exposicion mas estrecha/tematica rindio mejor en esta ventana. Ver Ficha XLI fila 115 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "TESIS GENUINAMENTE ÚNICA del proyecto: **ÚNICO fondo que combina industrials small/mid-cap CON bancos comunitarios/regionales** bajo un solo screen temático de reshoring. Comparable mas cercano ya en el workbook: ITA -fila 10, aerospacial/defensa, tesis industrial mas ESTRECHA de un solo sub-sector-, aunque AIRR es mas diversificado entre sub-industrias industriales y anade el angulo de financiamiento bancario -aunque en la practica ese angulo es solo 6.75% del fondo-. Contraste con la familia GICS sectorial -XLU/XLK/XLE/XLC/XLP, ya en el workbook-: AIRR es temático/multi-factor -tamaño+tema- y small/mid-cap, no large-cap puro por sector. Riesgo/catalizador ÚNICO y oportuno: el fallo de la Corte Suprema de 2026 en contra de la mayoría de los aranceles de la era Trump podría erosionar el viento de cola de 'America First'/reshoring que ha impulsado gran parte del retorno reciente del fondo. | ACTUALIZASIÓN posterior (XLI, fila 115): Industrial Select Sector SPDR, el fondo PADRE amplio del sector -TER 0.08%, mucho mas barato-. Pese al costo mucho menor, XLI rindio MENOS en 10Y -~14.35-14.81%/año- que este fondo, confirmando que la exposición mas estrecha/temática rindio mejor en esta ventana. Ver Ficha XLI fila 115 para el detalle completo.",
           "calificacion": 4
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **SATELITE de alta conviccion tematico** - posicion legitima dado el desempeno excepcional, pero el costo/valoracion/vacios de dato desaconsejan una asignacion grande.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **SATÉLITE de alta convicción temático** - posición legitima dado el desempeño excepcional, pero el costo/valoración/vacios de dato desaconsejan una asignación grande.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: renacimiento de la manufactura americana -reshoring-, validada por retornos historicos genuinamente excepcionales -supero a VOO en 2023, drawdown 2022 suave, 10Y anualizado ~21.7%- - PERO ahora enfrenta un riesgo de politica publica real y documentado en 2026 -fallo de la Corte Suprema contra la mayoria de los aranceles de la era Trump- que podria erosionar el viento de cola que ha impulsado gran parte del outperformance reciente.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: renacimiento de la manufactura americana -reshoring-, validada por retornos históricos genuinamente excepcionales -supero a VOO en 2023, drawdown 2022 suave, 10Y anualizado ~21.7%- - PERO ahora enfrenta un riesgo de política pública real y documentado en 2026 -fallo de la Corte Suprema contra la mayoría de los aranceles de la era Trump- que podría erosionar el viento de cola que ha impulsado gran parte del outperformance reciente.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) TER 0.69%, entre los mas caros del proyecto; (2) valoracion rica tras el rally -P/E ~30-32x, P/B 4.03x-; (3) Beta 1.29, riesgo sistematico genuinamente elevado; (4) riesgo de politica publica DOCUMENTADO -fallo de la Corte Suprema 2026 contra aranceles Trump podria erosionar la tesis de reshoring-; (5) vacio de dato real en la crisis bancaria regional mar-2023, el stress test MAS relevante para la exposicion bancaria especifica de este fondo, no confirmado pese a busqueda directa.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) TER 0.69%, entre los mas caros del proyecto; (2) valoración rica tras el rally -P/E ~30-32x, P/B 4.03x-; (3) Beta 1.29, riesgo sistematico genuinamente elevado; (4) riesgo de política pública DOCUMENTADO -fallo de la Corte Suprema 2026 contra aranceles Trump podría erosionar la tesis de reshoring-; (5) vacio de dato real en la crisis bancaria regional mar-2023, el stress test MAS relevante para la exposición bancaria específica de este fondo, no confirmado pese a busqueda directa.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "ITA -fila 10, ya en el workbook, tesis industrial mas estrecha -aerospacial/defensa- pero comparable mas cercano- es la alternativa mas relevante. No se identifico otro fondo 'industrial+banca comunitaria reshoring' comparable en esta investigacion - AIRR parece ocupar un nicho genuinamente unico.",
+          "notas": "ITA -fila 10, ya en el workbook, tesis industrial mas estrecha -aerospacial/defensa- pero comparable mas cercano- es la alternativa mas relevante. No se identifico otro fondo 'industrial+banca comunitaria reshoring' comparable en esta investigación - AIRR parece ocupar un nicho genuinamente único.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar) - retornos historicos excepcionales, pero caro, volatil y con un riesgo de politica publica documentado justo ahora. Score 2.91/5, identico a DIA y en la misma banda que CRAK/ARTY. First Trust RBA American Industrial Renaissance ETF, **PRIMER fondo del proyecto que combina industrials small/mid-cap CON bancos comunitarios/regionales** bajo un solo screen tematico -universo Russell 2500, >=75% ingresos US, reconstitucion trimestral-. Retornos HISTORICOS EXCEPCIONALES: 2023 +31.4% -supera a VOO +26.3%-, 2024 +33.5%, 2025 +27.9%, 10Y anualizado ~21.7%, desde inception -12.42 anios- +16.07% anualizado, bear 2022 notablemente suave -2.08%-, entre los MEJORES del proyecto en casi cualquier horizonte. PERO: TER **0.69%**, entre los mas caros del proyecto; valoracion rica tras el rally -P/E ~30-32x, P/B 4.03x-; Beta **1.29**, de los mas altos de cualquier fondo NO apalancado del cluster reciente; rango 52 semanas ratio 1.54x, el mas alto del cluster reciente incluso por encima de QQQ. **Industrials 93.25% vs Financials solo 6.75%** - la 'pata bancaria' de la narrativa es mucho mas pequena en la practica de lo que sugiere el nombre del fondo. Max Drawdown COVID -42.37% -161 sesiones para recuperarse-, PERO **vacio de dato real en la crisis bancaria regional de mar-2023 -SVB-, el stress test MAS RELEVANTE para la exposicion bancaria especifica de este fondo**, no confirmado pese a busqueda directa. Riesgo/catalizador oportuno: el fallo de la Corte Suprema de 2026 contra la mayoria de los aranceles de la era Trump podria erosionar el viento de cola de reshoring que ha impulsado gran parte del outperformance reciente. Rol en Portafolio: Satelite de alta conviccion tematico, el desempeno historico es genuino pero el costo/valoracion/riesgo de politica publica actuales desaconsejan una entrada en este punto. ITA -fila 10, ya en el workbook- es el comparable mas cercano, aunque con una tesis industrial mas estrecha."
+    "tesis": "REDUCIR/VENDER (evitar) - retornos históricos excepcionales, pero caro, volatil y con un riesgo de política pública documentado justo ahora. Score 2.91/5, identico a DIA y en la misma banda que CRAK/ARTY. First Trust RBA American Industrial Renaissance ETF, **PRIMER fondo del proyecto que combina industrials small/mid-cap CON bancos comunitarios/regionales** bajo un solo screen temático -universo Russell 2500, >=75% ingresos US, reconstitución trimestral-. Retornos HISTÓRICOS EXCEPCIONALES: 2023 +31.4% -supera a VOO +26.3%-, 2024 +33.5%, 2025 +27.9%, 10Y anualizado ~21.7%, desde inception -12.42 años- +16.07% anualizado, bear 2022 notablemente suave -2.08%-, entre los MEJORES del proyecto en casi cualquier horizonte. PERO: TER **0.69%**, entre los mas caros del proyecto; valoración rica tras el rally -P/E ~30-32x, P/B 4.03x-; Beta **1.29**, de los mas altos de cualquier fondo NO apalancado del cluster reciente; rango 52 semanas ratio 1.54x, el mas alto del cluster reciente incluso por encima de QQQ. **Industrials 93.25% vs Financials solo 6.75%** - la 'pata bancaria' de la narrativa es mucho mas pequeña en la practica de lo que sugiere el nombre del fondo. Max Drawdown COVID -42.37% -161 sesiones para recuperarse-, PERO **vacio de dato real en la crisis bancaria regional de mar-2023 -SVB-, el stress test MAS RELEVANTE para la exposición bancaria específica de este fondo**, no confirmado pese a busqueda directa. Riesgo/catalizador oportuno: el fallo de la Corte Suprema de 2026 contra la mayoría de los aranceles de la era Trump podría erosionar el viento de cola de reshoring que ha impulsado gran parte del outperformance reciente. Rol en Portafolio: Satélite de alta convicción temático, el desempeño histórico es genuino pero el costo/valoración/riesgo de política pública actuales desaconsejan una entrada en este punto. ITA -fila 10, ya en el workbook- es el comparable mas cercano, aunque con una tesis industrial mas estrecha."
   }
 }

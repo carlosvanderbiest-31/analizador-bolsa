@@ -1,36 +1,36 @@
 {
   "nombre": "iShares MSCI EAFE Small-Cap ETF",
   "ticker": "SCZ",
-  "categoria": "Equity Tematico/Factor (SMALL-CAP puro, mercados desarrollados EAFE - PRIMER fondo de factor tamano internacional del proyecto, diversificacion interna record del proyecto)",
+  "categoria": "Equity Temático/Factor (SMALL-CAP puro, mercados desarrollados EAFE - PRIMER fondo de factor tamaño internacional del proyecto, diversificación interna récord del proyecto)",
   "emisor": "BlackRock (iShares)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight) - notable dado el numero extremo de holdings (2,053-2,085, en su mayoria small-caps internacionales), demuestra capacidad de ejecucion excepcional de BlackRock incluso en el segmento small-cap.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA confirmada (Trackinsight) - notable dado el número extremo de holdings (2,053-2,085, en su mayoría small-caps internacionales), demuestra capacidad de ejecución excepcional de BlackRock incluso en el segmento small-cap.",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, exposicion a Japon+Europa+Australasia (EAFE small-cap) - riesgo cambiario MULTI-DIVISA no cubierto.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, exposición a Japon+Europa+Australasia (EAFE small-cap) - riesgo cambiario MULTI-DIVISA no cubierto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$11.57-13.49bn (stockanalysis $13.49bn, Trackinsight EUR11.57bn~$12.5bn) - solido para un fondo de nicho small-cap.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$11.57-13.49bn (stockanalysis $13.49bn, Trackinsight EUR11.57bn~$12.5bn) - sólido para un fondo de nicho small-cap.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 10-dic-2007 (~18.7 anios) - cubre la Crisis Financiera 2008 DIRECTAMENTE (nacido meses antes del colapso de Lehman), la crisis de deuda soberana europea 2010-2012, COVID 2020, y el periodo reciente.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 10-dic-2007 (~18.7 años) - cubre la Crisis Financiera 2008 DIRECTAMENTE (nacido meses antes del colapso de Lehman), la crisis de deuda soberana europea 2010-2012, COVID 2020, y el período reciente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - VIGESIMOSEGUNDA aparicion en el proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - VIGESIMOSEGUNDA aparición en el proyecto.",
           "calificacion": 5
         }
       ],
@@ -40,153 +40,153 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.40% - moderado, razonable para la categoria small-cap internacional (tipicamente mas cara que blend large-cap por la complejidad operativa de replicar miles de nombres pequeños).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.40% - moderado, razonable para la categoría small-cap internacional (tipicamente mas cara que blend large-cap por la complejidad operativa de replicar miles de nombres pequeños).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con cifra de revenue esta sesion (los fondos small-cap suelen generar mas demanda de prestamo de valores por interes de shorting, pero no confirmado especificamente para SCZ).",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesión (los fondos small-cap suelen generar mas demanda de prestamo de valores por interés de shorting, pero no confirmado específicamente para SCZ).",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice MSCI EAFE Small Cap - rebalanceo tipicamente trimestral/semestral de MSCI, no confirmado con fuente primaria especifica de SCZ esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice MSCI EAFE Small Cap - rebalanceo tipicamente trimestral/semestral de MSCI, no confirmado con fuente primaria específica de SCZ esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario promedio = 1.53M acciones/dia, ~$131-132M/dia (calculado) - solido para un fondo de nicho.",
+          "notas": "Volumen diario promedio = 1.53M acciones/dia, ~$131-132M/dia (calculado) - sólido para un fondo de nicho.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask calculado ~1.36% (a partir de bid $85.75/ask $86.93) - **NOTABLEMENTE MAS ANCHO que la mayoria de fondos del proyecto** (que tipicamente mostraron 0.01-0.03%), pero CREIBLE Y ESPERADO dado que refleja la iliquidez estructural real de miles de acciones small-cap internacionales subyacentes, no un defecto del ETF en si mismo.",
+          "notas": "Spread bid-ask calculado ~1.36% (a partir de bid $85.75/ask $86.93) - **NOTABLEMENTE MAS ANCHO que la mayoría de fondos del proyecto** (que tipicamente mostraron 0.01-0.03%), pero CREIBLE Y ESPERADO dado que refleja la iliquidez estructural real de miles de acciones small-cap internacionales subyacentes, no un defecto del ETF en si mismo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel, aunque el proceso de creacion/redencion es estructuralmente mas complejo dado el gran numero de holdings pequeños e ilíquidos.",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel, aunque el proceso de creación/redención es estructuralmente mas complejo dado el gran número de holdings pequeños e ilíquidos.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "2,053 (Trackinsight) a 2,085 (stockanalysis) holdings - diversificacion interna extrema.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "2,053 (Trackinsight) a 2,085 (stockanalysis) holdings - diversificación interna extrema.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 = **2.64% - RECORD ABSOLUTO DE TODO EL PROYECTO**, un orden de magnitud MENOR que el anterior record (VXUS, 14.77%) - la posicion individual mas grande del fondo (Diploma PLC / Taiyo Yuden segun fuente) pesa apenas 0.36-0.42%.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 = **2.64% - RÉCORD ABSOLUTO DE TODO EL PROYECTO**, un orden de magnitud MENOR que el anterior récord (VXUS, 14.77%) - la posición individual mas grande del fondo (Diploma PLC / Taiyo Yuden según fuente) pesa apenas 0.36-0.42%.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Finance 23.09% (maximo), Industrials 19.34%, Materials 12.33%, Technology 11.60%, Consumer Cyclicals 7.64% - MUY bien diversificado, ningun sector domina de forma extrema (a diferencia de EFV -Finance 41.85%- o cualquier fondo de pais unico del proyecto).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Finance 23.09% (máximo), Industrials 19.34%, Materials 12.33%, Technology 11.60%, Consumer Cyclicals 7.64% - MUY bien diversificado, ningún sector domina de forma extrema (a diferencia de EFV -Finance 41.85%- o cualquier fondo de pais único del proyecto).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Geografia primaria: Japon, Reino Unido y Australia (iShares) - buena diversificacion dentro del universo de mercados desarrollados EAFE.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Geografia primaria: Japon, Reino Unido y Australia (iShares) - buena diversificación dentro del universo de mercados desarrollados EAFE.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Factor SMALL-CAP puro - **PRIMER fondo de este factor especifico en mercados desarrollados internacionales del proyecto** (distinto del factor VALUE de EFV), acceso a la prima de tamaño fuera de EEUU.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Factor SMALL-CAP puro - **PRIMER fondo de este factor específico en mercados desarrollados internacionales del proyecto** (distinto del factor VALUE de EFV), acceso a la prima de tamaño fuera de EEUU.",
           "calificacion": 5
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MSCI EAFE Small Cap - metodologia transparente, mismo proveedor MSCI que EFV/IXUS/ACWX/EWC/INDA/IEUR/EWJ en el proyecto.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MSCI EAFE Small Cap - metodología transparente, mismo proveedor MSCI que EFV/IXUS/ACWX/EWC/INDA/IEUR/EWJ en el proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de SCZ esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de SCZ esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.57
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (18.7 anios) = 5.66% anualizado - modesto. 3Y anualizado = +16.3%, 5Y anualizado = +5.2% - decente pero **MUCHO MAS MODERADO que el rally explosivo de mercados emergentes/semiconductores** ya documentado extensamente en el resto del proyecto esta sesion, reflejo de que las small-caps de mercados desarrollados no se beneficiaron del mismo impulso del superciclo de IA.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (18.7 años) = 5.66% anualizado - modesto. 3Y anualizado = +16.3%, 5Y anualizado = +5.2% - decente pero **MUCHO MAS MODERADO que el rally explosivo de mercados emergentes/semiconductores** ya documentado extensamente en el resto del proyecto esta sesión, reflejo de que las small-caps de mercados desarrollados no se beneficiaron del mismo impulso del superciclo de IA.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad = 15.51% (anualizada) - moderada, plausible.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -61.86% (9-mar-2009, **MISMA fecha exacta que FEZ y VGK**) con recuperacion de ~4.1 anios (1,030 sesiones) - **NOTABLEMENTE MAS RAPIDA que FEZ (11.8 anios)**, similar orden a VGK (5.1 anios) - refuerza el patron ya documentado de que la diversificacion amplia (aqui via miles de small-caps en vez de 50 blue-chips concentrados) ofrece resiliencia real frente a la crisis especifica de la Eurozona de 2010-2012 que SI golpeo duramente a fondos concentrados como FEZ.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -61.86% (9-mar-2009, **MISMA fecha exacta que FEZ y VGK**) con recuperación de ~4.1 años (1,030 sesiones) - **NOTABLEMENTE MAS RÁPIDA que FEZ (11.8 años)**, similar orden a VGK (5.1 años) - refuerza el patrón ya documentado de que la diversificación amplia (aquí via miles de small-caps en vez de 50 blue-chips concentrados) ofrece resiliencia real frente a la crisis específica de la Eurozona de 2010-2012 que SI golpeo duramente a fondos concentrados como FEZ.",
           "calificacion": 4
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 0.82 (cifra actual) - moderado, **NO obviamente inflado por el rally reciente** a diferencia de la mayoria de otros fondos del proyecto esta sesion, coherente con el retorno reciente mas moderado ya documentado en la fila 39.",
+          "notas": "Sharpe Ratio = 0.82 (cifra actual) - moderado, **NO obviamente inflado por el rally reciente** a diferencia de la mayoría de otros fondos del proyecto esta sesión, coherente con el retorno reciente mas moderado ya documentado en la fila 39.",
           "calificacion": 4
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.84. **CERO OVERLAP CON EL DASHBOARD DE ACCIONES INDIVIDUALES - ESTRUCTURALMENTE GARANTIZADO**: ninguno de los holdings de SCZ (Diploma PLC, Beazley, BlueScope Steel, IMI plc, Weir Group, Kokusai Electric, Games Workshop, Accelleron, Storebrand, Gaztransport, Taiyo Yuden, ROHM, NGK, Niterra, YASKAWA) es una mega-cap conocida - todos son nombres small/mid-cap fuera del universo tipico de mega-caps growth-tech que domina el Dashboard de acciones individuales del usuario, haciendo el overlap virtualmente imposible por diseño del fondo, no solo ausente por coincidencia.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.84. **CERO OVERLAP CON EL DASHBOARD DE ACCIONES INDIVIDUALES - ESTRUCTURALMENTE GARANTIZADO**: ninguno de los holdings de SCZ (Diploma PLC, Beazley, BlueScope Steel, IMI plc, Weir Group, Kokusai Electric, Games Workshop, Accelleron, Storebrand, Gaztransport, Taiyo Yuden, ROHM, NGK, Niterra, YASKAWA) es una mega-cap conocida - todos son nombres small/mid-cap fuera del universo típico de mega-caps growth-tech que domina el Dashboard de acciones individuales del usuario, haciendo el overlap virtualmente imposible por diseño del fondo, no solo ausente por coincidencia.",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "18.7 anios de historial cubren la Crisis Financiera 2008 DIRECTAMENTE, la crisis de deuda soberana europea 2010-2012, COVID 2020, y el periodo reciente.",
+          "notas": "18.7 años de historial cubren la Crisis Financiera 2008 DIRECTAMENTE, la crisis de deuda soberana europea 2010-2012, COVID 2020, y el período reciente.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 15.71x - moderado. Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 15.71x - moderado. Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 3.10% - moderado. Distribucion SEMESTRAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 3.10% - moderado. Distribución SEMESTRAL.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Sin competidor directo verificado en este workbook - primer fondo small-cap de mercados desarrollados internacionales del proyecto. Candidato conocido: VSS (Vanguard FTSE All-World ex-US Small-Cap, incluye tambien emergentes, universo mas amplio) - sin datos propios verificados esta sesion.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Sin competidor directo verificado en este workbook - primer fondo small-cap de mercados desarrollados internacionales del proyecto. Candidato conocido: VSS (Vanguard FTSE All-World ex-US Small-Cap, incluye también emergentes, universo mas amplio) - sin datos propios verificados esta sesión.",
           "calificacion": 3
         }
       ],
@@ -196,18 +196,18 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Core** - dado el overlap CERO estructuralmente garantizado y la diversificacion interna mas extrema de todo el proyecto (2,053+ holdings, Top10 2.64%), mismo criterio ya aplicado a EFV por su dimension de factor genuinamente nueva y no redundante.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Core** - dado el overlap CERO estructuralmente garantizado y la diversificación interna mas extrema de todo el proyecto (2,053+ holdings, Top10 2.64%), mismo criterio ya aplicado a EFV por su dimensión de factor genuinamente nueva y no redundante.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: acceso a la prima de TAMAÑO (small-cap) en mercados desarrollados internacionales, con la diversificacion interna MAS EXTREMA de todo el proyecto y overlap CERO estructural con el resto de la cartera del usuario (dominada por mega-caps growth-tech estadounidenses) - un diversificador genuino excepcional, tanto por dimension geografica como por segmento de capitalizacion.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: acceso a la prima de TAMAÑO (small-cap) en mercados desarrollados internacionales, con la diversificación interna MAS EXTREMA de todo el proyecto y overlap CERO estructural con el resto de la cartera del usuario (dominada por mega-caps growth-tech estadounidenses) - un diversificador genuino excepcional, tanto por dimensión geográfica como por segmento de capitalización.",
           "calificacion": 5
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) spread mas ancho que el promedio del proyecto, reflejo de la iliquidez estructural de las small-caps internacionales subyacentes; (2) riesgo cambiario multi-divisa; (3) retorno historico modesto (5.66% desde inception) comparado con alternativas large-cap del proyecto; (4) las small-caps internacionales tipicamente son mas volatiles/iliquidas en episodios de estres de mercado severo, aunque la recuperacion tras 2008 fue relativamente rapida.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) spread mas ancho que el promedio del proyecto, reflejo de la iliquidez estructural de las small-caps internacionales subyacentes; (2) riesgo cambiario multi-divisa; (3) retorno histórico modesto (5.66% desde inception) comparado con alternativas large-cap del proyecto; (4) las small-caps internacionales tipicamente son mas volatiles/iliquidas en episodios de estres de mercado severo, aunque la recuperación tras 2008 fue relativamente rápida.",
           "calificacion": 3
         },
         {
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.91/5 - uno de los mejores resultados del proyecto, apoyado en ser el PRIMER fondo de FACTOR TAMAÑO (small-cap) internacional del proyecto (EAFE: Japon, Europa, Australasia) con la diversificacion interna MAS EXTREMA de TODO EL PROYECTO: 2,053-2,085 holdings, Top10 de apenas **2.64% - RECORD ABSOLUTO**, un orden de magnitud menor que el anterior record del proyecto (VXUS, 14.77%). El overlap con el Dashboard de acciones individuales es CERO de forma ESTRUCTURALMENTE GARANTIZADA -no solo ausente por coincidencia-, dado que ninguno de sus holdings (Diploma PLC, Beazley, BlueScope Steel, Kokusai Electric, Games Workshop, Taiyo Yuden, ROHM, etc.) es una mega-cap conocida dentro del universo tipico cubierto por el usuario. Hallazgo cualitativo notable: el Max Drawdown ocurrio la MISMA fecha exacta que FEZ y VGK (9-mar-2009), pero SCZ se recupero en solo ~4.1 anios (1,030 sesiones) frente a los 11.8 anios de FEZ - refuerza el patron ya documentado de que la diversificacion amplia (aqui via miles de small-caps en vez de 50 blue-chips concentrados) ofrece resiliencia genuina frente a la crisis especifica de la Eurozona 2010-2012. El retorno historico es mas modesto que el resto del cluster reciente (desde inception 5.66% anualizado, 3Y +16.3%, 5Y +5.2%), reflejo de que las small-caps de mercados desarrollados no capturaron el mismo impulso del superciclo de IA que beneficio a otros fondos analizados esta sesion - pero el Sharpe reciente (0.82) NO esta obviamente inflado, a diferencia de la mayoria de otros fondos, lo que sugiere un perfil de riesgo/retorno mas sano y sostenible. El spread bid-ask es mas ancho que el promedio del proyecto (~1.36%), pero se trata como un reflejo creible de la iliquidez estructural de miles de small-caps internacionales, no como un defecto del vehiculo. Rol en Portafolio: Core, dado el overlap cero garantizado y la dimension de factor genuinamente nueva (tamaño, no solo geografia o value) que aporta al proyecto. Candidato sin verificar: VSS (Vanguard, universo mas amplio incluyendo emergentes)."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.91/5 - uno de los mejores resultados del proyecto, apoyado en ser el PRIMER fondo de FACTOR TAMAÑO (small-cap) internacional del proyecto (EAFE: Japon, Europa, Australasia) con la diversificación interna MAS EXTREMA de TODO EL PROYECTO: 2,053-2,085 holdings, Top10 de apenas **2.64% - RÉCORD ABSOLUTO**, un orden de magnitud menor que el anterior récord del proyecto (VXUS, 14.77%). El overlap con el Dashboard de acciones individuales es CERO de forma ESTRUCTURALMENTE GARANTIZADA -no solo ausente por coincidencia-, dado que ninguno de sus holdings (Diploma PLC, Beazley, BlueScope Steel, Kokusai Electric, Games Workshop, Taiyo Yuden, ROHM, etc.) es una mega-cap conocida dentro del universo típico cubierto por el usuario. Hallazgo cualitativo notable: el Max Drawdown ocurrio la MISMA fecha exacta que FEZ y VGK (9-mar-2009), pero SCZ se recupero en solo ~4.1 años (1,030 sesiones) frente a los 11.8 años de FEZ - refuerza el patrón ya documentado de que la diversificación amplia (aquí via miles de small-caps en vez de 50 blue-chips concentrados) ofrece resiliencia genuina frente a la crisis específica de la Eurozona 2010-2012. El retorno histórico es mas modesto que el resto del cluster reciente (desde inception 5.66% anualizado, 3Y +16.3%, 5Y +5.2%), reflejo de que las small-caps de mercados desarrollados no capturaron el mismo impulso del superciclo de IA que beneficio a otros fondos analizados esta sesión - pero el Sharpe reciente (0.82) NO esta obviamente inflado, a diferencia de la mayoría de otros fondos, lo que sugiere un perfil de riesgo/retorno mas sano y sostenible. El spread bid-ask es mas ancho que el promedio del proyecto (~1.36%), pero se trata como un reflejo creible de la iliquidez estructural de miles de small-caps internacionales, no como un defecto del vehículo. Rol en Portafolio: Core, dado el overlap cero garantizado y la dimensión de factor genuinamente nueva (tamaño, no solo geografia o value) que aporta al proyecto. Candidato sin verificar: VSS (Vanguard, universo mas amplio incluyendo emergentes)."
   }
 }

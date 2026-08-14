@@ -1,36 +1,36 @@
 {
   "nombre": "Defiance Quantum ETF",
   "ticker": "QTUM",
-  "categoria": "Equity Tematico/Factor (quantum computing + machine learning, definicion amplia que incluye semis/cloud/defensa)",
+  "categoria": "Equity Temático/Factor (quantum computing + machine learning, definición amplia que incluye semis/cloud/defensa)",
   "emisor": "Defiance ETFs",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Metodo de replica exacto no confirmado explicitamente esta sesion. Se infiere FISICA (sin evidencia de swaps: el top10 suma bien por debajo de 100%) - el indice usa una metodologia 'modified equal-weighted' explicita, replicada fisicamente sobre un universo acotado de ~90 nombres.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Metodo de réplica exacto no confirmado explícitamente esta sesión. Se infiere FÍSICA (sin evidencia de swaps: el top10 suma bien por debajo de 100%) - el índice usa una metodología 'modified equal-weighted' explicita, replicada fisicamente sobre un universo acotado de ~90 nombres.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US (NASDAQ), pero el top10 mas reciente incluye nombres genuinamente extranjeros: Arqit Quantum (Reino Unido) y Horizon Quantum (Singapur) - primera vez que un ETF 'growth/tematico' del proyecto (no explicitamente 'internacional' como VYMI) muestra componentes extranjeros DIRECTAMENTE en su top10 mas reciente - friccion fiscal real, aunque parcial.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US (NASDAQ), pero el top10 mas reciente incluye nombres genuinamente extranjeros: Arqit Quantum (Reino Unido) y Horizon Quantum (Singapur) - primera vez que un ETF 'growth/temático' del proyecto (no explícitamente 'internacional' como VYMI) muestra componentes extranjeros DIRECTAMENTE en su top10 mas reciente - fricción fiscal real, aunque parcial.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM entre $5.22bn (stockanalysis) y $6.31bn segun fuente/fecha - rango moderado pero consistentemente solido, comparable a URNM/REMX, mayor que ARTY/AIPO.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM entre $5.22bn (stockanalysis) y $6.31bn según fuente/fecha - rango moderado pero consistentemente sólido, comparable a URNM/REMX, mayor que ARTY/AIPO.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 5-sep-2018 (~8.0 anios) - SIN cambio de indice/mandato tipo ARTY (misma tesis desde el lanzamiento). Track record similar en duracion a IHAK (7.2 anios)/URNM (6.7 anios), notablemente MAS MADURO que el otro fondo Defiance del proyecto (AIPO, solo 13 meses).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 5-sep-2018 (~8.0 años) - SIN cambio de índice/mandato tipo ARTY (misma tesis desde el lanzamiento). Track record similar en duración a IHAK (7.2 años)/URNM (6.7 años), notablemente MAS MADURO que el otro fondo Defiance del proyecto (AIPO, solo 13 meses).",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Defiance ETFs - SEGUNDA aparicion en el proyecto (AIPO, ahora QTUM). QTUM es notablemente MAS ANTIGUO (8.0 vs 1.05 anios) y de MAYOR AUM que AIPO dentro del mismo emisor - sugiere un producto mas maduro y probado de la casa, con TER mas bajo tambien (0.40% vs 0.69%).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Defiance ETFs - SEGUNDA aparición en el proyecto (AIPO, ahora QTUM). QTUM es notablemente MAS ANTIGUO (8.0 vs 1.05 años) y de MAYOR AUM que AIPO dentro del mismo emisor - sugiere un producto mas maduro y probado de la casa, con TER mas bajo también (0.40% vs 0.69%).",
           "calificacion": 4
         }
       ],
@@ -40,152 +40,152 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.40% - moderado, notablemente MAS BARATO que su fondo hermano AIPO (0.69%) y que ARTY (0.47%), aunque mas caro que los sectoriales puros del proyecto (SOXX 0.34%, SMH 0.35%, XLK 0.08%).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado esta sesion.",
+          "notas": "Securities lending revenue no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "La metodologia 'MODIFIED EQUAL-WEIGHTED' explicita del indice BlueStar implica rebalanceo mas frecuente/activo que un fondo cap-weighted tradicional (necesario para mantener los pesos cercanos a iguales entre ~90 nombres) - frecuencia exacta no confirmada con fuente primaria esta sesion, pero el equal-weighting en si es una señal de mayor costo de rotacion implicito (mismo tipo de consideracion ya aplicada a XOP, el otro equal-weight del proyecto).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "La metodología 'MODIFIED EQUAL-WEIGHTED' explicita del índice BlueStar implica rebalanceo mas frecuente/activo que un fondo cap-weighted tradicional (necesario para mantener los pesos cercanos a iguales entre ~90 nombres) - frecuencia exacta no confirmada con fuente primaria esta sesión, pero el equal-weighting en si es una señal de mayor costo de rotación implícito (mismo tipo de consideración ya aplicada a XOP, el otro equal-weight del proyecto).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 228,830 acciones (stockanalysis) x $152.30/accion (precio 10-ago-2026) = aprox $34.8M/dia - liquidez moderada, similar en magnitud a REMX.",
+          "notas": "Volumen diario = 228,830 acciones (stockanalysis) x $152.30/acción (precio 10-ago-2026) = aprox $34.8M/dia - liquidez moderada, similar en magnitud a REMX.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Emisor establecido (Defiance, con QTUM como su producto mas antiguo/maduro del proyecto) y fondo de tamano solido - se infiere profundidad de Authorized Participants adecuada.",
+          "notas": "Emisor establecido (Defiance, con QTUM como su producto mas antiguo/maduro del proyecto) y fondo de tamaño sólido - se infiere profundidad de Authorized Participants adecuada.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "89-90 holdings segun fuente (consistente) - numero moderado-alto, similar a ARTY.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "89-90 holdings según fuente (consistente) - número moderado-alto, similar a ARTY.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 15.32% (stockanalysis, snapshot mas reciente) - MUY BAJO, SEGUNDO mas bajo del proyecto tras VB (6.09%) - consistente y esperado dada la metodologia explicita 'modified equal-weighted' sobre ~90 nombres (cada posicion individual pesa aproximadamente 1-2%).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 15.32% (stockanalysis, snapshot mas reciente) - MUY BAJO, SEGUNDO mas bajo del proyecto tras VB (6.09%) - consistente y esperado dada la metodología explicita 'modified equal-weighted' sobre ~90 nombres (cada posición individual pesa aproximadamente 1-2%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% tecnologia/computacion cuantica+machine learning por definicion del indice, pero MUY diversificado internamente entre subtemas heterogeneos: quantum computing puro (Arqit, Horizon Quantum, RGTI, QBTS, IONQ segun snapshot), semiconductores (MU, INTC, AMD, TSEM), software/cloud (Oracle, Cloudflare, Snowflake) e incluso defensa (RTX) - mezcla mas amplia que cualquier otro tematico 'puro' del proyecto.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% tecnología/computación cuantica+machine learning por definición del índice, pero MUY diversificado internamente entre subtemas heterogeneos: quantum computing puro (Arqit, Horizon Quantum, RGTI, QBTS, IONQ según snapshot), semiconductores (MU, INTC, AMD, TSEM), software/cloud (Oracle, Cloudflare, Snowflake) e incluso defensa (RTX) - mezcla mas amplia que cualquier otro temático 'puro' del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica: mayormente US pero con exposicion genuina a Reino Unido (Arqit Quantum) y Singapur (Horizon Quantum) en el top10 mas reciente - primera vez que esto ocurre en un ETF tematico growth del proyecto no clasificado como 'internacional'.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica: mayormente US pero con exposición genuina a Reino Unido (Arqit Quantum) y Singapur (Horizon Quantum) en el top10 mas reciente - primera vez que esto ocurre en un ETF temático growth del proyecto no clasificado como 'internacional'.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion a factor/estilo: growth/especulativo con un espectro DE RIESGO INTERNO INUSUALMENTE AMPLIO - desde quantum computing pre-revenue extremo (RGTI, QBTS, Arqit, Horizon Quantum) hasta megacaps establecidas y rentables (Oracle, Micron, Intel) en el MISMO fondo, mezcladas por la definicion amplia del indice ('predominantemente ligado a quantum computing Y machine learning').",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición a factor/estilo: growth/especulativo con un espectro DE RIESGO INTERNO INUSUALMENTE AMPLIO - desde quantum computing pre-revenue extremo (RGTI, QBTS, Arqit, Horizon Quantum) hasta megacaps establecidas y rentables (Oracle, Micron, Intel) en el MISMO fondo, mezcladas por la definición amplia del índice ('predominantemente ligado a quantum computing Y machine learning').",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice BlueStar Quantum Computing and Machine Learning Index, metodologia 'modified equal-weighted' EXPLICITA y transparente, pero con un criterio de inclusion amplio (empresas 'predominantemente ligadas' a quantum computing Y machine learning) que permite la entrada de nombres de semis/cloud/defensa no puramente 'quantum' - **mismo gotcha de 'nombre vs composicion real' ya documentado con XOP (E&P vs refinadoras) y VYMI (dividendo vs Financials)**, aqui aplicado a un tema de vanguardia tecnologica. Proveedor BlueStar, menos establecido en el proyecto que S&P/MSCI/CRSP/MVIS/Solactive.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice BlueStar Quantum Computing and Machine Learning Index, metodología 'modified equal-weighted' EXPLICITA y transparente, pero con un criterio de inclusión amplio (empresas 'predominantemente ligadas' a quantum computing Y machine learning) que permite la entrada de nombres de semis/cloud/defensa no puramente 'quantum' - **mismo gotcha de 'nombre vs composición real' ya documentado con XOP (E&P vs refinadoras) y VYMI (dividendo vs Financials)**, aquí aplicado a un tema de vanguardia tecnologica. Proveedor BlueStar, menos establecido en el proyecto que S&P/MSCI/CRSP/MVIS/Solactive.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria esta sesion, aunque el equal-weighting sugiere una cadencia mas activa que un fondo cap-weighted tradicional.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria esta sesión, aunque el equal-weighting sugiere una cadencia mas activa que un fondo cap-weighted tradicional.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception = 26.76% anualizado en 8.0 anios - MUY FUERTE, uno de los mejores del proyecto (magnitud similar a SMH, 28.92%). Retorno 1Y con discrepancia notable entre fuentes: 66.09% (stockanalysis) vs 93.35% (otro agregador) - ambas cifras extremadamente fuertes, reflejo del rally de IA/quantum computing 2025-2026, pero sin reconciliar con precision esta sesion.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception = 26.76% anualizado en 8.0 años - MUY FUERTE, uno de los mejores del proyecto (magnitud similar a SMH, 28.92%). Retorno 1Y con discrepancia notable entre fuentes: 66.09% (stockanalysis) vs 93.35% (otro agregador) - ambas cifras extremadamente fuertes, reflejo del rally de IA/quantum computing 2025-2026, pero sin reconciliar con precisión esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada = 28.92% - moderada-alta pero MENOR que la mayoria de los tematicos puros del proyecto (SOXX/SMH/ARTY/AIPO/URA/URNM, 35-53%) - posiblemente por el efecto diversificador de la metodologia equal-weight sobre ~90 nombres, que diluye el riesgo idiosincratico de cualquier posicion individual pese a que varias de esas posiciones (RGTI, QBTS) son individualmente muy volatiles.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada = 28.92% - moderada-alta pero MENOR que la mayoría de los temáticos puros del proyecto (SOXX/SMH/ARTY/AIPO/URA/URNM, 35-53%) - posiblemente por el efecto diversificador de la metodología equal-weight sobre ~90 nombres, que diluye el riesgo idiosincratico de cualquier posición individual pese a que varias de esas posiciones (RGTI, QBTS) son individualmente muy volatiles.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -38.4% (fuente unica) - moderado en el contexto del proyecto (menos severo que SOXX/SMH/XOP/REMX/VGT/XLK), aunque el rango de 52 semanas ($90.32-$170.00, equivalente a -46.9% pico a valle si fuera secuencial) sugiere que la severidad real podria ser algo mayor en ciertas ventanas - se uso -38.4% con nota de cautela explicita, sin poder reconciliar completamente con el rango de precio.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -38.4% (fuente única) - moderado en el contexto del proyecto (menos severo que SOXX/SMH/XOP/REMX/VGT/XLK), aunque el rango de 52 semanas ($90.32-$170.00, equivalente a -46.9% pico a valle si fuera secuencial) sugiere que la severidad real podría ser algo mayor en ciertas ventanas - se uso -38.4% con nota de cautela explicita, sin poder reconciliar completamente con el rango de precio.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 3.18 (cifra reciente, unica fuente clara, sin contraparte de largo plazo) - MUY fuerte, tratado con cautela por reflejar probablemente una ventana especialmente favorable del rally reciente de IA/quantum computing, no necesariamente representativa del riesgo-retorno de largo plazo del fondo.",
+          "notas": "Sharpe Ratio = 3.18 (cifra reciente, única fuente clara, sin contraparte de largo plazo) - MUY fuerte, tratado con cautela por reflejar probablemente una ventana especialmente favorable del rally reciente de IA/quantum computing, no necesariamente representativa del riesgo-retorno de largo plazo del fondo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 1.37 (stockanalysis) vs 1.67 (otro agregador) - moderadamente inconsistentes, se uso el promedio (~1.5). **OVERLAP REAL PERO DIFICIL DE CUANTIFICAR CON PRECISION dada la naturaleza EQUAL-WEIGHT del fondo** (gotcha metodologico nuevo, ver nota en la hoja Metodologia): el snapshot MAS RECIENTE del top10 consultado (Arqit Quantum, Horizon Quantum, Cloudflare, Snowflake, RTX) no muestra overlap directo con el Dashboard de acciones del usuario, PERO un snapshot anterior (oct-2025) del top10 SI mostraba AMD, IONQ, INTC, ORCL y MU (5 de 10 nombres) YA analizados individualmente por el usuario. Dado que un fondo equal-weight de ~90 posiciones mantiene todos sus nombres con pesos similares (~1-2% cada uno) de forma continua, es probable que estos 5+ nombres SIGAN presentes en el fondo HOY con pesos parecidos, aunque hayan rotado fuera del ranking exacto del 'top10' por pequenos movimientos de precio relativos entre posiciones casi-iguales - a diferencia de un fondo cap-weighted (como URNM/REMX) donde un top10 verificado como 'sin overlap' es una senal mucho mas confiable de ausencia real de overlap, en un equal-weight el ranking del top10 es inherentemente inestable dia a dia y NO debe interpretarse como prueba de ausencia de overlap en el resto de la canasta.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.37 (stockanalysis) vs 1.67 (otro agregador) - moderadamente inconsistentes, se uso el promedio (~1.5). **OVERLAP REAL PERO DIFÍCIL DE CUANTIFICAR CON PRECISIÓN dada la naturaleza EQUAL-WEIGHT del fondo** (gotcha metodologico nuevo, ver nota en la hoja Metodología): el snapshot MAS RECIENTE del top10 consultado (Arqit Quantum, Horizon Quantum, Cloudflare, Snowflake, RTX) no muestra overlap directo con el Dashboard de acciones del usuario, PERO un snapshot anterior (oct-2025) del top10 SI mostraba AMD, IONQ, INTC, ORCL y MU (5 de 10 nombres) YA analizados individualmente por el usuario. Dado que un fondo equal-weight de ~90 posiciones mantiene todos sus nombres con pesos similares (~1-2% cada uno) de forma continua, es probable que estos 5+ nombres SIGAN presentes en el fondo HOY con pesos parecidos, aunque hayan rotado fuera del ranking exacto del 'top10' por pequeños movimientos de precio relativos entre posiciones casi-iguales - a diferencia de un fondo cap-weighted (como URNM/REMX) donde un top10 verificado como 'sin overlap' es una señal mucho mas confiable de ausencia real de overlap, en un equal-weight el ranking del top10 es inherentemente inestable dia a dia y NO debe interpretarse como prueba de ausencia de overlap en el resto de la canasta.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "8.0 anios de historial, pero NO cubren una recesion o crisis de mercado amplia mayor de forma prolongada (2018-2026 fue mayormente alcista para tech, salvo la correccion de 2022) - evidencia mas limitada que otros ETFs del proyecto con historial mas largo.",
+          "notas": "8.0 años de historial, pero NO cubren una recesión o crisis de mercado amplia mayor de forma prolongada (2018-2026 fue mayormente alcista para tech, salvo la corrección de 2022) - evidencia mas limitada que otros ETFs del proyecto con historial mas largo.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 33.45x - caro, similar a VUG/VGT/ARTY, probablemente distorsionado por la mezcla de nombres pre-revenue (RGTI, QBTS, con P/E no significativo o negativo) junto a megacaps rentables (Oracle, Micron) - sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 33.45x - caro, similar a VUG/VGT/ARTY, probablemente distorsionado por la mezcla de nombres pre-revenue (RGTI, QBTS, con P/E no significativo o negativo) junto a megacaps rentables (Oracle, Micron) - sin percentil histórico propio verificado esta sesión.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 0.77%, Payout Ratio = 25.67% - sostenible, bajo pero coherente con un perfil growth/tematico de reinversion. Frecuencia de distribucion no confirmada con precision esta sesion.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 0.77%, Payout Ratio = 25.67% - sostenible, bajo pero coherente con un perfil growth/temático de reinversión. Frecuencia de distribución no confirmada con precisión esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - QTUM es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "No se identificaron competidores ETF DIRECTOS verdaderos esta sesion - QTUM es de los pioneros/dominantes en el nicho especifico de 'quantum computing puro' desde 2018, con pocos competidores establecidos comparables (a diferencia de IHAK/CIBR o SOXX/SMH, donde SI hay pares directos maduros). No verificado con datos propios.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "No se identificaron competidores ETF DIRECTOS verdaderos esta sesión - QTUM es de los pioneros/dominantes en el nicho específico de 'quantum computing puro' desde 2018, con pocos competidores establecidos comparables (a diferencia de IHAK/CIBR o SOXX/SMH, donde SI hay pares directos maduros). No verificado con datos propios.",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: mezcla inusual de quantum computing puro (diversifica el riesgo idiosincratico de apostar solo a un nombre como IONQ, que el usuario YA tiene individualmente clasificado como 'ESPECULATIVO DE ALTO RIESGO - NO APTO PARA MARGEN DE SEGURIDAD') con nombres tech establecidos que diluyen esa pureza tematica - overlap real pero de magnitud incierta (fila 43). Rol: Tactico/especulativo de tamano acotado, dado el perfil de riesgo interno heterogeneo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: mezcla inusual de quantum computing puro (diversifica el riesgo idiosincratico de apostar solo a un nombre como IONQ, que el usuario YA tiene individualmente clasificado como 'ESPECULATIVO DE ALTO RIESGO - NO APTO PARA MARGEN DE SEGURIDAD') con nombres tech establecidos que diluyen esa pureza temática - overlap real pero de magnitud incierta (fila 43). Rol: Táctico/especulativo de tamaño acotado, dado el perfil de riesgo interno heterogeneo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion DIVERSIFICADA al tema de quantum computing (reduce el riesgo de concentrar la apuesta en un solo nombre especulativo como IONQ) combinada con machine learning/semis mas establecidos - tesis de doble capa (especulativa + establecida) poco comun en el proyecto, con el emisor mas experimentado (Defiance, 8 anios en este producto especifico) del nicho de quantum computing.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición DIVERSIFICADA al tema de quantum computing (reduce el riesgo de concentrar la apuesta en un solo nombre especulativo como IONQ) combinada con machine learning/semis mas establecidos - tesis de doble capa (especulativa + establecida) poco comun en el proyecto, con el emisor mas experimentado (Defiance, 8 años en este producto específico) del nicho de quantum computing.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) definicion amplia del indice mezcla nombres pre-revenue extremadamente especulativos (RGTI, QBTS) con megacaps establecidas, generando un perfil de riesgo INTERNO muy heterogeneo dentro del mismo vehiculo; (2) overlap real pero dificil de cuantificar con precision dado el mecanismo equal-weight (fila 43); (3) TER moderado (0.40%) sin ser el mas barato del nicho; (4) exposicion a nombres genuinamente pre-revenue/no rentables (quantum computing puro) con riesgo real de ejecucion y financiamiento futuro.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) definición amplia del índice mezcla nombres pre-revenue extremadamente especulativos (RGTI, QBTS) con megacaps establecidas, generando un perfil de riesgo INTERNO muy heterogeneo dentro del mismo vehículo; (2) overlap real pero difícil de cuantificar con precisión dado el mecanismo equal-weight (fila 43); (3) TER moderado (0.40%) sin ser el mas barato del nicho; (4) exposición a nombres genuinamente pre-revenue/no rentables (quantum computing puro) con riesgo real de ejecución y financiamiento futuro.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "No se identificaron competidores ETF directos verdaderos esta sesion (ver fila 50) - QTUM es pionero del nicho especifico.",
+          "notas": "No se identificaron competidores ETF directos verdaderos esta sesión (ver fila 50) - QTUM es pionero del nicho específico.",
           "calificacion": 3
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.18/5, zona intermedia (3.0-3.5), empata EXACTAMENTE con el score original de IHAK y con AIPO. Mismo criterio ya establecido en el proyecto para esta zona: calidad estructural razonable (emisor solido y con 8 anios de trayectoria en ESTE producto especifico, TER moderado, buena diversificacion interna via equal-weighting) sin un problema dominante unico y claro (no hay cambio de mandato como ARTY, no hay estructura de swap como DRAM, no hay emisor no probado como EUV) - en su lugar, hay una combinacion de INCERTIDUMBRES genuinas: (a) el overlap real con la cartera del usuario no se puede cuantificar con precision dada la naturaleza equal-weight del fondo (ver fila 43 - gotcha metodologico nuevo del proyecto), (b) el Max Drawdown reportado (-38.4%) no reconcilia completamente con el rango de 52 semanas del precio, y (c) la valoracion (P/E 33.45x) mezcla nombres pre-revenue especulativos con megacaps rentables de forma dificil de interpretar. Punto a favor notable: QTUM diversifica genuinamente el riesgo de quantum computing puro que el usuario ya asumio individualmente con IONQ (clasificado 'ESPECULATIVO DE ALTO RIESGO' en el Dashboard de acciones) - en vez de una sola apuesta binaria, QTUM reparte esa exposicion entre ~90 nombres. 'Esperar mejor entrada' aqui aplica tanto a la valoracion como a la necesidad de reconciliar mejor los datos de riesgo/overlap antes de comprometer una posicion mayor."
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.18/5, zona intermedia (3.0-3.5), empata EXACTAMENTE con el score original de IHAK y con AIPO. Mismo criterio ya establecido en el proyecto para esta zona: calidad estructural razonable (emisor sólido y con 8 años de trayectoria en ESTE producto específico, TER moderado, buena diversificación interna via equal-weighting) sin un problema dominante único y claro (no hay cambio de mandato como ARTY, no hay estructura de swap como DRAM, no hay emisor no probado como EUV) - en su lugar, hay una combinación de INCERTIDUMBRES genuinas: (a) el overlap real con la cartera del usuario no se puede cuantificar con precisión dada la naturaleza equal-weight del fondo (ver fila 43 - gotcha metodologico nuevo del proyecto), (b) el Max Drawdown reportado (-38.4%) no reconcilia completamente con el rango de 52 semanas del precio, y (c) la valoración (P/E 33.45x) mezcla nombres pre-revenue especulativos con megacaps rentables de forma difícil de interpretar. Punto a favor notable: QTUM diversifica genuinamente el riesgo de quantum computing puro que el usuario ya asumio individualmente con IONQ (clasificado 'ESPECULATIVO DE ALTO RIESGO' en el Dashboard de acciones) - en vez de una sola apuesta binaria, QTUM reparte esa exposición entre ~90 nombres. 'Esperar mejor entrada' aquí aplica tanto a la valoración como a la necesidad de reconciliar mejor los datos de riesgo/overlap antes de comprometer una posición mayor."
   }
 }

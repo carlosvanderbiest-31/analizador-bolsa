@@ -1,35 +1,35 @@
 {
   "nombre": "Consumer Staples Select Sector SPDR Fund",
   "ticker": "XLP",
-  "categoria": "Equity Sector (Consumer Staples GICS puro, mismo dia de inception que XLU/XLK/XLE -16-dic-1998, ya en el workbook- - QUINTO miembro de la familia Select Sector SPDR del proyecto, competidor DIRECTO y mucho mas eficiente de IYK -fila 110, ya en el workbook- ya flagged explicitamente en su propia Ficha)",
+  "categoria": "Equity Sector (Consumer Staples GICS puro, mismo dia de inception que XLU/XLK/XLE -16-dic-1998, ya en el workbook- - QUINTO miembro de la familia Select Sector SPDR del proyecto, competidor DIRECTO y mucho mas eficiente de IYK -fila 110, ya en el workbook- ya flagged explícitamente en su propia Ficha)",
   "emisor": "State Street (SPDR)",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica fisica por muestreo -misma metodologia que XLU/XLK/XLE/XLC-, sin swaps ni contraparte.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica física por muestreo -misma metodología que XLU/XLK/XLE/XLC-, sin swaps ni contraparte.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, RIC estandar -Select Sector SPDR NO es UIT, igual que el resto de la familia-.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, RIC estándar -Select Sector SPDR NO es UIT, igual que el resto de la familia-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $14.5-17.6bn - solido, en linea con el resto de la familia Select Sector SPDR, **~11-13x mas grande que IYK -~$1.3-1.43bn, fila 110-**.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $14.5-17.6bn - sólido, en línea con el resto de la familia Select Sector SPDR, **~11-13x mas grande que IYK -~$1.3-1.43bn, fila 110-**.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 16-dic-1998 (~27.65 anios) - **MISMO DIA que XLU/XLK/XLE**, ya en el workbook -lanzamiento coordinado del emisor-, cubre dot-com, Crisis 2008 y COVID COMPLETOS.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 16-dic-1998 (~27.65 años) - **MISMO DIA que XLU/XLK/XLE**, ya en el workbook -lanzamiento coordinado del emisor-, cubre dot-com, Crisis 2008 y COVID COMPLETOS.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor State Street/SPDR, mismo emisor establecido que XLU/XLK/XLE/XLC.",
           "calificacion": 4
         }
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.08% - **~4.75x MAS BARATO que IYK -0.38%-**, identico a XLK, el estandar de la familia Select Sector SPDR.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.08% - **~4.75x MAS BARATO que IYK -0.38%-**, identico a XLK, el estándar de la familia Select Sector SPDR.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica fisica de su propio Select Sector Index GICS bien definido - tracking ajustado esperado, mismo precedente que XLU/XLK/XLE.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica física de su propio Select Sector Index GICS bien definido - tracking ajustado esperado, mismo precedente que XLU/XLK/XLE.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "RIC estandar, presumiblemente presta valores como el resto de la familia SPDR - revenue especifico no verificado esta sesion.",
+          "notas": "RIC estándar, presumiblemente presta valores como el resto de la familia SPDR - revenue específico no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Cambios de composicion GICS raros - turnover normal bajo, igual que XLU/XLK/XLE.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Cambios de composición GICS raros - turnover normal bajo, igual que XLU/XLK/XLE.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -76,8 +76,8 @@
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV descrito como minimo/transitorio por arbitraje de AP, sin cifra puntual exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV descrito como mínimo/transitorio por arbitraje de AP, sin cifra puntual exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
+          "aspecto": "Número de holdings y diversificación",
           "notas": "34-38 holdings - similar a IYK -57-, aunque concentrado en menos sub-industrias.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = ~62% del NAV -Walmart WMT 10.5-10.6%, Costco COST 8.97%, P&G 7.24-7.28%, Coca-Cola KO 7.16-7.17%, Philip Morris PM 6.22-6.24%, Colgate-Palmolive CL 4.66%, Target 4.24-4.39%, Mondelez MDLZ 4.37-4.41%, PepsiCo PEP 4.32-4.35%, Monster Beverage 4.15-4.27%- - alto pero LIGERAMENTE MENOS concentrado que IYK -66.1-66.2%-. **KO ya analizada individualmente en el proyecto de acciones** -gotcha de beta bajo degenerado ya documentado-. Notese: Altria -MO- NO aparece en el Top10 aqui, a diferencia de IYK.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = ~62% del NAV -Walmart WMT 10.5-10.6%, Costco COST 8.97%, P&G 7.24-7.28%, Coca-Cola KO 7.16-7.17%, Philip Morris PM 6.22-6.24%, Colgate-Palmolive CL 4.66%, Target 4.24-4.39%, Mondelez MDLZ 4.37-4.41%, PepsiCo PEP 4.32-4.35%, Monster Beverage 4.15-4.27%- - alto pero LIGERAMENTE MENOS concentrado que IYK -66.1-66.2%-. **KO ya analizada individualmente en el proyecto de acciones** -gotcha de beta bajo degenerado ya documentado-. Notese: Altria -MO- NO aparece en el Top10 aquí, a diferencia de IYK.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "**GICS PURO**: Consumer Staples Distribution & Retail 33.85% + Beverages 20.18% + Household Products 16.63% + Food Products 15.34% + Tobacco 10.27% + Personal Care 3.73% - **CERO exposicion a healthcare**, a diferencia del ~11-12% healthcare-adjacent -CVS/McKesson- de IYK por su clasificacion Russell mas amplia - XLP es genuinamente MAS 'puro' en su tesis sectorial.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "**GICS PURO**: Consumer Staples Distribution & Retail 33.85% + Beverages 20.18% + Household Products 16.63% + Food Products 15.34% + Tobacco 10.27% + Personal Care 3.73% - **CERO exposición a healthcare**, a diferencia del ~11-12% healthcare-adjacent -CVS/McKesson- de IYK por su clasificación Russell mas amplia - XLP es genuinamente MAS 'puro' en su tesis sectorial.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US listado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Sector DEFENSIVO consumer staples, mismo tilt de factor que IYK pero ejecucion GICS mas pura.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Sector DEFENSIVO consumer staples, mismo tilt de factor que IYK pero ejecución GICS mas pura.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Select Sector Index GICS - misma metodologia rigurosa/iconica que XLU/XLK/XLE/XLC, MAS establecida y seguida que el enfoque Russell de IYK.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Select Sector Index GICS - misma metodología rigurosa/iconica que XLU/XLK/XLE/XLC, MAS establecida y seguida que el enfoque Russell de IYK.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral estandar de la familia Select Sector SPDR.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral estándar de la familia Select Sector SPDR.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.43
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y entre +3.35% y +9.55% segun fuente/metodologia, 3Y anualizado +6.80%, 5Y anualizado +6.30% -$1,000 crecio a $1,366 en 5 anios vs $1,331 de IYK, XLP GANA-, 10Y anualizado +7.35-7.36%, desde inception -27.65 anios- ~+6.84-6.85% -o +8.89% segun otra metodologia- - **debil frente a VOO/SPY/QQQ como toda la categoria defensiva, PERO SUPERA a IYK en la comparacion directa** -+3.35% vs -0.23% en 1Y por una fuente-.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y entre +3.35% y +9.55% según fuente/metodología, 3Y anualizado +6.80%, 5Y anualizado +6.30% -$1,000 crecio a $1,366 en 5 años vs $1,331 de IYK, XLP GANA-, 10Y anualizado +7.35-7.36%, desde inception -27.65 años- ~+6.84-6.85% -o +8.89% según otra metodología- - **débil frente a VOO/SPY/QQQ como toda la categoría defensiva, PERO SUPERA a IYK en la comparación directa** -+3.35% vs -0.23% en 1Y por una fuente-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Rango 52 semanas $75.16-$90.14 (ratio 1.199x) - similar a IYK -1.20x-, bajo/defensivo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown Crisis 2008: -32.6% a -35.9%, pico dic-2007, piso feb-2009, recuperacion completa jun-2010 -~28 meses-** - **PRIMERA cifra de Crisis 2008 verificada para un fondo de consumer staples del proyecto** -IYK no tenia dato de 2008-. Bear 2022: -9.81% -may-sep 2022, recuperado nov-2022, ~8 meses- - **MAS SUAVE que el -11.9% de IYK** en el mismo periodo.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown Crisis 2008: -32.6% a -35.9%, pico dic-2007, piso feb-2009, recuperación completa jun-2010 -~28 meses-** - **PRIMERA cifra de Crisis 2008 verificada para un fondo de consumer staples del proyecto** -IYK no tenia dato de 2008-. Bear 2022: -9.81% -may-sep 2022, recuperado nov-2022, ~8 meses- - **MAS SUAVE que el -11.9% de IYK** en el mismo período.",
           "calificacion": 4
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe 0.35-0.58 segun fuente/periodo, ~0.50 en el largo plazo - similar al rango de IYK.",
+          "notas": "Sharpe 0.35-0.58 según fuente/período, ~0.50 en el largo plazo - similar al rango de IYK.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta = 0.49-0.59 vs S&P 500 - bajo/defensivo, aunque LIGERAMENTE MAS ALTO que IYK -0.42-0.50-, interesante: el tilt healthcare-adjacent de IYK produce un beta aun mas bajo pese a ser 'menos puro' en su tesis sectorial.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Crisis 2008 -32.6% a -35.9%/28 meses recuperacion- + bear 2022 -9.81%/8 meses, mas suave que IYK- - **dataset de crisis MAS COMPLETO que IYK**, que carecia de dato de 2008.",
+          "notas": "Crisis 2008 -32.6% a -35.9%/28 meses recuperación- + bear 2022 -9.81%/8 meses, mas suave que IYK- - **dataset de crisis MAS COMPLETO que IYK**, que carecia de dato de 2008.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.67
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "P/E 20.36x -SSGA- a 22.57x -stockanalysis-, similar a IYK -20.74x-, barato vs VOO/SPY/QQQ. P/B 4.66x -cifra confirmada, IYK no tenia dato-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield 2.38-2.60% TTM, trimestral - PRACTICAMENTE IDENTICO a IYK -2.37-2.56%-.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield 2.38-2.60% TTM, trimestral - PRÁCTICAMENTE IDENTICO a IYK -2.37-2.56%-.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**LA COMPARACION MAS LIMPIA de fondos sectoriales defensivos del proyecto**: XLP vs IYK -fila 110, ya en el workbook, flagged explicitamente como pendiente en su propia Ficha- - MISMA tesis -Consumer Staples-, yield TTM practicamente identico -2.38-2.60% vs 2.37-2.56%-, pero XLP GANA DECISIVAMENTE en costo -TER 0.08% vs 0.38%, ~4.75x-, escala/liquidez -AUM 11-13x mayor, volumen 10x+ mayor- y desempeno reciente -+3.35% vs -0.23% en 1Y, $1,366 vs $1,331 en 5Y-, mientras IYK solo gana marginalmente en beta -0.50 vs 0.59- y Max Drawdown 5Y -15.04% vs 16.32%-. Mismo patron ya documentado en el proyecto con SPY-vs-VOO/DIA: la familia Select Sector SPDR es sistematicamente la via mas eficiente para exposicion sectorial de EEUU. XLP es ademas GICS puro -cero healthcare-, mientras IYK incorpora CVS/McKesson via su clasificacion Russell mas amplia. QUINTO miembro de la familia SPDR del proyecto -junto a XLU/XLK/XLE/XLC-.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**LA COMPARASIÓN MAS LIMPIA de fondos sectoriales defensivos del proyecto**: XLP vs IYK -fila 110, ya en el workbook, flagged explícitamente como pendiente en su propia Ficha- - MISMA tesis -Consumer Staples-, yield TTM prácticamente identico -2.38-2.60% vs 2.37-2.56%-, pero XLP GANA DECISIVAMENTE en costo -TER 0.08% vs 0.38%, ~4.75x-, escala/liquidez -AUM 11-13x mayor, volumen 10x+ mayor- y desempeño reciente -+3.35% vs -0.23% en 1Y, $1,366 vs $1,331 en 5Y-, mientras IYK solo gana marginalmente en beta -0.50 vs 0.59- y Max Drawdown 5Y -15.04% vs 16.32%-. Mismo patrón ya documentado en el proyecto con SPY-vs-VOO/DIA: la familia Select Sector SPDR es sistematicamente la via mas eficiente para exposición sectorial de EEUU. XLP es además GICS puro -cero healthcare-, mientras IYK incorpora CVS/McKesson via su clasificación Russell mas amplia. QUINTO miembro de la familia SPDR del proyecto -junto a XLU/XLK/XLE/XLC-.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: SATELITE DEFENSIVO - mismo rol que IYK pero un vehiculo genuinamente MEJOR EJECUTADO para cumplirlo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: SATÉLITE DEFENSIVO - mismo rol que IYK pero un vehículo genuinamente MEJOR EJECUTADO para cumplirlo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion defensiva pura, barata y liquida a consumer staples, con la narrativa de rotacion 2025-2026 mas fuerte del proyecto -staples 'unico perdedor' 2025 --1.7% a -3.8% YTD vs SPY +14.3%-, reversion aguda 2026 -+~13% YTD a comienzos de feb-2026, uno de los mejores arranques en mas de una decada-- ejecutada via el vehiculo mas eficiente disponible frente a IYK.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición defensiva pura, barata y liquida a consumer staples, con la narrativa de rotación 2025-2026 mas fuerte del proyecto -staples 'único perdedor' 2025 --1.7% a -3.8% YTD vs SPY +14.3%-, reversión aguda 2026 -+~13% YTD a comienzos de feb-2026, uno de los mejores arranques en mas de una década-- ejecutada via el vehículo mas eficiente disponible frente a IYK.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) mismo underperformance defensivo documentado frente a VOO/SPY/QQQ en la mayoria de horizontes; (2) Top10 ~62%, WMT+COST solos ~19.5%; (3) overlap con KO -ya analizada individualmente, gotcha de beta bajo degenerado-; (4) beta algo mas alto que IYK especificamente -0.49-0.59 vs 0.42-0.50-.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) mismo underperformance defensivo documentado frente a VOO/SPY/QQQ en la mayoría de horizontes; (2) Top10 ~62%, WMT+COST solos ~19.5%; (3) overlap con KO -ya analizada individualmente, gotcha de beta bajo degenerado-; (4) beta algo mas alto que IYK específicamente -0.49-0.59 vs 0.42-0.50-.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "IYK -fila 110, ya en el workbook, el competidor mas caro/menos liquido, XLP gana la comparacion directa- es la alternativa mas relevante. XLU -fila 25, ya en el workbook, otro sector defensivo de la misma familia SPDR- ofrece contraste cruzado entre sectores.",
+          "notas": "IYK -fila 110, ya en el workbook, el competidor mas caro/menos liquido, XLP gana la comparación directa- es la alternativa mas relevante. XLU -fila 25, ya en el workbook, otro sector defensivo de la misma familia SPDR- ofrece contraste cruzado entre sectores.",
           "calificacion": 5
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL - version eficiente de la tesis defensiva, gana la comparacion directa con IYK. Score 3.82/5, en linea con XLU -3.85- y XLE -3.85-, los otros miembros solidos de la familia Select Sector SPDR ya en el workbook, muy por encima de IYK -3.21-. Consumer Staples Select Sector SPDR Fund, State Street, QUINTO miembro de la familia SPDR del proyecto -junto a XLU/XLK/XLE/XLC-, inception 16-dic-1998 -MISMO DIA que XLU/XLK/XLE-, cubre dot-com/2008/COVID completos. **Es el competidor DIRECTO de IYK -fila 110, ya en el workbook, que flagged explicitamente esta comparacion pendiente en su propia Ficha-**: mismo yield TTM -2.38-2.60% vs 2.37-2.56%-, pero XLP GANA DECISIVAMENTE en costo -TER 0.08% vs 0.38%, ~4.75x-, escala -AUM 11-13x mayor-, liquidez -volumen 10x+ mayor- y desempeno reciente -+3.35% vs -0.23% en 1Y, $1,366 vs $1,331 en 5Y-, mientras IYK solo gana marginalmente en beta -0.50 vs 0.59- y Max Drawdown 5Y -15.04% vs 16.32%-. GICS PURO -cero healthcare, a diferencia del ~11-12% healthcare-adjacent de IYK via su clasificacion Russell-. Max Drawdown Crisis 2008 VERIFICADO -32.6% a -35.9%, ~28 meses de recuperacion- - primera cifra de 2008 para un fondo de consumer staples del proyecto -IYK no tenia dato-. Retorno debil frente a VOO/SPY/QQQ como toda la categoria defensiva -mismo patron ya visto en IYK-, pero con la narrativa de rotacion 2025-2026 mas fuerte del proyecto -staples peor sector 2025, reversion aguda 2026-. Rol en Portafolio: Satelite defensivo, la version eficiente de la misma tesis que IYK ya cubre de forma mas cara y menos liquida."
+    "tesis": "MANTENER/ACUMULAR GRADUAL - versión eficiente de la tesis defensiva, gana la comparación directa con IYK. Score 3.82/5, en línea con XLU -3.85- y XLE -3.85-, los otros miembros sólidos de la familia Select Sector SPDR ya en el workbook, muy por encima de IYK -3.21-. Consumer Staples Select Sector SPDR Fund, State Street, QUINTO miembro de la familia SPDR del proyecto -junto a XLU/XLK/XLE/XLC-, inception 16-dic-1998 -MISMO DIA que XLU/XLK/XLE-, cubre dot-com/2008/COVID completos. **Es el competidor DIRECTO de IYK -fila 110, ya en el workbook, que flagged explícitamente esta comparación pendiente en su propia Ficha-**: mismo yield TTM -2.38-2.60% vs 2.37-2.56%-, pero XLP GANA DECISIVAMENTE en costo -TER 0.08% vs 0.38%, ~4.75x-, escala -AUM 11-13x mayor-, liquidez -volumen 10x+ mayor- y desempeño reciente -+3.35% vs -0.23% en 1Y, $1,366 vs $1,331 en 5Y-, mientras IYK solo gana marginalmente en beta -0.50 vs 0.59- y Max Drawdown 5Y -15.04% vs 16.32%-. GICS PURO -cero healthcare, a diferencia del ~11-12% healthcare-adjacent de IYK via su clasificación Russell-. Max Drawdown Crisis 2008 VERIFICADO -32.6% a -35.9%, ~28 meses de recuperación- - primera cifra de 2008 para un fondo de consumer staples del proyecto -IYK no tenia dato-. Retorno débil frente a VOO/SPY/QQQ como toda la categoría defensiva -mismo patrón ya visto en IYK-, pero con la narrativa de rotación 2025-2026 mas fuerte del proyecto -staples peor sector 2025, reversión aguda 2026-. Rol en Portafolio: Satélite defensivo, la versión eficiente de la misma tesis que IYK ya cubre de forma mas cara y menos liquida."
   }
 }

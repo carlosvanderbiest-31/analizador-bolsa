@@ -1,36 +1,36 @@
 {
   "nombre": "Global X Uranium ETF",
   "ticker": "URA",
-  "categoria": "Equity Tematico/Factor (mineria de uranio + componentes nucleares: extraccion, enriquecimiento, reactores SMR)",
+  "categoria": "Equity Temático/Factor (mineria de uranio + componentes nucleares: extracción, enriquecimiento, reactores SMR)",
   "emisor": "Global X (Mirae Asset Global Investments)",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Metodo de replica exacto no confirmado explicitamente por las fuentes consultadas. Se infiere FISICA (top10 suma ~64%, cifra normal sin senal de exposicion sintetica via swaps como en DRAM) probablemente COMPLETA dado el tamano acotado del universo (58-63 holdings).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Metodo de réplica exacto no confirmado explícitamente por las fuentes consultadas. Se infiere FÍSICA (top10 suma ~64%, cifra normal sin señal de exposición sintetica via swaps como en DRAM) probablemente COMPLETA dado el tamaño acotado del universo (58-63 holdings).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, cotiza en NYSEARCA, pero la mayoria de los holdings reales son EXTRANJEROS: Cameco (Canada, 22.11%), NexGen Energy (Canada), Energy Fuels (Canada), Sprott Physical Uranium Trust (Canada), NAC Kazatomprom (Kazajistan, via GDR de Londres) - friccion fiscal de retencion sobre dividendos/distribuciones extranjeras real, aunque el yield del fondo proviene mayormente de ganancias de capital realizadas, no de dividendos ordinarios extranjeros puros.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, cotiza en NYSEARCA, pero la mayoría de los holdings reales son EXTRANJEROS: Cameco (Canada, 22.11%), NexGen Energy (Canada), Energy Fuels (Canada), Sprott Physical Uranium Trust (Canada), NAC Kazatomprom (Kazajistan, via GDR de Londres) - fricción fiscal de retención sobre dividendos/distribuciones extranjeras real, aunque el yield del fondo proviene mayormente de ganancias de capital realizadas, no de dividendos ordinarios extranjeros puros.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM entre $5.86bn (stockanalysis) y $8.03bn (busqueda general, may-2026) y $6.26bn (globalxetfs.com, fuente oficial del emisor, 7-ago-2026) - rango amplio pero explicable por la alta volatilidad del sector uranio/nuclear en los meses recientes, no por error de fuente. En cualquier caso, uno de los AUM mas grandes del proyecto entre los ETFs tematicos de nicho, muy superior a ARTY ($3.8bn)/AIPO ($0.96bn)/IHAK/CRAK/EUV/DRAM.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM entre $5.86bn (stockanalysis) y $8.03bn (busqueda general, may-2026) y $6.26bn (globalxetfs.com, fuente oficial del emisor, 7-ago-2026) - rango amplio pero explicable por la alta volatilidad del sector uranio/nuclear en los meses recientes, no por error de fuente. En cualquier caso, uno de los AUM mas grandes del proyecto entre los ETFs temáticos de nicho, muy superior a ARTY ($3.8bn)/AIPO ($0.96bn)/IHAK/CRAK/EUV/DRAM.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 4-nov-2010 (~15.8 anios) - CONFIRMADO sin ambiguedad por 2 fuentes independientes (stockanalysis y globalxetfs.com oficial), SIN cambio de indice/mandato (a diferencia del gotcha de ARTY) - track record largo y limpio bajo la MISMA tesis desde el lanzamiento. Cuarto track record mas largo del proyecto tras SOXX (25.1)/VTV-VUG-VGT (22.5)/ITA (20.3).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 4-nov-2010 (~15.8 años) - CONFIRMADO sin ambiguedad por 2 fuentes independientes (stockanalysis y globalxetfs.com oficial), SIN cambio de índice/mandato (a diferencia del gotcha de ARTY) - track record largo y limpio bajo la MISMA tesis desde el lanzamiento. Cuarto track record mas largo del proyecto tras SOXX (25.1)/VTV-VUG-VGT (22.5)/ITA (20.3).",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Global X, subsidiaria de Mirae Asset Global Investments (grupo financiero surcoreano) - PRIMERA aparicion de este emisor en el proyecto. Especialista reconocido en ETFs tematicos (URA, LIT, BOTZ, DRIV, entre muchos otros), sin señales de alarma de credibilidad, comparable en escala/reputacion a VanEck/Invesco ya vistos en el proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Global X, subsidiaria de Mirae Asset Global Investments (grupo financiero surcoreano) - PRIMERA aparición de este emisor en el proyecto. Especialista reconocido en ETFs temáticos (URA, LIT, BOTZ, DRIV, entre muchos otros), sin señales de alarma de credibilidad, comparable en escala/reputación a VanEck/Invesco ya vistos en el proyecto.",
           "calificacion": 4
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.69% - EMPATA el record del proyecto con AIPO (el mas alto de los 22 ETFs analizados).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.69% - EMPATA el récord del proyecto con AIPO (el mas alto de los 22 ETFs analizados).",
           "calificacion": 1
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado esta sesion.",
+          "notas": "Securities lending revenue no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Frecuencia de reconstitucion/rebalanceo del indice Solactive Global Uranium & Nuclear Components no confirmada con precision esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Frecuencia de reconstitución/rebalanceo del índice Solactive Global Uranium & Nuclear Components no confirmada con precisión esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 1,641,424 acciones (stockanalysis) x ~$44.49/accion (precio 10-ago-2026) = aprox $73.0M/dia - MUY LIQUIDO, el mejor de los ETFs tematicos de nicho reciente del proyecto (muy superior a ARTY ~$10.8M/AIPO ~$21.5M), comparable a fondos mucho mas grandes.",
+          "notas": "Volumen diario = 1,641,424 acciones (stockanalysis) x ~$44.49/acción (precio 10-ago-2026) = aprox $73.0M/dia - MUY LIQUIDO, el mejor de los ETFs temáticos de nicho reciente del proyecto (muy superior a ARTY ~$10.8M/AIPO ~$21.5M), comparable a fondos mucho mas grandes.",
           "calificacion": 5
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask = 0.05% (mediana 30 dias, fuente oficial globalxetfs.com) - muy ajustado, el mejor de los ETFs tematicos de nicho reciente.",
+          "notas": "Spread bid-ask = 0.05% (mediana 30 dias, fuente oficial globalxetfs.com) - muy ajustado, el mejor de los ETFs temáticos de nicho reciente.",
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "N Holdings inconsistente entre fuentes: 63 (stockanalysis) vs 58 (globalxetfs.com oficial) vs 57 (busqueda general) - se uso 58 (fuente oficial del emisor). Moderado numero, sin discrepancia grave.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "N Holdings inconsistente entre fuentes: 63 (stockanalysis) vs 58 (globalxetfs.com oficial) vs 57 (busqueda general) - se uso 58 (fuente oficial del emisor). Moderado número, sin discrepancia grave.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 63.86-63.89% (excelente corroboracion entre 2 fuentes independientes, calculo propio a partir de los pesos individuales coincide casi exacto) - concentracion ALTA, con Cameco SOLA representando 22.11% del fondo, la posicion individual mas grande de cualquier ETF del proyecto salvo NVDA en SMH (21.70%).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 63.86-63.89% (excelente corroboración entre 2 fuentes independientes, calculo propio a partir de los pesos individuales coincide casi exacto) - concentración ALTA, con Cameco SOLA representando 22.11% del fondo, la posición individual mas grande de cualquier ETF del proyecto salvo NVDA en SMH (21.70%).",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Energy 60.7% + Industrials 26.0% = ~87% en dos sectores (globalxetfs.com oficial, con Utilities 7.1%/Materials 5.4%/IT 0.9% residual) - concentracion tematica alta en la cadena de valor del uranio/nuclear (mineria+enriquecimiento+reactores), aunque repartida en mas de un sub-sector GICS que los ETFs de semiconductores puros.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Energy 60.7% + Industrials 26.0% = ~87% en dos sectores (globalxetfs.com oficial, con Utilities 7.1%/Materials 5.4%/IT 0.9% residual) - concentración temática alta en la cadena de valor del uranio/nuclear (mineria+enriquecimiento+reactores), aunque repartida en mas de un sub-sector GICS que los ETFs de semiconductores puros.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica: pese a domicilio/listado US, la MAYORIA de los holdings reales son de Canada (Cameco, NexGen, Energy Fuels, Sprott Trust) y hay exposicion directa a Kazajistan via Kazatomprom (~40% del suministro MUNDIAL de uranio segun conocimiento general de la industria) - riesgo geopolitico real de Asia Central, no reflejado por el domicilio US del vehiculo.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica: pese a domicilio/listado US, la MAYORÍA de los holdings reales son de Canada (Cameco, NexGen, Energy Fuels, Sprott Trust) y hay exposición directa a Kazajistan via Kazatomprom (~40% del suministro MUNDIAL de uranio según conocimiento general de la industria) - riesgo geopolítico real de Asia Central, no reflejado por el domicilio US del vehículo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Mezcla de perfiles de riesgo MUY dispar dentro del propio top10: una minera grande y rentable (Cameco) junto a mineras junior pre-revenue o de utilidades erraticas (NexGen, Uranium Energy Corp, Energy Fuels), un trust de materia prima fisica sin flujos de caja propios (Sprott), y desarrolladores de reactores SMR aun no comerciales (X-Energy, NuScale/SMR) - perfil especulativo de alto riesgo tipico de un sector de commodity ciclico temprano en su ciclo de inversion.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Mezcla de perfiles de riesgo MUY dispar dentro del propio top10: una minera grande y rentable (Cameco) junto a mineras junior pre-revenue o de utilidades erraticas (NexGen, Uranium Energy Corp, Energy Fuels), un trust de materia prima física sin flujos de caja propios (Sprott), y desarrolladores de reactores SMR aun no comerciales (X-Energy, NuScale/SMR) - perfil especulativo de alto riesgo típico de un sector de commodity ciclico temprano en su ciclo de inversión.",
           "calificacion": 2
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Solactive Global Uranium & Nuclear Components Index - proveedor reconocido (Solactive, ya conocido en la industria de ETFs), pero reglas de rebalanceo/ponderacion no confirmadas con precision esta sesion.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Solactive Global Uranium & Nuclear Components Index - proveedor reconocido (Solactive, ya conocido en la industria de ETFs), pero reglas de rebalanceo/ponderación no confirmadas con precisión esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia de rebalanceo del indice no confirmadas con precision esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia de rebalanceo del índice no confirmadas con precisión esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.57
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "**Retorno anualizado DESDE INCEPCION = -2.54% en 15.8 anios (stockanalysis) - EL PEOR RETORNO HISTORICO DE TODO EL PROYECTO Y EL UNICO NEGATIVO**, peor incluso que XOP (+2.56% anualizado en 20 anios, el anterior peor del proyecto). Pese al rally reciente del tema nuclear/IA (1Y +16.73%, notablemente MAS MODESTO que otros temas de IA del proyecto como SOXX +122%/SMH +96.5%/ARTY +71%), el fondo TODAVIA no ha recuperado su punto de equilibrio historico desde 2010 - refleja el colapso del precio del uranio tras el accidente de Fukushima (2011) y una decada larga de mercado bajista antes del renacimiento nuclear reciente.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "**Retorno anualizado DESDE INCEPSIÓN = -2.54% en 15.8 años (stockanalysis) - EL PEOR RETORNO HISTÓRICO DE TODO EL PROYECTO Y EL ÚNICO NEGATIVO**, peor incluso que XOP (+2.56% anualizado en 20 años, el anterior peor del proyecto). Pese al rally reciente del tema nuclear/IA (1Y +16.73%, notablemente MAS MODESTO que otros temas de IA del proyecto como SOXX +122%/SMH +96.5%/ARTY +71%), el fondo TODAVÍA no ha recuperado su punto de equilibrio histórico desde 2010 - refleja el colapso del precio del uranio tras el accidente de Fukushima (2011) y una década larga de mercado bajista antes del renacimiento nuclear reciente.",
           "calificacion": 1
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada = 51.16% (PortfoliosLab, 1 anio) - LA MAS ALTA DE TODO EL PROYECTO, supera a XOP (33%) y a los tematicos de IA (ARTY 37.4%, AIPO 36.0%, SOXX/SMH 37-39%) - coherente con el perfil de commodity + mineras junior de alto riesgo.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada = 51.16% (PortfoliosLab, 1 año) - LA MAS ALTA DE TODO EL PROYECTO, supera a XOP (33%) y a los temáticos de IA (ARTY 37.4%, AIPO 36.0%, SOXX/SMH 37-39%) - coherente con el perfil de commodity + mineras junior de alto riesgo.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown: se encontro una cifra de -12.52% (macroaxis) que se DESCARTO EXPLICITAMENTE por IMPLAUSIBLE - contradice tanto el propio retorno anualizado NEGATIVO desde inception (-2.54% en 15.8 anios, matematicamente imposible sin una caida acumulada mucho mayor a 12.5% en algun tramo del camino) como el conocimiento bien documentado del colapso del precio del uranio post-Fukushima (de mas de $70/lb a ~$18/lb entre 2011-2016). No se encontro una cifra alternativa confiable de Max Drawdown real esta sesion - se dejo en blanco en el Dashboard en vez de forzar la cifra implausible, mismo criterio de rigor ya aplicado a la ambiguedad de definicion de ITA.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown: se encontro una cifra de -12.52% (macroaxis) que se DESCARTO EXPLÍCITAMENTE por IMPLAUSIBLE - contradice tanto el propio retorno anualizado NEGATIVO desde inception (-2.54% en 15.8 años, matematicamente imposible sin una caida acumulada mucho mayor a 12.5% en algun tramo del camino) como el conocimiento bien documentado del colapso del precio del uranio post-Fukushima (de mas de $70/lb a ~$18/lb entre 2011-2016). No se encontro una cifra alternativa confiable de Max Drawdown real esta sesión - se dejo en blanco en el Dashboard en vez de forzar la cifra implausible, mismo criterio de rigor ya aplicado a la ambiguedad de definición de ITA.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio: DOS cifras muy inconsistentes entre si: 2.76 (PortfoliosLab, snapshot especifico fechado 4-mar-2026, probablemente refleja una ventana corta de rally fuerte del precio del uranio) vs 0.41 (1 anio, ventana mas reciente y representativa a ago-2026). Se uso 0.41 por ser la ventana mas actual, con nota de cautela sobre la inconsistencia.",
+          "notas": "Sharpe Ratio: DOS cifras muy inconsistentes entre si: 2.76 (PortfoliosLab, snapshot específico fechado 4-mar-2026, probablemente refleja una ventana corta de rally fuerte del precio del uranio) vs 0.41 (1 año, ventana mas reciente y representativa a ago-2026). Se uso 0.41 por ser la ventana mas actual, con nota de cautela sobre la inconsistencia.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500: reportado como 1.14 (stockanalysis) vs 2.00-2.48 segun otros agregadores - la primera cifra se trata con ESCEPTICISMO por ser implausiblemente BAJA dado el perfil de volatilidad observado (51%, el mas alto del proyecto) y la reputacion bien conocida de URA como uno de los ETFs sectoriales mas volatiles del mercado; se uso ~2.2 (promedio de 2.00/2.48) como mas coherente con el resto de la evidencia. OVERLAP MINIMO con el Dashboard de acciones del usuario: de todo el top10, SOLO Oklo (OKLO, 6.70%) esta analizado individualmente (como 'ESPECULATIVO DE ALTO RIESGO - NO APTO PARA MARGEN DE SEGURIDAD', sin DCF) - el overlap MAS BAJO de los ETFs tematicos recientes del proyecto (vs ~34-35% de ARTY/AIPO), similar en espiritu a ITA/VYMI como diversificador genuino de convicciones.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500: reportado como 1.14 (stockanalysis) vs 2.00-2.48 según otros agregadores - la primera cifra se trata con ESCEPTICISMO por ser implausiblemente BAJA dado el perfil de volatilidad observado (51%, el mas alto del proyecto) y la reputación bien conocida de URA como uno de los ETFs sectoriales mas volatiles del mercado; se uso ~2.2 (promedio de 2.00/2.48) como mas coherente con el resto de la evidencia. OVERLAP MÍNIMO con el Dashboard de acciones del usuario: de todo el top10, SOLO Oklo (OKLO, 6.70%) esta analizado individualmente (como 'ESPECULATIVO DE ALTO RIESGO - NO APTO PARA MARGEN DE SEGURIDAD', sin DCF) - el overlap MAS BAJO de los ETFs temáticos recientes del proyecto (vs ~34-35% de ARTY/AIPO), similar en espiritu a ITA/VYMI como diversificador genuino de convicciones.",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "A diferencia de ARTY/AIPO/EUV/DRAM, URA SI atraveso una crisis sectorial real y prolongada (colapso del uranio post-Fukushima 2011-2016) con evidencia DIRECTA de 15.8 anios de historial - pero esa evidencia es MALA: el retorno acumulado sigue siendo negativo hoy, senal de una recuperacion muy lenta e incompleta del sector incluso con el viento de cola reciente del renacimiento nuclear/IA.",
+          "notas": "A diferencia de ARTY/AIPO/EUV/DRAM, URA SI atraveso una crisis sectorial real y prolongada (colapso del uranio post-Fukushima 2011-2016) con evidencia DIRECTA de 15.8 años de historial - pero esa evidencia es MALA: el retorno acumulado sigue siendo negativo hoy, señal de una recuperación muy lenta e incompleta del sector incluso con el viento de cola reciente del renacimiento nuclear/IA.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 35.68x - caro, en un sector de commodity con varias mineras junior pre-revenue o de utilidades erraticas (mismo gotcha de 'value trap de supercycle' ya documentado con MU/TSM en el Dashboard de acciones y aplicado a nivel de ETF completo con XOP/CRAK) - el P/E puede estar distorsionado al alza por las pocas empresas realmente rentables de la canasta (Cameco, Kazatomprom) mientras el resto apenas genera utilidad. Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 35.68x - caro, en un sector de commodity con varias mineras junior pre-revenue o de utilidades erraticas (mismo gotcha de 'value trap de supercycle' ya documentado con MU/TSM en el Dashboard de acciones y aplicado a nivel de ETF completo con XOP/CRAK) - el P/E puede estar distorsionado al alza por las pocas empresas realmente rentables de la canasta (Cameco, Kazatomprom) mientras el resto apenas genera utilidad. Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield TTM = 4.69%, PERO Payout Ratio = 175.02% - MATEMATICAMENTE INSOSTENIBLE (mas del 100% de las utilidades), señal clara de que la distribucion incluye retorno de capital y/o ganancias de capital realizadas del propio fondo, no ingreso operativo genuino de las empresas subyacentes (la mayoria de las mineras junior de la canasta no pagan dividendos reales). Distribucion ANUAL (globalxetfs.com), no trimestral/semestral como los fondos mas establecidos del proyecto. El yield 'headline' de 4.69% es ENGANOSO para un inversionista que busque ingreso genuino.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield TTM = 4.69%, PERO Payout Ratio = 175.02% - MATEMATICAMENTE INSOSTENIBLE (mas del 100% de las utilidades), señal clara de que la distribución incluye retorno de capital y/o ganancias de capital realizadas del propio fondo, no ingreso operativo genuino de las empresas subyacentes (la mayoría de las mineras junior de la canasta no pagan dividendos reales). Distribución ANUAL (globalxetfs.com), no trimestral/semestral como los fondos mas establecidos del proyecto. El yield 'headline' de 4.69% es ENGANOSO para un inversionista que busque ingreso genuino.",
           "calificacion": 2
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - URA es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION CABEZA A CABEZA CON URNM** (Sprott Uranium Miners ETF, analizado despues en este workbook, fila 23): URA es MAS BARATO en TER (0.69% vs 0.75%, URNM es el nuevo record del proyecto), MENOS CONCENTRADO (top10 63.9% vs 78.6%, URNM es record del proyecto), MAS LIQUIDO ($73M/dia vs $10.9M/dia, spread 0.05% vs 0.29%) y con volatilidad/drawdown LIGERAMENTE MEJORES (51% vs 53% de volatilidad) - PERO URA es MAS CARO en P/E (35.7x vs 22.7x, URA incluye desarrolladores especulativos de reactores SMR que distorsionan el multiplo al alza), tiene overlap real con la cartera del usuario (OKLO, 6.70%, vs overlap CERO de URNM) y un historial de retorno mucho mas debil (-2.54% anualizado en 15.8 anios vs +28.0% en 6.7 anios de URNM, aunque el retorno superior de URNM se explica en gran parte por haber nacido en dic-2019 cerca del fondo del ciclo bajista, no por ser un vehiculo estructuralmente mejor - ver Ficha URNM fila 39). Ninguno de los dos es claramente superior: para este usuario, ambos comparten el mismo riesgo de commodity ciclico extremo, por lo que se recomienda como maximo una posicion tactica acotada en UNO de los dos, no en ambos dado el solapamiento casi total de tesis y holdings principales.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN CABEZA A CABEZA CON URNM** (Sprott Uranium Miners ETF, analizado después en este workbook, fila 23): URA es MAS BARATO en TER (0.69% vs 0.75%, URNM es el nuevo récord del proyecto), MENOS CONCENTRADO (top10 63.9% vs 78.6%, URNM es récord del proyecto), MAS LIQUIDO ($73M/dia vs $10.9M/dia, spread 0.05% vs 0.29%) y con volatilidad/drawdown LIGERAMENTE MEJORES (51% vs 53% de volatilidad) - PERO URA es MAS CARO en P/E (35.7x vs 22.7x, URA incluye desarrolladores especulativos de reactores SMR que distorsionan el múltiplo al alza), tiene overlap real con la cartera del usuario (OKLO, 6.70%, vs overlap CERO de URNM) y un historial de retorno mucho mas débil (-2.54% anualizado en 15.8 años vs +28.0% en 6.7 años de URNM, aunque el retorno superior de URNM se explica en gran parte por haber nacido en dic-2019 cerca del fondo del ciclo bajista, no por ser un vehículo estructuralmente mejor - ver Ficha URNM fila 39). Ninguno de los dos es claramente superior: para este usuario, ambos comparten el mismo riesgo de commodity ciclico extremo, por lo que se recomienda como máximo una posición táctica acotada en UNO de los dos, no en ambos dado el solapamiento casi total de tesis y holdings principales.",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: tesis de commodity ciclico con historial de recuperacion MUY lento (retorno aun negativo a 15.8 anios pese al rally reciente) y volatilidad extrema (51%, la mas alta del proyecto) - a pesar del overlap bajo con la cartera actual del usuario (solo OKLO), el perfil de riesgo/retorno historico es de los peores del proyecto. Rol: Tactico/especulativo de tamano acotado, NO Core ni Satelite de largo plazo tipo 'comprar y mantener'.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: tesis de commodity ciclico con historial de recuperación MUY lento (retorno aun negativo a 15.8 años pese al rally reciente) y volatilidad extrema (51%, la mas alta del proyecto) - a pesar del overlap bajo con la cartera actual del usuario (solo OKLO), el perfil de riesgo/retorno histórico es de los peores del proyecto. Rol: Táctico/especulativo de tamaño acotado, NO Core ni Satélite de largo plazo tipo 'comprar y mantener'.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: renacimiento nuclear genuino y bien documentado (demanda de energia de centros de datos de IA + politica energetica favorable a nuclear en varios paises + deficit estructural de oferta de uranio tras anios de subinversion post-Fukushima) - tesis coherente con el megatema 'power for AI' ya visto en AIPO/CEG/BE del proyecto, pero el historial de precio de 15.8 anios sugiere que el mercado ya ha sido 'prometido' un renacimiento nuclear antes (ej. pre-Fukushima 2010-2011) sin que se materializara de forma sostenida - cautela sobre el riesgo de repetir ese patron.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: renacimiento nuclear genuino y bien documentado (demanda de energía de centros de datos de IA + política energetica favorable a nuclear en varios paises + déficit estructural de oferta de uranio tras años de subinversión post-Fukushima) - tesis coherente con el megatema 'power for AI' ya visto en AIPO/CEG/BE del proyecto, pero el historial de precio de 15.8 años sugiere que el mercado ya ha sido 'prometido' un renacimiento nuclear antes (ej. pre-Fukushima 2010-2011) sin que se materializara de forma sostenida - cautela sobre el riesgo de repetir ese patrón.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) retorno anualizado NEGATIVO desde inception (-2.54% en 15.8 anios) - EL UNICO ETF DEL PROYECTO CON RETORNO HISTORICO NEGATIVO; (2) volatilidad EXTREMA (51%, la mas alta del proyecto) y beta alto (~2.0-2.5); (3) TER empata el record mas alto del proyecto (0.69%); (4) concentracion en una sola materia prima ciclica con historial de booms y colapsos severos (post-Fukushima); (5) exposicion geopolitica real a Kazajistan (~40% del suministro mundial via Kazatomprom) y dependencia de Canada; (6) dividend yield enganoso (payout ratio 175%, no es ingreso operativo genuino, es principalmente ganancias de capital/retorno de capital); (7) varias mineras junior en la canasta con riesgo de ejecucion y financiamiento propio de exploracion.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) retorno anualizado NEGATIVO desde inception (-2.54% en 15.8 años) - EL ÚNICO ETF DEL PROYECTO CON RETORNO HISTÓRICO NEGATIVO; (2) volatilidad EXTREMA (51%, la mas alta del proyecto) y beta alto (~2.0-2.5); (3) TER empata el récord mas alto del proyecto (0.69%); (4) concentración en una sola materia prima ciclica con historial de booms y colapsos severos (post-Fukushima); (5) exposición geopolitica real a Kazajistan (~40% del suministro mundial via Kazatomprom) y dependencia de Canada; (6) dividend yield enganoso (payout ratio 175%, no es ingreso operativo genuino, es principalmente ganancias de capital/retorno de capital); (7) varias mineras junior en la canasta con riesgo de ejecución y financiamiento propio de exploración.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Alternativas/competidores no verificados con datos propios esta sesion (ver fila 50).",
+          "notas": "Alternativas/competidores no verificados con datos propios esta sesión (ver fila 50).",
           "calificacion": 3
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). Score 2.94/5, un llamado MUY CERRADO justo por debajo del umbral de 3.0 (mismo margen estrecho que CRAK 2.91/XOP 3.03). URA es un CASO NUEVO Y DISTINTO de los otros 3 ETFs de score bajo del proyecto (EUV emisor no probado, DRAM estructura de swap, ARTY cambio de mandato): aqui el emisor es solido (Global X/Mirae Asset), el vehiculo es antiguo y limpio (15.8 anios, sin cambio de indice), la liquidez es excelente ($73M/dia, spread 0.05%) y el overlap con la cartera del usuario es MINIMO (solo OKLO, 6.70% del fondo) - en casi cualquier otra dimension estructural, URA se veria como uno de los ETFs de mejor calidad del proyecto. El problema es puramente de PERFIL DE RIESGO/RETORNO HISTORICO DEL SECTOR: retorno anualizado NEGATIVO desde 2010 (-2.54%, el UNICO negativo del proyecto, peor que el -tambien pobre- +2.56% de XOP) y la volatilidad MAS ALTA del proyecto (51%), reflejo de que el uranio es una de las materias primas mas ciclicas y sujetas a shocks binarios (Fukushima 2011) que existen. Mismo arquetipo de 'value trap de supercycle de commodity' ya documentado con XOP/CRAK, pero llevado a su version MAS EXTREMA: no solo un retorno historico pobre, sino NEGATIVO tras 15.8 anios pese al viento de cola reciente del renacimiento nuclear/IA. Recomendacion: si el usuario quiere exposicion tactica al tema nuclear, considerar un tamano de posicion MUY acotado y con conciencia explicita de que el sector ya ha generado y destruido entusiasmo similar antes (pre-2011)."
+    "tesis": "REDUCIR/VENDER (evitar). Score 2.94/5, un llamado MUY CERRADO justo por debajo del umbral de 3.0 (mismo margen estrecho que CRAK 2.91/XOP 3.03). URA es un CASO NUEVO Y DISTINTO de los otros 3 ETFs de score bajo del proyecto (EUV emisor no probado, DRAM estructura de swap, ARTY cambio de mandato): aquí el emisor es sólido (Global X/Mirae Asset), el vehículo es antiguo y limpio (15.8 años, sin cambio de índice), la liquidez es excelente ($73M/dia, spread 0.05%) y el overlap con la cartera del usuario es MÍNIMO (solo OKLO, 6.70% del fondo) - en casi cualquier otra dimensión estructural, URA se veria como uno de los ETFs de mejor calidad del proyecto. El problema es puramente de PERFIL DE RIESGO/RETORNO HISTÓRICO DEL SECTOR: retorno anualizado NEGATIVO desde 2010 (-2.54%, el ÚNICO negativo del proyecto, peor que el -también pobre- +2.56% de XOP) y la volatilidad MAS ALTA del proyecto (51%), reflejo de que el uranio es una de las materias primas mas ciclicas y sujetas a shocks binarios (Fukushima 2011) que existen. Mismo arquetipo de 'value trap de supercycle de commodity' ya documentado con XOP/CRAK, pero llevado a su versión MAS EXTREMA: no solo un retorno histórico pobre, sino NEGATIVO tras 15.8 años pese al viento de cola reciente del renacimiento nuclear/IA. Recomendación: si el usuario quiere exposición táctica al tema nuclear, considerar un tamaño de posición MUY acotado y con conciencia explicita de que el sector ya ha generado y destruido entusiasmo similar antes (pre-2011)."
   }
 }

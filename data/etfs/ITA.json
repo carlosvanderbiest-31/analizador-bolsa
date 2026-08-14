@@ -6,30 +6,30 @@
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO ('representative sampling strategy' / 'optimized sampling', confirmado por dos fuentes) - notable porque, a diferencia de VYMI (donde el muestreo se justifica por el tamano del indice, >1500 componentes), ITA solo tiene 50-53 holdings; el muestreo aqui probablemente se debe a la gestion activa necesaria alrededor de los topes de concentracion del indice (22.5% single-name, 45% agregado). Sin riesgo de contraparte.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO ('representative sampling strategy' / 'optimized sampling', confirmado por dos fuentes) - notable porque, a diferencia de VYMI (donde el muestreo se justifica por el tamaño del índice, >1500 componentes), ITA solo tiene 50-53 holdings; el muestreo aquí probablemente se debe a la gestion activa necesaria alrededor de los topes de concentración del índice (22.5% single-name, 45% agregado). Sin riesgo de contraparte.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. El top10 completo son empresas listadas en EEUU (GE, RTX, BA, GD, HWM, LMT, NOC, TDG, LHX, AXON) - friccion fiscal de dividendos extranjeros minima.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. El top10 completo son empresas listadas en EEUU (GE, RTX, BA, GD, HWM, LMT, NOC, TDG, LHX, AXON) - fricción fiscal de dividendos extranjeros minima.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM ~$14.8-15bn (stockanalysis.com $14.78bn; Trackinsight EUR12.92bn=~$14bn al 5-ago-2026) - grande, comparable a CIBR ($15.4bn). Riesgo de cierre nulo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Lanzado 1-may-2006 (~20.3 anios de historial al 2026-08-10) - el SEGUNDO track record mas largo del proyecto despues de SOXX (25.1 anios). Sobrevivio la crisis financiera de 2008, los recortes automaticos de gasto militar ('sequestration') de 2011-2013, COVID 2020, y capturo el reciente ciclo de aumento del gasto en defensa (invasion rusa de Ucrania 2022+).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Lanzado 1-may-2006 (~20.3 años de historial al 2026-08-10) - el SEGUNDO track record mas largo del proyecto después de SOXX (25.1 años). Sobrevivio la crisis financiera de 2008, los recortes automáticos de gasto militar ('sequestration') de 2011-2013, COVID 2020, y capturo el reciente ciclo de aumento del gasto en defensa (invasión rusa de Ucrania 2022+).",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor: BlackRock (iShares), la gestora de ETFs mas grande del mundo.",
           "calificacion": 5
         }
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.38% (stockanalysis) / 0.37% (Trackinsight) - moderado, similar a SOXX (0.34%), mas barato que IHAK (0.47%) y CIBR (0.58%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "No verificado con fuente primaria en esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesión.",
           "calificacion": 3
         },
         {
@@ -55,7 +55,7 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
           "notas": "Rebalanceo TRIMESTRAL (el lunes siguiente al tercer viernes de marzo/junio/septiembre/diciembre, confirmado) - misma cadencia que CIBR y SOXX.",
           "calificacion": 3
         }
@@ -63,66 +63,66 @@
       "rating_promedio": 3.25
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "No se obtuvo cifra explicita de volumen diario, pero con AUM $14.8bn y 59.65M acciones en circulacion (stockanalysis) se infiere liquidez alta.",
+          "notas": "No se obtuvo cifra explicita de volumen diario, pero con AUM $14.8bn y 59.65M acciones en circulación (stockanalysis) se infiere liquidez alta.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "No verificado con cifra exacta, pero el AUM grande y los 20 anios de historial sugieren spread ajustado.",
+          "notas": "No verificado con cifra exacta, pero el AUM grande y los 20 años de historial sugieren spread ajustado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "No verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesión.",
           "calificacion": 4
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "BlackRock, fondo de 20 anios y $14.8bn AUM - se infiere profundidad de Authorized Participants adecuada.",
+          "notas": "BlackRock, fondo de 20 años y $14.8bn AUM - se infiere profundidad de Authorized Participants adecuada.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 4.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "50-53 holdings segun la fuente (Trackinsight 50, stockanalysis 53) - similar en magnitud a CIBR/IHAK.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "50-53 holdings según la fuente (Trackinsight 50, stockanalysis 53) - similar en magnitud a CIBR/IHAK.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 76.65% (stockanalysis), Top 15 = 86.26% (Trackinsight) - LA CONCENTRACION MAS ALTA DEL PROYECTO, superando incluso a SOXX (61.14%/77.78%). Y mas grave aun: SOLO TRES nombres (GE Aerospace 21.67-22.61%, RTX 14.82-16.85%, Boeing 8.90-9.32%) ya suman ~47-48% DEL FONDO - esto es concentracion de NOMBRE INDIVIDUAL, no solo de sector, el problema estructural mas severo de concentracion detectado en el proyecto.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 76.65% (stockanalysis), Top 15 = 86.26% (Trackinsight) - LA CONCENTRASIÓN MAS ALTA DEL PROYECTO, superando incluso a SOXX (61.14%/77.78%). Y mas grave aun: SOLO TRES nombres (GE Aerospace 21.67-22.61%, RTX 14.82-16.85%, Boeing 8.90-9.32%) ya suman ~47-48% DEL FONDO - esto es concentración de NOMBRE INDIVIDUAL, no solo de sector, el problema estructural mas severo de concentración detectado en el proyecto.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Industrials 95.89% + Non-Energy Materials 4.04% = ~100% del fondo (Trackinsight) - concentracion sectorial tan extrema como SOXX/IHAK/CIBR, mismo patron de 'sector puro'.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Industrials 95.89% + Non-Energy Materials 4.04% = ~100% del fondo (Trackinsight) - concentración sectorial tan extrema como SOXX/IHAK/CIBR, mismo patrón de 'sector puro'.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Geografia 'Primarily USA' (Trackinsight) - el indice es explicitamente 'US Select'. A DIFERENCIA de SOXX (que tenia TSM/ASML como diversificacion geografica parcial dentro del sector), ITA es practicamente 100% domestico sin ninguna diversificacion geografica - menos diversificado en este eje que incluso SOXX.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Geografia 'Primarily USA' (Trackinsight) - el índice es explícitamente 'US Select'. A DIFERENCIA de SOXX (que tenia TSM/ASML como diversificación geográfica parcial dentro del sector), ITA es prácticamente 100% domestico sin ninguna diversificación geográfica - menos diversificado en este eje que incluso SOXX.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Perfil HIBRIDO distintivo en el proyecto: no es growth puro tecnologico (como SOXX/IHAK/CIBR) ni value/dividendo puro (como SCHD/VYMI), sino un sector 'geopolitical growth' con re-rating fuerte reciente PERO beta relativamente bajo (0.75) - el gasto en defensa esta menos correlacionado al ciclo economico tradicional que la demanda de tecnologia/semiconductores.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Perfil HIBRIDO distintivo en el proyecto: no es growth puro tecnologico (como SOXX/IHAK/CIBR) ni value/dividendo puro (como SCHD/VYMI), sino un sector 'geopolitical growth' con re-rating fuerte reciente PERO beta relativamente bajo (0.75) - el gasto en defensa esta menos correlacionado al ciclo económico tradicional que la demanda de tecnología/semiconductores.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Dow Jones U.S. Select Aerospace & Defense Index: ponderacion por capitalizacion de mercado con topes de diversificacion EXPLICITOS pero relativamente LAXOS (single-name maximo 22.5%; el agregado de las empresas con peso individual >4.5% tiene un tope combinado de 45%) - topes MUCHO menos estrictos que el tope de 8% por posicion de SOXX, lo cual EXPLICA directamente la concentracion extrema observada (GE Aerospace practicamente en el limite maximo permitido). Metodologia transparente pero permite mucha mas concentracion en la practica que otros indices del proyecto.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Dow Jones U.S. Select Aerospace & Defense Index: ponderación por capitalización de mercado con topes de diversificación EXPLICITOS pero relativamente LAXOS (single-name máximo 22.5%; el agregado de las empresas con peso individual >4.5% tiene un tope combinado de 45%) - topes MUCHO menos estrictos que el tope de 8% por posición de SOXX, lo cual EXPLICA directamente la concentración extrema observada (GE Aerospace prácticamente en el limite máximo permitido). Metodología transparente pero permite mucha mas concentración en la practica que otros índices del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo trimestral - misma cadencia que CIBR y SOXX.",
           "calificacion": 4
         }
@@ -130,62 +130,62 @@
       "rating_promedio": 2.43
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (may-2006, 20.3 anios) = 13.09% anualizado (stockanalysis.com) - solido para una ventana muy larga que incluye 2008 y los recortes de gasto militar de 2011-2013. Retorno 1Y (ago-2026) = +29.11% (stockanalysis.com, fuente principal) vs +26.33% o +17.61% YTD segun otras fuentes - moderadamente consistentes entre si (a diferencia de la dispersion extrema vista en SOXX), reflejo del rally sostenido del sector defensa.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (may-2006, 20.3 años) = 13.09% anualizado (stockanalysis.com) - sólido para una ventana muy larga que incluye 2008 y los recortes de gasto militar de 2011-2013. Retorno 1Y (ago-2026) = +29.11% (stockanalysis.com, fuente principal) vs +26.33% o +17.61% YTD según otras fuentes - moderadamente consistentes entre si (a diferencia de la dispersión extrema vista en SOXX), reflejo del rally sostenido del sector defensa.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada ~21-23% segun TRES fuentes razonablemente consistentes entre si (20.76% std dev, 21.21% anualizada, 22.65% - todas del mismo rango) - LA MEJOR CORROBORACION DE VOLATILIDAD DE TODO EL PROYECTO hasta ahora (mayor confianza que la cifra de fuente unica de SOXX, y sin el problema de implausibilidad de VYMI/IHAK/CIBR). Volatilidad alta-moderada, mayor que SCHD (15.6%) pero muy por debajo de SOXX (~37%).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada ~21-23% según TRES fuentes razonablemente consistentes entre si (20.76% std dev, 21.21% anualizada, 22.65% - todas del mismo rango) - LA MEJOR CORROBORASIÓN DE VOLATILIDAD DE TODO EL PROYECTO hasta ahora (mayor confianza que la cifra de fuente única de SOXX, y sin el problema de implausibilidad de VYMI/IHAK/CIBR). Volatilidad alta-moderada, mayor que SCHD (15.6%) pero muy por debajo de SOXX (~37%).",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "NO SE ENCONTRO una cifra clara y comparable de 'maximo drawdown desde inception' (metrica estandar usada para los otros 5 ETFs del proyecto). Los agregadores mostraron metricas ambiguas o de definicion distinta ('drawdown actual 1.87%' - solo la caida desde el maximo reciente, no un maximo historico; 'mediana de maximo drawdown dentro de 1 anio de un evento de caida -45%' - una metrica estadistica distinta, no comparable directamente). Se deja en blanco en el Dashboard por ambiguedad de definicion, no por implausibilidad - pendiente de buscar la cifra correcta en una proxima revision.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "NO SE ENCONTRO una cifra clara y comparable de 'máximo drawdown desde inception' (métrica estándar usada para los otros 5 ETFs del proyecto). Los agregadores mostraron métricas ambiguas o de definición distinta ('drawdown actual 1.87%' - solo la caida desde el máximo reciente, no un máximo histórico; 'mediana de máximo drawdown dentro de 1 año de un evento de caida -45%' - una métrica estadistica distinta, no comparable directamente). Se deja en blanco en el Dashboard por ambiguedad de definición, no por implausibilidad - pendiente de buscar la cifra correcta en una proxima revisión.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 1.17 segun un agregador (fuente unica, sin poder confirmar la ventana temporal exacta, mismo tipo de cautela aplicada a los Sharpe de otros ETFs del proyecto).",
+          "notas": "Sharpe Ratio = 1.17 según un agregador (fuente única, sin poder confirmar la ventana temporal exacta, mismo tipo de cautela aplicada a los Sharpe de otros ETFs del proyecto).",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.75 (stockanalysis) - moderado, notablemente MAS DEFENSIVO que SOXX (1.8) pese a ser tambien un sector con re-rating fuerte reciente; refleja que el gasto en defensa esta menos correlacionado al ciclo economico general que la demanda de semiconductores/tecnologia. **SIN OVERLAP DETECTADO**: ninguno de los holdings del top10 de ITA (GE Aerospace, RTX, Boeing, General Dynamics, Howmet Aerospace, Lockheed Martin, Northrop Grumman, TransDigm, L3Harris, Axon Enterprise) coincide con la lista de acciones ya analizadas individualmente por el usuario en [[stock_analysis_project]]. Es el primer caso desde VYMI de un ETF genuinamente SIN overlap - diversificador sectorial real, primera exposicion del usuario al sector aeroespacial/defensa.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.75 (stockanalysis) - moderado, notablemente MAS DEFENSIVO que SOXX (1.8) pese a ser también un sector con re-rating fuerte reciente; refleja que el gasto en defensa esta menos correlacionado al ciclo económico general que la demanda de semiconductores/tecnología. **SIN OVERLAP DETECTADO**: ninguno de los holdings del top10 de ITA (GE Aerospace, RTX, Boeing, General Dynamics, Howmet Aerospace, Lockheed Martin, Northrop Grumman, TransDigm, L3Harris, Axon Enterprise) coincide con la lista de acciones ya analizadas individualmente por el usuario en [[stock_analysis_project]]. Es el primer caso desde VYMI de un ETF genuinamente SIN overlap - diversificador sectorial real, primera exposición del usuario al sector aeroespacial/defensa.",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "No se verifico en detalle el comportamiento especifico en crisis pasadas en esta sesion - pendiente para proxima revision.",
+          "notas": "No se verifico en detalle el comportamiento específico en crisis pasadas en esta sesión - pendiente para proxima revisión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 39.53x - el SEGUNDO mas caro del proyecto (despues de SOXX 47.61x), mas caro que CIBR (33.92x). Refleja el re-rating fuerte y sostenido del sector defensa en los ultimos anios (aumento estructural del gasto militar global, guerra en Ucrania, tensiones geopoliticas en Asia-Pacifico). NO SE VERIFICO el percentil historico propio - dado el re-rating reciente, es posible que el multiplo actual este en la parte alta de su propio rango historico, pendiente de confirmar con serie de tiempo dedicada.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 39.53x - el SEGUNDO mas caro del proyecto (después de SOXX 47.61x), mas caro que CIBR (33.92x). Refleja el re-rating fuerte y sostenido del sector defensa en los últimos años (aumento estructural del gasto militar global, guerra en Ucrania, tensiones geopoliticas en Asia-Pacifico). NO SE VERIFICO el percentil histórico propio - dado el re-rating reciente, es posible que el múltiplo actual este en la parte alta de su propio rango histórico, pendiente de confirmar con serie de tiempo dedicada.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 0.42% - el MAS ALTO (aunque aun marginal) de los ETFs tecnologicos/tematicos del proyecto (SOXX 0.27%, CIBR 0.39%, IHAK 0.07%), aunque sigue siendo mucho menor que SCHD (3.1%) o VYMI (3.45%). No es el foco de la tesis de inversion de este ETF.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 0.42% - el MAS ALTO (aunque aun marginal) de los ETFs tecnologicos/temáticos del proyecto (SOXX 0.27%, CIBR 0.39%, IHAK 0.07%), aunque sigue siendo mucho menor que SCHD (3.1%) o VYMI (3.45%). No es el foco de la tesis de inversión de este ETF.",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - ITA es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Competidores directos: PPA (Invesco Aerospace & Defense, TER ~0.58%, metodologia de ponderacion 'inteligente/modificada' distinta) y XAR (SPDR S&P Aerospace & Defense, metodologia EQUAL-WEIGHT pura, TER ~0.35% - reduciria significativamente la concentracion extrema en GE/RTX/Boeing que tiene ITA). NO verificado con fuente primaria en esta sesion. Dado el problema de concentracion de nombre detectado en ITA, XAR seria un candidato particularmente interesante para comparar cabeza a cabeza en una proxima sesion, siguiendo el mismo patron ya establecido entre IHAK y CIBR. | ACTUALIZACION posterior (XLI, fila 115): Industrial Select Sector SPDR, el fondo PADRE amplio del sector -TER 0.08%, mucho mas barato-. Pese al costo mucho menor, XLI rindio MENOS en 10Y -~14.35-14.81%/anio- que este fondo, confirmando que la exposicion mas estrecha/tematica rindio mejor en esta ventana. Ver Ficha XLI fila 115 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Competidores directos: PPA (Invesco Aerospace & Defense, TER ~0.58%, metodología de ponderación 'inteligente/modificada' distinta) y XAR (SPDR S&P Aerospace & Defense, metodología EQUAL-WEIGHT pura, TER ~0.35% - reduciria significativamente la concentración extrema en GE/RTX/Boeing que tiene ITA). NO verificado con fuente primaria en esta sesión. Dado el problema de concentración de nombre detectado en ITA, XAR seria un candidato particularmente interesante para comparar cabeza a cabeza en una proxima sesión, siguiendo el mismo patrón ya establecido entre IHAK y CIBR. | ACTUALIZASIÓN posterior (XLI, fila 115): Industrial Select Sector SPDR, el fondo PADRE amplio del sector -TER 0.08%, mucho mas barato-. Pese al costo mucho menor, XLI rindio MENOS en 10Y -~14.35-14.81%/año- que este fondo, confirmando que la exposición mas estrecha/temática rindio mejor en esta ventana. Ver Ficha XLI fila 115 para el detalle completo.",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol sugerido: SATELITE temático - dado que NO hay overlap con las posiciones individuales del usuario, ITA SI funciona como un diversificador sectorial genuino (a diferencia de IHAK/CIBR/SOXX). No es candidato a Core dado el nivel de concentracion interna (top10 76.65%, top3 ~47-48%). Seria la primera exposicion del usuario al sector aeroespacial/defensa.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol sugerido: SATÉLITE temático - dado que NO hay overlap con las posiciones individuales del usuario, ITA SI funciona como un diversificador sectorial genuino (a diferencia de IHAK/CIBR/SOXX). No es candidato a Core dado el nivel de concentración interna (top10 76.65%, top3 ~47-48%). Seria la primera exposición del usuario al sector aeroespacial/defensa.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion a un sector con vientos de cola estructurales GEOPOLITICOS (aumento sostenido del gasto militar global, tensiones en Europa del Este y Asia-Pacifico, modernizacion de fuerzas armadas) - oligopolio de facto de pocos 'prime contractors' con barreras de entrada altisimas (certificacion regulatoria, contratos gubernamentales de largo plazo, propiedad intelectual de defensa clasificada). Perfil de moat estructural distinto al de un ETF de crecimiento tecnologico especulativo.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición a un sector con vientos de cola estructurales GEOPOLÍTICOS (aumento sostenido del gasto militar global, tensiones en Europa del Este y Asia-Pacifico, modernización de fuerzas armadas) - oligopolio de facto de pocos 'prime contractors' con barreras de entrada altisimas (certificación regulatoria, contratos gubernamentales de largo plazo, propiedad intelectual de defensa clasificada). Perfil de moat estructural distinto al de un ETF de crecimiento tecnologico especulativo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) CONCENTRACION DE NOMBRE EXTREMA - GE Aerospace + RTX + Boeing suman ~47-48% del fondo, mucho mas alla de una simple concentracion sectorial; (2) valoracion rica (P/E 39.5x) tras un re-rating fuerte reciente, riesgo de compresion si el ciclo de gasto militar se modera o hay desescalada geopolitica; (3) riesgo de ejecucion de programas gubernamentales (sobrecostos, retrasos, cancelaciones de contratos - historial conocido de Boeing con el 737 MAX y otros programas de defensa); (4) dependencia de presupuestos gubernamentales sujetos a ciclos politicos, pese al beta bajo frente al ciclo economico general.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) CONCENTRASIÓN DE NOMBRE EXTREMA - GE Aerospace + RTX + Boeing suman ~47-48% del fondo, mucho mas alla de una simple concentración sectorial; (2) valoración rica (P/E 39.5x) tras un re-rating fuerte reciente, riesgo de compresión si el ciclo de gasto militar se modera o hay desescalada geopolitica; (3) riesgo de ejecución de programas gubernamentales (sobrecostos, retrasos, cancelaciones de contratos - historial conocido de Boeing con el 737 MAX y otros programas de defensa); (4) dependencia de presupuestos gubernamentales sujetos a ciclos politicos, pese al beta bajo frente al ciclo económico general.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "PPA y XAR como alternativas de ETF no verificadas en esta sesion. XAR en particular (metodologia equal-weight) seria util analizar para comparar cabeza a cabeza, dado que reduciria directamente el problema de concentracion de nombre extremo detectado en ITA - mismo patron de comparacion ya establecido entre IHAK y CIBR.",
+          "notas": "PPA y XAR como alternativas de ETF no verificadas en esta sesión. XAR en particular (metodología equal-weight) seria util analizar para comparar cabeza a cabeza, dado que reduciria directamente el problema de concentración de nombre extremo detectado en ITA - mismo patrón de comparación ya establecido entre IHAK y CIBR.",
           "calificacion": 3
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. Score ~3.45/5, el MAS ALTO de los ETFs tematicos/sectoriales del proyecto (por encima de IHAK 3.18, CIBR 3.09, SOXX 3.06), impulsado principalmente por un hallazgo clave: SIN OVERLAP con el Dashboard de acciones individuales del usuario - ninguno de GE Aerospace, RTX, Boeing, General Dynamics, Howmet, Lockheed Martin, Northrop Grumman, TransDigm, L3Harris ni Axon esta ya analizado individualmente. Es, junto con VYMI, uno de solo dos ETFs del proyecto que funcionan como diversificador genuino sin duplicar convicciones ya tomadas. Sin embargo, a diferencia de VYMI, aqui la decision no es 'acumular gradual' sino 'esperar mejor entrada' por DOS motivos: (1) valoracion rica - P/E 39.53x, el segundo mas caro del proyecto, tras un re-rating fuerte y sostenido del sector defensa en los ultimos anios (dificil evaluar si es sostenible o refleja euforia geopolitica de corto plazo); (2) concentracion de NOMBRE extrema dentro del propio ETF - GE Aerospace, RTX y Boeing solos suman ~47-48% del fondo, un riesgo idiosincratico real independiente del overlap con otras posiciones (ej. un evento negativo especifico de Boeing pesaria desproporcionadamente en el ETF). Considerar XAR (equal-weight, mismo sector) como alternativa que reduciria este problema especifico de concentracion, o esperar una correccion de multiplo antes de iniciar posicion en ITA directamente."
+    "tesis": "ESPERAR MEJOR ENTRADA. Score ~3.45/5, el MAS ALTO de los ETFs temáticos/sectoriales del proyecto (por encima de IHAK 3.18, CIBR 3.09, SOXX 3.06), impulsado principalmente por un hallazgo clave: SIN OVERLAP con el Dashboard de acciones individuales del usuario - ninguno de GE Aerospace, RTX, Boeing, General Dynamics, Howmet, Lockheed Martin, Northrop Grumman, TransDigm, L3Harris ni Axon esta ya analizado individualmente. Es, junto con VYMI, uno de solo dos ETFs del proyecto que funcionan como diversificador genuino sin duplicar convicciones ya tomadas. Sin embargo, a diferencia de VYMI, aquí la decisión no es 'acumular gradual' sino 'esperar mejor entrada' por DOS motivos: (1) valoración rica - P/E 39.53x, el segundo mas caro del proyecto, tras un re-rating fuerte y sostenido del sector defensa en los últimos años (difícil evaluar si es sostenible o refleja euforia geopolitica de corto plazo); (2) concentración de NOMBRE extrema dentro del propio ETF - GE Aerospace, RTX y Boeing solos suman ~47-48% del fondo, un riesgo idiosincratico real independiente del overlap con otras posiciones (ej. un evento negativo específico de Boeing pesaria desproporcionadamente en el ETF). Considerar XAR (equal-weight, mismo sector) como alternativa que reduciria este problema específico de concentración, o esperar una corrección de múltiplo antes de iniciar posición en ITA directamente."
   }
 }

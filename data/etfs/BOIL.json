@@ -1,36 +1,36 @@
 {
   "nombre": "ProShares Ultra Bloomberg Natural Gas",
   "ticker": "BOIL",
-  "categoria": "Materias Primas Apalancado/Inverso (+2x diario sobre gas natural via futuros - CUARTO instrumento apalancado/inverso del proyecto, ESPEJO DIRECCIONAL exacto de KOLD -fila 73-: mismo emisor, mismo indice, misma fecha de inception, direccion opuesta)",
+  "categoria": "Materias Primas Apalancado/Inverso (+2x diario sobre gas natural via futuros - CUARTO instrumento apalancado/inverso del proyecto, ESPEJO DIRECCIONAL exacto de KOLD -fila 73-: mismo emisor, mismo índice, misma fecha de inception, dirección opuesta)",
   "emisor": "ProShares",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica SINTETICA via futuros de gas natural (contrato sep-2026, ~199.94% exposicion nocional) - solo futuros compensados centralmente, misma estructura que KOLD.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica SINTETICA via futuros de gas natural (contrato sep-2026, ~199.94% exposición nocional) - solo futuros compensados centralmente, misma estructura que KOLD.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - CUARTA confirmacion de esta complejidad fiscal en la categoria apalancado/inverso del proyecto (tras KOLD/ZSL/SCO).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - CUARTA confirmación de esta complejidad fiscal en la categoría apalancado/inverso del proyecto (tras KOLD/ZSL/SCO).",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $355.94M - MAS DE 3X el de KOLD (~$107M) pese a compartir indice y fecha de inception exactas - sugiere mayor interes especulativo LARGO historico en el gas natural que corto, o simplemente una base de activos mas grande acumulada en anios de rallies del commodity.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $355.94M - MAS DE 3X el de KOLD (~$107M) pese a compartir índice y fecha de inception exactas - sugiere mayor interés especulativo LARGO histórico en el gas natural que corto, o simplemente una base de activos mas grande acumulada en años de rallies del commodity.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 4-oct-2011 - **FECHA EXACTA IDENTICA a KOLD** (~14.8 anios), lanzamiento gemelo de la pareja +2x/-2x de ProShares sobre el mismo indice Bloomberg Natural Gas.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 4-oct-2011 - **FECHA EXACTA IDENTICA a KOLD** (~14.8 años), lanzamiento gemelo de la pareja +2x/-2x de ProShares sobre el mismo índice Bloomberg Natural Gas.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor ProShares - CUARTA aparicion consecutiva en el proyecto (tras KOLD/ZSL/SCO).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor ProShares - CUARTA aparición consecutiva en el proyecto (tras KOLD/ZSL/SCO).",
           "calificacion": 4
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.95% - IDENTICO a KOLD/ZSL/SCO, CUARTA confirmacion del precio estandar de la linea Ultra/UltraShort de materias primas de ProShares.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.95% - IDENTICO a KOLD/ZSL/SCO, CUARTA confirmación del precio estándar de la línea Ultra/UltraShort de materias primas de ProShares.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Decay CATASTROFICO: retorno desde inception (14.8 anios, misma ventana exacta que KOLD) = **-57.80% a -57.88% CAGR - EL PEOR de los cuatro apalancados/inversos del proyecto en terminos de CAGR** (ZSL -42%, SCO -26%, KOLD -11.94%). Hallazgo central: mismo indice, misma fecha de inicio, pero direccion OPUESTA a KOLD produce un resultado radicalmente distinto - el gas natural ha tenido una tendencia bajista estructural desde 2011 -boom del shale-, lo que beneficio (relativamente) a KOLD -corto- y devasto a BOIL -largo-, ADEMAS del decay por rebalanceo diario que ambos sufren por igual.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Decay CATASTROFICO: retorno desde inception (14.8 años, misma ventana exacta que KOLD) = **-57.80% a -57.88% CAGR - EL PEOR de los cuatro apalancados/inversos del proyecto en términos de CAGR** (ZSL -42%, SCO -26%, KOLD -11.94%). Hallazgo central: mismo índice, misma fecha de inicio, pero dirección OPUESTA a KOLD produce un resultado radicalmente distinto - el gas natural ha tenido una tendencia bajista estructural desde 2011 -boom del shale-, lo que beneficio (relativamente) a KOLD -corto- y devasto a BOIL -largo-, ADEMÁS del decay por rebalanceo diario que ambos sufren por igual.",
           "calificacion": 1
         }
       ],
@@ -56,29 +56,29 @@
       "titulo": "Securities lending: revenue generado y % que compensa el TER",
       "aspectos": [
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion DIARIA de los contratos de futuros de gas natural - misma mecanica que KOLD/ZSL/SCO.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación DIARIA de los contratos de futuros de gas natural - misma mecánica que KOLD/ZSL/SCO.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario ~2.8M acciones/dia (~$57.6M/dia al precio actual $20.56) - solido, en linea con KOLD (~$46-84M/dia).",
+          "notas": "Volumen diario ~2.8M acciones/dia (~$57.6M/dia al precio actual $20.56) - sólido, en línea con KOLD (~$46-84M/dia).",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -90,62 +90,62 @@
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Numero de holdings y diversificacion",
+      "titulo": "Número de holdings y diversificación",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg Natural Gas Subindex, UN SOLO commodity, +2x diario via futuros - MISMO indice que KOLD, direccion opuesta.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg Natural Gas Subindex, UN SOLO commodity, +2x diario via futuros - MISMO índice que KOLD, dirección opuesta.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo DIARIO al cierre de cada sesion para mantener el objetivo +2x - identico mecanismo a KOLD/ZSL/SCO, CUARTA confirmacion consecutiva del patron sistematico de decay por rebalanceo diario en la categoria.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo DIARIO al cierre de cada sesión para mantener el objetivo +2x - identico mecanismo a KOLD/ZSL/SCO, CUARTA confirmación consecutiva del patrón sistematico de decay por rebalanceo diario en la categoría.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = -69.30% a -72.65% (variacion entre fuentes, ambas severas). Retorno desde inception (14.8 anios) = -57.80% CAGR - EL PEOR de los cuatro apalancados/inversos del proyecto en esta metrica, pese a compartir indice/fecha con KOLD (el MEJOR CAGR de los cuatro, -11.94%) - la prueba mas clara del proyecto de que la direccion del apalancamiento importa tanto como el mecanismo de decay en si.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = -69.30% a -72.65% (variación entre fuentes, ambas severas). Retorno desde inception (14.8 años) = -57.80% CAGR - EL PEOR de los cuatro apalancados/inversos del proyecto en esta métrica, pese a compartir índice/fecha con KOLD (el MEJOR CAGR de los cuatro, -11.94%) - la prueba mas clara del proyecto de que la dirección del apalancamiento importa tanto como el mecanismo de decay en si.",
           "calificacion": 1
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad extrema: rango de 52 semanas $18.41-$93.70 (ratio 5.09x) - mas extrema que KOLD (3.7x) y SCO (3.68x), menos extrema que ZSL (16.76x).",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el retorno 1Y de -69.30% a -72.65% implica un drawdown severo dentro de la ventana reciente, consistente con el patron ya visto en KOLD/ZSL/SCO.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero el retorno 1Y de -69.30% a -72.65% implica un drawdown severo dentro de la ventana reciente, consistente con el patrón ya visto en KOLD/ZSL/SCO.",
           "calificacion": 1
         }
       ],
@@ -155,8 +155,8 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = -0.02 - practicamente CERO, similar a KOLD (-0.11), sin relacion util como diversificador del portafolio de acciones ya analizado; el precio de BOIL esta dominado por la dinamica de oferta/demanda del gas natural (clima, inventarios, produccion shale), no por el mercado accionario amplio.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = -0.02 - prácticamente CERO, similar a KOLD (-0.11), sin relación util como diversificador del portafolio de acciones ya analizado; el precio de BOIL esta dominado por la dinámica de oferta/demanda del gas natural (clima, inventarios, producción shale), no por el mercado accionario amplio.",
           "calificacion": 2
         }
       ],
@@ -168,26 +168,26 @@
       "rating_promedio": null
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**ESPEJO DIRECCIONAL EXACTO de KOLD (fila 73, ya en el workbook)**: mismo emisor, mismo indice Bloomberg Natural Gas, MISMA fecha de inception (4-oct-2011), unica diferencia el signo del apalancamiento (+2x vs -2x). La comparacion directa entre ambos es la evidencia empirica mas clara del proyecto de como el decay por rebalanceo diario y la tendencia direccional del commodity interactuan: bajo la MISMA tendencia bajista del gas natural desde 2011, KOLD -corto- termino con CAGR -11.94% -relativamente leve- mientras BOIL -largo- termino con CAGR -57.80% -catastrofico-, pese a sufrir el mismo mecanismo de decay diario. UNG (1x simple, sin apalancamiento) seria la alternativa logica sin decay amplificado. Ninguno presente en el workbook salvo KOLD.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**ESPEJO DIRECCIONAL EXACTO de KOLD (fila 73, ya en el workbook)**: mismo emisor, mismo índice Bloomberg Natural Gas, MISMA fecha de inception (4-oct-2011), única diferencia el signo del apalancamiento (+2x vs -2x). La comparación directa entre ambos es la evidencia empirica mas clara del proyecto de como el decay por rebalanceo diario y la tendencia direccional del commodity interactuan: bajo la MISMA tendencia bajista del gas natural desde 2011, KOLD -corto- término con CAGR -11.94% -relativamente leve- mientras BOIL -largo- término con CAGR -57.80% -catastrofico-, pese a sufrir el mismo mecanismo de decay diario. UNG (1x simple, sin apalancamiento) seria la alternativa logica sin decay amplificado. Ninguno presente en el workbook salvo KOLD.",
           "calificacion": 3
         }
       ],
@@ -197,23 +197,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - misma categoria que KOLD/ZSL/SCO, NUNCA apto como posicion de largo plazo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: TÁCTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - misma categoría que KOLD/ZSL/SCO, NUNCA apto como posición de largo plazo.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: unicamente tiene sentido como (a) cobertura tactica de exposicion real a un alza del gas natural por un horizonte de pocos dias, o (b) apuesta direccional alcista de trading de muy corto plazo. El resultado historico desde 2011 -CAGR -57.80%- es la advertencia mas severa del proyecto sobre el riesgo de mantener este tipo de instrumento contra una tendencia estructural adversa del commodity subyacente.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: unicamente tiene sentido como (a) cobertura táctica de exposición real a un alza del gas natural por un horizonte de pocos dias, o (b) apuesta direccional alcista de trading de muy corto plazo. El resultado histórico desde 2011 -CAGR -57.80%- es la advertencia mas severa del proyecto sobre el riesgo de mantener este tipo de instrumento contra una tendencia estructural adversa del commodity subyacente.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) decay compuesto por rebalanceo diario +2x, YA MATERIALIZADO en el PEOR CAGR desde inception de los cuatro apalancados/inversos del proyecto (-57.80%); (2) volatilidad extrema (rango 52 semanas 5.09x); (3) riesgo de contraparte en derivados (futuros); (4) complejidad fiscal via K-1; (5) beta -0.02 no es un diversificador util, dominado por dinamica propia del gas natural.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) decay compuesto por rebalanceo diario +2x, YA MATERIALIZADO en el PEOR CAGR desde inception de los cuatro apalancados/inversos del proyecto (-57.80%); (2) volatilidad extrema (rango 52 semanas 5.09x); (3) riesgo de contraparte en derivados (futuros); (4) complejidad fiscal via K-1; (5) beta -0.02 no es un diversificador util, dominado por dinámica propia del gas natural.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "KOLD (mismo emisor, -2x CORTO, espejo direccional exacto, no sustituto, fila 73 ya en el workbook) y UNG (exposicion 1x simple sin apalancamiento) son las alternativas relevantes.",
+          "notas": "KOLD (mismo emisor, -2x CORTO, espejo direccional exacto, no sustituto, fila 73 ya en el workbook) y UNG (exposición 1x simple sin apalancamiento) son las alternativas relevantes.",
           "calificacion": 3
         }
       ],
@@ -221,6 +221,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.39/5. ProShares Ultra Bloomberg Natural Gas, +2x diario sobre gas natural - ESPEJO DIRECCIONAL EXACTO de KOLD (fila 73): mismo emisor, mismo indice Bloomberg Natural Gas, MISMA fecha de inception (4-oct-2011), unica diferencia el signo del apalancamiento. Es la comparacion mas reveladora del proyecto sobre como interactuan el decay por rebalanceo diario y la tendencia del commodity subyacente: bajo la MISMA tendencia bajista estructural del gas natural desde 2011 -boom del shale-, KOLD (-2x corto) termino con un CAGR desde inception de -11.94% -relativamente leve, la tendencia jugo a su favor- mientras BOIL (+2x largo) termino con un CAGR de -57.80% -catastrofico, la misma tendencia jugo en su contra-, pese a que ambos sufren identicamente el mecanismo de decay diario. La leccion es clara: el decay de rebalanceo diario es solo la mitad del riesgo; la otra mitad es acertar la direccion, y equivocarse en la direccion mientras el apalancamiento compone diariamente produce perdidas mucho mas severas que el decay por si solo. Unico uso legitimo: cobertura tactica de exposicion real a un alza del gas natural por un horizonte de dias, o apuesta direccional alcista de trading de muy corto plazo - nunca como posicion Core o Satelite. KOLD (mismo emisor, -2x, espejo exacto, ya en el workbook) y UNG (1x simple sin apalancamiento) son las alternativas relevantes. Con KOLD, ZSL, SCO y ahora BOIL, el patron de decay compuesto por rebalanceo diario queda confirmado en CUATRO DE CUATRO casos de la categoria apalancado/inverso del proyecto."
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.39/5. ProShares Ultra Bloomberg Natural Gas, +2x diario sobre gas natural - ESPEJO DIRECCIONAL EXACTO de KOLD (fila 73): mismo emisor, mismo índice Bloomberg Natural Gas, MISMA fecha de inception (4-oct-2011), única diferencia el signo del apalancamiento. Es la comparación mas reveladora del proyecto sobre como interactuan el decay por rebalanceo diario y la tendencia del commodity subyacente: bajo la MISMA tendencia bajista estructural del gas natural desde 2011 -boom del shale-, KOLD (-2x corto) término con un CAGR desde inception de -11.94% -relativamente leve, la tendencia jugo a su favor- mientras BOIL (+2x largo) término con un CAGR de -57.80% -catastrofico, la misma tendencia jugo en su contra-, pese a que ambos sufren identicamente el mecanismo de decay diario. La lección es clara: el decay de rebalanceo diario es solo la mitad del riesgo; la otra mitad es acertar la dirección, y equivocarse en la dirección mientras el apalancamiento compone diariamente produce pérdidas mucho mas severas que el decay por si solo. Único uso legitimo: cobertura táctica de exposición real a un alza del gas natural por un horizonte de dias, o apuesta direccional alcista de trading de muy corto plazo - nunca como posición Core o Satélite. KOLD (mismo emisor, -2x, espejo exacto, ya en el workbook) y UNG (1x simple sin apalancamiento) son las alternativas relevantes. Con KOLD, ZSL, SCO y ahora BOIL, el patrón de decay compuesto por rebalanceo diario queda confirmado en CUATRO DE CUATRO casos de la categoría apalancado/inverso del proyecto."
   }
 }

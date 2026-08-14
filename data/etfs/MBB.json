@@ -1,36 +1,36 @@
 {
   "nombre": "iShares MBS ETF",
   "ticker": "MBB",
-  "categoria": "Renta Fija Gobierno - MBS de agencia (Fannie Mae/Freddie Mac/Ginnie Mae), duracion ~4.3-5.5 anios, riesgo de prepago",
+  "categoria": "Renta Fija Gobierno - MBS de agencia (Fannie Mae/Freddie Mac/Ginnie Mae), duración ~4.3-5.5 años, riesgo de prepago",
   "emisor": "BlackRock/iShares",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO - esperado dado un universo de 11,175 pools de MBS individuales, imposible de replicar 1:1 de forma practica.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO - esperado dado un universo de 11,175 pools de MBS individuales, imposible de replicar 1:1 de forma practica.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. **Salvedad fiscal NUEVA y distinta al resto de renta fija de gobierno del proyecto**: el interes de MBS de agencia tributa como INGRESO ORDINARIO federal, PERO a diferencia de TLH/VTIP/GOVT/VGSH (deuda DIRECTA del Tesoro), los MBS de agencia NO gozan de la exencion de impuestos estatales/locales - son obligaciones de Fannie Mae/Freddie Mac/Ginnie Mae, no del Tesoro de EEUU directamente.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. **Salvedad fiscal NUEVA y distinta al resto de renta fija de gobierno del proyecto**: el interés de MBS de agencia tributa como INGRESO ORDINARIO federal, PERO a diferencia de TLH/VTIP/GOVT/VGSH (deuda DIRECTA del Tesoro), los MBS de agencia NO gozan de la exención de impuestos estatales/locales - son obligaciones de Fannie Mae/Freddie Mac/Ginnie Mae, no del Tesoro de EEUU directamente.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM = $39.11bn (stockanalysis, 10-ago-2026) - grande, magnitud similar a GOVT ($43.70bn), mayor que TLH/VGSH.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 13-mar-2007 (~19.4 anios) - tercer track record de renta fija mas largo del proyecto tras LQD (24.1) y similar a HYG/TLH (2007). **Su historial incluye la crisis financiera 2008 COMPLETA - la crisis que se origino precisamente en el mercado hipotecario** - PERO distincion crucial: MBB es MBS de AGENCIA (Fannie Mae/Freddie Mac/Ginnie Mae, garantizados) y NO MBS subprime privado (el origen real del colapso de 2008) - no confundir ambos tipos de riesgo hipotecario.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 13-mar-2007 (~19.4 años) - tercer track record de renta fija mas largo del proyecto tras LQD (24.1) y similar a HYG/TLH (2007). **Su historial incluye la crisis financiera 2008 COMPLETA - la crisis que se origino precisamente en el mercado hipotecario** - PERO distinción crucial: MBB es MBS de AGENCIA (Fannie Mae/Freddie Mac/Ginnie Mae, garantizados) y NO MBS subprime privado (el origen real del colapso de 2008) - no confundir ambos tipos de riesgo hipotecario.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - NOVENA aparicion en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, HYG, TLH, GOVT, ahora MBB).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - NOVENA aparición en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, HYG, TLH, GOVT, ahora MBB).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.04% - barato. **Competidor directo VMBS (Vanguard) es aun mas barato (0.03%)**, mencionado explicitamente por una fuente externa (24/7 Wall St, ene-2026) como la alternativa de menor costo para la misma exposicion.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.04% - barato. **Competidor directo VMBS (Vanguard) es aun mas barato (0.03%)**, mencionado explícitamente por una fuente externa (24/7 Wall St, ene-2026) como la alternativa de menor costo para la misma exposición.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion. **Gotcha de bloqueo de BlackRock/iShares.com RECONFIRMADO por QUINTA vez** (tras LQD, HYG, TLH, GOVT): el fact sheet oficial (30-jun-2026) devolvio error 403 en todos los intentos.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión. **Gotcha de bloqueo de BlackRock/iShares.com RECONFIRMADO por QUINTA vez** (tras LQD, HYG, TLH, GOVT): el fact sheet oficial (30-jun-2026) devolvio error 403 en todos los intentos.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion.",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover rate no verificado con fuente primaria esta sesion. Los fondos de MBS suelen tener actividad de 'rolls' TBA (rotacion de contratos forward) por naturaleza del mercado, aunque no cuantificada esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover rate no verificado con fuente primaria esta sesión. Los fondos de MBS suelen tener actividad de 'rolls' TBA (rotación de contratos forward) por naturaleza del mercado, aunque no cuantificada esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 1,727,756 acciones (stockanalysis) x $92.92/accion = aprox $160.5M/dia - modesto, similar magnitud al resto de renta fija de gobierno del proyecto.",
+          "notas": "Volumen diario = 1,727,756 acciones (stockanalysis) x $92.92/acción = aprox $160.5M/dia - modesto, similar magnitud al resto de renta fija de gobierno del proyecto.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesion.",
+          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "**11,175 holdings - NUEVO RECORD DE TODO EL PROYECTO** (supera a VT, 10,070, el record anterior de CUALQUIER categoria equity o renta fija) - reflejo de que cada pool de MBS es un CUSIP separado, con miles de combinaciones de agencia/cupon/vintage/vencimiento.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "**11,175 holdings - NUEVO RÉCORD DE TODO EL PROYECTO** (supera a VT, 10,070, el récord anterior de CUALQUIER categoría equity o renta fija) - reflejo de que cada pool de MBS es un CUSIP separado, con miles de combinaciones de agencia/cupon/vintage/vencimiento.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 holdings no calculado ni significativo dado el volumen extremo de holdings (11,175 pools) - mismo matiz metodologico ya establecido con TLH/VTIP/GOVT/VGSH mas extremo aun: la concentracion por 'emisor' (agencia gubernamental) no representa el mismo riesgo que en renta fija corporativa.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 holdings no calculado ni significativo dado el volumen extremo de holdings (11,175 pools) - mismo matiz metodologico ya establecido con TLH/VTIP/GOVT/VGSH mas extremo aun: la concentración por 'emisor' (agencia gubernamental) no representa el mismo riesgo que en renta fija corporativa.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% MBS de agencia (Fannie Mae/Freddie Mac/Ginnie Mae) - desglose exacto por agencia no verificado con fuente primaria esta sesion (fact sheet bloqueado), pero conceptualmente de maxima calidad practica (garantia explicita de Ginnie Mae; implicita de Fannie Mae/Freddie Mac desde la conservaduria federal de 2008).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% MBS de agencia (Fannie Mae/Freddie Mac/Ginnie Mae) - desglose exacto por agencia no verificado con fuente primaria esta sesión (fact sheet bloqueado), pero conceptualmente de maxima calidad practica (garantía explicita de Ginnie Mae; implícita de Fannie Mae/Freddie Mac desde la conservaduria federal de 2008).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% hipotecas residenciales de EEUU empaquetadas por agencias federales - sin diversificacion geografica internacional por diseno de la categoria.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% hipotecas residenciales de EEUU empaquetadas por agencias federales - sin diversificación geográfica internacional por diseño de la categoría.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es RIESGO DE PREPAGO/EXTENSION (convexidad negativa) - **PRIMERA VEZ que un ETF de renta fija del proyecto tiene este tipo de riesgo estructural**, distinto de los cuatro ejes ya vistos (credito+tasa en VCSH/VCLT/VCIT, credito especulativo en HYG, tasa pura en TLH/GOVT/VGSH, inflacion en VTIP) - un QUINTO factor de riesgo genuinamente nuevo del proyecto: los prestatarios pueden prepagar sus hipotecas (tipicamente refinanciando cuando las tasas bajan), forzando al fondo a reinvertir a tasas menores justo cuando serian mas deseables tasas altas - un comportamiento de 'convexidad negativa' opuesto al de un bono bullet tradicional.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es RIESGO DE PREPAGO/EXTENSIÓN (convexidad negativa) - **PRIMERA VEZ que un ETF de renta fija del proyecto tiene este tipo de riesgo estructural**, distinto de los cuatro ejes ya vistos (crédito+tasa en VCSH/VCLT/VCIT, crédito especulativo en HYG, tasa pura en TLH/GOVT/VGSH, inflación en VTIP) - un QUINTO factor de riesgo genuinamente nuevo del proyecto: los prestatarios pueden prepagar sus hipotecas (tipicamente refinanciando cuando las tasas bajan), forzando al fondo a reinvertir a tasas menores justo cuando serian mas deseables tasas altas - un comportamiento de 'convexidad negativa' opuesto al de un bono bullet tradicional.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg US Aggregate Securitized - MBS - transparente en su definicion pero complejo en su implementacion practica dada la naturaleza de los pools TBA (to-be-announced) del mercado hipotecario.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg US Aggregate Securitized - MBS - transparente en su definición pero complejo en su implementación practica dada la naturaleza de los pools TBA (to-be-announced) del mercado hipotecario.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesion (fact sheet oficial bloqueado, mismo patron que fila 19).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesión (fact sheet oficial bloqueado, mismo patrón que fila 19).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.86
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = +3.80% (stockanalysis, ago-2026), desde inception (19.4 anios) = +2.63% anualizado - moderado, razonable considerando que atraviesa la crisis 2008 (sin colapsar, al ser MBS de agencia garantizados) y el reciente ciclo de alzas de tasas.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = +3.80% (stockanalysis, ago-2026), desde inception (19.4 años) = +2.63% anualizado - moderado, razonable considerando que atraviesa la crisis 2008 (sin colapsar, al ser MBS de agencia garantizados) y el reciente ciclo de alzas de tasas.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "**Cifras de volatilidad DESCARTADAS por incoherencia**: 1.41%-1.91% (PortfoliosLab) son incompatibles tanto con el Max Drawdown del fondo (-17.64%, fila 41) como con la descripcion cualitativa de una fuente externa ('puede oscilar 2-3% en UN MES durante volatilidad de tasas', lo que implicaria una volatilidad ANUALIZADA mucho mayor a la reportada) - mismo criterio de coherencia interna ya aplicado repetidamente en el proyecto (TLH, TMF, GOVT).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "**Cifras de volatilidad DESCARTADAS por incoherencia**: 1.41%-1.91% (PortfoliosLab) son incompatibles tanto con el Max Drawdown del fondo (-17.64%, fila 41) como con la descripción cualitativa de una fuente externa ('puede oscilar 2-3% en UN MES durante volatilidad de tasas', lo que implicaria una volatilidad ANUALIZADA mucho mayor a la reportada) - mismo criterio de coherencia interna ya aplicado repetidamente en el proyecto (TLH, TMF, GOVT).",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -17.64% desde inception (PortfoliosLab) - encaja razonablemente en la progresion de duracion ya establecida (similar orden de magnitud a GOVT, -19.07%, con duracion tambien intermedia ~5.5 anios).",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -17.64% desde inception (PortfoliosLab) - encaja razonablemente en la progresión de duración ya establecida (similar orden de magnitud a GOVT, -19.07%, con duración también intermedia ~5.5 años).",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Cifras de Sharpe dispersas segun la comparacion consultada (0.79 vs IEF / 1.30 vs VMBS) - inconsistentes, se deja en blanco en el Dashboard, mismo patron de gotcha ya documentado repetidamente.",
+          "notas": "Cifras de Sharpe dispersas según la comparación consultada (0.79 vs IEF / 1.30 vs VMBS) - inconsistentes, se deja en blanco en el Dashboard, mismo patrón de gotcha ya documentado repetidamente.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.27 (stockanalysis) - se ubica entre VGSH (0.05)/VTIP (0.09)/GOVT (0.19) y LQD (0.44)/TLH (0.43), coherente con una duracion intermedia (~4.3-5.5 anios) mas el riesgo de convexidad negativa que puede amplificar la sensibilidad en ciertos regimenes de tasas. **Overlap con acciones individuales: NO APLICA** (100% agencias gubernamentales -Fannie Mae/Freddie Mac/Ginnie Mae-, sin emisores corporativos en el Dashboard de acciones del usuario).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.27 (stockanalysis) - se ubica entre VGSH (0.05)/VTIP (0.09)/GOVT (0.19) y LQD (0.44)/TLH (0.43), coherente con una duración intermedia (~4.3-5.5 años) mas el riesgo de convexidad negativa que puede amplificar la sensibilidad en ciertos regimenes de tasas. **Overlap con acciones individuales: NO APLICA** (100% agencias gubernamentales -Fannie Mae/Freddie Mac/Ginnie Mae-, sin emisores corporativos en el Dashboard de acciones del usuario).",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "19.4 anios de historial - **cubre la crisis financiera 2008 COMPLETA, la crisis que se origino precisamente en el mercado hipotecario**, aunque MBB (MBS de AGENCIA garantizados) es estructuralmente distinto del MBS SUBPRIME PRIVADO que causo el colapso de 2008 - los MBS de agencia se mantuvieron respaldados durante toda la crisis. Tambien cubre el taper tantrum 2013, COVID 2020, y el ciclo de alzas 2022-2026.",
+          "notas": "19.4 años de historial - **cubre la crisis financiera 2008 COMPLETA, la crisis que se origino precisamente en el mercado hipotecario**, aunque MBB (MBS de AGENCIA garantizados) es estructuralmente distinto del MBS SUBPRIME PRIVADO que causo el colapso de 2008 - los MBS de agencia se mantuvieron respaldados durante toda la crisis. También cubre el taper tantrum 2013, COVID 2020, y el ciclo de alzas 2022-2026.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "No aplica - MBB es un fondo 100% renta fija, sin componente de equity (mismo criterio que el resto de renta fija del proyecto).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 4.35% (stockanalysis) / SEC Yield 4.34% (6-ago-2026) - excelente corroboracion entre fuentes (una cifra suelta de 1.62% encontrada en una busqueda inicial se descarta explicitamente por ser claramente desactualizada/incorrecta, incompatible con las dos cifras corroboradas). Distribucion MENSUAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 4.35% (stockanalysis) / SEC Yield 4.34% (6-ago-2026) - excelente corroboración entre fuentes (una cifra suelta de 1.62% encontrada en una busqueda inicial se descarta explícitamente por ser claramente desactualizada/incorrecta, incompatible con las dos cifras corroboradas). Distribución MENSUAL.",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "**Duracion con discrepancia interesante y EXPLICABLE entre fuentes**: 4.33 anios (una fuente) vs 5.53 anios (otra fuente, dias despues) - a diferencia de otras discrepancias del proyecto tratadas como error de fuente, aqui la diferencia probablemente refleja el fenomeno REAL de 'extension de duracion' propio de las MBS: a diferencia de un bono bullet, la duracion de un MBS cambia dinamicamente con el nivel de tasas (sube cuando las tasas suben, porque los prepagos se frenan y la vida promedio del pool se alarga) - un comportamiento estructural genuino, no un error de dato. Calidad crediticia: garantia EXPLICITA (Ginnie Mae) o IMPLICITA (Fannie Mae/Freddie Mac, desde la conservaduria federal de 2008) - maxima calidad practica, aunque tecnicamente distinta de deuda directa del Tesoro.",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "**Duración con discrepancia interesante y EXPLICABLE entre fuentes**: 4.33 años (una fuente) vs 5.53 años (otra fuente, dias después) - a diferencia de otras discrepancias del proyecto tratadas como error de fuente, aquí la diferencia probablemente refleja el fenomeno REAL de 'extensión de duración' propio de las MBS: a diferencia de un bono bullet, la duración de un MBS cambia dinamicamente con el nivel de tasas (sube cuando las tasas suben, porque los prepagos se frenan y la vida promedio del pool se alarga) - un comportamiento estructural genuino, no un error de dato. Calidad crediticia: garantía EXPLICITA (Ginnie Mae) o IMPLÍCITA (Fannie Mae/Freddie Mac, desde la conservaduria federal de 2008) - maxima calidad practica, aunque tecnicamente distinta de deuda directa del Tesoro.",
           "calificacion": 4
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**Nueva dimension de valoracion especifica de MBS**: una fuente externa (24/7 Wall St, ene-2026) senala que gran parte del retorno reciente del fondo vino de 'compresion de spreads hipotecarios' (apreciacion de precio), no solo del yield corriente - sugiere que la valoracion de MBB depende de UN TERCER EJE (spread MBS-vs-Treasury) ademas del nivel de tasas y el spread de credito ya vistos en el proyecto, no cuantificado con precision esta sesion. **Competidor directo identificado explicitamente por la fuente: VMBS (Vanguard, TER 0.03%, mas barato)**.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**Nueva dimensión de valoración específica de MBS**: una fuente externa (24/7 Wall St, ene-2026) senala que gran parte del retorno reciente del fondo vino de 'compresión de spreads hipotecarios' (apreciación de precio), no solo del yield corriente - sugiere que la valoración de MBB depende de UN TERCER EJE (spread MBS-vs-Treasury) además del nivel de tasas y el spread de crédito ya vistos en el proyecto, no cuantificado con precisión esta sesión. **Competidor directo identificado explícitamente por la fuente: VMBS (Vanguard, TER 0.03%, mas barato)**.",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Exposicion a riesgo de prepago/convexidad negativa con garantia gubernamental de maxima calidad practica - funcion distinta de la Cobertura pura de VGSH/VTIP/TLH/GOVT por el componente de convexidad negativa (retorno asimetrico: limita la subida cuando las tasas bajan, amplifica la baja cuando las tasas suben). Se clasifica como **'Core'** dado que los MBS de agencia son tradicionalmente un componente central y de gran peso de los indices agregados de bonos (Bloomberg Aggregate) - primer uso de esta categoria en renta fija del proyecto (ya usada en equity para VB/VXUS).",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Exposición a riesgo de prepago/convexidad negativa con garantía gubernamental de maxima calidad practica - función distinta de la Cobertura pura de VGSH/VTIP/TLH/GOVT por el componente de convexidad negativa (retorno asimetrico: limita la subida cuando las tasas bajan, amplifica la baja cuando las tasas suben). Se clasifica como **'Core'** dado que los MBS de agencia son tradicionalmente un componente central y de gran peso de los índices agregados de bonos (Bloomberg Aggregate) - primer uso de esta categoría en renta fija del proyecto (ya usada en equity para VB/VXUS).",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis (cita directa de la fuente, 24/7 Wall St): MBB 'funciona mejor como posicion CORE de bonos para inversionistas que entienden que el retorno depende de la cooperacion de las tasas, no solo del yield' - ingreso estable con garantia gubernamental, pero con un perfil de retorno asimetrico por el riesgo de prepago.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis (cita directa de la fuente, 24/7 Wall St): MBB 'funciona mejor como posición CORE de bonos para inversionistas que entienden que el retorno depende de la cooperación de las tasas, no solo del yield' - ingreso estable con garantía gubernamental, pero con un perfil de retorno asimetrico por el riesgo de prepago.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) **riesgo de prepago/extension (convexidad negativa)** - unico en el proyecto, riesgo estructural genuinamente nuevo; (2) volatilidad de precio potencialmente alta en episodios de volatilidad de tasas (fuente cita oscilaciones de 2-3% MENSUALES); (3) el interes NO goza de la exencion fiscal estatal/local que si tienen los Treasuries directos del proyecto (TLH/VTIP/GOVT/VGSH); (4) TER mas caro que el competidor directo VMBS (0.04% vs 0.03%).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) **riesgo de prepago/extensión (convexidad negativa)** - único en el proyecto, riesgo estructural genuinamente nuevo; (2) volatilidad de precio potencialmente alta en episodios de volatilidad de tasas (fuente cita oscilaciones de 2-3% MENSUALES); (3) el interés NO goza de la exención fiscal estatal/local que si tienen los Treasuries directos del proyecto (TLH/VTIP/GOVT/VGSH); (4) TER mas caro que el competidor directo VMBS (0.04% vs 0.03%).",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "**VMBS (Vanguard, TER 0.03%) identificado EXPLICITAMENTE por la fuente como la alternativa mas barata** para la misma exposicion a MBS de agencia - comparacion directa disponible para una futura sesion cabeza a cabeza.",
+          "notas": "**VMBS (Vanguard, TER 0.03%) identificado EXPLÍCITAMENTE por la fuente como la alternativa mas barata** para la misma exposición a MBS de agencia - comparación directa disponible para una futura sesión cabeza a cabeza.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.64/5 - solido, resultado de un balance entre calidad estructural fuerte (garantia gubernamental implicita/explicita de maxima calidad practica, TER barato 0.04%, AUM grande $39.11bn, y un NUEVO RECORD DE TODO EL PROYECTO de 11,175 holdings -supera a VT, 10,070, el record anterior en CUALQUIER categoria-) y un riesgo estructural genuinamente nuevo y complejo: **PRIMER ETF DEL PROYECTO CON RIESGO DE PREPAGO/EXTENSION (convexidad negativa)** - un quinto eje de riesgo de renta fija distinto de credito, tasa pura e inflacion ya documentados. La duracion del fondo (4.33 a 5.53 anios segun la fecha de la fuente) cambia dinamicamente con el nivel de tasas -un comportamiento REAL de 'extension de duracion' propio de las MBS, no un error de dato-, lo que hace que MBB se comporte de forma menos predecible que un bono bullet de duracion similar. Cubre la crisis financiera 2008 COMPLETA, la crisis que se origino en el mercado hipotecario, aunque MBB (MBS de AGENCIA garantizados) es estructuralmente distinto del MBS SUBPRIME PRIVADO que causo el colapso - no colapso durante esa crisis. CERO overlap con el Dashboard de acciones individuales del usuario (Fannie Mae/Freddie Mac/Ginnie Mae no son emisores corporativos analizados). Competidor directo mas barato ya identificado: VMBS (Vanguard, TER 0.03%). Rol en Portafolio: 'Core' - primera vez que esta categoria se usa en renta fija del proyecto, justificada porque los MBS de agencia son tradicionalmente un componente central y de gran peso de los indices agregados de bonos, distinto de la funcion de Cobertura pura de los Treasuries directos del proyecto (VGSH/VTIP/TLH/GOVT)."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.64/5 - sólido, resultado de un balance entre calidad estructural fuerte (garantía gubernamental implícita/explicita de maxima calidad practica, TER barato 0.04%, AUM grande $39.11bn, y un NUEVO RÉCORD DE TODO EL PROYECTO de 11,175 holdings -supera a VT, 10,070, el récord anterior en CUALQUIER categoría-) y un riesgo estructural genuinamente nuevo y complejo: **PRIMER ETF DEL PROYECTO CON RIESGO DE PREPAGO/EXTENSIÓN (convexidad negativa)** - un quinto eje de riesgo de renta fija distinto de crédito, tasa pura e inflación ya documentados. La duración del fondo (4.33 a 5.53 años según la fecha de la fuente) cambia dinamicamente con el nivel de tasas -un comportamiento REAL de 'extensión de duración' propio de las MBS, no un error de dato-, lo que hace que MBB se comporte de forma menos predecible que un bono bullet de duración similar. Cubre la crisis financiera 2008 COMPLETA, la crisis que se origino en el mercado hipotecario, aunque MBB (MBS de AGENCIA garantizados) es estructuralmente distinto del MBS SUBPRIME PRIVADO que causo el colapso - no colapso durante esa crisis. CERO overlap con el Dashboard de acciones individuales del usuario (Fannie Mae/Freddie Mac/Ginnie Mae no son emisores corporativos analizados). Competidor directo mas barato ya identificado: VMBS (Vanguard, TER 0.03%). Rol en Portafolio: 'Core' - primera vez que esta categoría se usa en renta fija del proyecto, justificada porque los MBS de agencia son tradicionalmente un componente central y de gran peso de los índices agregados de bonos, distinto de la función de Cobertura pura de los Treasuries directos del proyecto (VGSH/VTIP/TLH/GOVT)."
   }
 }

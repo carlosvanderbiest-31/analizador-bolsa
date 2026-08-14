@@ -1,36 +1,36 @@
 {
   "nombre": "iShares MSCI Canada ETF",
   "ticker": "EWC",
-  "categoria": "Equity Indice Amplio (mercado total de UN SOLO PAIS - Canada, desarrollado - PRIMER fondo de pais unico del proyecto)",
+  "categoria": "Equity Índice Amplio (mercado total de UN SOLO PAIS - Canada, desarrollado - PRIMER fondo de pais único del proyecto)",
   "emisor": "BlackRock (iShares)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA por MUESTREO OPTIMIZADO (Trackinsight) - metodologia estandar de iShares para indices de pais unico con topes de concentracion ('Custom Capped').",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA por MUESTREO OPTIMIZADO (Trackinsight) - metodología estándar de iShares para índices de pais único con topes de concentración ('Custom Capped').",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, 100% holdings CANADIENSES - PRIMER caso del proyecto de riesgo cambiario/fiscal especifico de UN SOLO PAIS (no una canasta multi-pais como VYMI/VXUS/IXUS/ACWX/VEU): riesgo cambiario CAD/USD no cubierto y retencion de impuestos canadiense sobre dividendos, concentrado en una sola divisa/jurisdiccion en vez de diversificado entre muchas.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, 100% holdings CANADIENSES - PRIMER caso del proyecto de riesgo cambiario/fiscal específico de UN SOLO PAIS (no una canasta multi-pais como VYMI/VXUS/IXUS/ACWX/VEU): riesgo cambiario CAD/USD no cubierto y retención de impuestos canadiense sobre dividendos, concentrado en una sola divisa/jurisdicción en vez de diversificado entre muchas.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$6.1-6.2bn (stockanalysis $6.22bn, Trackinsight EUR5.61bn~$6.1bn, consistentes) - solido para un fondo de pais unico, aunque una fraccion pequena comparado con el cluster ex-US amplio del proyecto ($11.6bn-$161bn).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$6.1-6.2bn (stockanalysis $6.22bn, Trackinsight EUR5.61bn~$6.1bn, consistentes) - sólido para un fondo de pais único, aunque una fracción pequeña comparado con el cluster ex-US amplio del proyecto ($11.6bn-$161bn).",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 12-mar-1996 (~30.4 anios) - **EL TRACK RECORD MAS LARGO DE TODO EL PROYECTO**, supera a SOXX (25.1 anios, el anterior record) y a VEU (19.4 anios) por un margen enorme. Cubre la crisis asiatica de 1997, el estallido de la burbuja dot-com de 2000-2002, la Crisis Financiera 2008, el colapso de commodities 2014-2016, el COVID 2020 y el bear market 2022 - la historia de mercado MAS LARGA observable de todo el proyecto.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 12-mar-1996 (~30.4 años) - **EL TRACK RECORD MAS LARGO DE TODO EL PROYECTO**, supera a SOXX (25.1 años, el anterior récord) y a VEU (19.4 años) por un margen enorme. Cubre la crisis asiatica de 1997, el estallido de la burbuja dot-com de 2000-2002, la Crisis Financiera 2008, el colapso de commodities 2014-2016, el COVID 2020 y el bear market 2022 - la historia de mercado MAS LARGA observable de todo el proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - SEPTIMA aparicion en el proyecto (IHAK, SOXX, ITA, ARTY, IXUS, ACWX, ahora EWC).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - SEPTIMA aparición en el proyecto (IHAK, SOXX, ITA, ARTY, IXUS, ACWX, ahora EWC).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.50% - notablemente mas caro que el cluster ex-US amplio del proyecto (VEU 0.04%, VXUS 0.05%, IXUS 0.07%), pero ESPERADO y estandar para la categoria historica de fondos iShares MSCI de PAIS UNICO (similar orden de magnitud a CIBR 0.58%/DRAM 0.65%/EUV 0.35% del proyecto) - refleja el menor volumen de activos bajo gestion y la mayor complejidad operativa de replicar un mercado de un solo pais vs. un indice ex-US amplio.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.50% - notablemente mas caro que el cluster ex-US amplio del proyecto (VEU 0.04%, VXUS 0.05%, IXUS 0.07%), pero ESPERADO y estándar para la categoría histórica de fondos iShares MSCI de PAIS ÚNICO (similar orden de magnitud a CIBR 0.58%/DRAM 0.65%/EUV 0.35% del proyecto) - refleja el menor volumen de activos bajo gestion y la mayor complejidad operativa de replicar un mercado de un solo pais vs. un índice ex-US amplio.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice MSCI Canada Custom Capped - 'Custom Capped' implica topes de concentracion por nombre (misma razon regulatoria RIC ya documentada en otros fondos del proyecto), rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria especifica de EWC esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice MSCI Canada Custom Capped - 'Custom Capped' implica topes de concentración por nombre (misma razón regulatoria RIC ya documentada en otros fondos del proyecto), rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria específica de EWC esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario promedio = $168.87M/dia (3.04M acciones, Seeking Alpha, ventana 3 meses) - dato preciso y confiable, liquidez solida para un fondo de pais unico.",
+          "notas": "Volumen diario promedio = $168.87M/dia (3.04M acciones, Seeking Alpha, ventana 3 meses) - dato preciso y confiable, liquidez sólida para un fondo de pais único.",
           "calificacion": 5
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion, se infiere razonablemente ajustado dado el volumen verificado y 30 anios de historial.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión, se infiere razonablemente ajustado dado el volumen verificado y 30 años de historial.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 4.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "84 (Trackinsight) a 89 (stockanalysis) holdings - numero BAJO, tipico de un mercado de pais unico de tamano mediano como Canada (bolsa dominada por un numero relativamente reducido de grandes bancos, energeticas y mineras).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "84 (Trackinsight) a 89 (stockanalysis) holdings - número BAJO, típico de un mercado de pais único de tamaño mediano como Canada (bolsa dominada por un número relativamente reducido de grandes bancos, energeticas y mineras).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 = 44.47% - concentracion MODERADA-ALTA, dominada por CINCO BANCOS en el propio top10 (Royal Bank of Canada 9.30-9.68%, Toronto-Dominion 6.33-6.74%, Bank of Montreal 3.94-4.07%, Bank of Nova Scotia 3.45-3.59%, Canadian Imperial 3.44-3.54% = ~27% del fondo solo en bancos) mas Shopify (4.69-5.85%, la unica posicion growth/tech relevante) y Enbridge (3.53-3.96%, energia).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 = 44.47% - concentración MODERADA-ALTA, dominada por CINCO BANCOS en el propio top10 (Royal Bank of Canada 9.30-9.68%, Toronto-Dominion 6.33-6.74%, Bank of Montreal 3.94-4.07%, Bank of Nova Scotia 3.45-3.59%, Canadian Imperial 3.44-3.54% = ~27% del fondo solo en bancos) mas Shopify (4.69-5.85%, la única posición growth/tech relevante) y Enbridge (3.53-3.96%, energía).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Finance 46.70% + Energy 17.29% + Non-Energy Materials 13.50% = **~77% combinado en los tres pilares estructurales de la economia canadiense** (bancos, petroleo/gas, mineria) - concentracion sectorial ALTA para un fondo que se presenta como 'mercado total' de un pais, refleja fielmente que la bolsa de Canada ESTA estructuralmente concentrada en estos sectores, no es un defecto del indice sino una caracteristica real de la economia subyacente.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Finance 46.70% + Energy 17.29% + Non-Energy Materials 13.50% = **~77% combinado en los tres pilares estructurales de la economía canadiense** (bancos, petróleo/gas, mineria) - concentración sectorial ALTA para un fondo que se presenta como 'mercado total' de un pais, refleja fielmente que la bolsa de Canada ESTA estructuralmente concentrada en estos sectores, no es un defecto del índice sino una caracteristica real de la economía subyacente.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% Canada por definicion (fondo de pais unico) - CERO diversificacion geografica, pero ese ES el proposito explicito del vehiculo: exposicion pura y concentrada a un solo pais desarrollado, no una canasta diversificada como VXUS/IXUS/ACWX/VEU.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% Canada por definición (fondo de pais único) - CERO diversificación geográfica, pero ese ES el proposito explicito del vehículo: exposición pura y concentrada a un solo pais desarrollado, no una canasta diversificada como VXUS/IXUS/ACWX/VEU.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Blend con sesgo estructural real hacia VALUE/DIVIDENDO dado el peso dominante de bancos y energia (sectores tradicionalmente de valor), aunque Shopify (growth puro, sin dividendo) introduce cierta tension de estilo dentro del propio top10 - no es un blend tan neutro como VXUS/IXUS/VEU.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Blend con sesgo estructural real hacia VALUE/DIVIDENDO dado el peso dominante de bancos y energía (sectores tradicionalmente de valor), aunque Shopify (growth puro, sin dividendo) introduce cierta tensión de estilo dentro del propio top10 - no es un blend tan neutro como VXUS/IXUS/VEU.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MSCI Canada Custom Capped - proveedor MSCI (mismo que IXUS/ACWX), metodologia transparente con topes de concentracion por nombre explicitos, reconocida globalmente.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MSCI Canada Custom Capped - proveedor MSCI (mismo que IXUS/ACWX), metodología transparente con topes de concentración por nombre explicitos, reconocida globalmente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de EWC esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de EWC esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (30.4 anios) = 8.57% anualizado - SOLIDO dado lo extenso de la ventana (incluye 1997, dot-com, 2008, colapso de commodities 2014-16). Tabla de retornos EXCEPCIONALMENTE bien corroborada por ventana (lazyportfolioetf, fecha de corte unica 31-jul-2026): 10Y = 11.22-11.61% (dos fuentes cercanas), 5Y = 11.97%, 3Y = 20.31%, 1Y = +30.36% - consistente con el rally global de renta variable internacional ya documentado en TODO el cluster ex-US esta sesion (VXUS +26.8%, IXUS +25.85%, ACWX +30.55%, VEU +26.56%), no es un fenomeno aislado de Canada.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (30.4 años) = 8.57% anualizado - SÓLIDO dado lo extenso de la ventana (incluye 1997, dot-com, 2008, colapso de commodities 2014-16). Tabla de retornos EXCEPCIONALMENTE bien corroborada por ventana (lazyportfolioetf, fecha de corte única 31-jul-2026): 10Y = 11.22-11.61% (dos fuentes cercanas), 5Y = 11.97%, 3Y = 20.31%, 1Y = +30.36% - consistente con el rally global de renta variable internacional ya documentado en TODO el cluster ex-US esta sesión (VXUS +26.8%, IXUS +25.85%, ACWX +30.55%, VEU +26.56%), no es un fenomeno aislado de Canada.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad por ventana (lazyportfolioetf) - LA MEJOR CORROBORACION INTERNA DE TODO EL PROYECTO: 1Y 12.05%, 5Y 16.39%, 10Y 17.05%, Maximo (~30 anios) 20.07% - progresion logica y coherente (la volatilidad aumenta con la ventana, patron esperado), sin ninguna cifra implausible. Una cifra aislada de 4.41% encontrada en otra fuente se DESCARTO por implausible (mismo gotcha recurrente ya documentado).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad por ventana (lazyportfolioetf) - LA MEJOR CORROBORASIÓN INTERNA DE TODO EL PROYECTO: 1Y 12.05%, 5Y 16.39%, 10Y 17.05%, Máximo (~30 años) 20.07% - progresión logica y coherente (la volatilidad aumenta con la ventana, patrón esperado), sin ninguna cifra implausible. Una cifra aislada de 4.41% encontrada en otra fuente se DESCARTO por implausible (mismo gotcha recurrente ya documentado).",
           "calificacion": 5
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown: -56.67% (lazyportfolioetf, ventana Maxima ~30 anios, del NOV-2007 al JUN-2014) corroborado cercanamente por -60.75% de otra fuente (sin fecha especifica) - **RECUPERACION DE 6.5 ANOS, una de las mas lentas del proyecto**, explicada por la combinacion de la Crisis Financiera 2008 seguida del colapso de precios de commodities 2014-2016 (Canada es una economia dependiente de energia/materiales) - la 'doble crisis' consecutiva explica por que la recuperacion fue tan lenta comparada con otros fondos del proyecto.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown: -56.67% (lazyportfolioetf, ventana Maxima ~30 años, del NOV-2007 al JUN-2014) corroborado cercanamente por -60.75% de otra fuente (sin fecha específica) - **RECUPERASIÓN DE 6.5 ANOS, una de las mas lentas del proyecto**, explicada por la combinación de la Crisis Financiera 2008 seguida del colapso de precios de commodities 2014-2016 (Canada es una economía dependiente de energía/materiales) - la 'doble crisis' consecutiva explica por que la recuperación fue tan lenta comparada con otros fondos del proyecto.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio por ventana (lazyportfolioetf): 1Y 2.20 (inflado, mismo gotcha ya documentado con MU/CRAK/SOXX/IXUS), 5Y 0.51, 10Y 0.53, Maximo 0.32 - se prioriza el 10Y (0.53) como representativo de largo plazo, modesto pero razonable dado lo extenso y accidentado del periodo cubierto.",
+          "notas": "Sharpe Ratio por ventana (lazyportfolioetf): 1Y 2.20 (inflado, mismo gotcha ya documentado con MU/CRAK/SOXX/IXUS), 5Y 0.51, 10Y 0.53, Máximo 0.32 - se prioriza el 10Y (0.53) como representativo de largo plazo, modesto pero razonable dado lo extenso y accidentado del período cubierto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta vs S&P 500 = 0.86 (stockanalysis) - moderado. **CERO OVERLAP DETECTADO con el Dashboard de acciones individuales del usuario** (ninguna de las top10 holdings - Royal Bank, TD, Shopify, Bank of Montreal, Enbridge, Bank of Nova Scotia, Canadian Imperial, Canadian Natural Resources, Agnico Eagle, Brookfield - coincide con el Dashboard de acciones) - PRIMER caso de cero overlap desde ITA (fila 10), y el primero con un perfil sectorial genuinamente distinto (financials+energy+materials canadienses vs el sesgo tech-growth del resto de la cartera del usuario).",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "30.4 anios de historial - LA COBERTURA DE CRISIS MAS COMPLETA DE TODO EL PROYECTO, incluso mas que VEU (19.4 anios): crisis asiatica 1997, estallido dot-com 2000-2002, Crisis Financiera 2008, colapso de commodities 2014-2016 (una crisis especifica de Canada que ningun otro fondo del proyecto experimento tan directamente), COVID 2020, bear market 2022.",
+          "notas": "30.4 años de historial - LA COBERTURA DE CRISIS MAS COMPLETA DE TODO EL PROYECTO, incluso mas que VEU (19.4 años): crisis asiatica 1997, estallido dot-com 2000-2002, Crisis Financiera 2008, colapso de commodities 2014-2016 (una crisis específica de Canada que ningún otro fondo del proyecto experimento tan directamente), COVID 2020, bear market 2022.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 19.56x - mas caro que el cluster ex-US amplio del proyecto (15.86-17.84x), refleja tanto la prima historica de los bancos canadienses como el fuerte rally reciente. Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 19.56x - mas caro que el cluster ex-US amplio del proyecto (15.86-17.84x), refleja tanto la prima histórica de los bancos canadienses como el fuerte rally reciente. Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 1.22% - **NOTABLEMENTE BAJO** para un fondo dominado por bancos y energia (sectores tipicamente de alto dividendo) - probablemente explicado por la dilucion de Shopify (empresa growth pura, sin dividendo, 4.69-5.85% del fondo) y por la compresion de yield tras el fuerte rally reciente (+30.36% 1Y). Distribucion SEMESTRAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 1.22% - **NOTABLEMENTE BAJO** para un fondo dominado por bancos y energía (sectores tipicamente de alto dividendo) - probablemente explicado por la dilución de Shopify (empresa growth pura, sin dividendo, 4.69-5.85% del fondo) y por la compresión de yield tras el fuerte rally reciente (+30.36% 1Y). Distribución SEMESTRAL.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "PRIMER fondo de pais unico del proyecto - sin competidor directo verificado en este workbook. Candidato conocido sin datos propios: FLCA (Franklin FTSE Canada ETF, TER historicamente mas barato ~0.09%, competidor directo de bajo costo tipico del patron 'iShares legado caro vs. alternativa moderna barata' ya documentado con ACWX/IXUS y VEU/VXUS en este mismo proyecto).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "PRIMER fondo de pais único del proyecto - sin competidor directo verificado en este workbook. Candidato conocido sin datos propios: FLCA (Franklin FTSE Canada ETF, TER históricamente mas barato ~0.09%, competidor directo de bajo costo típico del patrón 'iShares legado caro vs. alternativa moderna barata' ya documentado con ACWX/IXUS y VEU/VXUS en este mismo proyecto).",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Satelite** - exposicion tactica y concentrada a un solo pais desarrollado (Canada), con un perfil sectorial genuinamente DISTINTO al resto de la cartera (financials+energy+materials vs. el sesgo tech-growth dominante), CERO overlap de holdings individuales, y el track record MAS LARGO Y MEJOR CORROBORADO de todo el proyecto. A diferencia del cluster ex-US amplio (VXUS/IXUS/ACWX/VEU, todos redundantes entre si), EWC es un diversificador GENUINO sin ningun competidor ya presente en este workbook.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Satélite** - exposición táctica y concentrada a un solo pais desarrollado (Canada), con un perfil sectorial genuinamente DISTINTO al resto de la cartera (financials+energy+materials vs. el sesgo tech-growth dominante), CERO overlap de holdings individuales, y el track record MAS LARGO Y MEJOR CORROBORADO de todo el proyecto. A diferencia del cluster ex-US amplio (VXUS/IXUS/ACWX/VEU, todos redundantes entre si), EWC es un diversificador GENUINO sin ningún competidor ya presente en este workbook.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion pura y probada (30 anios) a la economia canadiense - bancos solidos y bien regulados, productor relevante de energia y materiales estrategicos (petroleo, oro, cobre, potasio via el sector minero), con un ciclo economico y de commodities distinto al growth-tech de EEUU que domina el resto de la cartera del usuario. CERO overlap la hace una fuente de diversificacion sectorial genuina, no solo geografica.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición pura y probada (30 años) a la economía canadiense - bancos sólidos y bien regulados, productor relevante de energía y materiales estratégicos (petróleo, oro, cobre, potasio via el sector minero), con un ciclo económico y de commodities distinto al growth-tech de EEUU que domina el resto de la cartera del usuario. CERO overlap la hace una fuente de diversificación sectorial genuina, no solo geográfica.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) concentracion sectorial en financials+energy+materials (~77% combinado) - un fondo de 'mercado total' que en la practica es una apuesta concentrada en tres sectores ciclicos; (2) riesgo cambiario CAD/USD no cubierto; (3) dependencia del ciclo de commodities (petroleo, cobre, oro) que ya demostro una recuperacion de 6.5 anos tras 2008-2014; (4) TER relativamente alto (0.50%) para exposicion pasiva de un mercado desarrollado; (5) sin diversificacion geografica alguna (por diseno).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentración sectorial en financials+energy+materials (~77% combinado) - un fondo de 'mercado total' que en la practica es una apuesta concentrada en tres sectores ciclicos; (2) riesgo cambiario CAD/USD no cubierto; (3) dependencia del ciclo de commodities (petróleo, cobre, oro) que ya demostro una recuperación de 6.5 anos tras 2008-2014; (4) TER relativamente alto (0.50%) para exposición pasiva de un mercado desarrollado; (5) sin diversificación geográfica alguna (por diseño).",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "FLCA (Franklin FTSE Canada, TER mas barato) identificado como candidato sin datos propios verificados. Sin otro competidor de pais unico Canada ya analizado en este workbook.",
+          "notas": "FLCA (Franklin FTSE Canada, TER mas barato) identificado como candidato sin datos propios verificados. Sin otro competidor de pais único Canada ya analizado en este workbook.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.64/5 - el PRIMER fondo de pais unico del proyecto, y un diversificador GENUINO: CERO overlap con el Dashboard de acciones individuales del usuario (a diferencia de todo el cluster ex-US amplio VXUS/IXUS/ACWX/VEU, todos redundantes entre si), con un perfil sectorial estructuralmente distinto (financials+energy+materials canadienses, ~77% combinado, vs el sesgo tech-growth que domina el resto de la cartera). Tiene el track record MAS LARGO y la volatilidad MEJOR CORROBORADA por ventana de todo el proyecto (30.4 anios, tabla consistente 1Y/5Y/10Y/Maximo sin ninguna cifra implausible). El P/E (19.56x) es moderadamente mas caro que el cluster ex-US amplio, comparable al caso de VTV (20.92x, tambien Score >4.0 y tambien MANTENER/ACUMULAR pese a no ser 'barato') - el fuerte retorno 1Y (+30.36%) es consistente con el rally global ya documentado en todo el cluster ex-US esta sesion, no una senal aislada de sobrecalentamiento especifico de Canada. El riesgo real a monitorear es la concentracion sectorial estructural (bancos+energia+materiales) y la dependencia del ciclo de commodities, que ya demostro una recuperacion historica lenta (6.5 anos tras 2008-2014). Rol en Portafolio: Satelite (exposicion concentrada de pais unico, distinta de los diversificadores Core multi-pais del cluster ex-US)."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.64/5 - el PRIMER fondo de pais único del proyecto, y un diversificador GENUINO: CERO overlap con el Dashboard de acciones individuales del usuario (a diferencia de todo el cluster ex-US amplio VXUS/IXUS/ACWX/VEU, todos redundantes entre si), con un perfil sectorial estructuralmente distinto (financials+energy+materials canadienses, ~77% combinado, vs el sesgo tech-growth que domina el resto de la cartera). Tiene el track record MAS LARGO y la volatilidad MEJOR CORROBORADA por ventana de todo el proyecto (30.4 años, tabla consistente 1Y/5Y/10Y/Máximo sin ninguna cifra implausible). El P/E (19.56x) es moderadamente mas caro que el cluster ex-US amplio, comparable al caso de VTV (20.92x, también Score >4.0 y también MANTENER/ACUMULAR pese a no ser 'barato') - el fuerte retorno 1Y (+30.36%) es consistente con el rally global ya documentado en todo el cluster ex-US esta sesión, no una señal aislada de sobrecalentamiento específico de Canada. El riesgo real a monitorear es la concentración sectorial estructural (bancos+energía+materiales) y la dependencia del ciclo de commodities, que ya demostro una recuperación histórica lenta (6.5 anos tras 2008-2014). Rol en Portafolio: Satélite (exposición concentrada de pais único, distinta de los diversificadores Core multi-pais del cluster ex-US)."
   }
 }

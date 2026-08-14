@@ -1,7 +1,7 @@
 {
   "empresa": "Comcast Corporation",
   "ticker": "CMCSA",
-  "sector": "Servicios de Comunicacion / Cable-Broadband y Medios Diversificados",
+  "sector": "Servicios de Comunicación / Cable-Broadband y Medios Diversificados",
   "fecha_analisis": "2026-12-08",
   "analista": null,
   "secciones": [
@@ -15,17 +15,17 @@
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat de infraestructura de red de banda ancha-cable de ultima milla (costo hundido y escala dificiles de replicar), escala de parques tematicos (Epic Universe, inversion multimillonaria), deportes-contenido de NBCUniversal-Sky (NFL, NBA, Premier League) - mas debil que el moat de biblioteca de contenido de Disney, mas fuerte en infraestructura fisica.",
+          "notas": "Moat de infraestructura de red de banda ancha-cable de última milla (costo hundido y escala difíciles de replicar), escala de parques temáticos (Epic Universe, inversión multimillonaria), deportes-contenido de NBCUniversal-Sky (NFL, NBA, Premier League) - mas débil que el moat de biblioteca de contenido de Disney, mas fuerte en infraestructura física.",
           "calificacion": 3
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider #1 en banda ancha-cable en EEUU pero perdiendo suscriptores de forma activa y estructural frente a fibra (Verizon, AT&T) y fixed wireless (T-Mobile, Verizon) -aunque el ritmo de perdida se desacelera (-65k en Q1 2026 vs -183k un ano antes)-; Peacock #4-5 en streaming muy por detras de Netflix-Disney+; parques Universal #2 detras de Disney pero con el lanzamiento fuerte de Epic Universe (mayo-2025) ganando terreno.",
+          "notas": "Líder #1 en banda ancha-cable en EEUU pero perdiendo suscriptores de forma activa y estructural frente a fibra (Verizon, AT&T) y fixed wireless (T-Mobile, Verizon) -aunque el ritmo de pérdida se desacelera (-65k en Q1 2026 vs -183k un ano antes)-; Peacock #4-5 en streaming muy por detras de Netflix-Disney+; parques Universal #2 detras de Disney pero con el lanzamiento fuerte de Epic Universe (mayo-2025) ganando terreno.",
           "calificacion": 3
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Moderado y mixto: aumentos de precio en banda ancha compensan solo parcialmente la perdida de suscriptores (poder de fijacion de precios erosionandose), mientras Parks-Peacock muestran fuerte poder de precio (Epic Universe con entradas premium, Peacock subiendo tarifas sin perder suscriptores netos).",
+          "notas": "Moderado y mixto: aumentos de precio en banda ancha compensan solo parcialmente la pérdida de suscriptores (poder de fijación de precios erosionandose), mientras Parks-Peacock muestran fuerte poder de precio (Epic Universe con entradas premium, Peacock subiendo tarifas sin perder suscriptores netos).",
           "calificacion": 3
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Ano de transformacion de portafolio muy activo: spinoff de Versant Media ya completado (2-ene-2026), spinoff adicional de NBCUniversal-Sky ANUNCIADO para completarse dentro de 12 meses (transaccion libre de impuestos), programa de recompra de acciones PAUSADO mientras se ejecuta la separacion - asignacion de capital en transicion activa, aun sin track record post-spinoff que evaluar.",
+          "notas": "Ano de transformación de portafolio muy activo: spinoff de Versant Media ya completado (2-ene-2026), spinoff adicional de NBCUniversal-Sky ANUNCIADO para completarse dentro de 12 meses (transacción libre de impuestos), programa de recompra de acciones PAUSADO mientras se ejecuta la separación - asignación de capital en transición activa, aun sin track record post-spinoff que evaluar.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Participacion interna baja en terminos economicos (1.05%), pero el presidente-CEO Brian Roberts mantiene control desproporcionado de voto via acciones Clase B (estructura de doble clase) pese a una participacion economica reducida - transacciones 2026 limitadas a vesting de RSUs con retencion fiscal y una donacion caritativa de buena fe (202,500 acciones), sin compras-ventas abiertas de mercado relevantes.",
+          "notas": "Participación interna baja en términos económicos (1.05%), pero el presidente-CEO Brian Roberts mantiene control desproporcionado de voto via acciones Clase B (estructura de doble clase) pese a una participación económica reducida - transacciones 2026 limitadas a vesting de RSUs con retención fiscal y una donación caritativa de buena fe (202,500 acciones), sin compras-ventas abiertas de mercado relevantes.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Estructura de DOBLE CLASE de acciones: Clase A (publica, un voto) y Clase B (controlada por la familia Roberts, voto super-mayoritario) - otorga a Brian Roberts control efectivo de la empresa pese a una participacion economica minoritaria, un riesgo de gobierno corporativo relevante no presente en DIS.",
+          "notas": "Estructura de DOBLE CLASE de acciones: Clase A (pública, un voto) y Clase B (controlada por la familia Roberts, voto super-mayoritario) - otorga a Brian Roberts control efectivo de la empresa pese a una participación económica minoritaria, un riesgo de gobierno corporativo relevante no presente en DIS.",
           "calificacion": 2
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Reporta metricas detalladas trimestrales de suscriptores de banda ancha (adiciones-perdidas netas), suscriptores-perdidas de Peacock, y desglose completo por segmento Connectivity vs Content & Experiences - transparencia operativa alta.",
+          "notas": "Reporta métricas detalladas trimestrales de suscriptores de banda ancha (adiciones-pérdidas netas), suscriptores-pérdidas de Peacock, y desglose completo por segmento Connectivity vs Content & Experiences - transparencia operativa alta.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda neta USD 82.72bn (deuda total USD 90.38bn vs caja USD 7.66bn) sobre EBITDA estimado ~USD 34.29bn (via EV/EBITDA 5.02x) = Deuda Neta/EBITDA 2.41x, moderado. Debt/Equity 1.01x. Calificacion crediticia BAJO REVISION para posible baja (Moodys/S&P actualmente en el entorno A3/A-, revision hacia Baa1/BBB+) por el spinoff planeado de NBCUniversal-Sky, que concentraria mas deuda relativa en la entidad remanente de conectividad.",
+          "notas": "Deuda neta USD 82.72bn (deuda total USD 90.38bn vs caja USD 7.66bn) sobre EBITDA estimado ~USD 34.29bn (via EV/EBITDA 5.02x) = Deuda Neta/EBITDA 2.41x, moderado. Debt/Equity 1.01x. Calificación crediticia BAJO REVISIÓN para posible baja (Moodys/S&P actualmente en el entorno A3/A-, revisión hacia Baa1/BBB+) por el spinoff planeado de NBCUniversal-Sky, que concentraria mas deuda relativa en la entidad remanente de conectividad.",
           "calificacion": 3
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 0.80, prueba acida 0.80 (identicas, reflejo de inventario minimo tipico de un negocio de servicios-contenido) - por debajo de 1.0 pero normal para telecom-cable de esta escala.",
+          "notas": "Razón corriente 0.80, prueba acida 0.80 (identicas, reflejo de inventario mínimo típico de un negocio de servicios-contenido) - por debajo de 1.0 pero normal para telecom-cable de esta escala.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Aun grado de inversion pese a estar bajo revision negativa; vencimientos de deuda tipicamente bien escalonados en emisores investment-grade de este tamano, aunque el resultado final de la revision crediticia (posible baja a Baa1/BBB+) sigue pendiente.",
+          "notas": "Aun grado de inversión pese a estar bajo revisión negativa; vencimientos de deuda tipicamente bien escalonados en emisores investment-grade de este tamaño, aunque el resultado final de la revisión crediticia (posible baja a Baa1/BBB+) sigue pendiente.",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Goodwill+intangibles USD 132.12bn sobre activos totales de USD 257.55bn (51.3%) - MUY elevado, reflejo de decadas de M&A (adquisicion original de NBCUniversal 2011-2013, Sky 2018) y aun mas concentrado tras la deconsolidacion de los activos tangibles de Versant.",
+          "notas": "Goodwill+intangibles USD 132.12bn sobre activos totales de USD 257.55bn (51.3%) - MUY elevado, reflejo de décadas de M&A (adquisición original de NBCUniversal 2011-2013, Sky 2018) y aun mas concentrado tras la deconsolidación de los activos tangibles de Versant.",
           "calificacion": 2
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto 56.77%, margen operativo 14.85%, margen neto 8.97% - solidos y tipicos de una operadora de cable-contenido madura, aunque el margen neto reportado esta temporalmente distorsionado a la baja por el efecto de comparacion contra la ganancia unica de venta de Hulu del ano anterior (ver Notas).",
+          "notas": "Margen bruto 56.77%, margen operativo 14.85%, margen neto 8.97% - sólidos y típicos de una operadora de cable-contenido madura, aunque el margen neto reportado esta temporalmente distorsionado a la baja por el efecto de comparación contra la ganancia única de venta de Hulu del ano anterior (ver Notas).",
           "calificacion": 3
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 12.00%, ROIC apenas 6.44% vs WACC ajustado propio ~10.20% - spread NEGATIVO, similar al patron de DIS, reflejo del enorme goodwill de NBCUniversal-Sky que infla el capital invertido sin generar retornos proporcionales. ROE recalculado via DuPont (margen neto x rotacion x apalancamiento = 8.97% x 0.485 x 2.863) = 12.45%, consistente con el ROE reportado (12.00%), sin distorsiones no-operativas significativas.",
+          "notas": "ROE 12.00%, ROIC apenas 6.44% vs WACC ajustado propio ~10.20% - spread NEGATIVO, similar al patrón de DIS, reflejo del enorme goodwill de NBCUniversal-Sky que infla el capital invertido sin generar retornos proporcionales. ROE recalculado via DuPont (margen neto x rotación x apalancamiento = 8.97% x 0.485 x 2.863) = 12.45%, consistente con el ROE reportado (12.00%), sin distorsiones no-operativas significativas.",
           "calificacion": 2
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de Activos = 0.485x (Ingresos TTM USD 124.90bn / Activos totales USD 257.55bn), baja, tipica de una operadora de infraestructura de red-parques intensiva en capital (casi identica a la de DIS, 0.483x).",
+          "notas": "Rotación de Activos = 0.485x (Ingresos TTM USD 124.90bn / Activos totales USD 257.55bn), baja, típica de una operadora de infraestructura de red-parques intensiva en capital (casi identica a la de DIS, 0.483x).",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "EPS Past 5Y +18.80% (Finviz), Ventas Past 5Y +3.62% - crecimiento historico solido pero moderado. GUIA FORWARD NEGATIVA inusual: EPS Next 5Y estimado en -3.25%, que probablemente refleja el modelo de consenso ya ajustando por el spinoff planeado de NBCUniversal-Sky (una RemainCo de conectividad mas pequena y de menor crecimiento) mas que un deterioro organico del negocio actual combinado.",
+          "notas": "EPS Past 5Y +18.80% (Finviz), Ventas Past 5Y +3.62% - crecimiento histórico sólido pero moderado. GUIA FORWARD NEGATIVA inusual: EPS Next 5Y estimado en -3.25%, que probablemente refleja el modelo de consenso ya ajustando por el spinoff planeado de NBCUniversal-Sky (una RemainCo de conectividad mas pequeña y de menor crecimiento) mas que un deterioro orgánico del negocio actual combinado.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Ingresos TTM practicamente planos (+0.6% interanual) a nivel consolidado, pero con trayectorias MUY divergentes por segmento: Connectivity & Platforms en declive estructural (perdida de suscriptores de banda ancha-video), Content & Experiences en fuerte crecimiento (Parks +24% de ingresos en Q1 2026 impulsado por Epic Universe, Peacock escalando suscriptores) - consolidado inconsistente que oculta una divergencia interna marcada.",
+          "notas": "Ingresos TTM prácticamente planos (+0.6% interanual) a nivel consolidado, pero con trayectorias MUY divergentes por segmento: Connectivity & Platforms en declive estructural (pérdida de suscriptores de banda ancha-video), Content & Experiences en fuerte crecimiento (Parks +24% de ingresos en Q1 2026 impulsado por Epic Universe, Peacock escalando suscriptores) - consolidado inconsistente que oculta una divergencia interna marcada.",
           "calificacion": 2
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Rampa continua de Epic Universe en su segundo ano completo, Peacock aproximandose-alcanzando rentabilidad (46M de suscriptores, primer trimestre con utilidad neta positiva reportado), expansion de Xfinity Mobile (wireless), aunque el spinoff planeado de NBCUniversal-Sky removeria varias de estas fuentes de crecimiento de la entidad CMCSA original hacia una compania separada.",
+          "notas": "Rampa continua de Epic Universe en su segundo ano completo, Peacock aproximandose-alcanzando rentabilidad (46M de suscriptores, primer trimestre con utilidad neta positiva reportado), expansión de Xfinity Mobile (wireless), aunque el spinoff planeado de NBCUniversal-Sky removeria varias de estas fuentes de crecimiento de la entidad CMCSA original hacia una compañía separada.",
           "calificacion": 3
         }
       ],
@@ -130,12 +130,12 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM USD 32.52bn vs utilidad neta TTM USD 11.20bn - brecha grande pero normal (D&A intensivo de una operadora de red-contenido). GOTCHA CLAVE - imagen especular de la transaccion Hulu de DIS: la caida de -51.1% en utilidad neta TTM (-68.3% interanual en el trimestre, USD 3.5bn vs USD 11.1bn) se explica casi enteramente por la comparacion contra el Q2-2025, que incluia una ganancia UNICA de USD 9.4bn por la VENTA de la participacion de Comcast en Hulu a Disney - la MISMA transaccion de M&A que en paralelo genero un beneficio fiscal puntual que inflo la base de comparacion de Disney (ver ficha DIS). Ambas empresas mostraron caidas de utilidad neta interanual GAAP explicadas por el mismo evento corporativo, visto desde lados opuestos.",
+          "notas": "OCF TTM USD 32.52bn vs utilidad neta TTM USD 11.20bn - brecha grande pero normal (D&A intensivo de una operadora de red-contenido). GOTCHA CLAVE - imagen especular de la transacción Hulu de DIS: la caida de -51.1% en utilidad neta TTM (-68.3% interanual en el trimestre, USD 3.5bn vs USD 11.1bn) se explica casi enteramente por la comparación contra el Q2-2025, que incluia una ganancia ÚNICA de USD 9.4bn por la VENTA de la participación de Comcast en Hulu a Disney - la MISMA transacción de M&A que en paralelo genero un beneficio fiscal puntual que inflo la base de comparación de Disney (ver ficha DIS). Ambas empresas mostraron caidas de utilidad neta interanual GAAP explicadas por el mismo evento corporativo, visto desde lados opuestos.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM USD 20.44bn sobre Ingresos TTM USD 124.90bn = margen FCF de 16.36%, muy fuerte y practicamente igual al de FY2025 (USD 21.88bn) - confirma que la caida de utilidad neta GAAP es un artefacto contable de comparacion, NO un deterioro de la generacion de caja real. P/FCF de apenas 4.38x, uno de los multiplos mas bajos de todo el Dashboard.",
+          "notas": "FCF TTM USD 20.44bn sobre Ingresos TTM USD 124.90bn = margen FCF de 16.36%, muy fuerte y prácticamente igual al de FY2025 (USD 21.88bn) - confirma que la caida de utilidad neta GAAP es un artefacto contable de comparación, NO un deterioro de la generación de caja real. P/FCF de apenas 4.38x, uno de los múltiplos mas bajos de todo el Dashboard.",
           "calificacion": 5
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Dividendo alto y muy seguro (yield 5.24-5.28%, payout ratio bajo de apenas 24.48%, crecimiento de dividendo 3-5 anios ~7-7.5%), pero el programa de RECOMPRA DE ACCIONES esta PAUSADO mientras se ejecuta el spinoff planeado de NBCUniversal-Sky - asignacion de capital en transicion.",
+          "notas": "Dividendo alto y muy seguro (yield 5.24-5.28%, payout ratio bajo de apenas 24.48%, crecimiento de dividendo 3-5 años ~7-7.5%), pero el programa de RECOMPRA DE ACCIONES esta PAUSADO mientras se ejecuta el spinoff planeado de NBCUniversal-Sky - asignación de capital en transición.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM 8.16-8.30x, Forward P/E 6.96-7.30x, P/FCF 4.38x, EV/EBITDA 5.02x - EXTREMADAMENTE BARATO en todas las metricas, entre los multiplos mas bajos de todo el proyecto, reflejo del descuento que el mercado aplica por el riesgo estructural de banda ancha y la incertidumbre del spinoff pendiente.",
+          "notas": "P/E TTM 8.16-8.30x, Forward P/E 6.96-7.30x, P/FCF 4.38x, EV/EBITDA 5.02x - EXTREMADAMENTE BARATO en todas las métricas, entre los múltiplos mas bajos de todo el proyecto, reflejo del descuento que el mercado aplica por el riesgo estructural de banda ancha y la incertidumbre del spinoff pendiente.",
           "calificacion": 5
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (beta literal 0.65, NO adoptado -degenerado-): produce un multiplo terminal implicito de ~66x FCF vs el multiplo real de mercado de apenas 4.38x (brecha >15x, la mas extrema de convergencia detectada en el proyecto hasta ahora), resultando en un valor por accion no creible (>USD 100). Escenario B (adoptado): beta sustituido a 2.0 (limite superior del rango usado en el proyecto) + prima cualitativa +2.0pp (riesgo de ejecucion del spinoff NBCU-Sky, revision crediticia, presion secular de banda ancha) + crecimiento terminal reducido a 0% (reflejo de declive estructural del segmento de conectividad) -> WACC 10.20%, valor intrinseco USD 33.14/accion. Incluso con esta correccion agresiva, el spread resultante (~9.8x multiplo terminal implicito) sigue por encima del 4.38x real de mercado - se documenta la brecha residual como reflejo de riesgo estructural que un DCF estandar no puede capturar completamente, en vez de forzar una convergencia total.",
+          "notas": "Escenario A (beta literal 0.65, NO adoptado -degenerado-): produce un múltiplo terminal implícito de ~66x FCF vs el múltiplo real de mercado de apenas 4.38x (brecha >15x, la mas extrema de convergencia detectada en el proyecto hasta ahora), resultando en un valor por acción no creible (>USD 100). Escenario B (adoptado): beta sustituido a 2.0 (limite superior del rango usado en el proyecto) + prima cualitativa +2.0pp (riesgo de ejecución del spinoff NBCU-Sky, revisión crediticia, presión secular de banda ancha) + crecimiento terminal reducido a 0% (reflejo de declive estructural del segmento de conectividad) -> WACC 10.20%, valor intrínseco USD 33.14/acción. Incluso con esta corrección agresiva, el spread resultante (~9.8x múltiplo terminal implícito) sigue por encima del 4.38x real de mercado - se documenta la brecha residual como reflejo de riesgo estructural que un DCF estándar no puede capturar completamente, en vez de forzar una convergencia total.",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "+31.5% (Escenario B adoptado, precio actual USD 25.20 vs valor intrinseco USD 33.14) - margen solido y razonablemente cercano al objetivo de consenso de analistas (USD 30.08, +19.4%), aunque con la salvedad explicita de que el Escenario A (no adoptado) habria sugerido una subvaluacion mucho mas extrema y por tanto menos creible.",
+          "notas": "+31.5% (Escenario B adoptado, precio actual USD 25.20 vs valor intrínseco USD 33.14) - margen sólido y razonablemente cercano al objetivo de consenso de analistas (USD 30.08, +19.4%), aunque con la salvedad explicita de que el Escenario A (no adoptado) habria sugerido una subvaluación mucho mas extrema y por tanto menos creible.",
           "calificacion": 4
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de banda ancha-cable en EEUU maduro y de crecimiento lento a nulo (incluso en leve contraccion en video), mientras los mercados de parques tematicos-streaming-contenido de NBCUniversal siguen creciendo a tasas mas saludables.",
+          "notas": "Mercado de banda ancha-cable en EEUU maduro y de crecimiento lento a nulo (incluso en leve contracción en video), mientras los mercados de parques temáticos-streaming-contenido de NBCUniversal siguen creciendo a tasas mas saludables.",
           "calificacion": 3
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "MUY altas para infraestructura de banda ancha-cable (capital hundido masivo, permisos de franquicia), altas para parques tematicos (Epic Universe costo multimillonario), moderadas para streaming (Peacock compite en un mercado mas abierto).",
+          "notas": "MUY altas para infraestructura de banda ancha-cable (capital hundido masivo, permisos de franquicia), altas para parques temáticos (Epic Universe costo multimillonario), moderadas para streaming (Peacock compite en un mercado mas abierto).",
           "calificacion": 4
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta en banda ancha (fibra de Verizon-AT&T, fixed wireless de T-Mobile-Verizon activamente ganando suscriptores), rivalidad alta en streaming (Netflix, Disney+, Warner Bros Discovery), poder de proveedores moderado-alto (costos de derechos deportivos NFL-NBA-Premier League en aumento), poder de compradores alto (suscriptores con bajo costo de cambio en banda ancha-streaming), barreras de entrada altas en infraestructura fisica.",
+          "notas": "Rivalidad alta en banda ancha (fibra de Verizon-AT&T, fixed wireless de T-Mobile-Verizon activamente ganando suscriptores), rivalidad alta en streaming (Netflix, Disney+, Warner Bros Discovery), poder de proveedores moderado-alto (costos de derechos deportivos NFL-NBA-Premier League en aumento), poder de compradores alto (suscriptores con bajo costo de cambio en banda ancha-streaming), barreras de entrada altas en infraestructura física.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Moderada: publicidad-parques sensibles al gasto discrecional-turistico, banda ancha-cable relativamente defensivo (ingreso recurrente por suscripcion, aunque con perdida estructural de suscriptores independiente del ciclo economico).",
+          "notas": "Moderada: publicidad-parques sensibles al gasto discrecional-turistico, banda ancha-cable relativamente defensivo (ingreso recurrente por suscripción, aunque con pérdida estructural de suscriptores independiente del ciclo económico).",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Alto: sector de telecomunicaciones-cable fuertemente regulado (acuerdos de franquicia municipal, potencial regulacion de neutralidad de red), riesgo regulatorio de aprobacion para el spinoff planeado de NBCUniversal-Sky en multiples jurisdicciones (incl. Reino Unido-Europa por Sky).",
+          "notas": "Alto: sector de telecomunicaciones-cable fuertemente regulado (acuerdos de franquicia municipal, potencial regulación de neutralidad de red), riesgo regulatorio de aprobación para el spinoff planeado de NBCUniversal-Sky en múltiples jurisdicciones (incl. Reino Unido-Europa por Sky).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria REAL Y MATERIAL via Sky (Reino Unido-Europa), mayor proporcionalmente que la exposicion internacional de DIS.",
+          "notas": "Exposición cambiaria REAL Y MATERIAL via Sky (Reino Unido-Europa), mayor proporcionalmente que la exposición internacional de DIS.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de suscriptores masivamente diversificada sin concentracion de cliente unico, pero concentracion real de COSTOS en derechos deportivos de un numero limitado de ligas (NFL, NBA, Premier League via Sky) con precios en aumento constante.",
+          "notas": "Base de suscriptores masivamente diversificada sin concentración de cliente único, pero concentración real de COSTOS en derechos deportivos de un número limitado de ligas (NFL, NBA, Premier League via Sky) con precios en aumento constante.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "SEVERO Y AUN NO RESUELTO (a diferencia de DIS, donde el cord-cutting ya esta \"materializado y gestionado\"): perdida activa y continua de suscriptores de banda ancha frente a fibra (Verizon, AT&T) y fixed wireless (T-Mobile, Verizon) - el ritmo de perdida se desacelera (-65k vs -183k interanual en Q1 2026) pero el riesgo estructural sigue totalmente vigente y sin resolucion clara.",
+          "notas": "SEVERO Y AUN NO RESUELTO (a diferencia de DIS, donde el cord-cutting ya esta \"materializado y gestionado\"): pérdida activa y continua de suscriptores de banda ancha frente a fibra (Verizon, AT&T) y fixed wireless (T-Mobile, Verizon) - el ritmo de pérdida se desacelera (-65k vs -183k interanual en Q1 2026) pero el riesgo estructural sigue totalmente vigente y sin resolución clara.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Moderado, sin litigios activos severos identificados en esta investigacion; el spinoff de NBCUniversal-Sky podria generar preguntas de gobierno corporativo adicionales durante su ejecucion.",
+          "notas": "Moderado, sin litigios activos severos identificados en esta investigación; el spinoff de NBCUniversal-Sky podría generar preguntas de gobierno corporativo adicionales durante su ejecución.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Ejecucion del spinoff planeado de NBCUniversal-Sky (hasta 12 meses, transaccion libre de impuestos), resolucion de la revision de calificacion crediticia de Moodys-S&P, resultados del segundo ano completo de Epic Universe, progreso de Peacock hacia rentabilidad sostenida, proximo reporte trimestral.",
+          "notas": "Ejecución del spinoff planeado de NBCUniversal-Sky (hasta 12 meses, transacción libre de impuestos), resolución de la revisión de calificación crediticia de Moodys-S&P, resultados del segundo ano completo de Epic Universe, progreso de Peacock hacia rentabilidad sostenida, proximo reporte trimestral.",
           "calificacion": 4
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Sin senal clara: transacciones 2026 del Chairman-CEO Brian Roberts limitadas a vesting de RSUs con retencion fiscal automatica y una donacion caritativa de buena fe de 202,500 acciones (transferencia no de mercado) - ni compra ni venta discrecional relevante.",
+          "notas": "Sin señal clara: transacciones 2026 del Chairman-CEO Brian Roberts limitadas a vesting de RSUs con retención fiscal automática y una donación caritativa de buena fe de 202,500 acciones (transferencia no de mercado) - ni compra ni venta discrecional relevante.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso Hold/Mantener (28 analistas), objetivo promedio USD 30.08 (+19.4% de alza) - moderadamente positivo, razonablemente alineado en direccion con el Escenario B de este DCF (+31.5%), a diferencia de DIS donde el consenso de analistas era mucho mas optimista que el DCF.",
+          "notas": "Consenso Hold/Mantener (28 analistas), objetivo promedio USD 30.08 (+19.4% de alza) - moderadamente positivo, razonablemente alineado en dirección con el Escenario B de este DCF (+31.5%), a diferencia de DIS donde el consenso de analistas era mucho mas optimista que el DCF.",
           "calificacion": 3
         }
       ],
@@ -254,6 +254,6 @@
   "conclusion": {
     "score_promedio": 3.135135135135135,
     "recomendacion": "COMPRAR",
-    "tesis": "Comcast cotiza a multiplos extremadamente bajos (P/E ~8x, P/FCF 4.4x) que reflejan riesgo real de disrupcion estructural en banda ancha y la incertidumbre del spinoff pendiente de NBCUniversal-Sky, pero genera FCF robusto (USD 20.4bn, margen 16.4%) con un dividendo muy seguro (yield 5.2%, payout 24%) y aun con una correccion agresiva y conservadora del DCF (beta 2.0, g terminal 0%) el margen de seguridad resultante (+31.5%) es solido y cercano al consenso de analistas (+19.4%) - COMPRAR con la salvedad explicita de la elevada incertidumbre corporativa en curso."
+    "tesis": "Comcast cotiza a múltiplos extremadamente bajos (P/E ~8x, P/FCF 4.4x) que reflejan riesgo real de disrupción estructural en banda ancha y la incertidumbre del spinoff pendiente de NBCUniversal-Sky, pero genera FCF robusto (USD 20.4bn, margen 16.4%) con un dividendo muy seguro (yield 5.2%, payout 24%) y aun con una corrección agresiva y conservadora del DCF (beta 2.0, g terminal 0%) el margen de seguridad resultante (+31.5%) es sólido y cercano al consenso de analistas (+19.4%) - COMPRAR con la salvedad explicita de la elevada incertidumbre corporativa en curso."
   }
 }

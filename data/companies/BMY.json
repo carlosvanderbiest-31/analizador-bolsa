@@ -1,7 +1,7 @@
 {
   "empresa": "Bristol-Myers Squibb Company",
   "ticker": "BMY",
-  "sector": "Salud - Farmaceutica de gran capitalizacion (Large-Cap Pharmaceuticals)",
+  "sector": "Salud - Farmacéutica de gran capitalización (Large-Cap Pharmaceuticals)",
   "fecha_analisis": "2026-08-11",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Farmaceutica diversificada de gran capitalizacion con franquicias lideres en oncologia (Opdivo), cardiovascular (Eliquis, co-comercializado con Pfizer), inmunologia, neurociencia (Cobenfy, antipsicotico aprobado en 2024) y terapia celular (Breyanzi, Abecma, via la adquisicion de Celgene en 2019 por USD 74bn). Ingresos TTM USD 49.19bn, practicamente PLANOS en los ultimos 5 anios.",
+          "notas": "Farmacéutica diversificada de gran capitalización con franquicias líderes en oncologia (Opdivo), cardiovascular (Eliquis, co-comercializado con Pfizer), inmunologia, neurociencia (Cobenfy, antipsicotico aprobado en 2024) y terapia celular (Breyanzi, Abecma, via la adquisición de Celgene en 2019 por USD 74bn). Ingresos TTM USD 49.19bn, prácticamente PLANOS en los últimos 5 años.",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat basado en proteccion de patentes de franquicias blockbuster mas escala de I+D-manufactura-distribucion, aunque por definicion es un moat TEMPORAL: cada patente vence en un plazo conocido (fila 31), a diferencia de moats mas duraderos de otras empresas Salud de la sesion.",
+          "notas": "Moat basado en protección de patentes de franquicias blockbuster mas escala de I+D-manufactura-distribución, aunque por definición es un moat TEMPORAL: cada patente vence en un plazo conocido (fila 31), a diferencia de moats mas duraderos de otras empresas Salud de la sesión.",
           "calificacion": 4
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Posicion competitiva fuerte en oncologia-inmunologia y con una plataforma de terapia celular relevante (Breyanzi-Abecma) tras la integracion de Celgene.",
+          "notas": "Posición competitiva fuerte en oncologia-inmunologia y con una plataforma de terapia celular relevante (Breyanzi-Abecma) tras la integración de Celgene.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Poder de fijacion de precios REAL en productos patentados, pero bajo presion politica genuina: Eliquis ya fue SELECCIONADO para negociacion de precios de Medicare bajo la Inflation Reduction Act (IRA) - un riesgo regulatorio ya materializado, no solo hipotetico, sobre uno de los dos productos mas grandes de la empresa.",
+          "notas": "Poder de fijación de precios REAL en productos patentados, pero bajo presión política genuina: Eliquis ya fue SELECCIONADO para negociación de precios de Medicare bajo la Inflation Reduction Act (IRA) - un riesgo regulatorio ya materializado, no solo hipotetico, sobre uno de los dos productos mas grandes de la empresa.",
           "calificacion": 3
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Gestion navego la integracion de Celgene y la erosion de Revlimid de forma razonable, aunque el cargo de IPRD de USD 13.4bn en FY2024 (adquisicion de Karuna mas colaboracion SystImmune) que produjo una perdida neta GAAP de USD 8.93bn ese anio fue una decision de asignacion de capital de alto riesgo, aun si estrategicamente justificada para diversificar el pipeline mas alla del cliff de patentes.",
+          "notas": "Gestion navego la integración de Celgene y la erosión de Revlimid de forma razonable, aunque el cargo de IPRD de USD 13.4bn en FY2024 (adquisición de Karuna mas colaboración SystImmune) que produjo una pérdida neta GAAP de USD 8.93bn ese año fue una decisión de asignación de capital de alto riesgo, aun si estrategicamente justificada para diversificar el pipeline mas alla del cliff de patentes.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Tenencia de insiders tipica de una mega-cap farmaceutica sin fundador-control activo.",
+          "notas": "Tenencia de insiders típica de una mega-cap farmacéutica sin fundador-control activo.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Gobernanza razonable, sin escandalo especifico identificado esta sesion, aunque el balance fuertemente apalancado (legado de la adquisicion de Celgene de USD 74bn en 2019) refleja una historia de asignacion de capital via M&A grande y agresiva.",
+          "notas": "Gobernanza razonable, sin escandalo específico identificado esta sesión, aunque el balance fuertemente apalancado (legado de la adquisición de Celgene de USD 74bn en 2019) refleja una historia de asignación de capital via M&A grande y agresiva.",
           "calificacion": 3
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda Neta/EBITDA de 2.90x - moderado-elevado, en gran parte legado de la adquisicion de Celgene (2019). Calificacion investment grade A2(negativo)/A(estable) de Moodys-S&P.",
+          "notas": "Deuda Neta/EBITDA de 2.90x - moderado-elevado, en gran parte legado de la adquisición de Celgene (2019). Calificación investment grade A2(negativo)/A(estable) de Moodys-S&P.",
           "calificacion": 3
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "GOTCHA POSITIVO: razon corriente 1.53 y razon rapida 1.16 - liquidez genuinamente SOLIDA, notablemente mejor que las razones corrientes por debajo de 1.0 ya documentadas en CI (0.85) y UNH (0.80) esta misma sesion.",
+          "notas": "GOTCHA POSITIVO: razón corriente 1.53 y razón rápida 1.16 - liquidez genuinamente SÓLIDA, notablemente mejor que las razones corrientes por debajo de 1.0 ya documentadas en CI (0.85) y UNH (0.80) esta misma sesión.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Calificacion investment grade solida (A2 negativo Moodys, A estable S&P); sin vencimientos de deuda concentrados identificados esta sesion.",
+          "notas": "Calificación investment grade sólida (A2 negativo Moodys, A estable S&P); sin vencimientos de deuda concentrados identificados esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Patrimonio POSITIVO pero DELGADO en relacion a la deuda pesada de Celgene (Patrimonio USD 22.32bn vs Deuda USD 43.12bn, TTM) - no es un caso de patrimonio negativo (a diferencia de HCA-MCK-BA-DELL), pero infla el ROE (fila 28). El cargo de IPRD de 2024 ya fue reconocido en su totalidad, sin distorsion pendiente de limpieza.",
+          "notas": "Patrimonio POSITIVO pero DELGADO en relación a la deuda pesada de Celgene (Patrimonio USD 22.32bn vs Deuda USD 43.12bn, TTM) - no es un caso de patrimonio negativo (a diferencia de HCA-MCK-BA-DELL), pero infla el ROE (fila 28). El cargo de IPRD de 2024 ya fue reconocido en su totalidad, sin distorsión pendiente de limpieza.",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "GOTCHA POSITIVO: margenes de farmaceutica genuinamente altos - bruto 70.16% TTM, operativo 23.83% TTM (aunque el margen operativo de FY2024 fue NEGATIVO, -15.50%, por el cargo unico de IPRD de USD 13.4bn - ya normalizado en las cifras TTM), neto 18.86% TTM.",
+          "notas": "GOTCHA POSITIVO: márgenes de farmacéutica genuinamente altos - bruto 70.16% TTM, operativo 23.83% TTM (aunque el margen operativo de FY2024 fue NEGATIVO, -15.50%, por el cargo único de IPRD de USD 13.4bn - ya normalizado en las cifras TTM), neto 18.86% TTM.",
           "calificacion": 5
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "GOTCHA: ROE reportado (45.43%) esta INFLADO por un patrimonio delgado en relacion a la deuda pesada de Celgene (fila 25) - usar ROIC (16.84%, solido pero no extraordinario) como medida mas confiable de rentabilidad economica real, mismo tipo de ajuste ya aplicado en casos de patrimonio delgado-apalancado (ITW), aqui con patrimonio positivo, no negativo.",
+          "notas": "GOTCHA: ROE reportado (45.43%) esta INFLADO por un patrimonio delgado en relación a la deuda pesada de Celgene (fila 25) - usar ROIC (16.84%, sólido pero no extraordinario) como medida mas confiable de rentabilidad económica real, mismo tipo de ajuste ya aplicado en casos de patrimonio delgado-apalancado (ITW), aquí con patrimonio positivo, no negativo.",
           "calificacion": 3
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada, tipica de una farmaceutica de marca de gran escala.",
+          "notas": "Rotación de activos moderada, típica de una farmacéutica de marca de gran escala.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "GOTCHA SEVERO: CAGR de ingresos 5 anios PRACTICAMENTE PLANO (0.96%, FY2021-FY2025) - refleja la erosion YA MATERIALIZADA de Revlimid (-48.9% en 2025 a USD 2.9bn) y Sprycel (-61.7% a USD 493M) apenas compensada por el crecimiento de Eliquis-Opdivo. MAS IMPORTANTE: el cliff de patentes MAS GRANDE (Eliquis+Opdivo, que combinados fueron aprox USD 24.4bn en 2025, casi la mitad de los ingresos totales) todavia esta por venir, con perdida de exclusividad en EEUU entre 2027-2029.",
+          "notas": "GOTCHA SEVERO: CAGR de ingresos 5 años PRÁCTICAMENTE PLANO (0.96%, FY2021-FY2025) - refleja la erosión YA MATERIALIZADA de Revlimid (-48.9% en 2025 a USD 2.9bn) y Sprycel (-61.7% a USD 493M) apenas compensada por el crecimiento de Eliquis-Opdivo. MAS IMPORTANTE: el cliff de patentes MAS GRANDE (Eliquis+Opdivo, que combinados fueron aprox USD 24.4bn en 2025, casi la mitad de los ingresos totales) todavía esta por venir, con pérdida de exclusividad en EEUU entre 2027-2029.",
           "calificacion": 2
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "GOTCHA SEVERO: utilidad neta GAAP NEGATIVA en FY2024 (-USD 8.93bn, EPS -USD 4.41) por el cargo unico de IPRD de USD 13.4bn (adquisicion de Karuna mas colaboracion SystImmune) - ya recuperado con fuerza en TTM (utilidad neta +83.8% interanual), pero muestra la volatilidad real de ganancias GAAP inherente a la estrategia activa de M&A-licenciamiento de pipeline de la empresa.",
+          "notas": "GOTCHA SEVERO: utilidad neta GAAP NEGATIVA en FY2024 (-USD 8.93bn, EPS -USD 4.41) por el cargo único de IPRD de USD 13.4bn (adquisición de Karuna mas colaboración SystImmune) - ya recuperado con fuerza en TTM (utilidad neta +83.8% interanual), pero muestra la volatilidad real de ganancias GAAP inherente a la estrategia activa de M&A-licenciamiento de pipeline de la empresa.",
           "calificacion": 2
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "GOTCHA-CATALIZADOR MAYOR, MUY RECIENTE Y ACTIVO: el Financial Times reporto el 2-ago-2026 que Bristol-Myers Squibb y AstraZeneca sostuvieron conversaciones preliminares de fusion por una entidad combinada valorada en aprox USD 400bn - la accion de BMY subio aprox +6% en pre-mercado tras la noticia (AstraZeneca cayo hasta -7%). Conversaciones en etapa TEMPRANA, con obstaculos reales de antimonopolio y superposicion de I+D en oncologia-cardiovascular-inmunologia (aunque los pipelines son en gran parte complementarios: AstraZeneca mas fuerte en tumores solidos, BMS mas fuerte en canceres de sangre-terapia celular) - expertos senalan que el acuerdo \"puede nunca materializarse\". Tratado como OPCIONALIDAD, NO incorporado como escenario central del DCF.",
+          "notas": "GOTCHA-CATALIZADOR MAYOR, MUY RECIENTE Y ACTIVO: el Financial Times reporto el 2-ago-2026 que Bristol-Myers Squibb y AstraZeneca sostuvieron conversaciones preliminares de fusión por una entidad combinada valorada en aprox USD 400bn - la acción de BMY subio aprox +6% en pre-mercado tras la noticia (AstraZeneca cayo hasta -7%). Conversaciones en etapa TEMPRANA, con obstaculos reales de antimonopolio y superposición de I+D en oncologia-cardiovascular-inmunologia (aunque los pipelines son en gran parte complementarios: AstraZeneca mas fuerte en tumores sólidos, BMS mas fuerte en canceres de sangre-terapia celular) - expertos senalan que el acuerdo \"puede nunca materializarse\". Tratado como OPCIONALIDAD, NO incorporado como escenario central del DCF.",
           "calificacion": 5
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Calidad de ganancias mejorando tras el cargo unico de IPRD de 2024, aunque la utilidad GAAP sigue siendo genuinamente volatil por la estrategia activa de M&A-licenciamiento de la empresa (patron recurrente, no un evento aislado).",
+          "notas": "Calidad de ganancias mejorando tras el cargo único de IPRD de 2024, aunque la utilidad GAAP sigue siendo genuinamente volatil por la estrategia activa de M&A-licenciamiento de la empresa (patrón recurrente, no un evento aislado).",
           "calificacion": 3
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "Conversion de FCF SOLIDA Y CONFIABLE: FCF Yield de 8.78% CUADRA con el calculo cruzado independiente (FCF TTM USD 11.44bn / capitalizacion de mercado USD 129.95bn = 8.80%) - un dato limpio, sin distorsion aparente (a diferencia del FCF Yield anomalo ya documentado en CI esta misma sesion).",
+          "notas": "Conversión de FCF SÓLIDA Y CONFIABLE: FCF Yield de 8.78% CUADRA con el calculo cruzado independiente (FCF TTM USD 11.44bn / capitalización de mercado USD 129.95bn = 8.80%) - un dato limpio, sin distorsión aparente (a diferencia del FCF Yield anomalo ya documentado en CI esta misma sesión).",
           "calificacion": 4
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex bajo (USD 1.34bn TTM, 2.73% de ingresos) - tipico de una farmaceutica de marca sin manufactura intensiva propia a gran escala.",
+          "notas": "Capex bajo (USD 1.34bn TTM, 2.73% de ingresos) - típico de una farmacéutica de marca sin manufactura intensiva propia a gran escala.",
           "calificacion": 4
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Dividendo con yield 3.89%-3.96% y payout ratio aprox 40%-55% segun metodo de calculo - 17 anios consecutivos de incremento de dividendo y 94 anios consecutivos pagando dividendo (en camino a Aristocrata-Rey del Dividendo, aun no alcanza el umbral de 25 anios de incrementos). El cargo de USD 13.4bn de IPRD en 2024 y la deuda pesada de la adquisicion de Celgene (2019, USD 74bn) reflejan una historia de asignacion de capital via M&A grande y de riesgo real.",
+          "notas": "Dividendo con yield 3.89%-3.96% y payout ratio aprox 40%-55% según metodo de calculo - 17 años consecutivos de incremento de dividendo y 94 años consecutivos pagando dividendo (en camino a Aristocrata-Rey del Dividendo, aun no alcanza el umbral de 25 años de incrementos). El cargo de USD 13.4bn de IPRD en 2024 y la deuda pesada de la adquisición de Celgene (2019, USD 74bn) reflejan una historia de asignación de capital via M&A grande y de riesgo real.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "Multiplos razonablemente baratos para un pharma de gran capitalizacion: P/E TTM 14.27x (forward aun mas barato, 10.10x), EV/EBITDA 11.00x, P/FCF 11.39x - aunque reflejan genuinamente el riesgo del cliff de patentes de 2028-2029 (fila 31), no necesariamente una oportunidad de valoracion sin matices.",
+          "notas": "Múltiplos razonablemente baratos para un pharma de gran capitalización: P/E TTM 14.27x (forward aun mas barato, 10.10x), EV/EBITDA 11.00x, P/FCF 11.39x - aunque reflejan genuinamente el riesgo del cliff de patentes de 2028-2029 (fila 31), no necesariamente una oportunidad de valoración sin matices.",
           "calificacion": 4
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "GOTCHA METODOLOGICO: beta literal MUY degenerado (0.22, WACC algebraico implicito de solo aprox 4.5%, brecha de convergencia de 3.6x contra el P/FCF real de mercado). A diferencia de otros casos de beta degenerado ya vistos esta sesion (WMB-AMT-EXC), la sustitucion algebraica pura aqui exigiria un beta implausible (~1.78) porque el multiplo real de mercado YA esta genuinamente comprimido por el riesgo de cliff de patentes 2028-2029 (fila 31), no por una distorsion de dato. Se opto por un enfoque de juicio moderado: beta sustituto 1.0 (nivel de mercado, reflejo del riesgo de negocio real pero sin llegar al extremo algebraico) mas una prima de riesgo cualitativa de +2.0pp (misma familia de ajuste ya usada en CI-HCA-WFC-WMB-MPC-BABA-UNH). WACC resultante 9.24% (estructura de capital a valor de mercado: Equity USD 129.95bn, Deuda USD 43.12bn). FCF base = USD 11.44bn TTM (confiable, fila 36). Crecimiento 5 anios = 2% (reflejo del CAGR historico practicamente plano); terminal 2.0% (por debajo del default habitual de 2.5%, dado el cliff aun mas grande que se aproxima en 2028-2029). Valor Intrinseco: USD 61.90/accion.",
+          "notas": "GOTCHA METODOLOGICO: beta literal MUY degenerado (0.22, WACC algebraico implícito de solo aprox 4.5%, brecha de convergencia de 3.6x contra el P/FCF real de mercado). A diferencia de otros casos de beta degenerado ya vistos esta sesión (WMB-AMT-EXC), la sustitución algebraica pura aquí exigiria un beta implausible (~1.78) porque el múltiplo real de mercado YA esta genuinamente comprimido por el riesgo de cliff de patentes 2028-2029 (fila 31), no por una distorsión de dato. Se opto por un enfoque de juicio moderado: beta sustituto 1.0 (nivel de mercado, reflejo del riesgo de negocio real pero sin llegar al extremo algebraico) mas una prima de riesgo cualitativa de +2.0pp (misma familia de ajuste ya usada en CI-HCA-WFC-WMB-MPC-BABA-UNH). WACC resultante 9.24% (estructura de capital a valor de mercado: Equity USD 129.95bn, Deuda USD 43.12bn). FCF base = USD 11.44bn TTM (confiable, fila 36). Crecimiento 5 años = 2% (reflejo del CAGR histórico prácticamente plano); terminal 2.0% (por debajo del default habitual de 2.5%, dado el cliff aun mas grande que se aproxima en 2028-2029). Valor Intrínseco: USD 61.90/acción.",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad: LIGERAMENTE NEGATIVO (-2.70%, precio actual USD 63.62 vs valor intrinseco USD 61.90) - practicamente en valor razonable, similar al patron ya visto con MDT (-0.22%) y SYK (-0.95%). Consenso de analistas (Buy, objetivo promedio USD 66.21, aprox +4% de alza) apunta en la misma direccion de \"aproximadamente bien valorada\", sin margen de seguridad claro en ninguna direccion segun ninguna de las dos fuentes.",
+          "notas": "Margen de Seguridad: LIGERAMENTE NEGATIVO (-2.70%, precio actual USD 63.62 vs valor intrínseco USD 61.90) - prácticamente en valor razonable, similar al patrón ya visto con MDT (-0.22%) y SYK (-0.95%). Consenso de analistas (Buy, objetivo promedio USD 66.21, aprox +4% de alza) apunta en la misma dirección de \"aproximadamente bien valorada\", sin margen de seguridad claro en ninguna dirección según ninguna de las dos fuentes.",
           "calificacion": 3
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM grande y en crecimiento estructural (oncologia-inmunologia-cardiovascular-neurociencia), aunque con presion de precios genuina y ya materializada (fila 15-49).",
+          "notas": "TAM grande y en crecimiento estructural (oncologia-inmunologia-cardiovascular-neurociencia), aunque con presión de precios genuina y ya materializada (fila 15-49).",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Barreras de entrada REALES pero por definicion TEMPORALES: la proteccion de patentes vence en plazos conocidos (fila 31), a diferencia de moats mas duraderos de otras empresas Salud de la sesion (ej. la escala de PBM de CI-UNH, o el moat de datos-instalada-base de ISRG).",
+          "notas": "Barreras de entrada REALES pero por definición TEMPORALES: la protección de patentes vence en plazos conocidos (fila 31), a diferencia de moats mas duraderos de otras empresas Salud de la sesión (ej. la escala de PBM de CI-UNH, o el moat de datos-instalada-base de ISRG).",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Porter: competencia intensa de la industria farmaceutica de gran capitalizacion (Pfizer, Merck, J&J, AbbVie, y potencialmente AstraZeneca como socio de fusion -fila 33-), rivalidad real por franquicias terapeuticas similares en oncologia-inmunologia.",
+          "notas": "Porter: competencia intensa de la industria farmacéutica de gran capitalización (Pfizer, Merck, J&J, AbbVie, y potencialmente AstraZeneca como socio de fusión -fila 33-), rivalidad real por franquicias terapeuticas similares en oncologia-inmunologia.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Ciclicidad BAJA - demanda farmaceutica es mayormente no discrecional.",
+          "notas": "Ciclicidad BAJA - demanda farmacéutica es mayormente no discrecional.",
           "calificacion": 2
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "GOTCHA: Eliquis YA fue seleccionado para negociacion de precios de Medicare bajo la Inflation Reduction Act (IRA) - un riesgo regulatorio real y YA MATERIALIZADO (no solo hipotetico) sobre uno de los dos productos mas grandes de la empresa, en la misma ventana de tiempo que su cliff de patentes (fila 31).",
+          "notas": "GOTCHA: Eliquis YA fue seleccionado para negociación de precios de Medicare bajo la Inflation Reduction Act (IRA) - un riesgo regulatorio real y YA MATERIALIZADO (no solo hipotetico) sobre uno de los dos productos mas grandes de la empresa, en la misma ventana de tiempo que su cliff de patentes (fila 31).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria moderada, negocio internacional significativo tipico de un pharma de gran capitalizacion.",
+          "notas": "Exposición cambiaria moderada, negocio internacional significativo típico de un pharma de gran capitalización.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "GOTCHA: concentracion REAL en dos productos (Eliquis+Opdivo, aprox 50% de ingresos totales combinados en 2025) que enfrentan perdida de exclusividad en la MISMA ventana de tiempo (2028-2029) - un riesgo de concentracion de producto genuino y con fecha conocida.",
+          "notas": "GOTCHA: concentración REAL en dos productos (Eliquis+Opdivo, aprox 50% de ingresos totales combinados en 2025) que enfrentan pérdida de exclusividad en la MISMA ventana de tiempo (2028-2029) - un riesgo de concentración de producto genuino y con fecha conocida.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Plataformas de terapia celular (Breyanzi-Abecma via Celgene) y el pipeline de neurociencia (Cobenfy) representan capacidades tecnologicas reales, aunque no un diferenciador unico frente a otros pharmas grandes de la sesion.",
+          "notas": "Plataformas de terapia celular (Breyanzi-Abecma via Celgene) y el pipeline de neurociencia (Cobenfy) representan capacidades tecnologicas reales, aunque no un diferenciador único frente a otros pharmas grandes de la sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Riesgo social-regulatorio MODERADO, tipico del sector farmaceutico (presion de precios, escrutinio politico sobre el costo de medicamentos), sin escandalo especifico identificado esta sesion.",
+          "notas": "Riesgo social-regulatorio MODERADO, típico del sector farmacéutico (presión de precios, escrutinio politico sobre el costo de medicamentos), sin escandalo específico identificado esta sesión.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Proximo evento MAYOR: desenlace de las conversaciones de fusion con AstraZeneca (fila 33, el mas importante y mas reciente); avance regulatorio del pipeline de reposicion (6 medicamentos nuevos apuntando a mas de USD 15bn de ingresos combinados); trayectoria de ventas de Cobenfy (potencial de USD 3.4bn anuales).",
+          "notas": "Proximo evento MAYOR: desenlace de las conversaciones de fusión con AstraZeneca (fila 33, el mas importante y mas reciente); avance regulatorio del pipeline de reposición (6 medicamentos nuevos apuntando a mas de USD 15bn de ingresos combinados); trayectoria de ventas de Cobenfy (potencial de USD 3.4bn anuales).",
           "calificacion": 5
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "GOTCHA-CONTEXTO ADICIONAL: el pipeline de reposicion de BMS (6 medicamentos nuevos con presentaciones regulatorias entre 2026-2028) busca compensar explicitamente el cliff de Eliquis-Opdivo antes de que este se materialice completamente en 2028-2029 - Cobenfy (aprobado 2024, antipsicotico de mecanismo novedoso via la adquisicion de Karuna) es la pieza mas avanzada, con potencial de USD 3.4bn en ventas anuales si la adopcion continua. El exito-fracaso de esta estrategia de reposicion, mas el desenlace de las conversaciones de fusion con AstraZeneca (fila 33), son los dos factores que probablemente determinen si el cliff de patentes de 2028-2029 resulta en un escenario tipo BA (dano estructural) o tipo la mayoria de los demas casos de esta sesion (transicion manejable).",
+          "notas": "GOTCHA-CONTEXTO ADICIONAL: el pipeline de reposición de BMS (6 medicamentos nuevos con presentaciones regulatorias entre 2026-2028) busca compensar explícitamente el cliff de Eliquis-Opdivo antes de que este se materialice completamente en 2028-2029 - Cobenfy (aprobado 2024, antipsicotico de mecanismo novedoso via la adquisición de Karuna) es la pieza mas avanzada, con potencial de USD 3.4bn en ventas anuales si la adopción continua. El exito-fracaso de esta estrategia de reposición, mas el desenlace de las conversaciones de fusión con AstraZeneca (fila 33), son los dos factores que probablemente determinen si el cliff de patentes de 2028-2029 resulta en un escenario tipo BA (dano estructural) o tipo la mayoría de los demas casos de esta sesión (transición manejable).",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso de analistas: calificacion BUY, objetivo promedio USD 66.21 (aprox +4% de alza) - modesto pero positivo, bien alineado direccionalmente con este DCF (-2.70%, practicamente en valor razonable) - ambas fuentes convergen en que la empresa esta aproximadamente bien valorada al precio actual.",
+          "notas": "Consenso de analistas: calificación BUY, objetivo promedio USD 66.21 (aprox +4% de alza) - modesto pero positivo, bien alineado direccionalmente con este DCF (-2.70%, prácticamente en valor razonable) - ambas fuentes convergen en que la empresa esta aproximadamente bien valorada al precio actual.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.27027027027027,
-    "recomendacion": "MANTENER - farmaceutica diversificada de gran capitalizacion con margenes solidos (bruto 70.16%, FCF Yield confiable 8.78%) y liquidez genuinamente buena (razon corriente 1.53, la mejor de las aseguradoras-farma-servicios de salud de la sesion), pero enfrentando un cliff de patentes real y ya cuantificable en el tiempo (Eliquis+Opdivo, aprox 50% de ingresos, pierden exclusividad en 2027-2029) que el CAGR de ingresos practicamente plano de los ultimos 5 anios (0.96%) ya empieza a reflejar; el DCF (con un beta literal degenerado 0.22 corregido via juicio moderado -beta 1.0 mas prima de riesgo +2.0pp, dado que el multiplo real de mercado ya esta genuinamente comprimido por el riesgo de cliff, no por una distorsion de dato-) da un margen de seguridad practicamente neutro (-2.70%), bien alineado con un consenso de analistas Buy modesto (+4%); ademas existe un catalizador binario muy reciente y no incorporado en el DCF base (conversaciones de fusion con AstraZeneca reportadas el 2-ago-2026, aprox USD 400bn de valor combinado, en etapa temprana)",
-    "tesis": "Un pharma de gran capitalizacion en la antesala de su cliff de patentes mas grande (Eliquis-Opdivo, 2028-2029), con un pipeline de reposicion en marcha y un posible catalizador de fusion con AstraZeneca sobre la mesa, cotizando aproximadamente a valor razonable segun el DCF y el consenso de analistas por igual."
+    "recomendacion": "MANTENER - farmacéutica diversificada de gran capitalización con márgenes sólidos (bruto 70.16%, FCF Yield confiable 8.78%) y liquidez genuinamente buena (razón corriente 1.53, la mejor de las aseguradoras-farma-servicios de salud de la sesión), pero enfrentando un cliff de patentes real y ya cuantificable en el tiempo (Eliquis+Opdivo, aprox 50% de ingresos, pierden exclusividad en 2027-2029) que el CAGR de ingresos prácticamente plano de los últimos 5 años (0.96%) ya empieza a reflejar; el DCF (con un beta literal degenerado 0.22 corregido via juicio moderado -beta 1.0 mas prima de riesgo +2.0pp, dado que el múltiplo real de mercado ya esta genuinamente comprimido por el riesgo de cliff, no por una distorsión de dato-) da un margen de seguridad prácticamente neutro (-2.70%), bien alineado con un consenso de analistas Buy modesto (+4%); además existe un catalizador binario muy reciente y no incorporado en el DCF base (conversaciones de fusión con AstraZeneca reportadas el 2-ago-2026, aprox USD 400bn de valor combinado, en etapa temprana)",
+    "tesis": "Un pharma de gran capitalización en la antesala de su cliff de patentes mas grande (Eliquis-Opdivo, 2028-2029), con un pipeline de reposición en marcha y un posible catalizador de fusión con AstraZeneca sobre la mesa, cotizando aproximadamente a valor razonable según el DCF y el consenso de analistas por igual."
   }
 }

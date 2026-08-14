@@ -1,7 +1,7 @@
 {
   "empresa": "Meta Platforms",
   "ticker": "META",
-  "sector": "Tecnologia/Comunicacion - Publicidad Digital",
+  "sector": "Tecnología/Comunicación - Publicidad Digital",
   "fecha_analisis": "2026-04-08",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ingresos casi enteramente publicitarios: Family of Apps (Facebook/Instagram/WhatsApp/Messenger) = aprox 99.3% de ingresos (60.37bn de 60.8bn en Q2 2026). Reality Labs es marginal en ingresos (431M) pero genera perdidas operativas crecientes (-4.62bn en Q2 2026). Baja diversificacion de fuentes de ingreso - el negocio depende casi por completo del ciclo de gasto publicitario digital.",
+          "notas": "Ingresos casi enteramente publicitarios: Family of Apps (Facebook/Instagram/WhatsApp/Messenger) = aprox 99.3% de ingresos (60.37bn de 60.8bn en Q2 2026). Reality Labs es marginal en ingresos (431M) pero genera pérdidas operativas crecientes (-4.62bn en Q2 2026). Baja diversificación de fuentes de ingreso - el negocio depende casi por completo del ciclo de gasto publicitario digital.",
           "calificacion": 3
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat de efectos de red (3.60bn de usuarios diarios promedio en Family of Apps, jun-2026) + escala de datos para targeting publicitario + switching cost alto para anunciantes (ecosistema de campanias/atribucion), bajo para usuarios finales. Meta proyectada a superar a Google en ad revenue global por primera vez en 2026 (aprox 243.5bn vs aprox 239.5bn, eMarketer).",
+          "notas": "Moat de efectos de red (3.60bn de usuarios diarios promedio en Family of Apps, jun-2026) + escala de datos para targeting publicitario + switching cost alto para anunciantes (ecosistema de campanias/atribución), bajo para usuarios finales. Meta proyectada a superar a Google en ad revenue global por primera vez en 2026 (aprox 243.5bn vs aprox 239.5bn, eMarketer).",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Cuota de mercado de ad spend digital global aprox 26.8% (2026, eMarketer), superando a Google (26.4%) por primera vez. Google+Meta+Amazon = 62.3% del gasto. TikTok/ByteDance aprox 7.9% y creciendo - mayor amenaza de sustitucion de atencion de usuario, no de canibalizacion directa de presupuesto de ads todavia.",
+          "notas": "Cuota de mercado de ad spend digital global aprox 26.8% (2026, eMarketer), superando a Google (26.4%) por primera vez. Google+Meta+Amazon = 62.3% del gasto. TikTok/ByteDance aprox 7.9% y creciendo - mayor amenaza de sustitución de atención de usuario, no de canibalización directa de presupuesto de ads todavía.",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Precio promedio por anuncio +12% YoY en Q2 2026 (segundo trimestre consecutivo), impresiones +14% YoY - la IA generativa esta mejorando targeting/creative y permitiendo subir precios sin perder volumen. Senial de pricing power fuerte y en aceleracion.",
+          "notas": "Precio promedio por anuncio +12% YoY en Q2 2026 (segundo trimestre consecutivo), impresiones +14% YoY - la IA generativa esta mejorando targeting/creative y permitiendo subir precios sin perder volumen. Senial de pricing power fuerte y en aceleración.",
           "calificacion": 5
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Buybacks de 30.1bn (2024) y 26.2bn (2025), pero pausados completamente desde Q3 2025 para priorizar el capex de IA (130-145bn guia FY2026, elevada dos veces en el anio). M&A reciente: 49% de Scale AI por 14.3bn (jun-2025, sin control) para su Superintelligence Lab, no adquisicion tradicional. El pivote de buybacks a capex es una apuesta de alto riesgo/alto retorno potencial, no un track record probado todavia en este nuevo ciclo.",
+          "notas": "Buybacks de 30.1bn (2024) y 26.2bn (2025), pero pausados completamente desde Q3 2025 para priorizar el capex de IA (130-145bn guia FY2026, elevada dos veces en el año). M&A reciente: 49% de Scale AI por 14.3bn (jun-2025, sin control) para su Superintelligence Lab, no adquisición tradicional. El pivote de buybacks a capex es una apuesta de alto riesgo/alto retorno potencial, no un track record probado todavía en este nuevo ciclo.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Zuckerberg controla aprox 61% del poder de voto total con solo aprox 13% de la propiedad economica via acciones Class B (10 votos/accion). Skin in the game de control es total, pero ha vendido acciones de forma consistente y recurrente via planes 10b5-1 (aprox 1.79M acciones netas vendidas en 18 meses, sin compras) - patron rutinario de insider, no necesariamente senial bajista, pero no hay compras que refuercen conviccion visible.",
+          "notas": "Zuckerberg controla aprox 61% del poder de voto total con solo aprox 13% de la propiedad económica via acciones Class B (10 votos/acción). Skin in the game de control es total, pero ha vendido acciones de forma consistente y recurrente via planes 10b5-1 (aprox 1.79M acciones netas vendidas en 18 meses, sin compras) - patrón rutinario de insider, no necesariamente senial bajista, pero no hay compras que refuercen convicción visible.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Doble clase de acciones: Class A (1 voto) y Class B (10 votos, aprox 99.7% en manos de Zuckerberg). Control absoluto y permanente de Zuckerberg sobre cualquier decision societaria - sin balance de poder de otros accionistas ni riesgo de adquisicion hostil, pero tampoco checks-and-balances de gobierno corporativo tradicional.",
+          "notas": "Doble clase de acciones: Class A (1 voto) y Class B (10 votos, aprox 99.7% en manos de Zuckerberg). Control absoluto y permanente de Zuckerberg sobre cualquier decisión societaria - sin balance de poder de otros accionistas ni riesgo de adquisición hostil, pero tampoco checks-and-balances de gobierno corporativo tradicional.",
           "calificacion": 2
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Reporta guidance trimestral de ingresos y capex de forma consistente; ha sido transparente sobre las revisiones al alza del capex de IA durante 2026 (dos veces). Comunicacion de resultados clara via comunicados oficiales con desglose por segmento (FoA vs Reality Labs).",
+          "notas": "Reporta guidance trimestral de ingresos y capex de forma consistente; ha sido transparente sobre las revisiones al alza del capex de IA durante 2026 (dos veces). Comunicación de resultados clara via comunicados oficiales con desglose por segmento (FoA vs Reality Labs).",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Caja+valores 90.26bn vs deuda LP 83.66bn (30-jun-2026) -> caja neta positiva ajustada de aprox 6.6bn, pero el colchon se redujo fuertemente en 2026 por emisiones de 30bn (oct-2025) y 25bn (may-2026) para financiar capex de IA. Debt/EBITDA bruto 0.77x (GuruFocus, 79% arriba de su mediana historica 10Y de 0.43x). Debt/Equity aprox 0.43x (Finviz). Tendencia de apalancamiento creciente a vigilar de cerca.",
+          "notas": "Caja+valores 90.26bn vs deuda LP 83.66bn (30-jun-2026) -> caja neta positiva ajustada de aprox 6.6bn, pero el colchon se redujo fuertemente en 2026 por emisiones de 30bn (oct-2025) y 25bn (may-2026) para financiar capex de IA. Debt/EBITDA bruto 0.77x (GuruFocus, 79% arriba de su mediana histórica 10Y de 0.43x). Debt/Equity aprox 0.43x (Finviz). Tendencia de apalancamiento creciente a vigilar de cerca.",
           "calificacion": 3
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Current ratio 2.23x (Finviz), 47% debajo de su mediana historica 10Y (4.44x). Quick ratio 2.35x, en tendencia decreciente desde 2.82x (2024). Liquidez sigue siendo comoda en terminos absolutos pero la tendencia es de reduccion sostenida.",
+          "notas": "Current ratio 2.23x (Finviz), 47% debajo de su mediana histórica 10Y (4.44x). Quick ratio 2.35x, en tendencia decreciente desde 2.82x (2024). Liquidez sigue siendo comoda en términos absolutos pero la tendencia es de reducción sostenida.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Vencimientos escalonados en multiples tramos 2029-2066, emitidos en ago-2024, oct-2025 (30bn) y may-2026 (25bn), cupones 4.20%-6.45%. Sin concentracion relevante de vencimientos en el corto plazo. Rating crediticio Aa3 (Moody's) / AA- (S&P, outlook estable, feb-2025).",
+          "notas": "Vencimientos escalonados en múltiples tramos 2029-2066, emitidos en ago-2024, oct-2025 (30bn) y may-2026 (25bn), cupones 4.20%-6.45%. Sin concentración relevante de vencimientos en el corto plazo. Rating crediticio Aa3 (Moody's) / AA- (S&P, outlook estable, feb-2025).",
           "calificacion": 5
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Goodwill+intangibles aprox 45-53bn frente a activos totales de 449.96bn (dic-2025/jun-2026) - proporcion baja. El activo dominante es Property & Equipment neto, que se triplico de 57.8bn (2021) a 176.4bn (2025) por el capex de datacenters - migracion hacia activos tangibles productivos, bajo riesgo relativo de impairment de goodwill.",
+          "notas": "Goodwill+intangibles aprox 45-53bn frente a activos totales de 449.96bn (dic-2025/jun-2026) - proporción baja. El activo dominante es Property & Equipment neto, que se triplico de 57.8bn (2021) a 176.4bn (2025) por el capex de datacenters - migración hacia activos tangibles productivos, bajo riesgo relativo de impairment de goodwill.",
           "calificacion": 4
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "TTM: Margen bruto 81.75%, operativo 38.08%, neto 29.84% (Finviz). En Q2 2026 puntual el margen operativo cayo a 31% (desde 43% un anio antes) por 2.40bn en cargos legales + 1.18bn en indemnizaciones por recorte de 8,000 empleados - caida trimestral puntual, no necesariamente estructural, hay que vigilar el proximo trimestre para confirmar.",
+          "notas": "TTM: Margen bruto 81.75%, operativo 38.08%, neto 29.84% (Finviz). En Q2 2026 puntual el margen operativo cayo a 31% (desde 43% un año antes) por 2.40bn en cargos legales + 1.18bn en indemnizaciones por recorte de 8,000 empleados - caida trimestral puntual, no necesariamente estructural, hay que vigilar el proximo trimestre para confirmar.",
           "calificacion": 4
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 29.85%, ROA 18.29% (Finviz), ROIC aprox 25-30% segun fuente - todos muy por encima del WACC estimado (aprox 10.0%), lo que indica creacion de valor economico solida pese a la presion reciente sobre margenes.",
+          "notas": "ROE 29.85%, ROA 18.29% (Finviz), ROIC aprox 25-30% según fuente - todos muy por encima del WACC estimado (aprox 10.0%), lo que indica creación de valor económico sólida pese a la presión reciente sobre márgenes.",
           "calificacion": 5
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos aprox 0.51x (Revenue TTM 228.25bn / Activos totales 449.96bn, calculo propio). Apalancamiento financiero aprox 1.72x (Activos/Patrimonio). Ciclo de conversion de efectivo no encontrado con fuente confiable - negocio de servicios digitales sin inventario fisico relevante, tipicamente CCC bajo o negativo, pero no verificado con dato puntual.",
+          "notas": "Rotación de activos aprox 0.51x (Revenue TTM 228.25bn / Activos totales 449.96bn, calculo propio). Apalancamiento financiero aprox 1.72x (Activos/Patrimonio). Ciclo de conversión de efectivo no encontrado con fuente confiable - negocio de servicios digitales sin inventario fisico relevante, tipicamente CCC bajo o negativo, pero no verificado con dato puntual.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Revenue: 116.6bn (2022, -1.1%) -> 134.9bn (2023, +15.7%) -> 164.5bn (2024, +21.9%) -> 200.97bn (2025, +22.2%). Utilidad neta: 23.2bn (2022) -> 39.1bn (2023) -> 62.36bn (2024) -> 60.46bn (2025, -3.05% pese al crecimiento de ingresos, posible cargo especial no confirmado - revisar 10-K). Crecimiento organico (ads), no via M&A relevante.",
+          "notas": "Revenue: 116.6bn (2022, -1.1%) -> 134.9bn (2023, +15.7%) -> 164.5bn (2024, +21.9%) -> 200.97bn (2025, +22.2%). Utilidad neta: 23.2bn (2022) -> 39.1bn (2023) -> 62.36bn (2024) -> 60.46bn (2025, -3.05% pese al crecimiento de ingresos, posible cargo especial no confirmado - revisar 10-K). Crecimiento orgánico (ads), no via M&A relevante.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "No es un negocio puramente estable: contraccion en 2022 (-1.1% ingresos) por cambios de privacidad de iOS + temor de recesion, seguida de fuerte recuperacion 2023-2025 (+15.7%, +21.9%, +22.2%). Sensible al ciclo de gasto publicitario y a shocks regulatorios/de plataforma.",
+          "notas": "No es un negocio puramente estable: contracción en 2022 (-1.1% ingresos) por cambios de privacidad de iOS + temor de recesión, seguida de fuerte recuperación 2023-2025 (+15.7%, +21.9%, +22.2%). Sensible al ciclo de gasto publicitario y a shocks regulatorios/de plataforma.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "IA generativa aplicada a ads (ya visible en +12% YoY en precio por anuncio), monetizacion incipiente de WhatsApp/Threads, apuesta de largo plazo en smart glasses (pivote desde VR puro) y MTIA (chips propios) + Llama como plataforma de IA. EPS growth next 5Y consenso analistas: 19.03% (Finviz).",
+          "notas": "IA generativa aplicada a ads (ya visible en +12% YoY en precio por anuncio), monetización incipiente de WhatsApp/Threads, apuesta de largo plazo en smart glasses (pivote desde VR puro) y MTIA (chips propios) + Llama como plataforma de IA. EPS growth next 5Y consenso analistas: 19.03% (Finviz).",
           "calificacion": 4
         }
       ],
@@ -135,17 +135,17 @@
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM (jun-2026) 40.98bn, comprimido desde 54.1bn (FY2024) y 46.1bn (FY2025) por el salto de capex (TTM capex 89.3bn vs 69.7bn FY2025). FCF yield actual aprox 2.7% del market cap - bajo historicamente para Meta por el ciclo de inversion, no por debilidad operativa.",
+          "notas": "FCF TTM (jun-2026) 40.98bn, comprimido desde 54.1bn (FY2024) y 46.1bn (FY2025) por el salto de capex (TTM capex 89.3bn vs 69.7bn FY2025). FCF yield actual aprox 2.7% del market cap - bajo históricamente para Meta por el ciclo de inversión, no por debilidad operativa.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Meta no desagrega capex de mantenimiento vs. crecimiento. Guia FY2026 de capex 130-145bn (elevada dos veces en el anio), management lo caracteriza como abrumadoramente growth capex (nuevos datacenters/IA), no mantenimiento de infraestructura existente. Capex TTM 89.3bn ya es +28% vs FY2025 completo (69.7bn) en menos tiempo.",
+          "notas": "Meta no desagrega capex de mantenimiento vs. crecimiento. Guia FY2026 de capex 130-145bn (elevada dos veces en el año), management lo caracteriza como abrumadoramente growth capex (nuevos datacenters/IA), no mantenimiento de infraestructura existente. Capex TTM 89.3bn ya es +28% vs FY2025 completo (69.7bn) en menos tiempo.",
           "calificacion": 2
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Dividendo trimestral 0.525 usd/accion (yield aprox 0.38%) se mantiene; buybacks pausados desde Q3 2025 (cero en Q1 2026, vs 26.2bn en todo 2025); capex financiado con OCF + emision de deuda (30bn oct-2025 + 25bn may-2026). Prioridad clara: capex de IA por encima de retorno directo a accionistas en el corto plazo.",
+          "notas": "Dividendo trimestral 0.525 usd/acción (yield aprox 0.38%) se mantiene; buybacks pausados desde Q3 2025 (cero en Q1 2026, vs 26.2bn en todo 2025); capex financiado con OCF + emisión de deuda (30bn oct-2025 + 25bn may-2026). Prioridad clara: capex de IA por encima de retorno directo a accionistas en el corto plazo.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E trailing 22.02x, forward 17.15x (Finviz); EV/EBITDA aprox 13-15x (debajo de su mediana historica 10Y de 17.85x, GuruFocus); P/FCF elevado (aprox 35-37x) por la compresion temporal del FCF, no comparable directo a periodos previos; P/B aprox 6.7x. vs. Alphabet: multiplos de peers con alta dispersion entre fuentes - no se pudo verificar una comparacion limpia esta sesion.",
+          "notas": "P/E trailing 22.02x, forward 17.15x (Finviz); EV/EBITDA aprox 13-15x (debajo de su mediana histórica 10Y de 17.85x, GuruFocus); P/FCF elevado (aprox 35-37x) por la compresión temporal del FCF, no comparable directo a períodos previos; P/B aprox 6.7x. vs. Alphabet: múltiplos de peers con alta dispersión entre fuentes - no se pudo verificar una comparación limpia esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio (no circular): FCF base TTM 40.98bn, WACC 9.99% (CAPM: Beta 1.24, Rf 3.5%, ERP 5.5% -> Costo Equity 10.32%; costo deuda post-tax aprox 4.0%; E/V 94.7%/D/V 5.3%), crecimiento 5 anios = consenso analistas EPS 19.03% (el CAGR historico de FCF 2021-2025 de solo aprox 4.3% se descarto porque subestima la capacidad de ganancias real del negocio base, distorsionada a la baja por el pico actual de capex), crecimiento terminal 4%. Valor Intrinseco resultante: 515.05 usd/accion. Escenario alternativo descartado (CAGR historico 4.3%): 282.90 usd/accion - la brecha enorme entre ambos escenarios muestra cuan sensible es la valoracion a si el capex de IA se traduce en crecimiento real o no.",
+          "notas": "DCF propio (no circular): FCF base TTM 40.98bn, WACC 9.99% (CAPM: Beta 1.24, Rf 3.5%, ERP 5.5% -> Costo Equity 10.32%; costo deuda post-tax aprox 4.0%; E/V 94.7%/D/V 5.3%), crecimiento 5 años = consenso analistas EPS 19.03% (el CAGR histórico de FCF 2021-2025 de solo aprox 4.3% se descarto porque subestima la capacidad de ganancias real del negocio base, distorsionada a la baja por el pico actual de capex), crecimiento terminal 4%. Valor Intrínseco resultante: 515.05 usd/acción. Escenario alternativo descartado (CAGR histórico 4.3%): 282.90 usd/acción - la brecha enorme entre ambos escenarios muestra cuan sensible es la valoración a si el capex de IA se traduce en crecimiento real o no.",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Precio actual 584.59 vs. Valor Intrinseco 515.05 usd/accion -> Margen de Seguridad = -13.5% (sobrevalorada bajo el escenario de consenso de analistas). Bajo el escenario descartado de CAGR historico, el margen de seguridad seria de -106.6% (extremadamente sobrevalorada) - el rango entre escenarios es muy amplio, lo que exige cautela: el precio actual ya esta pagando por una ejecucion casi perfecta del capex de IA.",
+          "notas": "Precio actual 584.59 vs. Valor Intrínseco 515.05 usd/acción -> Margen de Seguridad = -13.5% (sobrevalorada bajo el escenario de consenso de analistas). Bajo el escenario descartado de CAGR histórico, el margen de seguridad seria de -106.6% (extremadamente sobrevalorada) - el rango entre escenarios es muy amplio, lo que exige cautela: el precio actual ya esta pagando por una ejecución casi perfecta del capex de IA.",
           "calificacion": 2
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM de publicidad digital global estimado entre aprox 350-650bn en 2026 segun la fuente (dispersion por definicion de alcance), creciendo a doble digito (CAGR aprox 13-14% estimado a 2030-2033). Mercado grande y en expansion estructural.",
+          "notas": "TAM de publicidad digital global estimado entre aprox 350-650bn en 2026 según la fuente (dispersión por definición de alcance), creciendo a doble digito (CAGR aprox 13-14% estimado a 2030-2033). Mercado grande y en expansión estructural.",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Altisimas: efectos de red, escala de datos de comportamiento/targeting, capital intensivo (decenas de miles de millones en capex de IA), integracion profunda con el ecosistema de anunciantes (atribucion, pixel, herramientas de campania).",
+          "notas": "Altisimas: efectos de red, escala de datos de comportamiento/targeting, capital intensivo (decenas de miles de millones en capex de IA), integración profunda con el ecosistema de anunciantes (atribución, pixel, herramientas de campania).",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta (Google, TikTok, Amazon Ads, Snap); poder de negociacion de anunciantes moderado; poder de negociacion de proveedores creciente (NVIDIA domina el suministro de GPUs de IA, escasez de capacidad); amenaza de nuevos entrantes baja (barreras de escala/red); amenaza de sustitutos alta (competencia por tiempo de atencion, especialmente TikTok).",
+          "notas": "Rivalidad alta (Google, TikTok, Amazon Ads, Snap); poder de negociación de anunciantes moderado; poder de negociación de proveedores creciente (NVIDIA domina el suministro de GPUs de IA, escasez de capacidad); amenaza de nuevos entrantes baja (barreras de escala/red); amenaza de sustitutos alta (competencia por tiempo de atención, especialmente TikTok).",
           "calificacion": 4
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "El gasto publicitario es sensible al ciclo economico - la contraccion de ingresos en 2022 (-1.1%) coincidio con temores de recesion y el shock de privacidad de iOS, confirmando la ciclicidad del modelo pese al moat estructural de largo plazo.",
+          "notas": "El gasto publicitario es sensible al ciclo económico - la contracción de ingresos en 2022 (-1.1%) coincidio con temores de recesión y el shock de privacidad de iOS, confirmando la ciclicidad del modelo pese al moat estructural de largo plazo.",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Meta ganio el juicio antitrust de la FTC sobre Instagram/WhatsApp (nov-2025), pero la FTC esta apelando - proceso que puede durar anios. Multa de la UE de 798M EUR (abuso de posicion dominante, Facebook Marketplace). Riesgo regulatorio activo y permanente en EU (DSA/DMA) y en EE.UU.",
+          "notas": "Meta ganio el juicio antitrust de la FTC sobre Instagram/WhatsApp (nov-2025), pero la FTC esta apelando - proceso que puede durar años. Multa de la UE de 798M EUR (abuso de posición dominante, Facebook Marketplace). Riesgo regulatorio activo y permanente en EU (DSA/DMA) y en EE.UU.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional significativa: US&Canada 37.8%, Asia Pacific 27.4%, Europa 23.5%, resto del mundo 11.3% de ingresos (Q1 2026). Management senialo FX como headwind de aprox 1% YoY para la guia de Q3 2026.",
+          "notas": "Exposición internacional significativa: US&Canada 37.8%, Asia Pacific 27.4%, Europa 23.5%, resto del mundo 11.3% de ingresos (Q1 2026). Management senialo FX como headwind de aprox 1% YoY para la guia de Q3 2026.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Sin concentracion de clientes relevante (base de millones de anunciantes). Alta concentracion de proveedores: dependencia critica de NVIDIA para GPUs de IA y de TSMC para la fabricacion de sus chips propios MTIA - riesgo de cuello de botella de suministro si la demanda global de computo de IA sigue superando la capacidad de fabricacion.",
+          "notas": "Sin concentración de clientes relevante (base de millones de anunciantes). Alta concentración de proveedores: dependencia critica de NVIDIA para GPUs de IA y de TSMC para la fabricación de sus chips propios MTIA - riesgo de cuello de botella de suministro si la demanda global de computo de IA sigue superando la capacidad de fabricación.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Competencia directa de TikTok por atencion de usuario; apuesta de Reality Labs sigue acumulando perdidas crecientes (-4.62bn en Q2 2026) sin validacion clara de retorno; riesgo central de que el capex masivo de IA (130-145bn FY2026) no genere el ROI esperado - la accion cayo aprox 7% tras el reporte de Q2 2026 por esta preocupacion especifica.",
+          "notas": "Competencia directa de TikTok por atención de usuario; apuesta de Reality Labs sigue acumulando pérdidas crecientes (-4.62bn en Q2 2026) sin validación clara de retorno; riesgo central de que el capex masivo de IA (130-145bn FY2026) no genere el ROI esperado - la acción cayo aprox 7% tras el reporte de Q2 2026 por esta preocupación específica.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "No se encontraron cifras cuantitativas verificadas de huella de carbono de datacenters. Existen demandas activas en EE.UU. de varios estados por diseanio adictivo de plataformas hacia menores (salud mental) - exposicion financiera no cuantificada con fuente confiable en esta sesion.",
+          "notas": "No se encontraron cifras cuantitativas verificadas de huella de carbono de datacenters. Existen demandas activas en EE.UU. de varios estados por diseanio adictivo de plataformas hacia menores (salud mental) - exposición financiera no cuantificada con fuente confiable en esta sesión.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Proximo reporte de resultados: Q3 2026, estimado 28-oct-2026 (despues del cierre). Guia propia de ingresos Q3 2026: 61-64bn.",
+          "notas": "Proximo reporte de resultados: Q3 2026, estimado 28-oct-2026 (después del cierre). Guia propia de ingresos Q3 2026: 61-64bn.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Zuckerberg: solo ventas en los ultimos 5 anios (384 transacciones registradas, cero compras), via planes 10b5-1 - patron rutinario de diversificacion, no senial bajista directa. Javier Olivan (COO) vendio acciones en jul-2026. Sin compras relevantes de insiders que refuercen conviccion visible.",
+          "notas": "Zuckerberg: solo ventas en los últimos 5 años (384 transacciones registradas, cero compras), via planes 10b5-1 - patrón rutinario de diversificación, no senial bajista directa. Javier Olivan (COO) vendio acciones en jul-2026. Sin compras relevantes de insiders que refuercen convicción visible.",
           "calificacion": 2
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso Buy/Strong Buy (rating promedio 1.28, Finviz); price target promedio 752-762 usd (rango 580-1000), lo que implica aprox +29-30% de upside vs. precio actual (aprox 584.59) segun el consenso de Wall Street. Post Q2 2026, varias casas bajaron su price target (BofA a 810 desde 900, Citizens a 770 desde 800, Susquehanna a 650 desde 900) reflejando preocupacion por el capex/FCF, aunque mantienen ratings de compra.",
+          "notas": "Consenso Buy/Strong Buy (rating promedio 1.28, Finviz); price target promedio 752-762 usd (rango 580-1000), lo que implica aprox +29-30% de upside vs. precio actual (aprox 584.59) según el consenso de Wall Street. Post Q2 2026, varias casas bajaron su price target (BofA a 810 desde 900, Citizens a 770 desde 800, Susquehanna a 650 desde 900) reflejando preocupación por el capex/FCF, aunque mantienen ratings de compra.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.4864864864864864,
-    "recomendacion": "MANTENER, NO ABRIR NUEVA POSICION",
-    "tesis": "Meta domina la publicidad digital global con un moat de red y datos que le permite ganarle cuota a Google incluso mientras financia una apuesta de capex de IA sin precedentes (aprox 130-145bn en 2026) que comprime el FCF actual y deja la valoracion justa a ligeramente cara, dependiendo casi enteramente de que esa inversion se traduzca en crecimiento futuro."
+    "recomendacion": "MANTENER, NO ABRIR NUEVA POSISIÓN",
+    "tesis": "Meta domina la publicidad digital global con un moat de red y datos que le permite ganarle cuota a Google incluso mientras financia una apuesta de capex de IA sin precedentes (aprox 130-145bn en 2026) que comprime el FCF actual y deja la valoración justa a ligeramente cara, dependiendo casi enteramente de que esa inversión se traduzca en crecimiento futuro."
   }
 }

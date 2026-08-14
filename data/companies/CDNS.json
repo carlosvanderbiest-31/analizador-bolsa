@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Software EDA (Electronic Design Automation, automatizacion de diseño de chips) mayormente por suscripcion, con 78% de ingresos recurrentes. Se suma el negocio de IP (propiedad intelectual de bloques de diseño, creciendo mas de 40% interanual) y servicios de diseño de sistemas. Ingresos TTM 5.84bn USD (+14.7%), 2T 2026 creciendo 24% interanual con backlog record de 8.1bn USD.",
+          "notas": "Software EDA (Electronic Design Automation, automatización de diseño de chips) mayormente por suscripción, con 78% de ingresos recurrentes. Se suma el negocio de IP (propiedad intelectual de bloques de diseño, creciendo mas de 40% interanual) y servicios de diseño de sistemas. Ingresos TTM 5.84bn USD (+14.7%), 2T 2026 creciendo 24% interanual con backlog récord de 8.1bn USD.",
           "calificacion": 5
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Duopolio de facto con Synopsys (ya analizada en este Dashboard) en el mercado de EDA - costos de cambio extremos (flujos de diseño de chips calificados en herramientas especificas durante años, migrar es costoso y riesgoso) mas efectos de red con el ecosistema de fabricantes de chips y foundries. Uno de los moats mas fuertes documentados en el Dashboard.",
+          "notas": "Duopolio de facto con Synopsys (ya analizada en este Dashboard) en el mercado de EDA - costos de cambio extremos (flujos de diseño de chips calificados en herramientas específicas durante años, migrar es costoso y riesgoso) mas efectos de red con el ecosistema de fabricantes de chips y foundries. Uno de los moats mas fuertes documentados en el Dashboard.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Co-lider indiscutido del mercado EDA junto a Synopsys, con Siemens EDA (ex-Mentor Graphics) como tercer jugador relevante pero de menor escala. Asociaciones estrategicas recientes con Intel, Samsung y Rapidus refuerzan la posicion en el diseño de chips de vanguardia impulsado por IA. Backlog record de 8.1bn USD.",
+          "notas": "Co-líder indiscutido del mercado EDA junto a Synopsys, con Siemens EDA (ex-Mentor Graphics) como tercer jugador relevante pero de menor escala. Asociaciones estratégicas recientes con Intel, Samsung y Rapidus refuerzan la posición en el diseño de chips de vanguardia impulsado por IA. Backlog récord de 8.1bn USD.",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Alto: el duopolio con Synopsys y los costos de cambio extremos dan poder de fijacion de precios genuino - margen operativo no-GAAP del 45.5% en el 2T 2026 lo confirma.",
+          "notas": "Alto: el duopolio con Synopsys y los costos de cambio extremos dan poder de fijación de precios genuino - margen operativo no-GAAP del 45.5% en el 2T 2026 lo confirma.",
           "calificacion": 4
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Recompras agresivas y consistentes (1.016bn USD TTM, superando holgadamente el capex de apenas 176M USD), sin dividendo - reinvierte en I+D-IP y devuelve el resto via recompras. Politica disciplinada tipica de un software de alta calidad.",
+          "notas": "Recompras agresivas y consistentes (1.016bn USD TTM, superando holgadamente el capex de apenas 176M USD), sin dividendo - reinvierte en I+D-IP y devuelve el resto via recompras. Política disciplinada típica de un software de alta calidad.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "El CEO Anirudh Devgan vendio aprox 128714 acciones por aprox 50M USD en los ultimos 6 meses (mayo-jun 2026), pero bajo un plan 10b5-1 programado desde sep-2024 (no discrecional) - señal neutral-moderada, no una venta oportunista fuera de plan.",
+          "notas": "El CEO Anirudh Devgan vendio aprox 128714 acciones por aprox 50M USD en los últimos 6 meses (mayo-jun 2026), pero bajo un plan 10b5-1 programado desde sep-2024 (no discrecional) - señal neutral-moderada, no una venta oportunista fuera de plan.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Clase unica de acciones, sin supervoto ni doble clase.",
+          "notas": "Clase única de acciones, sin supervoto ni doble clase.",
           "calificacion": 5
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion trimestral solida con guidance elevado consistentemente. PERO MANCHA DE GOBERNANZA GRAVE: Cadence se declaro CULPABLE (guilty plea, no solo un acuerdo civil) y pago mas de 140M USD por exportar ilegalmente herramientas de diseño de semiconductores a una universidad militar restringida de China - antecedente PENAL, mas severo que las multas civiles ya documentadas en AMAT (252.5M USD) y SNPS. Penaliza fuerte esta calificacion pese a la buena comunicacion financiera regular.",
+          "notas": "Comunicación trimestral sólida con guidance elevado consistentemente. PERO MANCHA DE GOBERNANZA GRAVE: Cadence se declaro CULPABLE (guilty plea, no solo un acuerdo civil) y pago mas de 140M USD por exportar ilegalmente herramientas de diseño de semiconductores a una universidad militar restringida de China - antecedente PENAL, mas severo que las multas civiles ya documentadas en AMAT (252.5M USD) y SNPS. Penaliza fuerte esta calificación pese a la buena comunicación financiera regular.",
           "calificacion": 2
         }
       ],
@@ -67,17 +67,17 @@
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Solida: razon corriente 1.74x, prueba acida 1.36x.",
+          "notas": "Sólida: razón corriente 1.74x, prueba acida 1.36x.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Calendario exacto de vencimientos no verificado con precision esta sesion, pero dado el bajo nivel de deuda total (2.482bn USD) el riesgo de refinanciamiento es limitado.",
+          "notas": "Calendario exacto de vencimientos no verificado con precisión esta sesión, pero dado el bajo nivel de deuda total (2.482bn USD) el riesgo de refinanciamiento es limitado.",
           "calificacion": 4
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Negocio de software de activos livianos; goodwill relevante de M&A pasado, tipico de una empresa de software con historial de adquisiciones tecnologicas complementarias.",
+          "notas": "Negocio de software de activos livianos; goodwill relevante de M&A pasado, típico de una empresa de software con historial de adquisiciones tecnologicas complementarias.",
           "calificacion": 4
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Excelentes y en expansion: margen neto TTM aprox 23.6%, margen operativo no-GAAP del 45.5% en el 2T 2026 - entre los mas altos del Dashboard.",
+          "notas": "Excelentes y en expansión: margen neto TTM aprox 23.6%, margen operativo no-GAAP del 45.5% en el 2T 2026 - entre los mas altos del Dashboard.",
           "calificacion": 5
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 22.35%, ROIC 16.76% - ambos por encima del WACC propio (aprox 9.6%), confirmando creacion de valor economico solida y no distorsionada por eventos puntuales.",
+          "notas": "ROE 22.35%, ROIC 16.76% - ambos por encima del WACC propio (aprox 9.6%), confirmando creación de valor económico sólida y no distorsionada por eventos puntuales.",
           "calificacion": 4
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos 0.53x, tipica de un negocio de software con activos livianos pero balance con goodwill relevante de M&A pasado.",
+          "notas": "Rotación de activos 0.53x, típica de un negocio de software con activos livianos pero balance con goodwill relevante de M&A pasado.",
           "calificacion": 3
         }
       ],
@@ -114,12 +114,12 @@
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Muy consistente: crecimiento de doble digito año tras año en el periodo 2021-2025 sin ninguna caida, y aceleracion reciente (2T 2026 +24% interanual) impulsada por la demanda de diseño de chips de IA.",
+          "notas": "Muy consistente: crecimiento de doble digito año tras año en el período 2021-2025 sin ninguna caida, y aceleración reciente (2T 2026 +24% interanual) impulsada por la demanda de diseño de chips de IA.",
           "calificacion": 5
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Fuertes y multiples: demanda de diseño de chips impulsada por IA (mas transistores, nodos mas avanzados, mas verificacion necesaria), asociaciones estrategicas con Intel-Samsung-Rapidus, negocio de IP creciendo mas de 40% interanual, backlog record de 8.1bn USD, guidance FY2026 elevado a ingresos de 6.26-6.34bn USD (+18-20%).",
+          "notas": "Fuertes y múltiples: demanda de diseño de chips impulsada por IA (mas transistores, nodos mas avanzados, mas verificación necesaria), asociaciones estratégicas con Intel-Samsung-Rapidus, negocio de IP creciendo mas de 40% interanual, backlog récord de 8.1bn USD, guidance FY2026 elevado a ingresos de 6.26-6.34bn USD (+18-20%).",
           "calificacion": 5
         }
       ],
@@ -130,12 +130,12 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 1.855bn USD vs utilidad neta TTM aprox 1.38bn USD (razon aprox 1.34x) - solida calidad de ganancias, sin brecha significativa no explicada.",
+          "notas": "OCF TTM 1.855bn USD vs utilidad neta TTM aprox 1.38bn USD (razón aprox 1.34x) - sólida calidad de ganancias, sin brecha significativa no explicada.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 1.679bn USD, conversion fuerte y estable (margen de FCF aprox 29%), SIN la volatilidad ciclica ya documentada en MPC-DINO en esta misma sesion - negocio de software con ingresos mayormente recurrentes genera flujo de caja mucho mas predecible.",
+          "notas": "FCF TTM 1.679bn USD, conversión fuerte y estable (margen de FCF aprox 29%), SIN la volatilidad ciclica ya documentada en MPC-DINO en esta misma sesión - negocio de software con ingresos mayormente recurrentes genera flujo de caja mucho mas predecible.",
           "calificacion": 5
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Politica disciplinada: recompras agresivas y consistentes (1.016bn USD TTM), sin dividendo - reinvierte en I+D-capacidad de IP y devuelve el resto a accionistas via recompras.",
+          "notas": "Política disciplinada: recompras agresivas y consistentes (1.016bn USD TTM), sin dividendo - reinvierte en I+D-capacidad de IP y devuelve el resto a accionistas via recompras.",
           "calificacion": 4
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM de 67.44x - EXTREMO, entre los multiplos mas altos de todo el Dashboard, refleja expectativas de mercado muy altas de continuidad del crecimiento impulsado por IA en el diseño de chips. EV/FCF implicito aprox 56x.",
+          "notas": "P/E TTM de 67.44x - EXTREMO, entre los múltiplos mas altos de todo el Dashboard, refleja expectativas de mercado muy altas de continuidad del crecimiento impulsado por IA en el diseño de chips. EV/FCF implícito aprox 56x.",
           "calificacion": 1
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio (Escenario A adoptado): FCF base = TTM 1.679bn USD (limpio, sin necesidad de ajuste por ciclicidad dado el perfil de ingresos mayormente recurrentes -78%- y el crecimiento consistente ya documentado en la fila 31). WACC 9.6% (CAPM: Beta 1.14 confiable, Rf 3.5%, ERP 5.5% = Ke 9.77%; costo de deuda post-impuestos aprox 4.5% sobre D/V minimo -aprox 2.6%-). Crecimiento fade 18%-16%-14%-11%-8% en 5 años (anclado al guidance propio FY2026 de 18-20%, moderando hacia el largo plazo); terminal 4% (estandar, sin reduccion dado que el EDA tiene vientos de cola estructurales genuinos, a diferencia de MPC-DINO). Deuda neta restada aprox 1.04bn USD. Resultado: Valor Intrinseco 165.35 USD por accion.",
+          "notas": "DCF propio (Escenario A adoptado): FCF base = TTM 1.679bn USD (limpio, sin necesidad de ajuste por ciclicidad dado el perfil de ingresos mayormente recurrentes -78%- y el crecimiento consistente ya documentado en la fila 31). WACC 9.6% (CAPM: Beta 1.14 confiable, Rf 3.5%, ERP 5.5% = Ke 9.77%; costo de deuda post-impuestos aprox 4.5% sobre D/V mínimo -aprox 2.6%-). Crecimiento fade 18%-16%-14%-11%-8% en 5 años (anclado al guidance propio FY2026 de 18-20%, moderando hacia el largo plazo); terminal 4% (estándar, sin reducción dado que el EDA tiene vientos de cola estructurales genuinos, a diferencia de MPC-DINO). Deuda neta restada aprox 1.04bn USD. Resultado: Valor Intrínseco 165.35 USD por acción.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad: -51.4% (precio actual 339.92 USD vs. valor intrinseco 165.35 USD). CONCLUSION ROBUSTA, a diferencia del caso de MPC en esta misma sesion: sensibilidad con crecimiento MUCHO mas generoso (fade 24%-11%, practicamente igualando el ritmo actual de +24% interanual de forma sostenida durante 5 años) da un Valor Intrinseco de solo 194.15 USD, MS -42.9% - sigue profundamente negativo. Mismo patron de \"limite estructural del DCF para historias de multiplo extremo\" ya documentado en MRVL-VRT-CRWD: ni siquiera el escenario de crecimiento mas optimista razonable justifica el precio actual. Consenso de analistas (Compra Fuerte, objetivo 403.67 USD, +18.75%) diverge notablemente del DCF propio - el mercado esta pagando una prima de duracion muy alta por la calidad del duopolio EDA y el tema de IA, similar en espiritu a la divergencia ya documentada en ASML pero de magnitud mayor.",
+          "notas": "Margen de Seguridad: -51.4% (precio actual 339.92 USD vs. valor intrínseco 165.35 USD). CONCLUSIÓN ROBUSTA, a diferencia del caso de MPC en esta misma sesión: sensibilidad con crecimiento MUCHO mas generoso (fade 24%-11%, prácticamente igualando el ritmo actual de +24% interanual de forma sostenida durante 5 años) da un Valor Intrínseco de solo 194.15 USD, MS -42.9% - sigue profundamente negativo. Mismo patrón de \"limite estructural del DCF para historias de múltiplo extremo\" ya documentado en MRVL-VRT-CRWD: ni siquiera el escenario de crecimiento mas optimista razonable justifica el precio actual. Consenso de analistas (Compra Fuerte, objetivo 403.67 USD, +18.75%) diverge notablemente del DCF propio - el mercado esta pagando una prima de duración muy alta por la calidad del duopolio EDA y el tema de IA, similar en espiritu a la divergencia ya documentada en ASML pero de magnitud mayor.",
           "calificacion": 1
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado EDA en expansion fuerte impulsado por la complejidad creciente del diseño de chips de IA (mas transistores, nodos mas avanzados, mas verificacion necesaria) - viento de cola estructural genuino y de largo plazo, a diferencia del TAM maduro-en-declive de MPC-DINO en esta misma sesion.",
+          "notas": "Mercado EDA en expansión fuerte impulsado por la complejidad creciente del diseño de chips de IA (mas transistores, nodos mas avanzados, mas verificación necesaria) - viento de cola estructural genuino y de largo plazo, a diferencia del TAM maduro-en-declive de MPC-DINO en esta misma sesión.",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Extremadamente altas: decadas de I+D acumulado, base instalada masiva, costos de cambio extremos (calificacion de flujos de diseño), efectos de red con el ecosistema completo de fabricantes de chips - de las barreras mas altas documentadas en el Dashboard, junto a ASML y SNPS.",
+          "notas": "Extremadamente altas: décadas de I+D acumulado, base instalada masiva, costos de cambio extremos (calificación de flujos de diseño), efectos de red con el ecosistema completo de fabricantes de chips - de las barreras mas altas documentadas en el Dashboard, junto a ASML y SNPS.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad moderada-baja (duopolio estable con Synopsys, Siemens EDA como tercer jugador de menor escala). Poder de negociacion de proveedores bajo (software propio, no depende de un proveedor critico). Poder de negociacion de clientes moderado (fabricantes de chips grandes pero dependientes de herramientas ya calificadas). Amenaza de sustitutos baja (sin alternativa viable para diseño de chips avanzados). Nuevos entrantes: barrera altisima (ver fila 45).",
+          "notas": "Rivalidad moderada-baja (duopolio estable con Synopsys, Siemens EDA como tercer jugador de menor escala). Poder de negociación de proveedores bajo (software propio, no depende de un proveedor critico). Poder de negociación de clientes moderado (fabricantes de chips grandes pero dependientes de herramientas ya calificadas). Amenaza de sustitutos baja (sin alternativa viable para diseño de chips avanzados). Nuevos entrantes: barrera altisima (ver fila 45).",
           "calificacion": 5
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Baja-moderada: ingresos mayormente recurrentes (78% por suscripcion), mucho menos ciclico que el hardware de semiconductores que fabrican sus clientes - contraste directo con la ciclicidad extrema de MPC-DINO en esta misma sesion.",
+          "notas": "Baja-moderada: ingresos mayormente recurrentes (78% por suscripción), mucho menos ciclico que el hardware de semiconductores que fabrican sus clientes - contraste directo con la ciclicidad extrema de MPC-DINO en esta misma sesión.",
           "calificacion": 4
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "ALTO y ya MATERIALIZADO de forma severa: Cadence se declaro CULPABLE (guilty plea) y pago mas de 140M USD por exportar ilegalmente herramientas de diseño a una universidad militar restringida de China - antecedente penal. Ademas hubo un episodio de requisitos de licencia para exportar EDA a China (mayo-jul 2025, luego revocado) que ya afecto ingresos en ese periodo. Exposicion actual de China aprox 12-13% de ingresos - \"riesgo de cola persistente\" segun analistas, con capacidad limitada de reemplazar rapido ese ingreso si se endurecen los controles.",
+          "notas": "ALTO y ya MATERIALIZADO de forma severa: Cadence se declaro CULPABLE (guilty plea) y pago mas de 140M USD por exportar ilegalmente herramientas de diseño a una universidad militar restringida de China - antecedente penal. Además hubo un episodio de requisitos de licencia para exportar EDA a China (mayo-jul 2025, luego revocado) que ya afecto ingresos en ese período. Exposición actual de China aprox 12-13% de ingresos - \"riesgo de cola persistente\" según analistas, con capacidad limitada de reemplazar rápido ese ingreso si se endurecen los controles.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Moderado: negocio global con ingresos en multiples monedas, aunque no es el riesgo dominante de la tesis frente al riesgo regulatorio-China ya documentado.",
+          "notas": "Moderado: negocio global con ingresos en múltiples monedas, aunque no es el riesgo dominante de la tesis frente al riesgo regulatorio-China ya documentado.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Moderada: clientes grandes y estrategicos (Intel, Samsung, Rapidus mencionados como socios) pero base de clientes diversificada entre fabricantes de chips globales - sin el nivel de concentracion extrema ya documentado en otras empresas (CRWV-Microsoft, ORCL-OpenAI).",
+          "notas": "Moderada: clientes grandes y estratégicos (Intel, Samsung, Rapidus mencionados como socios) pero base de clientes diversificada entre fabricantes de chips globales - sin el nivel de concentración extrema ya documentado en otras empresas (CRWV-Microsoft, ORCL-OpenAI).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Bajo-moderado: dominio establecido en un nicho tecnico altamente especializado, aunque la IA generativa aplicada al propio proceso de diseño de chips es un riesgo-oportunidad dual (un titular reciente destaco que la IA propia de Cadence \"hizo obsoletas 5 semanas de trabajo de diseño\" - mejora de productividad que la empresa esta capturando activamente, no sufriendo).",
+          "notas": "Bajo-moderado: dominio establecido en un nicho técnico altamente especializado, aunque la IA generativa aplicada al propio proceso de diseño de chips es un riesgo-oportunidad dual (un titular reciente destaco que la IA propia de Cadence \"hizo obsoletas 5 semanas de trabajo de diseño\" - mejora de productividad que la empresa esta capturando activamente, no sufriendo).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Bajo en terminos ambientales (negocio de software sin huella relevante); el principal riesgo ESG es de GOBERNANZA, ya documentado en la fila 20 (declaracion de culpabilidad por exportaciones ilegales a China).",
+          "notas": "Bajo en términos ambientales (negocio de software sin huella relevante); el principal riesgo ESG es de GOBERNANZA, ya documentado en la fila 20 (declaración de culpabilidad por exportaciones ilegales a China).",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Continuidad del guidance elevado FY2026 (ingresos 6.26-6.34bn USD, +18-20%); evolucion de la situacion regulatoria de exportaciones EDA a China (ya hubo un episodio de requisitos de licencia revocado en 2025, riesgo de que se repita).",
+          "notas": "Continuidad del guidance elevado FY2026 (ingresos 6.26-6.34bn USD, +18-20%); evolución de la situación regulatoria de exportaciones EDA a China (ya hubo un episodio de requisitos de licencia revocado en 2025, riesgo de que se repita).",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "CEO Anirudh Devgan vendio aprox 128714 acciones por aprox 50M USD en los ultimos 6 meses bajo un plan 10b5-1 programado (no discrecional) - señal neutral-moderada, mismo tipo de venta programada de otros CEOs de tecnologia del Dashboard.",
+          "notas": "CEO Anirudh Devgan vendio aprox 128714 acciones por aprox 50M USD en los últimos 6 meses bajo un plan 10b5-1 programado (no discrecional) - señal neutral-moderada, mismo tipo de venta programada de otros CEOs de tecnología del Dashboard.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Calificacion \"Compra Fuerte\", objetivo promedio 403.67 USD (+18.75% sobre el precio actual) - optimismo notable, en clara divergencia con el DCF propio (-51.4%), mismo patron ya documentado en MRVL-CRWD-VRT donde el mercado sigue validando un multiplo extremo pese a un DCF disciplinado negativo.",
+          "notas": "Calificación \"Compra Fuerte\", objetivo promedio 403.67 USD (+18.75% sobre el precio actual) - optimismo notable, en clara divergencia con el DCF propio (-51.4%), mismo patrón ya documentado en MRVL-CRWD-VRT donde el mercado sigue validando un múltiplo extremo pese a un DCF disciplinado negativo.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.7837837837837838,
-    "recomendacion": "NO COMPRAR - VALORACION EXTREMA (excelente negocio, de los de mayor calidad del Dashboard, pero el precio ya descuenta anios de crecimiento impulsado por IA sin margen de error; esperar una correccion de multiplo antes de iniciar posicion nueva)",
-    "tesis": "Co-lider del duopolio EDA (junto a Synopsys) con uno de los moats mas fuertes del Dashboard, crecimiento limpio y consistente (CAGR 15% sin distorsiones), margenes excelentes y balance solido - pero cotizando a 67x utilidades en un momento de euforia por IA, con un DCF disciplinado que da -51% de margen de seguridad incluso en escenarios generosos de crecimiento. Ademas carga con un antecedente de gobernanza grave: declaracion de culpabilidad penal por exportaciones ilegales a China. Excelente negocio, precio que no deja margen de error."
+    "recomendacion": "NO COMPRAR - VALORASIÓN EXTREMA (excelente negocio, de los de mayor calidad del Dashboard, pero el precio ya descuenta años de crecimiento impulsado por IA sin margen de error; esperar una corrección de múltiplo antes de iniciar posición nueva)",
+    "tesis": "Co-líder del duopolio EDA (junto a Synopsys) con uno de los moats mas fuertes del Dashboard, crecimiento limpio y consistente (CAGR 15% sin distorsiones), márgenes excelentes y balance sólido - pero cotizando a 67x utilidades en un momento de euforia por IA, con un DCF disciplinado que da -51% de margen de seguridad incluso en escenarios generosos de crecimiento. Además carga con un antecedente de gobernanza grave: declaración de culpabilidad penal por exportaciones ilegales a China. Excelente negocio, precio que no deja margen de error."
   }
 }

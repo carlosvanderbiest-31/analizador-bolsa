@@ -1,35 +1,35 @@
 {
   "nombre": "SPDR S&P Biotech ETF",
   "ticker": "XBI",
-  "categoria": "Equity Tematico/Factor (biotecnologia pura equal-weight, QUINTO ETF de salud del proyecto, competidor directo de IBB, SEXTO miembro de la familia S&P Select Industry equal-weight)",
+  "categoria": "Equity Temático/Factor (biotecnologia pura equal-weight, QUINTO ETF de salud del proyecto, competidor directo de IBB, SEXTO miembro de la familia S&P Select Industry equal-weight)",
   "emisor": "State Street/SPDR",
   "fecha_analisis": "2026-08-13",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA por MUESTREO -sampling strategy, confirmado por SSGA-, mismo tratamiento que el resto de la familia S&P Select Industry -XHB/XRT/KIE/KBE/KRE, ya en el workbook-.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA por MUESTREO -sampling strategy, confirmado por SSGA-, mismo tratamiento que el resto de la familia S&P Select Industry -XHB/XRT/KIE/KBE/KRE, ya en el workbook-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domiciliado en EEUU -SPDR/State Street, NYSE Arca-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "**AUM con rango MUY disperso segun fuente/fecha: $5.65bn -composer.trade- a $10.68bn -SSGA oficial- a $9.96bn -stockanalysis.com-**, discrepancia mayor que la habitual en el proyecto, aunque en cualquier escenario es un fondo grande sin riesgo de cierre.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "**AUM con rango MUY disperso según fuente/fecha: $5.65bn -composer.trade- a $10.68bn -SSGA oficial- a $9.96bn -stockanalysis.com-**, discrepancia mayor que la habitual en el proyecto, aunque en cualquier escenario es un fondo grande sin riesgo de cierre.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "20.54 anios desde inception -31-ene-2006-. **A DIFERENCIA de KIE/KBE/KRE -ya en el workbook, todos cambiaron de indice el 24-oct-2011-, NO se encontro evidencia de cambio de indice para XBI: ha seguido el S&P Biotechnology Select Industry Index desde su lanzamiento en 2006**, continuidad metodologica limpia.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "20.54 años desde inception -31-ene-2006-. **A DIFERENCIA de KIE/KBE/KRE -ya en el workbook, todos cambiaron de índice el 24-oct-2011-, NO se encontro evidencia de cambio de índice para XBI: ha seguido el S&P Biotechnology Select Industry Index desde su lanzamiento en 2006**, continuidad metodologica limpia.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor State Street/SPDR, **SEXTO miembro confirmado de la familia S&P Select Industry equal-weight** junto a XHB/XRT/KIE/KBE/KRE, todos ya en el workbook.",
           "calificacion": 5
         }
@@ -40,34 +40,34 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.35%, identico al resto de la familia S&P Select Industry -XHB/XRT/KIE/KBE/KRE-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference histórico NO ENCONTRADO con cifra numerica explicita.",
           "calificacion": 2
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending para XBI.",
+          "notas": "Sin dato específico de revenue por securities lending para XBI.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "**Turnover = 43-62% segun fuente/anio fiscal, EL MAS ALTO de toda la familia S&P Select Industry del proyecto** -vs 20-42% KRE, ~22% KBE-, consistente con la alta rotacion de constituyentes small/micro-cap biotech dentro del indice equal-weight.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "**Turnover = 43-62% según fuente/año fiscal, EL MAS ALTO de toda la familia S&P Select Industry del proyecto** -vs 20-42% KRE, ~22% KBE-, consistente con la alta rotación de constituyentes small/micro-cap biotech dentro del índice equal-weight.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen con rango disperso $237M -estimado por acciones x precio- a $517M/dia -composer.trade-, solido en cualquier escenario.",
+          "notas": "Volumen con rango disperso $237M -estimado por acciones x precio- a $517M/dia -composer.trade-, sólido en cualquier escenario.",
           "calificacion": 4
         },
         {
@@ -76,74 +76,74 @@
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
+          "aspecto": "Premium/Discount histórico vs. NAV",
           "notas": "Premium/Discount = 0.00% -SSGA oficial, snapshot ago-2026-, PERFECTO.",
           "calificacion": 5
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero infraestructura de creacion/redencion de State Street/SPDR es robusta a nivel de firma.",
+          "notas": "Sin cifra específica de profundidad de APs, pero infraestructura de creación/redención de State Street/SPDR es robusta a nivel de firma.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "155-156 holdings -fondo-, 147 -indice-, similar a KRE -159, ya en el workbook-.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "155-156 holdings -fondo-, 147 -índice-, similar a KRE -159, ya en el workbook-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top10 = 14.20% del fondo, EL MENOS CONCENTRADO DE TODO EL CLUSTER SALUD DEL PROYECTO** -vs 46.04% IBB, 52.1% VHT, 60.6% XLV, 74% IHI, todos ya en el workbook-. Top10, todos con pesos ~1.3-1.7%: Twist Bioscience 1.73%, Oruka Therapeutics 1.57%, Apogee Therapeutics 1.52%, Praxis Precision Medicines 1.50%, Dianthus Therapeutics 1.38%, Natera 1.37%, Kymera Therapeutics 1.37%, Halozyme Therapeutics 1.35%, Insmed 1.35%, Protagonist Therapeutics 1.35%. **Natera aparece en el Top10 de AMBOS IBB y XBI**, unico overlap relevante pese a la metodologia opuesta.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top10 = 14.20% del fondo, EL MENOS CONCENTRADO DE TODO EL CLUSTER SALUD DEL PROYECTO** -vs 46.04% IBB, 52.1% VHT, 60.6% XLV, 74% IHI, todos ya en el workbook-. Top10, todos con pesos ~1.3-1.7%: Twist Bioscience 1.73%, Oruka Therapeutics 1.57%, Apogee Therapeutics 1.52%, Praxis Precisión Medicines 1.50%, Dianthus Therapeutics 1.38%, Natera 1.37%, Kymera Therapeutics 1.37%, Halozyme Therapeutics 1.35%, Insmed 1.35%, Protagonist Therapeutics 1.35%. **Natera aparece en el Top10 de AMBOS IBB y XBI**, único overlap relevante pese a la metodología opuesta.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "99.89% biotecnologia pura -mismo riesgo binario de aprobacion FDA/ensayos clinicos que IBB, ya en el workbook-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "99.89% biotecnologia pura -mismo riesgo binario de aprobación FDA/ensayos clinicos que IBB, ya en el workbook-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% listado EEUU.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% listado EEUU.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "**Sesgo equal-weight EXTREMO hacia small/mid-cap biotech** -weighted average market cap de solo $19.3bn, MUCHO menor que el sesgo mega-cap de IBB, dominado por Amgen/Vertex/Gilead/Regeneron-, exposicion de riesgo mucho mas concentrada en empresas pre-revenue o de ingresos incipientes.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "**Sesgo equal-weight EXTREMO hacia small/mid-cap biotech** -weighted average market cap de solo $19.3bn, MUCHO menor que el sesgo mega-cap de IBB, dominado por Amgen/Vertex/Gilead/Regeneron-, exposición de riesgo mucho mas concentrada en empresas pre-revenue o de ingresos incipientes.",
           "calificacion": 1
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P Biotechnology Select Industry, modified equal-weight, aproximadamente 70-147 companias segun metodologia vs fondo real, MISMA familia metodologica que XHB/XRT/KIE/KBE/KRE -ya en el workbook-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P Biotechnology Select Industry, modified equal-weight, aproximadamente 70-147 compañías según metodología vs fondo real, MISMA familia metodologica que XHB/XRT/KIE/KBE/KRE -ya en el workbook-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral estandar de la familia, pero el turnover mas alto -43-62%- sugiere mayor actividad de entrada/salida de constituyentes pequenos frente al resto de la familia.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral estándar de la familia, pero el turnover mas alto -43-62%- sugiere mayor actividad de entrada/salida de constituyentes pequeños frente al resto de la familia.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.57
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retornos con discrepancia notable: 1Y = 72.46% -SSGA oficial- a 84.99% -stockanalysis.com-, AMBOS EXTRAORDINARIOS, rally muy fuerte del sector. 3Y anualizado 20.64%, **5Y anualizado 3.69-3.87%, eslabon debil -mismo patron que VHT/XLV-**, 10Y anualizado 9.16%, **desde inception = 11.55-12.02%, EL MEJOR CAGR desde-inception de todo el cluster salud del proyecto** -vs 7.45% IBB, 8.73-8.76% XLV, 10.09-10.14% VHT-.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retornos con discrepancia notable: 1Y = 72.46% -SSGA oficial- a 84.99% -stockanalysis.com-, AMBOS EXTRAORDINARIOS, rally muy fuerte del sector. 3Y anualizado 20.64%, **5Y anualizado 3.69-3.87%, eslabon débil -mismo patrón que VHT/XLV-**, 10Y anualizado 9.16%, **desde inception = 11.55-12.02%, EL MEJOR CAGR desde-inception de todo el cluster salud del proyecto** -vs 7.45% IBB, 8.73-8.76% XLV, 10.09-10.14% VHT-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad anualizada desde inception = **30.5% -composer.trade-, LA MAS ALTA de todo el cluster salud del proyecto** -incluso superior a IBB, 25.9%-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
           "notas": "Max Drawdown desde inception = **-63.9% -composer.trade-, EL PEOR de todo el cluster salud del proyecto** -ligeramente peor que IBB, -62.8%-.",
           "calificacion": 1
         },
@@ -153,40 +153,40 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta vs S&P 500 = 0.83 -stockanalysis.com-, mas alto que IBB -0.70-, consistente con la mayor volatilidad idiosincratica del sesgo small/micro-cap.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Sector historicamente muy volatil, con exposicion **AUN MAS EXTREMA que IBB** al riesgo binario de resultados de ensayos clinicos y aprobacion regulatoria, dado el sesgo equal-weight hacia biotechs pequenas/pre-revenue en vez de las mega-caps rentables de IBB.",
+          "notas": "Sector históricamente muy volatil, con exposición **AUN MAS EXTREMA que IBB** al riesgo binario de resultados de ensayos clinicos y aprobación regulatoria, dado el sesgo equal-weight hacia biotechs pequeñas/pre-revenue en vez de las mega-caps rentables de IBB.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "P/E con discrepancia -19.04x SSGA oficial vs 'N/A' stockanalysis.com, probablemente por ganancias agregadas negativas dado el peso hacia biotechs pre-revenue-. **P/B ponderado = 5.04x, ALTO**, incluso mayor que IBB.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 0.36% -fund distribution yield-, pero **30-Day SEC Yield = -0.07%, NEGATIVO -senal de baja calidad de ingreso/posible fee drag, cifra atipica-**.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 0.36% -fund distribution yield-, pero **30-Day SEC Yield = -0.07%, NEGATIVO -señal de baja calidad de ingreso/posible fee drag, cifra atipica-**.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 1.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**QUINTO ETF de salud del proyecto, comparacion directa con IBB -ambos biotech pura, ya en el workbook-**: mismo patron ya visto en KBE-vs-KBWB -mismo sector, metodologia de ponderacion opuesta-. XBI -equal-weight- tiene MEJOR Sharpe -0.52 vs 0.41- y MEJOR CAGR desde inception -11.55-12.02% vs 7.45%- pese a MAYOR volatilidad -30.5% vs 25.9%- y MAYOR Max Drawdown -63.9% vs 62.8%-, con Top10 MUCHISIMO menos concentrado -14.2% vs 46.04%-, pero exposicion a small/micro-cap MUCHO mas extrema que el sesgo mega-cap de IBB.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**QUINTO ETF de salud del proyecto, comparación directa con IBB -ambos biotech pura, ya en el workbook-**: mismo patrón ya visto en KBE-vs-KBWB -mismo sector, metodología de ponderación opuesta-. XBI -equal-weight- tiene MEJOR Sharpe -0.52 vs 0.41- y MEJOR CAGR desde inception -11.55-12.02% vs 7.45%- pese a MAYOR volatilidad -30.5% vs 25.9%- y MAYOR Max Drawdown -63.9% vs 62.8%-, con Top10 MUCHISIMO menos concentrado -14.2% vs 46.04%-, pero exposición a small/micro-cap MUCHO mas extrema que el sesgo mega-cap de IBB.",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol Tactico/Especulativo, **incluso mas marcado que IBB** dado el sesgo hacia small/micro-cap biotech y la volatilidad/drawdown mas severos del cluster salud.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol Táctico/Especulativo, **incluso mas marcado que IBB** dado el sesgo hacia small/micro-cap biotech y la volatilidad/drawdown mas severos del cluster salud.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion pura y muy diversificada -por numero, 155-156 holdings, Top10 solo 14.2%- a innovacion biotecnologica de alto crecimiento, con el MEJOR CAGR desde-inception del cluster salud del proyecto, pero el peor perfil de riesgo de cola de todo el cluster.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición pura y muy diversificada -por número, 155-156 holdings, Top10 solo 14.2%- a innovación biotecnológica de alto crecimiento, con el MEJOR CAGR desde-inception del cluster salud del proyecto, pero el peor perfil de riesgo de cola de todo el cluster.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: **riesgo binario de aprobacion FDA/resultados de ensayos clinicos AUN MAS EXTREMO que IBB**, dado el sesgo hacia small/micro-cap biotechs pre-revenue via metodologia equal-weight, volatilidad la mas alta del cluster salud -30.5%-, turnover el mas alto de la familia S&P Select Industry -43-62%-, P/E no significativo por ganancias agregadas probablemente negativas.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **riesgo binario de aprobación FDA/resultados de ensayos clinicos AUN MAS EXTREMO que IBB**, dado el sesgo hacia small/micro-cap biotechs pre-revenue via metodología equal-weight, volatilidad la mas alta del cluster salud -30.5%-, turnover el mas alto de la familia S&P Select Industry -43-62%-, P/E no significativo por ganancias agregadas probablemente negativas.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "IBB -ya en el workbook- ofrece exposicion biotech mas concentrada en mega-caps rentables con menor volatilidad relativa dentro del mismo sub-sector; VHT/XLV -ya en el workbook- mucho mas diversificados y defensivos. XBI es la apuesta de MAYOR beta/riesgo/potencial de todo el cluster salud del proyecto.",
+          "notas": "IBB -ya en el workbook- ofrece exposición biotech mas concentrada en mega-caps rentables con menor volatilidad relativa dentro del mismo sub-sector; VHT/XLV -ya en el workbook- mucho mas diversificados y defensivos. XBI es la apuesta de MAYOR beta/riesgo/potencial de todo el cluster salud del proyecto.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). XBI es el QUINTO ETF de salud del proyecto y el SEXTO miembro confirmado de la familia S&P Select Industry equal-weight de State Street -junto a XHB, XRT, KIE, KBE y KRE, ya en el workbook-, TER 0.35% identico a esa familia. **A DIFERENCIA de KIE/KBE/KRE, NO se encontro evidencia de cambio de indice: XBI ha seguido el S&P Biotechnology Select Industry Index desde su inception en 31-ene-2006 sin interrupcion metodologica**. Es el competidor directo de IBB -ya en el workbook, ambos biotech pura-, mismo patron ya visto en KBE-vs-KBWB: **XBI equal-weight logra Top10 = 14.2%, EL MENOS CONCENTRADO DE TODO EL CLUSTER SALUD DEL PROYECTO** -vs 46.04% IBB, 52.1% VHT, 60.6% XLV, 74% IHI-, y el **MEJOR CAGR desde-inception del cluster -11.55-12.02%-**, con Sharpe superior a IBB -0.52 vs 0.41-, gracias al retorno absoluto extraordinario -1Y entre 72.46% y 84.99% segun fuente-. Sin embargo, presenta el **PEOR perfil de riesgo de cola de todo el cluster salud**: volatilidad 30.5% -la mas alta-, Max Drawdown -63.9% -el peor, incluso peor que IBB-, y turnover 43-62% -el mas alto de toda la familia S&P Select Industry del proyecto-, reflejo del sesgo equal-weight hacia biotechs small/micro-cap pre-revenue -weighted average market cap de solo $19.3bn- en vez de las mega-caps rentables de IBB -Amgen/Vertex/Gilead/Regeneron-. P/B alto -5.04x-, P/E no significativo por ganancias agregadas probablemente negativas, y SEC Yield NEGATIVO -0.07%-, senal de baja calidad de ingreso. AUM con rango disperso notable entre fuentes -$5.65bn a $10.68bn-. Score 2.76/5, ligeramente por encima de IBB -2.61-, gracias al mejor Sharpe/CAGR y menor concentracion, pese al peor drawdown/volatilidad absolutos. Rol Tactico/Especulativo, incluso mas marcado que IBB. Con XBI, el cluster salud del proyecto queda con 5 miembros: VHT/XLV defensivos y centrales, IHI/IBB/XBI como apuestas tacticas de riesgo creciente -dispositivos con shock GLP-1, biotech mega-cap, y biotech small-cap equal-weight, respectivamente, esta ultima la de mayor beta/potencial/riesgo de todas-."
+    "tesis": "REDUCIR/VENDER (evitar). XBI es el QUINTO ETF de salud del proyecto y el SEXTO miembro confirmado de la familia S&P Select Industry equal-weight de State Street -junto a XHB, XRT, KIE, KBE y KRE, ya en el workbook-, TER 0.35% identico a esa familia. **A DIFERENCIA de KIE/KBE/KRE, NO se encontro evidencia de cambio de índice: XBI ha seguido el S&P Biotechnology Select Industry Index desde su inception en 31-ene-2006 sin interrupción metodologica**. Es el competidor directo de IBB -ya en el workbook, ambos biotech pura-, mismo patrón ya visto en KBE-vs-KBWB: **XBI equal-weight logra Top10 = 14.2%, EL MENOS CONCENTRADO DE TODO EL CLUSTER SALUD DEL PROYECTO** -vs 46.04% IBB, 52.1% VHT, 60.6% XLV, 74% IHI-, y el **MEJOR CAGR desde-inception del cluster -11.55-12.02%-**, con Sharpe superior a IBB -0.52 vs 0.41-, gracias al retorno absoluto extraordinario -1Y entre 72.46% y 84.99% según fuente-. Sin embargo, presenta el **PEOR perfil de riesgo de cola de todo el cluster salud**: volatilidad 30.5% -la mas alta-, Max Drawdown -63.9% -el peor, incluso peor que IBB-, y turnover 43-62% -el mas alto de toda la familia S&P Select Industry del proyecto-, reflejo del sesgo equal-weight hacia biotechs small/micro-cap pre-revenue -weighted average market cap de solo $19.3bn- en vez de las mega-caps rentables de IBB -Amgen/Vertex/Gilead/Regeneron-. P/B alto -5.04x-, P/E no significativo por ganancias agregadas probablemente negativas, y SEC Yield NEGATIVO -0.07%-, señal de baja calidad de ingreso. AUM con rango disperso notable entre fuentes -$5.65bn a $10.68bn-. Score 2.76/5, ligeramente por encima de IBB -2.61-, gracias al mejor Sharpe/CAGR y menor concentración, pese al peor drawdown/volatilidad absolutos. Rol Táctico/Especulativo, incluso mas marcado que IBB. Con XBI, el cluster salud del proyecto queda con 5 miembros: VHT/XLV defensivos y centrales, IHI/IBB/XBI como apuestas tácticas de riesgo creciente -dispositivos con shock GLP-1, biotech mega-cap, y biotech small-cap equal-weight, respectivamente, esta última la de mayor beta/potencial/riesgo de todas-."
   }
 }

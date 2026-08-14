@@ -1,7 +1,7 @@
 {
   "empresa": "Exxon Mobil Corporation",
   "ticker": "XOM",
-  "sector": "Energia - Petrolera integrada (exploracion-produccion, refinacion-marketing, quimicos y captura de carbono)",
+  "sector": "Energía - Petrolera integrada (exploración-producción, refinación-marketing, quimicos y captura de carbono)",
   "fecha_analisis": "2026-08-10",
   "analista": null,
   "secciones": [
@@ -10,17 +10,17 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Petrolera integrada global, la mas grande del Dashboard por capitalizacion de mercado (aprox USD 656bn): Upstream (Permian -lider tras la adquisicion de Pioneer Natural Resources por USD 64bn, cerrada may-2024, mas de 1.4 millones de acres netos-, Guyana-Stabroek, y otras cuencas globales), Downstream y Quimicos, mas un segmento de Low Carbon Solutions (captura y almacenamiento de carbono, hidrogeno) MAS DESARROLLADO comercialmente que el de cualquier otra petrolera del Dashboard.",
+          "notas": "Petrolera integrada global, la mas grande del Dashboard por capitalización de mercado (aprox USD 656bn): Upstream (Permian -líder tras la adquisición de Pioneer Natural Resources por USD 64bn, cerrada may-2024, mas de 1.4 millones de acres netos-, Guyana-Stabroek, y otras cuencas globales), Downstream y Quimicos, mas un segmento de Low Carbon Solutions (captura y almacenamiento de carbono, hidrogeno) MAS DESARROLLADO comercialmente que el de cualquier otra petrolera del Dashboard.",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Escala sin igual en el sector (la mayor petrolera cotizada del mundo), liderazgo indiscutido en Permian tras Pioneer, posicion de clase mundial en Guyana, e infraestructura de captura de carbono ya en operacion comercial con clientes reales (Nucor, Linde) en la costa de Louisiana - un diferenciador genuino frente a CVX-OXY-COP en el area de descarbonizacion.",
+          "notas": "Escala sin igual en el sector (la mayor petrolera cotizada del mundo), liderazgo indiscutido en Permian tras Pioneer, posición de clase mundial en Guyana, e infraestructura de captura de carbono ya en operación comercial con clientes reales (Nucor, Linde) en la costa de Louisiana - un diferenciador genuino frente a CVX-OXY-COP en el area de descarbonización.",
           "calificacion": 4
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Numero uno indiscutido del sector: mayor productor del Permian tras Pioneer (produccion combinada mas que duplicada, con meta de aprox 2 millones boed para 2027), posicion de liderazgo en Guyana (aprox 1.3 millones de barriles por dia para 2027), produccion total de la empresa aprox 4.3 millones boed.",
+          "notas": "Número uno indiscutido del sector: mayor productor del Permian tras Pioneer (producción combinada mas que duplicada, con meta de aprox 2 millones boed para 2027), posición de liderazgo en Guyana (aprox 1.3 millones de barriles por dia para 2027), producción total de la empresa aprox 4.3 millones boed.",
           "calificacion": 5
         },
         {
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "El historial de dividendo MAS LARGO de las cinco petroleras del Dashboard: 44 anios consecutivos de aumento (Dividend Aristocrat, incluso mas largo que los 39 anios de CVX). Integracion exitosa y mas rapida de lo esperado de Pioneer Natural Resources. Nota relevante: Exxon intento sin exito bloquear la adquisicion de Hess Corporation por parte de Chevron alegando un derecho de tanteo sobre la participacion de Hess en el bloque Stabroek de Guyana - perdio el arbitraje ante la Camara de Comercio Internacional (2025), un movimiento estrategico costoso y no exitoso, aunque respeto el resultado del proceso.",
+          "notas": "El historial de dividendo MAS LARGO de las cinco petroleras del Dashboard: 44 años consecutivos de aumento (Dividend Aristocrat, incluso mas largo que los 39 años de CVX). Integración exitosa y mas rápida de lo esperado de Pioneer Natural Resources. Nota relevante: Exxon intento sin exito bloquear la adquisición de Hess Corporation por parte de Chevron alegando un derecho de tanteo sobre la participación de Hess en el bloque Stabroek de Guyana - perdio el arbitraje ante la Camara de Comercio Internacional (2025), un movimiento estratégico costoso y no exitoso, aunque respeto el resultado del proceso.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Tenencia interna muy baja (0.23%) y transacciones de insiders netas MUY negativas (-63.71% segun Finviz, la mas negativa de las cinco petroleras del Dashboard) - una senal amarilla a monitorear, aunque lo mas probable es que refleje vesting de compensacion en acciones tipico de una mega-cap, sin evidencia de venta oportunista encontrada en esta sesion.",
+          "notas": "Tenencia interna muy baja (0.23%) y transacciones de insiders netas MUY negativas (-63.71% según Finviz, la mas negativa de las cinco petroleras del Dashboard) - una señal amarilla a monitorear, aunque lo mas probable es que refleje vesting de compensación en acciones típico de una mega-cap, sin evidencia de venta oportunista encontrada en esta sesión.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Sin cargos de fraude probados encontrados en esta sesion, aunque XOM tiene el historial de litigio climatico mas prominente del sector (incl. el caso \"Exxon Knew\" y demandas municipales por desinformacion climatica historica) - un trasfondo legal-reputacional mas activo que el de CVX.",
+          "notas": "Sin cargos de fraude probados encontrados en esta sesión, aunque XOM tiene el historial de litigio climatico mas prominente del sector (incl. el caso \"Exxon Knew\" y demandas municipales por desinformación climatica histórica) - un trasfondo legal-reputacional mas activo que el de CVX.",
           "calificacion": 3
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda Neta a EBITDA aprox 0.49x (deuda neta USD 31.78bn, EBITDA TTM aprox USD 64.39bn) - el apalancamiento MAS BAJO de las cinco petroleras del Dashboard. Calificacion crediticia AA- (S&P) y Aa2 (Moodys) - Exxon perdio su calificacion AAA en 2016 por precios bajos de petroleo, pero mantiene una de las calificaciones mas solidas del sector, similar a CVX.",
+          "notas": "Deuda Neta a EBITDA aprox 0.49x (deuda neta USD 31.78bn, EBITDA TTM aprox USD 64.39bn) - el apalancamiento MAS BAJO de las cinco petroleras del Dashboard. Calificación crediticia AA- (S&P) y Aa2 (Moodys) - Exxon perdio su calificación AAA en 2016 por precios bajos de petróleo, pero mantiene una de las calificaciones mas sólidas del sector, similar a CVX.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.13, prueba acida (quick ratio) 0.85 - la liquidez de corto plazo mas ajustada de las cinco petroleras del Dashboard, aunque no alarmante para una mega-cap con acceso irrestricto a mercados de capital.",
+          "notas": "Razón corriente 1.13, prueba acida (quick ratio) 0.85 - la liquidez de corto plazo mas ajustada de las cinco petroleras del Dashboard, aunque no alarmante para una mega-cap con acceso irrestricto a mercados de capital.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Calificacion crediticia AA- (S&P, afirmada sep-2024) y Aa2 (Moodys, afirmada may-2024), ambas con perspectiva estable - grado de inversion muy solido. Sin senales de concentracion de vencimientos problematica encontradas en esta sesion.",
+          "notas": "Calificación crediticia AA- (S&P, afirmada sep-2024) y Aa2 (Moodys, afirmada may-2024), ambas con perspectiva estable - grado de inversión muy sólido. Sin señales de concentración de vencimientos problematica encontradas en esta sesión.",
           "calificacion": 4
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos dominados por reservas de petroleo-gas, refinerias y plantas quimicas (tangibles); goodwill incremental de la adquisicion de Pioneer, sin seÃ±ales de deterioro relevante encontradas en esta sesion.",
+          "notas": "Activos dominados por reservas de petróleo-gas, refinerias y plantas quimicas (tangibles); goodwill incremental de la adquisición de Pioneer, sin seÃ±ales de deterioro relevante encontradas en esta sesión.",
           "calificacion": 3
         }
       ],
@@ -93,12 +93,12 @@
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 12.55%, ROIC 11.23%, ROA 7.18% (Finviz, TTM). El ROIC de 11.23% queda claramente POR ENCIMA del WACC propio adoptado (aprox 8.67%) - el spread mas saludable de las cuatro petroleras integradas-E&P analizadas hasta ahora en esta sesion (COP +0.75pp, CVX +0.57pp, XOM +2.56pp).",
+          "notas": "ROE 12.55%, ROIC 11.23%, ROA 7.18% (Finviz, TTM). El ROIC de 11.23% queda claramente POR ENCIMA del WACC propio adoptado (aprox 8.67%) - el spread mas saludable de las cuatro petroleras integradas-E&P analizadas hasta ahora en esta sesión (COP +0.75pp, CVX +0.57pp, XOM +2.56pp).",
           "calificacion": 4
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos aprox 0.78x (ingresos TTM USD 361.06bn sobre activos totales USD 464.48bn) - la MAS ALTA de las cinco petroleras del Dashboard, reflejo de una base de activos eficiente en relacion a los ingresos que genera pese a su tamano.",
+          "notas": "Rotación de activos aprox 0.78x (ingresos TTM USD 361.06bn sobre activos totales USD 464.48bn) - la MAS ALTA de las cinco petroleras del Dashboard, reflejo de una base de activos eficiente en relación a los ingresos que genera pese a su tamaño.",
           "calificacion": 4
         }
       ],
@@ -109,7 +109,7 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR de ingresos a 5 anios de 12.70% (Finviz) esta inflado por la adquisicion de Pioneer (cerrada may-2024) y el ciclo de precios de commodities - mismo tratamiento de cautela ya aplicado al resto de las petroleras del Dashboard.",
+          "notas": "CAGR de ingresos a 5 años de 12.70% (Finviz) esta inflado por la adquisición de Pioneer (cerrada may-2024) y el ciclo de precios de commodities - mismo tratamiento de cautela ya aplicado al resto de las petroleras del Dashboard.",
           "calificacion": 2
         },
         {
@@ -119,7 +119,7 @@
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Fuentes de crecimiento concretas y ya en ejecucion: rampa del Permian post-Pioneer hacia aprox 2 millones boed para 2027, Guyana hacia aprox 1.3 millones de barriles por dia para 2027, y el segmento de Low Carbon Solutions ya firmando clientes reales de captura de carbono (Nucor, Linde) con una decision de inversion final para un proyecto de centro de datos habilitado con CCS esperada para fines de 2026 - el pipeline de crecimiento mas diversificado y de ejecucion mas avanzada de las cinco petroleras del Dashboard.",
+          "notas": "Fuentes de crecimiento concretas y ya en ejecución: rampa del Permian post-Pioneer hacia aprox 2 millones boed para 2027, Guyana hacia aprox 1.3 millones de barriles por dia para 2027, y el segmento de Low Carbon Solutions ya firmando clientes reales de captura de carbono (Nucor, Linde) con una decisión de inversión final para un proyecto de centro de datos habilitado con CCS esperada para fines de 2026 - el pipeline de crecimiento mas diversificado y de ejecución mas avanzada de las cinco petroleras del Dashboard.",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Sin distorsion relevante identificada en esta sesion entre utilidad neta y FCF.",
+          "notas": "Sin distorsión relevante identificada en esta sesión entre utilidad neta y FCF.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM de USD 30.55bn sobre EBITDA TTM de USD 64.39bn, conversion de aprox 47.4% - mas moderada que la de CVX (aprox 66%), reflejo de un capex mas intensivo (ver fila 37) financiando la integracion de Pioneer, Guyana y Low Carbon Solutions simultaneamente.",
+          "notas": "FCF TTM de USD 30.55bn sobre EBITDA TTM de USD 64.39bn, conversión de aprox 47.4% - mas moderada que la de CVX (aprox 66%), reflejo de un capex mas intensivo (ver fila 37) financiando la integración de Pioneer, Guyana y Low Carbon Solutions simultaneamente.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex en tendencia CRECIENTE y sostenida: de USD 21.92bn (FY2023) a USD 24.31bn (FY2024) a USD 28.36bn (FY2025) a USD 29.17bn (TTM) - financiando la integracion de Pioneer en el Permian, el desarrollo de Guyana y la expansion de Low Carbon Solutions simultaneamente. A diferencia de LIN-APD-ECL (backlog de un solo tipo de proyecto), aqui el crecimiento de capex esta diversificado entre tres iniciativas distintas.",
+          "notas": "Capex en tendencia CRECIENTE y sostenida: de USD 21.92bn (FY2023) a USD 24.31bn (FY2024) a USD 28.36bn (FY2025) a USD 29.17bn (TTM) - financiando la integración de Pioneer en el Permian, el desarrollo de Guyana y la expansión de Low Carbon Solutions simultaneamente. A diferencia de LIN-APD-ECL (backlog de un solo tipo de proyecto), aquí el crecimiento de capex esta diversificado entre tres iniciativas distintas.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "El marco de retorno de capital mas largo y consistente del sector: 44 anios de aumento de dividendo (record del grupo), mas recompras de acciones sustanciales (se menciono el pago de USD 17bn en dividendos en un solo ano con precios de petroleo elevados) - disciplina de capital de primer nivel.",
+          "notas": "El marco de retorno de capital mas largo y consistente del sector: 44 años de aumento de dividendo (récord del grupo), mas recompras de acciones sustanciales (se menciono el pago de USD 17bn en dividendos en un solo ano con precios de petróleo elevados) - disciplina de capital de primer nivel.",
           "calificacion": 5
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "EV-EBITDA de 10.67x, un 36% por ENCIMA de su propia mediana historica de 10 anios (Gurufocus) - el multiplo relativo a su propio historico MAS EXIGENTE de las cinco petroleras del Dashboard (CVX 31% por encima). P-E TTM aprox 19.7 a 20.5x, tambien el mas alto del grupo (CVX aprox 17.9 a 18.7x, COP 15.6x, OXY 16.5x). P-FCF (TTM) aprox 21.5x.",
+          "notas": "EV-EBITDA de 10.67x, un 36% por ENCIMA de su propia mediana histórica de 10 años (Gurufocus) - el múltiplo relativo a su propio histórico MAS EXIGENTE de las cinco petroleras del Dashboard (CVX 31% por encima). P-E TTM aprox 19.7 a 20.5x, también el mas alto del grupo (CVX aprox 17.9 a 18.7x, COP 15.6x, OXY 16.5x). P-FCF (TTM) aprox 21.5x.",
           "calificacion": 1
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "USD 124.08 por accion (Escenario A adoptado). WACC 8.67% (Costo de patrimonio via CAPM: beta sustituto 1.0, reutilizado directamente del ya calibrado con CVX -comparable directo de la misma sub-industria integrada-; el beta reportado de XOM, 0.17, es AUN MAS degenerado que el de CVX -0.47- pese a un perfil de negocio muy similar, evidencia adicional de que la medicion de beta en integradas grandes puede subestimar el riesgo real sin relacion clara con el tamano o la diversificacion; Rf 3.5%, ERP 5.5%, dando Ke 9.0%; costo de deuda post-impuestos aprox 3.5% acorde a la calificacion AA-Aa2). Base de FCF = TTM USD 30.55bn (adoptado DIRECTAMENTE sin promediar con FY2025, a diferencia de CVX: aqui el TTM no es un pico aislado sino un retorno a niveles similares a FY2023-FY2024 -33.45bn y 30.72bn respectivamente-, siendo FY2025 -23.61bn- el ano atipicamente bajo, no el TTM). Crecimiento a 5 anios = 4% (conservador, por debajo del 12.70% de CAGR historico y del 14.43% de EPS Next 5Y de Finviz, ambos inflados por Pioneer y el ciclo de precios). Crecimiento terminal = 2.5% (consistente con el resto de las petroleras del Dashboard).",
+          "notas": "USD 124.08 por acción (Escenario A adoptado). WACC 8.67% (Costo de patrimonio via CAPM: beta sustituto 1.0, reutilizado directamente del ya calibrado con CVX -comparable directo de la misma sub-industria integrada-; el beta reportado de XOM, 0.17, es AUN MAS degenerado que el de CVX -0.47- pese a un perfil de negocio muy similar, evidencia adicional de que la medición de beta en integradas grandes puede subestimar el riesgo real sin relación clara con el tamaño o la diversificación; Rf 3.5%, ERP 5.5%, dando Ke 9.0%; costo de deuda post-impuestos aprox 3.5% acorde a la calificación AA-Aa2). Base de FCF = TTM USD 30.55bn (adoptado DIRECTAMENTE sin promediar con FY2025, a diferencia de CVX: aquí el TTM no es un pico aislado sino un retorno a niveles similares a FY2023-FY2024 -33.45bn y 30.72bn respectivamente-, siendo FY2025 -23.61bn- el ano atipicamente bajo, no el TTM). Crecimiento a 5 años = 4% (conservador, por debajo del 12.70% de CAGR histórico y del 14.43% de EPS Next 5Y de Finviz, ambos inflados por Pioneer y el ciclo de precios). Crecimiento terminal = 2.5% (consistente con el resto de las petroleras del Dashboard).",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "-22.2% (precio actual USD 159.55 vs valor intrinseco USD 124.08) - el margen de seguridad MAS NEGATIVO de las cinco petroleras del Dashboard (COP -3.1%, CVX -3.6%, OXY -8.2%), cruzando el piso de -20% de la banda de \"vender\" del framework, aunque de forma moderada, no extrema. Escenario B de sensibilidad (creciemiento agresivo de 8% a 5 anios, no adoptado): el valor solo sube a USD 148.53 (-6.9%) - SIGUE siendo negativo incluso con un supuesto de crecimiento generoso, a diferencia de CVX donde el escenario alcista si revertia el signo. Corroboracion independiente: el GF Value de Gurufocus (metodologia propia, no relacionada a este DCF) marca XOM como \"significativamente sobrevalorada\" con un valor de USD 111.24, incluso mas bajo que el Escenario A de este DCF. El consenso de analistas (Buy, objetivo promedio USD 168.32 a 168.36, apenas +5.5% de alza) es notablemente MAS MODESTO que el de las otras petroleras del Dashboard (CVX +11.5%, COP +16.7%, OXY +11 a 14%) - una senal adicional, independiente de este DCF, de que el mercado de analistas tambien ve menos margen de alza en XOM que en sus pares.",
+          "notas": "-22.2% (precio actual USD 159.55 vs valor intrínseco USD 124.08) - el margen de seguridad MAS NEGATIVO de las cinco petroleras del Dashboard (COP -3.1%, CVX -3.6%, OXY -8.2%), cruzando el piso de -20% de la banda de \"vender\" del framework, aunque de forma moderada, no extrema. Escenario B de sensibilidad (creciemiento agresivo de 8% a 5 años, no adoptado): el valor solo sube a USD 148.53 (-6.9%) - SIGUE siendo negativo incluso con un supuesto de crecimiento generoso, a diferencia de CVX donde el escenario alcista si revertia el signo. Corroboración independiente: el GF Value de Gurufocus (metodología propia, no relacionada a este DCF) marca XOM como \"significativamente sobrevalorada\" con un valor de USD 111.24, incluso mas bajo que el Escenario A de este DCF. El consenso de analistas (Buy, objetivo promedio USD 168.32 a 168.36, apenas +5.5% de alza) es notablemente MAS MODESTO que el de las otras petroleras del Dashboard (CVX +11.5%, COP +16.7%, OXY +11 a 14%) - una señal adicional, independiente de este DCF, de que el mercado de analistas también ve menos margen de alza en XOM que en sus pares.",
           "calificacion": 1
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mismo TAM global de petroleo-gas-quimicos maduro que CVX, mas una exposicion temprana y genuina al TAM emergente de captura-almacenamiento de carbono, donde XOM esta mas avanzada comercialmente que cualquier otra petrolera del Dashboard.",
+          "notas": "Mismo TAM global de petróleo-gas-quimicos maduro que CVX, mas una exposición temprana y genuina al TAM emergente de captura-almacenamiento de carbono, donde XOM esta mas avanzada comercialmente que cualquier otra petrolera del Dashboard.",
           "calificacion": 3
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Barreras similares a CVX (capital intensivo, activos de concesion dificiles de replicar en Guyana), mas una barrera adicional en construccion: la infraestructura de captura-transporte-almacenamiento de carbono en Louisiana, con clientes ya contratados.",
+          "notas": "Barreras similares a CVX (capital intensivo, activos de concesión difíciles de replicar en Guyana), mas una barrera adicional en construcción: la infraestructura de captura-transporte-almacenamiento de carbono en Louisiana, con clientes ya contratados.",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Perfil generico similar a CVX, con escala aun mayor que le da algo mas de poder de negociacion en la cadena de valor.",
+          "notas": "Perfil generico similar a CVX, con escala aun mayor que le da algo mas de poder de negociación en la cadena de valor.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Alta por naturaleza de negocio de upstream, atenuada por el Downstream-Quimicos igual que CVX - mismo tratamiento (2 en vez del 1 estandar de las pure-play E&P).",
+          "notas": "Alta por naturaleza de negocio de upstream, atenuada por el Downstream-Quimicos igual que CVX - mismo tratamiento (2 en vez del 1 estándar de las pure-play E&P).",
           "calificacion": 2
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo geopolitico en Guyana (misma disputa territorial Venezuela-Esequibo que afecta a CVX, dado que XOM y CVX ahora son socios en el mismo bloque Stabroek tras la compra de Hess por Chevron), mas el trasfondo de litigio climatico mas prominente y de mayor perfil publico del sector (historial de demandas relacionadas a desinformacion climatica).",
+          "notas": "Riesgo geopolítico en Guyana (misma disputa territorial Venezuela-Esequibo que afecta a CVX, dado que XOM y CVX ahora son socios en el mismo bloque Stabroek tras la compra de Hess por Chevron), mas el trasfondo de litigio climatico mas prominente y de mayor perfil público del sector (historial de demandas relacionadas a desinformación climatica).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Riesgo cambiario bajo - operaciones globales de petroleo-gas-quimicos mayormente facturadas en USD.",
+          "notas": "Riesgo cambiario bajo - operaciones globales de petróleo-gas-quimicos mayormente facturadas en USD.",
           "calificacion": 4
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Sin concentracion de cliente individual relevante en la venta de commodities; el segmento de Low Carbon Solutions si tiene cierta concentracion temprana de clientes (Nucor, Linde) pero aun pequena en relacion a los ingresos totales.",
+          "notas": "Sin concentración de cliente individual relevante en la venta de commodities; el segmento de Low Carbon Solutions si tiene cierta concentración temprana de clientes (Nucor, Linde) pero aun pequeña en relación a los ingresos totales.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Mismo riesgo generico de disrupcion de largo plazo por la transicion energetica que CVX-OXY-COP, parcialmente mitigado por ser la petrolera con la posicion mas avanzada y comercialmente viable en captura de carbono del grupo.",
+          "notas": "Mismo riesgo generico de disrupción de largo plazo por la transición energetica que CVX-OXY-COP, parcialmente mitigado por ser la petrolera con la posición mas avanzada y comercialmente viable en captura de carbono del grupo.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Riesgo ESG relevante por ser el mayor productor de combustibles fosiles cotizado del mundo, con el historial de escrutinio publico-legal climatico mas prominente del sector (mayor blanco historico de campanas y litigios relacionados a desinformacion climatica que CVX-OXY-COP), parcialmente compensado por la inversion mas creible y avanzada en captura de carbono del grupo.",
+          "notas": "Riesgo ESG relevante por ser el mayor productor de combustibles fosiles cotizado del mundo, con el historial de escrutinio público-legal climatico mas prominente del sector (mayor blanco histórico de campanas y litigios relacionados a desinformación climatica que CVX-OXY-COP), parcialmente compensado por la inversión mas creible y avanzada en captura de carbono del grupo.",
           "calificacion": 2
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Avance de la rampa del Permian hacia la meta de 2027; desarrollo continuo de Guyana; decision de inversion final del proyecto de centro de datos habilitado con CCS esperada para fines de 2026; resultados de 3T 2026.",
+          "notas": "Avance de la rampa del Permian hacia la meta de 2027; desarrollo continuo de Guyana; decisión de inversión final del proyecto de centro de datos habilitado con CCS esperada para fines de 2026; resultados de 3T 2026.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Tenencia interna muy baja (0.23%) y transacciones de insiders la MAS negativa de las cinco petroleras del Dashboard (-63.71%, Finviz) - senal amarilla a monitorear, sin evidencia de escandalo encontrada en esta sesion pero la magnitud es notable.",
+          "notas": "Tenencia interna muy baja (0.23%) y transacciones de insiders la MAS negativa de las cinco petroleras del Dashboard (-63.71%, Finviz) - señal amarilla a monitorear, sin evidencia de escandalo encontrada en esta sesión pero la magnitud es notable.",
           "calificacion": 2
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura amplia y consenso Buy, pero con el objetivo de precio MAS MODESTO de las petroleras del Dashboard (promedio USD 168.32 a 168.36, apenas aprox +5.5% de alza) - consistente en direccion con el resultado mas negativo de este propio DCF, a diferencia del patron de las otras tres petroleras donde el consenso de analistas era notablemente mas optimista que el escenario adoptado.",
+          "notas": "Cobertura amplia y consenso Buy, pero con el objetivo de precio MAS MODESTO de las petroleras del Dashboard (promedio USD 168.32 a 168.36, apenas aprox +5.5% de alza) - consistente en dirección con el resultado mas negativo de este propio DCF, a diferencia del patrón de las otras tres petroleras donde el consenso de analistas era notablemente mas optimista que el escenario adoptado.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.135135135135135,
-    "recomendacion": "MANTENER, NO ABRIR NUEVA POSICION - VALORACION LA MAS EXIGENTE DEL GRUPO DE PETROLERAS",
-    "tesis": "La mayor y mas diversificada petrolera del Dashboard, con el mejor historial de dividendo (44 anios) y el balance mas solido del grupo, pero cotizando con el margen de seguridad mas negativo de las cinco energeticas analizadas -corroborado por una fuente independiente (GF Value de Gurufocus)- y el consenso de analistas mas modesto del sector, senal de que gran parte de esa calidad ya esta en el precio."
+    "recomendacion": "MANTENER, NO ABRIR NUEVA POSISIÓN - VALORASIÓN LA MAS EXIGENTE DEL GRUPO DE PETROLERAS",
+    "tesis": "La mayor y mas diversificada petrolera del Dashboard, con el mejor historial de dividendo (44 años) y el balance mas sólido del grupo, pero cotizando con el margen de seguridad mas negativo de las cinco energeticas analizadas -corroborado por una fuente independiente (GF Value de Gurufocus)- y el consenso de analistas mas modesto del sector, señal de que gran parte de esa calidad ya esta en el precio."
   }
 }

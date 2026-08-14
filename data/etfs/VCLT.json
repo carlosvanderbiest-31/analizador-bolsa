@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard Long-Term Corporate Bond ETF",
   "ticker": "VCLT",
-  "categoria": "Renta Fija Corporativa (grado de inversion, duracion larga >10 anios)",
+  "categoria": "Renta Fija Corporativa (grado de inversión, duración larga >10 años)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO ('index-sampling approach', ficha oficial Vanguard) - mismo metodo que VCSH, esperado para un indice de miles de bonos (2,851 del fondo vs 3,133 del indice).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO ('index-sampling approach', ficha oficial Vanguard) - mismo metodo que VCSH, esperado para un índice de miles de bonos (2,851 del fondo vs 3,133 del índice).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, bonos denominados en USD de emisores US y no-US (industriales/utilities/financieras) - MISMA salvedad fiscal que VCSH: el interes de bonos corporativos tributa como INGRESO ORDINARIO, no como dividendos calificados.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, bonos denominados en USD de emisores US y no-US (industriales/utilities/financieras) - MISMA salvedad fiscal que VCSH: el interés de bonos corporativos tributa como INGRESO ORDINARIO, no como dividendos calificados.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM = $9,197M (ficha oficial Vanguard, 30-jun-2026) / $8.88-8.92bn (agregadores, ago-2026, cifra menor por la caida de precio reciente, no por salida de capital) - grande, aunque menor que VCSH (~$52bn).",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 19-nov-2009 (~16.7-16.8 anios) - LITERALMENTE EL MISMO DIA que VCSH (mismo patron ya visto con el trio VTV/VUG/VGT lanzados el mismo dia). Sin cambio de mandato/indice, historial largo y limpio.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 19-nov-2009 (~16.7-16.8 años) - LITERALMENTE EL MISMO DIA que VCSH (mismo patrón ya visto con el trio VTV/VUG/VGT lanzados el mismo dia). Sin cambio de mandato/índice, historial largo y limpio.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Vanguard - NOVENA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VT, VCSH, ahora VCLT).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Vanguard - NOVENA aparición en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VT, VCSH, ahora VCLT).",
           "calificacion": 5
         }
       ],
@@ -40,34 +40,34 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.03% - EMPATA con VCSH/VTV/VUG como el mas barato del proyecto. Mas barato que su competidor directo IGLB (0.04%, iShares).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "**PRIMERA VEZ EN EL PROYECTO que se verifica la Tracking Difference con la propia tabla de rendimiento NAV vs Indice de la ficha oficial del emisor** (VCSH la dejo sin verificar): 1yr NAV 4.76% vs Indice 4.79% (-0.03pp), 3yr 4.06% vs 4.05% (+0.01pp), 5yr -2.30% vs -2.29% (-0.01pp), 10yr 2.14% vs 2.19% (-0.05pp), desde inception 4.64% vs 4.65% (-0.01pp) - tracking excepcionalmente ajustado en todas las ventanas largas, coherente con el TER de 0.03%. Unica anomalia: YTD NAV 1.37% vs Indice 1.08% (+0.29pp), probablemente ruido de un periodo parcial en un mercado de tasas volatil, no representativo.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "**PRIMERA VEZ EN EL PROYECTO que se verifica la Tracking Difference con la propia tabla de rendimiento NAV vs Índice de la ficha oficial del emisor** (VCSH la dejo sin verificar): 1yr NAV 4.76% vs Índice 4.79% (-0.03pp), 3yr 4.06% vs 4.05% (+0.01pp), 5yr -2.30% vs -2.29% (-0.01pp), 10yr 2.14% vs 2.19% (-0.05pp), desde inception 4.64% vs 4.65% (-0.01pp) - tracking excepcionalmente ajustado en todas las ventanas largas, coherente con el TER de 0.03%. Única anomalia: YTD NAV 1.37% vs Índice 1.08% (+0.29pp), probablemente ruido de un período parcial en un mercado de tasas volatil, no representativo.",
           "calificacion": 5
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion.",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover rate = 43.9% (ficha oficial Vanguard, CONFIRMADO con cifra exacta, a diferencia de VCSH donde se asumio sin verificar) - refleja el mismo mecanismo de bonos que 'envejecen' fuera de la banda de vencimiento objetivo (aqui 10+ anios) y deben reemplazarse continuamente.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover rate = 43.9% (ficha oficial Vanguard, CONFIRMADO con cifra exacta, a diferencia de VCSH donde se asumio sin verificar) - refleja el mismo mecanismo de bonos que 'envejecen' fuera de la banda de vencimiento objetivo (aquí 10+ años) y deben reemplazarse continuamente.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 2,729,900 acciones (stockanalysis) x $71.78/accion (precio ago-2026) = aprox $195.9M/dia - liquidez solida, mayor en USD que VCSH ($121.5M/dia) pese a un AUM total menor.",
+          "notas": "Volumen diario = 2,729,900 acciones (stockanalysis) x $71.78/acción (precio ago-2026) = aprox $195.9M/dia - liquidez sólida, mayor en USD que VCSH ($121.5M/dia) pese a un AUM total menor.",
           "calificacion": 5
         },
         {
@@ -76,8 +76,8 @@
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "**Premium/Discount vs NAV = +0.11% (verificado, ycharts) - SEGUNDA vez en el proyecto que se obtiene este dato con precision** (la primera fue VCSH, +0.01%). Nota tecnica propia de Vanguard: el precio de mercado de sus ETFs de renta fija se calcula como el punto medio bid-ask, mientras el NAV valora los bonos subyacentes al precio BID - esto genera un premium estructural pequeno y esperado, no una senal de ineficiencia.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "**Premium/Discount vs NAV = +0.11% (verificado, ycharts) - SEGUNDA vez en el proyecto que se obtiene este dato con precisión** (la primera fue VCSH, +0.01%). Nota técnica propia de Vanguard: el precio de mercado de sus ETFs de renta fija se calcula como el punto medio bid-ask, mientras el NAV valora los bonos subyacentes al precio BID - esto genera un premium estructural pequeño y esperado, no una señal de ineficiencia.",
           "calificacion": 5
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 4.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "2,851-2,852 bonds (fondo, fuentes consistentes) vs 3,133 en el indice - numero alto tipico de renta fija corporativa, similar en espiritu a VCSH (3,019 holdings).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "2,851-2,852 bonds (fondo, fuentes consistentes) vs 3,133 en el índice - número alto típico de renta fija corporativa, similar en espiritu a VCSH (3,019 holdings).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 holdings = aprox 2.94% (verificado, stockanalysis: suma de las 10 posiciones principales, 0.51% a 0.22% cada una) - EL TOP10 MAS BAJO DE TODO EL PROYECTO, superando incluso a VYMI (13.5%)**. Primera vez que se obtiene una cifra de Top10 verificada y exacta para un ETF de renta fija (VCSH no la reporto). La posicion mas grande no es ni siquiera un bono corporativo individual sino un instrumento de liquidez de mercado (Mktliq 12/31/2049, 0.51%).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 holdings = aprox 2.94% (verificado, stockanalysis: suma de las 10 posiciones principales, 0.51% a 0.22% cada una) - EL TOP10 MAS BAJO DE TODO EL PROYECTO, superando incluso a VYMI (13.5%)**. Primera vez que se obtiene una cifra de Top10 verificada y exacta para un ETF de renta fija (VCSH no la reporto). La posición mas grande no es ni siquiera un bono corporativo individual sino un instrumento de liquidez de mercado (Mktliq 12/31/2049, 0.51%).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Distribucion por EMISOR/sector (clasificacion Bloomberg, no GICS): Industrial 68.3%, Finance 16.4%, Utilities 13.9%, Treasury/Agency 0.3%, Other 1.1% - MAS CONCENTRADO en 'Industrial' que VCSH (35% Industrials/30% Financials/15% Utilities, reparto mas equilibrado entre los tres). 'Industrial' en la clasificacion de bonos Bloomberg es una categoria amplia (todo emisor corporativo no financiero ni utility, incluye tech/salud/consumo/energia), no equivale a 'Industrials' GICS de un ETF de acciones.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Distribución por EMISOR/sector (clasificación Bloomberg, no GICS): Industrial 68.3%, Finance 16.4%, Utilities 13.9%, Treasury/Agency 0.3%, Other 1.1% - MAS CONCENTRADO en 'Industrial' que VCSH (35% Industrials/30% Financials/15% Utilities, reparto mas equilibrado entre los tres). 'Industrial' en la clasificación de bonos Bloomberg es una categoría amplia (todo emisor corporativo no financiero ni utility, incluye tech/salud/consumo/energía), no equivale a 'Industrials' GICS de un ETF de acciones.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Emisores US y no-US (companias globales que emiten deuda IG denominada en USD) - mismo perfil que VCSH, sin desglose por pais verificado esta sesion.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Emisores US y no-US (compañías globales que emiten deuda IG denominada en USD) - mismo perfil que VCSH, sin desglose por pais verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es DURACION LARGA (12.1 anios fondo / 12.5 indice, vencimiento efectivo promedio 22.3 anios) + grado de inversion - apuesta deliberada de alta sensibilidad a tasas de interes, sustancialmente mas riesgosa que la duracion corta de VCSH (2.4 anios, ~5x menor).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es DURASIÓN LARGA (12.1 años fondo / 12.5 índice, vencimiento efectivo promedio 22.3 años) + grado de inversión - apuesta deliberada de alta sensibilidad a tasas de interés, sustancialmente mas riesgosa que la duración corta de VCSH (2.4 años, ~5x menor).",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg U.S. 10+ Year Corporate Bond Index - MISMO proveedor (Bloomberg) que VCSH, ya no es primera aparicion pero confirma a Bloomberg como estandar de facto de renta fija en el proyecto. Reglas transparentes y publicas.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg U.S. 10+ Year Corporate Bond Index - MISMO proveedor (Bloomberg) que VCSH, ya no es primera aparición pero confirma a Bloomberg como estándar de facto de renta fija en el proyecto. Reglas transparentes y públicas.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "**Distribucion por vencimiento efectivo CONFIRMADA con cifras exactas de la ficha oficial** (mejor verificado que el rebalanceo asumido de VCSH): <1y 0.0%, 1-5y 0.0%, 5-10y 0.5%, 10-15y 19.0%, 15-20y 20.3%, 20-25y 24.9%, >25y 35.3% - mas de un tercio del fondo en bonos de vencimiento superior a 25 anios. Turnover 43.9% consistente con rebalanceo activo por envejecimiento de bonos.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "**Distribución por vencimiento efectivo CONFIRMADA con cifras exactas de la ficha oficial** (mejor verificado que el rebalanceo asumido de VCSH): <1y 0.0%, 1-5y 0.0%, 5-10y 0.5%, 10-15y 19.0%, 15-20y 20.3%, 20-25y 24.9%, >25y 35.3% - mas de un tercio del fondo en bonos de vencimiento superior a 25 años. Turnover 43.9% consistente con rebalanceo activo por envejecimiento de bonos.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception = 4.64% anualizado (NAV, ficha oficial 30-jun-2026), 1yr = 4.76% (misma fecha) - PERO **5yr anualizado = -2.30%, EL PRIMER RETORNO A 5 ANIOS NEGATIVO DE TODO EL PROYECTO** (fuente: la propia ficha de Vanguard, no un agregador de dudosa fiabilidad), reflejo directo de la sensibilidad a tasas de un fondo de 12+ anios de duracion durante el ciclo de alzas 2022-2026. Ademas, una cifra MAS RECIENTE (stockanalysis, ago-2026) muestra 1yr = solo +0.24% y precio actual ($71.78) cerca del minimo de 52 semanas ($71.74, maximo $79.28) - caida de precio real y sustancial en las semanas posteriores al corte de la ficha oficial (30-jun-2026), consistente con una nueva subida de tasas largas, no una discrepancia de fuente a descartar.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception = 4.64% anualizado (NAV, ficha oficial 30-jun-2026), 1yr = 4.76% (misma fecha) - PERO **5yr anualizado = -2.30%, EL PRIMER RETORNO A 5 AÑOS NEGATIVO DE TODO EL PROYECTO** (fuente: la propia ficha de Vanguard, no un agregador de dudosa fiabilidad), reflejo directo de la sensibilidad a tasas de un fondo de 12+ años de duración durante el ciclo de alzas 2022-2026. Además, una cifra MAS RECIENTE (stockanalysis, ago-2026) muestra 1yr = solo +0.24% y precio actual ($71.78) cerca del mínimo de 52 semanas ($71.74, máximo $79.28) - caida de precio real y sustancial en las semanas posteriores al corte de la ficha oficial (30-jun-2026), consistente con una nueva subida de tasas largas, no una discrepancia de fuente a descartar.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada desde inception (2009-2026) = 11.7% (PortfoliosLab) vs 7.92% en el ultimo anio - **COHERENTE Y PLAUSIBLE** dado que la duracion de VCLT (12.1 anios) es aprox 5x la de VCSH (2.4 anios): la volatilidad de VCLT tambien es aprox 17-19x mayor que la de VCSH (0.62%), proporcionalmente mas que 5x porque la volatilidad de bonos no escala linealmente con duracion. Se acepta sin sospecha por la misma logica de coherencia ya usada con SOXX (beta alto) y VCSH (volatilidad baja aceptada por tratarse de renta fija corta).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada desde inception (2009-2026) = 11.7% (PortfoliosLab) vs 7.92% en el último año - **COHERENTE Y PLAUSIBLE** dado que la duración de VCLT (12.1 años) es aprox 5x la de VCSH (2.4 años): la volatilidad de VCLT también es aprox 17-19x mayor que la de VCSH (0.62%), proporcionalmente mas que 5x porque la volatilidad de bonos no escala linealmente con duración. Se acepta sin sospecha por la misma logica de coherencia ya usada con SOXX (beta alto) y VCSH (volatilidad baja aceptada por tratarse de renta fija corta).",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -34.3% desde inception (PortfoliosLab, ventana 2009-2026) - **SEVERO para un fondo 'investment-grade', pero COHERENTE con la duracion larga**: aprox 2.7x el drawdown de VCSH (-12.86%), proporcional a la mayor sensibilidad a tasas. Se incluye con confianza (no se descarta) por la misma logica de coherencia interna ya aplicada a SOXX/URA - refleja principalmente el ciclo de alzas de tasas de 2022, el peor mercado de bonos en decadas.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -34.3% desde inception (PortfoliosLab, ventana 2009-2026) - **SEVERO para un fondo 'investment-grade', pero COHERENTE con la duración larga**: aprox 2.7x el drawdown de VCSH (-12.86%), proporcional a la mayor sensibilidad a tasas. Se incluye con confianza (no se descarta) por la misma logica de coherencia interna ya aplicada a SOXX/URA - refleja principalmente el ciclo de alzas de tasas de 2022, el peor mercado de bonos en décadas.",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio desde inception (2009-2026) = 0.32 (PortfoliosLab) - MUCHO MAS BAJO que VCSH (1.80-2.37), refleja el retorno/riesgo mediocre de la duracion larga a traves del ciclo completo de tasas. Cifra reciente de 0.97 (12 meses) se trata con la misma cautela ya establecida en el proyecto para ventanas cortas Sharpe - no representativa del perfil de riesgo/retorno de largo plazo.",
+          "notas": "Sharpe Ratio desde inception (2009-2026) = 0.32 (PortfoliosLab) - MUCHO MAS BAJO que VCSH (1.80-2.37), refleja el retorno/riesgo mediocre de la duración larga a través del ciclo completo de tasas. Cifra reciente de 0.97 (12 meses) se trata con la misma cautela ya establecida en el proyecto para ventanas cortas Sharpe - no representativa del perfil de riesgo/retorno de largo plazo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.63 (stockanalysis) - notablemente MAS ALTO que VCSH (0.13), coherente con la mayor volatilidad propia de la duracion larga (no necesariamente mayor correlacion economica con acciones, sino mayor volatilidad total que mecanicamente eleva el beta medido). **OVERLAP NO APLICA por clase de activo** (mismo criterio que VCSH, cartera de acciones del usuario 100% equity) - overlap de EMISOR marginal e inmaterial: Meta Platforms (0.28%), Amazon (0.22%), AT&T (parte de 'Other'), CVS Health (0.33%+0.23%=0.56%) ya analizados individualmente, pero cada uno con peso menor a 0.6% del fondo (exposicion crediticia, no accionaria, de cualquier forma).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.63 (stockanalysis) - notablemente MAS ALTO que VCSH (0.13), coherente con la mayor volatilidad propia de la duración larga (no necesariamente mayor correlación económica con acciones, sino mayor volatilidad total que mecanicamente eleva el beta medido). **OVERLAP NO APLICA por clase de activo** (mismo criterio que VCSH, cartera de acciones del usuario 100% equity) - overlap de EMISOR marginal e inmaterial: Meta Platforms (0.28%), Amazon (0.22%), AT&T (parte de 'Other'), CVS Health (0.33%+0.23%=0.56%) ya analizados individualmente, pero cada uno con peso menor a 0.6% del fondo (exposición crediticia, no accionaria, de cualquier forma).",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "16.7-16.8 anios de historial cubren el taper tantrum 2013, la correccion de credito COVID 2020, y el peor mercado bajista de bonos en decadas (2022, origen probable del Max Drawdown de -34.3%) - a diferencia de VCSH, el impacto de 2022 en VCLT fue SEVERO, no leve, precisamente por la duracion larga. La presion continua hasta ago-2026 (precio cerca de minimos de 52 semanas) sugiere que el ciclo de riesgo de tasas para este fondo especifico sigue vigente.",
+          "notas": "16.7-16.8 años de historial cubren el taper tantrum 2013, la corrección de crédito COVID 2020, y el peor mercado bajista de bonos en décadas (2022, origen probable del Max Drawdown de -34.3%) - a diferencia de VCSH, el impacto de 2022 en VCLT fue SEVERO, no leve, precisamente por la duración larga. La presión continua hasta ago-2026 (precio cerca de mínimos de 52 semanas) sugiere que el ciclo de riesgo de tasas para este fondo específico sigue vigente.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.67
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "No aplica - VCLT es un fondo 100% renta fija, sin componente de equity. Los multiplos P/E/P/B/P/FCF no son relevantes; ver fila 49 para la valoracion agregada de renta fija (duracion, YTM, calidad crediticia).",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "No aplica - VCLT es un fondo 100% renta fija, sin componente de equity. Los múltiplos P/E/P/B/P/FCF no son relevantes; ver fila 49 para la valoración agregada de renta fija (duración, YTM, calidad crediticia).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 5.69-5.75% segun fuente (buena corroboracion) / SEC Yield 30-dias = 6.06% (29-jul-2026) - **NOTABLEMENTE MAS ALTO que VCSH (4.46%)**, refleja la prima por plazo (term premium) de la duracion larga. Distribucion MENSUAL confirmada, igual que VCSH.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 5.69-5.75% según fuente (buena corroboración) / SEC Yield 30-dias = 6.06% (29-jul-2026) - **NOTABLEMENTE MAS ALTO que VCSH (4.46%)**, refleja la prima por plazo (term premium) de la duración larga. Distribución MENSUAL confirmada, igual que VCSH.",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "**Datos de renta fija COMPLETOS Y BIEN VERIFICADOS via ficha oficial del emisor (mejora sobre VCSH, que dependio de agregadores)**: Duracion efectiva = 12.1 anios (fondo) / 12.5 anios (indice) - aprox 5x la de VCSH. Vencimiento efectivo promedio = 22.3 anios. YTM aprox 5.65% (una fuente, coherente con el SEC Yield de 6.06%). Calidad crediticia con desglose EXACTO por primera vez en el proyecto: US Govt 0.3%, AAA 1.7%, AA 11.8%, A 44.6%, BBB 41.6%, sin calificar 0.0% - fuertemente sesgado a A/BBB (86.2% combinado), mismo patron cualitativo que VCSH pero ahora con porcentajes precisos.",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "**Datos de renta fija COMPLETOS Y BIEN VERIFICADOS via ficha oficial del emisor (mejora sobre VCSH, que dependio de agregadores)**: Duración efectiva = 12.1 años (fondo) / 12.5 años (índice) - aprox 5x la de VCSH. Vencimiento efectivo promedio = 22.3 años. YTM aprox 5.65% (una fuente, coherente con el SEC Yield de 6.06%). Calidad crediticia con desglose EXACTO por primera vez en el proyecto: US Govt 0.3%, AAA 1.7%, AA 11.8%, A 44.6%, BBB 41.6%, sin calificar 0.0% - fuertemente sesgado a A/BBB (86.2% combinado), mismo patrón cualitativo que VCSH pero ahora con porcentajes precisos.",
           "calificacion": 5
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**Comparacion verificada con IGLB (iShares 10+ Year Investment Grade Corporate Bond ETF), competidor directo mas cercano**: VCLT es ligeramente mas barato (TER 0.03% vs 0.04%), paga mayor yield (dividendo TTM $4.15-4.16 vs $2.62 de IGLB) y tiene MENOS holdings pero mas concentrados por bono individual (2,851 vs ~3,800 de IGLB), con duracion muy similar (~12-13.5 anios segun fuente). VCIT (hermano de Vanguard de duracion intermedia) sigue siendo candidato para una futura comparacion de la escalera de duracion completa del propio Vanguard (VCSH-VCIT-VCLT).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**Comparación verificada con IGLB (iShares 10+ Year Investment Grade Corporate Bond ETF), competidor directo mas cercano**: VCLT es ligeramente mas barato (TER 0.03% vs 0.04%), paga mayor yield (dividendo TTM $4.15-4.16 vs $2.62 de IGLB) y tiene MENOS holdings pero mas concentrados por bono individual (2,851 vs ~3,800 de IGLB), con duración muy similar (~12-13.5 años según fuente). VCIT (hermano de Vanguard de duración intermedia) sigue siendo candidato para una futura comparación de la escalera de duración completa del propio Vanguard (VCSH-VCIT-VCLT).",
           "calificacion": 4
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "**SEGUNDO ETF de renta fija del proyecto, pero con un ROL DISTINTO al de VCSH**: mientras VCSH funciona como 'Cobertura' pura (ballast de bajisima volatilidad, beta 0.13, drawdown maximo -12.86%), VCLT tiene una volatilidad (11.7% anualizada) y un Max Drawdown (-34.3%) que se acercan mas al perfil de un ETF de acciones defensivo que al de un instrumento de preservacion de capital. Rol: **Tactico/Satelite de renta fija** orientado a maximizar ingreso corriente (~5.7-6.1% de yield) y a una apuesta explicita de duracion (beneficio si las tasas largas bajan), no un sustituto directo de la funcion de VCSH.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "**SEGUNDO ETF de renta fija del proyecto, pero con un ROL DISTINTO al de VCSH**: mientras VCSH funciona como 'Cobertura' pura (ballast de bajisima volatilidad, beta 0.13, drawdown máximo -12.86%), VCLT tiene una volatilidad (11.7% anualizada) y un Max Drawdown (-34.3%) que se acercan mas al perfil de un ETF de acciones defensivo que al de un instrumento de preservación de capital. Rol: **Táctico/Satélite de renta fija** orientado a maximizar ingreso corriente (~5.7-6.1% de yield) y a una apuesta explicita de duración (beneficio si las tasas largas bajan), no un sustituto directo de la función de VCSH.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: ingreso corriente elevado (~5.7-6.1%) mas potencial de apreciacion de precio si las tasas de interes de largo plazo bajan (la convexidad de una duracion de 12+ anios amplifica el movimiento en cualquier direccion) - apuesta de tasas explicita, no solo un vehiculo de ingreso pasivo.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: ingreso corriente elevado (~5.7-6.1%) mas potencial de apreciación de precio si las tasas de interés de largo plazo bajan (la convexidad de una duración de 12+ años amplifica el movimiento en cualquier dirección) - apuesta de tasas explicita, no solo un vehículo de ingreso pasivo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) **riesgo de tasa de interes MUCHO MAYOR que VCSH** (duracion 12.1 anios implica que un alza de 1pp en tasas reduce el precio aprox 12%, vs aprox 2.4% en VCSH) - ya demostrado por el Max Drawdown de -34.3% y la caida de precio reciente hacia minimos de 52 semanas; (2) riesgo de credito corporativo (grado de inversion, sesgado a A/BBB, 86.2% combinado); (3) tributacion del interes como INGRESO ORDINARIO, no dividendos calificados (misma salvedad que VCSH); (4) rendimiento nominal atractivo (~5.7-6.1%) pero rendimiento REAL bastante mas modesto tras inflacion.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) **riesgo de tasa de interés MUCHO MAYOR que VCSH** (duración 12.1 años implica que un alza de 1pp en tasas reduce el precio aprox 12%, vs aprox 2.4% en VCSH) - ya demostrado por el Max Drawdown de -34.3% y la caida de precio reciente hacia mínimos de 52 semanas; (2) riesgo de crédito corporativo (grado de inversión, sesgado a A/BBB, 86.2% combinado); (3) tributación del interés como INGRESO ORDINARIO, no dividendos calificados (misma salvedad que VCSH); (4) rendimiento nominal atractivo (~5.7-6.1%) pero rendimiento REAL bastante mas modesto tras inflación.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "IGLB (iShares, competidor directo mas cercano, comparado con datos propios) y VCIT (hermano Vanguard de duracion intermedia, candidato para cerrar la escalera de duracion VCSH-VCIT-VCLT en una futura sesion).",
+          "notas": "IGLB (iShares, competidor directo mas cercano, comparado con datos propios) y VCIT (hermano Vanguard de duración intermedia, candidato para cerrar la escalera de duración VCSH-VCIT-VCLT en una futura sesión).",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL (como posicion TACTICA/SATELITE de renta fija, no como sustituto de VCSH). Score ~3.85/5 - por debajo de VCSH (4.03) pero aun en el rango alto del proyecto, resultado de una combinacion de calidad estructural EXCEPCIONAL (TER 0.03% empatando el minimo del proyecto, Tracking Difference verificada y muy ajustada por primera vez en un ETF de renta fija del proyecto, Premium/Discount +0.11% verificado, Top10 de solo ~2.94% - EL MAS BAJO DE TODO EL PROYECTO, 2,851 holdings) contra un perfil de riesgo/retorno genuinamente mas debil que VCSH: PRIMER retorno a 5 anios NEGATIVO del proyecto (-2.30% anualizado, fuente oficial Vanguard), Max Drawdown severo (-34.3%, aprox 2.7x el de VCSH), Sharpe de largo plazo bajo (0.32) y precio actual cerca de minimos de 52 semanas reflejando presion de tasas continua hasta ago-2026. Duracion 12.1 anios (~5x la de VCSH) y vencimiento efectivo promedio de 22.3 anios explican mecanicamente toda esta diferencia de perfil - no es un defecto del vehiculo (que es de la mas alta calidad Vanguard, mismo dia de inception que VCSH), sino la consecuencia esperada de la apuesta de duracion larga. YTM aprox 5.65-6.06% (SEC Yield), notablemente superior al ~4.4% de VCSH, es la compensacion por ese riesgo adicional. **Rol distinto y complementario a VCSH**: donde VCSH es Cobertura pura de bajisima volatilidad, VCLT es una posicion TACTICA de renta fija para el inversionista que busca maximizar ingreso corriente y/o tomar una vista explicita sobre tasas de largo plazo, con un perfil de riesgo mas cercano (aunque de naturaleza distinta) al de un ETF de acciones defensivo que al ballast puro. Valoracion tratada como NEUTRAL (sin percentil historico propio de YTM verificado esta sesion). Overlap por clase de activo NO APLICA (cartera de acciones del usuario 100% equity); overlap de emisor cuantificable pero inmaterial (Meta+Amazon+CVS Health ~1% del fondo combinado)."
+    "tesis": "MANTENER/ACUMULAR GRADUAL (como posición TÁCTICA/SATÉLITE de renta fija, no como sustituto de VCSH). Score ~3.85/5 - por debajo de VCSH (4.03) pero aun en el rango alto del proyecto, resultado de una combinación de calidad estructural EXCEPCIONAL (TER 0.03% empatando el mínimo del proyecto, Tracking Difference verificada y muy ajustada por primera vez en un ETF de renta fija del proyecto, Premium/Discount +0.11% verificado, Top10 de solo ~2.94% - EL MAS BAJO DE TODO EL PROYECTO, 2,851 holdings) contra un perfil de riesgo/retorno genuinamente mas débil que VCSH: PRIMER retorno a 5 años NEGATIVO del proyecto (-2.30% anualizado, fuente oficial Vanguard), Max Drawdown severo (-34.3%, aprox 2.7x el de VCSH), Sharpe de largo plazo bajo (0.32) y precio actual cerca de mínimos de 52 semanas reflejando presión de tasas continua hasta ago-2026. Duración 12.1 años (~5x la de VCSH) y vencimiento efectivo promedio de 22.3 años explican mecanicamente toda esta diferencia de perfil - no es un defecto del vehículo (que es de la mas alta calidad Vanguard, mismo dia de inception que VCSH), sino la consecuencia esperada de la apuesta de duración larga. YTM aprox 5.65-6.06% (SEC Yield), notablemente superior al ~4.4% de VCSH, es la compensación por ese riesgo adicional. **Rol distinto y complementario a VCSH**: donde VCSH es Cobertura pura de bajisima volatilidad, VCLT es una posición TÁCTICA de renta fija para el inversionista que busca maximizar ingreso corriente y/o tomar una vista explicita sobre tasas de largo plazo, con un perfil de riesgo mas cercano (aunque de naturaleza distinta) al de un ETF de acciones defensivo que al ballast puro. Valoración tratada como NEUTRAL (sin percentil histórico propio de YTM verificado esta sesión). Overlap por clase de activo NO APLICA (cartera de acciones del usuario 100% equity); overlap de emisor cuantificable pero inmaterial (Meta+Amazon+CVS Health ~1% del fondo combinado)."
   }
 }

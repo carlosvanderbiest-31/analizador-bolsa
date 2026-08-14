@@ -1,35 +1,35 @@
 {
   "nombre": "SPDR S&P Retail ETF",
   "ticker": "XRT",
-  "categoria": "Equity Tematico/Factor (comercio minorista EEUU: automotor/especializado/apparel/broadline/alimentos)",
+  "categoria": "Equity Temático/Factor (comercio minorista EEUU: automotor/especializado/apparel/broadline/alimentos)",
   "emisor": "State Street/SPDR",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Fact Sheet oficial SSGA incluye clausula de riesgo estandar de MUESTREO -sampling-, lenguaje boilerplate compartido con otros fondos SPDR, no una declaracion especifica y definitiva solo para XRT -confianza media-.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Fact Sheet oficial SSGA incluye clausula de riesgo estándar de MUESTREO -sampling-, lenguaje boilerplate compartido con otros fondos SPDR, no una declaración específica y definitiva solo para XRT -confianza media-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domiciliado en EEUU -SPDR Series Trust, fondo abierto bajo Investment Company Act de 1940-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM con RANGO MUY DISPERSO y no reconciliado entre fuentes: $385M -BestETF.net- a $670M -TradingView, dato sospechoso por salto de +54.6% en un mes-, pasando por $484.73M -stockanalysis.com- y $636.32M -ssga.com-. Relativamente chico en cualquier caso.",
           "calificacion": 2
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "20.15 anios desde inception -19-jun-2006-. CUBRE Crisis 2008 completa -Max Drawdown documentado en fila 41, aunque solo con 2 fuentes independientes, confianza moderada-alta no total-.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "20.15 años desde inception -19-jun-2006-. CUBRE Crisis 2008 completa -Max Drawdown documentado en fila 41, aunque solo con 2 fuentes independientes, confianza moderada-alta no total-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor State Street/SPDR, misma familia que XHB ya en el workbook.",
           "calificacion": 5
         }
@@ -40,121 +40,121 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.35% -SIN discrepancia entre fuentes: Fact Sheet oficial SSGA, ssga.com, stockanalysis.com, etfdb-, IGUAL a XHB -0.35%, ya en el workbook- y mas barato que ITB -0.38%-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference DERIVADA del propio Fact Sheet oficial -NAV vs Indice, mismo periodo, 30-jun-2026-: 1Y -0.21pp, 3Y -0.31pp, 5Y -0.15pp, 10Y -0.09pp. Ventana 10Y -la mas estable de las cuatro- usada como referencia principal. No es una cifra de 'tracking difference' etiquetada oficialmente como tal por SSGA, sino derivada de la tabla de performance.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference DERIVADA del propio Fact Sheet oficial -NAV vs Índice, mismo período, 30-jun-2026-: 1Y -0.21pp, 3Y -0.31pp, 5Y -0.15pp, 10Y -0.09pp. Ventana 10Y -la mas estable de las cuatro- usada como referencia principal. No es una cifra de 'tracking difference' etiquetada oficialmente como tal por SSGA, sino derivada de la tabla de performance.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending, pero el fenomeno historico de SHORT INTEREST EXTREMO de XRT -ver fila 55- sugiere alta demanda de prestamo de acciones del fondo, potencial fuente de revenue no cuantificada que podria compensar parte del TER.",
+          "notas": "Sin dato específico de revenue por securities lending, pero el fenomeno histórico de SHORT INTEREST EXTREMO de XRT -ver fila 55- sugiere alta demanda de prestamo de acciones del fondo, potencial fuente de revenue no cuantificada que podría compensar parte del TER.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Metodologia equal-weight con banda de capping ~4.5%/constituyente INFERIDA por pertenecer a la misma familia S&P Select Industry Index que XHB -no confirmada en un documento XRT-especifico-. Rebalanceo trimestral tambien inferido por familia de indice.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Metodología equal-weight con banda de capping ~4.5%/constituyente INFERIDA por pertenecer a la misma familia S&P Select Industry Index que XHB -no confirmada en un documento XRT-específico-. Rebalanceo trimestral también inferido por familia de índice.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~3,569,957 acciones/dia -stockanalysis.com-, equivalente a ~$317M/dia a precio ~$88.78/accion. ALTO pese al AUM relativamente chico del fondo, consistente con el fenomeno de short interest extremo documentado en fila 55.",
+          "notas": "Volumen ~3,569,957 acciones/dia -stockanalysis.com-, equivalente a ~$317M/dia a precio ~$88.78/acción. ALTO pese al AUM relativamente chico del fondo, consistente con el fenomeno de short interest extremo documentado en fila 55.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask = 0.02% segun una mencion de busqueda citando Barchart, NO VERIFICADA de forma independiente en fuente primaria -Barchart bloqueo el fetch directo-. Reportado con confianza baja.",
+          "notas": "Spread bid-ask = 0.02% según una mención de busqueda citando Barchart, NO VERIFICADA de forma independiente en fuente primaria -Barchart bloqueo el fetch directo-. Reportado con confianza baja.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount historico vs NAV NO ENCONTRADO -la pagina de YCharts existe con el historico desde 2006 pero no fue accesible con las herramientas disponibles-.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount histórico vs NAV NO ENCONTRADO -la pagina de YCharts existe con el histórico desde 2006 pero no fue accesible con las herramientas disponibles-.",
           "calificacion": 2
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero el volumen alto y el mecanismo de creacion/redencion ligado al fenomeno de short interest extremo sugiere infraestructura muy activa.",
+          "notas": "Sin cifra específica de profundidad de APs, pero el volumen alto y el mecanismo de creación/redención ligado al fenomeno de short interest extremo sugiere infraestructura muy activa.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "75 holdings segun Fact Sheet oficial SSGA -30-jun-2026- vs 76 segun stockanalysis.com -12-ago-2026-, diferencia menor por reconstitucion/rotacion entre fechas de corte.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "75 holdings según Fact Sheet oficial SSGA -30-jun-2026- vs 76 según stockanalysis.com -12-ago-2026-, diferencia menor por reconstitución/rotación entre fechas de corte.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 = solo ~16.7%-16.9% del fondo** -SSGA Fact Sheet oficial y stockanalysis.com coinciden estrechamente-. **LA CONCENTRACION MAS BAJA de cualquier ETF sectorial/tematico angosto del proyecto hasta ahora**, incluso menor que XHB -39.7%, ya en el workbook-. Holdings principales -Fact Sheet oficial-: Groupon 1.88%, RealReal 1.85%, Bath & Body Works 1.82%, Warby Parker 1.73%, Upbound Group 1.68%, Instacart/Maplebear 1.64%, Coupang 1.64%, Revolve Group 1.61%, Victoria's Secret 1.61%, MarineMax 1.60%. **Confirmado que Amazon SI esta incluido -~1.44-1.58%- pero DILUIDO fuera del Top10 por el diseno equal-weight**, a diferencia de RTH -VanEck, cap-weighted, no analizado- donde Amazon/Walmart dominarian.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 = solo ~16.7%-16.9% del fondo** -SSGA Fact Sheet oficial y stockanalysis.com coinciden estrechamente-. **LA CONCENTRASIÓN MAS BAJA de cualquier ETF sectorial/temático angosto del proyecto hasta ahora**, incluso menor que XHB -39.7%, ya en el workbook-. Holdings principales -Fact Sheet oficial-: Groupon 1.88%, RealReal 1.85%, Bath & Body Works 1.82%, Warby Parker 1.73%, Upbound Group 1.68%, Instacart/Maplebear 1.64%, Coupang 1.64%, Revolve Group 1.61%, Victoria's Secret 1.61%, MarineMax 1.60%. **Confirmado que Amazon SI esta incluido -~1.44-1.58%- pero DILUIDO fuera del Top10 por el diseño equal-weight**, a diferencia de RTH -VanEck, cap-weighted, no analizado- donde Amazon/Walmart dominarian.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
           "notas": "Desglose sectorial oficial SSGA -sub-industrias GICS-: Automotive Retail 21.39% -concesionarios: Lithia Motors/Penske/CarMax/MarineMax-, Other Specialty Retail 21.04%, Apparel Retail 19.94%, Broadline Retail 14.88%, Food Retail 10.44%, Consumer Staples Merchandise Retail 9.62%, Computer & Electronics Retail 2.69%. **NO incluye restaurantes** -confirmado por ausencia total en el desglose-. Genuinamente MAS DIVERSIFICADO por sub-industria que ITB/XHB.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion equal-weight que diluye mega-caps -Amazon incluido pero fuera del Top10-, mayor sub-sector es Automotive Retail 21.39% -introduce sensibilidad a tasas de financiamiento automotor, no solo gasto discrecional tipico de retail-.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición equal-weight que diluye mega-caps -Amazon incluido pero fuera del Top10-, mayor sub-sector es Automotive Retail 21.39% -introduce sensibilidad a tasas de financiamiento automotor, no solo gasto discrecional típico de retail-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Metodologia 'modified equal weighted' CONFIRMADA TEXTUALMENTE en el Fact Sheet oficial de SSGA, misma familia S&P Select Industry que XHB. Banda de capping ~4.5% inferida por familia -no confirmada en documento XRT-especifico-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Metodología 'modified equal weighted' CONFIRMADA TEXTUALMENTE en el Fact Sheet oficial de SSGA, misma familia S&P Select Industry que XHB. Banda de capping ~4.5% inferida por familia -no confirmada en documento XRT-específico-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral -tercer viernes- inferido por pertenecer a la misma familia de indice que XHB, NO confirmado explicitamente en un documento XRT-especifico.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral -tercer viernes- inferido por pertenecer a la misma familia de índice que XHB, NO confirmado explícitamente en un documento XRT-específico.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 3.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 10Y anualizado = 9.25% -Fact Sheet oficial SSGA, NAV, 30-jun-2026-, **NOTABLEMENTE INFERIOR a ITB -14.13-14.80%- y XHB -12.07-12.77%-, ambos ya en el workbook** - el retail rezago frente al sector vivienda en la ultima decada. **HALLAZGO PREOCUPANTE: retorno 5Y NEGATIVO -0.51%** -Fact Sheet oficial-, reflejo probable de la correccion del retail post-pandemia. Retorno 1Y 14.62%, 3Y 12.54% -ambos Fact Sheet oficial-.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 10Y anualizado = 9.25% -Fact Sheet oficial SSGA, NAV, 30-jun-2026-, **NOTABLEMENTE INFERIOR a ITB -14.13-14.80%- y XHB -12.07-12.77%-, ambos ya en el workbook** - el retail rezago frente al sector vivienda en la última década. **HALLAZGO PREOCUPANTE: retorno 5Y NEGATIVO -0.51%** -Fact Sheet oficial-, reflejo probable de la corrección del retail post-pandemia. Retorno 1Y 14.62%, 3Y 12.54% -ambos Fact Sheet oficial-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "**BANDERA DE CALIDAD DE DATO SEVERA**: volatilidad anualizada con discrepancia EXTREMA e IRRECONCILIABLE entre fuentes -6.5%-6.8% PortfoliosLab vs 20.36% otra busqueda agregada-. La cifra baja parece inconsistente con el perfil de riesgo esperado para un equal-weight de consumo ciclico/automotor. No se fuerza una cifra unica.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "**BANDERA DE CALIDAD DE DATO SEVERA**: volatilidad anualizada con discrepancia EXTREMA e IRRECONCILIABLE entre fuentes -6.5%-6.8% PortfoliosLab vs 20.36% otra busqueda agregada-. La cifra baja parece inconsistente con el perfil de riesgo esperado para un equal-weight de consumo ciclico/automotor. No se fuerza una cifra única.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
           "notas": "Max Drawdown desde inception = **-65.81% a -66.75%** -PortfoliosLab y TotalRealReturns.com, 20-nov-2008, desde pico 1-jun-2007, dos fuentes con convergencia razonable-. **CONFIRMADO que cubre Crisis 2008 completa** -misma ventana que XHB/ITB-, pero **NOTABLEMENTE MENOS SEVERO que XHB -81.7%- e ITB -86.53%-, ambos ya en el workbook**: el retail general no estuvo tan en el epicentro de la crisis hipotecaria/inmobiliaria de 2008 como las constructoras.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe ratio = 0.37-0.39, dos fuentes razonablemente convergentes -metodologia/periodo exacto de calculo no confirmado en detalle-.",
+          "notas": "Sharpe ratio = 0.37-0.39, dos fuentes razonablemente convergentes -metodología/período exacto de calculo no confirmado en detalle-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 1.17 -unica fuente, stockanalysis.com, sin corroboracion independiente-, NOTABLEMENTE MENOR que XHB -1.25-1.30- e ITB -1.29-1.50-, coherente con la mayor diversificacion de XRT hacia sub-industrias mas defensivas -Food Retail + Consumer Staples Merchandise Retail ~20% combinado-.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.17 -única fuente, stockanalysis.com, sin corroboración independiente-, NOTABLEMENTE MENOR que XHB -1.25-1.30- e ITB -1.29-1.50-, coherente con la mayor diversificación de XRT hacia sub-industrias mas defensivas -Food Retail + Consumer Staples Merchandise Retail ~20% combinado-.",
           "calificacion": 3
         },
         {
@@ -166,27 +166,27 @@
       "rating_promedio": 2.5
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 14.59x -Fact Sheet oficial- a 15.36x -ssga.com intermediary, curiosamente distinto pese a ser la misma casa-, mas barato que el mercado amplio, sin serie historica propia a 5-10 anios para calcular percentil.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 14.59x -Fact Sheet oficial- a 15.36x -ssga.com intermediary, curiosamente distinto pese a ser la misma casa-, mas barato que el mercado amplio, sin serie histórica propia a 5-10 años para calcular percentil.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield bajo -0.75%-1.32% segun definicion: SEC yield 0.82-0.84%, distribution yield 0.75%, index dividend yield 1.32%-, similar a ITB/XHB. Tesis de apreciacion de capital, no income.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield bajo -0.75%-1.32% según definición: SEC yield 0.82-0.84%, distribution yield 0.75%, index dividend yield 1.32%-, similar a ITB/XHB. Tesis de apreciación de capital, no income.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion con XHB e ITB -ambos ya en el workbook-: XRT tiene MEJOR perfil de riesgo -Top10 16.8% vs 39.7%/67.99%, Beta 1.17 vs 1.25-1.50, Max Drawdown -66% vs -81.7%/-86.53%- pero PEOR retorno realizado -10Y 9.25% vs 12.07-14.80% de los otros dos-, y es el UNICO de los tres con retorno 5Y NEGATIVO. Empate matizado: mejor estructura de riesgo, peor momentum reciente.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación con XHB e ITB -ambos ya en el workbook-: XRT tiene MEJOR perfil de riesgo -Top10 16.8% vs 39.7%/67.99%, Beta 1.17 vs 1.25-1.50, Max Drawdown -66% vs -81.7%/-86.53%- pero PEOR retorno realizado -10Y 9.25% vs 12.07-14.80% de los otros dos-, y es el ÚNICO de los tres con retorno 5Y NEGATIVO. Empate matizado: mejor estructura de riesgo, peor momentum reciente.",
           "calificacion": 2
         }
       ],
@@ -196,18 +196,18 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol TACTICO/ESPECULATIVO, mismo tipo de riesgo sectorial ciclico -consumo discrecional/automotor- que ITB/XHB, aunque con mejor perfil de concentracion/beta/drawdown que ambos.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol TÁCTICO/ESPECULATIVO, mismo tipo de riesgo sectorial ciclico -consumo discrecional/automotor- que ITB/XHB, aunque con mejor perfil de concentración/beta/drawdown que ambos.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
+          "aspecto": "Tesis de inversión / catalizador",
           "notas": "Tesis: la canasta de retail MAS DIVERSIFICADA del cluster de consumo ciclico del proyecto -75 holdings, Top10 solo 16.8%, siete sub-industrias distintas-, pero con retorno realizado 10Y inferior a sus pares de vivienda y un 5Y NEGATIVO que genera duda real sobre el momentum reciente del sector retail.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: sensibilidad al gasto discrecional del consumidor, disrupcion e-commerce vs tienda fisica, mayor sub-sector es Automotive Retail -21.4%, sensibilidad a tasas de financiamiento automotor no solo gasto discrecional tipico-, sin exposicion a restaurantes, AUM con rango disperso sin reconciliar -senal de menor cobertura institucional-. **NOTA HISTORICA DISTINTIVA**: XRT es conocido como uno de los ETFs con MAYOR SHORT INTEREST del mercado -llego a ~600-626% de las acciones en circulacion en 2011, Nasdaq.com-, fenomeno que POSIBLEMENTE sigue vigente -~526% segun una fuente de baja confianza no verificada de forma primaria-. El mecanismo de creacion/redencion de ETFs permite que el short interest nocional exceda el 100% sin fallos de entrega; usado ampliamente para pair trades institucionales -largo en un retailer especifico, corto en XRT como cobertura sectorial-, probablemente contribuye a su alta liquidez pese al AUM chico.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: sensibilidad al gasto discrecional del consumidor, disrupción e-commerce vs tienda física, mayor sub-sector es Automotive Retail -21.4%, sensibilidad a tasas de financiamiento automotor no solo gasto discrecional típico-, sin exposición a restaurantes, AUM con rango disperso sin reconciliar -señal de menor cobertura institucional-. **NOTA HISTÓRICA DISTINTIVA**: XRT es conocido como uno de los ETFs con MAYOR SHORT INTEREST del mercado -llego a ~600-626% de las acciones en circulación en 2011, Nasdaq.com-, fenomeno que POSIBLEMENTE sigue vigente -~526% según una fuente de baja confianza no verificada de forma primaria-. El mecanismo de creación/redención de ETFs permite que el short interest nocional exceda el 100% sin fallos de entrega; usado ampliamente para pair trades institucionales -largo en un retailer específico, corto en XRT como cobertura sectorial-, probablemente contribuye a su alta liquidez pese al AUM chico.",
           "calificacion": 2
         },
         {
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). XRT presenta el perfil de CONCENTRACION MAS BAJO de cualquier ETF sectorial/tematico angosto del proyecto -Top10 solo ~16.8%, gracias a 75 holdings equal-weight repartidos en siete sub-industrias distintas de retail-, Beta mas bajo -1.17- y Max Drawdown MENOS SEVERO -65.81-66.75%- que sus primos de vivienda XHB -81.7%- e ITB -86.53%-, ambos ya en el workbook, pese a compartir la MISMA ventana de Crisis 2008 -el retail general no estuvo tan en el epicentro de la crisis hipotecaria como las constructoras-. PERO el retorno realizado es notablemente INFERIOR: 10Y anualizado de solo 9.25% -vs 12.07-14.80% de ITB/XHB- y, mas preocupante, **retorno 5Y NEGATIVO -0.51%**, unico caso entre los tres primos del ecosistema vivienda/retail. TER 0.35% igual a XHB, yield bajo 0.75-1.32%, tesis de apreciacion de capital pura. Datos de AUM -rango $385-670M sin reconciliar- y volatilidad -6.5% vs 20.4% segun fuente, discrepancia extrema- con calidad notablemente debil. Nota cualitativa distintiva: XRT es historicamente uno de los ETFs con mayor short interest del mercado -~600% en 2011, posiblemente aun vigente-, curiosidad estructural del mecanismo del fondo que no afecta directamente su NAV pero es relevante para entender su liquidez. Score 2.88/5, en linea con AIRR -2.91- y por debajo de XME -2.94-. Rol Tactico/Especulativo, mejor estructura de riesgo que ITB/XHB pero peor momentum reciente - sin ganador limpio entre los tres, cada uno con un perfil de riesgo/retorno distinto dentro del mismo ecosistema de consumo ciclico ligado a vivienda."
+    "tesis": "REDUCIR/VENDER (evitar). XRT presenta el perfil de CONCENTRASIÓN MAS BAJO de cualquier ETF sectorial/temático angosto del proyecto -Top10 solo ~16.8%, gracias a 75 holdings equal-weight repartidos en siete sub-industrias distintas de retail-, Beta mas bajo -1.17- y Max Drawdown MENOS SEVERO -65.81-66.75%- que sus primos de vivienda XHB -81.7%- e ITB -86.53%-, ambos ya en el workbook, pese a compartir la MISMA ventana de Crisis 2008 -el retail general no estuvo tan en el epicentro de la crisis hipotecaria como las constructoras-. PERO el retorno realizado es notablemente INFERIOR: 10Y anualizado de solo 9.25% -vs 12.07-14.80% de ITB/XHB- y, mas preocupante, **retorno 5Y NEGATIVO -0.51%**, único caso entre los tres primos del ecosistema vivienda/retail. TER 0.35% igual a XHB, yield bajo 0.75-1.32%, tesis de apreciación de capital pura. Datos de AUM -rango $385-670M sin reconciliar- y volatilidad -6.5% vs 20.4% según fuente, discrepancia extrema- con calidad notablemente débil. Nota cualitativa distintiva: XRT es históricamente uno de los ETFs con mayor short interest del mercado -~600% en 2011, posiblemente aun vigente-, curiosidad estructural del mecanismo del fondo que no afecta directamente su NAV pero es relevante para entender su liquidez. Score 2.88/5, en línea con AIRR -2.91- y por debajo de XME -2.94-. Rol Táctico/Especulativo, mejor estructura de riesgo que ITB/XHB pero peor momentum reciente - sin ganador limpio entre los tres, cada uno con un perfil de riesgo/retorno distinto dentro del mismo ecosistema de consumo ciclico ligado a vivienda."
   }
 }

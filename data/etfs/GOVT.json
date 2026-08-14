@@ -1,36 +1,36 @@
 {
   "nombre": "iShares U.S. Treasury Bond ETF",
   "ticker": "GOVT",
-  "categoria": "Renta Fija Gobierno - Treasuries EEUU toda la curva (1-30 anios), duracion intermedia ~5.6 anios",
+  "categoria": "Renta Fija Gobierno - Treasuries EEUU toda la curva (1-30 años), duración intermedia ~5.6 años",
   "emisor": "BlackRock/iShares",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA, probablemente por muestreo dado que cubre TODA la curva de vencimientos del Tesoro (1-30 anios) - universo mas amplio que TLH (banda unica 10-20 anios) o VTIP (TIPS 0-5 anios).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA, probablemente por muestreo dado que cubre TODA la curva de vencimientos del Tesoro (1-30 años) - universo mas amplio que TLH (banda única 10-20 años) o VTIP (TIPS 0-5 años).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. 100% deuda soberana de EEUU - misma exencion de impuestos estatales/locales ya documentada con TLH/VTIP (el interes SI tributa como ingreso ordinario a nivel FEDERAL).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. 100% deuda soberana de EEUU - misma exención de impuestos estatales/locales ya documentada con TLH/VTIP (el interés SI tributa como ingreso ordinario a nivel FEDERAL).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM = $43.70bn (stockanalysis, 10-ago-2026) - **EL AUM MAS ALTO entre los ETFs de Treasuries PUROS del proyecto**, supera a TLH ($10.91bn) y a VTIP en base ETF ($19.34bn).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 14-feb-2012 (~14.5 anios) - similar vintage a VTIP (oct-2012), ambos entre los fondos de renta fija mas jovenes del proyecto. Sin cambio de mandato/indice.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 14-feb-2012 (~14.5 años) - similar vintage a VTIP (oct-2012), ambos entre los fondos de renta fija mas jovenes del proyecto. Sin cambio de mandato/índice.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - OCTAVA aparicion en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, HYG, TLH, ahora GOVT).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - OCTAVA aparición en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, HYG, TLH, ahora GOVT).",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.05% - barato, aunque algo mas caro que los fondos Vanguard del proyecto (0.03%), mucho mas barato que LQD/TLH (0.14-0.15%) - razonable para un fondo de Treasuries de banda amplia con 211 holdings.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion. **Gotcha de bloqueo de BlackRock/iShares.com RECONFIRMADO por CUARTA vez** (tras LQD, HYG y TLH): el fact sheet oficial (31-mar-2026, encontrado en la busqueda) devolvio error 403 en todos los intentos de acceso.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión. **Gotcha de bloqueo de BlackRock/iShares.com RECONFIRMADO por CUARTA vez** (tras LQD, HYG y TLH): el fact sheet oficial (31-mar-2026, encontrado en la busqueda) devolvio error 403 en todos los intentos de acceso.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion.",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover rate no verificado con fuente primaria esta sesion (fact sheet oficial bloqueado, mismo patron que la fila 19).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover rate no verificado con fuente primaria esta sesión (fact sheet oficial bloqueado, mismo patrón que la fila 19).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 6,509,288 acciones (stockanalysis) x $22.42/accion = aprox $145.9M/dia - modesto, similar en magnitud a VTIP/TLH, lejos de los records de LQD/HYG.",
+          "notas": "Volumen diario = 6,509,288 acciones (stockanalysis) x $22.42/acción = aprox $145.9M/dia - modesto, similar en magnitud a VTIP/TLH, lejos de los records de LQD/HYG.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesion.",
+          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,103 +89,103 @@
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "**211 holdings - EL NUMERO MAS ALTO entre los ETFs de Treasuries PUROS del proyecto** (supera a TLH 61 y VTIP 25) - reflejo directo de cubrir TODA la curva de vencimientos (1-30 anios) en vez de una banda estrecha.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "**211 holdings - EL NÚMERO MAS ALTO entre los ETFs de Treasuries PUROS del proyecto** (supera a TLH 61 y VTIP 25) - reflejo directo de cubrir TODA la curva de vencimientos (1-30 años) en vez de una banda estrecha.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 holdings no calculado con precision esta sesion, pero dado 211 holdings distribuidos a lo largo de toda la curva de vencimientos, razonablemente diversificado - mismo matiz metodologico ya establecido con TLH/VTIP: la concentracion en un unico emisor (Tesoro de EEUU) no representa el mismo riesgo que en renta fija corporativa.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 holdings no calculado con precisión esta sesión, pero dado 211 holdings distribuidos a lo largo de toda la curva de vencimientos, razonablemente diversificado - mismo matiz metodologico ya establecido con TLH/VTIP: la concentración en un único emisor (Tesoro de EEUU) no representa el mismo riesgo que en renta fija corporativa.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% Gobierno de EEUU, mismo perfil de maxima calidad y ausencia de concentracion sectorial tradicional ya documentado con TLH/VTIP.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% Gobierno de EEUU, mismo perfil de maxima calidad y ausencia de concentración sectorial tradicional ya documentado con TLH/VTIP.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% deuda soberana de EEUU - sin diversificacion geografica por diseno de la categoria, mismo perfil que TLH/VTIP.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% deuda soberana de EEUU - sin diversificación geográfica por diseño de la categoría, mismo perfil que TLH/VTIP.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es DURACION INTERMEDIA AMPLIA (5.56-5.68 anios efectiva, ago-2026) sobre TODA la banda de vencimientos del indice (1-30 anios) - a diferencia de TLH (banda estrecha fija 10-20 anios) y VTIP (TIPS de proteccion de inflacion), GOVT ofrece exposicion AGREGADA/CORE de 'un solo ticket' a toda la curva de Treasuries en un unico fondo.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es DURASIÓN INTERMEDIA AMPLIA (5.56-5.68 años efectiva, ago-2026) sobre TODA la banda de vencimientos del índice (1-30 años) - a diferencia de TLH (banda estrecha fija 10-20 años) y VTIP (TIPS de protección de inflación), GOVT ofrece exposición AGREGADA/CORE de 'un solo ticket' a toda la curva de Treasuries en un único fondo.",
           "calificacion": 5
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice ICE U.S. Treasury Core Bond Index - cubre TODA la curva del Tesoro (1-30 anios) de forma market-cap weighted, metodologia distinta a la banda fija del indice de TLH.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice ICE U.S. Treasury Core Bond Index - cubre TODA la curva del Tesoro (1-30 años) de forma market-cap weighted, metodología distinta a la banda fija del índice de TLH.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesion (fact sheet oficial bloqueado, mismo patron que fila 19).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesión (fact sheet oficial bloqueado, mismo patrón que fila 19).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.43
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = +1.53% (stockanalysis, ago-2026). Retorno desde inception (14.5 anios) = +1.20% anualizado - **BAJO en terminos absolutos**, aunque coherente con una exposicion pura de tasas sin ningun colchon de credito durante gran parte de un ciclo de alzas. Nota metodologica: GOVT (inception feb-2012) y TLH (inception ene-2007) cubren ventanas de tiempo distintas -TLH capturo el rally de Treasuries 2008-2011 que GOVT no vivio- por lo que sus retornos 'desde inception' no son directamente comparables sin ajustar por periodo.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = +1.53% (stockanalysis, ago-2026). Retorno desde inception (14.5 años) = +1.20% anualizado - **BAJO en términos absolutos**, aunque coherente con una exposición pura de tasas sin ningún colchon de crédito durante gran parte de un ciclo de alzas. Nota metodologica: GOVT (inception feb-2012) y TLH (inception ene-2007) cubren ventanas de tiempo distintas -TLH capturo el rally de Treasuries 2008-2011 que GOVT no vivio- por lo que sus retornos 'desde inception' no son directamente comparables sin ajustar por período.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "**Cifras de volatilidad DESCARTADAS por incoherencia interna**: 0.98%-1.16% (PortfoliosLab) son estadisticamente INCOMPATIBLES con el propio Max Drawdown del fondo (-19.07%, fila 41) - mismo criterio de coherencia ya aplicado a TLH/TMF/VTIP. Se deja en blanco en el Dashboard.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -19.07% desde inception (PortfoliosLab) - **encaja de forma coherente en la progresion de duracion ya establecida entre los Treasuries puros del proyecto**: VTIP -6.27% (2.3a) < GOVT -19.07% (5.6a) < LQD -24.95% (8a, con credito) < TLH -41.14% (12.2a) - nueva corroboracion del patron mecanico duracion-drawdown.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -19.07% desde inception (PortfoliosLab) - **encaja de forma coherente en la progresión de duración ya establecida entre los Treasuries puros del proyecto**: VTIP -6.27% (2.3a) < GOVT -19.07% (5.6a) < LQD -24.95% (8a, con crédito) < TLH -41.14% (12.2a) - nueva corroboración del patrón mecanico duración-drawdown.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "**Cifras de Sharpe inconsistentes (0.89 / 0.68 / 0.40 segun la comparacion de PortfoliosLab)** - mismo patron de gotcha ya documentado repetidamente en el proyecto. Se deja en blanco en el Dashboard.",
+          "notas": "**Cifras de Sharpe inconsistentes (0.89 / 0.68 / 0.40 según la comparación de PortfoliosLab)** - mismo patrón de gotcha ya documentado repetidamente en el proyecto. Se deja en blanco en el Dashboard.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.19 (stockanalysis) - **TERCERA CONFIRMACION CONSECUTIVA de la relacion duracion-beta entre los Treasuries PUROS del proyecto**: VTIP 0.09 (2.3 anios) < GOVT 0.19 (5.6 anios) < TLH 0.43 (12.2 anios) - progresion perfectamente monotona. Overlap con acciones individuales: NO APLICA (100% deuda soberana de EEUU).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.19 (stockanalysis) - **TERCERA CONFIRMASIÓN CONSECUTIVA de la relación duración-beta entre los Treasuries PUROS del proyecto**: VTIP 0.09 (2.3 años) < GOVT 0.19 (5.6 años) < TLH 0.43 (12.2 años) - progresión perfectamente monotona. Overlap con acciones individuales: NO APLICA (100% deuda soberana de EEUU).",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "14.5 anios de historial - cubre el taper tantrum 2013, la correccion COVID 2020, y el ciclo de alzas de tasas 2022-2026, PERO NO cubre la crisis financiera 2008 (a diferencia de TLH/LQD/HYG, todos con inception anterior a 2012).",
+          "notas": "14.5 años de historial - cubre el taper tantrum 2013, la corrección COVID 2020, y el ciclo de alzas de tasas 2022-2026, PERO NO cubre la crisis financiera 2008 (a diferencia de TLH/LQD/HYG, todos con inception anterior a 2012).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.83
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "No aplica - GOVT es un fondo 100% renta fija soberana, sin componente de equity (mismo criterio que el resto de renta fija del proyecto).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 3.66% (stockanalysis) - MENOR que TLH (4.62%) pese a tener duracion mas corta, posible reflejo de la forma actual de la curva de tasas en el tramo corto-intermedio. Distribucion MENSUAL (a diferencia de TLH/VTIP/HYG/TMF, todos trimestrales).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 3.66% (stockanalysis) - MENOR que TLH (4.62%) pese a tener duración mas corta, posible reflejo de la forma actual de la curva de tasas en el tramo corto-intermedio. Distribución MENSUAL (a diferencia de TLH/VTIP/HYG/TMF, todos trimestrales).",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "Duracion efectiva = 5.56-5.68 anios (ago-2026, fuente reciente) - posicion INTERMEDIA entre VTIP/VCSH (~2.3-2.4 anios) y LQD (8 anios)/TLH (12.2 anios) - el punto medio de la escalera de duracion del proyecto en renta fija de gobierno. Vencimiento promedio ~8 anios. Calidad crediticia: 100% Gobierno de EEUU (maxima calidad, mismo nivel que TLH/VTIP), aunque sin desglose exacto verificado con fuente primaria esta sesion (fact sheet bloqueado).",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "Duración efectiva = 5.56-5.68 años (ago-2026, fuente reciente) - posición INTERMEDIA entre VTIP/VCSH (~2.3-2.4 años) y LQD (8 años)/TLH (12.2 años) - el punto medio de la escalera de duración del proyecto en renta fija de gobierno. Vencimiento promedio ~8 años. Calidad crediticia: 100% Gobierno de EEUU (maxima calidad, mismo nivel que TLH/VTIP), aunque sin desglose exacto verificado con fuente primaria esta sesión (fact sheet bloqueado).",
           "calificacion": 4
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion cualitativa con TLH (mismo emisor BlackRock/iShares, pero indice distinto: ICE U.S. Treasury CORE Bond Index de GOVT vs ICE U.S. Treasury 10-20 Year Bond Index de TLH) - GOVT es la alternativa de 'un solo ticket para toda la curva', TLH es una apuesta especifica de duracion larga. Sin percentil de valoracion especifico de tasas verificado esta sesion (mismo limitante ya documentado con TLH). Competidores identificados: BND/AGG (agregados que incluyen credito, no solo gobierno), SCHR (Schwab Intermediate Treasury).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación cualitativa con TLH (mismo emisor BlackRock/iShares, pero índice distinto: ICE U.S. Treasury CORE Bond Index de GOVT vs ICE U.S. Treasury 10-20 Year Bond Index de TLH) - GOVT es la alternativa de 'un solo ticket para toda la curva', TLH es una apuesta específica de duración larga. Sin percentil de valoración específico de tasas verificado esta sesión (mismo limitante ya documentado con TLH). Competidores identificados: BND/AGG (agregados que incluyen crédito, no solo gobierno), SCHR (Schwab Intermediate Treasury).",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Exposicion CORE/AGREGADA a Treasuries de toda la curva, sin apuesta especifica de duracion - perfil de riesgo intermedio entre el ballast minimo de VTIP/VCSH y la apuesta extrema de TLH. Se clasifica como **'Cobertura'** (cuarta vez que se usa esta categoria en el proyecto, junto a VCSH, TLH y VTIP) - funcion de diversificador de credito puro (100% soberano) con perfil de riesgo/duracion mas moderado que TLH.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Exposición CORE/AGREGADA a Treasuries de toda la curva, sin apuesta específica de duración - perfil de riesgo intermedio entre el ballast mínimo de VTIP/VCSH y la apuesta extrema de TLH. Se clasifica como **'Cobertura'** (cuarta vez que se usa esta categoría en el proyecto, junto a VCSH, TLH y VTIP) - función de diversificador de crédito puro (100% soberano) con perfil de riesgo/duración mas moderado que TLH.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion de 'un solo ticket' a toda la curva de Treasuries de EEUU, mas diversificada que TLH pero con un perfil de riesgo/retorno menos extremo en ambas direcciones (ni el drawdown severo de TLH ni la proteccion de inflacion de VTIP) - funcion mas de utilidad generica/core que de apuesta especifica de duracion o inflacion.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición de 'un solo ticket' a toda la curva de Treasuries de EEUU, mas diversificada que TLH pero con un perfil de riesgo/retorno menos extremo en ambas direcciones (ni el drawdown severo de TLH ni la protección de inflación de VTIP) - función mas de utilidad generica/core que de apuesta específica de duración o inflación.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo de tasa de interes moderado (duracion 5.6 anios, menor que TLH pero mayor que VCSH/VTIP); (2) retorno historico bajo (1.20% anualizado desde inception, aunque el periodo cubierto no es directamente comparable a otros fondos del proyecto por distinta fecha de inicio); (3) TER algo mas caro que los fondos Vanguard equivalentes de duracion similar; (4) tributacion como ingreso ordinario federal (exento de estatales/locales, ver fila 12).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de tasa de interés moderado (duración 5.6 años, menor que TLH pero mayor que VCSH/VTIP); (2) retorno histórico bajo (1.20% anualizado desde inception, aunque el período cubierto no es directamente comparable a otros fondos del proyecto por distinta fecha de inicio); (3) TER algo mas caro que los fondos Vanguard equivalentes de duración similar; (4) tributación como ingreso ordinario federal (exento de estatales/locales, ver fila 12).",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "TLH (mismo emisor, banda de duracion especifica 10-20 anios en vez de toda la curva), BND/AGG (agregados que incluyen credito corporativo ademas de gobierno) y SCHR (Schwab Intermediate Treasury) identificados como alternativas, sin comparacion con datos propios verificados esta sesion.",
+          "notas": "TLH (mismo emisor, banda de duración específica 10-20 años en vez de toda la curva), BND/AGG (agregados que incluyen crédito corporativo además de gobierno) y SCHR (Schwab Intermediate Treasury) identificados como alternativas, sin comparación con datos propios verificados esta sesión.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.70/5 - solido, resultado de una calidad estructural fuerte (AUM mas alto entre los Treasuries puros del proyecto, 211 holdings - la mayor diversificacion interna de esta subcategoria, TER razonable 0.05%, maxima calidad crediticia 100% Gobierno EEUU, tercera confirmacion consecutiva de la relacion duracion-beta ya establecida con VTIP/TLH) combinada con un perfil de retorno historico modesto (1.20% anualizado desde inception, aunque no directamente comparable a TLH por cubrir una ventana de tiempo distinta que no incluyo el rally de Treasuries 2008-2011). A diferencia de TLH (Decision ESPERAR MEJOR ENTRADA, duracion 12.2 anios, exposicion PURA y SIN AMORTIGUADOR al riesgo de tasas largas), GOVT tiene una duracion notablemente MENOR (5.6 anios) que reduce la urgencia de esperar un mejor punto de entrada - el riesgo de tasas de interes sigue presente pero es estructuralmente mas moderado. Ademas, GOVT no es simplemente 'TLH pero mas grande': cubre un indice y mandato genuinamente distintos (toda la curva 1-30 anios vs la banda fija 10-20 anios de TLH), por lo que no se trata como redundante frente a TLH ya en el workbook. Rol en Portafolio: 'Cobertura' - diversificador de credito puro (100% soberano) con perfil de riesgo/duracion intermedio, distinto tanto del ballast de baja volatilidad de VTIP/VCSH como de la apuesta extrema de duracion de TLH."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.70/5 - sólido, resultado de una calidad estructural fuerte (AUM mas alto entre los Treasuries puros del proyecto, 211 holdings - la mayor diversificación interna de esta subcategoria, TER razonable 0.05%, maxima calidad crediticia 100% Gobierno EEUU, tercera confirmación consecutiva de la relación duración-beta ya establecida con VTIP/TLH) combinada con un perfil de retorno histórico modesto (1.20% anualizado desde inception, aunque no directamente comparable a TLH por cubrir una ventana de tiempo distinta que no incluyo el rally de Treasuries 2008-2011). A diferencia de TLH (Decisión ESPERAR MEJOR ENTRADA, duración 12.2 años, exposición PURA y SIN AMORTIGUADOR al riesgo de tasas largas), GOVT tiene una duración notablemente MENOR (5.6 años) que reduce la urgencia de esperar un mejor punto de entrada - el riesgo de tasas de interés sigue presente pero es estructuralmente mas moderado. Además, GOVT no es simplemente 'TLH pero mas grande': cubre un índice y mandato genuinamente distintos (toda la curva 1-30 años vs la banda fija 10-20 años de TLH), por lo que no se trata como redundante frente a TLH ya en el workbook. Rol en Portafolio: 'Cobertura' - diversificador de crédito puro (100% soberano) con perfil de riesgo/duración intermedio, distinto tanto del ballast de baja volatilidad de VTIP/VCSH como de la apuesta extrema de duración de TLH."
   }
 }

@@ -1,35 +1,35 @@
 {
   "nombre": "Direxion Daily Energy Bull 2X Shares",
   "ticker": "ERX",
-  "categoria": "Equity Sector Apalancado/Inverso (+2x diario sobre el S&P Energy Select Sector Index -EL MISMO indice que XLE, ya en el workbook, replica a 1x-, Direxion, PRIMERA combinacion apalancado+sector-equity individual del proyecto -distinta de apalancado+indice amplio como SSO/SPXL y de apalancado+commodity-futuros como UCO/SCO-, ORIGINALMENTE +3x hasta que Direxion redujo el apalancamiento a +2x el 31-mar-2020, apenas ~3 semanas ANTES del evento de precio NEGATIVO del WTI de abril-2020)",
+  "categoria": "Equity Sector Apalancado/Inverso (+2x diario sobre el S&P Energy Select Sector Index -EL MISMO índice que XLE, ya en el workbook, réplica a 1x-, Direxion, PRIMERA combinación apalancado+sector-equity individual del proyecto -distinta de apalancado+índice amplio como SSO/SPXL y de apalancado+commodity-futuros como UCO/SCO-, ORIGINALMENTE +3x hasta que Direxion redujo el apalancamiento a +2x el 31-mar-2020, apenas ~3 semanas ANTES del evento de precio NEGATIVO del WTI de abril-2020)",
   "emisor": "Direxion",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Estructura HIBRIDA -mismo patron que SPXL, ya en el workbook-: acciones fisicas directas -Exxon XOM 14.88%, Chevron CVX 10.77%, ConocoPhillips COP 4.34%, Marathon Petroleum MPC 3.55%, Phillips 66 PSX 3.49%, Valero VLO 3.42%- + posiciones de swap -'Energy Select Sector Index Swap', 7.63%+4.06%- + colateral de efectivo/money-market -Dreyfus Govt Cash Mgmt 21.41%, Goldman FS Treasury 6.96%-. Sin bancos de contraparte nombrados en las fuentes consultadas esta sesion.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Estructura HIBRIDA -mismo patrón que SPXL, ya en el workbook-: acciones físicas directas -Exxon XOM 14.88%, Chevron CVX 10.77%, ConocoPhillips COP 4.34%, Marathon Petroleum MPC 3.55%, Phillips 66 PSX 3.49%, Valero VLO 3.42%- + posiciones de swap -'Energy Select Sector Index Swap', 7.63%+4.06%- + colateral de efectivo/money-market -Dreyfus Govt Cash Mgmt 21.41%, Goldman FS Treasury 6.96%-. Sin bancos de contraparte nombrados en las fuentes consultadas esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, Direxion Shares ETF Trust. **CONFIRMADO: emite 1099, NO K-1** -igual que SPXL/QQQ ya en el workbook, a diferencia de la linea apalancada de ProShares -UCO/SCO/SSO/etc- que emite K-1-.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, Direxion Shares ETF Trust. **CONFIRMADO: emite 1099, NO K-1** -igual que SPXL/QQQ ya en el workbook, a diferencia de la línea apalancada de ProShares -UCO/SCO/SSO/etc- que emite K-1-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM solo ~$225-233M - pequeno/de nicho, mucho menor que los fondos apalancados flagship del proyecto -SSO $8.31bn, SPXL $7.38bn-.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM solo ~$225-233M - pequeño/de nicho, mucho menor que los fondos apalancados flagship del proyecto -SSO $8.31bn, SPXL $7.38bn-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 6-nov-2008 (~17.77 anios) - **CASI LA MISMA SEMANA que SPXL -5-nov-2008-, ya en el workbook**, nace dentro de la Crisis Financiera 2008. Cubre ademas el crash petrolero 2015-16, COVID/WTI negativo abril-2020, y el rally energetico 2022 -Rusia-Ucrania-.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 6-nov-2008 (~17.77 años) - **CASI LA MISMA SEMANA que SPXL -5-nov-2008-, ya en el workbook**, nace dentro de la Crisis Financiera 2008. Cubre además el crash petrolero 2015-16, COVID/WTI negativo abril-2020, y el rally energetico 2022 -Rusia-Ucrania-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor Direxion, especialista establecido en ETFs apalancados/inversos, ya documentado en el proyecto via TMF y SPXL.",
           "calificacion": 4
         }
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.91% - caro, banda estandar de la categoria apalancada -similar al 0.95% estandar de ProShares-.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.91% - caro, banda estándar de la categoría apalancada -similar al 0.95% estándar de ProShares-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Reset diario a +2x de un indice bien definido -el mismo de XLE-, tracking al objetivo diario razonable, PERO **el propio OBJETIVO DE APALANCAMIENTO cambio** -3x a 2x en 2020-, una inestabilidad metodologica real, no solo una curiosidad historica.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Reset diario a +2x de un índice bien definido -el mismo de XLE-, tracking al objetivo diario razonable, PERO **el propio OBJETIVO DE APALANCAMIENTO cambio** -3x a 2x en 2020-, una inestabilidad metodologica real, no solo una curiosidad histórica.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Estructura hibrida con sleeve de colateral en efectivo/money-market - revenue especifico de lending no verificado esta sesion.",
+          "notas": "Estructura hibrida con sleeve de colateral en efectivo/money-market - revenue específico de lending no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rebalanceo DIARIO para mantener el objetivo +2x - mismo mecanismo de costo de reseteo diario del resto de la categoria apalancada.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo DIARIO para mantener el objetivo +2x - mismo mecanismo de costo de reseteo diario del resto de la categoría apalancada.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~104,121 acciones/dia -stockanalysis.com-, cifra en dolares con CONFLICTO de fuente -~$10.2M/dia calculado directamente vs ~$34.4M/dia reportado por otra fuente-, en cualquier caso liquidez delgada/de nicho, notablemente menor que SSO/SPXL/SQQQ.",
+          "notas": "Volumen ~104,121 acciones/dia -stockanalysis.com-, cifra en dólares con CONFLICTO de fuente -~$10.2M/dia calculado directamente vs ~$34.4M/dia reportado por otra fuente-, en cualquier caso liquidez delgada/de nicho, notablemente menor que SSO/SPXL/SQQQ.",
           "calificacion": 2
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread no encontrado en fuentes accesibles esta sesion - vacio de dato.",
+          "notas": "Spread no encontrado en fuentes accesibles esta sesión - vacio de dato.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no encontrado en fuentes accesibles esta sesion - vacio de dato.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no encontrado en fuentes accesibles esta sesión - vacio de dato.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 2.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "35 holdings -incl. sleeves de swap y colateral- - concentrado por diseno.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "35 holdings -incl. sleeves de swap y colateral- - concentrado por diseño.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
+          "aspecto": "Concentración Top 10 holdings (%)",
           "notas": "Top 10 = 79.8-80.52% del NAV - MUY concentrado.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% sector Energia por diseno -replica el mismo indice de XLE a 2x-, misma concentracion sectorial extrema que cualquier producto energetico apalancado, amplificada.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% sector Energía por diseño -réplica el mismo índice de XLE a 2x-, misma concentración sectorial extrema que cualquier producto energetico apalancado, amplificada.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "US listado, aunque XOM/CVX tienen operaciones globales masivas.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "**+2x diario sobre un SECTOR EQUITY individual -Energia-** - PRIMERA combinacion de este tipo en el proyecto -distinta de apalancado+indice amplio -SSO/SPXL/UDOW- y de apalancado+commodity-futuros -UCO/SCO-.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "**+2x diario sobre un SECTOR EQUITY individual -Energía-** - PRIMERA combinación de este tipo en el proyecto -distinta de apalancado+índice amplio -SSO/SPXL/UDOW- y de apalancado+commodity-futuros -UCO/SCO-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "S&P Energy Select Sector Index - **EL MISMO indice exacto que XLE, ya en el workbook, replica a 1x** - metodologia GICS bien definida en su base, PERO el objetivo de apalancamiento en si PROBO SER INESTABLE -ver fila 44-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "S&P Energy Select Sector Index - **EL MISMO índice exacto que XLE, ya en el workbook, réplica a 1x** - metodología GICS bien definida en su base, PERO el objetivo de apalancamiento en si PROBO SER INESTABLE -ver fila 44-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo DIARIO para mantener +2x - mismo mecanismo de decay compuesto de toda la categoria apalancada.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo DIARIO para mantener +2x - mismo mecanismo de decay compuesto de toda la categoría apalancada.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno reciente CONFLICTIVO entre fuentes pero fuerte en cualquier caso -1Y +50.49% a +99.49%, 3Y anualizado +17.3%, 5Y anualizado +35.7%, todo impulsado por el rally energetico 2025-2026-. PERO **desde inception -17.77 anios- el CAGR es NEGATIVO: -6.99% a -8.01%** - pese a la fortaleza reciente, confirma la destruccion de valor de largo plazo del decay compuesto sobre un sector de commodities volatil.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno reciente CONFLICTIVO entre fuentes pero fuerte en cualquier caso -1Y +50.49% a +99.49%, 3Y anualizado +17.3%, 5Y anualizado +35.7%, todo impulsado por el rally energetico 2025-2026-. PERO **desde inception -17.77 años- el CAGR es NEGATIVO: -6.99% a -8.01%** - pese a la fortaleza reciente, confirma la destrucción de valor de largo plazo del decay compuesto sobre un sector de commodities volatil.",
           "calificacion": 1
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Rango 52 semanas $50.16-$110.78 (**ratio 2.21x**) - **POR MUCHO el ratio de volatilidad mas alto de TODO el cluster reciente del proyecto** -supera a XME 1.774x, AIRR 1.54x, y a cualquier otro fondo analizado en esta sesion extendida-.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Rango 52 semanas $50.16-$110.78 (**ratio 2.21x**) - **POR MUCHO el ratio de volatilidad mas alto de TODO el cluster reciente del proyecto** -supera a XME 1.774x, AIRR 1.54x, y a cualquier otro fondo analizado en esta sesión extendida-.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown -99.5% a -99.54% desde inception** - **PRACTICAMENTE DESTRUCCION TOTAL DE VALOR**, uno de los PEORES drawdowns verificados de TODO EL PROYECTO -supera a TMF -92.74%, el record previo, y a QQQ -82.97% dot-com-. Impulsado por el crash petrolero 2015-16 Y el crash COVID/WTI negativo de abril-2020 mientras el fondo AUN operaba a apalancamiento 3x -ver fila 44 para el detalle critico-.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown -99.5% a -99.54% desde inception** - **PRÁCTICAMENTE DESTRUCSIÓN TOTAL DE VALOR**, uno de los PEORES drawdowns verificados de TODO EL PROYECTO -supera a TMF -92.74%, el récord previo, y a QQQ -82.97% dot-com-. Impulsado por el crash petrolero 2015-16 Y el crash COVID/WTI negativo de abril-2020 mientras el fondo AUN operaba a apalancamiento 3x -ver fila 44 para el detalle critico-.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe con CONFLICTO SEVERO de fuente -0.29 vs 2.24-2.35 segun ventana/fuente- - vacio/incertidumbre real de dato.",
+          "notas": "Sharpe con CONFLICTO SEVERO de fuente -0.29 vs 2.24-2.35 según ventana/fuente- - vacio/incertidumbre real de dato.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta con CONFLICTO de fuente -0.85 vs -0.14, esta ultima cifra atipica probablemente refleja un problema de metodologia/periodo- - incertidumbre real de dato.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta con CONFLICTO de fuente -0.85 vs -0.14, esta última cifra atipica probablemente refleja un problema de metodología/período- - incertidumbre real de dato.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**HALLAZGO CRITICO**: ERX -y su espejo ERY- nacieron como fondos **+3x** en 2008. Direxion ACELERO una reduccion de apalancamiento planeada de 3x a 2x, efectiva al cierre del **31-mar-2020**, citando explicitamente 'un aumento sin precedentes en la volatilidad del mercado' por COVID-19 - **APENAS ~3 SEMANAS ANTES del evento de precio NEGATIVO del WTI del 20-abril-2020**, el evento mas extremo en la historia del mercado petrolero. Esto significa que ERX/ERY absorbieron LO PEOR del crash petrolero 2020 **TODAVIA A 3X DE APALANCAMIENTO**, con la reduccion a 2x llegando DEMASIADO TARDE para evitar el grueso del dano - un caso de estudio genuino y bien documentado de gestion de riesgo REACTIVA del emisor que no logro proteger completamente a los inversores de un evento de cola extremo.",
+          "notas": "**HALLAZGO CRITICO**: ERX -y su espejo ERY- nacieron como fondos **+3x** en 2008. Direxion ACELERO una reducción de apalancamiento planeada de 3x a 2x, efectiva al cierre del **31-mar-2020**, citando explícitamente 'un aumento sin precedentes en la volatilidad del mercado' por COVID-19 - **APENAS ~3 SEMANAS ANTES del evento de precio NEGATIVO del WTI del 20-abril-2020**, el evento mas extremo en la historia del mercado petrolero. Esto significa que ERX/ERY absorbieron LO PEOR del crash petrolero 2020 **TODAVÍA A 3X DE APALANCAMIENTO**, con la reducción a 2x llegando DEMASIADO TARDE para evitar el grueso del dano - un caso de estudio genuino y bien documentado de gestion de riesgo REACTIVA del emisor que no logro proteger completamente a los inversores de un evento de cola extremo.",
           "calificacion": 1
         }
       ],
       "rating_promedio": 1.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield 1.43-1.49% TTM, trimestral + distribucion anual de ganancias de capital - modesto para un producto apalancado, refleja el pass-through parcial de los dividendos reales de XOM/CVX.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield 1.43-1.49% TTM, trimestral + distribución anual de ganancias de capital - modesto para un producto apalancado, refleja el pass-through parcial de los dividendos reales de XOM/CVX.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**LA COMPARACION DE COSTO DE APALANCAMIENTO MAS LIMPIA de la categoria sector-equity del proyecto**: ERX +2x replica EXACTAMENTE el mismo indice que XLE -ya en el workbook, Score 3.85, uno de los mejores del proyecto- a 1x. El CONTRASTE es total: XLE tiene un historial largo y solido -Score 3.85-, mientras ERX sobre el MISMO indice subyacente produjo un CAGR NEGATIVO desde inception -6.99% a -8.01%- y un Max Drawdown de PRACTICAMENTE -100%-, la ilustracion mas potente del proyecto de que el apalancamiento diario destruye valor incluso sobre un sector de alta calidad como Energia. ERY -el espejo -2x, mismo emisor/indice/fecha de inception- existe pero no esta analizado.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**LA COMPARASIÓN DE COSTO DE APALANCAMIENTO MAS LIMPIA de la categoría sector-equity del proyecto**: ERX +2x réplica EXACTAMENTE el mismo índice que XLE -ya en el workbook, Score 3.85, uno de los mejores del proyecto- a 1x. El CONTRASTE es total: XLE tiene un historial largo y sólido -Score 3.85-, mientras ERX sobre el MISMO índice subyacente produjo un CAGR NEGATIVO desde inception -6.99% a -8.01%- y un Max Drawdown de PRÁCTICAMENTE -100%-, la ilustración mas potente del proyecto de que el apalancamiento diario destruye valor incluso sobre un sector de alta calidad como Energía. ERY -el espejo -2x, mismo emisor/índice/fecha de inception- existe pero no esta analizado.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO - misma politica categorica que el resto de la linea apalancada del proyecto, reforzada aun mas por el drawdown historico catastrofico.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: TÁCTICO/ESPECULATIVO DE MUY CORTO PLAZO - misma política categorica que el resto de la línea apalancada del proyecto, reforzada aun mas por el drawdown histórico catastrofico.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: vehiculo puro de trading direccional/apalancado de muy corto plazo sobre acciones del sector energetico; el retorno excepcional reciente -1-5Y- refleja un rally ciclico energetico genuino, PERO la destruccion de valor historica -practicamente -100%- y el CAGR negativo desde inception hacen un caso inequivoco en contra de cualquier uso buy-and-hold.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: vehículo puro de trading direccional/apalancado de muy corto plazo sobre acciones del sector energetico; el retorno excepcional reciente -1-5Y- refleja un rally ciclico energetico genuino, PERO la destrucción de valor histórica -prácticamente -100%- y el CAGR negativo desde inception hacen un caso inequivoco en contra de cualquier uso buy-and-hold.",
           "calificacion": 1
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) Max Drawdown de -99.5% a -99.54%, **UNO DE LOS PEORES DE TODO EL PROYECTO**, practicamente destruccion total de valor; (2) CAGR desde inception NEGATIVO -6.99% a -8.01%- en 17.77 anios pese al rally reciente; (3) el objetivo de apalancamiento en si PROBO SER INESTABLE -reduccion 3x a 2x en 2020, reactiva a un evento extremo que llego semanas despues-; (4) ratio de volatilidad 52 semanas de 2.21x, el mas alto del cluster reciente del proyecto; (5) estructura hibrida swap/equity conlleva riesgo de contraparte parcial; (6) mecanismo de decay por reseteo diario compone todo lo anterior.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) Max Drawdown de -99.5% a -99.54%, **UNO DE LOS PEORES DE TODO EL PROYECTO**, prácticamente destrucción total de valor; (2) CAGR desde inception NEGATIVO -6.99% a -8.01%- en 17.77 años pese al rally reciente; (3) el objetivo de apalancamiento en si PROBO SER INESTABLE -reducción 3x a 2x en 2020, reactiva a un evento extremo que llego semanas después-; (4) ratio de volatilidad 52 semanas de 2.21x, el mas alto del cluster reciente del proyecto; (5) estructura hibrida swap/equity conlleva riesgo de contraparte parcial; (6) mecanismo de decay por reseteo diario compone todo lo anterior.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "XLE -ya en el workbook, Score 3.85, la version 1x SIN apalancar del MISMO indice exacto, alternativa limpia y dramaticamente superior- es la comparacion mas directa del proyecto. ERY -el espejo -2x, mismo emisor/indice/fecha de inception, no analizado- completaria el par.",
+          "notas": "XLE -ya en el workbook, Score 3.85, la versión 1x SIN apalancar del MISMO índice exacto, alternativa limpia y dramaticamente superior- es la comparación mas directa del proyecto. ERY -el espejo -2x, mismo emisor/índice/fecha de inception, no analizado- completaria el par.",
           "calificacion": 5
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "NO APTO - Instrumento tactico/especulativo, no portafolio. Score 2.38/5, entre los mas bajos de la categoria apalancada/inversa del proyecto, cerca del minimo -ZSL 2.30-. Direxion Daily Energy Bull 2X Shares, +2x diario sobre el S&P Energy Select Sector Index - **EL MISMO indice exacto que XLE, ya en el workbook, Score 3.85, uno de los mejores fondos del proyecto**. **HALLAZGO CRITICO**: ERX nacio como fondo +3x en 2008; Direxion REDUJO el apalancamiento a +2x efectivo el 31-mar-2020, citando la volatilidad de COVID-19 - **APENAS ~3 SEMANAS ANTES del evento de precio NEGATIVO del WTI del 20-abril-2020**, el mas extremo en la historia del mercado petrolero, lo que significa que el fondo absorbio lo PEOR de ese crash TODAVIA A 3X DE APALANCAMIENTO. Esto contribuyo directamente a un **Max Drawdown de -99.5% a -99.54% desde inception - PRACTICAMENTE DESTRUCCION TOTAL DE VALOR, uno de los PEORES drawdowns de TODO EL PROYECTO**, supera incluso a TMF -92.74%- y a QQQ -82.97% dot-com-. Rango 52 semanas ratio **2.21x, POR MUCHO el mas alto de todo el cluster reciente del proyecto**. El retorno reciente es CONFLICTIVO pero fuerte -1Y +50% a +99% segun fuente, impulsado por el rally energetico 2025-2026-, PERO **el CAGR desde inception es NEGATIVO -6.99% a -8.01%- en 17.77 anios**, la destruccion de valor de largo plazo pese a la fortaleza reciente. TER 0.91%, estructura HIBRIDA -fisica+swap, mismo patron que SPXL-, emite 1099 -no K-1, igual que SPXL/QQQ-. Es la comparacion de costo de apalancamiento mas limpia del proyecto en la categoria sector-equity: XLE -1x, Score 3.85- vs ERX -2x, Score 2.38- sobre el MISMO indice exacto - ilustracion potente de que el apalancamiento diario destruye valor incluso sobre un sector de alta calidad. Rol en Portafolio: Tactico/Especulativo de muy corto plazo, NUNCA Core ni Satelite. ERY -espejo -2x, mismo emisor, no analizado- completaria el par."
+    "tesis": "NO APTO - Instrumento táctico/especulativo, no portafolio. Score 2.38/5, entre los mas bajos de la categoría apalancada/inversa del proyecto, cerca del mínimo -ZSL 2.30-. Direxion Daily Energy Bull 2X Shares, +2x diario sobre el S&P Energy Select Sector Index - **EL MISMO índice exacto que XLE, ya en el workbook, Score 3.85, uno de los mejores fondos del proyecto**. **HALLAZGO CRITICO**: ERX nacio como fondo +3x en 2008; Direxion REDUJO el apalancamiento a +2x efectivo el 31-mar-2020, citando la volatilidad de COVID-19 - **APENAS ~3 SEMANAS ANTES del evento de precio NEGATIVO del WTI del 20-abril-2020**, el mas extremo en la historia del mercado petrolero, lo que significa que el fondo absorbio lo PEOR de ese crash TODAVÍA A 3X DE APALANCAMIENTO. Esto contribuyo directamente a un **Max Drawdown de -99.5% a -99.54% desde inception - PRÁCTICAMENTE DESTRUCSIÓN TOTAL DE VALOR, uno de los PEORES drawdowns de TODO EL PROYECTO**, supera incluso a TMF -92.74%- y a QQQ -82.97% dot-com-. Rango 52 semanas ratio **2.21x, POR MUCHO el mas alto de todo el cluster reciente del proyecto**. El retorno reciente es CONFLICTIVO pero fuerte -1Y +50% a +99% según fuente, impulsado por el rally energetico 2025-2026-, PERO **el CAGR desde inception es NEGATIVO -6.99% a -8.01%- en 17.77 años**, la destrucción de valor de largo plazo pese a la fortaleza reciente. TER 0.91%, estructura HIBRIDA -física+swap, mismo patrón que SPXL-, emite 1099 -no K-1, igual que SPXL/QQQ-. Es la comparación de costo de apalancamiento mas limpia del proyecto en la categoría sector-equity: XLE -1x, Score 3.85- vs ERX -2x, Score 2.38- sobre el MISMO índice exacto - ilustración potente de que el apalancamiento diario destruye valor incluso sobre un sector de alta calidad. Rol en Portafolio: Táctico/Especulativo de muy corto plazo, NUNCA Core ni Satélite. ERY -espejo -2x, mismo emisor, no analizado- completaria el par."
   }
 }

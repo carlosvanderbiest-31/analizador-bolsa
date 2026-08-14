@@ -1,7 +1,7 @@
 {
   "empresa": "Merck and Co Inc",
   "ticker": "MRK",
-  "sector": "Salud - Farmaceutica de gran capitalizacion",
+  "sector": "Salud - Farmacéutica de gran capitalización",
   "fecha_analisis": "2026-08-06",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Pharmaceuticals ~87%: Keytruda ~48% ingresos totales (31.7B en 2025, pico estimado 35B en 2028), Gardasil (HPV, deterioro China 2024-25), Winrevair (HAP, nuevo 2024), Januvia-Janumet (diabetes, genericos ya compiten), Lagevrio (COVID, bajo). Animal Health ~13%. Concentracion extrema en Keytruda. FCF TTM 14.12B.",
+          "notas": "Pharmaceuticals ~87%: Keytruda ~48% ingresos totales (31.7B en 2025, pico estimado 35B en 2028), Gardasil (HPV, deterioro China 2024-25), Winrevair (HAP, nuevo 2024), Januvia-Janumet (diabetes, genericos ya compiten), Lagevrio (COVID, bajo). Animal Health ~13%. Concentración extrema en Keytruda. FCF TTM 14.12B.",
           "calificacion": 3
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat de patentes: compuesto Keytruda expira dic-2028 EE.UU., EU hasta 2030-31. 40 indicaciones oncologicas aprobadas (datos clinicos muy dificiles de replicar). Keytruda SC formulacion subcutanea con patentes independientes hasta 2031+. R&D a escala. Moat en deterioro estructural: biosimilares entraran 2028-2030.",
+          "notas": "Moat de patentes: compuesto Keytruda expira dic-2028 EE.UU., EU hasta 2030-31. 40 indicaciones oncologicas aprobadas (datos clinicos muy difíciles de replicar). Keytruda SC formulación subcutanea con patentes independientes hasta 2031+. R&D a escala. Moat en deterioro estructural: biosimilares entraran 2028-2030.",
           "calificacion": 3
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "N1 oncologia global, lider PD-1. Pipeline: Winrevair aprobado 2024 HAP (pico 3-4B), MK-7684a combo onco (datos 2026-27), Terns GLP-1 NASH (cierre Q3 2026). Competidores: BMS Opdivo, Roche Tecentriq, J&J. Cuota dominante hoy, vulnerable post-2028 por biosimilares.",
+          "notas": "N1 oncologia global, líder PD-1. Pipeline: Winrevair aprobado 2024 HAP (pico 3-4B), MK-7684a combo onco (datos 2026-27), Terns GLP-1 NASH (cierre Q3 2026). Competidores: BMS Opdivo, Roche Tecentriq, J&J. Cuota dominante hoy, vulnerable post-2028 por biosimilares.",
           "calificacion": 3
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Poder de precio muy alto en branded (Keytruda ~200k por paciente-anio). IRA: CMS negocia precio Keytruda Medicare, reduccion hasta 66% para 2026-27. Gardasil sufrio presion en China. Tendencia estructural de menor poder de precio por reforma regulatoria.",
+          "notas": "Poder de precio muy alto en branded (Keytruda ~200k por paciente-año). IRA: CMS negocia precio Keytruda Medicare, reducción hasta 66% para 2026-27. Gardasil sufrio presión en China. Tendencia estructural de menor poder de precio por reforma regulatoria.",
           "calificacion": 3
         }
       ],
@@ -41,17 +41,17 @@
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Compensacion ejecutiva estandar de gran farmaceutica. CEO Robert Davis desde 2021, piel en el juego modesta. Insider ownership muy bajo (0.18%). Sin red flags de conflictos de interes relevantes.",
+          "notas": "Compensación ejecutiva estándar de gran farmacéutica. CEO Robert Davis desde 2021, piel en el juego modesta. Insider ownership muy bajo (0.18%). Sin red flags de conflictos de interés relevantes.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Estructura de una sola clase de acciones. Sin doble voto. Gobierno corporativo estandar S&P 500: comites de compensacion y auditoria independientes. Positivo frente a empresas con control de fundador.",
+          "notas": "Estructura de una sola clase de acciones. Sin doble voto. Gobierno corporativo estándar S&P 500: comites de compensación y auditoria independientes. Positivo frente a empresas con control de fundador.",
           "calificacion": 4
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Reportes trimestrales detallados con guidance anual. Comunicacion proactiva sobre cliff Keytruda y pipeline. Mas de 25 analistas sell-side. Guidance 2026: ingresos 65.5-67B (crecimiento 1-2%). Cargos IPR&D explicados claramente.",
+          "notas": "Reportes trimestrales detallados con guidance anual. Comunicación proactiva sobre cliff Keytruda y pipeline. Mas de 25 analistas sell-side. Guidance 2026: ingresos 65.5-67B (crecimiento 1-2%). Cargos IPR&D explicados claramente.",
           "calificacion": 4
         }
       ],
@@ -67,17 +67,17 @@
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.30. Caja 5.3B bajo (cayo de 14.6B en dic-2025 por M&A intensivo en Q1 2026). Liquidez funcional pero ajustada dado el pipeline de adquisiciones activo. Linea de credito 6B para Terns. Prueba acida probablemente cerca de 1x.",
+          "notas": "Razón corriente 1.30. Caja 5.3B bajo (cayo de 14.6B en dic-2025 por M&A intensivo en Q1 2026). Liquidez funcional pero ajustada dado el pipeline de adquisiciones activo. Línea de crédito 6B para Terns. Prueba acida probablemente cerca de 1x.",
           "calificacion": 2
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Deuda 49.1B a largo plazo mas prestamo 6B a 364 dias para Terns (riesgo refinanciacion 2027). Escalera de vencimientos tipica de investment grade. Sin concentracion visible de grandes vencimientos inmediatos segun datos disponibles.",
+          "notas": "Deuda 49.1B a largo plazo mas prestamo 6B a 364 dias para Terns (riesgo refinanciación 2027). Escalera de vencimientos típica de investment grade. Sin concentración visible de grandes vencimientos inmediatos según datos disponibles.",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales 128.7B. Goodwill + Intangibles 47.3B (37% activos): goodwill 21.6B + otros intangibles 25.7B. Alto pero tipico de farma post-adquisiciones. Con Cidara y Terns la proporcion crecera. Riesgo de impairment si el pipeline falla.",
+          "notas": "Activos totales 128.7B. Goodwill + Intangibles 47.3B (37% activos): goodwill 21.6B + otros intangibles 25.7B. Alto pero típico de farma post-adquisiciones. Con Cidara y Terns la proporción crecera. Riesgo de impairment si el pipeline falla.",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen Bruto 73.44% (excelente, rango 72-75% ultimos 5 anos). Margen Operativo 27.50% normalizado; TTM GAAP distorsionado por cargo Cidara 9B. Margen Neto FY2025: 28.1% (18.25B entre 65.0B); TTM GAAP solo 4.76% por el cargo IPR&D. Tendencia positiva: Keytruda crecia a mayor margen. Riesgo compresion post-cliff 2028.",
+          "notas": "Margen Bruto 73.44% (excelente, rango 72-75% últimos 5 anos). Margen Operativo 27.50% normalizado; TTM GAAP distorsionado por cargo Cidara 9B. Margen Neto FY2025: 28.1% (18.25B entre 65.0B); TTM GAAP solo 4.76% por el cargo IPR&D. Tendencia positiva: Keytruda crecia a mayor margen. Riesgo compresión post-cliff 2028.",
           "calificacion": 4
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 18.97% Finviz TTM GAAP distorsionado; DuPont FY2025 da 40.7% (margen 28.07% x rotacion 0.517 x apalancamiento 2.804). ROIC 9.65% vs WACC 8.0% — spread positivo pero estrecho (1.65pp). ROA 7.33%. El M&A intensivo aun no genera retornos superiores en plazos cortos.",
+          "notas": "ROE 18.97% Finviz TTM GAAP distorsionado; DuPont FY2025 da 40.7% (margen 28.07% x rotación 0.517 x apalancamiento 2.804). ROIC 9.65% vs WACC 8.0% — spread positivo pero estrecho (1.65pp). ROA 7.33%. El M&A intensivo aun no genera retornos superiores en plazos cortos.",
           "calificacion": 3
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de Activos TTM: 66.57B entre 128.7B = 0.517x. Bajo, tipico de farma con grandes intangibles. No refleja ineficiencia operativa sino el peso del goodwill e IP adquiridos en M&A. Ciclo de conversion de efectivo no critico.",
+          "notas": "Rotación de Activos TTM: 66.57B entre 128.7B = 0.517x. Bajo, típico de farma con grandes intangibles. No refleja ineficiencia operativa sino el peso del goodwill e IP adquiridos en M&A. Ciclo de conversión de efectivo no critico.",
           "calificacion": 3
         }
       ],
@@ -109,7 +109,7 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR Ingresos 2021-2025: 48.7B a 65.0B = ~7.5% anual impulsado por Keytruda. CAGR FCF 2021-2025: 9.66B a 12.36B = ~6.4% anual. Consenso forward EPS next 5Y (Finviz): 5.53%, reflejando desaceleracion pre-cliff. Guidance 2026: solo 1-2% crecimiento.",
+          "notas": "CAGR Ingresos 2021-2025: 48.7B a 65.0B = ~7.5% anual impulsado por Keytruda. CAGR FCF 2021-2025: 9.66B a 12.36B = ~6.4% anual. Consenso forward EPS next 5Y (Finviz): 5.53%, reflejando desaceleración pre-cliff. Guidance 2026: solo 1-2% crecimiento.",
           "calificacion": 3
         },
         {
@@ -130,17 +130,17 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 17.89B vs Net Income TTM 3.17B (divergencia masiva: cargo IPR&D Cidara 9B es no monetario). Excluyendo cargos adquisicion, calidad de ganancias alta: OCF FY2025 16.47B vs Net Income 18.25B. FCF generacion robusta. Cargos IPR&D desvirtuan el GAAP pero no afectan el efectivo real.",
+          "notas": "OCF TTM 17.89B vs Net Income TTM 3.17B (divergencia masiva: cargo IPR&D Cidara 9B es no monetario). Excluyendo cargos adquisición, calidad de ganancias alta: OCF FY2025 16.47B vs Net Income 18.25B. FCF generación robusta. Cargos IPR&D desvirtuan el GAAP pero no afectan el efectivo real.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 14.12B (OCF 17.89B menos Capex 3.78B). FY2025: 12.36B; FY2024: 18.10B. P-FCF 22.43x, FCF Yield 4.46%. Conversion EBITDA a FCF buena (capex moderado 5.7% ventas). FCF cubre dividendo (~8.4B) pero no el M&A total, de ahi la emision de deuda.",
+          "notas": "FCF TTM 14.12B (OCF 17.89B menos Capex 3.78B). FY2025: 12.36B; FY2024: 18.10B. P-FCF 22.43x, FCF Yield 4.46%. Conversión EBITDA a FCF buena (capex moderado 5.7% ventas). FCF cubre dividendo (~8.4B) pero no el M&A total, de ahi la emisión de deuda.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM 3.78B (5.68% ventas). Principalmente expansion manufacturera para Keytruda biologico, Gardasil y Winrevair. Componente de crecimiento relevante. Nivel razonable para farmaceutica de esta escala. Sin senales de capex excesivo o mal asignado.",
+          "notas": "Capex TTM 3.78B (5.68% ventas). Principalmente expansión manufacturera para Keytruda biologico, Gardasil y Winrevair. Componente de crecimiento relevante. Nivel razonable para farmacéutica de esta escala. Sin señales de capex excesivo o mal asignado.",
           "calificacion": 4
         },
         {
@@ -156,7 +156,7 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P-E 36.08 GAAP distorsionado por cargo IPR&D; no representativo. Forward P-E 13.37 mas relevante, en linea con sector (J&J ~14x, ABBV ~14x, BMY ~8x). EV-EBITDA 14.93. P-FCF 22.43. P-B 6.90. A Forward P-E 13.37 MRK luce asequible vs historia propia (tipicamente 15-18x). Precio 128.21 cerca de maximo 52 sem (135.05).",
+          "notas": "P-E 36.08 GAAP distorsionado por cargo IPR&D; no representativo. Forward P-E 13.37 mas relevante, en línea con sector (J&J ~14x, ABBV ~14x, BMY ~8x). EV-EBITDA 14.93. P-FCF 22.43. P-B 6.90. A Forward P-E 13.37 MRK luce asequible vs historia propia (tipicamente 15-18x). Precio 128.21 cerca de máximo 52 sem (135.05).",
           "calificacion": 3
         },
         {
@@ -166,7 +166,7 @@
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Precio 128.21 vs VI 141.30. Margen de Seguridad +10.21%. Zona: Mantener-esperar mejor punto de entrada (0% a +20%). Colchon estrecho frente al riesgo del cliff Keytruda 2028. Analistas: target consenso 136.72 (+6.6% upside). Un MS mayor seria necesario para justificar posicion nueva dado el riesgo binario de patente.",
+          "notas": "Precio 128.21 vs VI 141.30. Margen de Seguridad +10.21%. Zona: Mantener-esperar mejor punto de entrada (0% a +20%). Colchon estrecho frente al riesgo del cliff Keytruda 2028. Analistas: target consenso 136.72 (+6.6% upside). Un MS mayor seria necesario para justificar posición nueva dado el riesgo binario de patente.",
           "calificacion": 3
         }
       ],
@@ -182,17 +182,17 @@
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Aprobacion FDA (10-15 anos, billones en R&D, alta tasa de fallo). Patentes de composicion de materia. Capacidad manufacturera biologica especializada. Datos clinicos acumulados por anos (Keytruda: 40 indicaciones aprobadas). Red de distribucion a especialistas y hospitales. Barreras entre las mas altas de cualquier industria.",
+          "notas": "Aprobación FDA (10-15 anos, billones en R&D, alta tasa de fallo). Patentes de composición de materia. Capacidad manufacturera biologica especializada. Datos clinicos acumulados por anos (Keytruda: 40 indicaciones aprobadas). Red de distribución a especialistas y hospitales. Barreras entre las mas altas de cualquier industria.",
           "calificacion": 4
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta (BMS, Roche, ABBV, J&J). Amenaza sustitutos: alta post-2028 (biosimilares Keytruda). Poder compradores en aumento (IRA, hospital systems, PBMs, CMS). Proveedores: bajo poder. Nuevos entrantes: muy baja amenaza. Posicion fuerte hoy, reloj de biosimilares corriendo.",
+          "notas": "Rivalidad alta (BMS, Roche, ABBV, J&J). Amenaza sustitutos: alta post-2028 (biosimilares Keytruda). Poder compradores en aumento (IRA, hospital systems, PBMs, CMS). Proveedores: bajo poder. Nuevos entrantes: muy baja amenaza. Posición fuerte hoy, reloj de biosimilares corriendo.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Farmaceutica altamente defensiva y no ciclica. Demanda de oncologicos y vacunas independiente del ciclo economico. Incluso en recesion, Keytruda se sigue prescribiendo. Animal Health tambien estable. Defensividad maxima.",
+          "notas": "Farmacéutica altamente defensiva y no ciclica. Demanda de oncologicos y vacunas independiente del ciclo económico. Incluso en recesión, Keytruda se sigue prescribiendo. Animal Health también estable. Defensividad maxima.",
           "calificacion": 5
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "IRA concreto e inmediato: CMS negocia precio Keytruda Medicare, reduccion hasta 66% para 2026-27. China: regulacion colapsó Gardasil 2024-25. FDA: aprobaciones inciertas para Terns y MK-7684a. EU: presiones de precio propias. Combinacion de cliff de patente + presion precio regulatoria + problemas China es la mas riesgosa del portafolio.",
+          "notas": "IRA concreto e inmediato: CMS negocia precio Keytruda Medicare, reducción hasta 66% para 2026-27. China: regulación colapsó Gardasil 2024-25. FDA: aprobaciones inciertas para Terns y MK-7684a. EU: presiones de precio propias. Combinación de cliff de patente + presión precio regulatoria + problemas China es la mas riesgosa del portafolio.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Ingresos internacionales ~50%+ fuera de EE.UU. Fortaleza del dolar impacta negativamente ingresos reportados. China relevante (Gardasil) con problemas especificos activos. Riesgo FX moderado, similar a otras multinacionales farmaceuticas.",
+          "notas": "Ingresos internacionales ~50%+ fuera de EE.UU. Fortaleza del dólar impacta negativamente ingresos reportados. China relevante (Gardasil) con problemas específicos activos. Riesgo FX moderado, similar a otras multinacionales farmacéuticas.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Concentracion extrema en Keytruda: ~48% de ingresos de un solo producto que pierde patente 2028. Sin precedente en el portafolio analizado. Si Keytruda pierde 50% de precio post-cliff, impacto directo seria ~24pp en ingresos totales. Sin concentracion de cliente individual pero si concentracion brutal de producto.",
+          "notas": "Concentración extrema en Keytruda: ~48% de ingresos de un solo producto que pierde patente 2028. Sin precedente en el portafolio analizado. Si Keytruda pierde 50% de precio post-cliff, impacto directo seria ~24pp en ingresos totales. Sin concentración de cliente individual pero si concentración brutal de producto.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Biosimilares Keytruda: Samsung Bioepis, Formycon y otros en desarrollo, posible entrada EE.UU. 2028-2030. Next-gen inmuno-oncologia (bi-especificos, CAR-T, ADCs) podria desplazar PD-1. GLP-1: MRK llega tarde vs Novo Nordisk y Lilly. Riesgo disrupcion moderado-alto en horizonte relevante.",
+          "notas": "Biosimilares Keytruda: Samsung Bioepis, Formycon y otros en desarrollo, posible entrada EE.UU. 2028-2030. Next-gen inmuno-oncologia (bi-específicos, CAR-T, ADCs) podría desplazar PD-1. GLP-1: MRK llega tarde vs Novo Nordisk y Lilly. Riesgo disrupción moderado-alto en horizonte relevante.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "ESG estandar farmaceutica: precios altos (Keytruda ~200k paciente-anio genera critica publica), impacto ambiental manufacturero moderado. Gobierno corporativo bueno (una clase de acciones). Sin escandalo ESG activo. Similar al sector en general.",
+          "notas": "ESG estándar farmacéutica: precios altos (Keytruda ~200k paciente-año genera critica pública), impacto ambiental manufacturero moderado. Gobierno corporativo bueno (una clase de acciones). Sin escandalo ESG activo. Similar al sector en general.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Cierre Terns Pharmaceuticals GLP-1 NASH (6.7B, Q3 2026 esperado; triggera cargo IPR&D ~5.8B). Datos Keytruda SC en indicaciones nuevas H2 2026. Datos Phase 3 MK-7684a. Resultado negociacion IRA-CMS precio Keytruda Medicare (impacto 2026-27). Q2 2026 resultados para evaluar operaciones subyacentes excluidos cargos.",
+          "notas": "Cierre Terns Pharmaceuticals GLP-1 NASH (6.7B, Q3 2026 esperado; triggera cargo IPR&D ~5.8B). Datos Keytruda SC en indicaciones nuevas H2 2026. Datos Phase 3 MK-7684a. Resultado negociación IRA-CMS precio Keytruda Medicare (impacto 2026-27). Q2 2026 resultados para evaluar operaciones subyacentes excluidos cargos.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Insider ownership muy bajo (0.18%). Sin patrones significativos de compra insider reciente. Institucionales dominan (tipico S&P 500, market cap 316B). Short float bajo (1.19%) — mercado no apuesta agresivamente a la baja. Sin senales positivas ni negativas fuertes de insider activity.",
+          "notas": "Insider ownership muy bajo (0.18%). Sin patrones significativos de compra insider reciente. Institucionales dominan (típico S&P 500, market cap 316B). Short float bajo (1.19%) — mercado no apuesta agresivamente a la baja. Sin señales positivas ni negativas fuertes de insider activity.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consensus analistas: 1.87 sobre 5 (1=compra fuerte) — equivale a BUY-OVERWEIGHT. Target price 136.72 (+6.6% upside desde 128.21). Mas de 25 analistas cubren MRK. El mercado esta moderadamente optimista. Upside limitado al target sugiere precio cerca de valor justo segun sell-side.",
+          "notas": "Consensus analistas: 1.87 sobre 5 (1=compra fuerte) — equivale a BUY-OVERWEIGHT. Target price 136.72 (+6.6% upside desde 128.21). Mas de 25 analistas cubren MRK. El mercado esta moderadamente optimista. Upside limitado al target sugiere precio cerca de valor justo según sell-side.",
           "calificacion": 3
         }
       ],
@@ -254,6 +254,6 @@
   "conclusion": {
     "score_promedio": 3.1621621621621623,
     "recomendacion": "MANTENER - ESPERAR MEJOR PUNTO DE ENTRADA",
-    "tesis": "MRK negocia cerca de valor justo (VI 141.30 vs precio 128.21, MS +10.21%) con riesgo estructural del cliff Keytruda 2028 y M&A agresivo cuyo retorno es incierto; el margen de seguridad es demasiado estrecho para abrir posicion nueva frente a la magnitud del riesgo de patente."
+    "tesis": "MRK negocia cerca de valor justo (VI 141.30 vs precio 128.21, MS +10.21%) con riesgo estructural del cliff Keytruda 2028 y M&A agresivo cuyo retorno es incierto; el margen de seguridad es demasiado estrecho para abrir posición nueva frente a la magnitud del riesgo de patente."
   }
 }

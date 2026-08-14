@@ -1,36 +1,36 @@
 {
   "nombre": "iShares Core MSCI Europe ETF",
   "ticker": "IEUR",
-  "categoria": "Equity Indice Amplio (TODA Europa desarrollada - Eurozona + Reino Unido + Suiza + Nordicos, MSCI Europe IMI incl. small-cap - competidor directo de FEZ)",
+  "categoria": "Equity Índice Amplio (TODA Europa desarrollada - Eurozona + Reino Unido + Suiza + Nordicos, MSCI Europe IMI incl. small-cap - competidor directo de FEZ)",
   "emisor": "BlackRock (iShares)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA por MUESTREO OPTIMIZADO confirmada (Trackinsight) - apropiado dado el tamano del universo (1,013-1,021 holdings de TODA Europa desarrollada, metodologia IMI que incluye small-cap).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA por MUESTREO OPTIMIZADO confirmada (Trackinsight) - apropiado dado el tamaño del universo (1,013-1,021 holdings de TODA Europa desarrollada, metodología IMI que incluye small-cap).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, 100% holdings EUROPEOS pero MULTI-PAIS Y MULTI-DIVISA (Eurozona -EUR-, Reino Unido -GBP-, Suiza -CHF-, Suecia -SEK-, Noruega -NOK-, Dinamarca -DKK-) - riesgo cambiario MAS COMPLEJO que FEZ (solo EUR), sin cobertura, ademas de retencion fiscal variable por pais sobre dividendos.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, 100% holdings EUROPEOS pero MULTI-PAIS Y MULTI-DIVISA (Eurozona -EUR-, Reino Unido -GBP-, Suiza -CHF-, Suecia -SEK-, Noruega -NOK-, Dinamarca -DKK-) - riesgo cambiario MAS COMPLEJO que FEZ (solo EUR), sin cobertura, además de retención fiscal variable por pais sobre dividendos.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM ~$8.7-9bn (stockanalysis $9.08bn, Trackinsight EUR7.99bn~$8.7bn) - **EL MAS GRANDE de TODOS los fondos de nueva geografia del proyecto** (supera a INDA $6.63bn, EWC $6.1-6.2bn, FEZ $3.9-4.5bn, ILF $3.6-4.3bn).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 10-jun-2014 (~12.2 anios) - **EL MAS CORTO de los fondos de nueva geografia del proyecto** (EWC 30.4, ILF 24.8, FEZ 23.8) - CRUCIALMENTE, nacio DESPUES tanto de la Crisis Financiera 2008 como de la Crisis de Deuda Soberana Europea 2010-2012, por lo que su historial de riesgo/drawdown NO incluye esos dos episodios que si maltrataron a FEZ (mismo emisor/region, historial mas largo).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 10-jun-2014 (~12.2 años) - **EL MAS CORTO de los fondos de nueva geografia del proyecto** (EWC 30.4, ILF 24.8, FEZ 23.8) - CRUCIALMENTE, nacio DESPUÉS tanto de la Crisis Financiera 2008 como de la Crisis de Deuda Soberana Europea 2010-2012, por lo que su historial de riesgo/drawdown NO incluye esos dos episodios que si maltrataron a FEZ (mismo emisor/region, historial mas largo).",
           "calificacion": 3
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - DECIMA aparicion en el proyecto, SEGUNDA vez especificamente como fondo de la serie 'Core' de bajo costo (tras IXUS) - mismo patron de pricing agresivo ya documentado.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMA aparición en el proyecto, SEGUNDA vez específicamente como fondo de la serie 'Core' de bajo costo (tras IXUS) - mismo patrón de pricing agresivo ya documentado.",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.09-0.10% - **NOTABLEMENTE MAS BARATO que FEZ (0.29%), aproximadamente UN TERCIO del costo**, y EL MAS BARATO DE TODOS los fondos de nueva geografia del proyecto (EWC 0.50%, ILF 0.47%, INDA 0.61%, FEZ 0.29%) - mismo patron de pricing 'serie Core' ya documentado extensamente con IXUS/VEU en el cluster ex-US.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.09-0.10% - **NOTABLEMENTE MAS BARATO que FEZ (0.29%), aproximadamente UN TERCIO del costo**, y EL MAS BARATO DE TODOS los fondos de nueva geografia del proyecto (EWC 0.50%, ILF 0.47%, INDA 0.61%, FEZ 0.29%) - mismo patrón de pricing 'serie Core' ya documentado extensamente con IXUS/VEU en el cluster ex-US.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending no verificado con cifra de revenue esta sesion (aunque BlackRock opera programas activos en sus fondos grandes, ya confirmado explicitamente en INDA con nombre de linea transparente).",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesión (aunque BlackRock opera programas activos en sus fondos grandes, ya confirmado explícitamente en INDA con nombre de línea transparente).",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice MSCI Europe IMI - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria especifica de IEUR esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice MSCI Europe IMI - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria específica de IEUR esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario promedio = $141.62M/dia (3 meses, Seeking Alpha) - **MAS DEL DOBLE que FEZ** (~$60M/dia), solida liquidez institucional.",
+          "notas": "Volumen diario promedio = $141.62M/dia (3 meses, Seeking Alpha) - **MAS DEL DOBLE que FEZ** (~$60M/dia), sólida liquidez institucional.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion (a diferencia de FEZ, donde si se encontro 1-2bp) - se infiere razonablemente ajustado dado el volumen y AUM verificados.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión (a diferencia de FEZ, donde si se encontro 1-2bp) - se infiere razonablemente ajustado dado el volumen y AUM verificados.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,104 +89,104 @@
       "rating_promedio": 4.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "1,013 (Trackinsight) a 1,021 (stockanalysis) holdings - **~20 VECES MAS que FEZ** (47-55), refleja tanto la metodologia IMI (incluye small+mid cap, a diferencia del Euro STOXX 50 de solo 50 blue-chips) como la cobertura de TODA Europa desarrollada en vez de solo la Eurozona.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "1,013 (Trackinsight) a 1,021 (stockanalysis) holdings - **~20 VECES MAS que FEZ** (47-55), refleja tanto la metodología IMI (incluye small+mid cap, a diferencia del Euro STOXX 50 de solo 50 blue-chips) como la cobertura de TODA Europa desarrollada en vez de solo la Eurozona.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
+          "aspecto": "Concentración Top 10 holdings (%)",
           "notas": "Top10 = 18.61% - MUY BAJO, similar en espiritu a VXUS/IXUS/VEU (13-15%), **MENOS DE LA MITAD de concentrado que FEZ** (41.06%).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector: Finance 24.95% (maximo), Industrials 17.34%, Healthcare 12.08%, Technology 11.06%, resto repartido entre Consumer Non-Cyclicals/Materials/Consumer Cyclicals/Energy/Utilities (todos <9%) - buena diversificacion sectorial, sin dominancia extrema.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector: Finance 24.95% (máximo), Industrials 17.34%, Healthcare 12.08%, Technology 11.06%, resto repartido entre Consumer Non-Cyclicals/Materials/Consumer Cyclicals/Energy/Utilities (todos <9%) - buena diversificación sectorial, sin dominancia extrema.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Geografia: Reino Unido, Suiza y Francia como exposiciones primarias (iShares) - **CUBRE TODA EUROPA DESARROLLADA, no solo la Eurozona** (a diferencia de FEZ, limitado por definicion al Euro STOXX 50) - incluye mercados NO-euro relevantes (Reino Unido, Suiza, Suecia, Noruega, Dinamarca) que representan una porcion significativa de la economia europea desarrollada.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Geografia: Reino Unido, Suiza y Francia como exposiciones primarias (iShares) - **CUBRE TODA EUROPA DESARROLLADA, no solo la Eurozona** (a diferencia de FEZ, limitado por definición al Euro STOXX 50) - incluye mercados NO-euro relevantes (Reino Unido, Suiza, Suecia, Noruega, Dinamarca) que representan una porción significativa de la economía europea desarrollada.",
           "calificacion": 5
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Blend amplio sin sesgo marcado (P/E 17.17x, practicamente identico a FEZ 17.18x) - perfil de estilo equivalente, pero con base de diversificacion mucho mas ancha.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Blend amplio sin sesgo marcado (P/E 17.17x, prácticamente identico a FEZ 17.18x) - perfil de estilo equivalente, pero con base de diversificación mucho mas ancha.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MSCI Europe IMI (Investable Market Index: large+mid+small cap) - mismo proveedor MSCI que IXUS/ACWX/EWC/INDA, metodologia transparente y notablemente MAS AMPLIA que el Euro STOXX 50 blue-chip de FEZ.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MSCI Europe IMI (Investable Market Index: large+mid+small cap) - mismo proveedor MSCI que IXUS/ACWX/EWC/INDA, metodología transparente y notablemente MAS AMPLIA que el Euro STOXX 50 blue-chip de FEZ.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de IEUR esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria específica de IEUR esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.43
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception (12.2 anios) = 6.62% anualizado - modesto en terminos absolutos, pero la ventana MAS CORTA no incluye las dos peores crisis europeas (ver fila 44). Retorno 1Y = **+32.04% - NOTABLEMENTE MEJOR que FEZ (+17.04%)** pese a ser un fondo mucho mas diversificado/menos concentrado - hallazgo contraintuitivo pero real, probablemente reflejo del buen desempeño de Reino Unido/financials/energia europeos este anio, sectores/paises que FEZ (solo Eurozona, sin UK) no captura.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception (12.2 años) = 6.62% anualizado - modesto en términos absolutos, pero la ventana MAS CORTA no incluye las dos peores crisis europeas (ver fila 44). Retorno 1Y = **+32.04% - NOTABLEMENTE MEJOR que FEZ (+17.04%)** pese a ser un fondo mucho mas diversificado/menos concentrado - hallazgo contraintuitivo pero real, probablemente reflejo del buen desempeño de Reino Unido/financials/energía europeos este año, sectores/paises que FEZ (solo Eurozona, sin UK) no captura.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad no verificada con cifra especifica confiable esta sesion (a diferencia de FEZ, donde tampoco se encontro una cifra confiable) - se dejo en blanco en el Dashboard.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad no verificada con cifra específica confiable esta sesión (a diferencia de FEZ, donde tampoco se encontro una cifra confiable) - se dejo en blanco en el Dashboard.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -36.96% (23-mar-2020, COVID, recuperacion 172 sesiones ~8.3 meses) - **MUCHO MENOS SEVERO que FEZ (-64.21%)**, PERO debe interpretarse con cautela: IEUR nacio en 2014, DESPUES tanto de la Crisis 2008 como de la Crisis de Deuda Soberana Europea 2010-2012 - su historial de drawdown simplemente NO INCLUYE esos dos episodios que si maltrataron a FEZ, por lo que la comparacion favorece a IEUR mas por VENTANA TEMPORAL AFORTUNADA que por una diferencia estructural real de riesgo subyacente del mercado europeo.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -36.96% (23-mar-2020, COVID, recuperación 172 sesiones ~8.3 meses) - **MUCHO MENOS SEVERO que FEZ (-64.21%)**, PERO debe interpretarse con cautela: IEUR nacio en 2014, DESPUÉS tanto de la Crisis 2008 como de la Crisis de Deuda Soberana Europea 2010-2012 - su historial de drawdown simplemente NO INCLUYE esos dos episodios que si maltrataron a FEZ, por lo que la comparación favorece a IEUR mas por VENTANA TEMPORAL AFORTUNADA que por una diferencia estructural real de riesgo subyacente del mercado europeo.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio no encontrado con una cifra especifica confiable esta sesion (Morningstar otorga 3 estrellas a 3 y 10 anios, 2 estrellas a 5 anios, y medalla de Oro de conviccion - contexto cualitativo positivo pero no una cifra numerica de Sharpe verificable).",
+          "notas": "Sharpe Ratio no encontrado con una cifra específica confiable esta sesión (Morningstar otorga 3 estrellas a 3 y 10 años, 2 estrellas a 5 años, y medalla de Oro de convicción - contexto cualitativo positivo pero no una cifra numerica de Sharpe verificable).",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.84 - MAS BAJO que FEZ (0.95), coherente con la mayor diversificacion geografica (incluye Reino Unido/Suiza, mercados con perfiles algo distintos a la Eurozona pura). **Overlap CONFIRMADO pero SUSTANCIALMENTE MENOR que FEZ**: ASML Holding (4.12-4.87% vs 8.75-10.36% en FEZ) ya analizado individualmente - mismo nombre recurrente del proyecto, aqui diluido en un fondo de 1,000+ holdings en vez de solo 50.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.84 - MAS BAJO que FEZ (0.95), coherente con la mayor diversificación geográfica (incluye Reino Unido/Suiza, mercados con perfiles algo distintos a la Eurozona pura). **Overlap CONFIRMADO pero SUSTANCIALMENTE MENOR que FEZ**: ASML Holding (4.12-4.87% vs 8.75-10.36% en FEZ) ya analizado individualmente - mismo nombre recurrente del proyecto, aquí diluido en un fondo de 1,000+ holdings en vez de solo 50.",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "12.2 anios de historial cubren el COVID 2020 y 2022, pero **NO cubren la Crisis Financiera 2008 NI la Crisis de Deuda Soberana Europea 2010-2012** (a diferencia de FEZ, que SI cubre ambas) - cobertura de crisis MENOR que FEZ pese a ser un fondo de mejor calidad estructural en casi toda otra dimension. Matiz importante: el mejor Max Drawdown de IEUR refleja en parte esta ventana mas favorable, no necesariamente menor riesgo estructural del mercado europeo en si.",
+          "notas": "12.2 años de historial cubren el COVID 2020 y 2022, pero **NO cubren la Crisis Financiera 2008 NI la Crisis de Deuda Soberana Europea 2010-2012** (a diferencia de FEZ, que SI cubre ambas) - cobertura de crisis MENOR que FEZ pese a ser un fondo de mejor calidad estructural en casi toda otra dimensión. Matiz importante: el mejor Max Drawdown de IEUR refleja en parte esta ventana mas favorable, no necesariamente menor riesgo estructural del mercado europeo en si.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 17.17x - practicamente IDENTICO a FEZ (17.18x). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 17.17x - prácticamente IDENTICO a FEZ (17.18x). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 3.06% - **MAS ALTO que FEZ** (2.44-2.48%). Distribucion SEMESTRAL (igual que FEZ).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 3.06% - **MAS ALTO que FEZ** (2.44-2.48%). Distribución SEMESTRAL (igual que FEZ).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION VERIFICADA con FEZ (fila 51, ya en el workbook)** - IEUR es DECISIVAMENTE superior en casi toda dimension: TER un TERCIO del costo (0.09-0.10% vs 0.29%), ~2x AUM ($8.7-9bn vs $3.9-4.5bn), ~20x mas holdings (1,013-1,021 vs 47-55), top10 MENOS DE LA MITAD de concentrado (18.61% vs 41.06%), overlap con ASML notablemente menor (4.12-4.87% vs 8.75-10.36%), mejor retorno 1Y (+32.04% vs +17.04%), Beta mas bajo (0.84 vs 0.95), Y cobertura geografica MAS AMPLIA (toda Europa desarrollada, incluyendo Reino Unido/Suiza, vs solo la Eurozona de FEZ). La UNICA ventaja real de FEZ es un track record mas largo (23.8 vs 12.2 anios) - pero esa ventaja es de DOBLE FILO: FEZ SI cubre la Crisis 2008 y la Crisis de Deuda Soberana Europea en su propio historial, mientras que el mejor Max Drawdown de IEUR (-36.96% vs -64.21%) refleja en parte haber nacido despues de ambas crisis, no necesariamente menor riesgo estructural real. Candidatos adicionales sin verificar: VGK (Vanguard FTSE Europe), EZU (iShares MSCI Eurozone, competidor mas directo de FEZ). | ACTUALIZACION posterior (EZU, fila 53): tercer fondo del cluster europeo verificado - EZU tiene el MEJOR desempeño historico realizado del trio (1Y +39.66-39.97%, vs +32.04% de IEUR), el AUM mas grande, y el segundo track record mas largo del proyecto (26.1 anios), PERO es 5x mas caro que IEUR (TER 0.50-0.51% vs 0.09-0.10%) y tiene un overlap via ASML mucho mayor (8.44-9.89% vs 4.12-4.87%). IEUR sigue siendo el vehiculo europeo mas EFICIENTE del workbook. Ver Ficha EZU fila 50 para el detalle completo. | ACTUALIZACION posterior (VGK, fila 54): competidor Vanguard directo, LIGERAMENTE MAS BARATO que IEUR (0.06% vs 0.09-0.10%) y con AUM/liquidez/holdings aun mayores, overlap ASML de magnitud similar (~4% ambos). VGK edita a IEUR como el mejor resultado del cluster europeo, mismo patron Vanguard-vs-iShares-Core ya visto con VEU superando a IXUS en el cluster ex-US. Ver Ficha VGK fila 50.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN VERIFICADA con FEZ (fila 51, ya en el workbook)** - IEUR es DECISIVAMENTE superior en casi toda dimensión: TER un TERCIO del costo (0.09-0.10% vs 0.29%), ~2x AUM ($8.7-9bn vs $3.9-4.5bn), ~20x mas holdings (1,013-1,021 vs 47-55), top10 MENOS DE LA MITAD de concentrado (18.61% vs 41.06%), overlap con ASML notablemente menor (4.12-4.87% vs 8.75-10.36%), mejor retorno 1Y (+32.04% vs +17.04%), Beta mas bajo (0.84 vs 0.95), Y cobertura geográfica MAS AMPLIA (toda Europa desarrollada, incluyendo Reino Unido/Suiza, vs solo la Eurozona de FEZ). La ÚNICA ventaja real de FEZ es un track record mas largo (23.8 vs 12.2 años) - pero esa ventaja es de DOBLE FILO: FEZ SI cubre la Crisis 2008 y la Crisis de Deuda Soberana Europea en su propio historial, mientras que el mejor Max Drawdown de IEUR (-36.96% vs -64.21%) refleja en parte haber nacido después de ambas crisis, no necesariamente menor riesgo estructural real. Candidatos adicionales sin verificar: VGK (Vanguard FTSE Europe), EZU (iShares MSCI Eurozone, competidor mas directo de FEZ). | ACTUALIZASIÓN posterior (EZU, fila 53): tercer fondo del cluster europeo verificado - EZU tiene el MEJOR desempeño histórico realizado del trio (1Y +39.66-39.97%, vs +32.04% de IEUR), el AUM mas grande, y el segundo track record mas largo del proyecto (26.1 años), PERO es 5x mas caro que IEUR (TER 0.50-0.51% vs 0.09-0.10%) y tiene un overlap via ASML mucho mayor (8.44-9.89% vs 4.12-4.87%). IEUR sigue siendo el vehículo europeo mas EFICIENTE del workbook. Ver Ficha EZU fila 50 para el detalle completo. | ACTUALIZASIÓN posterior (VGK, fila 54): competidor Vanguard directo, LIGERAMENTE MAS BARATO que IEUR (0.06% vs 0.09-0.10%) y con AUM/liquidez/holdings aun mayores, overlap ASML de magnitud similar (~4% ambos). VGK edita a IEUR como el mejor resultado del cluster europeo, mismo patrón Vanguard-vs-iShares-Core ya visto con VEU superando a IXUS en el cluster ex-US. Ver Ficha VGK fila 50.",
           "calificacion": 4
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Satelite** (mismo tratamiento que EWC/ILF/INDA/FEZ - exposicion regional concentrada frente al resto de la cartera predominantemente US) - pero es el MEJOR diversificador europeo de los dos ya analizados en este workbook: overlap menor via ASML, cobertura geografica mas amplia, mejor liquidez y costo notablemente menor que FEZ.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Satélite** (mismo tratamiento que EWC/ILF/INDA/FEZ - exposición regional concentrada frente al resto de la cartera predominantemente US) - pero es el MEJOR diversificador europeo de los dos ya analizados en este workbook: overlap menor via ASML, cobertura geográfica mas amplia, mejor liquidez y costo notablemente menor que FEZ.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion de bajo costo (0.09%) a TODA Europa desarrollada (no solo Eurozona), mejor diversificada que FEZ en todos los ejes (holdings, sectores, paises), con dividend yield atractivo (3.06%) y un retorno 1Y solido (+32.04%) - la opcion CLARAMENTE mas eficiente de exposicion europea entre las dos ya analizadas en este proyecto.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición de bajo costo (0.09%) a TODA Europa desarrollada (no solo Eurozona), mejor diversificada que FEZ en todos los ejes (holdings, sectores, paises), con dividend yield atractivo (3.06%) y un retorno 1Y sólido (+32.04%) - la opción CLARAMENTE mas eficiente de exposición europea entre las dos ya analizadas en este proyecto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
           "notas": "Riesgos principales: (1) overlap via ASML (4.12-4.87%, menor que FEZ pero real); (2) riesgo cambiario MULTI-DIVISA no cubierto (EUR/GBP/CHF/SEK/NOK/DKK), mas complejo que el riesgo de una sola divisa de FEZ; (3) historial mas corto que NO incluye las dos peores crisis europeas (riesgo no observado en la propia historia del fondo, no necesariamente ausente del mercado subyacente); (4) mismo riesgo estructural de underperformance europeo relativo a EEUU ya documentado en VXUS/VEU/FEZ, aunque parcialmente compensado por el fuerte 1Y reciente.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "FEZ (fila 51, ya analizado, claramente inferior en esta comparacion) - ver fila 50. VGK (Vanguard FTSE Europe) y EZU (iShares MSCI Eurozone, competidor mas directo de FEZ) identificados como candidatos sin datos propios verificados. EZU (fila 53) tambien verificado - mejor rendimiento historico pero mucho mas caro y con mayor overlap que IEUR, ver comparacion en su Ficha. VGK (fila 54) tambien verificado - ligeramente mas barato y con mas escala que IEUR, ver comparacion en su Ficha.",
+          "notas": "FEZ (fila 51, ya analizado, claramente inferior en esta comparación) - ver fila 50. VGK (Vanguard FTSE Europe) y EZU (iShares MSCI Eurozone, competidor mas directo de FEZ) identificados como candidatos sin datos propios verificados. EZU (fila 53) también verificado - mejor rendimiento histórico pero mucho mas caro y con mayor overlap que IEUR, ver comparación en su Ficha. VGK (fila 54) también verificado - ligeramente mas barato y con mas escala que IEUR, ver comparación en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.85/5 - el MEJOR resultado de exposicion europea del proyecto, y notablemente superior a FEZ (3.52, ya en el workbook fila 51) en casi toda dimension verificable: TER un TERCIO del costo (0.09-0.10% vs 0.29%), ~2x AUM, ~20x mas holdings, top10 menos de la mitad de concentrado (18.61% vs 41.06%), overlap con ASML sustancialmente menor (4.12-4.87% vs 8.75-10.36%), mejor retorno 1Y (+32.04% vs +17.04%), Beta mas bajo (0.84 vs 0.95), y cobertura geografica MAS AMPLIA (toda Europa desarrollada -incluyendo Reino Unido y Suiza- en vez de solo la Eurozona). A diferencia del caso IXUS/ACWX vs VXUS (donde el competidor mas nuevo perdia en casi todo frente al ya establecido), aqui es el fondo mas nuevo y barato (serie Core de BlackRock, mismo patron ya visto con IXUS) el que gana claramente la comparacion directa. La unica advertencia real es que el historial mas corto de IEUR (12.2 anios, desde 2014) simplemente NO INCLUYE la Crisis 2008 ni la Crisis de Deuda Soberana Europea 2010-2012 que si maltrataron a FEZ - su mejor Max Drawdown (-36.96% vs -64.21%) refleja en parte esa ventana mas favorable, no necesariamente menor riesgo estructural real del mercado europeo. El overlap via ASML (4.12-4.87%) es real pero de magnitud comparable a la de VXUS/VEU (5.37-6.2%), que no impidio una recomendacion de ACUMULAR en esos casos. Rol en Portafolio: Satelite. Competidores adicionales sin verificar: VGK, EZU."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.85/5 - el MEJOR resultado de exposición europea del proyecto, y notablemente superior a FEZ (3.52, ya en el workbook fila 51) en casi toda dimensión verificable: TER un TERCIO del costo (0.09-0.10% vs 0.29%), ~2x AUM, ~20x mas holdings, top10 menos de la mitad de concentrado (18.61% vs 41.06%), overlap con ASML sustancialmente menor (4.12-4.87% vs 8.75-10.36%), mejor retorno 1Y (+32.04% vs +17.04%), Beta mas bajo (0.84 vs 0.95), y cobertura geográfica MAS AMPLIA (toda Europa desarrollada -incluyendo Reino Unido y Suiza- en vez de solo la Eurozona). A diferencia del caso IXUS/ACWX vs VXUS (donde el competidor mas nuevo perdia en casi todo frente al ya establecido), aquí es el fondo mas nuevo y barato (serie Core de BlackRock, mismo patrón ya visto con IXUS) el que gana claramente la comparación directa. La única advertencia real es que el historial mas corto de IEUR (12.2 años, desde 2014) simplemente NO INCLUYE la Crisis 2008 ni la Crisis de Deuda Soberana Europea 2010-2012 que si maltrataron a FEZ - su mejor Max Drawdown (-36.96% vs -64.21%) refleja en parte esa ventana mas favorable, no necesariamente menor riesgo estructural real del mercado europeo. El overlap via ASML (4.12-4.87%) es real pero de magnitud comparable a la de VXUS/VEU (5.37-6.2%), que no impidio una recomendación de ACUMULAR en esos casos. Rol en Portafolio: Satélite. Competidores adicionales sin verificar: VGK, EZU."
   }
 }

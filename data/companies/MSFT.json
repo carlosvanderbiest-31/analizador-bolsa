@@ -1,7 +1,7 @@
 {
   "empresa": "Microsoft Corporation",
   "ticker": "MSFT",
-  "sector": "Tecnologia - Software, Cloud Computing e Inteligencia Artificial",
+  "sector": "Tecnología - Software, Cloud Computing e Inteligencia Artificial",
   "fecha_analisis": "2026-08-05",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Tres segmentos: Productivity and Business Processes (Office 365, LinkedIn, Dynamics, 140.0bn USD FY2026, +14%), Intelligent Cloud (Azure, servidores, GitHub, 137.8bn USD FY2026, +32%), y More Personal Computing (Windows, Xbox, Surface, Bing, 54.1bn USD FY2026, practicamente plano). Azure supero por primera vez los 100bn USD anuales de ingresos; Microsoft 365 Copilot supero los 30 millones de asientos pagos.",
+          "notas": "Tres segmentos: Productivity and Business Processes (Office 365, LinkedIn, Dynamics, 140.0bn USD FY2026, +14%), Intelligent Cloud (Azure, servidores, GitHub, 137.8bn USD FY2026, +32%), y More Personal Computing (Windows, Xbox, Surface, Bing, 54.1bn USD FY2026, prácticamente plano). Azure supero por primera vez los 100bn USD anuales de ingresos; Microsoft 365 Copilot supero los 30 millones de asientos pagos.",
           "calificacion": 5
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Dominancia de Windows y Office en productividad empresarial con switching costs altisimos (Active Directory, Microsoft 365, Teams); Azure como el segundo mayor proveedor de cloud del mundo, creciendo mas rapido que el mercado; relacion estrategica con OpenAI (participacion de aprox 27%, valorada en aprox 135000 millones USD, licencia de modelos GPT integrada en Copilot hasta 2032); escala de capex en infraestructura de IA que pocos competidores pueden igualar.",
+          "notas": "Dominancia de Windows y Office en productividad empresarial con switching costs altisimos (Active Directory, Microsoft 365, Teams); Azure como el segundo mayor proveedor de cloud del mundo, creciendo mas rápido que el mercado; relación estratégica con OpenAI (participación de aprox 27%, valorada en aprox 135000 millones USD, licencia de modelos GPT integrada en Copilot hasta 2032); escala de capex en infraestructura de IA que pocos competidores pueden igualar.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Azure creciendo +43% interanual (31% en moneda constante), acelerando hacia mid-40s% esperado en la primera mitad de FY2027 - crece mas rapido que AWS (el lider de mercado). Backlog (Remaining Performance Obligation comercial) de 678000 millones USD, +84% interanual - la propia CFO Amy Hood declaro que la empresa sigue capacity constrained (la demanda supera la capacidad disponible).",
+          "notas": "Azure creciendo +43% interanual (31% en moneda constante), acelerando hacia mid-40s% esperado en la primera mitad de FY2027 - crece mas rápido que AWS (el líder de mercado). Backlog (Remaining Performance Obligation comercial) de 678000 millones USD, +84% interanual - la propia CFO Amy Hood declaro que la empresa sigue capacity constrained (la demanda supera la capacidad disponible).",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Fuerte: expansion de Microsoft 365 Commercial Cloud (+16% ajustado por moneda), LinkedIn (+12%), Dynamics 365 (+13%); Copilot con mas de 30 millones de asientos pagos y adiciones netas mas que duplicandose trimestre a trimestre. Debilidad puntual en Windows OEM (-5%) y Xbox (-10%), segmentos maduros de menor importancia relativa.",
+          "notas": "Fuerte: expansión de Microsoft 365 Commercial Cloud (+16% ajustado por moneda), LinkedIn (+12%), Dynamics 365 (+13%); Copilot con mas de 30 millones de asientos pagos y adiciones netas mas que duplicandose trimestre a trimestre. Debilidad puntual en Windows OEM (-5%) y Xbox (-10%), segmentos maduros de menor importancia relativa.",
           "calificacion": 4
         }
       ],
@@ -36,7 +36,7 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Capex masivo y en aceleracion: 115.9bn USD en FY2026 (casi el doble de los 64.6bn USD de FY2025), con guidance de capex calendario 2026 de aprox 175000 millones USD y mas de 50000 millones USD esperados solo en el primer trimestre de FY2027 - 88 datacenters agregados en el ano fiscal, objetivo de duplicar la capacidad total en 2 anios. Management sostiene el gasto pese a preguntas del mercado sobre el retorno del capex.",
+          "notas": "Capex masivo y en aceleración: 115.9bn USD en FY2026 (casi el doble de los 64.6bn USD de FY2025), con guidance de capex calendario 2026 de aprox 175000 millones USD y mas de 50000 millones USD esperados solo en el primer trimestre de FY2027 - 88 datacenters agregados en el ano fiscal, objetivo de duplicar la capacidad total en 2 años. Management sostiene el gasto pese a preguntas del mercado sobre el retorno del capex.",
           "calificacion": 3
         },
         {
@@ -46,12 +46,12 @@
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Una sola clase de acciones comunes (1 accion, 1 voto), sin estructura dual-class - gobernanza simple y limpia, board de 12 miembros con mayoria independiente, Sandra E. Peterson como Lead Independent Director.",
+          "notas": "Una sola clase de acciones comunes (1 acción, 1 voto), sin estructura dual-class - gobernanza simple y limpia, board de 12 miembros con mayoría independiente, Sandra E. Peterson como Lead Independent Director.",
           "calificacion": 5
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion trimestral muy detallada con desglose de segmentos y sub-segmentos; cambio contable relevante a monitorear: extension de la vida util estimada de datacenters y edificios de oficina de 15 a 25 anos (efectivo desde el inicio de FY2027), lo que reduce el gasto de depreciacion reportado y mejora el margen operativo reportado sin cambio economico real - reduce la comparabilidad interanual desde FY2027.",
+          "notas": "Comunicación trimestral muy detallada con desglose de segmentos y sub-segmentos; cambio contable relevante a monitorear: extensión de la vida util estimada de datacenters y edificios de oficina de 15 a 25 anos (efectivo desde el inicio de FY2027), lo que reduce el gasto de depreciación reportado y mejora el margen operativo reportado sin cambio económico real - reduce la comparabilidad interanual desde FY2027.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Posicion de CAJA NETA positiva de aprox 20000 millones USD (deuda total 56.83bn USD vs caja mas inversiones de corto plazo de 76.84bn USD) - Deuda Neta a EBITDA negativo (aprox -0.10x). Rating crediticio AAA (S&P) y Aaa (Moody's) - Microsoft es una de solo dos empresas publicas de EEUU con el rating maximo de ambas agencias. Deuda a Patrimonio muy bajo (0.29).",
+          "notas": "Posición de CAJA NETA positiva de aprox 20000 millones USD (deuda total 56.83bn USD vs caja mas inversiones de corto plazo de 76.84bn USD) - Deuda Neta a EBITDA negativo (aprox -0.10x). Rating crediticio AAA (S&P) y Aaa (Moody's) - Microsoft es una de solo dos empresas públicas de EEUU con el rating máximo de ambas agencias. Deuda a Patrimonio muy bajo (0.29).",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.23x - liquidez adecuada, consistente con la solidez del balance y la posicion de caja neta amplia.",
+          "notas": "Razón corriente 1.23x - liquidez adecuada, consistente con la solidez del balance y la posición de caja neta amplia.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Deuda total moderada (56.83bn USD) con calificacion de grado de inversion maxima (AAA y Aaa); costo de deuda entre los mas bajos del mercado corporativo dado el rating. Sin senales de estres de refinanciamiento.",
+          "notas": "Deuda total moderada (56.83bn USD) con calificación de grado de inversión maxima (AAA y Aaa); costo de deuda entre los mas bajos del mercado corporativo dado el rating. Sin señales de estres de refinanciamiento.",
           "calificacion": 5
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales 758.38bn USD, patrimonio muy solido (442.39bn USD) - balance robusto sin distorsiones de recompras agresivas o M&A transformador reciente como en otras empresas de este Dashboard (LLY, AAPL, CEG).",
+          "notas": "Activos totales 758.38bn USD, patrimonio muy sólido (442.39bn USD) - balance robusto sin distorsiones de recompras agresivas o M&A transformador reciente como en otras empresas de este Dashboard (LLY, AAPL, CEG).",
           "calificacion": 5
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margenes altisimos y estables: margen bruto 67.94%, margen operativo 46.78%, margen neto 40.31% (TTM FY2026). Tension a monitorear: management guia a una leve COMPRESION de margen operativo en FY27 por el capex de IA, mientras el consenso de analistas proyecta EXPANSION de margen a aprox 46.3% para 2028 - contradiccion entre guidance y consenso que amerita seguimiento.",
+          "notas": "Márgenes altisimos y estables: margen bruto 67.94%, margen operativo 46.78%, margen neto 40.31% (TTM FY2026). Tensión a monitorear: management guia a una leve COMPRESIÓN de margen operativo en FY27 por el capex de IA, mientras el consenso de analistas proyecta EXPANSIÓN de margen a aprox 46.3% para 2028 - contradicción entre guidance y consenso que amerita seguimiento.",
           "calificacion": 5
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 34.04%, ROIC entre 20.46% (GuruFocus, promedio 3 anos) y 26.17% (Finviz y stockanalysis) segun fuente - en cualquier caso muy por encima del WACC estimado (aprox 9.46%), spread de retornos excedentes muy amplio. DuPont point-in-time (30.25%) reconcilia razonablemente con el ROE reportado.",
+          "notas": "ROE 34.04%, ROIC entre 20.46% (GuruFocus, promedio 3 anos) y 26.17% (Finviz y stockanalysis) según fuente - en cualquier caso muy por encima del WACC estimado (aprox 9.46%), spread de retornos excedentes muy amplio. DuPont point-in-time (30.25%) reconcilia razonablemente con el ROE reportado.",
           "calificacion": 5
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada (0.44x, Revenue TTM 331.84bn sobre Activos totales 758.38bn) - razonable para una empresa de software y cloud con un balance cada vez mas dominado por activos de datacenters de capital intensivo.",
+          "notas": "Rotación de activos moderada (0.44x, Revenue TTM 331.84bn sobre Activos totales 758.38bn) - razonable para una empresa de software y cloud con un balance cada vez mas dominado por activos de datacenters de capital intensivo.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Crecimiento historico solido (CAGR de ingresos a 5 anos aprox 13.2%) con ACELERACION reciente marcada hacia el consenso de analistas forward de aprox 18% para 2027 - impulsada por Azure y la demanda de IA. Mismo patron de supercycle ya identificado en NVDA, MU, TSM y PLTR de este Dashboard: el crecimiento esperado hacia adelante supera claramente al promedio historico.",
+          "notas": "Crecimiento histórico sólido (CAGR de ingresos a 5 anos aprox 13.2%) con ACELERASIÓN reciente marcada hacia el consenso de analistas forward de aprox 18% para 2027 - impulsada por Azure y la demanda de IA. Mismo patrón de supercycle ya identificado en NVDA, MU, TSM y PLTR de este Dashboard: el crecimiento esperado hacia adelante supera claramente al promedio histórico.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Crecimiento consistente y de base amplia (tres segmentos diversificados, ningun producto unico domina), a diferencia de otras empresas de este Dashboard con crecimiento concentrado en un solo producto (LLY-tirzepatida, SNDK-NAND). La aceleracion actual esta impulsada especificamente por Azure e IA, pero el negocio subyacente (Office, Windows, LinkedIn) es maduro y estable.",
+          "notas": "Crecimiento consistente y de base amplia (tres segmentos diversificados, ningún producto único domina), a diferencia de otras empresas de este Dashboard con crecimiento concentrado en un solo producto (LLY-tirzepatida, SNDK-NAND). La aceleración actual esta impulsada específicamente por Azure e IA, pero el negocio subyacente (Office, Windows, LinkedIn) es maduro y estable.",
           "calificacion": 4
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Backlog record (Remaining Performance Obligation comercial de 678000 millones USD, +84% interanual) impulsado en parte por el compromiso de OpenAI de 250000 millones USD en servicios de Azure; expansion continua de asientos de Copilot; roadmap de chips propios (Maia para IA, Cobalt para CPU ARM) fabricados indirectamente via TSMC.",
+          "notas": "Backlog récord (Remaining Performance Obligation comercial de 678000 millones USD, +84% interanual) impulsado en parte por el compromiso de OpenAI de 250000 millones USD en servicios de Azure; expansión continua de asientos de Copilot; roadmap de chips propios (Maia para IA, Cobalt para CPU ARM) fabricados indirectamente via TSMC.",
           "calificacion": 5
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 182.9bn USD (+34% interanual) muy por encima de la utilidad neta TTM 133.75bn USD - calidad de ganancias excelente y sin senales de distorsion contable.",
+          "notas": "OCF TTM 182.9bn USD (+34% interanual) muy por encima de la utilidad neta TTM 133.75bn USD - calidad de ganancias excelente y sin señales de distorsión contable.",
           "calificacion": 5
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 66.99bn USD, en realidad CAYO -6.5% interanual pese al boom de ingresos, porque el capex casi se duplico (+80% interanual) - mismo patron de compresion de FCF por capex de IA ya identificado en LLY, SNDK, BABA y TSM de este Dashboard. El P a FCF de mercado (aprox 54x) es mucho mas exigente que el P a E (aprox 27x), la senal numerica directa de esta compresion.",
+          "notas": "FCF TTM 66.99bn USD, en realidad CAYO -6.5% interanual pese al boom de ingresos, porque el capex casi se duplico (+80% interanual) - mismo patrón de compresión de FCF por capex de IA ya identificado en LLY, SNDK, BABA y TSM de este Dashboard. El P a FCF de mercado (aprox 54x) es mucho mas exigente que el P a E (aprox 27x), la señal numerica directa de esta compresión.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex casi enteramente de crecimiento (expansion de infraestructura de IA y datacenters): 115.9bn USD en FY2026 (vs 64.6bn USD en FY2025), con guidance de capex calendario 2026 de aprox 175000 millones USD - uno de los niveles de reinversion mas altos de cualquier empresa de este Dashboard en terminos absolutos.",
+          "notas": "Capex casi enteramente de crecimiento (expansión de infraestructura de IA y datacenters): 115.9bn USD en FY2026 (vs 64.6bn USD en FY2025), con guidance de capex calendario 2026 de aprox 175000 millones USD - uno de los niveles de reinversión mas altos de cualquier empresa de este Dashboard en términos absolutos.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Uso de capital dominado por la reinversion masiva en infraestructura de IA; dividendo estable y recompras moderadas; balance conservador (Deuda a Patrimonio 0.29x) que da flexibilidad para sostener el nivel de capex sin apalancarse.",
+          "notas": "Uso de capital dominado por la reinversión masiva en infraestructura de IA; dividendo estable y recompras moderadas; balance conservador (Deuda a Patrimonio 0.29x) que da flexibilidad para sostener el nivel de capex sin apalancarse.",
           "calificacion": 4
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "PE TTM aprox 27.4x, forward PE entre 20.9x y 25.1x segun fuente, EV a EBITDA 19.0x, P a FCF extremadamente alto (aprox 54x, EV a FCF aprox 55x) - la brecha entre PE (27x) y P a FCF (54x) es la senal mas clara de que el capex de IA esta comprimiendo el FCF muy por debajo de la utilidad neta.",
+          "notas": "PE TTM aprox 27.4x, forward PE entre 20.9x y 25.1x según fuente, EV a EBITDA 19.0x, P a FCF extremadamente alto (aprox 54x, EV a FCF aprox 55x) - la brecha entre PE (27x) y P a FCF (54x) es la señal mas clara de que el capex de IA esta comprimiendo el FCF muy por debajo de la utilidad neta.",
           "calificacion": 2
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio (adoptado): FCF base TTM 66.99bn USD (ya comprimido por el capex de IA, guidance de capex calendario 2026 aun mayor sugiere que el FCF podria comprimirse mas), WACC 9.46% (beta confiable 1.10, consistente entre Finviz y stockanalysis; costo de deuda post-impuestos aprox 3.4% sobre rating AAA y Aaa), crecimiento decreciente tipo fade de 16% a 8% en 5 anios (por debajo del consenso forward de aprox 18%), terminal 4% -> 245.10 USD por accion. Escenario de sensibilidad mas generoso (crecimiento plano 18%, matching el consenso, no adoptado) da 309.80 USD, margen -36.9% - todavia profundamente negativo.",
+          "notas": "DCF propio (adoptado): FCF base TTM 66.99bn USD (ya comprimido por el capex de IA, guidance de capex calendario 2026 aun mayor sugiere que el FCF podría comprimirse mas), WACC 9.46% (beta confiable 1.10, consistente entre Finviz y stockanalysis; costo de deuda post-impuestos aprox 3.4% sobre rating AAA y Aaa), crecimiento decreciente tipo fade de 16% a 8% en 5 años (por debajo del consenso forward de aprox 18%), terminal 4% -> 245.10 USD por acción. Escenario de sensibilidad mas generoso (crecimiento plano 18%, matching el consenso, no adoptado) da 309.80 USD, margen -36.9% - todavía profundamente negativo.",
           "calificacion": 2
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de seguridad -50.0% en el escenario base y -36.9% en el escenario mas generoso - ambos profundamente negativos, PERO fuertemente dependiente de que el FCF actual (comprimido por el pico de capex de IA) sea la base correcta - si el capex se normaliza y el FCF converge de vuelta hacia la utilidad neta (el doble del FCF actual), la conclusion cambiaria sustancialmente. Consenso de analistas (56 analistas, Strong Buy, objetivo promedio 560.70 a 567.58 USD, +14% de alza) diverge en direccion OPUESTA a este DCF.",
+          "notas": "Margen de seguridad -50.0% en el escenario base y -36.9% en el escenario mas generoso - ambos profundamente negativos, PERO fuertemente dependiente de que el FCF actual (comprimido por el pico de capex de IA) sea la base correcta - si el capex se normaliza y el FCF converge de vuelta hacia la utilidad neta (el doble del FCF actual), la conclusión cambiaria sustancialmente. Consenso de analistas (56 analistas, Strong Buy, objetivo promedio 560.70 a 567.58 USD, +14% de alza) diverge en dirección OPUESTA a este DCF.",
           "calificacion": 2
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM enorme en cloud (Azure, con la demanda superando la capacidad disponible segun la propia CFO) e IA generativa (Copilot, relacion con OpenAI); ademas de la base instalada masiva y estable de Windows, Office y LinkedIn.",
+          "notas": "TAM enorme en cloud (Azure, con la demanda superando la capacidad disponible según la propia CFO) e IA generativa (Copilot, relación con OpenAI); además de la base instalada masiva y estable de Windows, Office y LinkedIn.",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas: escala de capex en infraestructura de IA que solo un punado de hyperscalers puede igualar, switching costs del ecosistema empresarial (Active Directory, Microsoft 365, Teams), y la relacion unica con OpenAI (licencia de modelos hasta 2032).",
+          "notas": "Muy altas: escala de capex en infraestructura de IA que solo un punado de hyperscalers puede igualar, switching costs del ecosistema empresarial (Active Directory, Microsoft 365, Teams), y la relación única con OpenAI (licencia de modelos hasta 2032).",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta entre pocos hyperscalers de escala comparable (AWS el lider de cloud, Google Cloud, Google Workspace en productividad, Salesforce en CRM); poder de proveedor relevante en chips de IA (Nvidia, AMD, y TSMC indirectamente para los chips propios Maia y Cobalt); poder de comprador alto por parte de clientes empresariales grandes pero con switching costs que lo mitigan; amenaza de sustitutos moderada en IA generativa (Google Gemini, Anthropic); barreras de entrada muy altas.",
+          "notas": "Rivalidad alta entre pocos hyperscalers de escala comparable (AWS el líder de cloud, Google Cloud, Google Workspace en productividad, Salesforce en CRM); poder de proveedor relevante en chips de IA (Nvidia, AMD, y TSMC indirectamente para los chips propios Maia y Cobalt); poder de comprador alto por parte de clientes empresariales grandes pero con switching costs que lo mitigan; amenaza de sustitutos moderada en IA generativa (Google Gemini, Anthropic); barreras de entrada muy altas.",
           "calificacion": 4
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Beta 1.10 (confiable, consistente entre Finviz y stockanalysis, decadas de historial de cotizacion) - moderadamente por encima de 1, reflejo de exposicion tecnologica pero con la base de ingresos mas diversificada y estable de cualquier empresa de alto crecimiento de este Dashboard.",
+          "notas": "Beta 1.10 (confiable, consistente entre Finviz y stockanalysis, décadas de historial de cotización) - moderadamente por encima de 1, reflejo de exposición tecnologica pero con la base de ingresos mas diversificada y estable de cualquier empresa de alto crecimiento de este Dashboard.",
           "calificacion": 4
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Multiples frentes de litigio antimonopolio activos: acuerdo alcanzado con la UE (sep-2025, sin multa, compromisos de interoperabilidad de Teams por 7-10 anos); demanda activa de Salesforce y Slack en el Reino Unido (abr-2026) por bundling anticompetitivo de Teams; investigacion antimonopolio amplia de la FTC en EEUU (la mas extensa desde los anos 90) sobre licenciamiento de Azure, bundling de Copilot, y la relacion con OpenAI.",
+          "notas": "Múltiples frentes de litigio antimonopolio activos: acuerdo alcanzado con la UE (sep-2025, sin multa, compromisos de interoperabilidad de Teams por 7-10 anos); demanda activa de Salesforce y Slack en el Reino Unido (abr-2026) por bundling anticompetitivo de Teams; investigación antimonopolio amplia de la FTC en EEUU (la mas extensa desde los anos 90) sobre licenciamiento de Azure, bundling de Copilot, y la relación con OpenAI.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria moderada por la escala global del negocio (Azure y M365 operan en decenas de paises), aunque no es el riesgo dominante de esta tesis - Microsoft reporta crecimiento tanto en terminos reportados como en moneda constante de forma consistente.",
+          "notas": "Exposición cambiaria moderada por la escala global del negocio (Azure y M365 operan en decenas de paises), aunque no es el riesgo dominante de esta tesis - Microsoft reporta crecimiento tanto en términos reportados como en moneda constante de forma consistente.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Sin concentracion de cliente tradicional (base de clientes empresariales, gubernamentales y de consumo muy diversificada), aunque OpenAI emerge como un socio-cliente notable (compromiso de 250000 millones USD en servicios de Azure). Dependencia de proveedores de chips de IA (Nvidia, AMD) y de TSMC indirectamente para los chips propios Maia y Cobalt.",
+          "notas": "Sin concentración de cliente tradicional (base de clientes empresariales, gubernamentales y de consumo muy diversificada), aunque OpenAI emerge como un socio-cliente notable (compromiso de 250000 millones USD en servicios de Azure). Dependencia de proveedores de chips de IA (Nvidia, AMD) y de TSMC indirectamente para los chips propios Maia y Cobalt.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo real de evolucion de la relacion con OpenAI: el acuerdo revisado de abr-2026 elimino la exclusividad de AGI, permitiendo que OpenAI licencie sus modelos a competidores directos de Microsoft (Google, Amazon) y en cualquier cloud - senal de que OpenAI se esta volviendo mas independiente. Microsoft ya no recibe revenue share de OpenAI (aunque mantiene pagos con techo hasta 2030 y licencia de modelos hasta 2032).",
+          "notas": "Riesgo real de evolución de la relación con OpenAI: el acuerdo revisado de abr-2026 elimino la exclusividad de AGI, permitiendo que OpenAI licencie sus modelos a competidores directos de Microsoft (Google, Amazon) y en cualquier cloud - señal de que OpenAI se esta volviendo mas independiente. Microsoft ya no recibe revenue share de OpenAI (aunque mantiene pagos con techo hasta 2030 y licencia de modelos hasta 2032).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin banderas rojas mayores identificadas en esta sesion; el consumo masivo de energia y agua de los datacenters de IA es un tema de escrutinio ambiental creciente en la industria, aunque no se profundizo especificamente para Microsoft en esta sesion.",
+          "notas": "Sin banderas rojas mayores identificadas en esta sesión; el consumo masivo de energía y agua de los datacenters de IA es un tema de escrutinio ambiental creciente en la industria, aunque no se profundizo específicamente para Microsoft en esta sesión.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados de Q1 FY2027 con guidance de capex superior a 50000 millones USD ya anticipado; avance de la investigacion antimonopolio de la FTC en EEUU y de la demanda de Salesforce-Slack en el Reino Unido; evolucion de la relacion con OpenAI tras la eliminacion de la exclusividad de AGI.",
+          "notas": "Resultados de Q1 FY2027 con guidance de capex superior a 50000 millones USD ya anticipado; avance de la investigación antimonopolio de la FTC en EEUU y de la demanda de Salesforce-Slack en el Reino Unido; evolución de la relación con OpenAI tras la eliminación de la exclusividad de AGI.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Insider ownership reportado con discrepancia entre fuentes (0.03% a 1.56% segun fuente) - no se identifico informacion especifica de compras o ventas recientes de insiders en esta sesion.",
+          "notas": "Insider ownership reportado con discrepancia entre fuentes (0.03% a 1.56% según fuente) - no se identifico información específica de compras o ventas recientes de insiders en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura muy amplia (56 analistas), calificacion de consenso Strong Buy, objetivo promedio entre 560.70 y 567.58 USD segun la fuente (los tres objetivos consultados convergen en un rango estrecho de 560 a 568 USD), equivalente a un alza de aprox 14% a 15% desde el precio actual - fuertemente mas optimista que la conclusion de este DCF propio, en direccion OPUESTA (mismo patron que HOOD, COIN, SNDK, BABA, TSM o PLTR), aunque la convergencia entre fuentes de consenso da cierta confianza en que el mercado ve la accion como atractiva pese al capex.",
+          "notas": "Cobertura muy amplia (56 analistas), calificación de consenso Strong Buy, objetivo promedio entre 560.70 y 567.58 USD según la fuente (los tres objetivos consultados convergen en un rango estrecho de 560 a 568 USD), equivalente a un alza de aprox 14% a 15% desde el precio actual - fuertemente mas optimista que la conclusión de este DCF propio, en dirección OPUESTA (mismo patrón que HOOD, COIN, SNDK, BABA, TSM o PLTR), aunque la convergencia entre fuentes de consenso da cierta confianza en que el mercado ve la acción como atractiva pese al capex.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.864864864864865,
-    "recomendacion": "MANTENER CON CAUTELA - VALORACION EXIGENTE DADO EL CAPEX ACTUAL DE IA (el DCF esta fuertemente condicionado a que el FCF comprimido actual sea la base correcta; si el capex se normaliza la conclusion podria cambiar sustancialmente)",
-    "tesis": "Uno de los negocios de mas alta calidad de todo este Dashboard (moat dominante, rating crediticio maximo, crecimiento diversificado de base amplia), pero cotizando a un precio que exige que el capex masivo de IA se traduzca eventualmente en flujo de caja libre, no solo en ingresos y utilidad contable."
+    "recomendacion": "MANTENER CON CAUTELA - VALORASIÓN EXIGENTE DADO EL CAPEX ACTUAL DE IA (el DCF esta fuertemente condicionado a que el FCF comprimido actual sea la base correcta; si el capex se normaliza la conclusión podría cambiar sustancialmente)",
+    "tesis": "Uno de los negocios de mas alta calidad de todo este Dashboard (moat dominante, rating crediticio máximo, crecimiento diversificado de base amplia), pero cotizando a un precio que exige que el capex masivo de IA se traduzca eventualmente en flujo de caja libre, no solo en ingresos y utilidad contable."
   }
 }

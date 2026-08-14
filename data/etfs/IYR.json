@@ -1,35 +1,35 @@
 {
   "nombre": "iShares U.S. Real Estate ETF",
   "ticker": "IYR",
-  "categoria": "Equity Tematico/Factor (REITs de EEUU, Dow Jones U.S. Real Estate Capped Index -EXCLUYE mortgage REITs, misma metodologia que SCHH- - COMPLETA una comparacion de TRES vias REIT del proyecto junto a SCHH -fila 119- y VNQ -fila 120-, ambos ya en el workbook. El MAS ANTIGUO de los tres -jun-2000, mismo dia que IYK/IYM ya en el workbook- pero tambien el MAS CARO -TER 0.38%- y PARADOJICAMENTE el MAS LIQUIDO pese a tener el AUM mas pequeno de los tres)",
+  "categoria": "Equity Temático/Factor (REITs de EEUU, Dow Jones U.S. Real Estate Capped Index -EXCLUYE mortgage REITs, misma metodología que SCHH- - COMPLETA una comparación de TRES vias REIT del proyecto junto a SCHH -fila 119- y VNQ -fila 120-, ambos ya en el workbook. El MAS ANTIGUO de los tres -jun-2000, mismo dia que IYK/IYM ya en el workbook- pero también el MAS CARO -TER 0.38%- y PARADOJICAMENTE el MAS LIQUIDO pese a tener el AUM mas pequeño de los tres)",
   "emisor": "iShares (BlackRock)",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica fisica completa, estructura estandar iShares.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica física completa, estructura estándar iShares.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, RIC estandar.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, RIC estándar.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$4.5bn - el MAS PEQUENO de los tres fondos REIT del proyecto -SCHH ~$11.4bn, VNQ ~$39.3bn-.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$4.5bn - el MAS PEQUEÑO de los tres fondos REIT del proyecto -SCHH ~$11.4bn, VNQ ~$39.3bn-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 12-jun-2000 (~26.17 anios) - **EL MAS ANTIGUO de los tres fondos REIT** -VNQ 2004, SCHH 2011-, predata la Crisis 2008 por completo. **MISMO DIA EXACTO que IYK e IYM**, ambos ya en el workbook -confirma un lanzamiento coordinado del emisor de su cohorte sectorial de 2000, ahora TRES miembros en el workbook-.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 12-jun-2000 (~26.17 años) - **EL MAS ANTIGUO de los tres fondos REIT** -VNQ 2004, SCHH 2011-, predata la Crisis 2008 por completo. **MISMO DIA EXACTO que IYK e IYM**, ambos ya en el workbook -confirma un lanzamiento coordinado del emisor de su cohorte sectorial de 2000, ahora TRES miembros en el workbook-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor iShares/BlackRock.",
           "calificacion": 4
         }
@@ -40,153 +40,153 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER **0.38%** - **POR MUCHO el mas caro de los tres fondos REIT** -~5.4x SCHH -0.07%-, ~3x VNQ -0.13%--, misma banda cara que IYK/IYM/IYZ.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica fisica de un indice Dow Jones capped bien definido - tracking razonable esperado.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica física de un índice Dow Jones capped bien definido - tracking razonable esperado.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "RIC estandar, no verificado si presta valores esta sesion.",
+          "notas": "RIC estándar, no verificado si presta valores esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Revision periodica Dow Jones estandar, turnover moderado.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Revisión periodica Dow Jones estándar, turnover moderado.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen 1.5-5.7M acciones/dia (~$150-590M/dia) - **PARADOJICAMENTE el MAS LIQUIDO de los tres fondos REIT pese a tener el AUM mas pequeno** - legado de su inception en 2000 con canastas de creacion/redencion profundas y mercado de opciones activo, posicionado historicamente para trading tactico mas que buy-and-hold.",
+          "notas": "Volumen 1.5-5.7M acciones/dia (~$150-590M/dia) - **PARADOJICAMENTE el MAS LIQUIDO de los tres fondos REIT pese a tener el AUM mas pequeño** - legado de su inception en 2000 con canastas de creación/redención profundas y mercado de opciones activo, posicionado históricamente para trading táctico mas que buy-and-hold.",
           "calificacion": 5
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread ~1-2 puntos basicos - muy ajustado, coherente con la liquidez excepcional.",
+          "notas": "Spread ~1-2 puntos básicos - muy ajustado, coherente con la liquidez excepcional.",
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV +0.10% - pequeno, cifra razonablemente precisa.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV +0.10% - pequeño, cifra razonablemente precisa.",
           "calificacion": 4
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "iShares/BlackRock - dada la liquidez historica excepcional, probablemente la red de AP mas profunda de cualquier REIT ETF del proyecto.",
+          "notas": "iShares/BlackRock - dada la liquidez histórica excepcional, probablemente la red de AP mas profunda de cualquier REIT ETF del proyecto.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 4.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
+          "aspecto": "Número de holdings y diversificación",
           "notas": "65 holdings - menos que SCHH -121-, mas concentrado por conteo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 51.35-52.50% del NAV - similar a SCHH -50.43%-, concentracion moderada.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 51.35-52.50% del NAV - similar a SCHH -50.43%-, concentración moderada.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "96.6% Real Estate, 100% US - desglose granular por sub-sector no encontrado esta sesion -vacio de dato-, misma exclusion de mortgage REITs que SCHH.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "96.6% Real Estate, 100% US - desglose granular por sub-sector no encontrado esta sesión -vacio de dato-, misma exclusión de mortgage REITs que SCHH.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% real estate de EEUU por alcance del indice.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% real estate de EEUU por alcance del índice.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Real Estate puro -equity REITs, excluye mREITs-, misma definicion de alcance que SCHH, cap-weighted.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Real Estate puro -equity REITs, excluye mREITs-, misma definición de alcance que SCHH, cap-weighted.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Dow Jones U.S. Real Estate Capped Index - bien establecido, aunque el detalle de los topes de concentracion no se exploro tan a fondo esta sesion como en SCHH.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Dow Jones U.S. Real Estate Capped Index - bien establecido, aunque el detalle de los topes de concentración no se exploro tan a fondo esta sesión como en SCHH.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Revision periodica Dow Jones estandar.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Revisión periodica Dow Jones estándar.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y +11.91% a +13.35% -conflicto de fuente-, 3Y anualizado +8.84%, **5Y anualizado solo +2.27% -EL MAS DEBIL de los tres fondos REIT del proyecto, incluso por debajo de VNQ-**, 10Y anualizado +5.13-5.72% -el MEJOR de los tres-, desde inception -26.17 anios- +8.32-8.38% anualizado -comparable/levemente mejor que SCHH/VNQ, reflejo de su historia mas larga incluyendo mercados alcistas adicionales pese a 2008-.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y +11.91% a +13.35% -conflicto de fuente-, 3Y anualizado +8.84%, **5Y anualizado solo +2.27% -EL MAS DÉBIL de los tres fondos REIT del proyecto, incluso por debajo de VNQ-**, 10Y anualizado +5.13-5.72% -el MEJOR de los tres-, desde inception -26.17 años- +8.32-8.38% anualizado -comparable/levemente mejor que SCHH/VNQ, reflejo de su historia mas larga incluyendo mercados alcistas adicionales pese a 2008-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Rango 52 semanas $92.45-$108.17 (ratio 1.170x) - el MAS BAJO de los tres fondos REIT del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown -71% a -74%** en torno a la Crisis 2008 -peor mes oct-2008 -31.3%, peor dia 1-dic-2008 -20.6%, ano completo 2008 -39.88%-, **~69 meses -~5.75 anios- para recuperacion completa -la MAS LARGA de los tres fondos REIT del proyecto**, supera a VNQ -~885 sesiones/~3.5 anios-. COVID: ano completo -5.27% -relativamente resiliente comparado con el drawdown pico de SCHH -44.22%, aunque miden cosas distintas-. Bear 2022: -25.50% -similar a SCHH -24.99%-.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown -71% a -74%** en torno a la Crisis 2008 -peor mes oct-2008 -31.3%, peor dia 1-dic-2008 -20.6%, ano completo 2008 -39.88%-, **~69 meses -~5.75 años- para recuperación completa -la MAS LARGA de los tres fondos REIT del proyecto**, supera a VNQ -~885 sesiones/~3.5 años-. COVID: ano completo -5.27% -relativamente resiliente comparado con el drawdown pico de SCHH -44.22%, aunque miden cosas distintas-. Bear 2022: -25.50% -similar a SCHH -24.99%-.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe desde inception -26 anios- solo ~0.27 -refleja una historia de riesgo-retorno genuinamente pobre en el muy largo plazo-, 1 anio ~0.74 -mucho mas fuerte en el corto plazo-.",
+          "notas": "Sharpe desde inception -26 años- solo ~0.27 -refleja una historia de riesgo-retorno genuinamente pobre en el muy largo plazo-, 1 año ~0.74 -mucho mas fuerte en el corto plazo-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta = 0.98-0.99 vs S&P 500 - cercano a 1.0, similar a VNQ, ligeramente mas alto que SCHH -0.95-.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**Dataset de crisis MAS RICO y ANTIGUO de los tres fondos REIT**: Crisis 2008 -71% a -74%/~69 meses, la recuperacion mas larga- + COVID -5.27% ano completo, resiliente- + bear 2022 -25.50%-.",
+          "notas": "**Dataset de crisis MAS RICO y ANTIGUO de los tres fondos REIT**: Crisis 2008 -71% a -74%/~69 meses, la recuperación mas larga- + COVID -5.27% ano completo, resiliente- + bear 2022 -25.50%-.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "P/E 27.83-28.93x - similar a SCHH -29.11x- y VNQ -29.21x-, convergencia notable entre los tres fondos REIT. P/B y P/FFO no encontrados -mismo vacio que SCHH/VNQ-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield 2.19-2.21% - **el MAS BAJO de los tres fondos REIT del proyecto** -SCHH 2.66-2.78%, VNQ 3.57%-, pese a compartir la exclusion de mREIT de SCHH.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield 2.19-2.21% - **el MAS BAJO de los tres fondos REIT del proyecto** -SCHH 2.66-2.78%, VNQ 3.57%-, pese a compartir la exclusión de mREIT de SCHH.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPLETA una comparacion de TRES VIAS REIT del proyecto**: IYR vs SCHH -fila 119- vs VNQ -fila 120-, ambos ya en el workbook, los tres comparten Welltower/Prologis/American Tower como top holdings -mismo puente al proyecto hermano de acciones y su metodologia FFO/AFFO ya establecida-. Jerarquia clara: TER SCHH -0.07%- < VNQ -0.13%- < IYR -0.38%-; AUM VNQ -$39.3bn- > SCHH -$11.4bn- > IYR -$4.5bn-; pero IYR es PARADOJICAMENTE el MAS LIQUIDO pese al AUM mas pequeno -posicionamiento tactico/de opciones, no de eficiencia de costo buy-and-hold-. IYR es el MAS ANTIGUO -2000- con la cobertura de Crisis 2008 mas completa, pero tambien la recuperacion MAS LARGA -~69 meses- de los tres. Mismo dia de inception que IYK/IYM, ya en el workbook -TERCER miembro de esa cohorte especifica del emisor-.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPLETA una comparación de TRES VIAS REIT del proyecto**: IYR vs SCHH -fila 119- vs VNQ -fila 120-, ambos ya en el workbook, los tres comparten Welltower/Prologis/American Tower como top holdings -mismo puente al proyecto hermano de acciones y su metodología FFO/AFFO ya establecida-. Jerarquia clara: TER SCHH -0.07%- < VNQ -0.13%- < IYR -0.38%-; AUM VNQ -$39.3bn- > SCHH -$11.4bn- > IYR -$4.5bn-; pero IYR es PARADOJICAMENTE el MAS LIQUIDO pese al AUM mas pequeño -posicionamiento táctico/de opciones, no de eficiencia de costo buy-and-hold-. IYR es el MAS ANTIGUO -2000- con la cobertura de Crisis 2008 mas completa, pero también la recuperación MAS LARGA -~69 meses- de los tres. Mismo dia de inception que IYK/IYM, ya en el workbook -TERCER miembro de esa cohorte específica del emisor-.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **SATELITE TACTICO/de trading** dada su liquidez y profundidad de mercado de opciones excepcionales, mas que un vehiculo de eficiencia de costo buy-and-hold -donde SCHH/VNQ son claramente superiores-.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **SATÉLITE TÁCTICO/de trading** dada su liquidez y profundidad de mercado de opciones excepcionales, mas que un vehículo de eficiencia de costo buy-and-hold -donde SCHH/VNQ son claramente superiores-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: vehiculo REIT legacy altamente liquido, valioso para exposicion tactica/basada en opciones al sector inmobiliario, PERO NO competitivo en costo para asignacion buy-and-hold dado que SCHH/VNQ ofrecen la misma o mayor exposicion a una fraccion del costo.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: vehículo REIT legacy altamente liquido, valioso para exposición táctica/basada en opciones al sector inmobiliario, PERO NO competitivo en costo para asignación buy-and-hold dado que SCHH/VNQ ofrecen la misma o mayor exposición a una fracción del costo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) TER 0.38%, por mucho el mas caro de los tres fondos REIT del proyecto, sin ventaja de retorno compensatoria -5Y de hecho el mas debil de los tres-; (2) Max Drawdown Crisis 2008 documentado -71% a -74%- con la recuperacion MAS LARGA de los tres fondos REIT -~69 meses-; (3) bear 2022 -25.50%, confirma sensibilidad a tasas; (4) Sharpe desde inception de solo ~0.27, refleja un perfil de riesgo-retorno genuinamente pobre en el muy largo plazo; (5) mismo vacio de datos de P/FFO/P/AFFO que SCHH/VNQ.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) TER 0.38%, por mucho el mas caro de los tres fondos REIT del proyecto, sin ventaja de retorno compensatoria -5Y de hecho el mas débil de los tres-; (2) Max Drawdown Crisis 2008 documentado -71% a -74%- con la recuperación MAS LARGA de los tres fondos REIT -~69 meses-; (3) bear 2022 -25.50%, confirma sensibilidad a tasas; (4) Sharpe desde inception de solo ~0.27, refleja un perfil de riesgo-retorno genuinamente pobre en el muy largo plazo; (5) mismo vacio de datos de P/FFO/P/AFFO que SCHH/VNQ.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "SCHH -fila 119, ya en el workbook, mas barato, misma exclusion de mREIT, mejor retorno 5Y- y VNQ -fila 120, ya en el workbook, mas grande/amplio/mayor yield- son AMBAS alternativas mas baratas para la misma tesis central de 'REIT equity de EEUU' - el unico diferenciador genuino de IYR es su liquidez/profundidad de mercado de opciones, relevante solo para uso tactico, no para asignacion buy-and-hold.",
+          "notas": "SCHH -fila 119, ya en el workbook, mas barato, misma exclusión de mREIT, mejor retorno 5Y- y VNQ -fila 120, ya en el workbook, mas grande/amplio/mayor yield- son AMBAS alternativas mas baratas para la misma tesis central de 'REIT equity de EEUU' - el único diferenciador genuino de IYR es su liquidez/profundidad de mercado de opciones, relevante solo para uso táctico, no para asignación buy-and-hold.",
           "calificacion": 5
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA - vehiculo REIT legacy liquido pero caro, SCHH/VNQ mas eficientes para buy-and-hold. Score 3.21/5, por debajo de SCHH -3.39- y VNQ -3.42-. iShares U.S. Real Estate ETF, Dow Jones U.S. Real Estate Capped Index -EXCLUYE mortgage REITs, misma metodologia que SCHH-. **COMPLETA una comparacion de TRES VIAS REIT del proyecto** junto a SCHH -fila 119- y VNQ -fila 120-, ambos ya en el workbook, los tres compartiendo Welltower/Prologis/American Tower como top holdings y el mismo puente al proyecto hermano de acciones -metodologia FFO/AFFO via DDM-. **EL MAS ANTIGUO de los tres** -inception 12-jun-2000, MISMO DIA que IYK/IYM ya en el workbook, TERCER miembro de esa cohorte del emisor-, predata la Crisis 2008 completa: Max Drawdown VERIFICADO -71% a -74%, con la recuperacion MAS LARGA de los tres fondos REIT del proyecto -~69 meses, ~5.75 anios-. PERO **TER 0.38%, POR MUCHO el mas caro de los tres** -~5.4x SCHH, ~3x VNQ- sin ventaja de retorno compensatoria -5Y anualizado solo +2.27%, el MAS DEBIL de los tres, aunque 10Y es el mejor de los tres con +5.13-5.72%-. Dividend yield 2.19-2.21%, el mas bajo de los tres pese a compartir la exclusion de mREIT de SCHH. **Hallazgo distintivo**: PARADOJICAMENTE el MAS LIQUIDO de los tres fondos REIT -volumen $150-590M/dia- pese a tener el AUM MAS PEQUENO -$4.5bn-, legado de su inception en 2000 con mercado de opciones profundo, posicionado historicamente para uso TACTICO mas que buy-and-hold. Sharpe desde inception de solo ~0.27, refleja un perfil de riesgo-retorno pobre en el muy largo plazo. Rol en Portafolio: Satelite tactico/de trading dada su liquidez excepcional, PERO SCHH y VNQ -ambos ya en el workbook- son claramente superiores en costo/eficiencia para una asignacion buy-and-hold de la misma tesis central."
+    "tesis": "ESPERAR MEJOR ENTRADA - vehículo REIT legacy liquido pero caro, SCHH/VNQ mas eficientes para buy-and-hold. Score 3.21/5, por debajo de SCHH -3.39- y VNQ -3.42-. iShares U.S. Real Estate ETF, Dow Jones U.S. Real Estate Capped Index -EXCLUYE mortgage REITs, misma metodología que SCHH-. **COMPLETA una comparación de TRES VIAS REIT del proyecto** junto a SCHH -fila 119- y VNQ -fila 120-, ambos ya en el workbook, los tres compartiendo Welltower/Prologis/American Tower como top holdings y el mismo puente al proyecto hermano de acciones -metodología FFO/AFFO via DDM-. **EL MAS ANTIGUO de los tres** -inception 12-jun-2000, MISMO DIA que IYK/IYM ya en el workbook, TERCER miembro de esa cohorte del emisor-, predata la Crisis 2008 completa: Max Drawdown VERIFICADO -71% a -74%, con la recuperación MAS LARGA de los tres fondos REIT del proyecto -~69 meses, ~5.75 años-. PERO **TER 0.38%, POR MUCHO el mas caro de los tres** -~5.4x SCHH, ~3x VNQ- sin ventaja de retorno compensatoria -5Y anualizado solo +2.27%, el MAS DÉBIL de los tres, aunque 10Y es el mejor de los tres con +5.13-5.72%-. Dividend yield 2.19-2.21%, el mas bajo de los tres pese a compartir la exclusión de mREIT de SCHH. **Hallazgo distintivo**: PARADOJICAMENTE el MAS LIQUIDO de los tres fondos REIT -volumen $150-590M/dia- pese a tener el AUM MAS PEQUEÑO -$4.5bn-, legado de su inception en 2000 con mercado de opciones profundo, posicionado históricamente para uso TÁCTICO mas que buy-and-hold. Sharpe desde inception de solo ~0.27, refleja un perfil de riesgo-retorno pobre en el muy largo plazo. Rol en Portafolio: Satélite táctico/de trading dada su liquidez excepcional, PERO SCHH y VNQ -ambos ya en el workbook- son claramente superiores en costo/eficiencia para una asignación buy-and-hold de la misma tesis central."
   }
 }

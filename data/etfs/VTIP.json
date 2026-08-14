@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard Short-Term Inflation-Protected Securities ETF",
   "ticker": "VTIP",
-  "categoria": "Renta Fija Gobierno - TIPS de corta duracion (~2.3 anios), proteccion de inflacion",
+  "categoria": "Renta Fija Gobierno - TIPS de corta duración (~2.3 años), protección de inflación",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA, practicamente COMPLETA - el fondo tiene EXACTAMENTE el mismo numero de bonos que el indice (25=25, fact sheet oficial 30-jun-2026), coherente con un universo pequeno de TIPS de corta duracion emitidos por el Tesoro.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA, prácticamente COMPLETA - el fondo tiene EXACTAMENTE el mismo número de bonos que el índice (25=25, fact sheet oficial 30-jun-2026), coherente con un universo pequeño de TIPS de corta duración emitidos por el Tesoro.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. 100% Treasury (TIPS) - mismo beneficio de exencion de impuestos estatales/locales ya documentado con TLH. **Complejidad fiscal ADICIONAL especifica de TIPS, unica en el proyecto**: el ajuste de PRINCIPAL por inflacion tributa como ingreso ORDINARIO en el ano en que ocurre, incluso SIN vender el bono ('phantom income') - una friccion fiscal que ningun otro ETF del proyecto tiene.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. 100% Treasury (TIPS) - mismo beneficio de exención de impuestos estatales/locales ya documentado con TLH. **Complejidad fiscal ADICIONAL específica de TIPS, única en el proyecto**: el ajuste de PRINCIPAL por inflación tributa como ingreso ORDINARIO en el ano en que ocurre, incluso SIN vender el bono ('phantom income') - una fricción fiscal que ningún otro ETF del proyecto tiene.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM = $19,343M (ETF, fact sheet oficial Vanguard 30-jun-2026) / $71,133M (fondo total incl. otras clases) - moderado-grande, mayor que TLH y VCLT, menor que VCSH/VCIT/LQD.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 12-oct-2012 (~13.8 anios) - **EL FONDO DE RENTA FIJA MAS JOVEN DEL PROYECTO** (menor que VCSH/VCLT/VCIT 2009, LQD 2002, HYG/TLH 2007, TMF 2009). Sin cambio de mandato/indice.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 12-oct-2012 (~13.8 años) - **EL FONDO DE RENTA FIJA MAS JOVEN DEL PROYECTO** (menor que VCSH/VCLT/VCIT 2009, LQD 2002, HYG/TLH 2007, TMF 2009). Sin cambio de mandato/índice.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Vanguard - UNDECIMA aparicion en el proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Vanguard - UNDECIMA aparición en el proyecto.",
           "calificacion": 5
         }
       ],
@@ -40,44 +40,44 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.03% - empata el minimo del proyecto (VCSH/VCLT), MUY por debajo del promedio de categoria segun el propio fact sheet de Vanguard: 0.63% (fondos mutuos de proteccion de inflacion) / 0.28% (solo ETFs de la categoria) vs 0.03% de VTIP - ~21x y ~9.3x mas barato respectivamente.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.03% - empata el mínimo del proyecto (VCSH/VCLT), MUY por debajo del promedio de categoría según el propio fact sheet de Vanguard: 0.63% (fondos mutuos de protección de inflación) / 0.28% (solo ETFs de la categoría) vs 0.03% de VTIP - ~21x y ~9.3x mas barato respectivamente.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "**MEJOR PRECISION DE TRACKING DE TODO EL PROYECTO**: NAV vs Indice Bloomberg TIPS 0-5Y (fact sheet oficial 30-jun-2026): 1yr +0.06pp, 3yr +0.03pp, 5yr +0.01pp, 10yr -0.03pp, **desde inception (13.8 anios) = 0.00pp - MATCH PERFECTO (NAV 2.23% = Benchmark 2.23%)** - la Tracking Difference mas ajustada verificada en todo el proyecto, superando incluso a VCIT (-0.09pp desde inception, el record anterior).",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "**MEJOR PRECISIÓN DE TRACKING DE TODO EL PROYECTO**: NAV vs Índice Bloomberg TIPS 0-5Y (fact sheet oficial 30-jun-2026): 1yr +0.06pp, 3yr +0.03pp, 5yr +0.01pp, 10yr -0.03pp, **desde inception (13.8 años) = 0.00pp - MATCH PERFECTO (NAV 2.23% = Benchmark 2.23%)** - la Tracking Difference mas ajustada verificada en todo el proyecto, superando incluso a VCIT (-0.09pp desde inception, el récord anterior).",
           "calificacion": 5
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado explicitamente esta sesion, aunque el tracking ligeramente POSITIVO en algunas ventanas (NAV superando al Indice en 1yr/3yr/5yr) sugiere una posible contribucion, sin confirmacion directa de fuente primaria.",
+          "notas": "Securities lending revenue no verificado explícitamente esta sesión, aunque el tracking ligeramente POSITIVO en algunas ventanas (NAV superando al Índice en 1yr/3yr/5yr) sugiere una posible contribución, sin confirmación directa de fuente primaria.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover rate = 25.0% (fact sheet oficial, cifra exacta) - razonable, menor que VCIT (85.1%), mayor que VCLT (43.9%) - dentro de un rango normal para un fondo de duracion corta con reinversion periodica.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover rate = 25.0% (fact sheet oficial, cifra exacta) - razonable, menor que VCIT (85.1%), mayor que VCLT (43.9%) - dentro de un rango normal para un fondo de duración corta con reinversión periodica.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.25
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 2,888,580 acciones (stockanalysis) x $49.68/accion = aprox $143.5M/dia - modesto, similar en magnitud a TLH, entre los mas bajos del proyecto en renta fija (lejos de los records de LQD/HYG).",
+          "notas": "Volumen diario = 2,888,580 acciones (stockanalysis) x $49.68/acción = aprox $143.5M/dia - modesto, similar en magnitud a TLH, entre los mas bajos del proyecto en renta fija (lejos de los records de LQD/HYG).",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesion.",
+          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,40 +89,40 @@
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "**Solo 25 holdings (fondo=indice, exacto) - EL NUMERO MAS BAJO entre los fondos de renta fija NO-derivados del proyecto** (menor que TLH, 61) - coherente y esperado dado el universo pequeno de TIPS de corta duracion emitidos por el Tesoro de EEUU.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "**Solo 25 holdings (fondo=índice, exacto) - EL NÚMERO MAS BAJO entre los fondos de renta fija NO-derivados del proyecto** (menor que TLH, 61) - coherente y esperado dado el universo pequeño de TIPS de corta duración emitidos por el Tesoro de EEUU.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 holdings no calculado con precision esta sesion (solo 25 bonos totales, distribuidos de forma razonablemente pareja segun la distribucion por vencimiento del fact sheet: ~19-22% en cada banda de 1 anio dentro de la ventana 0-5 anios) - mismo matiz metodologico ya establecido con TLH: la concentracion por emisor unico (100% Tesoro de EEUU) no representa el mismo riesgo que en renta fija corporativa.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 holdings no calculado con precisión esta sesión (solo 25 bonos totales, distribuidos de forma razonablemente pareja según la distribución por vencimiento del fact sheet: ~19-22% en cada banda de 1 año dentro de la ventana 0-5 años) - mismo matiz metodologico ya establecido con TLH: la concentración por emisor único (100% Tesoro de EEUU) no representa el mismo riesgo que en renta fija corporativa.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Distribucion por emisor (fact sheet oficial): Treasury/Agency 99.9%, Other 0.1% - mismo perfil de maxima calidad que TLH, sin riesgo real pese a la concentracion en un unico tipo de emisor.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Distribución por emisor (fact sheet oficial): Treasury/Agency 99.9%, Other 0.1% - mismo perfil de maxima calidad que TLH, sin riesgo real pese a la concentración en un único tipo de emisor.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% deuda del Tesoro de EEUU (TIPS) - sin diversificacion geografica por diseno de la categoria, mismo perfil que TLH.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% deuda del Tesoro de EEUU (TIPS) - sin diversificación geográfica por diseño de la categoría, mismo perfil que TLH.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es PROTECCION CONTRA INFLACION (ajuste de principal ligado al CPI) + duracion CORTA (2.3 anios, muy similar a VCSH 2.4) - **PRIMERA VEZ que un ETF de renta fija del proyecto aisla el riesgo de INFLACION como factor distintivo**, distinto de credito (HYG), tasa pura de duracion larga (TLH/VCLT), o combinacion tasa+credito (VCSH/VCIT/LQD).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es PROTECSIÓN CONTRA INFLASIÓN (ajuste de principal ligado al CPI) + duración CORTA (2.3 años, muy similar a VCSH 2.4) - **PRIMERA VEZ que un ETF de renta fija del proyecto aisla el riesgo de INFLASIÓN como factor distintivo**, distinto de crédito (HYG), tasa pura de duración larga (TLH/VCLT), o combinación tasa+crédito (VCSH/VCIT/LQD).",
           "calificacion": 5
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Bloomberg U.S. Treasury Inflation-Protected Securities (TIPS) 0-5 Year Index - metodologia transparente y simple (banda de vencimiento del Tesoro, market-cap weighted).",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Bloomberg U.S. Treasury Inflation-Protected Securities (TIPS) 0-5 Year Index - metodología transparente y simple (banda de vencimiento del Tesoro, market-cap weighted).",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo con turnover confirmado 25.0% (fact sheet oficial, cifra exacta).",
           "calificacion": 5
         }
@@ -130,62 +130,62 @@
       "rating_promedio": 4.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "**Retorno EXCELENTE, la MEJOR combinacion de retornos recientes de toda la renta fija del proyecto**: NAV 1yr +3.64%, 3yr +5.17% anualizado, **5yr +3.30% anualizado (POSITIVO Y SOLIDO, mejor que VCSH/VCIT/LQD/VCLT en la misma ventana)**, **10yr +3.04% anualizado (EL MEJOR 10yr DE TODA LA RENTA FIJA DEL PROYECTO, supera a VCIT 2.88% y LQD 2.66%)**, desde inception (13.8 anios) +2.23% anualizado (fact sheet oficial, cifras limpias y consistentes en las 5 ventanas). La proteccion de inflacion funciono exactamente como se diseno durante el episodio inflacionario reciente (CPI pico 4.3% mayo-2026).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "**Retorno EXCELENTE, la MEJOR combinación de retornos recientes de toda la renta fija del proyecto**: NAV 1yr +3.64%, 3yr +5.17% anualizado, **5yr +3.30% anualizado (POSITIVO Y SÓLIDO, mejor que VCSH/VCIT/LQD/VCLT en la misma ventana)**, **10yr +3.04% anualizado (EL MEJOR 10yr DE TODA LA RENTA FIJA DEL PROYECTO, supera a VCIT 2.88% y LQD 2.66%)**, desde inception (13.8 años) +2.23% anualizado (fact sheet oficial, cifras limpias y consistentes en las 5 ventanas). La protección de inflación funciono exactamente como se diseño durante el episodio inflacionario reciente (CPI pico 4.3% mayo-2026).",
           "calificacion": 5
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada = 0.41% (PortfoliosLab) - **PRIMERA VEZ EN VARIAS SESIONES QUE UNA CIFRA DE PORTFOLIOSLAB PASA LA PRUEBA DE COHERENCIA INTERNA** (mismo criterio recien establecido con TLH/TMF): coherente con el Max Drawdown de -6.27% (fila 41) y con la duracion corta (2.3 anios) sin riesgo de credito - de hecho MENOR que VCSH (0.62%), razonable dado que TIPS de gobierno tienen aun menos riesgo estructural que bonos corporativos de duracion similar.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada = 0.41% (PortfoliosLab) - **PRIMERA VEZ EN VARIAS SESIONES QUE UNA CIFRA DE PORTFOLIOSLAB PASA LA PRUEBA DE COHERENCIA INTERNA** (mismo criterio recien establecido con TLH/TMF): coherente con el Max Drawdown de -6.27% (fila 41) y con la duración corta (2.3 años) sin riesgo de crédito - de hecho MENOR que VCSH (0.62%), razonable dado que TIPS de gobierno tienen aun menos riesgo estructural que bonos corporativos de duración similar.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown = -6.27% desde inception (PortfoliosLab) - EL MENOR (MEJOR) MAX DRAWDOWN DE TODA LA RENTA FIJA DEL PROYECTO**, mejor incluso que VCSH (-12.86%) - coherente con la duracion corta + maxima calidad crediticia + el amortiguador que ofrece el ajuste de principal por inflacion en un entorno de tasas reales.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown = -6.27% desde inception (PortfoliosLab) - EL MENOR (MEJOR) MAX DRAWDOWN DE TODA LA RENTA FIJA DEL PROYECTO**, mejor incluso que VCSH (-12.86%) - coherente con la duración corta + maxima calidad crediticia + el amortiguador que ofrece el ajuste de principal por inflación en un entorno de tasas reales.",
           "calificacion": 5
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 2.00 (PortfoliosLab, 'since inception') - rango de 1.95 a 3.03 segun la comparacion consultada, PERO a diferencia de otras cifras de Sharpe descartadas en el proyecto (que oscilaban entre valores bajos/negativos e irreconciliables), aqui el rango completo es consistentemente ALTO en todas las variantes - senal mas confiable pese a la dispersion. **De los mejores Sharpe de renta fija del proyecto.**",
+          "notas": "Sharpe Ratio = 2.00 (PortfoliosLab, 'since inception') - rango de 1.95 a 3.03 según la comparación consultada, PERO a diferencia de otras cifras de Sharpe descartadas en el proyecto (que oscilaban entre valores bajos/negativos e irreconciliables), aquí el rango completo es consistentemente ALTO en todas las variantes - señal mas confiable pese a la dispersión. **De los mejores Sharpe de renta fija del proyecto.**",
           "calificacion": 4
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.09 (stockanalysis) - **EL BETA MAS BAJO DE TODA LA RENTA FIJA DEL PROYECTO** (menor que VCSH, 0.13), coherente con duracion corta + cero riesgo de credito. Overlap con acciones individuales: NO APLICA (100% deuda soberana de EEUU).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.09 (stockanalysis) - **EL BETA MAS BAJO DE TODA LA RENTA FIJA DEL PROYECTO** (menor que VCSH, 0.13), coherente con duración corta + cero riesgo de crédito. Overlap con acciones individuales: NO APLICA (100% deuda soberana de EEUU).",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "13.8 anios de historial (el mas corto del proyecto en renta fija) - cubren el taper tantrum 2013, la correccion COVID 2020, y CRUCIALMENTE el episodio inflacionario 2021-2023/2026 (CPI pico 4.3% mayo-2026) - **primera vez que un ETF del proyecto atraviesa un escenario de estres que coincide EXACTAMENTE con su proposito de diseno** (a diferencia de TLH, cuyo escenario de estres reciente -alza de tasas por fortaleza economica- es distinto de su funcion clasica de flight-to-quality).",
+          "notas": "13.8 años de historial (el mas corto del proyecto en renta fija) - cubren el taper tantrum 2013, la corrección COVID 2020, y CRUCIALMENTE el episodio inflacionario 2021-2023/2026 (CPI pico 4.3% mayo-2026) - **primera vez que un ETF del proyecto atraviesa un escenario de estres que coincide EXACTAMENTE con su proposito de diseño** (a diferencia de TLH, cuyo escenario de estres reciente -alza de tasas por fortaleza económica- es distinto de su función clasica de flight-to-quality).",
           "calificacion": 5
         }
       ],
       "rating_promedio": 4.67
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "No aplica - VTIP es un fondo 100% renta fija, sin componente de equity (mismo criterio que el resto de renta fija del proyecto).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 4.15% (stockanalysis) - distribucion TRIMESTRAL (no mensual, mismo patron que TLH/HYG/TMF en vez de VCSH/VCLT/VCIT).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 4.15% (stockanalysis) - distribución TRIMESTRAL (no mensual, mismo patrón que TLH/HYG/TMF en vez de VCSH/VCLT/VCIT).",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "Duracion efectiva = 2.3 anios (fondo=indice, corroboracion perfecta, fact sheet oficial) - muy similar a VCSH (2.4 anios). **SEC Yield ~1.35-1.37% es un YIELD REAL** (ya excluye la compensacion por inflacion, que se paga por separado via ajuste de principal) - NO comparable directamente al YTM NOMINAL del resto de bonos del proyecto, salvedad importante. Calidad crediticia: **US Government 99.9% + sin calificar 0.1% (fact sheet oficial, cifra exacta) - maxima calidad crediticia, con MEJOR precision de fuente que TLH** (aqui si se obtuvo el fact sheet oficial actual, a diferencia del bloqueo de iShares en TLH).",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "Duración efectiva = 2.3 años (fondo=índice, corroboración perfecta, fact sheet oficial) - muy similar a VCSH (2.4 años). **SEC Yield ~1.35-1.37% es un YIELD REAL** (ya excluye la compensación por inflación, que se paga por separado via ajuste de principal) - NO comparable directamente al YTM NOMINAL del resto de bonos del proyecto, salvedad importante. Calidad crediticia: **US Government 99.9% + sin calificar 0.1% (fact sheet oficial, cifra exacta) - maxima calidad crediticia, con MEJOR precisión de fuente que TLH** (aquí si se obtuvo el fact sheet oficial actual, a diferencia del bloqueo de iShares en TLH).",
           "calificacion": 5
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**PRIMERA VEZ que se documenta un marco de valoracion de INFLACION BREAKEVEN para TIPS** (distinto del spread de credito de LQD/VCIT/HYG y del 'no aplica' de TLH): breakeven de inflacion implicito (SEC yield real de VTIP ~1.35% vs yield nominal Treasury 2yr ~3.93%) = aprox 2.58% de inflacion promedio esperada por el mercado. **La inflacion REALIZADA reciente (CPI ~3.4-3.5%, jun-2026) esta POR ENCIMA de ese breakeven** - senal de valoracion FAVORABLE/BARATA para TIPS si la inflacion se mantiene elevada, primer contraste directo con las senales de spread comprimido/CARO ya documentadas en LQD/VCIT/HYG. Competidores identificados sin datos propios verificados: TIP (iShares TIPS Bond, toda la curva de duracion), SCHP (Schwab TIPS).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**PRIMERA VEZ que se documenta un marco de valoración de INFLASIÓN BREAKEVEN para TIPS** (distinto del spread de crédito de LQD/VCIT/HYG y del 'no aplica' de TLH): breakeven de inflación implícito (SEC yield real de VTIP ~1.35% vs yield nominal Treasury 2yr ~3.93%) = aprox 2.58% de inflación promedio esperada por el mercado. **La inflación REALIZADA reciente (CPI ~3.4-3.5%, jun-2026) esta POR ENCIMA de ese breakeven** - señal de valoración FAVORABLE/BARATA para TIPS si la inflación se mantiene elevada, primer contraste directo con las señales de spread comprimido/CARO ya documentadas en LQD/VCIT/HYG. Competidores identificados sin datos propios verificados: TIP (iShares TIPS Bond, toda la curva de duración), SCHP (Schwab TIPS).",
           "calificacion": 5
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "**PRIMER ETF DE PROTECCION CONTRA INFLACION del proyecto** - funcion de cartera unica: cobertura especifica contra el riesgo de INFLACION (no de credito como HYG, no de tasa pura como TLH, no de duracion/mercado como VCLT). Se clasifica como **'Cobertura'** - TERCERA vez que se usa esta categoria (junto a VCSH y TLH), pero aqui por una razon distinta: proteccion del PODER ADQUISITIVO, no de credito ni de crisis de mercado.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "**PRIMER ETF DE PROTECSIÓN CONTRA INFLASIÓN del proyecto** - función de cartera única: cobertura específica contra el riesgo de INFLASIÓN (no de crédito como HYG, no de tasa pura como TLH, no de duración/mercado como VCLT). Se clasifica como **'Cobertura'** - TERCERA vez que se usa esta categoría (junto a VCSH y TLH), pero aquí por una razón distinta: protección del PODER ADQUISITIVO, no de crédito ni de crisis de mercado.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion de corta duracion con proteccion de inflacion - YA demostro funcionar exactamente como se diseno durante el episodio inflacionario reciente (mejor 5yr y 10yr retorno de renta fija del proyecto). El breakeven actual (~2.58%) sugiere valoracion favorable si la inflacion se mantiene por encima de ese nivel, aunque el escenario contrario (inflacion sorprendiendo a la baja) revertiria esa ventaja relativa.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición de corta duración con protección de inflación - YA demostro funcionar exactamente como se diseño durante el episodio inflacionario reciente (mejor 5yr y 10yr retorno de renta fija del proyecto). El breakeven actual (~2.58%) sugiere valoración favorable si la inflación se mantiene por encima de ese nivel, aunque el escenario contrario (inflación sorprendiendo a la baja) revertiria esa ventaja relativa.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo de tasa REAL (mitigado por duracion corta, 2.3 anios); (2) **'phantom income' fiscal - el ajuste de principal por inflacion tributa como ingreso el ano en que ocurre, incluso sin venta del bono** (complejidad fiscal unica de TIPS en el proyecto); (3) si la inflacion sorprende a la BAJA del breakeven implicito (~2.58%), TIPS podrian tener peor desempeno relativo que bonos nominales equivalentes; (4) liquidez modesta comparada con los gigantes del proyecto (LQD/HYG).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de tasa REAL (mitigado por duración corta, 2.3 años); (2) **'phantom income' fiscal - el ajuste de principal por inflación tributa como ingreso el ano en que ocurre, incluso sin venta del bono** (complejidad fiscal única de TIPS en el proyecto); (3) si la inflación sorprende a la BAJA del breakeven implícito (~2.58%), TIPS podrían tener peor desempeño relativo que bonos nominales equivalentes; (4) liquidez modesta comparada con los gigantes del proyecto (LQD/HYG).",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "TIP (iShares TIPS Bond ETF, toda la curva de duracion, mas grande) y SCHP (Schwab TIPS ETF, potencialmente aun mas barato) identificados como alternativas, sin comparacion con datos propios verificados esta sesion.",
+          "notas": "TIP (iShares TIPS Bond ETF, toda la curva de duración, mas grande) y SCHP (Schwab TIPS ETF, potencialmente aun mas barato) identificados como alternativas, sin comparación con datos propios verificados esta sesión.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 4.21/5 - **NUEVO SCORE MAXIMO DE TODO EL PROYECTO**, supera a VTV (4.06, el record anterior). Resultado de una combinacion excepcional de calidad estructural, costo y comportamiento demostrado: TER empata el minimo del proyecto (0.03%), **Tracking Difference PERFECTA desde inception (0.00pp, la mejor precision de todo el proyecto)**, **Max Drawdown MAS BAJO de toda la renta fija del proyecto (-6.27%, mejor que VCSH)**, **mejor Sharpe y mejor retorno a 10 anios de renta fija del proyecto (+3.04% anualizado, supera a VCIT y LQD)**, y beta mas bajo del proyecto (0.09). **PRIMER ETF DE PROTECCION CONTRA INFLACION del proyecto** - la proteccion funciono exactamente como se diseno durante el episodio inflacionario reciente (CPI pico 4.3% mayo-2026), demostrando su proposito con un test de estres real, a diferencia de TLH (cuyo estres reciente fue contrario a su funcion clasica). **Primer marco de valoracion FAVORABLE del proyecto en renta fija**: breakeven de inflacion implicito (~2.58%) esta POR DEBAJO de la inflacion realizada reciente (~3.4-3.5%), contraste directo con los spreads de credito comprimidos/CAROS ya documentados en LQD/VCIT/HYG. Riesgos genuinos a considerar: complejidad fiscal unica del 'phantom income' (tributacion del ajuste de principal sin venta del bono), liquidez modesta frente a los gigantes del proyecto, y el riesgo simetrico de que la inflacion sorprenda a la baja del breakeven. Rol en Portafolio: 'Cobertura' de PODER ADQUISITIVO - funcion genuinamente distinta de VCSH (ballast de bajisima volatilidad) y TLH (flight-to-quality en crisis de credito/mercado)."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 4.21/5 - **NUEVO SCORE MÁXIMO DE TODO EL PROYECTO**, supera a VTV (4.06, el récord anterior). Resultado de una combinación excepcional de calidad estructural, costo y comportamiento demostrado: TER empata el mínimo del proyecto (0.03%), **Tracking Difference PERFECTA desde inception (0.00pp, la mejor precisión de todo el proyecto)**, **Max Drawdown MAS BAJO de toda la renta fija del proyecto (-6.27%, mejor que VCSH)**, **mejor Sharpe y mejor retorno a 10 años de renta fija del proyecto (+3.04% anualizado, supera a VCIT y LQD)**, y beta mas bajo del proyecto (0.09). **PRIMER ETF DE PROTECSIÓN CONTRA INFLASIÓN del proyecto** - la protección funciono exactamente como se diseño durante el episodio inflacionario reciente (CPI pico 4.3% mayo-2026), demostrando su proposito con un test de estres real, a diferencia de TLH (cuyo estres reciente fue contrario a su función clasica). **Primer marco de valoración FAVORABLE del proyecto en renta fija**: breakeven de inflación implícito (~2.58%) esta POR DEBAJO de la inflación realizada reciente (~3.4-3.5%), contraste directo con los spreads de crédito comprimidos/CAROS ya documentados en LQD/VCIT/HYG. Riesgos genuinos a considerar: complejidad fiscal única del 'phantom income' (tributación del ajuste de principal sin venta del bono), liquidez modesta frente a los gigantes del proyecto, y el riesgo simetrico de que la inflación sorprenda a la baja del breakeven. Rol en Portafolio: 'Cobertura' de PODER ADQUISITIVO - función genuinamente distinta de VCSH (ballast de bajisima volatilidad) y TLH (flight-to-quality en crisis de crédito/mercado)."
   }
 }

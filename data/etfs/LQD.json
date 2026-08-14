@@ -1,36 +1,36 @@
 {
   "nombre": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
   "ticker": "LQD",
-  "categoria": "Renta Fija Corporativa (grado de inversion, duracion intermedia-larga ~8 anios, benchmark original)",
+  "categoria": "Renta Fija Corporativa (grado de inversión, duración intermedia-larga ~8 años, benchmark original)",
   "emisor": "BlackRock/iShares",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO ('optimized sampling', Trackinsight) - mismo metodo que VCSH/VCLT, esperado para un indice de miles de bonos (3,123-3,143 segun fuente). Sin riesgo de contraparte (no hay swaps).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO ('optimized sampling', Trackinsight) - mismo metodo que VCSH/VCLT, esperado para un índice de miles de bonos (3,123-3,143 según fuente). Sin riesgo de contraparte (no hay swaps).",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. Bonos denominados en USD, mayoritariamente de emisores US pero tambien corporaciones globales grandes que emiten deuda en USD (mismo patron ya visto en VCSH/VCLT) - no hay retencion de impuestos extranjera relevante. El interes tributa como INGRESO ORDINARIO, no dividendos calificados (misma salvedad fiscal ya documentada con VCSH/VCLT).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. Bonos denominados en USD, mayoritariamente de emisores US pero también corporaciones globales grandes que emiten deuda en USD (mismo patrón ya visto en VCSH/VCLT) - no hay retención de impuestos extranjera relevante. El interés tributa como INGRESO ORDINARIO, no dividendos calificados (misma salvedad fiscal ya documentada con VCSH/VCLT).",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM = $32.39bn (stockanalysis, 10-ago-2026) / EUR28.49bn Trackinsight (7-ago-2026, aprox $30.8-31.3bn convertido) - buena corroboracion entre fuentes. Menor que VCSH ($44.97-51.99bn) pero mucho mayor que VCLT ($9.2bn). Fondo enorme, riesgo de cierre practicamente nulo - LQD es el ETF de bonos corporativos mas grande y antiguo del mercado.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM = $32.39bn (stockanalysis, 10-ago-2026) / EUR28.49bn Trackinsight (7-ago-2026, aprox $30.8-31.3bn convertido) - buena corroboración entre fuentes. Menor que VCSH ($44.97-51.99bn) pero mucho mayor que VCLT ($9.2bn). Fondo enorme, riesgo de cierre prácticamente nulo - LQD es el ETF de bonos corporativos mas grande y antiguo del mercado.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 22-jul-2002 (~24.1 anios) - EL TRACK RECORD DE RENTA FIJA MAS LARGO DEL PROYECTO (supera a VCSH/VCLT, ambos nov-2009, ~16.7 anios) y el CUARTO mas largo de TODO el proyecto tras XLU/XLK/XLE (27.7 anios) y SOXX (25.1 anios). LQD fue LITERALMENTE EL PRIMER ETF DE BONOS DE LA HISTORIA (lanzado 2002). Su historial cubre la crisis financiera 2008 COMPLETA, el taper tantrum 2013, la correccion COVID 2020 y el ciclo de alzas de tasas 2022-2026.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 22-jul-2002 (~24.1 años) - EL TRACK RECORD DE RENTA FIJA MAS LARGO DEL PROYECTO (supera a VCSH/VCLT, ambos nov-2009, ~16.7 años) y el CUARTO mas largo de TODO el proyecto tras XLU/XLK/XLE (27.7 años) y SOXX (25.1 años). LQD fue LITERALMENTE EL PRIMER ETF DE BONOS DE LA HISTORIA (lanzado 2002). Su historial cubre la crisis financiera 2008 COMPLETA, el taper tantrum 2013, la corrección COVID 2020 y el ciclo de alzas de tasas 2022-2026.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - QUINTA aparicion en el proyecto (IHAK, SOXX, ITA, ARTY, ahora LQD) - maxima reputacion y escala entre los emisores del proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - QUINTA aparición en el proyecto (IHAK, SOXX, ITA, ARTY, ahora LQD) - maxima reputación y escala entre los emisores del proyecto.",
           "calificacion": 5
         }
       ],
@@ -40,152 +40,152 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.14% - notablemente MAS CARO que VCSH/VCLT (0.03% cada uno, ~4.7x mas caro), reflejo de que LQD es un producto legado de 2002 (anterior a la guerra de precios de Vanguard en renta fija). Razonable frente a competidores directos: VCIT (Vanguard Intermediate-Term Corporate, ~0.04%) seria mucho mas barato con duracion algo menor (~6 anios); IGIB (iShares Intermediate Corporate) y SLQD (iShares 0-5yr, version de corta duracion de LQD) son los comparables mas directos dentro de la familia iShares.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.14% - notablemente MAS CARO que VCSH/VCLT (0.03% cada uno, ~4.7x mas caro), reflejo de que LQD es un producto legado de 2002 (anterior a la guerra de precios de Vanguard en renta fija). Razonable frente a competidores directos: VCIT (Vanguard Intermediate-Term Corporate, ~0.04%) seria mucho mas barato con duración algo menor (~6 años); IGIB (iShares Intermediate Corporate) y SLQD (iShares 0-5yr, versión de corta duración de LQD) son los comparables mas directos dentro de la familia iShares.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "**GOTCHA DE FUENTE DESACTUALIZADA CONFIRMADO NUEVAMENTE** (mismo patron que el cambio de indice MSCI->CRSP de VTV): la unica tabla de rendimiento NAV-vs-Indice encontrada esta sesion proviene de un fact sheet oficial de iShares con fecha 30-sep-2020 (6 anios desactualizado) - mostraba NAV 5.91% vs Benchmark 6.14% desde inception (gap -0.23pp) hasta esa fecha, PERO se descarta explicitamente como no representativo del tracking ACTUAL y se deja el campo en blanco en el Dashboard. El fact sheet ACTUAL de iShares.com devolvio error 403 (bloqueo de bot) en todos los intentos.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "**GOTCHA DE FUENTE DESACTUALIZADA CONFIRMADO NUEVAMENTE** (mismo patrón que el cambio de índice MSCI->CRSP de VTV): la única tabla de rendimiento NAV-vs-Índice encontrada esta sesión proviene de un fact sheet oficial de iShares con fecha 30-sep-2020 (6 años desactualizado) - mostraba NAV 5.91% vs Benchmark 6.14% desde inception (gap -0.23pp) hasta esa fecha, PERO se descarta explícitamente como no representativo del tracking ACTUAL y se deja el campo en blanco en el Dashboard. El fact sheet ACTUAL de iShares.com devolvio error 403 (bloqueo de bot) en todos los intentos.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion (mismo patron que VCLT).",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesión (mismo patrón que VCLT).",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover rate no verificado con fuente primaria esta sesion (a diferencia de VCLT, donde si se confirmo 43.9% via ficha oficial - aqui el fact sheet oficial actual fue inaccesible por bloqueo de bot).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover rate no verificado con fuente primaria esta sesión (a diferencia de VCLT, donde si se confirmo 43.9% via ficha oficial - aquí el fact sheet oficial actual fue inaccesible por bloqueo de bot).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 19,194,617 acciones (stockanalysis) x $106.01/accion (precio 10-ago-2026) = aprox **$2,034.9M/dia - NUEVO RECORD DE LIQUIDEZ DE TODO EL PROYECTO**, casi DUPLICA el record anterior (XLE, $1.23bn/dia) y es ~10x el volumen de VCLT ($195.9M/dia). Coherente con el estatus de LQD como el ETF de bonos corporativos IG mas operado del mercado.",
+          "notas": "Volumen diario = 19,194,617 acciones (stockanalysis) x $106.01/acción (precio 10-ago-2026) = aprox **$2,034.9M/dia - NUEVO RÉCORD DE LIQUIDEZ DE TODO EL PROYECTO**, casi DUPLICA el récord anterior (XLE, $1.23bn/dia) y es ~10x el volumen de VCLT ($195.9M/dia). Coherente con el estatus de LQD como el ETF de bonos corporativos IG mas operado del mercado.",
           "calificacion": 5
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesion, pero el volumen extremo ($2bn+/dia) y el AUM de $32bn sugieren un mercado extraordinariamente liquido con spread muy ajustado.",
+          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesión, pero el volumen extremo ($2bn+/dia) y el AUM de $32bn sugieren un mercado extraordinariamente liquido con spread muy ajustado.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV = +0.12% (ycharts, 7-ago-2026) - TERCERA vez en el proyecto que se obtiene este dato con precision (tras VCSH +0.01% y VCLT +0.11%), aunque una consulta distinta a ycharts arrojo +0.03% - rango pequeno (+0.03% a +0.12%) consistente con un fondo de altisima liquidez, se usa la cifra con fecha mas reciente.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV = +0.12% (ycharts, 7-ago-2026) - TERCERA vez en el proyecto que se obtiene este dato con precisión (tras VCSH +0.01% y VCLT +0.11%), aunque una consulta distinta a ycharts arrojo +0.03% - rango pequeño (+0.03% a +0.12%) consistente con un fondo de altisima liquidez, se usa la cifra con fecha mas reciente.",
           "calificacion": 5
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Fondo mas grande y liquido del proyecto en su categoria, emisor mayor (BlackRock) - profundidad de Authorized Participants excelente, mismo criterio que VCSH/VCLT/SCHD.",
+          "notas": "Fondo mas grande y liquido del proyecto en su categoría, emisor mayor (BlackRock) - profundidad de Authorized Participants excelente, mismo criterio que VCSH/VCLT/SCHD.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 4.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "3,143 holdings (stockanalysis, 5-ago-2026) / 3,123 (Trackinsight, 7-ago-2026) - buena corroboracion, cifra similar a VCSH (3,019) y algo mayor que VCLT (2,851).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "3,143 holdings (stockanalysis, 5-ago-2026) / 3,123 (Trackinsight, 7-ago-2026) - buena corroboración, cifra similar a VCSH (3,019) y algo mayor que VCLT (2,851).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 holdings = aprox 2.77% (calculado de stockanalysis: suma de las 10 posiciones principales, 1.35% a 0.14% cada una) - NUEVO RECORD MINIMO DE CONCENTRACION DE TODO EL PROYECTO**, supera incluso a VCLT (2.94%, el record anterior). Igual que en VCLT, la posicion mas grande (1.35%) no es un bono corporativo sino un instrumento de liquidez (BLK CSH FND Treasury SL Agency).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 holdings = aprox 2.77% (calculado de stockanalysis: suma de las 10 posiciones principales, 1.35% a 0.14% cada una) - NUEVO RÉCORD MÍNIMO DE CONCENTRASIÓN DE TODO EL PROYECTO**, supera incluso a VCLT (2.94%, el récord anterior). Igual que en VCLT, la posición mas grande (1.35%) no es un bono corporativo sino un instrumento de liquidez (BLK CSH FND Treasury SL Agency).",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Distribucion por sector/emisor (Trackinsight, clasificacion Bloomberg): Finance 24.87%, Technology 8.24%, Healthcare 8.00%, Energy 6.68%, Consumer Non-Cyclicals 5.64%, Telecommunications 5.01%, Industrials 4.08%, Utilities 3.62%, Other 8.25% - Financials domina pero sin ser extremo. Nota de cautela: Trackinsight reporta 25.62% como 'Unavailable' (sin clasificar), una porcion no trivial - tratar la distribucion sectorial exacta con cautela moderada.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Distribución por sector/emisor (Trackinsight, clasificación Bloomberg): Finance 24.87%, Technology 8.24%, Healthcare 8.00%, Energy 6.68%, Consumer Non-Cyclicals 5.64%, Telecommunications 5.01%, Industrials 4.08%, Utilities 3.62%, Other 8.25% - Financials domina pero sin ser extremo. Nota de cautela: Trackinsight reporta 25.62% como 'Unavailable' (sin clasificar), una porción no trivial - tratar la distribución sectorial exacta con cautela moderada.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Emisores mayoritariamente US con presencia de corporaciones globales grandes que emiten deuda denominada en USD (ej. Anheuser-Busch, mismo patron ya visto en VCLT) - mismo perfil que VCSH/VCLT, sin concentracion geografica extra-US relevante.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Emisores mayoritariamente US con presencia de corporaciones globales grandes que emiten deuda denominada en USD (ej. Anheuser-Busch, mismo patrón ya visto en VCLT) - mismo perfil que VCSH/VCLT, sin concentración geográfica extra-US relevante.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es DURACION INTERMEDIA-LARGA (~8 anios efectiva, vencimiento promedio ~13.5 anios) + grado de inversion amplio - posicion entre VCSH (2.4 anios) y VCLT (12.1 anios) del propio proyecto. **Nota de construccion de cartera**: la duracion de LQD queda numericamente entre VCSH y VCLT, pero un 'bullet' de duracion intermedia (LQD) NO es matematicamente equivalente a un 'barbell' de VCSH+VCLT combinados con la misma duracion promedio ponderada - ambas estructuras reaccionan distinto ante cambios NO paralelos de la curva de tasas. No tratar LQD como redundante automatico solo por su posicion intermedia.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es DURASIÓN INTERMEDIA-LARGA (~8 años efectiva, vencimiento promedio ~13.5 años) + grado de inversión amplio - posición entre VCSH (2.4 años) y VCLT (12.1 años) del propio proyecto. **Nota de construcción de cartera**: la duración de LQD queda numericamente entre VCSH y VCLT, pero un 'bullet' de duración intermedia (LQD) NO es matematicamente equivalente a un 'barbell' de VCSH+VCLT combinados con la misma duración promedio ponderada - ambas estructuras reaccionan distinto ante cambios NO paralelos de la curva de tasas. No tratar LQD como redundante automático solo por su posición intermedia.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Markit iBoxx USD Liquid Investment Grade Index - metodologia transparente, market-cap weighted, con filtros de liquidez minima (de ahi 'Liquid' en el nombre) que explican en parte la extrema liquidez del ETF resultante.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Markit iBoxx USD Liquid Investment Grade Index - metodología transparente, market-cap weighted, con filtros de liquidez minima (de ahi 'Liquid' en el nombre) que explican en parte la extrema liquidez del ETF resultante.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo MENSUAL (estandar de la familia iBoxx, no confirmado con fecha exacta esta sesion a diferencia de la confirmacion lograda en VCLT via ficha oficial - aqui el fact sheet actual fue inaccesible).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo MENSUAL (estándar de la familia iBoxx, no confirmado con fecha exacta esta sesión a diferencia de la confirmación lograda en VCLT via ficha oficial - aquí el fact sheet actual fue inaccesible).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = +1.38% (total return incl. dividendos, stockanalysis) - notablemente MAS BAJO que el 3Y anualizado (+5.01%), reflejo de la misma presion de tasas largas reciente ya documentada en VCLT (precio actual $106.01 cerca del minimo de 52 semanas $105.96, rango $105.96-$112.93). 5Y anualizado = **-0.11% (practicamente plano, LIGERAMENTE NEGATIVO)** - menos severo que el -2.30% de VCLT pero peor que el retorno positivo de VCSH, confirma la logica mecanica de duracion ya establecida. 10Y anualizado = +2.66%. Retorno desde inception (24.1 anios) = +4.36% anualizado.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = +1.38% (total return incl. dividendos, stockanalysis) - notablemente MAS BAJO que el 3Y anualizado (+5.01%), reflejo de la misma presión de tasas largas reciente ya documentada en VCLT (precio actual $106.01 cerca del mínimo de 52 semanas $105.96, rango $105.96-$112.93). 5Y anualizado = **-0.11% (prácticamente plano, LIGERAMENTE NEGATIVO)** - menos severo que el -2.30% de VCLT pero peor que el retorno positivo de VCSH, confirma la logica mecánica de duración ya establecida. 10Y anualizado = +2.66%. Retorno desde inception (24.1 años) = +4.36% anualizado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada = 9.3% (Morningstar, vs promedio de categoria 6.9%) - se acepta con confianza razonable por ser coherente con la logica de escalamiento por duracion ya validada (VCSH 0.62% a 2.4 anios, LQD ~9.3% a ~8 anios, VCLT 11.7% a 12.1 anios). **Cifras DESCARTADAS por implausibles**: 1.42%-1.58% encontradas en comparaciones de PortfoliosLab - demasiado bajas para una duracion de 8 anios, mismo patron de gotcha ya documentado repetidamente en el proyecto.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada = 9.3% (Morningstar, vs promedio de categoría 6.9%) - se acepta con confianza razonable por ser coherente con la logica de escalamiento por duración ya validada (VCSH 0.62% a 2.4 años, LQD ~9.3% a ~8 años, VCLT 11.7% a 12.1 años). **Cifras DESCARTADAS por implausibles**: 1.42%-1.58% encontradas en comparaciones de PortfoliosLab - demasiado bajas para una duración de 8 años, mismo patrón de gotcha ya documentado repetidamente en el proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -24.95% (20-oct-2022, PortfoliosLab) - severo pero MECANICAMENTE COHERENTE con una duracion intermedia entre VCSH (-12.86%) y VCLT (-34.3%) - refleja el mismo ciclo de alzas de tasas 2022. Un fact sheet desactualizado (2020) mostro un standard deviation (3yr) de 7.45% en ese momento, no comparable directamente pero sirve de referencia de que la volatilidad estructural del fondo no ha cambiado radicalmente.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -24.95% (20-oct-2022, PortfoliosLab) - severo pero MECANICAMENTE COHERENTE con una duración intermedia entre VCSH (-12.86%) y VCLT (-34.3%) - refleja el mismo ciclo de alzas de tasas 2022. Un fact sheet desactualizado (2020) mostro un standard deviation (3yr) de 7.45% en ese momento, no comparable directamente pero sirve de referencia de que la volatilidad estructural del fondo no ha cambiado radicalmente.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "**Cifras de Sharpe IRRECONCILIABLES entre distintas comparaciones de PortfoliosLab (0.78 / 1.06 / 1.23 segun la comparacion consultada)** - mismo patron de gotcha ya documentado con SOXX/CIBR: se trata con sospecha por no provenir de una pagina dedicada unica y consistente (a diferencia de VCLT, donde si se obtuvo un 0.32 limpio de la pagina propia del simbolo). Se deja en blanco en el Dashboard en vez de forzar una de las tres cifras.",
+          "notas": "**Cifras de Sharpe IRRECONCILIABLES entre distintas comparaciones de PortfoliosLab (0.78 / 1.06 / 1.23 según la comparación consultada)** - mismo patrón de gotcha ya documentado con SOXX/CIBR: se trata con sospecha por no provenir de una pagina dedicada única y consistente (a diferencia de VCLT, donde si se obtuvo un 0.32 limpio de la pagina propia del simbolo). Se deja en blanco en el Dashboard en vez de forzar una de las tres cifras.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.44 (stockanalysis) - progresion coherente con duracion dentro del proyecto: VCSH 0.13 (2.4 anios) < LQD 0.44 (~8 anios) < VCLT 0.63 (12.1 anios). **Overlap de emisor cuantificable, mismo patron que VCLT**: en el top 15 de holdings, CVS Health (0.17%), SpaceX/SPCX (3 bonos, 0.44% combinado), Meta Platforms (4 bonos, 0.57% combinado) y Amazon (0.15%) YA estan analizados individualmente por el usuario, sumando ~1.33% del top15 (~3.05% del fondo) - proporcionalmente similar al overlap inmaterial ya documentado en VCLT, exposicion crediticia (no accionaria).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.44 (stockanalysis) - progresión coherente con duración dentro del proyecto: VCSH 0.13 (2.4 años) < LQD 0.44 (~8 años) < VCLT 0.63 (12.1 años). **Overlap de emisor cuantificable, mismo patrón que VCLT**: en el top 15 de holdings, CVS Health (0.17%), SpaceX/SPCX (3 bonos, 0.44% combinado), Meta Platforms (4 bonos, 0.57% combinado) y Amazon (0.15%) YA estan analizados individualmente por el usuario, sumando ~1.33% del top15 (~3.05% del fondo) - proporcionalmente similar al overlap inmaterial ya documentado en VCLT, exposición crediticia (no accionaria).",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "24.1 anios de historial - EL MAS LARGO de renta fija del proyecto - cubren la crisis financiera 2008 COMPLETA desde antes de su inicio (a diferencia de VCSH/VCLT, nacidos nov-2009 ya post-crisis), el taper tantrum 2013, la correccion de credito COVID 2020, y el ciclo de alzas de tasas 2022-2026. Unico ETF de renta fija del proyecto con exposicion real y directa a la crisis de credito de 2008.",
+          "notas": "24.1 años de historial - EL MAS LARGO de renta fija del proyecto - cubren la crisis financiera 2008 COMPLETA desde antes de su inicio (a diferencia de VCSH/VCLT, nacidos nov-2009 ya post-crisis), el taper tantrum 2013, la corrección de crédito COVID 2020, y el ciclo de alzas de tasas 2022-2026. Único ETF de renta fija del proyecto con exposición real y directa a la crisis de crédito de 2008.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.17
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "No aplica - LQD es un fondo 100% renta fija, sin componente de equity. Los multiplos P/E/P/B/P/FCF no son aplicables (mismo criterio que VCSH/VCLT).",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "No aplica - LQD es un fondo 100% renta fija, sin componente de equity. Los múltiplos P/E/P/B/P/FCF no son aplicables (mismo criterio que VCSH/VCLT).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 4.68% (stockanalysis) / 4.65% (Trackinsight, trailing 12 meses) - buena corroboracion entre fuentes. Distribucion MENSUAL (estandar de renta fija, mismo patron que VCSH/VCLT).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 4.68% (stockanalysis) / 4.65% (Trackinsight, trailing 12 meses) - buena corroboración entre fuentes. Distribución MENSUAL (estándar de renta fija, mismo patrón que VCSH/VCLT).",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "Duracion efectiva ~ 8.0-8.3 anios (multiples fuentes de 2026, Seeking Alpha) - **notablemente MENOR que el 9.62 anios del fact sheet oficial desactualizado de 2020**, descartado como no representativo del posicionamiento actual (mismo gotcha de fuente desactualizada de la fila 19). Vencimiento promedio ~ 13.5 anios (2026) vs 13.76 anios (2020) - esta metrica si se mantiene notablemente estable, coherente con la naturaleza de indice-ladder del fondo. 30-day SEC Yield ~ 4.94% (Seeking Alpha) a 5.23% (otra fuente, jun-2026). Calidad crediticia: A 47.1% + BBB 40.9% = 88.0% combinado - el desglose preciso AAA/AA no se verifico con fuente primaria actual esta sesion (fact sheet 2020: AAA 2.05%/AA 7.81%=9.86%, orden de magnitud probablemente similar hoy pero no confirmado).",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "Duración efectiva ~ 8.0-8.3 años (múltiples fuentes de 2026, Seeking Alpha) - **notablemente MENOR que el 9.62 años del fact sheet oficial desactualizado de 2020**, descartado como no representativo del posicionamiento actual (mismo gotcha de fuente desactualizada de la fila 19). Vencimiento promedio ~ 13.5 años (2026) vs 13.76 años (2020) - esta métrica si se mantiene notablemente estable, coherente con la naturaleza de índice-ladder del fondo. 30-day SEC Yield ~ 4.94% (Seeking Alpha) a 5.23% (otra fuente, jun-2026). Calidad crediticia: A 47.1% + BBB 40.9% = 88.0% combinado - el desglose preciso AAA/AA no se verifico con fuente primaria actual esta sesión (fact sheet 2020: AAA 2.05%/AA 7.81%=9.86%, orden de magnitud probablemente similar hoy pero no confirmado).",
           "calificacion": 4
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**Primera vez en el proyecto que se documenta un PERCENTIL DE VALORACION genuino para un ETF de renta fija** (no solo YTM/duracion sin contexto historico, como en VCSH/VCLT): segun 24/7 Wall St (jun-2026), el spread de credito IG (ICE BofA) cotiza en ~70pb vs un promedio historico de 132pb - **spreads HISTORICAMENTE COMPRIMIDOS/RICOS**, 'casi ningun colchon de valoracion'. Umbrales de riesgo concretos: spreads sobre 100pb o Treasury 30y sobre 5.25% romperian la dinamica actual. Competidores identificados (sin comparacion con datos propios verificados esta sesion): VCIT (Vanguard Intermediate Corporate, TER 0.04%), IGIB (iShares Intermediate Corporate), SLQD (iShares 0-5yr, 'aproximadamente un tercio de la sensibilidad a tasas de LQD').",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**Primera vez en el proyecto que se documenta un PERCENTIL DE VALORASIÓN genuino para un ETF de renta fija** (no solo YTM/duración sin contexto histórico, como en VCSH/VCLT): según 24/7 Wall St (jun-2026), el spread de crédito IG (ICE BofA) cotiza en ~70pb vs un promedio histórico de 132pb - **spreads HISTÓRICAMENTE COMPRIMIDOS/RICOS**, 'casi ningún colchon de valoración'. Umbrales de riesgo concretos: spreads sobre 100pb o Treasury 30y sobre 5.25% romperian la dinámica actual. Competidores identificados (sin comparación con datos propios verificados esta sesión): VCIT (Vanguard Intermediate Corporate, TER 0.04%), IGIB (iShares Intermediate Corporate), SLQD (iShares 0-5yr, 'aproximadamente un tercio de la sensibilidad a tasas de LQD').",
           "calificacion": 4
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "**TERCER ETF de renta fija del proyecto, con un rol DISTINTO a VCSH (Cobertura) y VCLT (Tactico/Satelite)**: LQD es el benchmark ORIGINAL y mas grande/liquido de bonos corporativos IG del mercado (primer bond ETF de la historia), con duracion intermedia (~8 anios) entre ambos. Se clasifica como **'Core'** del segmento de renta fija corporativa amplia - primera vez que esta categoria se aplica a un ETF de renta fija en el proyecto (ya usada para VB/VXUS en equity). Nota de matiz (ver fila 34): su duracion intermedia NO lo hace automaticamente redundante frente a VCSH+VCLT ya en el workbook, por la distincion bullet-vs-barbell en la forma de la curva de tasas.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "**TERCER ETF de renta fija del proyecto, con un rol DISTINTO a VCSH (Cobertura) y VCLT (Táctico/Satélite)**: LQD es el benchmark ORIGINAL y mas grande/liquido de bonos corporativos IG del mercado (primer bond ETF de la historia), con duración intermedia (~8 años) entre ambos. Se clasifica como **'Core'** del segmento de renta fija corporativa amplia - primera vez que esta categoría se aplica a un ETF de renta fija en el proyecto (ya usada para VB/VXUS en equity). Nota de matiz (ver fila 34): su duración intermedia NO lo hace automaticamente redundante frente a VCSH+VCLT ya en el workbook, por la distinción bullet-vs-barbell en la forma de la curva de tasas.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion al benchmark mas liquido, diversificado (Top10 2.77%, record del proyecto) y probado (24.1 anios, incluye 2008) de bonos corporativos IG US, con ingreso corriente razonable (~4.7-5.2%). PERO el momento de entrada es cuestionable: spreads de credito historicamente comprimidos (ver fila 50) sugieren poco margen de valoracion, y el retorno a 5 anios ya esta ligeramente en negativo (-0.11%) reflejando la misma presion de tasas largas que afecta a VCLT.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición al benchmark mas liquido, diversificado (Top10 2.77%, récord del proyecto) y probado (24.1 años, incluye 2008) de bonos corporativos IG US, con ingreso corriente razonable (~4.7-5.2%). PERO el momento de entrada es cuestionable: spreads de crédito históricamente comprimidos (ver fila 50) sugieren poco margen de valoración, y el retorno a 5 años ya esta ligeramente en negativo (-0.11%) reflejando la misma presión de tasas largas que afecta a VCLT.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) riesgo de tasa de interes moderado-alto (duracion ~8 anios, intermedio entre VCSH y VCLT); (2) **riesgo de valoracion de credito** - spreads IG comprimidos a 70pb vs promedio historico 132pb, con umbrales de ruptura concretos (spread >100pb o Treasury 30y >5.25%); (3) riesgo de credito corporativo grado de inversion (A/BBB ~88% combinado); (4) tributacion del interes como INGRESO ORDINARIO, no dividendos calificados (misma salvedad que VCSH/VCLT).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de tasa de interés moderado-alto (duración ~8 años, intermedio entre VCSH y VCLT); (2) **riesgo de valoración de crédito** - spreads IG comprimidos a 70pb vs promedio histórico 132pb, con umbrales de ruptura concretos (spread >100pb o Treasury 30y >5.25%); (3) riesgo de crédito corporativo grado de inversión (A/BBB ~88% combinado); (4) tributación del interés como INGRESO ORDINARIO, no dividendos calificados (misma salvedad que VCSH/VCLT).",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "VCIT (Vanguard Intermediate-Term Corporate Bond, TER ~0.04%, duracion algo menor) y SLQD (iShares 0-5 Year Investment Grade Corporate, ~1/3 de la sensibilidad a tasas de LQD segun 24/7 Wall St) identificados como alternativas de menor costo/menor duracion respectivamente, sin comparacion con datos propios verificados esta sesion - candidatos para una futura comparacion cabeza a cabeza.",
+          "notas": "VCIT (Vanguard Intermediate-Term Corporate Bond, TER ~0.04%, duración algo menor) y SLQD (iShares 0-5 Year Investment Grade Corporate, ~1/3 de la sensibilidad a tasas de LQD según 24/7 Wall St) identificados como alternativas de menor costo/menor duración respectivamente, sin comparación con datos propios verificados esta sesión - candidatos para una futura comparación cabeza a cabeza.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.94/5 - de los mas altos del proyecto, resultado de una calidad estructural EXCEPCIONAL: EL ETF DE BONOS MAS ANTIGUO DE LA HISTORIA (24.1 anios, primer bond ETF jamas lanzado, cubre 2008 completo), NUEVO RECORD DE LIQUIDEZ DEL PROYECTO (~$2.03bn/dia, casi duplica el record anterior de XLE), y NUEVO RECORD DE CONCENTRACION MINIMA (Top10 2.77%, supera a VCLT). Emisor BlackRock/iShares de maxima reputacion. PERO la valoracion actual es cuestionable de forma cuantificable por primera vez en un ETF de renta fija del proyecto: spreads de credito IG comprimidos a ~70pb vs un promedio historico de 132pb (24/7 Wall St, jun-2026), con 'casi ningun colchon de valoracion' y umbrales de ruptura concretos (spread >100pb o Treasury 30y >5.25%). Es la PRIMERA aplicacion limpia del bucket 'Score alto (>=3.5) + valoracion CARA -> esperar mejor entrada' del marco original de Metodologia con evidencia de percentil genuina (spread de credito), a diferencia de IHAK/ITA/AIPO/QTUM que usaron 'esperar' por Scores intermedios (3.0-3.5), no por una senal de valoracion cuantificada. Retorno a 5 anios ya ligeramente negativo (-0.11%) confirma presion de tasas larga en curso, mismo fenomeno que golpea a VCLT (duracion ~1.5x mayor, retorno 5y -2.30%). Rol propuesto: 'Core' del segmento de renta fija corporativa amplia (duracion intermedia entre VCSH y VCLT ya presentes en el workbook, aunque NO plenamente redundante con ellos por la distincion bullet-vs-barbell). Overlap de emisor con el Dashboard de acciones individuales (CVS, SpaceX/SPCX, Meta, Amazon) es real pero inmaterial (~1.33% del top15), mismo patron ya visto en VCLT."
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.94/5 - de los mas altos del proyecto, resultado de una calidad estructural EXCEPCIONAL: EL ETF DE BONOS MAS ANTIGUO DE LA HISTORIA (24.1 años, primer bond ETF jamas lanzado, cubre 2008 completo), NUEVO RÉCORD DE LIQUIDEZ DEL PROYECTO (~$2.03bn/dia, casi duplica el récord anterior de XLE), y NUEVO RÉCORD DE CONCENTRASIÓN MINIMA (Top10 2.77%, supera a VCLT). Emisor BlackRock/iShares de maxima reputación. PERO la valoración actual es cuestionable de forma cuantificable por primera vez en un ETF de renta fija del proyecto: spreads de crédito IG comprimidos a ~70pb vs un promedio histórico de 132pb (24/7 Wall St, jun-2026), con 'casi ningún colchon de valoración' y umbrales de ruptura concretos (spread >100pb o Treasury 30y >5.25%). Es la PRIMERA aplicación limpia del bucket 'Score alto (>=3.5) + valoración CARA -> esperar mejor entrada' del marco original de Metodología con evidencia de percentil genuina (spread de crédito), a diferencia de IHAK/ITA/AIPO/QTUM que usaron 'esperar' por Scores intermedios (3.0-3.5), no por una señal de valoración cuantificada. Retorno a 5 años ya ligeramente negativo (-0.11%) confirma presión de tasas larga en curso, mismo fenomeno que golpea a VCLT (duración ~1.5x mayor, retorno 5y -2.30%). Rol propuesto: 'Core' del segmento de renta fija corporativa amplia (duración intermedia entre VCSH y VCLT ya presentes en el workbook, aunque NO plenamente redundante con ellos por la distinción bullet-vs-barbell). Overlap de emisor con el Dashboard de acciones individuales (CVS, SpaceX/SPCX, Meta, Amazon) es real pero inmaterial (~1.33% del top15), mismo patrón ya visto en VCLT."
   }
 }

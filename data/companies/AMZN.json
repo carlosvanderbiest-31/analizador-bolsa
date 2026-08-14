@@ -1,7 +1,7 @@
 {
   "empresa": "Amazon.com Inc",
   "ticker": "AMZN",
-  "sector": "Tecnologia - E-commerce, Cloud Computing (AWS) e IA",
+  "sector": "Tecnología - E-commerce, Cloud Computing (AWS) e IA",
   "fecha_analisis": "2026-08-05",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ecosistema diversificado: Online Stores (285.08 mil millones USD TTM), Third-Party Seller Services-marketplace (183.66 mil millones USD), AWS (148.4 mil millones USD, +37% interanual en Q2 2026, el ritmo mas rapido en 18 trimestres, pero el MAS LENTO de las tres grandes nubes: Azure +43% y Google Cloud +82%, ambas ya en este Dashboard), Advertising Services (76.07 mil millones USD, +26% interanual), Subscription Services-Prime (52.85 mil millones USD), Physical Stores (23.01 mil millones USD). AWS genera aprox 60.3% del operating income total pese a ser una fraccion menor de los ingresos, con margen operativo de aprox 37% vs margenes de un solo digito en e-commerce.",
+          "notas": "Ecosistema diversificado: Online Stores (285.08 mil millones USD TTM), Third-Party Seller Services-marketplace (183.66 mil millones USD), AWS (148.4 mil millones USD, +37% interanual en Q2 2026, el ritmo mas rápido en 18 trimestres, pero el MAS LENTO de las tres grandes nubes: Azure +43% y Google Cloud +82%, ambas ya en este Dashboard), Advertising Services (76.07 mil millones USD, +26% interanual), Subscription Services-Prime (52.85 mil millones USD), Physical Stores (23.01 mil millones USD). AWS genera aprox 60.3% del operating income total pese a ser una fracción menor de los ingresos, con margen operativo de aprox 37% vs márgenes de un solo digito en e-commerce.",
           "calificacion": 5
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Escala logistica y de distribucion (red de fulfillment centers, 1.576 millones de empleados globales, segundo mayor empleador privado de EEUU); efectos de red del marketplace; AWS como mayor proveedor de cloud del mundo en terminos absolutos; Prime como programa de fidelizacion con switching costs altos; chips propios Trainium con run-rate de aprox 20 mil millones USD anuales, con planes de venta externa compitiendo con Nvidia.",
+          "notas": "Escala logistica y de distribución (red de fulfillment centers, 1.576 millones de empleados globales, segundo mayor empleador privado de EEUU); efectos de red del marketplace; AWS como mayor proveedor de cloud del mundo en términos absolutos; Prime como programa de fidelización con switching costs altos; chips propios Trainium con run-rate de aprox 20 mil millones USD anuales, con planes de venta externa compitiendo con Nvidia.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "AWS sigue siendo la mayor nube en terminos absolutos pero es la MAS LENTA en crecimiento relativo de las tres grandes (+37% vs Azure +43% y Google Cloud +82%) - perdida de cuota relativa confirmada por analisis de mercado. Backlog de AWS de 496 mil millones USD, con demanda visible hasta 2027-2028 segun el CEO Andy Jassy - la restriccion actual es de capacidad, no de demanda.",
+          "notas": "AWS sigue siendo la mayor nube en términos absolutos pero es la MAS LENTA en crecimiento relativo de las tres grandes (+37% vs Azure +43% y Google Cloud +82%) - pérdida de cuota relativa confirmada por analisis de mercado. Backlog de AWS de 496 mil millones USD, con demanda visible hasta 2027-2028 según el CEO Andy Jassy - la restricción actual es de capacidad, no de demanda.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Fuerte en AWS (margen operativo de aprox 37%) y en Amazon Ads (+26% interanual, expansion hacia deportes en vivo); estructuralmente debil en e-commerce (margenes de un solo digito por la naturaleza competitiva e intensiva en logistica del negocio).",
+          "notas": "Fuerte en AWS (margen operativo de aprox 37%) y en Amazon Ads (+26% interanual, expansión hacia deportes en vivo); estructuralmente débil en e-commerce (márgenes de un solo digito por la naturaleza competitiva e intensiva en logistica del negocio).",
           "calificacion": 4
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Capex guiado al alza a aprox 220000 millones USD para 2026 - EL MAS ALTO en terminos absolutos de las tres grandes nubes (Microsoft aprox 175000 a 200000 millones USD, Google aprox 195000 a 205000 millones USD, ambas ya en este Dashboard). Emision de bonos multi-tramo de al menos 25000 millones USD en jul-2026 (8 tramos, hasta 40 anios) explicitamente para financiar capacidad de IA contratada para OpenAI y Anthropic; el WSJ senalo que la emision requirio ofrecer yield extra, posible senal de advertencia sobre el boom de capex de IA.",
+          "notas": "Capex guiado al alza a aprox 220000 millones USD para 2026 - EL MAS ALTO en términos absolutos de las tres grandes nubes (Microsoft aprox 175000 a 200000 millones USD, Google aprox 195000 a 205000 millones USD, ambas ya en este Dashboard). Emisión de bonos multi-tramo de al menos 25000 millones USD en jul-2026 (8 tramos, hasta 40 años) explícitamente para financiar capacidad de IA contratada para OpenAI y Anthropic; el WSJ senalo que la emisión requirio ofrecer yield extra, posible señal de advertencia sobre el boom de capex de IA.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO Andy Jassy desde jul-2021, sucediendo a Jeff Bezos (ahora Executive Chairman, quien califico los chips propios como el proximo pilar de Amazon junto a AWS y Prime). NOVEDAD: Bezos vendio acciones por aprox 4100 millones USD (aprox 15 millones de acciones) el 4-ago-2026, un dia despues de que la accion alcanzara maximo historico y la capitalizacion superara los 3 billones USD.",
+          "notas": "CEO Andy Jassy desde jul-2021, sucediendo a Jeff Bezos (ahora Executive Chairman, quien califico los chips propios como el proximo pilar de Amazon junto a AWS y Prime). NOVEDAD: Bezos vendio acciones por aprox 4100 millones USD (aprox 15 millones de acciones) el 4-ago-2026, un dia después de que la acción alcanzara máximo histórico y la capitalización superara los 3 billones USD.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Una sola clase de accion comun, SIN estructura dual-class - a diferencia de META, GOOGL o BRK ya analizadas en este Dashboard, gobernanza simple y limpia.",
+          "notas": "Una sola clase de acción comun, SIN estructura dual-class - a diferencia de META, GOOGL o BRK ya analizadas en este Dashboard, gobernanza simple y limpia.",
           "calificacion": 5
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion trimestral detallada con metricas operativas especificas. GOTCHA de rentabilidad: operating income Q2 2026 (27.5 mil millones USD) muy por debajo de net income (62.6 mil millones USD) - relacion atipica probablemente explicada por una ganancia no operativa de revalorizacion de la inversion de 50000 millones USD en OpenAI completada en el trimestre, mismo patron ya documentado en GOOGL y BRK de este Dashboard.",
+          "notas": "Comunicación trimestral detallada con métricas operativas específicas. GOTCHA de rentabilidad: operating income Q2 2026 (27.5 mil millones USD) muy por debajo de net income (62.6 mil millones USD) - relación atipica probablemente explicada por una ganancia no operativa de revalorización de la inversión de 50000 millones USD en OpenAI completada en el trimestre, mismo patrón ya documentado en GOOGL y BRK de este Dashboard.",
           "calificacion": 3
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda Neta a EBITDA de aprox 0.84x (Net debt 145.02 mil millones USD sobre EBITDA estimado de aprox 172.8 mil millones USD), subiendo desde niveles mas bajos por el salto de capex y la emision de bonos de jul-2026. Deuda a Patrimonio 0.44x. Rating crediticio historicamente de grado alto, no confirmado con fuente primaria en esta sesion dado el salto reciente de apalancamiento.",
+          "notas": "Deuda Neta a EBITDA de aprox 0.84x (Net debt 145.02 mil millones USD sobre EBITDA estimado de aprox 172.8 mil millones USD), subiendo desde niveles mas bajos por el salto de capex y la emisión de bonos de jul-2026. Deuda a Patrimonio 0.44x. Rating crediticio históricamente de grado alto, no confirmado con fuente primaria en esta sesión dado el salto reciente de apalancamiento.",
           "calificacion": 4
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.03x, prueba acida 0.87x (consistentes entre fuentes) - liquidez ajustada pero no alarmante dado el fuerte OCF de 161.40 mil millones USD.",
+          "notas": "Razón corriente 1.03x, prueba acida 0.87x (consistentes entre fuentes) - liquidez ajustada pero no alarmante dado el fuerte OCF de 161.40 mil millones USD.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Deuda total de 223.23 mil millones USD, con emision reciente multi-tramo de al menos 25000 millones USD (jul-2026, vencimientos de 3 a 40 anios) para financiar capacidad de AWS contratada. Sin senales de estres de refinanciamiento, aunque el salto de apalancamiento amerita seguimiento.",
+          "notas": "Deuda total de 223.23 mil millones USD, con emisión reciente multi-tramo de al menos 25000 millones USD (jul-2026, vencimientos de 3 a 40 años) para financiar capacidad de AWS contratada. Sin señales de estres de refinanciamiento, aunque el salto de apalancamiento amerita seguimiento.",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales 1095.69 mil millones USD, patrimonio 551.62 mil millones USD - balance en expansion rapida por la inversion masiva en infraestructura de AWS. Incluye la nueva inversion de 50000 millones USD en OpenAI como activo relevante.",
+          "notas": "Activos totales 1095.69 mil millones USD, patrimonio 551.62 mil millones USD - balance en expansión rápida por la inversión masiva en infraestructura de AWS. Incluye la nueva inversión de 50000 millones USD en OpenAI como activo relevante.",
           "calificacion": 4
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto 50.77%, margen operativo entre 12.08% y 12.68% (mezcla de AWS de alto margen aprox 37% y e-commerce de margen bajo de un solo digito), margen neto 17.51% (probablemente inflado por la ganancia no operativa de la inversion en OpenAI, mismo patron ya identificado en GOOGL y BRK).",
+          "notas": "Margen bruto 50.77%, margen operativo entre 12.08% y 12.68% (mezcla de AWS de alto margen aprox 37% y e-commerce de margen bajo de un solo digito), margen neto 17.51% (probablemente inflado por la ganancia no operativa de la inversión en OpenAI, mismo patrón ya identificado en GOOGL y BRK).",
           "calificacion": 4
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE entre 28.22% y 30.56% (probablemente inflado por la misma ganancia no operativa), ROIC con discrepancia notable entre fuentes (12.50% a 17.46%), ROA con discrepancia aun mayor (7.58% a 15.22%, casi el doble). DuPont point-in-time recalculado (24.63%) queda por debajo del ROE reportado, consistente con la sospecha de inflacion por ganancias no operativas.",
+          "notas": "ROE entre 28.22% y 30.56% (probablemente inflado por la misma ganancia no operativa), ROIC con discrepancia notable entre fuentes (12.50% a 17.46%), ROA con discrepancia aun mayor (7.58% a 15.22%, casi el doble). DuPont point-in-time recalculado (24.63%) queda por debajo del ROE reportado, consistente con la sospecha de inflación por ganancias no operativas.",
           "calificacion": 3
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos razonable (0.71x, Revenue TTM 775.68 mil millones sobre Activos totales 1095.69 mil millones) - reflejo de un negocio de e-commerce de alta rotacion de inventario combinado con un balance de AWS cada vez mas dominado por activos de datacenters de capital intensivo.",
+          "notas": "Rotación de activos razonable (0.71x, Revenue TTM 775.68 mil millones sobre Activos totales 1095.69 mil millones) - reflejo de un negocio de e-commerce de alta rotación de inventario combinado con un balance de AWS cada vez mas dominado por activos de datacenters de capital intensivo.",
           "calificacion": 4
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Crecimiento historico fuerte (CAGR de ingresos a 5 anios aprox 12.9%) con aceleracion reciente a +15.8% TTM. Consenso de analistas de crecimiento de EPS a 5 anios de 23.94%, probablemente inflado, mismo patron de supercycle de IA ya identificado en NVDA, MU, TSM, PLTR, MSFT, GOOGL y AVGO de este Dashboard, no se extrapolo de forma literal en el DCF.",
+          "notas": "Crecimiento histórico fuerte (CAGR de ingresos a 5 años aprox 12.9%) con aceleración reciente a +15.8% TTM. Consenso de analistas de crecimiento de EPS a 5 años de 23.94%, probablemente inflado, mismo patrón de supercycle de IA ya identificado en NVDA, MU, TSM, PLTR, MSFT, GOOGL y AVGO de este Dashboard, no se extrapolo de forma literal en el DCF.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Crecimiento consistente y de base amplia (e-commerce, AWS, publicidad, suscripciones) - aunque AWS, el segmento de mayor margen y mayor peso en la rentabilidad, esta desacelerando en terminos relativos frente a Azure y Google Cloud, lo cual introduce incertidumbre sobre la composicion futura de la rentabilidad consolidada.",
+          "notas": "Crecimiento consistente y de base amplia (e-commerce, AWS, publicidad, suscripciones) - aunque AWS, el segmento de mayor margen y mayor peso en la rentabilidad, esta desacelerando en términos relativos frente a Azure y Google Cloud, lo cual introduce incertidumbre sobre la composición futura de la rentabilidad consolidada.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Backlog de AWS de 496 mil millones USD con demanda visible hasta 2027-2028; Amazon Ads expandiendo hacia deportes en vivo; chips propios Trainium con run-rate de 20 mil millones USD anuales y planes de venta externa; nueva linea de negocio de robotaxis Zoox (lanzamiento de servicio pagado en Las Vegas, 10-ago-2026, compitiendo con Waymo de Google y Tesla) - opcionalidad no cuantificada en el DCF.",
+          "notas": "Backlog de AWS de 496 mil millones USD con demanda visible hasta 2027-2028; Amazon Ads expandiendo hacia deportes en vivo; chips propios Trainium con run-rate de 20 mil millones USD anuales y planes de venta externa; nueva línea de negocio de robotaxis Zoox (lanzamiento de servicio pagado en Las Vegas, 10-ago-2026, compitiendo con Waymo de Google y Tesla) - opcionalidad no cuantificada en el DCF.",
           "calificacion": 5
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 161.40 mil millones USD por encima de la utilidad neta TTM 135.28 mil millones USD - relacion normal en terminos absolutos, aunque la utilidad neta en si misma probablemente incluye una ganancia no operativa relevante de la inversion en OpenAI.",
+          "notas": "OCF TTM 161.40 mil millones USD por encima de la utilidad neta TTM 135.28 mil millones USD - relación normal en términos absolutos, aunque la utilidad neta en si misma probablemente incluye una ganancia no operativa relevante de la inversión en OpenAI.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "GOTCHA MAYOR: FCF TTM NEGATIVO de -11.63 mil millones USD (OCF 161.40 mil millones USD menos capex 173.03 mil millones USD) - primer FCF negativo desde 2022, reversion desde +7.7 mil millones USD en FY2025. Capex TTM representa mas del 100% del OCF, la compresion de FCF por capex de IA MAS EXTREMA de cualquier empresa de este Dashboard (mas severa que MSFT o GOOGL, que aun mantienen FCF positivo aunque comprimido). Se uso una utilidad operativa despues de impuestos normalizada como proxy de FCF para el DCF.",
+          "notas": "GOTCHA MAYOR: FCF TTM NEGATIVO de -11.63 mil millones USD (OCF 161.40 mil millones USD menos capex 173.03 mil millones USD) - primer FCF negativo desde 2022, reversión desde +7.7 mil millones USD en FY2025. Capex TTM representa mas del 100% del OCF, la compresión de FCF por capex de IA MAS EXTREMA de cualquier empresa de este Dashboard (mas severa que MSFT o GOOGL, que aun mantienen FCF positivo aunque comprimido). Se uso una utilidad operativa después de impuestos normalizada como proxy de FCF para el DCF.",
           "calificacion": 1
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex casi enteramente de crecimiento (expansion de infraestructura de AWS para IA), guiado a aprox 220000 millones USD para 2026 - EL MAS ALTO en terminos absolutos de las tres grandes nubes de este Dashboard, superando a Microsoft y Google.",
+          "notas": "Capex casi enteramente de crecimiento (expansión de infraestructura de AWS para IA), guiado a aprox 220000 millones USD para 2026 - EL MAS ALTO en términos absolutos de las tres grandes nubes de este Dashboard, superando a Microsoft y Google.",
           "calificacion": 1
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Uso del capital dominado casi enteramente por la reinversion masiva en infraestructura de AWS, financiada tanto con OCF como con nueva emision de deuda (25000 millones USD en jul-2026); sin dividendo; recompras no destacadas como prioridad en el periodo reciente dado el nivel de inversion en curso.",
+          "notas": "Uso del capital dominado casi enteramente por la reinversión masiva en infraestructura de AWS, financiada tanto con OCF como con nueva emisión de deuda (25000 millones USD en jul-2026); sin dividendo; recompras no destacadas como prioridad en el período reciente dado el nivel de inversión en curso.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "PE TTM entre 21.9x y 22.3x (posiblemente enganosamente bajo por la utilidad neta inflada por ganancias no operativas), forward PE entre 25.9x y 29.9x segun fuente (mas representativo), EV a EBITDA entre 17.6x y 18.1x. P a FCF no calculable de forma significativa dado el FCF TTM negativo.",
+          "notas": "PE TTM entre 21.9x y 22.3x (posiblemente enganosamente bajo por la utilidad neta inflada por ganancias no operativas), forward PE entre 25.9x y 29.9x según fuente (mas representativo), EV a EBITDA entre 17.6x y 18.1x. P a FCF no calculable de forma significativa dado el FCF TTM negativo.",
           "calificacion": 2
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio adoptado con metodologia adaptada: FCF TTM es NEGATIVO y no puede usarse directamente. Se uso una utilidad operativa despues de impuestos normalizada como proxy de FCF (utilidad operativa TTM 93.71 mil millones USD por una menos tasa de impuesto efectiva aprox 20% = aprox 74.97 mil millones USD), WACC 10.94% (beta confiable 1.45, consistente entre Finviz y stockanalysis; costo de deuda post-impuestos aprox 3.79%), crecimiento decreciente tipo fade de 16% a 7% en 5 anios, terminal 4% -> 128.10 USD por accion, margen -53.0%. Escenario de sensibilidad no adoptado (crecimiento plano igual al CAGR historico de 12.9%) da 136.90 USD, margen -49.8% - practicamente igual, confirma que el driver dominante es la base de FCF normalizado baja frente a la capitalizacion de mercado, no el growth rate.",
+          "notas": "DCF propio adoptado con metodología adaptada: FCF TTM es NEGATIVO y no puede usarse directamente. Se uso una utilidad operativa después de impuestos normalizada como proxy de FCF (utilidad operativa TTM 93.71 mil millones USD por una menos tasa de impuesto efectiva aprox 20% = aprox 74.97 mil millones USD), WACC 10.94% (beta confiable 1.45, consistente entre Finviz y stockanalysis; costo de deuda post-impuestos aprox 3.79%), crecimiento decreciente tipo fade de 16% a 7% en 5 años, terminal 4% -> 128.10 USD por acción, margen -53.0%. Escenario de sensibilidad no adoptado (crecimiento plano igual al CAGR histórico de 12.9%) da 136.90 USD, margen -49.8% - prácticamente igual, confirma que el driver dominante es la base de FCF normalizado baja frente a la capitalización de mercado, no el growth rate.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de seguridad -53.0% en el escenario base y -49.8% en el de sensibilidad, ambos profundamente negativos y similares entre si. SALVEDAD METODOLOGICA (mismo criterio que MSFT y GOOGL, aqui aun mas relevante porque el FCF TTM es literalmente negativo): si el capex de AWS se normaliza en los proximos anios, el FCF real podria recuperarse sustancialmente por encima del proxy usado. Consenso de analistas (61 analistas, Strong Buy, objetivo promedio entre 325.18 y 327.03 USD, +19% a +20% de alza) diverge en direccion OPUESTA a este DCF, mismo patron que HOOD, COIN, SNDK, BABA, TSM, PLTR o AVGO.",
+          "notas": "Margen de seguridad -53.0% en el escenario base y -49.8% en el de sensibilidad, ambos profundamente negativos y similares entre si. SALVEDAD METODOLOGICA (mismo criterio que MSFT y GOOGL, aquí aun mas relevante porque el FCF TTM es literalmente negativo): si el capex de AWS se normaliza en los proximos años, el FCF real podría recuperarse sustancialmente por encima del proxy usado. Consenso de analistas (61 analistas, Strong Buy, objetivo promedio entre 325.18 y 327.03 USD, +19% a +20% de alza) diverge en dirección OPUESTA a este DCF, mismo patrón que HOOD, COIN, SNDK, BABA, TSM, PLTR o AVGO.",
           "calificacion": 1
         }
       ],
@@ -182,17 +182,17 @@
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas: escala logistica que ningun competidor puede replicar rapido, escala de capex de AWS que solo un punado de hyperscalers puede igualar, efectos de red del marketplace acumulados por decadas.",
+          "notas": "Muy altas: escala logistica que ningún competidor puede replicar rápido, escala de capex de AWS que solo un punado de hyperscalers puede igualar, efectos de red del marketplace acumulados por décadas.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad alta entre pocos jugadores de escala comparable en cada segmento (Walmart en e-commerce, Microsoft y Google en cloud, Google y Meta en publicidad); poder de proveedor moderado (Nvidia para GPUs, TSMC indirectamente); poder de comprador variable; amenaza de sustitutos real y creciente (derrota legal reciente frente a Perplexity en herramientas de compra con IA, riesgo de disrupcion de agentic commerce); barreras de entrada muy altas.",
+          "notas": "Rivalidad alta entre pocos jugadores de escala comparable en cada segmento (Walmart en e-commerce, Microsoft y Google en cloud, Google y Meta en publicidad); poder de proveedor moderado (Nvidia para GPUs, TSMC indirectamente); poder de comprador variable; amenaza de sustitutos real y creciente (derrota legal reciente frente a Perplexity en herramientas de compra con IA, riesgo de disrupción de agentic commerce); barreras de entrada muy altas.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Beta 1.45 (confiable, consistente entre Finviz y stockanalysis) - el mas alto entre las empresas de cloud-IA de este Dashboard (MSFT 1.10, GOOGL 1.245, AVGO similar en 1.46), reflejo de la exposicion combinada al ciclo de consumo discrecional del e-commerce y al capex de IA de AWS.",
+          "notas": "Beta 1.45 (confiable, consistente entre Finviz y stockanalysis) - el mas alto entre las empresas de cloud-IA de este Dashboard (MSFT 1.10, GOOGL 1.245, AVGO similar en 1.46), reflejo de la exposición combinada al ciclo de consumo discrecional del e-commerce y al capex de IA de AWS.",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Demanda antimonopolio grande de la FTC (presentada sept-2023, alegando mantenimiento ilegal de monopolio) - ESTADO ACTUAL NO CONFIRMADO en esta sesion, pendiente de verificar en fuente legal primaria. Caso distinto ya resuelto: acuerdo de 2500 millones USD con la FTC por practicas de dark patterns en cancelaciones de Prime. Nueva demanda de Nueva Jersey (4-ago-2026) por presunta supresion de pago a conductores de delivery.",
+          "notas": "Demanda antimonopolio grande de la FTC (presentada sept-2023, alegando mantenimiento ilegal de monopolio) - ESTADO ACTUAL NO CONFIRMADO en esta sesión, pendiente de verificar en fuente legal primaria. Caso distinto ya resuelto: acuerdo de 2500 millones USD con la FTC por practicas de dark patterns en cancelaciones de Prime. Nueva demanda de Nueva Jersey (4-ago-2026) por presunta supresión de pago a conductores de delivery.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria relevante por la escala del segmento International de e-commerce y la operacion global de AWS - no se profundizo en el desglose especifico en esta sesion.",
+          "notas": "Exposición cambiaria relevante por la escala del segmento International de e-commerce y la operación global de AWS - no se profundizo en el desglose específico en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Sin concentracion de cliente material (base de consumidores, vendedores terceros y clientes de AWS extremadamente diversificada). Dependencia de proveedores de chips de IA (Nvidia) para AWS, mitigada parcialmente por el desarrollo de chips propios Trainium.",
+          "notas": "Sin concentración de cliente material (base de consumidores, vendedores terceros y clientes de AWS extremadamente diversificada). Dependencia de proveedores de chips de IA (Nvidia) para AWS, mitigada parcialmente por el desarrollo de chips propios Trainium.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de disrupcion real en agentic commerce (derrota legal reciente frente a Perplexity, 4-ago-2026) y en cloud (competencia de Azure y especialmente Google Cloud, que crece mucho mas rapido). Amazon responde con inversion masiva en Trainium y expansion de capacidad de AWS.",
+          "notas": "Riesgo de disrupción real en agentic commerce (derrota legal reciente frente a Perplexity, 4-ago-2026) y en cloud (competencia de Azure y especialmente Google Cloud, que crece mucho mas rápido). Amazon responde con inversión masiva en Trainium y expansión de capacidad de AWS.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Riesgo laboral-sindical real: demanda de Nueva Jersey (4-ago-2026) por presunta supresion de pago a conductores de delivery; huelgas lideradas por el sindicato Teamsters (dic-2024). Amazon es el segundo mayor empleador privado de EEUU (1.576 millones de empleados), lo que amplifica la visibilidad publica de cualquier disputa laboral.",
+          "notas": "Riesgo laboral-sindical real: demanda de Nueva Jersey (4-ago-2026) por presunta supresión de pago a conductores de delivery; huelgas lideradas por el sindicato Teamsters (dic-2024). Amazon es el segundo mayor empleador privado de EEUU (1.576 millones de empleados), lo que amplifica la visibilidad pública de cualquier disputa laboral.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Lanzamiento del servicio pagado de robotaxis Zoox en Las Vegas (10-ago-2026); avance de la demanda antimonopolio de la FTC (estado no confirmado en esta sesion); resultados de Q3 2026 con el nuevo nivel de capex guiado; evolucion de la demanda laboral de Nueva Jersey.",
+          "notas": "Lanzamiento del servicio pagado de robotaxis Zoox en Las Vegas (10-ago-2026); avance de la demanda antimonopolio de la FTC (estado no confirmado en esta sesión); resultados de Q3 2026 con el nuevo nivel de capex guiado; evolución de la demanda laboral de Nueva Jersey.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Jeff Bezos (Executive Chairman) vendio acciones por aprox 4100 millones USD (aprox 15 millones de acciones) el 4-ago-2026, un dia despues de que la accion alcanzara maximo historico y la capitalizacion superara los 3 billones USD.",
+          "notas": "Jeff Bezos (Executive Chairman) vendio acciones por aprox 4100 millones USD (aprox 15 millones de acciones) el 4-ago-2026, un dia después de que la acción alcanzara máximo histórico y la capitalización superara los 3 billones USD.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura muy amplia (61 analistas), calificacion de consenso Strong Buy, objetivo promedio entre 325.18 y 327.03 USD (fuentes consistentes entre si), equivalente a un alza de aprox 19% a 20% desde el precio actual - fuertemente mas optimista que la conclusion de este DCF propio, en direccion OPUESTA, mismo patron que HOOD, COIN, SNDK, BABA, TSM, PLTR o AVGO.",
+          "notas": "Cobertura muy amplia (61 analistas), calificación de consenso Strong Buy, objetivo promedio entre 325.18 y 327.03 USD (fuentes consistentes entre si), equivalente a un alza de aprox 19% a 20% desde el precio actual - fuertemente mas optimista que la conclusión de este DCF propio, en dirección OPUESTA, mismo patrón que HOOD, COIN, SNDK, BABA, TSM, PLTR o AVGO.",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.324324324324324,
-    "recomendacion": "MANTENER CON CAUTELA - VALORACION EXIGENTE DADO EL CAPEX ACTUAL DE IA (FCF TTM NEGATIVO)",
-    "tesis": "Amazon combina el mejor negocio de cloud en escala absoluta con el peor perfil de generacion de caja libre de cualquier empresa de este Dashboard en este momento del ciclo: el capex guiado a aprox 220000 millones USD para 2026 llevo el FCF TTM a terreno NEGATIVO por primera vez desde 2022. Usando una utilidad operativa normalizada como proxy de FCF, el DCF propio arroja una sobrevaloracion profunda (-53.0% a -49.8% de margen de seguridad) que es robusta al growth rate elegido, en fuerte contraste con el consenso alcista de Wall Street (+19% a +20%). La tesis de Comprar solo se sostendria si el capex de AWS se normaliza en los proximos anios y el FCF real recupera niveles bien por encima del proxy usado aqui - por eso se adopta una postura de cautela en vez de Vender o Comprar directos, igual que con MSFT y GOOGL pero con una advertencia mas fuerte dado que aqui el FCF ya es negativo, no solo comprimido."
+    "recomendacion": "MANTENER CON CAUTELA - VALORASIÓN EXIGENTE DADO EL CAPEX ACTUAL DE IA (FCF TTM NEGATIVO)",
+    "tesis": "Amazon combina el mejor negocio de cloud en escala absoluta con el peor perfil de generación de caja libre de cualquier empresa de este Dashboard en este momento del ciclo: el capex guiado a aprox 220000 millones USD para 2026 llevo el FCF TTM a terreno NEGATIVO por primera vez desde 2022. Usando una utilidad operativa normalizada como proxy de FCF, el DCF propio arroja una sobrevaloración profunda (-53.0% a -49.8% de margen de seguridad) que es robusta al growth rate elegido, en fuerte contraste con el consenso alcista de Wall Street (+19% a +20%). La tesis de Comprar solo se sostendria si el capex de AWS se normaliza en los proximos años y el FCF real recupera niveles bien por encima del proxy usado aquí - por eso se adopta una postura de cautela en vez de Vender o Comprar directos, igual que con MSFT y GOOGL pero con una advertencia mas fuerte dado que aquí el FCF ya es negativo, no solo comprimido."
   }
 }

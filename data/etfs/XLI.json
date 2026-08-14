@@ -1,35 +1,35 @@
 {
   "nombre": "Industrial Select Sector SPDR Fund",
   "ticker": "XLI",
-  "categoria": "Equity Sector (Industrials GICS puro, mismo dia de inception que XLU/XLK/XLE/XLP -16-dic-1998, ya en el workbook- - SEXTO miembro de la familia Select Sector SPDR del proyecto, el fondo PADRE del cual ITA -fila 10, aerospacial/defensa- y AIRR -fila 112, industrial+banca comunitaria small/mid-cap-, ambos ya en el workbook, son variantes mas concentradas/tematicas)",
+  "categoria": "Equity Sector (Industrials GICS puro, mismo dia de inception que XLU/XLK/XLE/XLP -16-dic-1998, ya en el workbook- - SEXTO miembro de la familia Select Sector SPDR del proyecto, el fondo PADRE del cual ITA -fila 10, aerospacial/defensa- y AIRR -fila 112, industrial+banca comunitaria small/mid-cap-, ambos ya en el workbook, son variantes mas concentradas/temáticas)",
   "emisor": "State Street (SPDR)",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica fisica -misma metodologia que XLU/XLK/XLE/XLC/XLP-, sin swaps ni contraparte.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica física -misma metodología que XLU/XLK/XLE/XLC/XLP-, sin swaps ni contraparte.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, RIC estandar -Select Sector SPDR NO es UIT-.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, RIC estándar -Select Sector SPDR NO es UIT-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM ~$34.2-34.6bn - el MAS GRANDE del cluster reciente de fondos sectoriales tras XLK -$103-123bn-, mayor que XLC/XLP.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 16-dic-1998 (~27.65 anios) - **MISMO DIA que XLU/XLK/XLE/XLP**, ya en el workbook, SEXTO miembro original de la familia Select Sector SPDR, cubre dot-com/2008/COVID/2022 completos.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 16-dic-1998 (~27.65 años) - **MISMO DIA que XLU/XLK/XLE/XLP**, ya en el workbook, SEXTO miembro original de la familia Select Sector SPDR, cubre dot-com/2008/COVID/2022 completos.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor State Street/SPDR, mismo emisor establecido que el resto de la familia.",
           "calificacion": 4
         }
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.08% - estandar de la familia, **MUCHO mas barato que ITA -0.42%- o AIRR -0.69%-, ambos ya en el workbook y con exposicion industrial relacionada**.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.08% - estándar de la familia, **MUCHO mas barato que ITA -0.42%- o AIRR -0.69%-, ambos ya en el workbook y con exposición industrial relacionada**.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica fisica de su Select Sector Index GICS bien definido - tracking ajustado esperado, mismo precedente que el resto de la familia.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica física de su Select Sector Index GICS bien definido - tracking ajustado esperado, mismo precedente que el resto de la familia.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "RIC estandar, presumiblemente presta valores como el resto de la familia SPDR.",
+          "notas": "RIC estándar, presumiblemente presta valores como el resto de la familia SPDR.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Cambios de composicion GICS raros - turnover normal bajo, igual que XLU/XLK/XLE/XLC/XLP.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Cambios de composición GICS raros - turnover normal bajo, igual que XLU/XLK/XLE/XLC/XLP.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -72,11 +72,11 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread consistentemente ajustado, tipico de un Select Sector SPDR de alta liquidez.",
+          "notas": "Spread consistentemente ajustado, típico de un Select Sector SPDR de alta liquidez.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
+          "aspecto": "Premium/Discount histórico vs. NAV",
           "notas": "Premium/Discount NAV $184.62 vs precio $185.89 -~0.7%-, algo mas amplio que XLC/XLP pero aun modesto.",
           "calificacion": 3
         },
@@ -89,92 +89,92 @@
       "rating_promedio": 4.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
+          "aspecto": "Número de holdings y diversificación",
           "notas": "83-85 holdings - MAS que XLK -76-, genuinamente amplio dentro del sector.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
+          "aspecto": "Concentración Top 10 holdings (%)",
           "notas": "**Top 10 = solo ~39.75% del NAV** - **NOTABLEMENTE MENOS concentrado que el cluster reciente de fondos sectoriales** -XLC 69.95%, XLP ~62%, VOX 68.24-71.5%, IYZ 71.5-72.1%, IYK 66.1-66.2%-, mucho mejor diversificado internamente.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% Industrials por definicion, PERO genuinamente diversificado DENTRO del sector: Aerospace & Defense 26.29% + Machinery 20.20% + Electrical Equipment 13.70% + Ground Transportation 9.85% + Building Products 5.31% + otros - ninguna sub-industria domina de forma tan extrema como Interactive Media en XLC/VOX.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% Industrials por definición, PERO genuinamente diversificado DENTRO del sector: Aerospace & Defense 26.29% + Machinery 20.20% + Electrical Equipment 13.70% + Ground Transportation 9.85% + Building Products 5.31% + otros - ninguna sub-industria domina de forma tan extrema como Interactive Media en XLC/VOX.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US listado, aunque muchas industriales tienen operaciones globales.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Industrials GICS amplio, cap-weighted, large-cap - la exposicion PADRE de la cual ITA -solo aerospacial/defensa- y AIRR -small/mid-cap tematico- son variantes mas concentradas ya en el workbook.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Industrials GICS amplio, cap-weighted, large-cap - la exposición PADRE de la cual ITA -solo aerospacial/defensa- y AIRR -small/mid-cap temático- son variantes mas concentradas ya en el workbook.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Select Sector Index GICS - misma metodologia rigurosa/iconica que el resto de la familia SPDR.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Select Sector Index GICS - misma metodología rigurosa/iconica que el resto de la familia SPDR.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral estandar de la familia Select Sector SPDR.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral estándar de la familia Select Sector SPDR.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.86
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y +19.83% a +24.90%, 3Y anualizado +19.36-19.9%, 5Y anualizado +13.3-13.41%, 10Y anualizado +13.92-13.94%, desde inception ~+9.39-9.71% anualizado - solido, PERO **tanto ITA -10Y ~16.94%/anio- como AIRR -10Y ~22.02%/anio-, ambos ya en el workbook, SUPERARON a XLI en esta ventana** pese al TER mucho mas bajo de XLI -0.08% vs 0.42%/0.69%- - leccion clara de que las apuestas industriales mas estrechas/tematicas rindieron mejor en este periodo.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y +19.83% a +24.90%, 3Y anualizado +19.36-19.9%, 5Y anualizado +13.3-13.41%, 10Y anualizado +13.92-13.94%, desde inception ~+9.39-9.71% anualizado - sólido, PERO **tanto ITA -10Y ~16.94%/año- como AIRR -10Y ~22.02%/año-, ambos ya en el workbook, SUPERARON a XLI en esta ventana** pese al TER mucho mas bajo de XLI -0.08% vs 0.42%/0.69%- - lección clara de que las apuestas industriales mas estrechas/temáticas rindieron mejor en este período.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Rango 52 semanas $147.14-$188.19 (ratio 1.279x) - moderado, en linea o algo por encima de VOO/SPY/IVV -~1.235x-.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Rango 52 semanas $147.14-$188.19 (ratio 1.279x) - moderado, en línea o algo por encima de VOO/SPY/IVV -~1.235x-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown Crisis 2008: **-57.16%**, pico oct-2007, piso feb-2009 -17 meses-, **43 meses -~3.6 anios- para recuperacion COMPLETA -abr-2011-** - severo con una de las recuperaciones mas LARGAS documentadas del cluster reciente. COVID: -20.74% -4 meses a piso, 18 meses recuperacion-. Bear 2022: -10.56% -9 meses a piso, 5 meses recuperacion, relativamente suave-. Peor drawdown historico desde inception: -62.26%.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown Crisis 2008: **-57.16%**, pico oct-2007, piso feb-2009 -17 meses-, **43 meses -~3.6 años- para recuperación COMPLETA -abr-2011-** - severo con una de las recuperaciones mas LARGAS documentadas del cluster reciente. COVID: -20.74% -4 meses a piso, 18 meses recuperación-. Bear 2022: -10.56% -9 meses a piso, 5 meses recuperación, relativamente suave-. Peor drawdown histórico desde inception: -62.26%.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "**Dataset de Sharpe MULTI-VENTANA, el mas completo del cluster reciente**: 1Y 0.98-1.49, 5Y 0.54, 10Y 0.62, desde inception 0.40 - ilustra como el Sharpe de corto plazo puede diferir sustancialmente del historico completo.",
+          "notas": "**Dataset de Sharpe MULTI-VENTANA, el mas completo del cluster reciente**: 1Y 0.98-1.49, 5Y 0.54, 10Y 0.62, desde inception 0.40 - ilustra como el Sharpe de corto plazo puede diferir sustancialmente del histórico completo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta ~1.00 vs S&P 500, PERO con **captura ASIMETRICA favorable**: capturo 112.24% de las ganancias del S&P 500 pero solo 99.09% de las perdidas historicamente -stockanalysis- - un hallazgo de asimetria riesgo/retorno genuinamente positivo y precisamente cuantificado, poco comun en el proyecto.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta ~1.00 vs S&P 500, PERO con **captura ASIMETRICA favorable**: capturo 112.24% de las ganancias del S&P 500 pero solo 99.09% de las pérdidas históricamente -stockanalysis- - un hallazgo de asimetria riesgo/retorno genuinamente positivo y precisamente cuantificado, poco comun en el proyecto.",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "**Dataset de crisis MAS COMPLETO del cluster reciente**: Crisis 2008 -57.16%/43 meses recuperacion+ COVID -20.74%/18 meses + bear 2022 -10.56%/5 meses -las tres con magnitud Y tiempo de recuperacion documentados-.",
+          "notas": "**Dataset de crisis MAS COMPLETO del cluster reciente**: Crisis 2008 -57.16%/43 meses recuperación+ COVID -20.74%/18 meses + bear 2022 -10.56%/5 meses -las tres con magnitud Y tiempo de recuperación documentados-.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E 26.58-29.48x -ponderado FY1- - rico, comparable a QQQ/AIRR. **P/B 7.19x - el MAS ALTO P/B confirmado de cualquier fondo de este cluster reciente** -supera a SPY 5.37x, IVV 5.59x, XLP 4.66x- - industrials cotizando a un multiplo de valor en libros genuinamente elevado.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E 26.58-29.48x -ponderado FY1- - rico, comparable a QQQ/AIRR. **P/B 7.19x - el MAS ALTO P/B confirmado de cualquier fondo de este cluster reciente** -supera a SPY 5.37x, IVV 5.59x, XLP 4.66x- - industrials cotizando a un múltiplo de valor en libros genuinamente elevado.",
           "calificacion": 1
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
           "notas": "Dividend Yield ~0.92-1.11% TTM, trimestral - modesto, similar al tier VOO/SPY/IVV/ITOT.",
           "calificacion": 3
         }
@@ -182,11 +182,11 @@
       "rating_promedio": 2.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**TRIANGULACION RICA con DOS fondos ya en el workbook**: ITA -fila 10, subconjunto SOLO Aerospace&Defense, que es 26.29% de XLI- y AIRR -fila 112, variante small/mid-cap tematica industrial+banca comunitaria, correlacion ~0.82 con XLI, sustancial pero no total-. **AMBOS ITA y AIRR SUPERARON a XLI en retorno 10Y** -ITA ~16.94%/anio, AIRR ~22.02%/anio, vs XLI ~14.35-14.81%/anio- PESE al TER mucho mas bajo de XLI -0.08% vs 0.42%/0.69%-, leccion clara y cuantificada de que las apuestas industriales mas estrechas/tematicas rindieron mejor en esta ventana. Directamente relevante a la narrativa 'renacimiento industrial'/AI-capex ya establecida con AIRR: los mayores holdings de XLI -GE Vernova, Eaton, CAT, GE Aerospace- son EL MISMO TIPO de beneficiarios de capex de IA que AIRR busca, solo que accedidos via large-cap GICS puro en vez del screen tematico small/mid-cap de AIRR.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**TRIANGULASIÓN RICA con DOS fondos ya en el workbook**: ITA -fila 10, subconjunto SOLO Aerospace&Defense, que es 26.29% de XLI- y AIRR -fila 112, variante small/mid-cap temática industrial+banca comunitaria, correlación ~0.82 con XLI, sustancial pero no total-. **AMBOS ITA y AIRR SUPERARON a XLI en retorno 10Y** -ITA ~16.94%/año, AIRR ~22.02%/año, vs XLI ~14.35-14.81%/año- PESE al TER mucho mas bajo de XLI -0.08% vs 0.42%/0.69%-, lección clara y cuantificada de que las apuestas industriales mas estrechas/temáticas rindieron mejor en esta ventana. Directamente relevante a la narrativa 'renacimiento industrial'/AI-capex ya establecida con AIRR: los mayores holdings de XLI -GE Vernova, Eaton, CAT, GE Aerospace- son EL MISMO TIPO de beneficiarios de capex de IA que AIRR busca, solo que accedidos via large-cap GICS puro en vez del screen temático small/mid-cap de AIRR.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **SATELITE/CASI-CORE sectorial** - apuesta sectorial razonablemente diversificada -Top10 solo 39.75%-, barata y liquida, podria justificar un rol cuasi-Core para exposicion industrial especifica, aunque sigue siendo concentracion de UN SOLO sector.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **SATÉLITE/CASI-CORE sectorial** - apuesta sectorial razonablemente diversificada -Top10 solo 39.75%-, barata y liquida, podría justificar un rol cuasi-Core para exposición industrial específica, aunque sigue siendo concentración de UN SOLO sector.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: acceso amplio, barato y liquido a la tematica de 'renacimiento industrial'/AI-capex/reshoring ya establecida con AIRR, pero via nombres large-cap GICS puro y mucho mejor diversificado -85 holdings, Top10 39.75%- a una fraccion del costo -0.08% vs 0.69% de AIRR- - aunque historicamente rindio menos que ITA y AIRR en la ventana de 10 anios.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: acceso amplio, barato y liquido a la temática de 'renacimiento industrial'/AI-capex/reshoring ya establecida con AIRR, pero via nombres large-cap GICS puro y mucho mejor diversificado -85 holdings, Top10 39.75%- a una fracción del costo -0.08% vs 0.69% de AIRR- - aunque históricamente rindio menos que ITA y AIRR en la ventana de 10 años.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) valoracion rica -P/E ~27-29x, P/B 7.19x, el mas alto del cluster reciente-; (2) Max Drawdown Crisis 2008 documentado -57.16% con una recuperacion genuinamente LARGA -43 meses-; (3) overlap con CAT -6.65-6.70%, YA NO COMPRAR-superciclo IA en MULTIPLES fondos del proyecto -VYM, DGRO, VOO, SPY, ITOT, IVV, DIA-, aqui con un peso aun MAYOR -practicamente el top-1/top-2 del fondo-; (4) concentracion de UN SOLO sector pese a la buena diversificacion interna.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) valoración rica -P/E ~27-29x, P/B 7.19x, el mas alto del cluster reciente-; (2) Max Drawdown Crisis 2008 documentado -57.16% con una recuperación genuinamente LARGA -43 meses-; (3) overlap con CAT -6.65-6.70%, YA NO COMPRAR-superciclo IA en MÚLTIPLES fondos del proyecto -VYM, DGRO, VOO, SPY, ITOT, IVV, DIA-, aquí con un peso aun MAYOR -prácticamente el top-1/top-2 del fondo-; (4) concentración de UN SOLO sector pese a la buena diversificación interna.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "ITA -fila 10, ya en el workbook, subconjunto Aerospace&Defense de XLI, historicamente superior en retorno- y AIRR -fila 112, ya en el workbook, variante small/mid-cap tematica, tambien historicamente superior pero mucho mas cara- son las comparables mas directas y ricas de todo el proyecto.",
+          "notas": "ITA -fila 10, ya en el workbook, subconjunto Aerospace&Defense de XLI, históricamente superior en retorno- y AIRR -fila 112, ya en el workbook, variante small/mid-cap temática, también históricamente superior pero mucho mas cara- son las comparables mas directas y ricas de todo el proyecto.",
           "calificacion": 5
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL - fondo PADRE barato y bien diversificado de ITA y AIRR, ambos ya en el workbook con retornos historicos superiores pero costos mucho mayores. Score 3.73/5, cerca de la banda alta de la familia Select Sector SPDR -XLU 3.85, XLP 3.82-, por encima de XLK -3.45-. Industrial Select Sector SPDR Fund, State Street, SEXTO miembro de la familia -junto a XLU/XLK/XLE/XLC/XLP-, inception 16-dic-1998 -MISMO DIA que XLU/XLK/XLE/XLP-, cubre dot-com/2008/COVID/2022 completos. AUM ~$34.2-34.6bn, el MAS GRANDE del cluster sectorial reciente tras XLK. TER 0.08%, MUCHO mas barato que ITA -0.42%- o AIRR -0.69%-, ambos ya en el workbook y relacionados por tesis. Top 10 = solo ~39.75% del NAV, NOTABLEMENTE MENOS concentrado que el resto del cluster sectorial reciente -XLC 69.95%, XLP ~62%, VOX 68-71.5%, IYZ 71.5-72.1%-. **PERO tanto ITA -10Y ~16.94%/anio- como AIRR -10Y ~22.02%/anio- SUPERARON a XLI -10Y ~14.35-14.81%/anio- pese al TER mucho mas bajo de XLI** - leccion clara de que las apuestas industriales mas estrechas/tematicas rindieron mejor en esta ventana. XLI captura la MISMA narrativa de 'renacimiento industrial'/AI-capex que AIRR -mismos beneficiarios GE Vernova/Eaton/CAT/GE Aerospace- pero via large-cap GICS puro y mejor diversificado. Max Drawdown Crisis 2008 -57.16% con recuperacion genuinamente LARGA -43 meses-. Valoracion rica -P/E ~27-29x, P/B 7.19x, el mas alto del cluster reciente-. Overlap con CAT -6.65-6.70%, YA NO COMPRAR-superciclo IA en multiples fondos del proyecto-, aqui con peso aun mayor. Rol en Portafolio: Satelite/casi-Core sectorial, razonablemente diversificado, barato y liquido para exposicion industrial especifica. ITA y AIRR, ambos ya en el workbook, siguen siendo las apuestas historicamente superiores dentro de la misma tematica, a mayor costo."
+    "tesis": "MANTENER/ACUMULAR GRADUAL - fondo PADRE barato y bien diversificado de ITA y AIRR, ambos ya en el workbook con retornos históricos superiores pero costos mucho mayores. Score 3.73/5, cerca de la banda alta de la familia Select Sector SPDR -XLU 3.85, XLP 3.82-, por encima de XLK -3.45-. Industrial Select Sector SPDR Fund, State Street, SEXTO miembro de la familia -junto a XLU/XLK/XLE/XLC/XLP-, inception 16-dic-1998 -MISMO DIA que XLU/XLK/XLE/XLP-, cubre dot-com/2008/COVID/2022 completos. AUM ~$34.2-34.6bn, el MAS GRANDE del cluster sectorial reciente tras XLK. TER 0.08%, MUCHO mas barato que ITA -0.42%- o AIRR -0.69%-, ambos ya en el workbook y relacionados por tesis. Top 10 = solo ~39.75% del NAV, NOTABLEMENTE MENOS concentrado que el resto del cluster sectorial reciente -XLC 69.95%, XLP ~62%, VOX 68-71.5%, IYZ 71.5-72.1%-. **PERO tanto ITA -10Y ~16.94%/año- como AIRR -10Y ~22.02%/año- SUPERARON a XLI -10Y ~14.35-14.81%/año- pese al TER mucho mas bajo de XLI** - lección clara de que las apuestas industriales mas estrechas/temáticas rindieron mejor en esta ventana. XLI captura la MISMA narrativa de 'renacimiento industrial'/AI-capex que AIRR -mismos beneficiarios GE Vernova/Eaton/CAT/GE Aerospace- pero via large-cap GICS puro y mejor diversificado. Max Drawdown Crisis 2008 -57.16% con recuperación genuinamente LARGA -43 meses-. Valoración rica -P/E ~27-29x, P/B 7.19x, el mas alto del cluster reciente-. Overlap con CAT -6.65-6.70%, YA NO COMPRAR-superciclo IA en múltiples fondos del proyecto-, aquí con peso aun mayor. Rol en Portafolio: Satélite/casi-Core sectorial, razonablemente diversificado, barato y liquido para exposición industrial específica. ITA y AIRR, ambos ya en el workbook, siguen siendo las apuestas históricamente superiores dentro de la misma temática, a mayor costo."
   }
 }

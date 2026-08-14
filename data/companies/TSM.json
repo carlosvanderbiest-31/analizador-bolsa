@@ -1,7 +1,7 @@
 {
   "empresa": "Taiwan Semiconductor Manufacturing Company Limited",
   "ticker": "TSM",
-  "sector": "Tecnologia - Semiconductores (Fundicion, Foundry)",
+  "sector": "Tecnología - Semiconductores (Fundición, Foundry)",
   "fecha_analisis": "2026-08-05",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Fundicion pure-play de semiconductores (no disena chips propios, fabrica bajo contrato para empresas fabless): Nvidia es ahora el cliente numero 1 (19% de ingresos 2025, mas del doble desde 12% en 2024), Apple cayo al puesto 2 (17%, desde 22% en 2024) - primer cambio historico donde la demanda de IA supera a la de smartphones como motor de ingresos. Segmento HPC subio de aprox 40% de ingresos en 2022 a 55% a fines de 2025.",
+          "notas": "Fundición pure-play de semiconductores (no disena chips propios, fabrica bajo contrato para empresas fabless): Nvidia es ahora el cliente número 1 (19% de ingresos 2025, mas del doble desde 12% en 2024), Apple cayo al puesto 2 (17%, desde 22% en 2024) - primer cambio histórico donde la demanda de IA supera a la de smartphones como motor de ingresos. Segmento HPC subio de aprox 40% de ingresos en 2022 a 55% a fines de 2025.",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Liderazgo tecnologico con anios de ventaja sobre competidores en nodos avanzados (N2 de 2nm en produccion de volumen desde 4T25, completamente reservado para 2026), escala de manufactura (72% de cuota global de foundry, record), relaciones de co-diseno profundas que crean switching costs altisimos, control del cuello de botella de empaquetado avanzado CoWoS (Nvidia tiene asegurado aprox 60% de la capacidad para 2026). Uno de los moats mas dominantes de este Dashboard.",
+          "notas": "Liderazgo tecnologico con años de ventaja sobre competidores en nodos avanzados (N2 de 2nm en producción de volumen desde 4T25, completamente reservado para 2026), escala de manufactura (72% de cuota global de foundry, récord), relaciones de co-diseño profundas que crean switching costs altisimos, control del cuello de botella de empaquetado avanzado CoWoS (Nvidia tiene asegurado aprox 60% de la capacidad para 2026). Uno de los moats mas dominantes de este Dashboard.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider absoluto de foundry con 72% de cuota de mercado global (record, Q1 2026), muy por delante de Samsung Foundry (6.5%, con problemas de yield persistentes), SMIC (5.1%, limitado a nodos maduros por controles de exportacion de EUV) y GlobalFoundries-UMC (3.3% y 3.9%). Intel Foundry ni siquiera aparece en el top 10.",
+          "notas": "Líder absoluto de foundry con 72% de cuota de mercado global (récord, Q1 2026), muy por delante de Samsung Foundry (6.5%, con problemas de yield persistentes), SMIC (5.1%, limitado a nodos maduros por controles de exportación de EUV) y GlobalFoundries-UMC (3.3% y 3.9%). Intel Foundry ni siquiera aparece en el top 10.",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Fuerte: margenes en expansion continua (margen bruto subio de 59.89% FY2025 a 64.23% TTM, y a 67.7% en el trimestre puntual Q2 2026) pese al capex masivo - reflejo de poder de fijacion de precios genuino dado el monopolio efectivo en nodos de punta.",
+          "notas": "Fuerte: márgenes en expansión continua (margen bruto subio de 59.89% FY2025 a 64.23% TTM, y a 67.7% en el trimestre puntual Q2 2026) pese al capex masivo - reflejo de poder de fijación de precios genuino dado el monopolio efectivo en nodos de punta.",
           "calificacion": 5
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Capex guiado al alza dos veces en 2026 (de aprox 50000 millones USD a 52000-56000 millones USD, y luego a 60000-64000 millones USD tras resultados de Q2 2026) para expandir capacidad de nodos avanzados y empaquetado CoWoS - ejecucion agresiva y bien financiada (predominantemente con flujo de caja operativo propio). Compromiso adicional de 100000 millones USD en Arizona (jul-2026), llevando el total anunciado en EEUU a 265000 millones USD.",
+          "notas": "Capex guiado al alza dos veces en 2026 (de aprox 50000 millones USD a 52000-56000 millones USD, y luego a 60000-64000 millones USD tras resultados de Q2 2026) para expandir capacidad de nodos avanzados y empaquetado CoWoS - ejecución agresiva y bien financiada (predominantemente con flujo de caja operativo propio). Compromiso adicional de 100000 millones USD en Arizona (jul-2026), llevando el total anunciado en EEUU a 265000 millones USD.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO y Chairman Dr. C.C. Wei (asumio ambos roles tras el retiro de Mark Liu en 2024). Senal reciente positiva: ejecutivos de TSMC realizaron compras de acciones propias a fines de jul-2026 e inicios de ago-2026, tras la caida del sector (indice de semiconductores de Filadelfia -21% en jul-2026), interpretado como confianza directiva en el pullback.",
+          "notas": "CEO y Chairman Dr. C.C. Wei (asumio ambos roles tras el retiro de Mark Liu en 2024). Señal reciente positiva: ejecutivos de TSMC realizaron compras de acciones propias a fines de jul-2026 e inicios de ago-2026, tras la caida del sector (índice de semiconductores de Filadelfia -21% en jul-2026), interpretado como confianza directiva en el pullback.",
           "calificacion": 4
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Una accion, un voto (one-share-one-vote) - a diferencia de BABA, TSMC NO tiene estructura VIE. Es una corporacion taiwanesa directa con acciones ordinarias en la Bolsa de Taiwan y ADS en NYSE (cada ADS representa 5 acciones ordinarias). El riesgo estructural de TSMC es geopolitico-territorial, no de estructura corporativa-legal de propiedad como en BABA.",
+          "notas": "Una acción, un voto (one-share-one-vote) - a diferencia de BABA, TSMC NO tiene estructura VIE. Es una corporación taiwanesa directa con acciones ordinarias en la Bolsa de Taiwan y ADS en NYSE (cada ADS representa 5 acciones ordinarias). El riesgo estructural de TSMC es geopolítico-territorial, no de estructura corporativa-legal de propiedad como en BABA.",
           "calificacion": 4
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Comunicacion trimestral solida via 6-K y comunicados de prensa; guidance detallado por trimestre y por anio, actualizado activamente (capex 2026 revisado al alza dos veces durante el anio). Institutional ownership aprox 47%, con el National Development Fund de Taiwan (gobierno) como mayor accionista individual (aprox 6.38%).",
+          "notas": "Comunicación trimestral sólida via 6-K y comunicados de prensa; guidance detallado por trimestre y por año, actualizado activamente (capex 2026 revisado al alza dos veces durante el año). Institutional ownership aprox 47%, con el National Development Fund de Taiwan (gobierno) como mayor accionista individual (aprox 6.38%).",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Posicion de CAJA NETA solida: aprox 79200 millones USD de caja neta (caja 97900 millones USD menos deuda total 30700 millones USD), Deuda Neta a EBITDA negativo (aprox -0.8x). Rating crediticio altisimo (S&P AA- con outlook POSITIVO, Moody's Aa3) - equivalente a rating soberano de paises desarrollados. Deuda a Patrimonio muy bajo (0.15).",
+          "notas": "Posición de CAJA NETA sólida: aprox 79200 millones USD de caja neta (caja 97900 millones USD menos deuda total 30700 millones USD), Deuda Neta a EBITDA negativo (aprox -0.8x). Rating crediticio altisimo (S&P AA- con outlook POSITIVO, Moody's Aa3) - equivalente a rating soberano de paises desarrollados. Deuda a Patrimonio muy bajo (0.15).",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 2.46x, prueba acida 2.25x - liquidez muy solida y consistente con la posicion de caja neta amplia.",
+          "notas": "Razón corriente 2.46x, prueba acida 2.25x - liquidez muy sólida y consistente con la posición de caja neta amplia.",
           "calificacion": 5
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Deuda total moderada (aprox 30700 millones USD) financiada predominantemente con estructura conservadora; bonos recientes con cupones que reflejan el entorno de tasas actual (aprox 4.25% a 2032). Sin senales de estres de refinanciamiento dado el rating crediticio altisimo.",
+          "notas": "Deuda total moderada (aprox 30700 millones USD) financiada predominantemente con estructura conservadora; bonos recientes con cupones que reflejan el entorno de tasas actual (aprox 4.25% a 2032). Sin señales de estres de refinanciamiento dado el rating crediticio altisimo.",
           "calificacion": 5
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales aprox 293000 millones USD, patrimonio solido (aprox 202300 millones USD) - balance robusto sin la distorsion de patrimonio bajo por recompras agresivas vista en LLY o AAPL.",
+          "notas": "Activos totales aprox 293000 millones USD, patrimonio sólido (aprox 202300 millones USD) - balance robusto sin la distorsión de patrimonio bajo por recompras agresivas vista en LLY o AAPL.",
           "calificacion": 4
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margenes en expansion fuerte y sostenida: margen bruto de 59.89% (FY2025) a 64.23% (TTM) a 67.7% (Q2 2026 puntual), margen operativo de 50.83% a 56.10% a 60.3%, margen neto de 44.50% a 50.37% a 55.6% - todos por encima del guidance previo de la propia empresa, impulsados por el mix de nodos avanzados de mayor margen y el supercycle de IA.",
+          "notas": "Márgenes en expansión fuerte y sostenida: margen bruto de 59.89% (FY2025) a 64.23% (TTM) a 67.7% (Q2 2026 puntual), margen operativo de 50.83% a 56.10% a 60.3%, margen neto de 44.50% a 50.37% a 55.6% - todos por encima del guidance previo de la propia empresa, impulsados por el mix de nodos avanzados de mayor margen y el supercycle de IA.",
           "calificacion": 5
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 40.06%, ROIC 31.58%, ambos muy por encima del WACC estimado (aprox 10.66%) - rentabilidad excelente y sin distorsion relevante de patrimonio (DuPont point-in-time de 34.60% reconcilia razonablemente con el ROE reportado).",
+          "notas": "ROE 40.06%, ROIC 31.58%, ambos muy por encima del WACC estimado (aprox 10.66%) - rentabilidad excelente y sin distorsión relevante de patrimonio (DuPont point-in-time de 34.60% reconcilia razonablemente con el ROE reportado).",
           "calificacion": 5
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada-baja (0.47x, Revenue TTM 139bn sobre Activos totales 293bn) - normal para un fabricante de semiconductores de capital intensivo con fabs de decenas de miles de millones de dolares cada una.",
+          "notas": "Rotación de activos moderada-baja (0.47x, Revenue TTM 139bn sobre Activos totales 293bn) - normal para un fabricante de semiconductores de capital intensivo con fabs de decenas de miles de millones de dólares cada una.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Crecimiento historico muy fuerte: CAGR de ingresos aprox 24% a 25% (2021-2025), acelerando a +36% interanual en Q2 2026 y guidance elevado a ligeramente por encima de 40% para todo 2026 tras resultados solidos. MISMO GOTCHA que NVDA y MU de este Dashboard: TSMC es el proveedor comun de ambas, y su crecimiento reciente esta directamente inflado por el supercycle de capex de IA de sus clientes - el propio CEO C.C. Wei declaro estar muy nervioso sobre si esta demanda es sostenible.",
+          "notas": "Crecimiento histórico muy fuerte: CAGR de ingresos aprox 24% a 25% (2021-2025), acelerando a +36% interanual en Q2 2026 y guidance elevado a ligeramente por encima de 40% para todo 2026 tras resultados sólidos. MISMO GOTCHA que NVDA y MU de este Dashboard: TSMC es el proveedor comun de ambas, y su crecimiento reciente esta directamente inflado por el supercycle de capex de IA de sus clientes - el propio CEO C.C. Wei declaro estar muy nervioso sobre si esta demanda es sostenible.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Historicamente ciclica (industria de semiconductores) pero con visibilidad multi-anio inusualmente alta en el momento actual (nodo N2 completamente reservado para 2026, aprox 60% de la capacidad CoWoS asegurada por Nvidia) - la consistencia de corto plazo es alta, pero la industria ha demostrado repetidamente revertir ciclos de euforia (ver MU en este mismo Dashboard).",
+          "notas": "Históricamente ciclica (industria de semiconductores) pero con visibilidad multi-año inusualmente alta en el momento actual (nodo N2 completamente reservado para 2026, aprox 60% de la capacidad CoWoS asegurada por Nvidia) - la consistencia de corto plazo es alta, pero la industria ha demostrado repetidamente revertir ciclos de euforia (ver MU en este mismo Dashboard).",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Roadmap tecnologico solido (A16 en 2027, A14 en 2028, A12-A13 de 1.2 a 1.3nm en 2029); expansion masiva en Arizona (265000 millones USD comprometidos totales, 10 fabs, produccion de volumen ya en marcha para Apple, AMD y Nvidia); demanda de IA que el propio CEO espera seguira superando la oferta durante anios.",
+          "notas": "Roadmap tecnologico sólido (A16 en 2027, A14 en 2028, A12-A13 de 1.2 a 1.3nm en 2029); expansión masiva en Arizona (265000 millones USD comprometidos totales, 10 fabs, producción de volumen ya en marcha para Apple, AMD y Nvidia); demanda de IA que el propio CEO espera seguira superando la oferta durante años.",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 82.3bn USD vs utilidad neta TTM 69.8bn USD - OCF supera comodamente a la utilidad neta, calidad de ganancias excelente y sin senales de distorsion contable.",
+          "notas": "OCF TTM 82.3bn USD vs utilidad neta TTM 69.8bn USD - OCF supera comodamente a la utilidad neta, calidad de ganancias excelente y sin señales de distorsión contable.",
           "calificacion": 5
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM 35.7bn USD, positivo pero fuertemente comprimido por el capex masivo del supercycle de IA (capex TTM 46.6bn USD, aprox 34% de ingresos) - el capex guiado para 2026 completo (60000 a 64000 millones USD) es aun mayor que el TTM, por lo que el FCF podria comprimirse mas antes de cualquier eventual alivio.",
+          "notas": "FCF TTM 35.7bn USD, positivo pero fuertemente comprimido por el capex masivo del supercycle de IA (capex TTM 46.6bn USD, aprox 34% de ingresos) - el capex guiado para 2026 completo (60000 a 64000 millones USD) es aun mayor que el TTM, por lo que el FCF podría comprimirse mas antes de cualquier eventual alivio.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex casi enteramente de crecimiento (expansion de nodos avanzados y empaquetado CoWoS): guiado al alza dos veces durante 2026, de aprox 50000 millones USD a 60000-64000 millones USD - intensidad de capital de aprox 36% de ventas en 2026 vs 33.5% en 2025, uno de los niveles de reinversion mas altos de cualquier empresa de este Dashboard.",
+          "notas": "Capex casi enteramente de crecimiento (expansión de nodos avanzados y empaquetado CoWoS): guiado al alza dos veces durante 2026, de aprox 50000 millones USD a 60000-64000 millones USD - intensidad de capital de aprox 36% de ventas en 2026 vs 33.5% en 2025, uno de los niveles de reinversión mas altos de cualquier empresa de este Dashboard.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Uso de capital dominado por la reinversion masiva en capacidad (financiada predominantemente con flujo de caja operativo propio); dividendo modesto y estable (yield aprox 0.67%, payout ratio aprox 20.55%); recompras de acciones no destacadas como prioridad principal dado el nivel de inversion en curso.",
+          "notas": "Uso de capital dominado por la reinversión masiva en capacidad (financiada predominantemente con flujo de caja operativo propio); dividendo modesto y estable (yield aprox 0.67%, payout ratio aprox 20.55%); recompras de acciones no destacadas como prioridad principal dado el nivel de inversión en curso.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "PE TTM entre 27.64x y 29.96x segun fuente (discrepancia por conteo de acciones), forward PE aprox 19.2x, EV a EBITDA entre 18.49x y 22.49x segun fuente, P a FCF aprox 53.75x - muy exigente, refleja alta confianza del mercado en la continuidad del supercycle de IA.",
+          "notas": "PE TTM entre 27.64x y 29.96x según fuente (discrepancia por conteo de acciones), forward PE aprox 19.2x, EV a EBITDA entre 18.49x y 22.49x según fuente, P a FCF aprox 53.75x - muy exigente, refleja alta confianza del mercado en la continuidad del supercycle de IA.",
           "calificacion": 2
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio (adoptado): FCF base TTM 35.7bn USD (comprimido por el capex masivo), WACC 10.66% (beta 1.32 promedio entre Finviz 1.39 y stockanalysis 1.25; costo de deuda post-impuestos aprox 3.6% con tasa de impuesto taiwanesa del 20%), crecimiento decreciente tipo fade de 25% a 8% en 5 anios (muy por debajo del guidance de mas de 40% para 2026, mismo criterio de descuento agresivo que NVDA y MU), terminal 4% -> 186.20 USD por ADS. Escenario de sensibilidad mas generoso (crecimiento plano 20%, no adoptado) da 220.80 USD, margen -46.8% - todavia deeply negativo. Ver Notas del Dashboard para el detalle completo.",
+          "notas": "DCF propio (adoptado): FCF base TTM 35.7bn USD (comprimido por el capex masivo), WACC 10.66% (beta 1.32 promedio entre Finviz 1.39 y stockanalysis 1.25; costo de deuda post-impuestos aprox 3.6% con tasa de impuesto taiwanesa del 20%), crecimiento decreciente tipo fade de 25% a 8% en 5 años (muy por debajo del guidance de mas de 40% para 2026, mismo criterio de descuento agresivo que NVDA y MU), terminal 4% -> 186.20 USD por ADS. Escenario de sensibilidad mas generoso (crecimiento plano 20%, no adoptado) da 220.80 USD, margen -46.8% - todavía deeply negativo. Ver Notas del Dashboard para el detalle completo.",
           "calificacion": 1
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de seguridad -55.1% en el escenario base y -46.8% en el escenario mas generoso - ambos profundamente en zona de vender, conclusion robusta a la eleccion de growth rate. Consenso de analistas (19 analistas, Strong Buy, objetivo promedio 537.70 a 540.20 USD, +30% de alza) diverge en direccion OPUESTA, mismo patron que HOOD, COIN, SNDK o BABA.",
+          "notas": "Margen de seguridad -55.1% en el escenario base y -46.8% en el escenario mas generoso - ambos profundamente en zona de vender, conclusión robusta a la elección de growth rate. Consenso de analistas (19 analistas, Strong Buy, objetivo promedio 537.70 a 540.20 USD, +30% de alza) diverge en dirección OPUESTA, mismo patrón que HOOD, COIN, SNDK o BABA.",
           "calificacion": 1
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM enorme y en expansion: demanda de chips de IA que el propio CEO espera seguira superando la oferta durante anios; capacidad de CoWoS escalando de aprox 35000 wafers por mes (fin de 2024) a 130000-140000 wafers por mes (fin de 2026).",
+          "notas": "TAM enorme y en expansión: demanda de chips de IA que el propio CEO espera seguira superando la oferta durante años; capacidad de CoWoS escalando de aprox 35000 wafers por mes (fin de 2024) a 130000-140000 wafers por mes (fin de 2026).",
           "calificacion": 5
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Extremas: una sola fab de vanguardia cuesta decenas de miles de millones de dolares, nivel de inversion que solo TSMC, Samsung e Intel pueden intentar siquiera, y TSMC lo ejecuta con mejor retorno y yield que cualquiera de los dos. Dependencia critica de ASML como proveedor unico mundial de litografia EUV refuerza la barrera para cualquier nuevo entrante.",
+          "notas": "Extremas: una sola fab de vanguardia cuesta decenas de miles de millones de dólares, nivel de inversión que solo TSMC, Samsung e Intel pueden intentar siquiera, y TSMC lo ejecuta con mejor retorno y yield que cualquiera de los dos. Dependencia critica de ASML como proveedor único mundial de litografia EUV refuerza la barrera para cualquier nuevo entrante.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad baja en la practica dado el liderazgo abrumador de TSMC (72% de cuota); poder de proveedor muy alto y concentrado en un punto critico (ASML, monopolio de litografia EUV, con tension reciente de precios reportada jul-2026); poder de comprador alto por parte de clientes grandes (Nvidia, Apple concentran aprox 36% de ingresos combinados) que sin embargo dependen totalmente de TSMC para nodos de punta; amenaza de sustitutos baja; barreras de entrada extremas.",
+          "notas": "Rivalidad baja en la practica dado el liderazgo abrumador de TSMC (72% de cuota); poder de proveedor muy alto y concentrado en un punto critico (ASML, monopolio de litografia EUV, con tensión reciente de precios reportada jul-2026); poder de comprador alto por parte de clientes grandes (Nvidia, Apple concentran aprox 36% de ingresos combinados) que sin embargo dependen totalmente de TSMC para nodos de punta; amenaza de sustitutos baja; barreras de entrada extremas.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Industria de semiconductores historicamente muy ciclica (ver MU en este mismo Dashboard) - el crecimiento actual de TSMC esta concentrado en el supercycle de IA, con el propio CEO reconociendo nerviosismo sobre su sostenibilidad. Beta 1.25 a 1.39 (moderadamente por encima de 1, consistente con exposicion ciclica real).",
+          "notas": "Industria de semiconductores históricamente muy ciclica (ver MU en este mismo Dashboard) - el crecimiento actual de TSMC esta concentrado en el supercycle de IA, con el propio CEO reconociendo nerviosismo sobre su sostenibilidad. Beta 1.25 a 1.39 (moderadamente por encima de 1, consistente con exposición ciclica real).",
           "calificacion": 2
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo geopolitico Taiwan-China, EL RIESGO MAS SINGULAR Y RELEVANTE de esta tesis, sin equivalente de esta intensidad en ninguna de las 16 empresas previas del Dashboard (BABA tiene riesgo geopolitico EEUU-China pero de naturaleza distinta, no de riesgo de conflicto armado directo sobre el territorio de manufactura). Taiwan concentra mas del 60% de los ingresos globales de foundry y mas del 90% de la manufactura de chips de punta. Escalada de tension documentada en may-2026 con foco en escenarios de cuarentena o bloqueo. Adicionalmente, el regimen de licencias de exportacion VEU para fabs en China expiro fin de 2025, pasando a renovacion anual discrecional desde ene-2026.",
+          "notas": "Riesgo geopolítico Taiwan-China, EL RIESGO MAS SINGULAR Y RELEVANTE de esta tesis, sin equivalente de esta intensidad en ninguna de las 16 empresas previas del Dashboard (BABA tiene riesgo geopolítico EEUU-China pero de naturaleza distinta, no de riesgo de conflicto armado directo sobre el territorio de manufactura). Taiwan concentra mas del 60% de los ingresos globales de foundry y mas del 90% de la manufactura de chips de punta. Escalada de tensión documentada en may-2026 con foco en escenarios de cuarentena o bloqueo. Adicionalmente, el régimen de licencias de exportación VEU para fabs en China expiro fin de 2025, pasando a renovación anual discrecional desde ene-2026.",
           "calificacion": 1
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria relevante: reporta en NTD pero la mayoria de sus ingresos y contratos son en USD - el tipo de cambio guia de 32 NTD por USD usado por la propia empresa para 2026 es una variable a monitorear.",
+          "notas": "Exposición cambiaria relevante: reporta en NTD pero la mayoría de sus ingresos y contratos son en USD - el tipo de cambio guia de 32 NTD por USD usado por la propia empresa para 2026 es una variable a monitorear.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Concentracion de clientes alta: Nvidia (19% de ingresos 2025, cliente numero 1 por primera vez) y Apple (17%, cayo del puesto 1) suman aprox 36% de ingresos combinados. Concentracion de proveedor critica y sin alternativa: ASML es el unico proveedor mundial de litografia EUV, con tension de precios reportada en jul-2026 (ASML buscando subir precios, TSMC resistiendose).",
+          "notas": "Concentración de clientes alta: Nvidia (19% de ingresos 2025, cliente número 1 por primera vez) y Apple (17%, cayo del puesto 1) suman aprox 36% de ingresos combinados. Concentración de proveedor critica y sin alternativa: ASML es el único proveedor mundial de litografia EUV, con tensión de precios reportada en jul-2026 (ASML buscando subir precios, TSMC resistiendose).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de disrupcion bajo en el corto plazo dado el liderazgo tecnologico establecido (anos de ventaja en yield y escala sobre Samsung e Intel Foundry), pero con dependencia estrategica de mantener el ritmo de innovacion de nodos (A16, A14, A12-A13) para no perder la ventaja frente a competidores que invierten agresivamente para cerrar la brecha.",
+          "notas": "Riesgo de disrupción bajo en el corto plazo dado el liderazgo tecnologico establecido (anos de ventaja en yield y escala sobre Samsung e Intel Foundry), pero con dependencia estratégica de mantener el ritmo de innovación de nodos (A16, A14, A12-A13) para no perder la ventaja frente a competidores que invierten agresivamente para cerrar la brecha.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin banderas rojas mayores identificadas en esta sesion; el consumo masivo de agua y energia de las fabs de semiconductores de punta es un tema de escrutinio ambiental recurrente en Taiwan, aunque no se profundizo en esta sesion.",
+          "notas": "Sin banderas rojas mayores identificadas en esta sesión; el consumo masivo de agua y energía de las fabs de semiconductores de punta es un tema de escrutinio ambiental recurrente en Taiwan, aunque no se profundizo en esta sesión.",
           "calificacion": 3
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Instalacion de equipos en la segunda fab de Arizona desde Q3 2026, con produccion de volumen en N3 prevista para 2027; primera maquina High-NA EUV de ASML esperada Q4 2026; resultados de Q3 2026 con guidance ya dado (ingresos 44600 a 45800 millones USD).",
+          "notas": "Instalación de equipos en la segunda fab de Arizona desde Q3 2026, con producción de volumen en N3 prevista para 2027; primera maquina High-NA EUV de ASML esperada Q4 2026; resultados de Q3 2026 con guidance ya dado (ingresos 44600 a 45800 millones USD).",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Senal positiva reciente: ejecutivos de TSMC realizaron compras de acciones propias a fines de jul-2026 e inicios de ago-2026, tras la caida del sector semiconductor (indice de Filadelfia -21% en jul-2026, peor mes desde oct-2008) - interpretado como confianza directiva genuina en el pullback.",
+          "notas": "Señal positiva reciente: ejecutivos de TSMC realizaron compras de acciones propias a fines de jul-2026 e inicios de ago-2026, tras la caida del sector semiconductor (índice de Filadelfia -21% en jul-2026, peor mes desde oct-2008) - interpretado como confianza directiva genuina en el pullback.",
           "calificacion": 4
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Cobertura amplia (19 analistas segun Finviz), calificacion de consenso Strong Buy, objetivo promedio entre 537.70 y 540.20 USD, equivalente a un alza de aprox 30% desde el precio actual - fuertemente mas optimista que la conclusion de este DCF propio, en direccion OPUESTA (mismo patron que HOOD, COIN, SNDK o BABA).",
+          "notas": "Cobertura amplia (19 analistas según Finviz), calificación de consenso Strong Buy, objetivo promedio entre 537.70 y 540.20 USD, equivalente a un alza de aprox 30% desde el precio actual - fuertemente mas optimista que la conclusión de este DCF propio, en dirección OPUESTA (mismo patrón que HOOD, COIN, SNDK o BABA).",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.5945945945945947,
-    "recomendacion": "NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA (mismo patron que MU; riesgo geopolitico Taiwan-China unico y muy relevante)",
-    "tesis": "El moat mas dominante de la industria de semiconductores (72% de cuota de foundry, monopolio efectivo en nodos de punta), pero cotizando a multiplos que exigen que el supercycle de capex de IA de sus clientes se sostenga indefinidamente, con el riesgo geopolitico Taiwan-China como amenaza estructural unica que ninguna otra empresa de este Dashboard enfrenta con esta intensidad."
+    "recomendacion": "NO COMPRAR - VALORASIÓN QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA (mismo patrón que MU; riesgo geopolítico Taiwan-China único y muy relevante)",
+    "tesis": "El moat mas dominante de la industria de semiconductores (72% de cuota de foundry, monopolio efectivo en nodos de punta), pero cotizando a múltiplos que exigen que el supercycle de capex de IA de sus clientes se sostenga indefinidamente, con el riesgo geopolítico Taiwan-China como amenaza estructural única que ninguna otra empresa de este Dashboard enfrenta con esta intensidad."
   }
 }

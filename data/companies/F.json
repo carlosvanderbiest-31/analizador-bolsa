@@ -1,7 +1,7 @@
 {
   "empresa": "Ford Motor Company",
   "ticker": "F",
-  "sector": "Consumo Discrecional - Fabricacion de Automoviles",
+  "sector": "Consumo Discrecional - Fabricación de Automoviles",
   "fecha_analisis": "46240",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Cuatro segmentos: Ford Blue (combustion e hibridos, el mayor en ingresos), Ford Model e (vehiculos electricos, con perdidas operativas grandes y persistentes, -919 millones de dolares en 2T26), Ford Pro (comercial-flotas, el segmento mas rentable, margen 9.7 por ciento en 2T26), Ford Credit (financiera cautiva de leasing y prestamos). Diversificacion decente pero el segmento EV drena resultados consolidados.",
+          "notas": "Cuatro segmentos: Ford Blue (combustion e hibridos, el mayor en ingresos), Ford Model e (vehículos electricos, con pérdidas operativas grandes y persistentes, -919 millones de dólares en 2T26), Ford Pro (comercial-flotas, el segmento mas rentable, margen 9.7 por ciento en 2T26), Ford Credit (financiera cautiva de leasing y prestamos). Diversificación decente pero el segmento EV drena resultados consolidados.",
           "calificacion": 3
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "F-Series numero 1 en camionetas de EEUU por 49 anios consecutivos (828842 unidades en 2025), Ford Pro con 41 por ciento de cuota comercial Clase 1 a 7 (el doble del competidor mas cercano), red de dealers extensa. Pero Morningstar califica a Ford como sin moat (fair value 19 dolares), cuestionando si la marca se traduce en retornos economicos sostenibles.",
+          "notas": "F-Series número 1 en camionetas de EEUU por 49 años consecutivos (828842 unidades en 2025), Ford Pro con 41 por ciento de cuota comercial Clase 1 a 7 (el doble del competidor mas cercano), red de dealers extensa. Pero Morningstar califica a Ford como sin moat (fair value 19 dólares), cuestionando si la marca se traduce en retornos económicos sostenibles.",
           "calificacion": 3
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Mejor aÃ±o en unidades desde 2019 (mas de 2.2 millones en EEUU 2025), pero detras de GM (numero 1) y Toyota en volumen total. En vehiculos electricos, solo 7 por ciento de cuota frente al 46 por ciento de Tesla. Ford Pro lider claro en comercial.",
+          "notas": "Mejor aÃ±o en unidades desde 2019 (mas de 2.2 millones en EEUU 2025), pero detras de GM (número 1) y Toyota en volumen total. En vehículos electricos, solo 7 por ciento de cuota frente al 46 por ciento de Tesla. Ford Pro líder claro en comercial.",
           "calificacion": 3
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Poder de fijacion de precios limitado en vehiculos de consumo por competencia intensa e incentivos frecuentes; algo mejor en Ford Pro por relaciones de flota y servicios de software (Ford Pro Intelligence, 840000 suscripciones activas).",
+          "notas": "Poder de fijación de precios limitado en vehículos de consumo por competencia intensa e incentivos frecuentes; algo mejor en Ford Pro por relaciones de flota y servicios de software (Ford Pro Intelligence, 840000 suscripciones activas).",
           "calificacion": 2
         }
       ],
@@ -36,22 +36,22 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Dividendo regular sostenido (0.60 dolares anual) con historial de dividendos especiales en anios de exceso de caja (0.65 dolares en 2023 financiado por la venta de la participacion en Rivian, suplementarios en 2024 y 2025), pero SIN suplementario en 2026 por las perdidas de EV y de la disolucion de la JV BlueOval SK con SK On.",
+          "notas": "Dividendo regular sostenido (0.60 dólares anual) con historial de dividendos especiales en años de exceso de caja (0.65 dólares en 2023 financiado por la venta de la participación en Rivian, suplementarios en 2024 y 2025), pero SIN suplementario en 2026 por las pérdidas de EV y de la disolución de la JV BlueOval SK con SK On.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO Jim Farley desde 2020, compensacion 27.5 millones de dolares en 2025 (+11 por ciento). Salida del lider de EV Doug Field en may-2026 genera cierta incertidumbre de continuidad estrategica en el negocio de vehiculos electricos.",
+          "notas": "CEO Jim Farley desde 2020, compensación 27.5 millones de dólares en 2025 (+11 por ciento). Salida del líder de EV Doug Field en may-2026 genera cierta incertidumbre de continuidad estratégica en el negocio de vehículos electricos.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura accionaria (control, doble clase de acciones)",
-          "notas": "Doble clase de acciones: Clase B (familia Ford, aprox 100 descendientes via trusts) representa solo 1.8 a 2 por ciento del capital economico pero controla aprox 40 por ciento del poder de voto (cada accion Clase B equivale a 36.865 votos vs 1 voto de Clase A); ciertas decisiones requieren voto mayoritario separado de Clase B. Estructura de control familiar perpetuo vigente desde la salida a bolsa de 1956.",
+          "notas": "Doble clase de acciones: Clase B (familia Ford, aprox 100 descendientes via trusts) representa solo 1.8 a 2 por ciento del capital económico pero controla aprox 40 por ciento del poder de voto (cada acción Clase B equivale a 36.865 votos vs 1 voto de Clase A); ciertas decisiones requieren voto mayoritario separado de Clase B. Estructura de control familiar perpetuo vigente desde la salida a bolsa de 1956.",
           "calificacion": 2
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Guidance detallado por segmento (Ford Blue, Model e, Ford Pro, Ford Credit por separado), reporta las perdidas de EV de forma explicita trimestre a trimestre sin esconderlas.",
+          "notas": "Guidance detallado por segmento (Ford Blue, Model e, Ford Pro, Ford Credit por separado), reporta las pérdidas de EV de forma explicita trimestre a trimestre sin esconderlas.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda Neta a EBITDA AUTOMOTRIZ (excluyendo Ford Credit) practicamente nula, aprox 0.14x (deuda automotriz 23619 millones de dolares, caja mas valores negociables automotrices 22120 millones, EBITDA automotriz TTM estimado 10500 millones). Casi toda la deuda consolidada (137 a 141 mil millones de dolares) corresponde a Ford Credit, respaldada por su propia cartera de financiamiento a clientes - no es apalancamiento de riesgo del negocio industrial.",
+          "notas": "Deuda Neta a EBITDA AUTOMOTRIZ (excluyendo Ford Credit) prácticamente nula, aprox 0.14x (deuda automotriz 23619 millones de dólares, caja mas valores negociables automotrices 22120 millones, EBITDA automotriz TTM estimado 10500 millones). Casi toda la deuda consolidada (137 a 141 mil millones de dólares) corresponde a Ford Credit, respaldada por su propia cartera de financiamiento a clientes - no es apalancamiento de riesgo del negocio industrial.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente consolidada 1.07x a 1.09x, liquidez total incluyendo lineas de credito disponibles de 43.4 mil millones de dolares.",
+          "notas": "Razón corriente consolidada 1.07x a 1.09x, liquidez total incluyendo líneas de crédito disponibles de 43.4 mil millones de dólares.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Rating credicticio recuperado a grado de inversion en 3 de 4 agencias (S&P BBB menos, Fitch BBB menos, DBRS BBB low) pero Moody's aun en Ba1 (un escalon por debajo de grado de inversion), con outlook negativo en S&P desde feb-2025 - recuperacion parcial, no completa, desde la perdida de grado de inversion en 2020.",
+          "notas": "Rating credicticio recuperado a grado de inversión en 3 de 4 agencias (S&P BBB menos, Fitch BBB menos, DBRS BBB low) pero Moody's aun en Ba1 (un escalon por debajo de grado de inversión), con outlook negativo en S&P desde feb-2025 - recuperación parcial, no completa, desde la pérdida de grado de inversión en 2020.",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Patrimonio en tendencia decreciente (-26 por ciento desde 2021, de 48622 a 35755 millones de dolares) por perdidas acumuladas de EV y cargos de la disolucion de la JV BlueOval SK.",
+          "notas": "Patrimonio en tendencia decreciente (-26 por ciento desde 2021, de 48622 a 35755 millones de dólares) por pérdidas acumuladas de EV y cargos de la disolución de la JV BlueOval SK.",
           "calificacion": 2
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto TTM aprox 8.1 por ciento, margen operativo GAAP TTM negativo (-3.74 por ciento, stockanalysis) por cargos del segmento Model e. Pero el EBIT AJUSTADO consolidado guiado para FY2026 (10.0 a 11.0 mil millones de dolares sobre aprox 187 mil millones de ingresos) implica un margen ajustado positivo de aprox 5.6 por ciento - senal de que el negocio core (Blue mas Pro) es rentable pese al arrastre de Model e. Margen neto TTM -3.93 por ciento.",
+          "notas": "Margen bruto TTM aprox 8.1 por ciento, margen operativo GAAP TTM negativo (-3.74 por ciento, stockanalysis) por cargos del segmento Model e. Pero el EBIT AJUSTADO consolidado guiado para FY2026 (10.0 a 11.0 mil millones de dólares sobre aprox 187 mil millones de ingresos) implica un margen ajustado positivo de aprox 5.6 por ciento - señal de que el negocio core (Blue mas Pro) es rentable pese al arrastre de Model e. Margen neto TTM -3.93 por ciento.",
           "calificacion": 2
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE TTM -18.31 por ciento (Finviz) a -20.57 por ciento (stockanalysis), ROIC TTM -5.03 a -2.02 por ciento - ambos negativos consolidados, arrastrados por las perdidas de Model e (-4.8 mil millones de dolares en FY2025). Ford Blue y Ford Pro por separado serian claramente rentables (EBIT ajustado guiado de 12 a 13 mil millones combinados para FY2026) si se aislaran del segmento EV.",
+          "notas": "ROE TTM -18.31 por ciento (Finviz) a -20.57 por ciento (stockanalysis), ROIC TTM -5.03 a -2.02 por ciento - ambos negativos consolidados, arrastrados por las pérdidas de Model e (-4.8 mil millones de dólares en FY2025). Ford Blue y Ford Pro por separado serian claramente rentables (EBIT ajustado guiado de 12 a 13 mil millones combinados para FY2026) si se aislaran del segmento EV.",
           "calificacion": 2
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos 0.66x (Revenue TTM 187973 millones sobre Activos totales 285531 millones) - moderada, balance ademas inflado por la cartera de financiamiento de Ford Credit.",
+          "notas": "Rotación de activos 0.66x (Revenue TTM 187973 millones sobre Activos totales 285531 millones) - moderada, balance además inflado por la cartera de financiamiento de Ford Credit.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR de ingresos a 5 anios 8.05 por ciento (Finviz) o a 3 anios 5.82 por ciento, revenue en record historico en FY2025 (187267 millones de dolares) y estable en el TTM. Pero la utilidad neta cayo a perdida en FY2025 (-8182 millones) por cargos de EV y de la disolucion de BlueOval SK, sin relacion directa con el crecimiento de ingresos en si.",
+          "notas": "CAGR de ingresos a 5 años 8.05 por ciento (Finviz) o a 3 años 5.82 por ciento, revenue en récord histórico en FY2025 (187267 millones de dólares) y estable en el TTM. Pero la utilidad neta cayo a pérdida en FY2025 (-8182 millones) por cargos de EV y de la disolución de BlueOval SK, sin relación directa con el crecimiento de ingresos en si.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Negocio ciclico por naturaleza (industria automotriz), con Ford Pro creciendo con mas consistencia que Ford Blue-Model e. Volumen de vehiculos electricos cayendo con fuerza (-41 por ciento interanual en 2T26) tras el vencimiento del credito fiscal federal de 7500 dolares en sep-2025.",
+          "notas": "Negocio ciclico por naturaleza (industria automotriz), con Ford Pro creciendo con mas consistencia que Ford Blue-Model e. Volumen de vehículos electricos cayendo con fuerza (-41 por ciento interanual en 2T26) tras el vencimiento del crédito fiscal federal de 7500 dólares en sep-2025.",
           "calificacion": 2
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Nueva plataforma EV universal de bajo costo (Project T3, pickup mediana Ford Fathom desde 28350 dolares, lanzamiento 2027, produccion en Kentucky), recuperacion continua de Ford Pro, narrowing de perdidas de Model e (guidance de breakeven apenas para 2029).",
+          "notas": "Nueva plataforma EV universal de bajo costo (Project T3, pickup mediana Ford Fathom desde 28350 dólares, lanzamiento 2027, producción en Kentucky), recuperación continua de Ford Pro, narrowing de pérdidas de Model e (guidance de breakeven apenas para 2029).",
           "calificacion": 3
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "OCF TTM 16947 millones de dolares MUY por encima de la utilidad neta TTM negativa de -7396 millones - la brecha confirma que gran parte de la perdida neta reciente es de naturaleza contable-no recurrente (cargos EV, impairments, disolucion de BlueOval SK) mas que una salida de caja real equivalente.",
+          "notas": "OCF TTM 16947 millones de dólares MUY por encima de la utilidad neta TTM negativa de -7396 millones - la brecha confirma que gran parte de la pérdida neta reciente es de naturaleza contable-no recurrente (cargos EV, impairments, disolución de BlueOval SK) mas que una salida de caja real equivalente.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "GOTCHA METODOLOGICO NUEVO: el FCF TTM consolidado simple (OCF menos capex) es de 7280 millones de dolares, pero la metrica propia de Ford (Company Adjusted Free Cash Flow, que EXCLUYE los flujos operativos de Ford Credit y usa en su lugar las distribuciones que esta paga a la matriz, y excluye tambien pensiones-restructuring) fue de solo 3500 millones en FY2025, con guidance FY2026 de 6.0 a 7.0 mil millones - brecha grande entre el calculo simple consolidado y la metrica propia de la empresa, ver Ficha fila 41 para el tratamiento en el DCF.",
+          "notas": "GOTCHA METODOLOGICO NUEVO: el FCF TTM consolidado simple (OCF menos capex) es de 7280 millones de dólares, pero la métrica propia de Ford (Company Adjusted Free Cash Flow, que EXCLUYE los flujos operativos de Ford Credit y usa en su lugar las distribuciones que esta paga a la matriz, y excluye también pensiones-restructuring) fue de solo 3500 millones en FY2025, con guidance FY2026 de 6.0 a 7.0 mil millones - brecha grande entre el calculo simple consolidado y la métrica propia de la empresa, ver Ficha fila 41 para el tratamiento en el DCF.",
           "calificacion": 3
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM 9667 millones de dolares, 5.14 por ciento de ventas, guidance FY2026 de 9.5 a 10.5 mil millones - incluye inversion en la nueva plataforma EV universal y reconversion de plantas de baterias tras la disolucion de BlueOval SK.",
+          "notas": "Capex TTM 9667 millones de dólares, 5.14 por ciento de ventas, guidance FY2026 de 9.5 a 10.5 mil millones - incluye inversión en la nueva plataforma EV universal y reconversión de plantas de baterias tras la disolución de BlueOval SK.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Dividendo regular sostenido (0.60 dolares anual, yield 4.27 a 4.28 por ciento) con historial de dividendos especiales en anios de exceso de caja, pero sin suplementario en 2026 por las perdidas de EV.",
+          "notas": "Dividendo regular sostenido (0.60 dólares anual, yield 4.27 a 4.28 por ciento) con historial de dividendos especiales en años de exceso de caja, pero sin suplementario en 2026 por las pérdidas de EV.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P a E TTM no significativo (utilidad neta negativa); forward P a E 7.22x. EV a EBITDA discrepante fuerte entre fuentes (19.26x Finviz vs 245.48x stockanalysis, esta ultima distorsionada por un EBITDA GAAP TTM casi nulo) - se prefiere Finviz o el ratio Deuda Neta Automotriz a EBITDA (0.14x) como mas informativo. P a FCF 7.68 a 7.70x - multiplos bajos consistentes con una automotriz tradicional de bajo crecimiento y con perdidas de EV.",
+          "notas": "P a E TTM no significativo (utilidad neta negativa); forward P a E 7.22x. EV a EBITDA discrepante fuerte entre fuentes (19.26x Finviz vs 245.48x stockanalysis, esta última distorsionada por un EBITDA GAAP TTM casi nulo) - se prefiere Finviz o el ratio Deuda Neta Automotriz a EBITDA (0.14x) como mas informativo. P a FCF 7.68 a 7.70x - múltiplos bajos consistentes con una automotriz tradicional de bajo crecimiento y con pérdidas de EV.",
           "calificacion": 3
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "GOTCHA METODOLOGICO NUEVO Y GENERALIZABLE: elegir entre la base de FCF TRAILING actual (ya deprimida por perdidas de EV) y la GUIA FORWARD de la propia empresa (ya elevada dos veces este anio, reflejando un turnaround que aun no se entrega por completo) puede cambiar el resultado del DCF por decenas de puntos porcentuales de margen de seguridad - mas sensible que la eleccion tipica de growth rate ya documentada en otras empresas de este Dashboard. Se adopto la base CONSERVADORA (FY2025 real, Company Adjusted FCF ex Ford Credit, 3500 millones de dolares) para evitar contar dos veces el optimismo ya incorporado en la guia FY2026 (6.0 a 7.0 mil millones) antes de que se entregue. Valor Intrinseco (DCF propio, Escenario A adoptado, conservador): 14.39 dolares por accion (WACC 10.92 por ciento via CAPM: beta 1.825 promedio Finviz-stockanalysis, costo de deuda post-impuestos aprox 4.71 por ciento sobre rating BBB menos-Ba1, ponderado con deuda automotriz 23619 millones sobre capitalizacion de mercado 56000 millones; FCF base FY2025 real ex Ford Credit 3500 millones; crecimiento con fade decreciente de 10 por ciento a 4 por ciento en 5 anios; terminal 4 por ciento; equity value = EV menos deuda neta AUTOMOTRIZ de 1499 millones sobre 3990 millones de acciones, dado que el FCF ya excluye e incorpora las distribuciones de Ford Credit). Escenario B de sensibilidad (usando directamente la guia FY2026 de 6500 millones como base, no adoptado): 27.05 dolares por accion, margen +92.4 por ciento - descartado como base porque ya asume que el turnaround guiado se entrega integramente antes de aplicarle ademas una tasa de crecimiento adicional, doble contando el optimismo.",
+          "notas": "GOTCHA METODOLOGICO NUEVO Y GENERALIZABLE: elegir entre la base de FCF TRAILING actual (ya deprimida por pérdidas de EV) y la GUIA FORWARD de la propia empresa (ya elevada dos veces este año, reflejando un turnaround que aun no se entrega por completo) puede cambiar el resultado del DCF por decenas de puntos porcentuales de margen de seguridad - mas sensible que la elección típica de growth rate ya documentada en otras empresas de este Dashboard. Se adopto la base CONSERVADORA (FY2025 real, Company Adjusted FCF ex Ford Credit, 3500 millones de dólares) para evitar contar dos veces el optimismo ya incorporado en la guia FY2026 (6.0 a 7.0 mil millones) antes de que se entregue. Valor Intrínseco (DCF propio, Escenario A adoptado, conservador): 14.39 dólares por acción (WACC 10.92 por ciento via CAPM: beta 1.825 promedio Finviz-stockanalysis, costo de deuda post-impuestos aprox 4.71 por ciento sobre rating BBB menos-Ba1, ponderado con deuda automotriz 23619 millones sobre capitalización de mercado 56000 millones; FCF base FY2025 real ex Ford Credit 3500 millones; crecimiento con fade decreciente de 10 por ciento a 4 por ciento en 5 años; terminal 4 por ciento; equity value = EV menos deuda neta AUTOMOTRIZ de 1499 millones sobre 3990 millones de acciones, dado que el FCF ya excluye e incorpora las distribuciones de Ford Credit). Escenario B de sensibilidad (usando directamente la guia FY2026 de 6500 millones como base, no adoptado): 27.05 dólares por acción, margen +92.4 por ciento - descartado como base porque ya asume que el turnaround guiado se entrega integramente antes de aplicarle además una tasa de crecimiento adicional, doble contando el optimismo.",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad +2.35 por ciento (precio actual 14.06 dolares vs 14.39 dolares del DCF conservador) - apenas en la banda de Mantener-esperar mejor punto de entrada, practicamente neutro. Consistente en DIRECCION con el consenso de analistas (17 a 22 analistas, Hold a Buy, objetivo promedio 15.65 a 15.88 dolares, +12 por ciento de alza) aunque el DCF propio es mas conservador en magnitud. Resultado EXTREMADAMENTE sensible a la eleccion de base de FCF (ver gotcha en fila 41): con la guia FY2026 en vez del real FY2025, el margen salta a +92.4 por ciento.",
+          "notas": "Margen de Seguridad +2.35 por ciento (precio actual 14.06 dólares vs 14.39 dólares del DCF conservador) - apenas en la banda de Mantener-esperar mejor punto de entrada, prácticamente neutro. Consistente en DIRECSIÓN con el consenso de analistas (17 a 22 analistas, Hold a Buy, objetivo promedio 15.65 a 15.88 dólares, +12 por ciento de alza) aunque el DCF propio es mas conservador en magnitud. Resultado EXTREMADAMENTE sensible a la elección de base de FCF (ver gotcha en fila 41): con la guia FY2026 en vez del real FY2025, el margen salta a +92.4 por ciento.",
           "calificacion": 3
         }
       ],
@@ -177,12 +177,12 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado automotriz global maduro, con transicion estructural a EV en curso pero desacelerando su ritmo de adopcion en EEUU tras el vencimiento de creditos fiscales; comercial-flotas (Ford Pro) con dinamica mas estable.",
+          "notas": "Mercado automotriz global maduro, con transición estructural a EV en curso pero desacelerando su ritmo de adopción en EEUU tras el vencimiento de créditos fiscales; comercial-flotas (Ford Pro) con dinámica mas estable.",
           "calificacion": 3
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Barreras de entrada altas en escala de manufactura y red de distribucion-servicio tradicional, pero mas bajas frente a nuevos entrantes de EV (Tesla, BYD, Rivian) que no dependen de la misma infraestructura de dealers.",
+          "notas": "Barreras de entrada altas en escala de manufactura y red de distribución-servicio tradicional, pero mas bajas frente a nuevos entrantes de EV (Tesla, BYD, Rivian) que no dependen de la misma infraestructura de dealers.",
           "calificacion": 3
         },
         {
@@ -192,7 +192,7 @@
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Ciclicidad alta, tipica de la industria automotriz - el beta reportado (1.82 a 1.83, Finviz y stockanalysis, consistente) lo confirma.",
+          "notas": "Ciclicidad alta, típica de la industria automotriz - el beta reportado (1.82 a 1.83, Finviz y stockanalysis, consistente) lo confirma.",
           "calificacion": 2
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Aranceles de importacion de vehiculos y acero-aluminio con impacto significativo (6.5 mil millones de dolares de costo colectivo de la industria en 2025), aunque Ford recibio un reembolso puntual de 1.3 mil millones de dolares tras un fallo de la Corte Suprema declarando ilegales ciertos aranceles IEEPA. Vencimiento del credito fiscal federal de EV de 7500 dolares en sep-2025 golpeo la demanda de EV.",
+          "notas": "Aranceles de importación de vehículos y acero-aluminio con impacto significativo (6.5 mil millones de dólares de costo colectivo de la industria en 2025), aunque Ford recibio un reembolso puntual de 1.3 mil millones de dólares tras un fallo de la Corte Suprema declarando ilegales ciertos aranceles IEEPA. Vencimiento del crédito fiscal federal de EV de 7500 dólares en sep-2025 golpeo la demanda de EV.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Riesgo de tipo de cambio moderado, negocio con operaciones internacionales relevantes ademas de EEUU.",
+          "notas": "Riesgo de tipo de cambio moderado, negocio con operaciones internacionales relevantes además de EEUU.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Proveedores de baterias EV concentrados (CATL via licencia de tecnologia, LG Energy Solution, disolucion de la JV con SK On en 2026) con riesgo geopolitico adicional por la dependencia de tecnologia china (CATL) dentro de una planta ubicada en Kentucky, EEUU.",
+          "notas": "Proveedores de baterias EV concentrados (CATL via licencia de tecnología, LG Energy Solution, disolución de la JV con SK On en 2026) con riesgo geopolítico adicional por la dependencia de tecnología china (CATL) dentro de una planta ubicada en Kentucky, EEUU.",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo tecnologico alto: la transicion a EV sigue siendo incierta en su ritmo y rentabilidad, con Tesla y BYD como disruptores establecidos; Ford aun no encontro la formula de rentabilidad en EV (breakeven guiado apenas para 2029).",
+          "notas": "Riesgo tecnologico alto: la transición a EV sigue siendo incierta en su ritmo y rentabilidad, con Tesla y BYD como disruptores establecidos; Ford aun no encontro la formula de rentabilidad en EV (breakeven guiado apenas para 2029).",
           "calificacion": 2
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "2025 fue el peor anio historico de recalls para un solo fabricante (aprox 153 recalls, aprox 13 millones de vehiculos), 2026 va casi al mismo ritmo (aprox 50 a 53 recalls, mas de 11 a 12 millones de vehiculos a mitad de anio) - senal de calidad-seguridad muy relevante y con riesgo reputacional.",
+          "notas": "2025 fue el peor año histórico de recalls para un solo fabricante (aprox 153 recalls, aprox 13 millones de vehículos), 2026 va casi al mismo ritmo (aprox 50 a 53 recalls, mas de 11 a 12 millones de vehículos a mitad de año) - señal de calidad-seguridad muy relevante y con riesgo reputacional.",
           "calificacion": 2
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Resultados de 3T26 pendientes. Avance de la nueva plataforma EV universal (Ford Fathom, lanzamiento 2027). Evolucion de perdidas de Model e hacia el breakeven guiado de 2029. Impacto final de aranceles.",
+          "notas": "Resultados de 3T26 pendientes. Avance de la nueva plataforma EV universal (Ford Fathom, lanzamiento 2027). Evolución de pérdidas de Model e hacia el breakeven guiado de 2029. Impacto final de aranceles.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "No se identificaron transacciones puntuales relevantes de compra o venta de insiders en esta investigacion; la familia Ford mantiene su posicion estructural de control via Clase B sin cambios reportados.",
+          "notas": "No se identificaron transacciones puntuales relevantes de compra o venta de insiders en esta investigación; la familia Ford mantiene su posición estructural de control via Clase B sin cambios reportados.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "17 a 22 analistas segun fuente, consenso Hold (1 sell, 8 hold, 7 buy, 1 strong buy segun MarketBeat), objetivo promedio 15.65 a 15.88 dolares, +12 por ciento de alza; upgrades recientes de Citigroup y Jefferies a Buy.",
+          "notas": "17 a 22 analistas según fuente, consenso Hold (1 sell, 8 hold, 7 buy, 1 strong buy según MarketBeat), objetivo promedio 15.65 a 15.88 dólares, +12 por ciento de alza; upgrades recientes de Citigroup y Jefferies a Buy.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 2.7837837837837838,
-    "recomendacion": "MANTENER - ESPERAR MEJOR PUNTO DE ENTRADA, RESULTADO MUY SENSIBLE A LA BASE DE FCF ELEGIDA (margen de seguridad +2.35 por ciento con la base conservadora, hasta +92.4 por ciento si se usa la guia FY2026 sin descontar; score 2.78 de 5, penalizado por perdidas de EV, recalls record y ciclicidad, pero con apalancamiento automotriz casi nulo)",
-    "tesis": "Automotriz tradicional con Ford Pro como motor de rentabilidad real y un negocio de vehiculos electricos que sigue perdiendo mucho dinero (breakeven guiado apenas para 2029), balance automotriz solido (deuda neta automotriz practicamente nula) pero con recalls en niveles record y sin un moat claro segun Morningstar; el margen de seguridad depende mucho de si se confia en la guia de turnaround de la propia empresa o se exige verla entregada primero."
+    "recomendacion": "MANTENER - ESPERAR MEJOR PUNTO DE ENTRADA, RESULTADO MUY SENSIBLE A LA BASE DE FCF ELEGIDA (margen de seguridad +2.35 por ciento con la base conservadora, hasta +92.4 por ciento si se usa la guia FY2026 sin descontar; score 2.78 de 5, penalizado por pérdidas de EV, recalls récord y ciclicidad, pero con apalancamiento automotriz casi nulo)",
+    "tesis": "Automotriz tradicional con Ford Pro como motor de rentabilidad real y un negocio de vehículos electricos que sigue perdiendo mucho dinero (breakeven guiado apenas para 2029), balance automotriz sólido (deuda neta automotriz prácticamente nula) pero con recalls en niveles récord y sin un moat claro según Morningstar; el margen de seguridad depende mucho de si se confia en la guia de turnaround de la propia empresa o se exige verla entregada primero."
   }
 }

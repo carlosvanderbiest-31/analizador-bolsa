@@ -6,30 +6,30 @@
   "fecha_analisis": "2026-08-13",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA -full replication, CONFIRMADO-, mismo estandar de calidad de replica que VTV/VUG/VGT -ya en el workbook-, sin riesgo de contraparte de swaps/derivados.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA -full replication, CONFIRMADO-, mismo estándar de calidad de réplica que VTV/VUG/VGT -ya en el workbook-, sin riesgo de contraparte de swaps/derivados.",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domiciliado en EEUU -Vanguard, NYSE Arca-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM con rango disperso segun fuente/fecha -$18.3bn a $20.9bn-, entre los mas grandes del cluster sectorial del proyecto, sin riesgo de cierre.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM con rango disperso según fuente/fecha -$18.3bn a $20.9bn-, entre los mas grandes del cluster sectorial del proyecto, sin riesgo de cierre.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "22.55 anios desde inception -26-ene-2004-. Track record largo, SIN hallazgo de cambio de indice detectado -a diferencia del patron recurrente en XHB/XRT/KIE/KBE/KRE ya en el workbook-, cubre Crisis 2008 y COVID bajo la misma metodologia MSCI US IMI 25/50 durante toda su historia.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "22.55 años desde inception -26-ene-2004-. Track record largo, SIN hallazgo de cambio de índice detectado -a diferencia del patrón recurrente en XHB/XRT/KIE/KBE/KRE ya en el workbook-, cubre Crisis 2008 y COVID bajo la misma metodología MSCI US IMI 25/50 durante toda su historia.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor Vanguard, **HERMANO ESTRUCTURAL DIRECTO de VGT -ya en el workbook, Information Technology-**: ambos siguen la misma familia metodologica MSCI US Investable Market 25/50 Index, solo cambia el sector. TER identico 0.09-0.10%.",
           "calificacion": 5
         }
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.09%, EXTREMADAMENTE BARATO, igual de competitivo que VGT -ya en el workbook- y comparable al 0.08% de la familia Select Sector SPDR -XLU/XLK/XLE/etc-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita en las fuentes consultadas.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference histórico NO ENCONTRADO con cifra numerica explicita en las fuentes consultadas.",
           "calificacion": 2
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending para VHT; Vanguard participa en programas de lending a nivel de firma pero sin cifra por fondo.",
+          "notas": "Sin dato específico de revenue por securities lending para VHT; Vanguard participa en programas de lending a nivel de firma pero sin cifra por fondo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover de cartera = **4%, EL MAS BAJO de todo el cluster sectorial del proyecto** -vs 20-42% de la familia S&P Select Industry-, consistente con un indice cap-weighted grande y estable, minima friccion de rebalanceo.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover de cartera = **4%, EL MAS BAJO de todo el cluster sectorial del proyecto** -vs 20-42% de la familia S&P Select Industry-, consistente con un índice cap-weighted grande y estable, minima fricción de rebalanceo.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -72,121 +72,121 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask NO ENCONTRADO con cifra especifica en las fuentes consultadas -Vanguard publica esta cifra en pagina para advisors no accesible-; dado el AUM grande y la replica completa, es razonable esperar un spread ajustado, pero sin confirmar.",
+          "notas": "Spread bid-ask NO ENCONTRADO con cifra específica en las fuentes consultadas -Vanguard pública esta cifra en pagina para advisors no accesible-; dado el AUM grande y la réplica completa, es razonable esperar un spread ajustado, pero sin confirmar.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
+          "aspecto": "Premium/Discount histórico vs. NAV",
           "notas": "Premium/Discount = +0.01%, MUY ajustado.",
           "calificacion": 5
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero infraestructura de creacion/redencion de Vanguard es robusta a nivel de firma, consistente con VTV/VUG/VGT ya en el workbook.",
+          "notas": "Sin cifra específica de profundidad de APs, pero infraestructura de creación/redención de Vanguard es robusta a nivel de firma, consistente con VTV/VUG/VGT ya en el workbook.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "430 holdings -stockanalysis.com-, numero alto y superior a la mayoria del cluster sectorial S&P Select Industry -entre 24 y 159-.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "430 holdings -stockanalysis.com-, número alto y superior a la mayoría del cluster sectorial S&P Select Industry -entre 24 y 159-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top10 = 52.10% del fondo, MUY CONCENTRADO pese a tener 430 holdings** -paradoja similar a XLF, ya en el workbook, aunque menos extrema-. Top10: Eli Lilly 11.9%, Johnson & Johnson 9.4%, AbbVie 6.2%, Merck 4.8%, UnitedHealth Group 4.0%, Amgen 3.1%, Thermo Fisher Scientific 3.0%, Abbott Laboratories 2.9%, Gilead Sciences 2.8%, Intuitive Surgical 2.6%. **Eli Lilly SOLO pesa casi 12% del fondo**, riesgo de nombre unico relevante.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top10 = 52.10% del fondo, MUY CONCENTRADO pese a tener 430 holdings** -paradoja similar a XLF, ya en el workbook, aunque menos extrema-. Top10: Eli Lilly 11.9%, Johnson & Johnson 9.4%, AbbVie 6.2%, Merck 4.8%, UnitedHealth Group 4.0%, Amgen 3.1%, Thermo Fisher Scientific 3.0%, Abbott Laboratories 2.9%, Gilead Sciences 2.8%, Intuitive Surgical 2.6%. **Eli Lilly SOLO pesa casi 12% del fondo**, riesgo de nombre único relevante.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% Health Care -indice de un unico sector, mismo tratamiento que el resto del cluster sectorial del proyecto-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% Health Care -índice de un único sector, mismo tratamiento que el resto del cluster sectorial del proyecto-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Sesgo cap-weighted hacia Large Cap -64.8%-, con cola larga de Mid/Small Cap -~24.8%- dentro del sector salud; exposicion de riesgo dominada por farmaceuticas/biotecnologia de gran capitalizacion.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Sesgo cap-weighted hacia Large Cap -64.8%-, con cola larga de Mid/Small Cap -~24.8%- dentro del sector salud; exposición de riesgo dominada por farmacéuticas/biotecnologia de gran capitalización.",
           "calificacion": 2
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MSCI US Investable Market Health Care 25/50, cap-weighted con reglas de diversificacion tipo RIC -limite 25% por posicion individual, suma de posiciones >5% limitada al 50%-, MISMA familia metodologica que VGT -ya en el workbook, mismo esquema 25/50 aplicado a tecnologia-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MSCI US Investable Market Health Care 25/50, cap-weighted con reglas de diversificación tipo RIC -limite 25% por posición individual, suma de posiciones >5% limitada al 50%-, MISMA familia metodologica que VGT -ya en el workbook, mismo esquema 25/50 aplicado a tecnología-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral/semestral estandar del indice, banda de capping 25/50 explica el turnover ultra-bajo de 4%.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral/semestral estándar del índice, banda de capping 25/50 explica el turnover ultra-bajo de 4%.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 2.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retornos con cierta dispersion entre fuentes: 1Y = 33.48% -stockanalysis.com-, 3Y anualizado 10.8%, 5Y anualizado 5.9% -notablemente mas debil-, 10Y anualizado 9.69%, desde inception 10.09-10.14%. Ventana 5Y claramente el eslabon mas debil del track record.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retornos con cierta dispersión entre fuentes: 1Y = 33.48% -stockanalysis.com-, 3Y anualizado 10.8%, 5Y anualizado 5.9% -notablemente mas débil-, 10Y anualizado 9.69%, desde inception 10.09-10.14%. Ventana 5Y claramente el eslabon mas débil del track record.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad anualizada desde inception = 16.9%, **LA MAS BAJA de cualquier ETF de sector-equity individual analizado en el proyecto hasta ahora** -vs 33-43% del cluster financiero-, confirma el caracter defensivo tradicional del sector salud.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown desde inception = -39.12%, **MUCHO MENOS SEVERO que el cluster financiero -68.5% a 83.6%-**, cubre tanto Crisis 2008 como COVID-19 bajo la misma metodologia, sin el problema de cambio de indice que afecta a otros miembros del proyecto.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown desde inception = -39.12%, **MUCHO MENOS SEVERO que el cluster financiero -68.5% a 83.6%-**, cubre tanto Crisis 2008 como COVID-19 bajo la misma metodología, sin el problema de cambio de índice que afecta a otros miembros del proyecto.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe ratio = 0.5 desde inception -fuente unica-, moderado, consistente con retorno/riesgo razonable de largo plazo.",
+          "notas": "Sharpe ratio = 0.5 desde inception -fuente única-, moderado, consistente con retorno/riesgo razonable de largo plazo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta vs S&P 500 con rango 0.60 -etfdb.com- a 0.74 -portfolioslab.com-, AMBAS fuentes confirman beta <1, sector defensivo tradicional, sin la señal contraintuitiva vista en XLF/KBE/KRE.",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Sector historicamente defensivo en Crisis 2008 -mejor comportamiento relativo que financieras-, pero comportamiento mixto en COVID-19 -boom inicial en diagnosticos/vacunas seguido de correccion en biotecnologia-. Sin un evento de cola idiosincratico agudo y reciente como el de KRE/marzo-2023.",
+          "notas": "Sector históricamente defensivo en Crisis 2008 -mejor comportamiento relativo que financieras-, pero comportamiento mixto en COVID-19 -boom inicial en diagnosticos/vacunas seguido de corrección en biotecnologia-. Sin un evento de cola idiosincratico agudo y reciente como el de KRE/marzo-2023.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 24.26x -stockanalysis.com-, valuacion NO especialmente barata para un sector defensivo, sin serie historica propia a 5-10 anios encontrada para contextualizar percentil.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 24.26x -stockanalysis.com-, valuación NO especialmente barata para un sector defensivo, sin serie histórica propia a 5-10 años encontrada para contextualizar percentil.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "P/B ponderado NO ENCONTRADO en las fuentes consultadas. Dividend yield = 1.49%, relativamente BAJO comparado con el resto del cluster sectorial del proyecto -mayoria 2%+-.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "P/B ponderado NO ENCONTRADO en las fuentes consultadas. Dividend yield = 1.49%, relativamente BAJO comparado con el resto del cluster sectorial del proyecto -mayoría 2%+-.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**PRIMER ETF de salud del proyecto, sin competidor directo aun en el workbook** -XLV, IBB, IHI no analizados-, queda pendiente la comparacion. Estructuralmente es el hermano directo de VGT -misma familia MSCI IMI 25/50, mismo TER-.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**PRIMER ETF de salud del proyecto, sin competidor directo aun en el workbook** -XLV, IBB, IHI no analizados-, queda pendiente la comparación. Estructuralmente es el hermano directo de VGT -misma familia MSCI IMI 25/50, mismo TER-.",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol Satelite sectorial -defensivo dentro de la categoria sector-equity, pero no un core diversificado dado el 100% de concentracion en un unico sector-.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol Satélite sectorial -defensivo dentro de la categoría sector-equity, pero no un core diversificado dado el 100% de concentración en un único sector-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion de bajo costo -TER 0.09%- y baja rotacion -turnover 4%- al sector salud, con perfil historicamente mas defensivo -volatilidad 16.9%, beta <1, Max Drawdown -39% muy inferior al cluster financiero-, pero valuacion actual P/E 24x no especialmente barata y dividend yield bajo 1.49%.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición de bajo costo -TER 0.09%- y baja rotación -turnover 4%- al sector salud, con perfil históricamente mas defensivo -volatilidad 16.9%, beta <1, Max Drawdown -39% muy inferior al cluster financiero-, pero valuación actual P/E 24x no especialmente barata y dividend yield bajo 1.49%.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: riesgo regulatorio -politica de precios de medicamentos en EEUU, reformas de salud-, **riesgo de concentracion de nombre unico pese a 430 holdings -Eli Lilly solo ~12% del fondo, Top10 52.1%-**, riesgo de patent cliffs en farmaceuticas grandes, riesgo de ciclo de innovacion/aprobaciones regulatorias en biotecnologia.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: riesgo regulatorio -política de precios de medicamentos en EEUU, reformas de salud-, **riesgo de concentración de nombre único pese a 430 holdings -Eli Lilly solo ~12% del fondo, Top10 52.1%-**, riesgo de patent cliffs en farmacéuticas grandes, riesgo de ciclo de innovación/aprobaciones regulatorias en biotecnologia.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Sin competidor directo en el workbook todavia -XLV, IBB, IHI quedan pendientes-. VGT -ya en el workbook- es el hermano estructural mas cercano dentro de la familia Vanguard MSCI IMI 25/50, aunque de otro sector.",
+          "notas": "Sin competidor directo en el workbook todavía -XLV, IBB, IHI quedan pendientes-. VGT -ya en el workbook- es el hermano estructural mas cercano dentro de la familia Vanguard MSCI IMI 25/50, aunque de otro sector.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. VHT es el PRIMER ETF de salud/healthcare del proyecto, replica FISICA COMPLETA -full replication- y TER extremadamente barato -0.09%-, hermano estructural directo de VGT -ya en el workbook, misma familia metodologica MSCI US Investable Market 25/50-. Perfil historicamente MAS DEFENSIVO que el resto de sectores analizados hasta ahora: volatilidad desde inception de solo 16.9% -la mas baja del cluster sectorial del proyecto, vs 33-43% del cluster financiero-, beta <1 confirmado por 2 fuentes -0.60-0.74-, y Max Drawdown de -39.12% desde inception -mucho menos severo que el 68.5-83.6% de bancos/financieras-, cubriendo Crisis 2008 y COVID bajo la MISMA metodologia, sin el patron de cambio de indice que afecta a XHB/XRT/KIE/KBE/KRE. Turnover de solo 4%, el mas bajo del proyecto. Sin embargo, presenta una **PARADOJA DE CONCENTRACION**: pese a 430 holdings, el Top10 pesa 52.1% del fondo y Eli Lilly SOLA representa casi 12% -riesgo de nombre unico real dentro de un fondo nominalmente muy diversificado, patron similar -aunque menos extremo- al de XLF con JPM+Berkshire-. Valuacion actual P/E 24.26x no es especialmente barata y dividend yield 1.49% es bajo respecto al resto del cluster, sin serie historica propia para ubicar un percentil de valoracion confiable. AUM muy grande -$18.3-20.9bn segun fuente- sin riesgo de cierre. Score 3.36/5, en el rango medio del proyecto, superior al cluster financiero pero sin ser una compra clara dado el nivel de valuacion actual. Rol Satelite. Queda pendiente comparar contra XLV/IBB/IHI cuando se analicen -ningun competidor directo de salud en el workbook todavia-."
+    "tesis": "ESPERAR MEJOR ENTRADA. VHT es el PRIMER ETF de salud/healthcare del proyecto, réplica FÍSICA COMPLETA -full replication- y TER extremadamente barato -0.09%-, hermano estructural directo de VGT -ya en el workbook, misma familia metodologica MSCI US Investable Market 25/50-. Perfil históricamente MAS DEFENSIVO que el resto de sectores analizados hasta ahora: volatilidad desde inception de solo 16.9% -la mas baja del cluster sectorial del proyecto, vs 33-43% del cluster financiero-, beta <1 confirmado por 2 fuentes -0.60-0.74-, y Max Drawdown de -39.12% desde inception -mucho menos severo que el 68.5-83.6% de bancos/financieras-, cubriendo Crisis 2008 y COVID bajo la MISMA metodología, sin el patrón de cambio de índice que afecta a XHB/XRT/KIE/KBE/KRE. Turnover de solo 4%, el mas bajo del proyecto. Sin embargo, presenta una **PARADOJA DE CONCENTRASIÓN**: pese a 430 holdings, el Top10 pesa 52.1% del fondo y Eli Lilly SOLA representa casi 12% -riesgo de nombre único real dentro de un fondo nominalmente muy diversificado, patrón similar -aunque menos extremo- al de XLF con JPM+Berkshire-. Valuación actual P/E 24.26x no es especialmente barata y dividend yield 1.49% es bajo respecto al resto del cluster, sin serie histórica propia para ubicar un percentil de valoración confiable. AUM muy grande -$18.3-20.9bn según fuente- sin riesgo de cierre. Score 3.36/5, en el rango medio del proyecto, superior al cluster financiero pero sin ser una compra clara dado el nivel de valuación actual. Rol Satélite. Queda pendiente comparar contra XLV/IBB/IHI cuando se analicen -ningún competidor directo de salud en el workbook todavía-."
   }
 }

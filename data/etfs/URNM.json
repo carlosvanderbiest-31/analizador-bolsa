@@ -1,36 +1,36 @@
 {
   "nombre": "Sprott Uranium Miners ETF",
   "ticker": "URNM",
-  "categoria": "Equity Tematico/Factor (mineria de uranio pura + trust fisico, sin componente de reactores/SMR)",
+  "categoria": "Equity Temático/Factor (mineria de uranio pura + trust fisico, sin componente de reactores/SMR)",
   "emisor": "Sprott Asset Management",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA, market-cap-weighted, CONFIRMADO EXPLICITAMENTE por el propio emisor (Sprott: 'Full replication tracking the VettaFi Global Uranium Mining Index') - la confirmacion mas explicita y directa de metodo de replica de los ETFs tematicos de nicho reciente del proyecto (ARTY/AIPO se infirieron sin confirmacion oficial tan clara).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA, market-cap-weighted, CONFIRMADO EXPLÍCITAMENTE por el propio emisor (Sprott: 'Full replication tracking the VettaFi Global Uranium Mining Index') - la confirmación mas explicita y directa de metodo de réplica de los ETFs temáticos de nicho reciente del proyecto (ARTY/AIPO se infirieron sin confirmación oficial tan clara).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US (NYSEARCA), pero holdings genuinamente globales: Canada (Cameco, NexGen, Denison), Kazajistan (Kazatomprom), Australia (Paladin Energy, Deep Yellow), Hong Kong/China (CGN Mining) ademas de EEUU (Energy Fuels, Uranium Energy Corp) - friccion fiscal de retencion real, incluso MAS diversificado por pais en el propio top10 que URA.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US (NYSEARCA), pero holdings genuinamente globales: Canada (Cameco, NexGen, Denison), Kazajistan (Kazatomprom), Australia (Paladin Energy, Deep Yellow), Hong Kong/China (CGN Mining) además de EEUU (Energy Fuels, Uranium Energy Corp) - fricción fiscal de retención real, incluso MAS diversificado por pais en el propio top10 que URA.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM = $1.77bn (stockanalysis) / $1.98bn (sprottetfs.com oficial) - razonablemente consistente, pero notablemente MENOR que URA ($6.26bn) - aprox 1/3 del tamano, aunque solido para un fondo de nicho de 6.7 anios.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM = $1.77bn (stockanalysis) / $1.98bn (sprottetfs.com oficial) - razonablemente consistente, pero notablemente MENOR que URA ($6.26bn) - aprox 1/3 del tamaño, aunque sólido para un fondo de nicho de 6.7 años.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 3-dic-2019 (~6.7 anios) - SIN el gotcha de cambio de mandato/tesis de ARTY (aunque el indice paso de administrarse como 'North Shore Global Uranium Mining Index' a 'VettaFi Global Uranium Mining Index' tras la adquisicion de North Shore Indices por VettaFi - cambio de ADMINISTRADOR/marca del indice, no de metodologia ni tema, mucho mas leve que el pivote completo de ARTY). Track record MUCHO mas corto que URA (15.8 anios), similar en duracion a IHAK (7.2 anios).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 3-dic-2019 (~6.7 años) - SIN el gotcha de cambio de mandato/tesis de ARTY (aunque el índice paso de administrarse como 'North Shore Global Uranium Mining Index' a 'VettaFi Global Uranium Mining Index' tras la adquisición de North Shore Índices por VettaFi - cambio de ADMINISTRADOR/marca del índice, no de metodología ni tema, mucho mas leve que el pivote completo de ARTY). Track record MUCHO mas corto que URA (15.8 años), similar en duración a IHAK (7.2 años).",
           "calificacion": 3
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Sprott Asset Management (Sprott Inc, gestora canadiense de recursos naturales) - PRIMERA aparicion en el proyecto. Especialista reconocido y respetado en metales preciosos/materiales criticos (fondos fisicos PSLV/PHYS de plata/oro, ademas de varios ETFs tematicos de uranio/litio/niquel/cobre) - mas boutique/especializado que BlackRock/Vanguard/State Street, pero sin señales de alarma, comparable en credibilidad a VanEck/Global X.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Sprott Asset Management (Sprott Inc, gestora canadiense de recursos naturales) - PRIMERA aparición en el proyecto. Especialista reconocido y respetado en metales preciosos/materiales criticos (fondos fisicos PSLV/PHYS de plata/oro, además de varios ETFs temáticos de uranio/litio/niquel/cobre) - mas boutique/especializado que BlackRock/Vanguard/State Street, pero sin señales de alarma, comparable en credibilidad a VanEck/Global X.",
           "calificacion": 4
         }
       ],
@@ -40,111 +40,111 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.75% - **NUEVO RECORD DEL PROYECTO**, supera a URA/AIPO (0.69%, el anterior empate por el primer lugar).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.75% - **NUEVO RÉCORD DEL PROYECTO**, supera a URA/AIPO (0.69%, el anterior empate por el primer lugar).",
           "calificacion": 1
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado esta sesion.",
+          "notas": "Securities lending revenue no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Reglas y frecuencia de rebalanceo del indice VettaFi Global Uranium Mining Index (URNMX) no confirmadas con precision esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Reglas y frecuencia de rebalanceo del índice VettaFi Global Uranium Mining Index (URNMX) no confirmadas con precisión esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 176,367 acciones (stockanalysis) x ~$60-65/accion (rango de precios recientes encontrado, con cierta dispersion entre fuentes) = aprox $10.9M/dia - MUCHO menor que URA (~$73M/dia), liquidez moderada, no excelente.",
+          "notas": "Volumen diario = 176,367 acciones (stockanalysis) x ~$60-65/acción (rango de precios recientes encontrado, con cierta dispersión entre fuentes) = aprox $10.9M/dia - MUCHO menor que URA (~$73M/dia), liquidez moderada, no excelente.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask = 0.29% (mediana 30 dias, fuente oficial sprottetfs.com, 6-ago-2026) - notablemente MAS ANCHO que URA (0.05%), el mas ancho entre los ETFs tematicos recientes del proyecto - coherente con el menor AUM/volumen.",
+          "notas": "Spread bid-ask = 0.29% (mediana 30 dias, fuente oficial sprottetfs.com, 6-ago-2026) - notablemente MAS ANCHO que URA (0.05%), el mas ancho entre los ETFs temáticos recientes del proyecto - coherente con el menor AUM/volumen.",
           "calificacion": 2
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Fondo mas pequeno y menos liquido que URA, emisor mas boutique/especializado - se infiere profundidad de Authorized Participants moderada, no excelente.",
+          "notas": "Fondo mas pequeño y menos liquido que URA, emisor mas boutique/especializado - se infiere profundidad de Authorized Participants moderada, no excelente.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "N Holdings entre 25 (sprottetfs.com oficial, 'excluding cash') y 31 (stockanalysis), con 26 como cifra intermedia (PortfoliosLab) - el MENOR numero de holdings entre los ETFs de commodity/mineria del proyecto junto con CRAK (25-30).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "N Holdings entre 25 (sprottetfs.com oficial, 'excluding cash') y 31 (stockanalysis), con 26 como cifra intermedia (PortfoliosLab) - el MENOR número de holdings entre los ETFs de commodity/mineria del proyecto junto con CRAK (25-30).",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 78.59% - **NUEVO RECORD DE CONCENTRACION TOP10 DEL PROYECTO**, supera a ITA (76.65%, el anterior record). Solo TRES posiciones (Cameco 19.63% + Sprott Physical Uranium Trust 13.83% + NexGen Energy 13.02%) ya suman 46.5% del fondo.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 78.59% - **NUEVO RÉCORD DE CONCENTRASIÓN TOP10 DEL PROYECTO**, supera a ITA (76.65%, el anterior récord). Solo TRES posiciones (Cameco 19.63% + Sprott Physical Uranium Trust 13.83% + NexGen Energy 13.02%) ya suman 46.5% del fondo.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector/tema: Uranium & Related Equities 81.13% + Physical Uranium (trust) 18.87% (sprottetfs.com oficial) - exposicion UNICA y pura a un solo commodity/tema, sin la diversificacion de cadena de valor (generacion+red+datacenters) que tenia AIPO ni la capa de reactores SMR que anadia URA.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector/tema: Uranium & Related Equities 81.13% + Physical Uranium (trust) 18.87% (sprottetfs.com oficial) - exposición ÚNICA y pura a un solo commodity/tema, sin la diversificación de cadena de valor (generación+red+datacenters) que tenia AIPO ni la capa de reactores SMR que anadia URA.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica: MAS diversificado por PAIS que URA en su propio top10 (incluye Australia -Paladin/Deep Yellow- y Hong Kong -CGN Mining- ademas de Canada/Kazajistan/EEUU que ya tenia URA) - buena diversificacion geografica dentro del mismo tema/commodity.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica: MAS diversificado por PAIS que URA en su propio top10 (incluye Australia -Paladin/Deep Yellow- y Hong Kong -CGN Mining- además de Canada/Kazajistan/EEUU que ya tenia URA) - buena diversificación geográfica dentro del mismo tema/commodity.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Mezcla de mineras grandes (Cameco, Kazatomprom) y junior/exploracion (NexGen, Denison, Paladin, Deep Yellow, Uranium Energy Corp) mas el trust fisico - perfil especulativo similar a URA, pero MAS PURO en mineria/produccion primaria (sin desarrolladores de reactores SMR como X-Energy/NuScale que si tenia URA).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Mezcla de mineras grandes (Cameco, Kazatomprom) y junior/exploración (NexGen, Denison, Paladin, Deep Yellow, Uranium Energy Corp) mas el trust fisico - perfil especulativo similar a URA, pero MAS PURO en mineria/producción primaria (sin desarrolladores de reactores SMR como X-Energy/NuScale que si tenia URA).",
           "calificacion": 2
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice VettaFi Global Uranium Mining Index (URNMX), full replication y market-cap-weighted CONFIRMADOS explicitamente por el emisor - proveedor reconocido (VettaFi, conocido por varios indices tematicos populares), metodologia transparente aunque reglas de rebalanceo especificas no verificadas en detalle.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice VettaFi Global Uranium Mining Index (URNMX), full replication y market-cap-weighted CONFIRMADOS explícitamente por el emisor - proveedor reconocido (VettaFi, conocido por varios índices temáticos populares), metodología transparente aunque reglas de rebalanceo específicas no verificadas en detalle.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia exacta de rebalanceo del indice no confirmadas con precision esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo del índice no confirmadas con precisión esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.57
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception = 28.00% anualizado en ~6.7 anios (stockanalysis) - MUY fuerte en terminos absolutos, notablemente MEJOR que URA (-2.54% en 15.8 anios). PERO se trata con CAUTELA EXPLICITA DE INTERPRETACION: URNM nacio en dic-2019, cerca del fondo del ciclo bajista del uranio y justo antes del inicio del mercado alcista 2020-2026 - su ventana de existencia coincide casi perfectamente con la fase de RECUPERACION del sector, no con un ciclo completo boom-bust-recovery como si captura URA (15.8 anios, incluye el colapso post-Fukushima). El retorno superior de URNM refleja en gran parte TIMING DE LANZAMIENTO FAVORABLE, no necesariamente un vehiculo estructuralmente mejor - no es evidencia de que URNM vaya a comportarse mejor que URA en la PROXIMA fase bajista del ciclo.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception = 28.00% anualizado en ~6.7 años (stockanalysis) - MUY fuerte en términos absolutos, notablemente MEJOR que URA (-2.54% en 15.8 años). PERO se trata con CAUTELA EXPLICITA DE INTERPRETASIÓN: URNM nacio en dic-2019, cerca del fondo del ciclo bajista del uranio y justo antes del inicio del mercado alcista 2020-2026 - su ventana de existencia coincide casi perfectamente con la fase de RECUPERASIÓN del sector, no con un ciclo completo boom-bust-recovery como si captura URA (15.8 años, incluye el colapso post-Fukushima). El retorno superior de URNM refleja en gran parte TIMING DE LANZAMIENTO FAVORABLE, no necesariamente un vehículo estructuralmente mejor - no es evidencia de que URNM vaya a comportarse mejor que URA en la PROXIMA fase bajista del ciclo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad = 52.98% (1 anio, PortfoliosLab) - **NUEVO RECORD DE VOLATILIDAD DEL PROYECTO**, supera a URA (51.16%, el anterior record). Se descarto una cifra alternativa de 12.61% por implausiblemente baja para el perfil de riesgo del fondo (mismo criterio ya aplicado repetidamente en el proyecto).",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad = 52.98% (1 año, PortfoliosLab) - **NUEVO RÉCORD DE VOLATILIDAD DEL PROYECTO**, supera a URA (51.16%, el anterior récord). Se descarto una cifra alternativa de 12.61% por implausiblemente baja para el perfil de riesgo del fondo (mismo criterio ya aplicado repetidamente en el proyecto).",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -50.78% (PortfoliosLab) - CORROBORADO de forma razonable por el rango de precio de 52 semanas ($43.10-$84.95, equivalente a -49.3% pico a valle, muy cercano a la cifra reportada) - a diferencia de URA, aqui SI se pudo confirmar la cifra con confianza razonable gracias al cruce con el rango de 52 semanas. Severo, aunque cubre solo los 6.7 anios de historia del fondo, no el colapso completo post-Fukushima que si esta implicito en el historial de URA.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -50.78% (PortfoliosLab) - CORROBORADO de forma razonable por el rango de precio de 52 semanas ($43.10-$84.95, equivalente a -49.3% pico a valle, muy cercano a la cifra reportada) - a diferencia de URA, aquí SI se pudo confirmar la cifra con confianza razonable gracias al cruce con el rango de 52 semanas. Severo, aunque cubre solo los 6.7 años de historia del fondo, no el colapso completo post-Fukushima que si esta implícito en el historial de URA.",
           "calificacion": 1
         },
         {
@@ -153,39 +153,39 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.91 (stockanalysis) vs 1.17 (LTM, otro agregador) - ambas cifras MODERADAS y razonablemente cercanas entre si (a diferencia de la discrepancia extrema de URA, 1.14 vs 2.0-2.48) - se uso el promedio (~1.0). Curiosamente MENOR que el beta de URA pese a ser un fondo mas concentrado, posiblemente por el peso del trust fisico (13.83%) diluyendo la correlacion pura con renta variable. **OVERLAP CERO**: NINGUNO de los 10 holdings principales (Cameco, Sprott Physical Uranium Trust, NexGen Energy, Denison Mines, Kazatomprom, Energy Fuels, Paladin Energy, CGN Mining, Uranium Energy Corp, Deep Yellow) esta analizado individualmente en el Dashboard de acciones del usuario - TERCER caso del proyecto con overlap nulo en el top10 (tras VYMI e ITA), y el UNICO de los 3 ETFs de uranio/energia relacionados con IA (junto a URA/AIPO) sin overlap alguno.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.91 (stockanalysis) vs 1.17 (LTM, otro agregador) - ambas cifras MODERADAS y razonablemente cercanas entre si (a diferencia de la discrepancia extrema de URA, 1.14 vs 2.0-2.48) - se uso el promedio (~1.0). Curiosamente MENOR que el beta de URA pese a ser un fondo mas concentrado, posiblemente por el peso del trust fisico (13.83%) diluyendo la correlación pura con renta variable. **OVERLAP CERO**: NINGUNO de los 10 holdings principales (Cameco, Sprott Physical Uranium Trust, NexGen Energy, Denison Mines, Kazatomprom, Energy Fuels, Paladin Energy, CGN Mining, Uranium Energy Corp, Deep Yellow) esta analizado individualmente en el Dashboard de acciones del usuario - TERCER caso del proyecto con overlap nulo en el top10 (tras VYMI e ITA), y el ÚNICO de los 3 ETFs de uranio/energía relacionados con IA (junto a URA/AIPO) sin overlap alguno.",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "El fondo SI tiene evidencia de un drawdown severo propio (-50.78%, corroborado) dentro de sus 6.7 anios de historia, pero NO cubre el colapso post-Fukushima de 2011-2016 (nacio 8 anios despues) - su 'peor caso' observado es mas reciente y no necesariamente representativo del extremo historico completo del sector que si captura URA.",
+          "notas": "El fondo SI tiene evidencia de un drawdown severo propio (-50.78%, corroborado) dentro de sus 6.7 años de historia, pero NO cubre el colapso post-Fukushima de 2011-2016 (nacio 8 años después) - su 'peor caso' observado es mas reciente y no necesariamente representativo del extremo histórico completo del sector que si captura URA.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 22.72x - notablemente MAS BARATO que URA (35.68x) y que la mayoria de los tematicos de IA del proyecto, probablemente porque URNM excluye a los desarrolladores especulativos de reactores SMR (X-Energy, NuScale) que URA si incluye y que distorsionan el P/E ponderado al alza (empresas pre-revenue o de utilidad negativa). Sin percentil historico propio verificado esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 22.72x - notablemente MAS BARATO que URA (35.68x) y que la mayoría de los temáticos de IA del proyecto, probablemente porque URNM excluye a los desarrolladores especulativos de reactores SMR (X-Energy, NuScale) que URA si incluye y que distorsionan el P/E ponderado al alza (empresas pre-revenue o de utilidad negativa). Sin percentil histórico propio verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 3.21-3.42% segun fuente (razonablemente convergente) - NO se encontro/verifico un payout ratio especifico esta sesion (a diferencia de URA donde SI se confirmo 175%, insostenible) - se trata con la misma cautela general de ETFs de commodity con distribuciones que suelen incluir ganancias de capital, pero SIN el dato duro que si tenia URA para confirmarlo. Distribucion ANUAL (igual que URA).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 3.21-3.42% según fuente (razonablemente convergente) - NO se encontro/verifico un payout ratio específico esta sesión (a diferencia de URA donde SI se confirmo 175%, insostenible) - se trata con la misma cautela general de ETFs de commodity con distribuciones que suelen incluir ganancias de capital, pero SIN el dato duro que si tenia URA para confirmarlo. Distribución ANUAL (igual que URA).",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - URNM es un fondo 100% equity (+ trust fisico), sin componente de renta fija tradicional.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION CABEZA A CABEZA CON URA** (ya analizado en este workbook, fila 22 - mismo patron IHAK/CIBR, SOXX/SMH, XOP/CRAK, VTV/VUG): URNM es MAS BARATO en P/E (22.7x vs 35.7x), tiene overlap CERO con la cartera del usuario (vs solo OKLO 6.70% en URA) y mejor retorno ABSOLUTO desde inception (28.0% vs -2.54% anualizado, aunque con el sesgo de timing de lanzamiento ya explicado en la fila 39) - PERO es MAS CARO en TER (0.75% vs 0.69%, nuevo record del proyecto), MUCHO MAS CONCENTRADO (top10 78.6% vs 63.9%, tambien record del proyecto), MENOS LIQUIDO ($10.9M/dia vs $73M/dia, spread 0.29% vs 0.05%) y con volatilidad/drawdown ligeramente PEORES (53%/-51% vs 51%/no confirmado con precision en URA). Ninguno de los dos es claramente superior: URNM es la apuesta MAS PURA y barata en multiplo pero MAS CONCENTRADA e ilíquida; URA es MAS DIVERSIFICADO, liquido y barato en TER pero con el lastre de un historial de retorno negativo de 15.8 anios.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN CABEZA A CABEZA CON URA** (ya analizado en este workbook, fila 22 - mismo patrón IHAK/CIBR, SOXX/SMH, XOP/CRAK, VTV/VUG): URNM es MAS BARATO en P/E (22.7x vs 35.7x), tiene overlap CERO con la cartera del usuario (vs solo OKLO 6.70% en URA) y mejor retorno ABSOLUTO desde inception (28.0% vs -2.54% anualizado, aunque con el sesgo de timing de lanzamiento ya explicado en la fila 39) - PERO es MAS CARO en TER (0.75% vs 0.69%, nuevo récord del proyecto), MUCHO MAS CONCENTRADO (top10 78.6% vs 63.9%, también récord del proyecto), MENOS LIQUIDO ($10.9M/dia vs $73M/dia, spread 0.29% vs 0.05%) y con volatilidad/drawdown ligeramente PEORES (53%/-51% vs 51%/no confirmado con precisión en URA). Ninguno de los dos es claramente superior: URNM es la apuesta MAS PURA y barata en múltiplo pero MAS CONCENTRADA e ilíquida; URA es MAS DIVERSIFICADO, liquido y barato en TER pero con el lastre de un historial de retorno negativo de 15.8 años.",
           "calificacion": 4
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: exposicion pura y concentrada a la mineria de uranio, con overlap CERO con la cartera actual del usuario - un diversificador genuino de convicciones ya tomadas, PERO con volatilidad/concentracion/TER en records del proyecto y liquidez limitada. Rol: Tactico/especulativo de tamano MUY acotado, no Core ni Satelite de largo plazo.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: exposición pura y concentrada a la mineria de uranio, con overlap CERO con la cartera actual del usuario - un diversificador genuino de convicciones ya tomadas, PERO con volatilidad/concentración/TER en records del proyecto y liquidez limitada. Rol: Táctico/especulativo de tamaño MUY acotado, no Core ni Satélite de largo plazo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: misma tesis de renacimiento nuclear que URA/AIPO (demanda de energia de IA + politica energetica favorable + deficit estructural de oferta de uranio), pero expresada de forma MAS PURA en la capa de mineria/produccion primaria (sin reactores SMR ni utilities) - apuesta mas concentrada y apalancada especificamente al precio spot del uranio.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: misma tesis de renacimiento nuclear que URA/AIPO (demanda de energía de IA + política energetica favorable + déficit estructural de oferta de uranio), pero expresada de forma MAS PURA en la capa de mineria/producción primaria (sin reactores SMR ni utilities) - apuesta mas concentrada y apalancada específicamente al precio spot del uranio.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) TER record del proyecto (0.75%); (2) volatilidad record del proyecto (53%) y drawdown severo corroborado (-51%); (3) concentracion Top10 record del proyecto (78.6%), con 3 nombres = 46.5% del fondo; (4) liquidez limitada y spread ancho (0.29%) relativo al resto del proyecto; (5) exposicion geopolitica genuina a Kazajistan/China (CGN Mining)/Australia; (6) dependencia TOTAL de un solo commodity ciclico, sin la diversificacion de cadena de valor de AIPO; (7) el fuerte retorno desde inception puede estar inflado por un timing de lanzamiento favorable (dic-2019, cerca del fondo del ciclo), no necesariamente repetible en el futuro.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) TER récord del proyecto (0.75%); (2) volatilidad récord del proyecto (53%) y drawdown severo corroborado (-51%); (3) concentración Top10 récord del proyecto (78.6%), con 3 nombres = 46.5% del fondo; (4) liquidez limitada y spread ancho (0.29%) relativo al resto del proyecto; (5) exposición geopolitica genuina a Kazajistan/China (CGN Mining)/Australia; (6) dependencia TOTAL de un solo commodity ciclico, sin la diversificación de cadena de valor de AIPO; (7) el fuerte retorno desde inception puede estar inflado por un timing de lanzamiento favorable (dic-2019, cerca del fondo del ciclo), no necesariamente repetible en el futuro.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Alternativa/competidor URA YA analizado y comparado en detalle en la fila 50 (comparacion cabeza a cabeza real, no placeholder). Otros candidatos identificados sin verificar: NLR (VanEck Uranium and Nuclear ETF), NUKZ (Range Nuclear Renaissance Index ETF).",
+          "notas": "Alternativa/competidor URA YA analizado y comparado en detalle en la fila 50 (comparación cabeza a cabeza real, no placeholder). Otros candidatos identificados sin verificar: NLR (VanEck Uranium and Nuclear ETF), NUKZ (Range Nuclear Renaissance Index ETF).",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). Score 2.82/5, por debajo del umbral de 3.0 y ligeramente INFERIOR al de URA (2.94) pese a tener overlap CERO con la cartera del usuario (vs solo OKLO en URA) y un P/E mas barato (22.7x vs 35.7x). La razon: URNM combina TRES records simultaneos del proyecto que no tiene URA - TER mas alto (0.75%), Top10 mas concentrado (78.6%) y volatilidad mas alta (53%) - ademas de liquidez notablemente menor (spread 0.29% vs 0.05%, volumen $10.9M/dia vs $73M/dia). El fuerte retorno desde inception (28.0% anualizado en 6.7 anios) se trato con cautela explicita: URNM nacio en dic-2019, casi exactamente en el fondo del ciclo bajista del uranio, por lo que su historial capta sobre todo la fase de RECUPERACION reciente, no un ciclo completo boom-bust-recovery como URA (cuyo -2.54% anualizado en 15.8 anios SI incluye el colapso post-Fukushima 2011-2016). Comparacion cabeza a cabeza actualizada retroactivamente en la Ficha de URA (fila 50) y en el Dashboard (fila 22, columna 40): ninguno de los dos ETFs de uranio es claramente superior al otro - URNM es la apuesta mas pura/barata en multiplo pero mas concentrada e iliquida; URA es mas diversificado y liquido pero con el lastre de un historial de retorno negativo a muy largo plazo. Para este usuario especifico, ambos comparten el mismo perfil de riesgo de commodity ciclico extremo que justifica, como maximo, una posicion tactica muy acotada en cualquiera de los dos, no ambos simultaneamente dado el solapamiento casi total de tesis."
+    "tesis": "REDUCIR/VENDER (evitar). Score 2.82/5, por debajo del umbral de 3.0 y ligeramente INFERIOR al de URA (2.94) pese a tener overlap CERO con la cartera del usuario (vs solo OKLO en URA) y un P/E mas barato (22.7x vs 35.7x). La razón: URNM combina TRES records simultaneos del proyecto que no tiene URA - TER mas alto (0.75%), Top10 mas concentrado (78.6%) y volatilidad mas alta (53%) - además de liquidez notablemente menor (spread 0.29% vs 0.05%, volumen $10.9M/dia vs $73M/dia). El fuerte retorno desde inception (28.0% anualizado en 6.7 años) se trato con cautela explicita: URNM nacio en dic-2019, casi exactamente en el fondo del ciclo bajista del uranio, por lo que su historial capta sobre todo la fase de RECUPERASIÓN reciente, no un ciclo completo boom-bust-recovery como URA (cuyo -2.54% anualizado en 15.8 años SI incluye el colapso post-Fukushima 2011-2016). Comparación cabeza a cabeza actualizada retroactivamente en la Ficha de URA (fila 50) y en el Dashboard (fila 22, columna 40): ninguno de los dos ETFs de uranio es claramente superior al otro - URNM es la apuesta mas pura/barata en múltiplo pero mas concentrada e iliquida; URA es mas diversificado y liquido pero con el lastre de un historial de retorno negativo a muy largo plazo. Para este usuario específico, ambos comparten el mismo perfil de riesgo de commodity ciclico extremo que justifica, como máximo, una posición táctica muy acotada en cualquiera de los dos, no ambos simultaneamente dado el solapamiento casi total de tesis."
   }
 }

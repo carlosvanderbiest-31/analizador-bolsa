@@ -1,36 +1,36 @@
 {
   "nombre": "ProShares UltraPro Short QQQ",
   "ticker": "SQQQ",
-  "categoria": "Equity Indice Amplio Apalancado/Inverso (-3x diario sobre el Nasdaq-100 via futuros - DECIMOQUINTO instrumento apalancado/inverso del proyecto, completa la matriz -1x/-2x/-3x sobre Nasdaq-100 junto a PSQ y QID, aunque con ventana de inception distinta)",
+  "categoria": "Equity Índice Amplio Apalancado/Inverso (-3x diario sobre el Nasdaq-100 via futuros - DECIMOQUINTO instrumento apalancado/inverso del proyecto, completa la matriz -1x/-2x/-3x sobre Nasdaq-100 junto a PSQ y QID, aunque con ventana de inception distinta)",
   "emisor": "ProShares",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica SINTETICA via futuros Nasdaq-100 E-mini + Treasury Bills/money market - a diferencia de QID (swap con Morgan Stanley), aqui la exposicion es via futuros compensados centralmente, sin banco de contraparte nombrado.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica SINTETICA via futuros Nasdaq-100 E-mini + Treasury Bills/money market - a diferencia de QID (swap con Morgan Stanley), aquí la exposición es via futuros compensados centralmente, sin banco de contraparte nombrado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM $1.69bn - **EL MAS GRANDE de cualquier fondo inverso (con o sin apalancamiento) del proyecto** (supera a SH $873M, PSQ $788M, y por mucho a QID $216M).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 9/11-feb-2010 (~16.5 anios) - **MISMA fecha que UDOW/SDOW**, pero DISTINTA de PSQ/QID (jun/jul-2006) - ventana mas corta que NO incluye la Crisis Financiera 2008.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 9/11-feb-2010 (~16.5 años) - **MISMA fecha que UDOW/SDOW**, pero DISTINTA de PSQ/QID (jun/jul-2006) - ventana mas corta que NO incluye la Crisis Financiera 2008.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor ProShares - DECIMOQUINTA aparicion de la linea apalancada/inversa del proyecto.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor ProShares - DECIMOQUINTA aparición de la línea apalancada/inversa del proyecto.",
           "calificacion": 4
         }
       ],
@@ -40,12 +40,12 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.95% - estandar de la linea ProShares.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.95% - estándar de la línea ProShares.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
           "notas": "Decay CATASTROFICO: CAGR desde inception -53.00% a -53.01% - **entre los PEORES resultados de todo el proyecto**, reflejo del apalancamiento -3x sobre una apuesta bajista contra el Nasdaq-100 durante su rally mas reciente y sostenido (2010-2026, sin el colchon parcial de la Crisis 2008 que si beneficio a PSQ/QID en su ventana mas larga).",
           "calificacion": 1
         }
@@ -56,15 +56,15 @@
       "titulo": "Securities lending: revenue generado y % que compensa el TER",
       "aspectos": [
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion DIARIA de los contratos de futuros Nasdaq-100 E-mini.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación DIARIA de los contratos de futuros Nasdaq-100 E-mini.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -73,12 +73,12 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -90,10 +90,10 @@
       "rating_promedio": 3.75
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
+          "aspecto": "Número de holdings y diversificación",
           "notas": "20 holdings (futuros + T-bills/money market) - estructura simple.",
           "calificacion": 3
         }
@@ -101,30 +101,30 @@
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Nasdaq-100, -3x diario via futuros - mismo benchmark que PSQ/QID.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Nasdaq-100, -3x diario via futuros - mismo benchmark que PSQ/QID.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
           "notas": "Rebalanceo DIARIO para mantener el objetivo -3x - nivel de apalancamiento mas alto del proyecto, empatado con UDOW/SDOW (3x).",
           "calificacion": 1
         }
@@ -132,21 +132,21 @@
       "rating_promedio": 2.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = **-53.55%**. Retorno desde inception (16.5 anios) = **-53.00% a -53.01% CAGR** - severo, entre los peores del proyecto.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = **-53.55%**. Retorno desde inception (16.5 años) = **-53.00% a -53.01% CAGR** - severo, entre los peores del proyecto.",
           "calificacion": 1
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad: rango de 52 semanas $35.80-$95.00 (ratio 2.65x) - notablemente mas extrema que PSQ (1.34x) y QID (1.86x), consistente con el mayor apalancamiento nominal.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el CAGR de -53% a 16.5 anios implica una perdida acumulada cercana a la totalidad del capital original, de las mas severas del proyecto.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero el CAGR de -53% a 16.5 años implica una pérdida acumulada cercana a la totalidad del capital original, de las mas severas del proyecto.",
           "calificacion": 1
         }
       ],
@@ -156,8 +156,8 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = -3.45 vs mercado - fuerte correlacion inversa por diseno (-3x sobre un indice tech-heavy).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = -3.45 vs mercado - fuerte correlación inversa por diseño (-3x sobre un índice tech-heavy).",
           "calificacion": 2
         }
       ],
@@ -169,27 +169,27 @@
       "rating_promedio": null
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield reportado = 10.48% - el MAS ALTO de la categoria apalancada/inversa del proyecto, refleja una proporcion aun mayor de colateral en Treasury Bills necesario para respaldar el apalancamiento -3x en el entorno actual de tasas - no un dividendo tradicional de negocio.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield reportado = 10.48% - el MAS ALTO de la categoría apalancada/inversa del proyecto, refleja una proporción aun mayor de colateral en Treasury Bills necesario para respaldar el apalancamiento -3x en el entorno actual de tasas - no un dividendo tradicional de negocio.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION CON PSQ (-1x, fila 96) y QID (-2x, fila 97), ambos ya en el workbook, mismo indice Nasdaq-100**, aunque con la SALVEDAD de que SQQQ tiene una ventana de inception distinta (2010 vs 2006 de PSQ/QID) - la comparacion no es perfectamente controlada como PSQ/QID entre si. Aun asi, escalando linealmente desde el CAGR promedio de PSQ (~-16.65%) x3 se obtendria aprox -49.95%, razonablemente cercano al resultado real de SQQQ (-53.00%) - sugiere un patron de escalado aproximadamente lineal-con-extra-decay similar al ya confirmado entre PSQ/QID, aunque la diferencia de ventana temporal (SQQQ no cubre la Crisis 2008, que si beneficio parcialmente a PSQ/QID) introduce una variable de confusion que impide una conclusion tan limpia como la del par PSQ/QID. | ACTUALIZACION posterior (QQQ, fila 106): el BASELINE 1x del Nasdaq-100 que faltaba, ahora analizado en el workbook - completa la escalera 1x QQQ / -1x PSQ / -2x QID / -3x SQQQ. QQQ fue CONVERTIDO de Unit Investment Trust -UIT- a fondo estandar '40 Act el 22-dic-2025. Su Max Drawdown verificado -82.97% -crash dot-com 2000-2002- es el segundo peor de todo el proyecto tras TMF y peor que SPXL -apalancado 3x- pese a ser QQQ 1x sin apalancamiento, la prueba mas clara de que la concentracion sola puede rivalizar con el riesgo de productos apalancados. Ver Ficha QQQ fila 106 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN CON PSQ (-1x, fila 96) y QID (-2x, fila 97), ambos ya en el workbook, mismo índice Nasdaq-100**, aunque con la SALVEDAD de que SQQQ tiene una ventana de inception distinta (2010 vs 2006 de PSQ/QID) - la comparación no es perfectamente controlada como PSQ/QID entre si. Aun así, escalando linealmente desde el CAGR promedio de PSQ (~-16.65%) x3 se obtendria aprox -49.95%, razonablemente cercano al resultado real de SQQQ (-53.00%) - sugiere un patrón de escalado aproximadamente lineal-con-extra-decay similar al ya confirmado entre PSQ/QID, aunque la diferencia de ventana temporal (SQQQ no cubre la Crisis 2008, que si beneficio parcialmente a PSQ/QID) introduce una variable de confusión que impide una conclusión tan limpia como la del par PSQ/QID. | ACTUALIZASIÓN posterior (QQQ, fila 106): el BASELINE 1x del Nasdaq-100 que faltaba, ahora analizado en el workbook - completa la escalera 1x QQQ / -1x PSQ / -2x QID / -3x SQQQ. QQQ fue CONVERTIDO de Unit Investment Trust -UIT- a fondo estándar '40 Act el 22-dic-2025. Su Max Drawdown verificado -82.97% -crash dot-com 2000-2002- es el segundo peor de todo el proyecto tras TMF y peor que SPXL -apalancado 3x- pese a ser QQQ 1x sin apalancamiento, la prueba mas clara de que la concentración sola puede rivalizar con el riesgo de productos apalancados. Ver Ficha QQQ fila 106 para el detalle completo.",
           "calificacion": 3
         }
       ],
@@ -199,23 +199,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO - mismo tratamiento categorico que el resto de la linea apalancada/inversa del proyecto.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: TÁCTICO/ESPECULATIVO DE MUY CORTO PLAZO - mismo tratamiento categorico que el resto de la línea apalancada/inversa del proyecto.",
           "calificacion": 1
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: apuesta bajista apalancada de trading de muy corto plazo sobre el Nasdaq-100/sector tech, con el apalancamiento mas alto disponible en esta apuesta especifica dentro del proyecto - el resultado extremadamente negativo (CAGR -53%) refuerza la advertencia ya establecida sobre el riesgo de apostar contra una tendencia estructural sostenida con apalancamiento elevado.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: apuesta bajista apalancada de trading de muy corto plazo sobre el Nasdaq-100/sector tech, con el apalancamiento mas alto disponible en esta apuesta específica dentro del proyecto - el resultado extremadamente negativo (CAGR -53%) refuerza la advertencia ya establecida sobre el riesgo de apostar contra una tendencia estructural sostenida con apalancamiento elevado.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) decay compuesto por rebalanceo diario -3x, YA MATERIALIZADO en uno de los peores CAGR del proyecto (-53%); (2) apalancamiento 3x, el nivel mas alto del proyecto; (3) complejidad fiscal via K-1; (4) volatilidad la mas extrema de la sub-categoria Nasdaq-100 del proyecto (rango 52 sem 2.65x).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) decay compuesto por rebalanceo diario -3x, YA MATERIALIZADO en uno de los peores CAGR del proyecto (-53%); (2) apalancamiento 3x, el nivel mas alto del proyecto; (3) complejidad fiscal via K-1; (4) volatilidad la mas extrema de la sub-categoría Nasdaq-100 del proyecto (rango 52 sem 2.65x).",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "PSQ (fila 96, -1x) y QID (fila 97, -2x), ambos ya en el workbook sobre el mismo indice, son los comparables mas directos (con la salvedad de ventana distinta). TQQQ (+3x, no analizado) seria el espejo direccional exacto sobre el mismo Nasdaq-100.",
+          "notas": "PSQ (fila 96, -1x) y QID (fila 97, -2x), ambos ya en el workbook sobre el mismo índice, son los comparables mas directos (con la salvedad de ventana distinta). TQQQ (+3x, no analizado) seria el espejo direccional exacto sobre el mismo Nasdaq-100.",
           "calificacion": 3
         }
       ],
@@ -223,6 +223,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.52/5, similar a QID (2.56). ProShares UltraPro Short QQQ, -3x diario sobre el Nasdaq-100 via futuros E-mini - completa la matriz -1x/-2x/-3x sobre el mismo indice junto a PSQ (fila 96) y QID (fila 97), aunque con una SALVEDAD IMPORTANTE: SQQQ tiene una fecha de inception distinta (feb-2010, misma que UDOW/SDOW) frente a PSQ/QID (jun/jul-2006) - la comparacion no es perfectamente controlada como el par PSQ/QID entre si. CAGR desde inception = -53.00% a -53.01% - entre los PEORES resultados de todo el proyecto. Escalando linealmente desde el CAGR promedio de PSQ (~-16.65%) x3 se obtendria aprox -49.95%, razonablemente cercano al resultado real (-53.00%), sugiriendo un patron de escalado similar al ya confirmado entre PSQ/QID, aunque la ventana distinta (SQQQ no cubre la Crisis 2008, que si beneficio parcialmente a PSQ/QID en su ventana mas larga) introduce una variable de confusion que impide una conclusion tan limpia. Es EL MAS GRANDE ($1.69bn) y EL MAS LIQUIDO (~35.74M acciones/dia, el volumen mas alto de CUALQUIER instrumento del proyecto) de la categoria inversa. Retorno 1Y = -53.55%. Volatilidad (rango 52 semanas ratio 2.65x) la mas extrema de la sub-categoria Nasdaq-100 del proyecto. Unico uso legitimo: apuesta bajista apalancada de trading de muy corto plazo - nunca Core ni Satelite. TQQQ (+3x, mismo indice) seria el espejo direccional exacto, no analizado. Con quince instrumentos apalancados/inversos, el patron de decay compuesto por rebalanceo diario queda confirmado de forma consistente en todos los casos analizados del proyecto."
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.52/5, similar a QID (2.56). ProShares UltraPro Short QQQ, -3x diario sobre el Nasdaq-100 via futuros E-mini - completa la matriz -1x/-2x/-3x sobre el mismo índice junto a PSQ (fila 96) y QID (fila 97), aunque con una SALVEDAD IMPORTANTE: SQQQ tiene una fecha de inception distinta (feb-2010, misma que UDOW/SDOW) frente a PSQ/QID (jun/jul-2006) - la comparación no es perfectamente controlada como el par PSQ/QID entre si. CAGR desde inception = -53.00% a -53.01% - entre los PEORES resultados de todo el proyecto. Escalando linealmente desde el CAGR promedio de PSQ (~-16.65%) x3 se obtendria aprox -49.95%, razonablemente cercano al resultado real (-53.00%), sugiriendo un patrón de escalado similar al ya confirmado entre PSQ/QID, aunque la ventana distinta (SQQQ no cubre la Crisis 2008, que si beneficio parcialmente a PSQ/QID en su ventana mas larga) introduce una variable de confusión que impide una conclusión tan limpia. Es EL MAS GRANDE ($1.69bn) y EL MAS LIQUIDO (~35.74M acciones/dia, el volumen mas alto de CUALQUIER instrumento del proyecto) de la categoría inversa. Retorno 1Y = -53.55%. Volatilidad (rango 52 semanas ratio 2.65x) la mas extrema de la sub-categoría Nasdaq-100 del proyecto. Único uso legitimo: apuesta bajista apalancada de trading de muy corto plazo - nunca Core ni Satélite. TQQQ (+3x, mismo índice) seria el espejo direccional exacto, no analizado. Con quince instrumentos apalancados/inversos, el patrón de decay compuesto por rebalanceo diario queda confirmado de forma consistente en todos los casos analizados del proyecto."
   }
 }

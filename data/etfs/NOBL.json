@@ -1,36 +1,36 @@
 {
   "nombre": "ProShares S&P 500 Dividend Aristocrats ETF",
   "ticker": "NOBL",
-  "categoria": "Equity Tematico/Factor (dividendo/calidad, 100% US, EQUAL-WEIGHT, competidor directo de SCHD -fila 5- con filosofia de seleccion distinta - screening de 25+ anios consecutivos de crecimiento de dividendo, PRIMER producto ProShares NO apalancado/tactico del proyecto)",
+  "categoria": "Equity Temático/Factor (dividendo/calidad, 100% US, EQUAL-WEIGHT, competidor directo de SCHD -fila 5- con filosofia de selección distinta - screening de 25+ años consecutivos de crecimiento de dividendo, PRIMER producto ProShares NO apalancado/táctico del proyecto)",
   "emisor": "ProShares",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA, indice EQUAL-WEIGHT (69-70 holdings, cada posicion pesa aproximadamente lo mismo) - metodologia distinta a la mayoria de fondos de dividendos del proyecto.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA, índice EQUAL-WEIGHT (69-70 holdings, cada posición pesa aproximadamente lo mismo) - metodología distinta a la mayoría de fondos de dividendos del proyecto.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, 100% acciones US - sin retencion de dividendos extranjeros ni complejidad fiscal adicional.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, 100% acciones US - sin retención de dividendos extranjeros ni complejidad fiscal adicional.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM $11.90-11.92bn - solido, aunque MUCHO MENOR que SCHD (~$105bn, ~9x mayor).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM $11.90-11.92bn - sólido, aunque MUCHO MENOR que SCHD (~$105bn, ~9x mayor).",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 9-oct-2013 (~12.8 anios) - MENOR track record que SCHD (14.8 anios).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 9-oct-2013 (~12.8 años) - MENOR track record que SCHD (14.8 años).",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor ProShares - PRIMERA aparicion en el proyecto de un producto ProShares 'estrategico' long-only tradicional, distinto de toda su linea apalancada/inversa/tactica ya analizada extensamente (KOLD-UGL-AGQ-UCO).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor ProShares - PRIMERA aparición en el proyecto de un producto ProShares 'estratégico' long-only tradicional, distinto de toda su línea apalancada/inversa/táctica ya analizada extensamente (KOLD-UGL-AGQ-UCO).",
           "calificacion": 4
         }
       ],
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.35% - **NOTABLEMENTE MAS CARO que SCHD** (0.06%, ~5.8x el costo), caro en terminos relativos dentro de la categoria de dividendos/calidad del proyecto.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.35% - **NOTABLEMENTE MAS CARO que SCHD** (0.06%, ~5.8x el costo), caro en términos relativos dentro de la categoría de dividendos/calidad del proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking difference no verificada con fuente primaria esta sesion; dado el TER mas alto, se espera un costo real superior al de SCHD.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking difference no verificada con fuente primaria esta sesión; dado el TER mas alto, se espera un costo real superior al de SCHD.",
           "calificacion": 3
         }
       ],
@@ -56,15 +56,15 @@
       "titulo": "Securities lending: revenue generado y % que compensa el TER",
       "aspectos": [
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion TRIMESTRAL con reconstitucion ANUAL en enero - reglas claras y transparentes (minimo 40 acciones, maximo 30% por sector), rebalanceo mas frecuente que el tipico anual de otros fondos de dividendos del proyecto.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación TRIMESTRAL con reconstitución ANUAL en enero - reglas claras y transparentes (mínimo 40 acciones, máximo 30% por sector), rebalanceo mas frecuente que el típico anual de otros fondos de dividendos del proyecto.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -73,12 +73,12 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -90,104 +90,104 @@
       "rating_promedio": 3.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "69-70 holdings - MENOS que SCHD (103 holdings), aunque el diseno equal-weight compensa parcialmente via menor concentracion (ver fila 31).",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "69-70 holdings - MENOS que SCHD (103 holdings), aunque el diseño equal-weight compensa parcialmente via menor concentración (ver fila 31).",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top10 = **16.2% - NOTABLEMENTE MENOR que SCHD (41.3%)**, consecuencia directa del diseno equal-weight (cada posicion ~1.4-1.7%) vs la ponderacion por fundamentales/yield de SCHD que concentra mas en sus mejores candidatos.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top10 = **16.2% - NOTABLEMENTE MENOR que SCHD (41.3%)**, consecuencia directa del diseño equal-weight (cada posición ~1.4-1.7%) vs la ponderación por fundamentales/yield de SCHD que concentra mas en sus mejores candidatos.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sin cifra sectorial exacta verificada esta sesion, PERO la regla estructural del indice GARANTIZA que ningun sector supere el 30% - diversificacion sectorial estructuralmente MEJOR que SCHD (~55% concentrado en solo 3 sectores segun Ficha SCHD).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sin cifra sectorial exacta verificada esta sesión, PERO la regla estructural del índice GARANTIZA que ningún sector supere el 30% - diversificación sectorial estructuralmente MEJOR que SCHD (~55% concentrado en solo 3 sectores según Ficha SCHD).",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Geografia 100% US (constituyentes S&P 500) - MISMO perfil que SCHD, sin diversificacion geografica internacional.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Geografia 100% US (constituyentes S&P 500) - MISMO perfil que SCHD, sin diversificación geográfica internacional.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Factor dividendo/calidad con exigencia MUY estricta: 25+ anios CONSECUTIVOS de incrementos de dividendo (excluye dividendos especiales). EQUAL-WEIGHT en vez del enfoque yield/fundamentals-weighted de SCHD - sesgo deliberado hacia 'compounders' de calidad y consistencia probada en vez de yield/value puro.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Factor dividendo/calidad con exigencia MUY estricta: 25+ años CONSECUTIVOS de incrementos de dividendo (excluye dividendos especiales). EQUAL-WEIGHT en vez del enfoque yield/fundamentals-weighted de SCHD - sesgo deliberado hacia 'compounders' de calidad y consistencia probada en vez de yield/value puro.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P 500 Dividend Aristocrats - metodologia de screening transparente y muy exigente (25+ anios consecutivos), proveedor S&P.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P 500 Dividend Aristocrats - metodología de screening transparente y muy exigente (25+ años consecutivos), proveedor S&P.",
           "calificacion": 4
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas claras: rebalanceo trimestral (ene/abr/jul/oct), reconstitucion anual en enero, minimo 40 acciones (se incluyen nombres con menor historial si no se alcanza el minimo), maximo 30% por sector.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas claras: rebalanceo trimestral (ene/abr/jul/oct), reconstitución anual en enero, mínimo 40 acciones (se incluyen nombres con menor historial si no se alcanza el mínimo), máximo 30% por sector.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.86
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = **+15.62% - NOTABLEMENTE MENOR que SCHD** (+31.31%) en el mismo periodo de rally del mercado. Retorno desde inception (12.8 anios) = **+10.88% CAGR - tambien MENOR que SCHD** (+12.7% desde inception, ventana algo distinta).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = **+15.62% - NOTABLEMENTE MENOR que SCHD** (+31.31%) en el mismo período de rally del mercado. Retorno desde inception (12.8 años) = **+10.88% CAGR - también MENOR que SCHD** (+12.7% desde inception, ventana algo distinta).",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Cifra de volatilidad encontrada (3.51%) claramente implausible para un ETF de renta variable - DESCARTADA (mismo gotcha recurrente ya documentado extensamente en el proyecto), sin alternativa confiable esta sesion.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Cifra de volatilidad encontrada (3.51%) claramente implausible para un ETF de renta variable - DESCARTADA (mismo gotcha recurrente ya documentado extensamente en el proyecto), sin alternativa confiable esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -35.43% desde inception - ligeramente PEOR que SCHD (-33.4%) en magnitud nominal, aunque una fuente indica que historicamente NOBL ha tenido drawdowns menos severos que el S&P 500 amplio (SPY -55.19%) en crisis especificas - perfil 'defensivo relativo al mercado amplio pero no necesariamente vs SCHD'.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -35.43% desde inception - ligeramente PEOR que SCHD (-33.4%) en magnitud nominal, aunque una fuente indica que históricamente NOBL ha tenido drawdowns menos severos que el S&P 500 amplio (SPY -55.19%) en crisis específicas - perfil 'defensivo relativo al mercado amplio pero no necesariamente vs SCHD'.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 1.33 (cifra reciente) - MENOR que VOO (1.67) en el periodo medido, retorno ajustado a riesgo inferior al mercado amplio.",
+          "notas": "Sharpe Ratio = 1.33 (cifra reciente) - MENOR que VOO (1.67) en el período medido, retorno ajustado a riesgo inferior al mercado amplio.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = 0.76 - moderadamente defensivo, aunque CURIOSAMENTE MAS ALTO (mas cerca de 1.0, menos defensivo) que el de SCHD (0.69) pese al perfil 'calidad/aristocrata' de NOBL. Overlap verificado: Sherwin-Williams (SHW, top10 de NOBL) tiene verdict individual **NO COMPRAR - VALORACION EXIGENTE** en el proyecto de acciones (MS -26.4%, negocio limpio pero caro) - hallazgo de overlap moderado, no severo.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.76 - moderadamente defensivo, aunque CURIOSAMENTE MAS ALTO (mas cerca de 1.0, menos defensivo) que el de SCHD (0.69) pese al perfil 'calidad/aristocrata' de NOBL. Overlap verificado: Sherwin-Williams (SHW, top10 de NOBL) tiene verdict individual **NO COMPRAR - VALORASIÓN EXIGENTE** en el proyecto de acciones (MS -26.4%, negocio limpio pero caro) - hallazgo de overlap moderado, no severo.",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Comportamiento en crisis pasadas no verificado con detalle especifico esta sesion mas alla de la cifra generica de Max Drawdown (fila 41).",
+          "notas": "Comportamiento en crisis pasadas no verificado con detalle específico esta sesión mas alla de la cifra generica de Max Drawdown (fila 41).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 21.37x (o 21.22x segun otra fuente) - **NOTABLEMENTE MAS CARO que SCHD** (17.6x), refleja el sesgo hacia calidad/compounders de mayor valoracion en vez de value/yield puro.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 21.37x (o 21.22x según otra fuente) - **NOTABLEMENTE MAS CARO que SCHD** (17.6x), refleja el sesgo hacia calidad/compounders de mayor valoración en vez de value/yield puro.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 1.99-2.04% - **MUCHO MAS BAJO que SCHD** (3.1%), refleja el enfoque en consistencia/crecimiento de dividendo mas que yield absoluto alto. Distribucion trimestral.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 1.99-2.04% - **MUCHO MAS BAJO que SCHD** (3.1%), refleja el enfoque en consistencia/crecimiento de dividendo mas que yield absoluto alto. Distribución trimestral.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION DIRECTA CON SCHD (fila 5, ya en el workbook)**: ambos son ETFs de dividendos/calidad 100% US pero con filosofias de seleccion opuestas. SCHD prioriza yield+fundamentals (cash flow/debt, ROE, crecimiento de dividendo) resultando en TER minimo (0.06%), yield alto (3.1%), pero concentracion alta (41.3% top10, ~55% en 3 sectores) y sesgo value clasico (KO, PEP, VZ, MRK, CVX). NOBL exige 25+ anios CONSECUTIVOS de incrementos (screening mas estricto en calidad/consistencia), usa EQUAL-WEIGHT (diversificacion estructuralmente garantizada, top10 solo 16.2%, ningun sector >30%), pero es 5.8x mas caro, yield mucho menor, P/E mas alto, y retorno historico NOTABLEMENTE INFERIOR tanto en 1Y (+15.62% vs +31.31%) como CAGR desde inception (+10.88% vs +12.7%). Trade-off genuino: SCHD gana en costo/yield/retorno historico, NOBL gana en diversificacion estructural y consistencia de calidad del screening. | ACTUALIZACION posterior (DVY, fila 88): tercer competidor del cluster con enfoque de sostenibilidad de dividendo (distinto del equal-weight de NOBL y el composite score de SCHD). DVY supera a NOBL en Score (3.63 vs 3.28), P/E (14.93x vs 21.4x), yield (3.23% vs 2.0%) y track record (22.75 vs 12.8 anios), aunque TER similar (0.38% vs 0.35%). Ver Ficha DVY fila 50 para el detalle completo. | ACTUALIZACION posterior (DGRO, fila 89): cuarto competidor del cluster, supera a NOBL en Score (3.59 vs 3.28), diversificacion (397 vs 70 holdings), TER (0.08% vs 0.35%) y CAGR (+12.63% vs +10.88%), aunque con menor yield (1.85% vs 2.0%). Ver Ficha DGRO fila 50. | ACTUALIZACION posterior (VIG, fila 90): quinto competidor del cluster, Score similar a NOBL (3.34 vs 3.28) pero por razones distintas - VIG penalizado por P/E el mas caro del cluster y overlap severo via AVGO, no por TER alto como NOBL. Ver Ficha VIG fila 50. | ACTUALIZACION posterior (HDV, fila 91): sexto competidor, supera a NOBL en Score (3.41 vs 3.28), yield (3.03% vs 2.0%) y defensividad (beta 0.55 vs 0.76), aunque con mayor concentracion sectorial en Energia. Ver Ficha HDV fila 50. | ACTUALIZACION posterior (VYM, fila 92): septimo competidor, supera a NOBL en diversificacion (618 vs 70 holdings) y costo (0.04% vs 0.35%), pero con overlap severo via AVGO+CAT. Score 3.44 vs 3.28 de NOBL. Ver Ficha VYM fila 50.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN DIRECTA CON SCHD (fila 5, ya en el workbook)**: ambos son ETFs de dividendos/calidad 100% US pero con filosofias de selección opuestas. SCHD prioriza yield+fundamentals (cash flow/debt, ROE, crecimiento de dividendo) resultando en TER mínimo (0.06%), yield alto (3.1%), pero concentración alta (41.3% top10, ~55% en 3 sectores) y sesgo value clasico (KO, PEP, VZ, MRK, CVX). NOBL exige 25+ años CONSECUTIVOS de incrementos (screening mas estricto en calidad/consistencia), usa EQUAL-WEIGHT (diversificación estructuralmente garantizada, top10 solo 16.2%, ningún sector >30%), pero es 5.8x mas caro, yield mucho menor, P/E mas alto, y retorno histórico NOTABLEMENTE INFERIOR tanto en 1Y (+15.62% vs +31.31%) como CAGR desde inception (+10.88% vs +12.7%). Trade-off genuino: SCHD gana en costo/yield/retorno histórico, NOBL gana en diversificación estructural y consistencia de calidad del screening. | ACTUALIZASIÓN posterior (DVY, fila 88): tercer competidor del cluster con enfoque de sostenibilidad de dividendo (distinto del equal-weight de NOBL y el composite score de SCHD). DVY supera a NOBL en Score (3.63 vs 3.28), P/E (14.93x vs 21.4x), yield (3.23% vs 2.0%) y track record (22.75 vs 12.8 años), aunque TER similar (0.38% vs 0.35%). Ver Ficha DVY fila 50 para el detalle completo. | ACTUALIZASIÓN posterior (DGRO, fila 89): cuarto competidor del cluster, supera a NOBL en Score (3.59 vs 3.28), diversificación (397 vs 70 holdings), TER (0.08% vs 0.35%) y CAGR (+12.63% vs +10.88%), aunque con menor yield (1.85% vs 2.0%). Ver Ficha DGRO fila 50. | ACTUALIZASIÓN posterior (VIG, fila 90): quinto competidor del cluster, Score similar a NOBL (3.34 vs 3.28) pero por razones distintas - VIG penalizado por P/E el mas caro del cluster y overlap severo via AVGO, no por TER alto como NOBL. Ver Ficha VIG fila 50. | ACTUALIZASIÓN posterior (HDV, fila 91): sexto competidor, supera a NOBL en Score (3.41 vs 3.28), yield (3.03% vs 2.0%) y defensividad (beta 0.55 vs 0.76), aunque con mayor concentración sectorial en Energía. Ver Ficha HDV fila 50. | ACTUALIZASIÓN posterior (VYM, fila 92): septimo competidor, supera a NOBL en diversificación (618 vs 70 holdings) y costo (0.04% vs 0.35%), pero con overlap severo via AVGO+CAT. Score 3.44 vs 3.28 de NOBL. Ver Ficha VYM fila 50.",
           "calificacion": 3
         }
       ],
@@ -197,23 +197,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: Core - mismo tratamiento que SCHD, aunque claramente el 'segundo lugar' del par en eficiencia costo/retorno historico.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: Core - mismo tratamiento que SCHD, aunque claramente el 'segundo lugar' del par en eficiencia costo/retorno histórico.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: acceso a 'compounders' de calidad probada (25+ anios de crecimiento consecutivo de dividendos) con diversificacion estructural garantizada (equal-weight, limite sectorial 30%), en vez del enfoque yield/value mas concentrado de SCHD - apropiado para quien priorice consistencia/calidad y diversificacion sobre yield absoluto y costo minimo.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: acceso a 'compounders' de calidad probada (25+ años de crecimiento consecutivo de dividendos) con diversificación estructural garantizada (equal-weight, limite sectorial 30%), en vez del enfoque yield/value mas concentrado de SCHD - apropiado para quien priorice consistencia/calidad y diversificación sobre yield absoluto y costo mínimo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) TER notablemente mas alto que SCHD (0.35% vs 0.06%) sin retorno historico compensatorio en el periodo medido; (2) yield bajo relativo a la categoria de dividendos del proyecto (2.0% vs 3.1% SCHD); (3) P/E mas alto, valoracion mas rica (21.4x vs 17.6x); (4) 100% US, sin diversificacion geografica; (5) overlap moderado confirmado via SHW (NO COMPRAR - valoracion exigente en el proyecto de acciones).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) TER notablemente mas alto que SCHD (0.35% vs 0.06%) sin retorno histórico compensatorio en el período medido; (2) yield bajo relativo a la categoría de dividendos del proyecto (2.0% vs 3.1% SCHD); (3) P/E mas alto, valoración mas rica (21.4x vs 17.6x); (4) 100% US, sin diversificación geográfica; (5) overlap moderado confirmado via SHW (NO COMPRAR - valoración exigente en el proyecto de acciones).",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "SCHD (fila 5, ya en el workbook, mas eficiente en costo/yield/retorno historico) es el comparable mas directo, con ventaja clara en varias dimensiones salvo diversificacion estructural. VIG y DGRO (mencionados historicamente como competidores de SCHD) tambien relevantes, no analizados en el workbook. DVY (fila 88) tambien analizado - supera a NOBL en Score, P/E y yield, ver comparacion completa en su Ficha. DGRO (fila 89) tambien analizado - supera a NOBL en la mayoria de dimensiones, ver comparacion completa en su Ficha. VIG (fila 90) tambien analizado - TER minimo pero overlap severo, ver comparacion completa en su Ficha. HDV (fila 91) tambien analizado - el mas defensivo del cluster con filtro de moat, ver comparacion completa en su Ficha. VYM (fila 92) tambien analizado - el mas diversificado y barato del cluster, pero con el overlap mas severo via AVGO+CAT, ver comparacion completa en su Ficha.",
+          "notas": "SCHD (fila 5, ya en el workbook, mas eficiente en costo/yield/retorno histórico) es el comparable mas directo, con ventaja clara en varias dimensiones salvo diversificación estructural. VIG y DGRO (mencionados históricamente como competidores de SCHD) también relevantes, no analizados en el workbook. DVY (fila 88) también analizado - supera a NOBL en Score, P/E y yield, ver comparación completa en su Ficha. DGRO (fila 89) también analizado - supera a NOBL en la mayoría de dimensiones, ver comparación completa en su Ficha. VIG (fila 90) también analizado - TER mínimo pero overlap severo, ver comparación completa en su Ficha. HDV (fila 91) también analizado - el mas defensivo del cluster con filtro de moat, ver comparación completa en su Ficha. VYM (fila 92) también analizado - el mas diversificado y barato del cluster, pero con el overlap mas severo via AVGO+CAT, ver comparación completa en su Ficha.",
           "calificacion": 3
         }
       ],
@@ -221,6 +221,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.28/5. ProShares S&P 500 Dividend Aristocrats ETF: 100% acciones US con screening muy estricto (25+ anios CONSECUTIVOS de crecimiento de dividendo), estructura EQUAL-WEIGHT (69-70 holdings). Competidor directo de SCHD (fila 5, ya en el workbook) dentro de la categoria de dividendo/calidad del proyecto, con filosofia de seleccion opuesta. NOBL gana claramente en diversificacion ESTRUCTURAL: Top10 solo 16.2% (vs 41.3% de SCHD) y ningun sector puede superar el 30% por regla del indice (vs ~55% concentrado en 3 sectores en SCHD) - el diseno equal-weight produce una dispersion de riesgo genuinamente superior. PERO pierde en casi todas las demas dimensiones: TER 5.8x mas caro (0.35% vs 0.06%), yield mucho menor (2.0% vs 3.1%), P/E mas alto/rico (21.4x vs 17.6x), y retorno historico notablemente inferior tanto en 1Y (+15.62% vs +31.31%) como CAGR desde inception (+10.88% vs +12.7%). AUM y liquidez tambien muy inferiores (~9x menor en ambos). Overlap moderado confirmado: Sherwin-Williams (SHW, top10 de NOBL) tiene verdict individual NO COMPRAR - VALORACION EXIGENTE en el proyecto de acciones (negocio limpio pero caro, MS -26.4%). No hay un ganador absoluto: SCHD domina en costo/yield/retorno historico reciente, NOBL ofrece un perfil estructuralmente mas diversificado y un screening de calidad/consistencia mas exigente - valido para quien priorice esos atributos sobre eficiencia de costo. Dado el P/E mas rico y el underperformance reciente frente a SCHD, se recomienda esperar una entrada mas favorable en valoracion relativa antes de agregar. VIG y DGRO (competidores historicos de SCHD, no analizados en el workbook) tambien serian relevantes para esta comparacion."
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.28/5. ProShares S&P 500 Dividend Aristocrats ETF: 100% acciones US con screening muy estricto (25+ años CONSECUTIVOS de crecimiento de dividendo), estructura EQUAL-WEIGHT (69-70 holdings). Competidor directo de SCHD (fila 5, ya en el workbook) dentro de la categoría de dividendo/calidad del proyecto, con filosofia de selección opuesta. NOBL gana claramente en diversificación ESTRUCTURAL: Top10 solo 16.2% (vs 41.3% de SCHD) y ningún sector puede superar el 30% por regla del índice (vs ~55% concentrado en 3 sectores en SCHD) - el diseño equal-weight produce una dispersión de riesgo genuinamente superior. PERO pierde en casi todas las demas dimensiones: TER 5.8x mas caro (0.35% vs 0.06%), yield mucho menor (2.0% vs 3.1%), P/E mas alto/rico (21.4x vs 17.6x), y retorno histórico notablemente inferior tanto en 1Y (+15.62% vs +31.31%) como CAGR desde inception (+10.88% vs +12.7%). AUM y liquidez también muy inferiores (~9x menor en ambos). Overlap moderado confirmado: Sherwin-Williams (SHW, top10 de NOBL) tiene verdict individual NO COMPRAR - VALORASIÓN EXIGENTE en el proyecto de acciones (negocio limpio pero caro, MS -26.4%). No hay un ganador absoluto: SCHD domina en costo/yield/retorno histórico reciente, NOBL ofrece un perfil estructuralmente mas diversificado y un screening de calidad/consistencia mas exigente - valido para quien priorice esos atributos sobre eficiencia de costo. Dado el P/E mas rico y el underperformance reciente frente a SCHD, se recomienda esperar una entrada mas favorable en valoración relativa antes de agregar. VIG y DGRO (competidores históricos de SCHD, no analizados en el workbook) también serian relevantes para esta comparación."
   }
 }

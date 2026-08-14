@@ -6,30 +6,30 @@
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA: 100% oro fisico en boveda (Londres), custodiado por DOS custodios simultaneos (JPMorgan Chase Y HSBC Bank) - primera vez en la categoria del proyecto con doble custodio, Grantor Trust SIN futuros/swaps/apalancamiento.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA: 100% oro fisico en boveda (Londres), custodiado por DOS custodios simultaneos (JPMorgan Chase Y HSBC Bank) - primera vez en la categoría del proyecto con doble custodio, Grantor Trust SIN futuros/swaps/apalancamiento.",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domicilio US, Grantor Trust - sin K-1, sujeto al mismo tratamiento fiscal de 'collectible' en EEUU que SGOL/IAU/SIVR/SLV.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM $132.48bn - **EL MAS GRANDE de TODOS los CATORCE instrumentos de materias primas del proyecto por un margen aun mayor** (mas del doble de IAU, $60.50bn), uno de los ETFs mas grandes de TODO el proyecto incluyendo el cluster de acciones - 'el ETF de oro mas grande del mundo'.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 18-nov-2004 (~21.75 anios) - **EL MAS ANTIGUO de TODOS los catorce instrumentos de materias primas del proyecto**, apenas 2 meses mas viejo que IAU.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 18-nov-2004 (~21.75 años) - **EL MAS ANTIGUO de TODOS los catorce instrumentos de materias primas del proyecto**, apenas 2 meses mas viejo que IAU.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor State Street (SPDR) - PRIMER emisor de este tipo en el proyecto (distinto de BlackRock/abrdn ya vistos en metales fisicos).",
           "calificacion": 4
         }
@@ -40,12 +40,12 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER 0.40% - **EL MAS CARO de los TRES ETFs de oro fisico del proyecto** (SGOL 0.17%, IAU 0.25%, GLD 0.40% - mas del doble que SGOL).",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
           "notas": "Sin contango, sin swaps, sin costo de roll de futuros - tracking difference deberia mantenerse cercano al TER, pero el TER mas alto de los tres implica un arrastre estructural permanente mayor que IAU/SGOL.",
           "calificacion": 3
         }
@@ -58,12 +58,12 @@
       "rating_promedio": null
     },
     {
-      "titulo": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+      "titulo": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -72,12 +72,12 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion; se infiere extremadamente ajustado dada la liquidez excepcional.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión; se infiere extremadamente ajustado dada la liquidez excepcional.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
@@ -89,62 +89,62 @@
       "rating_promedio": 4.0
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Numero de holdings y diversificacion",
+      "titulo": "Número de holdings y diversificación",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Sigue el LBMA Gold Price, misma metodologia simple y transparente que IAU/SGOL.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Sigue el LBMA Gold Price, misma metodología simple y transparente que IAU/SGOL.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 5.0
     },
     {
-      "titulo": "Reglas y frecuencia de rebalanceo del indice",
+      "titulo": "Reglas y frecuencia de rebalanceo del índice",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = **+28.03%** (practicamente identico a IAU +28.18% y SGOL +28.93%). Retorno desde inception (21.75 anios) = **+10.65% CAGR - LEVEMENTE MENOR que IAU (+11.08%)**, pese a ser incluso mas antiguo, explicado directamente por el TER mas alto (0.40% vs 0.25%) que erosiona el retorno neto de forma acumulativa sobre dos decadas.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = **+28.03%** (prácticamente identico a IAU +28.18% y SGOL +28.93%). Retorno desde inception (21.75 años) = **+10.65% CAGR - LEVEMENTE MENOR que IAU (+11.08%)**, pese a ser incluso mas antiguo, explicado directamente por el TER mas alto (0.40% vs 0.25%) que erosiona el retorno neto de forma acumulativa sobre dos décadas.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
+          "aspecto": "Volatilidad anualizada vs. categoría",
           "notas": "Volatilidad: rango de 52 semanas $305.19-$509.70 (ratio 1.67x) - **IDENTICO a IAU/SGOL**, consistente con seguir el mismo commodity y benchmark.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el perfil de riesgo deberia ser practicamente identico a IAU/SGOL dado que los tres siguen el mismo LBMA Gold Price.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero el perfil de riesgo deberia ser prácticamente identico a IAU/SGOL dado que los tres siguen el mismo LBMA Gold Price.",
           "calificacion": 3
         }
       ],
@@ -154,7 +154,7 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
           "notas": "Beta vs S&P 500 = 0.18 - **IDENTICO a IAU/SGOL**, consistente con el rol clasico del oro como activo refugio.",
           "calificacion": 3
         }
@@ -167,26 +167,26 @@
       "rating_promedio": null
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION A TRES BANDAS con IAU (fila 85) y SGOL (fila 84), ambos ya en el workbook**: GLD es el MAS CARO de los tres (0.40% vs 0.25% IAU vs 0.17% SGOL) Y tiene el CAGR desde inception MAS BAJO de los tres (+10.65% vs +11.08% IAU vs +8.83% SGOL) - a DIFERENCIA del caso IAU/SGOL (donde el mas caro, IAU, ganaba en CAGR), aqui GLD rompe ese patron: es el mas caro Y tiene el peor resultado neto de los tres. Su unica ventaja real es ser POR MUCHO el mas grande (2x IAU) y liquido (9x IAU en volumen USD) - relevante principalmente para operadores institucionales, mercados de opciones/derivados sobre GLD, o ejecucion de posiciones muy grandes sin impacto en precio. Para el inversor individual tipico, IAU parece la opcion mas eficiente de los tres (mejor CAGR, TER intermedio, liquidez aun solida).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN A TRES BANDAS con IAU (fila 85) y SGOL (fila 84), ambos ya en el workbook**: GLD es el MAS CARO de los tres (0.40% vs 0.25% IAU vs 0.17% SGOL) Y tiene el CAGR desde inception MAS BAJO de los tres (+10.65% vs +11.08% IAU vs +8.83% SGOL) - a DIFERENCIA del caso IAU/SGOL (donde el mas caro, IAU, ganaba en CAGR), aquí GLD rompe ese patrón: es el mas caro Y tiene el peor resultado neto de los tres. Su única ventaja real es ser POR MUCHO el mas grande (2x IAU) y liquido (9x IAU en volumen USD) - relevante principalmente para operadores institucionales, mercados de opciones/derivados sobre GLD, o ejecución de posiciones muy grandes sin impacto en precio. Para el inversor individual típico, IAU parece la opción mas eficiente de los tres (mejor CAGR, TER intermedio, liquidez aun sólida).",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Satelite**, mismo tratamiento que SGOL/IAU, con la ventaja de ser el vehiculo mas grande/liquido pero la desventaja de ser el mas caro y con el CAGR mas bajo de los tres ETFs de oro fisico del proyecto.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Satélite**, mismo tratamiento que SGOL/IAU, con la ventaja de ser el vehículo mas grande/liquido pero la desventaja de ser el mas caro y con el CAGR mas bajo de los tres ETFs de oro fisico del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: misma que IAU/SGOL (activo refugio/cobertura de inflacion), pero la liquidez masiva de GLD es principalmente relevante para operadores institucionales o quienes necesiten ejecutar posiciones muy grandes sin impacto en el precio - para el inversor individual tipico del proyecto, IAU ofrece mejor eficiencia neta de costo/retorno.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: misma que IAU/SGOL (activo refugio/cobertura de inflación), pero la liquidez masiva de GLD es principalmente relevante para operadores institucionales o quienes necesiten ejecutar posiciones muy grandes sin impacto en el precio - para el inversor individual típico del proyecto, IAU ofrece mejor eficiencia neta de costo/retorno.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: mismos que IAU/SGOL - (1) volatilidad del oro, contenida pero real; (2) tratamiento fiscal de 'collectible' en EEUU; (3) riesgo de custodia fisica (bajo, mitigado por doble custodio JPMorgan+HSBC); (4) single-commodity, cero diversificacion; (5) sin flujo de caja. Adicionalmente, el TER mas alto de los tres reduce el retorno neto de forma permanente, ya reflejado en el CAGR mas bajo del trio.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: mismos que IAU/SGOL - (1) volatilidad del oro, contenida pero real; (2) tratamiento fiscal de 'collectible' en EEUU; (3) riesgo de custodia física (bajo, mitigado por doble custodio JPMorgan+HSBC); (4) single-commodity, cero diversificación; (5) sin flujo de caja. Adicionalmente, el TER mas alto de los tres reduce el retorno neto de forma permanente, ya reflejado en el CAGR mas bajo del trio.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "IAU (fila 85, mismo commodity, mas barato y con mejor CAGR historico, ya en el workbook) parece la alternativa mas eficiente para la mayoria de los inversores. SGOL (fila 84, el mas barato de los tres) tambien relevante.",
+          "notas": "IAU (fila 85, mismo commodity, mas barato y con mejor CAGR histórico, ya en el workbook) parece la alternativa mas eficiente para la mayoría de los inversores. SGOL (fila 84, el mas barato de los tres) también relevante.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL, pero IAU parece mas eficiente para el inversor individual tipico. Score 3.67/5. SPDR Gold Shares, 'el ETF de oro mas grande del mundo': 100% oro fisico en boveda (Londres, doble custodio JPMorgan+HSBC), Grantor Trust sin futuros/swaps/apalancamiento - misma estructura fisica limpia que IAU (fila 85) y SGOL (fila 84). **Comparacion a tres bandas**: GLD es el MAS CARO de los tres ETFs de oro fisico del proyecto (TER 0.40% vs 0.25% IAU vs 0.17% SGOL) Y tiene el CAGR desde inception MAS BAJO de los tres (+10.65% vs +11.08% IAU vs +8.83% SGOL), pese a ser el mas antiguo de todos (21.75 anios). A diferencia del par IAU/SGOL -donde el mas caro, IAU, compensaba con mejor CAGR-, GLD rompe ese patron: paga el TER mas alto Y obtiene el peor resultado neto de los tres. Su ventaja real es ser POR MUCHO el mas grande (AUM $132.48bn, 2x IAU) y liquido (~$2.59bn/dia, 9x IAU en volumen USD) de TODOS los instrumentos de materias primas del proyecto - relevante principalmente para operadores institucionales, mercados de opciones/derivados sobre GLD, o ejecucion de posiciones muy grandes sin impacto en precio. Para el inversor individual tipico del proyecto, IAU parece la opcion mas eficiente del trio (mejor CAGR, TER intermedio, liquidez aun solida). Retorno 1Y = +28.03%, practicamente identico a IAU/SGOL. Volatilidad y beta identicos a IAU/SGOL (mismo commodity subyacente). Sigue sin calificar como Core. Se actualizaron retroactivamente las Fichas de IAU y SGOL con esta comparacion a tres bandas."
+    "tesis": "MANTENER/ACUMULAR GRADUAL, pero IAU parece mas eficiente para el inversor individual típico. Score 3.67/5. SPDR Gold Shares, 'el ETF de oro mas grande del mundo': 100% oro fisico en boveda (Londres, doble custodio JPMorgan+HSBC), Grantor Trust sin futuros/swaps/apalancamiento - misma estructura física limpia que IAU (fila 85) y SGOL (fila 84). **Comparación a tres bandas**: GLD es el MAS CARO de los tres ETFs de oro fisico del proyecto (TER 0.40% vs 0.25% IAU vs 0.17% SGOL) Y tiene el CAGR desde inception MAS BAJO de los tres (+10.65% vs +11.08% IAU vs +8.83% SGOL), pese a ser el mas antiguo de todos (21.75 años). A diferencia del par IAU/SGOL -donde el mas caro, IAU, compensaba con mejor CAGR-, GLD rompe ese patrón: paga el TER mas alto Y obtiene el peor resultado neto de los tres. Su ventaja real es ser POR MUCHO el mas grande (AUM $132.48bn, 2x IAU) y liquido (~$2.59bn/dia, 9x IAU en volumen USD) de TODOS los instrumentos de materias primas del proyecto - relevante principalmente para operadores institucionales, mercados de opciones/derivados sobre GLD, o ejecución de posiciones muy grandes sin impacto en precio. Para el inversor individual típico del proyecto, IAU parece la opción mas eficiente del trio (mejor CAGR, TER intermedio, liquidez aun sólida). Retorno 1Y = +28.03%, prácticamente identico a IAU/SGOL. Volatilidad y beta identicos a IAU/SGOL (mismo commodity subyacente). Sigue sin calificar como Core. Se actualizaron retroactivamente las Fichas de IAU y SGOL con esta comparación a tres bandas."
   }
 }

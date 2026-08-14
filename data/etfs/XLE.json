@@ -1,36 +1,36 @@
 {
   "nombre": "Energy Select Sector SPDR Fund",
   "ticker": "XLE",
-  "categoria": "Equity Sector (energia integrada: supermajors upstream+downstream, equipos y servicios petroleros - GICS completo, cap-weighted)",
+  "categoria": "Equity Sector (energía integrada: supermajors upstream+downstream, equipos y servicios petroleros - GICS completo, cap-weighted)",
   "emisor": "State Street (SPDR)",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA (misma metodologia de la familia SPDR Select Sector, igual que XLU/XLK).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA (misma metodología de la familia SPDR Select Sector, igual que XLU/XLK).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "100% empresas US (indice sectorial GICS Energy del S&P 500) - sin friccion fiscal internacional, pese a que las operaciones de las supermajors (XOM, CVX) son globales.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "100% empresas US (índice sectorial GICS Energy del S&P 500) - sin fricción fiscal internacional, pese a que las operaciones de las supermajors (XOM, CVX) son globales.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM entre $27.6bn y $38.45bn segun fuente/fecha (se uso $38.45bn, stockanalysis) - GRANDE, mas de 10 VECES el AUM de XOP ($3.6bn), su comparable mas directo dentro del sector energia del proyecto.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM entre $27.6bn y $38.45bn según fuente/fecha (se uso $38.45bn, stockanalysis) - GRANDE, mas de 10 VECES el AUM de XOP ($3.6bn), su comparable mas directo dentro del sector energía del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 16-dic-1998 (~27.7 anios) - EMPATA con XLU y XLK (mismo dia exacto de lanzamiento, TERCER SPDR Select Sector Fund del lote original analizado en esta sesion) como el track record MAS LARGO del proyecto.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 16-dic-1998 (~27.7 años) - EMPATA con XLU y XLK (mismo dia exacto de lanzamiento, TERCER SPDR Select Sector Fund del lote original analizado en esta sesión) como el track record MAS LARGO del proyecto.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor State Street (SPDR) - CUARTA aparicion en el proyecto (XOP, XLU, XLK, ahora XLE).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor State Street (SPDR) - CUARTA aparición en el proyecto (XOP, XLU, XLK, ahora XLE).",
           "calificacion": 5
         }
       ],
@@ -40,34 +40,34 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.08% - empata con XLU/XLK como de los mas baratos del proyecto, MUCHO mas barato que sus comparables directos de energia ya analizados: XOP (0.35%) y CRAK (0.61%).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.08% - empata con XLU/XLK como de los mas baratos del proyecto, MUCHO mas barato que sus comparables directos de energía ya analizados: XOP (0.35%) y CRAK (0.61%).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado esta sesion.",
+          "notas": "Securities lending revenue no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rebalanceo TRIMESTRAL - misma familia SPDR Select Sector que XLU/XLK, conocimiento general bien establecido, no verificado con fuente primaria especifica de XLE esta sesion.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL - misma familia SPDR Select Sector que XLU/XLK, conocimiento general bien establecido, no verificado con fuente primaria específica de XLE esta sesión.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 20,925,712 acciones (stockanalysis) x $58.77/accion (precio 10-ago-2026) = aprox **$1,230M/dia (~$1.23bn/dia) - NUEVO RECORD ABSOLUTO DE LIQUIDEZ DEL PROYECTO**, casi el doble de XLK ($681.3M/dia, el record de la sesion anterior).",
+          "notas": "Volumen diario = 20,925,712 acciones (stockanalysis) x $58.77/acción (precio 10-ago-2026) = aprox **$1,230M/dia (~$1.23bn/dia) - NUEVO RÉCORD ABSOLUTO DE LIQUIDEZ DEL PROYECTO**, casi el doble de XLK ($681.3M/dia, el récord de la sesión anterior).",
           "calificacion": 5
         },
         {
@@ -76,116 +76,116 @@
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Fondo enorme, liquidez record del proyecto, emisor mayor - profundidad de Authorized Participants excelente, sin duda.",
+          "notas": "Fondo enorme, liquidez récord del proyecto, emisor mayor - profundidad de Authorized Participants excelente, sin duda.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 4.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "24 holdings - el MENOR numero entre los ETFs sectoriales grandes del proyecto (menos que XOP, 54 holdings), reflejo de la metodologia cap-weighted concentrada en las majors mas grandes.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "24 holdings - el MENOR número entre los ETFs sectoriales grandes del proyecto (menos que XOP, 54 holdings), reflejo de la metodología cap-weighted concentrada en las majors mas grandes.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 73.32-75.66% segun fuente - MUY concentrado, cerca de ITA (76.65%)/URNM (78.59%), con SOLO DOS nombres (ExxonMobil 21.04% + Chevron 15.05%) sumando ya **36.09% del fondo**.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 73.32-75.66% según fuente - MUY concentrado, cerca de ITA (76.65%)/URNM (78.59%), con SOLO DOS nombres (ExxonMobil 21.04% + Chevron 15.05%) sumando ya **36.09% del fondo**.",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "100% Energy por definicion GICS (fondo sectorial puro) - mismo criterio de puntuacion ya aplicado a otros sectoriales 100%-concentrados del proyecto.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "100% Energy por definición GICS (fondo sectorial puro) - mismo criterio de puntuación ya aplicado a otros sectoriales 100%-concentrados del proyecto.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% empresas US en cotizacion (aunque las operaciones de XOM/CVX son globales) - limpio, sin friccion fiscal internacional directa.",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% empresas US en cotización (aunque las operaciones de XOM/CVX son globales) - limpio, sin fricción fiscal internacional directa.",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Perfil VALUE/defensivo de energia INTEGRADA (upstream+downstream+quimicos en las majors grandes), estructuralmente MENOS ciclico/especulativo que el E&P puro (XOP) o el refino puro (CRAK) ya analizados en el proyecto - mayor diversificacion interna de la cadena de valor energetica dentro de cada holding individual.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Perfil VALUE/defensivo de energía INTEGRADA (upstream+downstream+quimicos en las majors grandes), estructuralmente MENOS ciclico/especulativo que el E&P puro (XOP) o el refino puro (CRAK) ya analizados en el proyecto - mayor diversificación interna de la cadena de valor energetica dentro de cada holding individual.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P Energy Select Sector Index - proveedor S&P, clasificacion GICS pura, cap-weighted, 27.7 anios de trayectoria publica y estable.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P Energy Select Sector Index - proveedor S&P, clasificación GICS pura, cap-weighted, 27.7 años de trayectoria pública y estable.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo TRIMESTRAL (familia SPDR Select Sector, no verificado con fuente primaria especifica de XLE esta sesion).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo TRIMESTRAL (familia SPDR Select Sector, no verificado con fuente primaria específica de XLE esta sesión).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno desde inception = 8.90% anualizado en 27.7 anios - **MUCHO MEJOR que XOP (2.56% en 20 anios, el peor 'positivo' del proyecto) y que CRAK (12.67% en 11 anios, ventana mas corta)** - confirma la tesis ya anticipada en la Ficha original de XOP sobre el efecto de metodologia cap-weighted en integradas grandes (mas estable) vs equal-weight en E&P/refino mediano (mas ciclico). 1Y = +45.74%, muy fuerte, similar en magnitud al rally de REMX (+45.82%).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno desde inception = 8.90% anualizado en 27.7 años - **MUCHO MEJOR que XOP (2.56% en 20 años, el peor 'positivo' del proyecto) y que CRAK (12.67% en 11 años, ventana mas corta)** - confirma la tesis ya anticipada en la Ficha original de XOP sobre el efecto de metodología cap-weighted en integradas grandes (mas estable) vs equal-weight en E&P/refino mediano (mas ciclico). 1Y = +45.74%, muy fuerte, similar en magnitud al rally de REMX (+45.82%).",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Se encontro una cifra de volatilidad de 5.85% que se DESCARTO por implausiblemente baja para un ETF de renta variable (mismo patron recurrente ya visto en VYMI/XLU/XLK) - no se encontro una cifra alternativa confiable esta sesion, se dejo en blanco en el Dashboard.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Se encontro una cifra de volatilidad de 5.85% que se DESCARTO por implausiblemente baja para un ETF de renta variable (mismo patrón recurrente ya visto en VYMI/XLU/XLK) - no se encontro una cifra alternativa confiable esta sesión, se dejo en blanco en el Dashboard.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown = -71.26% desde inception - severo pero NOTABLEMENTE MENOR que XOP (-90.27%, el peor drawdown 'con retorno positivo' del proyecto) - consistente con el perfil menos ciclico de las integradas grandes diversificadas frente al E&P puro de mediana capitalizacion.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown = -71.26% desde inception - severo pero NOTABLEMENTE MENOR que XOP (-90.27%, el peor drawdown 'con retorno positivo' del proyecto) - consistente con el perfil menos ciclico de las integradas grandes diversificadas frente al E&P puro de mediana capitalización.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio = 1.95 (cifra reciente, unica fuente clara encontrada, sin contraparte de largo plazo) - fuerte, tratado con la misma cautela que XLU/XLK por ser probablemente una ventana corta/reciente favorable dado el rally del sector energia en 2025-2026.",
+          "notas": "Sharpe Ratio = 1.95 (cifra reciente, única fuente clara encontrada, sin contraparte de largo plazo) - fuerte, tratado con la misma cautela que XLU/XLK por ser probablemente una ventana corta/reciente favorable dado el rally del sector energía en 2025-2026.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.45 - BAJO, coherente con el perfil defensivo/diversificado de las supermajors integradas (notablemente menor que el riesgo implicito de XOP, con volatilidad de 33% y sin beta preciso documentado). **OVERLAP MODESTO**: solo Williams Companies (WMB, 3.98%) y Marathon Petroleum (MPC, 4.78%) del top10 estan analizados individualmente, sumando 8.76% del fondo - hallazgo interesante: NINGUNO de los DOS pesos pesados del fondo (ExxonMobil 21.04%, Chevron 15.05%, juntos 36.09%) esta analizado individualmente por el usuario, pese a ser las supermajors mas obvias del sector - el usuario ha priorizado analizar refinadoras/midstream medianas (MPC, WMB, y por extension DINO en XOP) en vez de las integradas gigantes.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.45 - BAJO, coherente con el perfil defensivo/diversificado de las supermajors integradas (notablemente menor que el riesgo implícito de XOP, con volatilidad de 33% y sin beta preciso documentado). **OVERLAP MODESTO**: solo Williams Companies (WMB, 3.98%) y Marathon Petroleum (MPC, 4.78%) del top10 estan analizados individualmente, sumando 8.76% del fondo - hallazgo interesante: NINGUNO de los DOS pesos pesados del fondo (ExxonMobil 21.04%, Chevron 15.05%, juntos 36.09%) esta analizado individualmente por el usuario, pese a ser las supermajors mas obvias del sector - el usuario ha priorizado analizar refinadoras/midstream medianas (MPC, WMB, y por extensión DINO en XOP) en vez de las integradas gigantes.",
           "calificacion": 4
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "27.7 anios de historial cubren MULTIPLES ciclos completos de petroleo/gas (1998-2026: incluye 2008, el colapso 2014-2016, los precios negativos de WTI en abril-2020, y el shock 2022) - evidencia extensa y robusta, con un comportamiento historicamente MAS RESILIENTE que XOP en esos mismos eventos.",
+          "notas": "27.7 años de historial cubren MÚLTIPLES ciclos completos de petróleo/gas (1998-2026: incluye 2008, el colapso 2014-2016, los precios negativos de WTI en abril-2020, y el shock 2022) - evidencia extensa y robusta, con un comportamiento históricamente MAS RESILIENTE que XOP en esos mismos eventos.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 20.94x - moderado, mas caro que XOP (14.54x)/CRAK (14.06x) pero MUCHO mas barato que la mayoria de los tematicos de IA/tech del proyecto - refleja una prima de calidad/estabilidad de las integradas grandes frente al perfil mas puro de 'value trap de pico de ciclo' ya documentado para XOP/CRAK/URA/URNM/REMX (aqui menos severo dado el perfil mas diversificado upstream+downstream+quimicos de cada holding).",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 20.94x - moderado, mas caro que XOP (14.54x)/CRAK (14.06x) pero MUCHO mas barato que la mayoría de los temáticos de IA/tech del proyecto - refleja una prima de calidad/estabilidad de las integradas grandes frente al perfil mas puro de 'value trap de pico de ciclo' ya documentado para XOP/CRAK/URA/URNM/REMX (aquí menos severo dado el perfil mas diversificado upstream+downstream+quimicos de cada holding).",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 2.53-2.71% segun fuente (razonablemente consistente), Payout Ratio = 55.27% - SOSTENIBLE. Distribucion probablemente TRIMESTRAL (estandar de la familia SPDR Select Sector, no confirmado con fuente primaria especifica de XLE esta sesion).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 2.53-2.71% según fuente (razonablemente consistente), Payout Ratio = 55.27% - SOSTENIBLE. Distribución probablemente TRIMESTRAL (estándar de la familia SPDR Select Sector, no confirmado con fuente primaria específica de XLE esta sesión).",
           "calificacion": 4
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - XLE es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**COMPARACION CABEZA A CABEZA CON XOP** (ya analizado en este workbook, fila 11 - competidor YA IDENTIFICADO desde el analisis original de XOP en una sesion previa, ahora VERIFICADO con datos propios): XLE es MUCHO mas barato en TER (0.08% vs 0.35%), mas de 10x mayor en AUM ($38bn vs $3.6bn), MUCHO mas liquido (record del proyecto, $1.23bn/dia vs $217.9M/dia de XOP), y tiene un retorno historico MUY superior (8.90% vs 2.56% anualizado) con un drawdown MENOS severo (-71.26% vs -90.27%). CONFIRMA de forma completa la tesis ya anticipada en la Ficha original de XOP: la metodologia cap-weighted de XLE (concentrada en integradas grandes diversificadas) produjo un vehiculo estructuralmente MEJOR que la metodologia equal-weight de XOP (E&P/refino de mediana capitalizacion, mas ciclico) dentro del MISMO sector energia. XLE es objetivamente superior a XOP en casi toda dimension para este usuario. | ACTUALIZACION posterior (ERX, fila 122): Direxion Daily Energy Bull 2X Shares, +2x diario sobre EL MISMO indice exacto que XLE -S&P Energy Select Sector Index-. La comparacion de costo de apalancamiento mas limpia de la categoria sector-equity del proyecto: XLE -1x, Score 3.85- vs ERX -2x, Score 2.38, Max Drawdown -99.5% a -99.54% -practicamente destruccion total de valor- y CAGR desde inception NEGATIVO -6.99% a -8.01% en 17.77 anios-. ERX nacio +3x en 2008 y Direxion redujo el apalancamiento a +2x apenas ~3 semanas antes del evento de precio NEGATIVO del WTI de abril-2020. Ver Ficha ERX fila 122 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**COMPARASIÓN CABEZA A CABEZA CON XOP** (ya analizado en este workbook, fila 11 - competidor YA IDENTIFICADO desde el analisis original de XOP en una sesión previa, ahora VERIFICADO con datos propios): XLE es MUCHO mas barato en TER (0.08% vs 0.35%), mas de 10x mayor en AUM ($38bn vs $3.6bn), MUCHO mas liquido (récord del proyecto, $1.23bn/dia vs $217.9M/dia de XOP), y tiene un retorno histórico MUY superior (8.90% vs 2.56% anualizado) con un drawdown MENOS severo (-71.26% vs -90.27%). CONFIRMA de forma completa la tesis ya anticipada en la Ficha original de XOP: la metodología cap-weighted de XLE (concentrada en integradas grandes diversificadas) produjo un vehículo estructuralmente MEJOR que la metodología equal-weight de XOP (E&P/refino de mediana capitalización, mas ciclico) dentro del MISMO sector energía. XLE es objetivamente superior a XOP en casi toda dimensión para este usuario. | ACTUALIZASIÓN posterior (ERX, fila 122): Direxion Daily Energy Bull 2X Shares, +2x diario sobre EL MISMO índice exacto que XLE -S&P Energy Select Sector Index-. La comparación de costo de apalancamiento mas limpia de la categoría sector-equity del proyecto: XLE -1x, Score 3.85- vs ERX -2x, Score 2.38, Max Drawdown -99.5% a -99.54% -prácticamente destrucción total de valor- y CAGR desde inception NEGATIVO -6.99% a -8.01% en 17.77 años-. ERX nacio +3x en 2008 y Direxion redujo el apalancamiento a +2x apenas ~3 semanas antes del evento de precio NEGATIVO del WTI de abril-2020. Ver Ficha ERX fila 122 para el detalle completo.",
           "calificacion": 5
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: overlap MODESTO (8.76%, solo WMB+MPC) con calidad estructural excelente (TER bajo, liquidez record, historial largo y comparativamente mejor que XOP/CRAK). Diversificador razonable dado que el usuario NO tiene analizadas las supermajors XOM/CVX individualmente. Rol: Satelite de exposicion sectorial de energia tradicional, de mayor calidad relativa que XOP/CRAK ya analizados.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: overlap MODESTO (8.76%, solo WMB+MPC) con calidad estructural excelente (TER bajo, liquidez récord, historial largo y comparativamente mejor que XOP/CRAK). Diversificador razonable dado que el usuario NO tiene analizadas las supermajors XOM/CVX individualmente. Rol: Satélite de exposición sectorial de energía tradicional, de mayor calidad relativa que XOP/CRAK ya analizados.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion de bajo costo a las supermajors integradas de energia, con un perfil MENOS especulativo/ciclico que XOP/CRAK/URA/URNM/REMX (todos REDUCIR/VENDER en este proyecto) - diversificador genuino frente al perfil growth/tech dominante en la cartera individual del usuario, complementando ademas los holdings medianos de energia ya analizados (MPC, WMB).",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición de bajo costo a las supermajors integradas de energía, con un perfil MENOS especulativo/ciclico que XOP/CRAK/URA/URNM/REMX (todos REDUCIR/VENDER en este proyecto) - diversificador genuino frente al perfil growth/tech dominante en la cartera individual del usuario, complementando además los holdings medianos de energía ya analizados (MPC, WMB).",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) concentracion severa en solo DOS nombres (XOM+CVX = 36.09% del fondo); (2) commodity ciclico, aunque menos que XOP/CRAK dado el perfil integrado y diversificado de cada holding; (3) sensibilidad a precios de petroleo/gas natural y politica energetica/regulatoria; (4) solo 24 holdings, el numero mas bajo entre los sectoriales grandes del proyecto.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentración severa en solo DOS nombres (XOM+CVX = 36.09% del fondo); (2) commodity ciclico, aunque menos que XOP/CRAK dado el perfil integrado y diversificado de cada holding; (3) sensibilidad a precios de petróleo/gas natural y política energetica/regulatoria; (4) solo 24 holdings, el número mas bajo entre los sectoriales grandes del proyecto.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Alternativas identificadas sin verificar con datos propios esta sesion: VDE (Vanguard Energy ETF) y FENY (Fidelity MSCI Energy Index ETF).",
+          "notas": "Alternativas identificadas sin verificar con datos propios esta sesión: VDE (Vanguard Energy ETF) y FENY (Fidelity MSCI Energy Index ETF).",
           "calificacion": 3
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.85/5, EMPATA con XLU y SPMO, cerca del top del proyecto (VTV 4.06, SCHD 4.03). XLE combina calidad estructural EXCEPCIONAL (TER de los mas bajos del proyecto 0.08%, liquidez RECORD ABSOLUTO del proyecto $1.23bn/dia, track record empatado como el mas largo -27.7 anios-) con un overlap MODESTO (solo 8.76%, WMB+MPC) y un perfil de riesgo/retorno MUCHO MEJOR que sus comparables directos de energia ya analizados en el proyecto (XOP Score 3.03, CRAK Score 2.91, ambos con retornos historicos pobres y drawdowns severos). Esta Ficha completa la comparacion cabeza a cabeza que ya estaba anticipada en la Ficha original de XOP desde su analisis: la metodologia CAP-WEIGHTED de XLE (concentrada en supermajors integradas XOM/CVX, diversificadas internamente en upstream+downstream+quimicos) resulto estructuralmente MEJOR que la metodologia EQUAL-WEIGHT de XOP (E&P/refino de mediana capitalizacion, mas ciclico y expuesto a shocks de precio spot) dentro del MISMO sector energia - confirmado ahora con datos verificados de ambos lados, no solo con la hipotesis original. Hallazgo interesante para el usuario: pese a haber analizado individualmente varias refinadoras/midstream medianas del sector energia (MPC, WMB, y DINO via XOP), NO tiene analizadas las dos supermajors mas grandes y obvias (ExxonMobil, Chevron), que juntas representan 36.09% de XLE - posible vacio a considerar si se quiere profundizar en analisis individual de energia en el futuro."
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.85/5, EMPATA con XLU y SPMO, cerca del top del proyecto (VTV 4.06, SCHD 4.03). XLE combina calidad estructural EXCEPCIONAL (TER de los mas bajos del proyecto 0.08%, liquidez RÉCORD ABSOLUTO del proyecto $1.23bn/dia, track record empatado como el mas largo -27.7 años-) con un overlap MODESTO (solo 8.76%, WMB+MPC) y un perfil de riesgo/retorno MUCHO MEJOR que sus comparables directos de energía ya analizados en el proyecto (XOP Score 3.03, CRAK Score 2.91, ambos con retornos históricos pobres y drawdowns severos). Esta Ficha completa la comparación cabeza a cabeza que ya estaba anticipada en la Ficha original de XOP desde su analisis: la metodología CAP-WEIGHTED de XLE (concentrada en supermajors integradas XOM/CVX, diversificadas internamente en upstream+downstream+quimicos) resulto estructuralmente MEJOR que la metodología EQUAL-WEIGHT de XOP (E&P/refino de mediana capitalización, mas ciclico y expuesto a shocks de precio spot) dentro del MISMO sector energía - confirmado ahora con datos verificados de ambos lados, no solo con la hipotesis original. Hallazgo interesante para el usuario: pese a haber analizado individualmente varias refinadoras/midstream medianas del sector energía (MPC, WMB, y DINO via XOP), NO tiene analizadas las dos supermajors mas grandes y obvias (ExxonMobil, Chevron), que juntas representan 36.09% de XLE - posible vacio a considerar si se quiere profundizar en analisis individual de energía en el futuro."
   }
 }

@@ -1,36 +1,36 @@
 {
   "nombre": "iShares 10-20 Year Treasury Bond ETF",
   "ticker": "TLH",
-  "categoria": "Renta Fija Gobierno (Treasuries EEUU, duracion larga ~12.2 anios, sin riesgo de credito)",
+  "categoria": "Renta Fija Gobierno (Treasuries EEUU, duración larga ~12.2 años, sin riesgo de crédito)",
   "emisor": "BlackRock/iShares",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA, probablemente COMPLETA dado el universo pequeno (61 bonos del Tesoro en la banda 10-20 anios) - no confirmado explicitamente esta sesion pero razonable dado el numero reducido de emisiones elegibles.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA, probablemente COMPLETA dado el universo pequeño (61 bonos del Tesoro en la banda 10-20 años) - no confirmado explícitamente esta sesión pero razonable dado el número reducido de emisiones elegibles.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US. **100% deuda soberana de EEUU** - el interes SI tributa como ingreso ordinario a nivel FEDERAL, pero esta EXENTO de impuestos estatales y locales (nueva ventaja fiscal del proyecto, distinta de VCSH/VCLT/VCIT/HYG, cuyo interes corporativo no goza de esta exencion).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US. **100% deuda soberana de EEUU** - el interés SI tributa como ingreso ordinario a nivel FEDERAL, pero esta EXENTO de impuestos estatales y locales (nueva ventaja fiscal del proyecto, distinta de VCSH/VCLT/VCIT/HYG, cuyo interés corporativo no goza de esta exención).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM = $10.91bn (stockanalysis, 10-ago-2026) / ~$9.95-9.96bn (marketbeat, fecha distinta) - tamano moderado, menor que VCIT/VCSH/LQD pero mayor que VCLT ($9.2bn).",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM = $10.91bn (stockanalysis, 10-ago-2026) / ~$9.95-9.96bn (marketbeat, fecha distinta) - tamaño moderado, menor que VCIT/VCSH/LQD pero mayor que VCLT ($9.2bn).",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 5-ene-2007 (~19.6 anios) - SEGUNDO track record de renta fija mas largo del proyecto tras LQD (24.1 anios), ligeramente mas antiguo que HYG (abr-2007). **Su historial incluye la crisis financiera 2008 COMPLETA, pero con un comportamiento OPUESTO al de HYG**: los Treasuries de larga duracion tipicamente se APRECIARON en 2008 (flight-to-quality), mientras el credito high yield colapso junto con las acciones - contraste cualitativo valioso, aunque el retorno numerico especifico de 2008 no se verifico con precision esta sesion.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 5-ene-2007 (~19.6 años) - SEGUNDO track record de renta fija mas largo del proyecto tras LQD (24.1 años), ligeramente mas antiguo que HYG (abr-2007). **Su historial incluye la crisis financiera 2008 COMPLETA, pero con un comportamiento OPUESTO al de HYG**: los Treasuries de larga duración tipicamente se APRECIARON en 2008 (flight-to-quality), mientras el crédito high yield colapso junto con las acciones - contraste cualitativo valioso, aunque el retorno numerico específico de 2008 no se verifico con precisión esta sesión.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - SEPTIMA aparicion en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, HYG, ahora TLH).",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - SEPTIMA aparición en el proyecto (IHAK, SOXX, ITA, ARTY, LQD, HYG, ahora TLH).",
           "calificacion": 5
         }
       ],
@@ -40,152 +40,152 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.15% - mas caro que los fondos Vanguard del proyecto (0.03%) y practicamente igual a LQD (0.14%), aunque mucho mas barato que HYG (0.49%). Para un fondo de Treasuries PUROS (sin necesidad de research crediticio), 0.15% es relativamente caro frente a alternativas: VGLT (Vanguard Long-Term Treasury, ~0.03-0.04%) o TLT (iShares 20+ Year Treasury, mas grande/liquido, TER similar).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.15% - mas caro que los fondos Vanguard del proyecto (0.03%) y prácticamente igual a LQD (0.14%), aunque mucho mas barato que HYG (0.49%). Para un fondo de Treasuries PUROS (sin necesidad de research crediticio), 0.15% es relativamente caro frente a alternativas: VGLT (Vanguard Long-Term Treasury, ~0.03-0.04%) o TLT (iShares 20+ Year Treasury, mas grande/liquido, TER similar).",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion. **Gotcha de bloqueo de BlackRock/iShares.com RECONFIRMADO por TERCERA vez** (ya documentado con LQD y HYG): tanto ishares.com como blackrock.com devolvieron error 403 en todos los intentos.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión. **Gotcha de bloqueo de BlackRock/iShares.com RECONFIRMADO por TERCERA vez** (ya documentado con LQD y HYG): tanto ishares.com como blackrock.com devolvieron error 403 en todos los intentos.",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion.",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Turnover rate no verificado con fuente primaria esta sesion (fact sheet oficial bloqueado, mismo patron que la fila 19).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Turnover rate no verificado con fuente primaria esta sesión (fact sheet oficial bloqueado, mismo patrón que la fila 19).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.75
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 1,144,806 acciones (stockanalysis) x $96.45/accion = aprox $110.4M/dia - MODESTO, el volumen MAS BAJO entre los ETFs de renta fija del proyecto (por debajo incluso de VCLT, $195.9M/dia), muy lejos de los records de LQD ($2.03bn) y HYG ($1.83bn).",
+          "notas": "Volumen diario = 1,144,806 acciones (stockanalysis) x $96.45/acción = aprox $110.4M/dia - MODESTO, el volumen MAS BAJO entre los ETFs de renta fija del proyecto (por debajo incluso de VCLT, $195.9M/dia), muy lejos de los records de LQD ($2.03bn) y HYG ($1.83bn).",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesion; el volumen mas modesto del grupo de renta fija sugiere un spread algo mas amplio que LQD/HYG/VCIT, aunque sigue siendo un ETF establecido y liquido en terminos absolutos.",
+          "notas": "Spread bid-ask exacto no verificado con fuente primaria esta sesión; el volumen mas modesto del grupo de renta fija sugiere un spread algo mas amplio que LQD/HYG/VCIT, aunque sigue siendo un ETF establecido y liquido en términos absolutos.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Fondo establecido de BlackRock, tamano mediano - profundidad de Authorized Participants razonable aunque no al nivel de los ETFs mas grandes del proyecto.",
+          "notas": "Fondo establecido de BlackRock, tamaño mediano - profundidad de Authorized Participants razonable aunque no al nivel de los ETFs mas grandes del proyecto.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "**61 holdings - EL MENOR NUMERO DE TODA LA RENTA FIJA DEL PROYECTO** (el anterior minimo era HYG, 1,333) - normal y esperado para un fondo de Treasuries de banda estrecha de vencimiento (10-20 anios): el universo de emisiones elegibles del Tesoro de EEUU en esa banda es simplemente pequeno, no una senal de riesgo.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "**61 holdings - EL MENOR NÚMERO DE TODA LA RENTA FIJA DEL PROYECTO** (el anterior mínimo era HYG, 1,333) - normal y esperado para un fondo de Treasuries de banda estrecha de vencimiento (10-20 años): el universo de emisiones elegibles del Tesoro de EEUU en esa banda es simplemente pequeño, no una señal de riesgo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 holdings = aprox 35.33% (calculado de stockanalysis) - MUY SUPERIOR a cualquier ETF de renta fija corporativa del proyecto (2.71%-4.34%)**, PERO metodologicamente IRRELEVANTE como senal de riesgo: todas las posiciones son bonos del MISMO emisor unico (Tesoro de EEUU) con identica garantia soberana - primera vez en el proyecto donde una alta concentracion porcentual NO representa mayor riesgo real. **Gotcha metodologico nuevo**: la metrica 'Top10 Holdings %' fue disenada pensando en diversificacion de RIESGO DE EMISOR (relevante en equity y renta fija corporativa), pero pierde sentido cuando el 100% del fondo comparte el mismo emisor de maxima calidad - no comparar directamente este numero contra los ETFs corporativos del proyecto sin esta salvedad.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 holdings = aprox 35.33% (calculado de stockanalysis) - MUY SUPERIOR a cualquier ETF de renta fija corporativa del proyecto (2.71%-4.34%)**, PERO metodologicamente IRRELEVANTE como señal de riesgo: todas las posiciones son bonos del MISMO emisor único (Tesoro de EEUU) con identica garantía soberana - primera vez en el proyecto donde una alta concentración porcentual NO representa mayor riesgo real. **Gotcha metodologico nuevo**: la métrica 'Top10 Holdings %' fue disenada pensando en diversificación de RIESGO DE EMISOR (relevante en equity y renta fija corporativa), pero pierde sentido cuando el 100% del fondo comparte el mismo emisor de maxima calidad - no comparar directamente este número contra los ETFs corporativos del proyecto sin esta salvedad.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "**100% Gobierno de EEUU, sin concentracion sectorial en el sentido tradicional** (no hay 'sectores' dentro de deuda soberana de un unico emisor) - a diferencia de VCSH/VCLT/VCIT/HYG, que reparten riesgo entre Finance/Industrial/Utilities/etc., aqui la 'concentracion' en un solo tipo de emisor es justamente la fuente de la maxima calidad crediticia del fondo, no un riesgo a mitigar.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "**100% Gobierno de EEUU, sin concentración sectorial en el sentido tradicional** (no hay 'sectores' dentro de deuda soberana de un único emisor) - a diferencia de VCSH/VCLT/VCIT/HYG, que reparten riesgo entre Finance/Industrial/Utilities/etc., aquí la 'concentración' en un solo tipo de emisor es justamente la fuente de la maxima calidad crediticia del fondo, no un riesgo a mitigar.",
           "calificacion": 5
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "100% deuda del Tesoro de EEUU (deuda soberana domestica) - sin diversificacion geografica por diseno de la categoria, pero tambien sin el riesgo cambiario o de retencion fiscal extranjera que si aplica a los ETFs internacionales del proyecto (VYMI, VXUS, etc.).",
+          "aspecto": "Concentración geográfica",
+          "notas": "100% deuda del Tesoro de EEUU (deuda soberana domestica) - sin diversificación geográfica por diseño de la categoría, pero también sin el riesgo cambiario o de retención fiscal extranjera que si aplica a los ETFs internacionales del proyecto (VYMI, VXUS, etc.).",
           "calificacion": 4
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "El 'factor' es DURACION LARGA (12.21 anios efectiva, vencimiento promedio 17.11 anios, banda del indice 10-20 anios) **SIN NINGUN componente de riesgo de credito** - PRIMERA VEZ que un ETF de renta fija del proyecto aisla PURAMENTE el riesgo de tasa de interes. Duracion casi IDENTICA a VCLT (12.21 vs 12.1 anios) - comparable directo para aislar el efecto del riesgo de credito sobre el comportamiento del precio (ver fila 41).",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "El 'factor' es DURASIÓN LARGA (12.21 años efectiva, vencimiento promedio 17.11 años, banda del índice 10-20 años) **SIN NINGÚN componente de riesgo de crédito** - PRIMERA VEZ que un ETF de renta fija del proyecto aisla PURAMENTE el riesgo de tasa de interés. Duración casi IDENTICA a VCLT (12.21 vs 12.1 años) - comparable directo para aislar el efecto del riesgo de crédito sobre el comportamiento del precio (ver fila 41).",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice ICE U.S. Treasury 10-20 Year Bond Index - metodologia simple y transparente (banda de vencimiento del Tesoro de EEUU, market-weighted).",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice ICE U.S. Treasury 10-20 Year Bond Index - metodología simple y transparente (banda de vencimiento del Tesoro de EEUU, market-weighted).",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesion (fact sheet oficial bloqueado, mismo patron que filas 19/21).",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesión (fact sheet oficial bloqueado, mismo patrón que filas 19/21).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 4.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = -0.10% (practicamente plano, stockanalysis, ago-2026). **Retorno desde inception (19.6 anios) = +2.77% anualizado - EL MAS BAJO DE TODA LA RENTA FIJA DEL PROYECTO** (menor que LQD 4.36%, VCLT 4.64%, VCIT 4.32%, HYG 4.95%) - refleja que los Treasuries de larga duracion han tenido el peor desempeno del ciclo de tasas reciente SIN ninguna compensacion de yield adicional por riesgo de credito (a diferencia de HYG, que al menos ofrece un yield mucho mayor como colchon).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = -0.10% (prácticamente plano, stockanalysis, ago-2026). **Retorno desde inception (19.6 años) = +2.77% anualizado - EL MAS BAJO DE TODA LA RENTA FIJA DEL PROYECTO** (menor que LQD 4.36%, VCLT 4.64%, VCIT 4.32%, HYG 4.95%) - refleja que los Treasuries de larga duración han tenido el peor desempeño del ciclo de tasas reciente SIN ninguna compensación de yield adicional por riesgo de crédito (a diferencia de HYG, que al menos ofrece un yield mucho mayor como colchon).",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "**Cifras de volatilidad DESCARTADAS por implausibles**: 2.53%-2.62% (PortfoliosLab) - estas cifras son estadisticamente INCOHERENTES con el propio Max Drawdown del fondo (-41.14%, fila 41): una volatilidad anualizada tan baja haria ese drawdown virtualmente imposible (requeriria un evento de mas de 15 desviaciones estandar). Mismo patron de gotcha ya documentado repetidamente en el proyecto (LQD, VCIT) pero aqui detectado por INCONSISTENCIA INTERNA con otra metrica del mismo fondo, no solo por implausibilidad aislada - nueva forma de aplicar el criterio de sospecha ya establecido.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "**Cifras de volatilidad DESCARTADAS por implausibles**: 2.53%-2.62% (PortfoliosLab) - estas cifras son estadisticamente INCOHERENTES con el propio Max Drawdown del fondo (-41.14%, fila 41): una volatilidad anualizada tan baja haria ese drawdown virtualmente imposible (requeriria un evento de mas de 15 desviaciones estándar). Mismo patrón de gotcha ya documentado repetidamente en el proyecto (LQD, VCIT) pero aquí detectado por INCONSISTENCIA INTERNA con otra métrica del mismo fondo, no solo por implausibilidad aislada - nueva forma de aplicar el criterio de sospecha ya establecido.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "**Max Drawdown = -41.14% desde inception (PortfoliosLab) - EL MAS SEVERO DE TODA LA RENTA FIJA DEL PROYECTO**, supera a HYG (-34.25%) y VCLT (-34.3%) PESE A NO TENER NINGUN RIESGO DE CREDITO. **Hallazgo no obvio de la sesion**: TLH tiene duracion casi identica a VCLT (12.21 vs 12.1 anios) pero un drawdown mas severo - la explicacion probable es que el ciclo de alzas de tasas 2022-2026 fue impulsado por FORTALEZA ECONOMICA/inflacion (no por una crisis de credito), lo que permitio que los SPREADS DE CREDITO de VCLT se COMPRIMIERAN (compensando parcialmente la caida de precio por tasas), mientras TLH (deuda soberana pura) no tiene ningun mecanismo de compensacion similar - la ausencia de riesgo de credito, paradojicamente, elimino tambien un posible AMORTIGUADOR de precio durante este ciclo especifico.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "**Max Drawdown = -41.14% desde inception (PortfoliosLab) - EL MAS SEVERO DE TODA LA RENTA FIJA DEL PROYECTO**, supera a HYG (-34.25%) y VCLT (-34.3%) PESE A NO TENER NINGÚN RIESGO DE CRÉDITO. **Hallazgo no obvio de la sesión**: TLH tiene duración casi identica a VCLT (12.21 vs 12.1 años) pero un drawdown mas severo - la explicación probable es que el ciclo de alzas de tasas 2022-2026 fue impulsado por FORTALEZA ECONÓMICA/inflación (no por una crisis de crédito), lo que permitio que los SPREADS DE CRÉDITO de VCLT se COMPRIMIERAN (compensando parcialmente la caida de precio por tasas), mientras TLH (deuda soberana pura) no tiene ningún mecanismo de compensación similar - la ausencia de riesgo de crédito, paradojicamente, elimino también un posible AMORTIGUADOR de precio durante este ciclo específico.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "**Cifras de Sharpe inconsistentes (0.62 / 0.70 / 0.38 segun la comparacion de PortfoliosLab)** - mismo patron de gotcha ya documentado repetidamente (SOXX, CIBR, LQD, VCIT, HYG). Se deja en blanco en el Dashboard.",
+          "notas": "**Cifras de Sharpe inconsistentes (0.62 / 0.70 / 0.38 según la comparación de PortfoliosLab)** - mismo patrón de gotcha ya documentado repetidamente (SOXX, CIBR, LQD, VCIT, HYG). Se deja en blanco en el Dashboard.",
           "calificacion": 2
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.43 (stockanalysis) - similar a LQD (0.44) PESE A NO TENER RIESGO DE CREDITO, lo que sugiere que la correlacion de un bono de duracion larga con las acciones proviene principalmente de la sensibilidad COMPARTIDA a las tasas de interes (que mueve a ambas clases de activo en ciertos regimenes macro), no solo del riesgo de credito. **Overlap con acciones individuales: NO APLICA por construccion** (100% deuda soberana de EEUU, cero emisores corporativos) - el diversificador de credito MAS PURO posible de todo el proyecto, incluso mas limpio que VCSH (que aunque de bajo riesgo, sigue siendo deuda CORPORATIVA).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.43 (stockanalysis) - similar a LQD (0.44) PESE A NO TENER RIESGO DE CRÉDITO, lo que sugiere que la correlación de un bono de duración larga con las acciones proviene principalmente de la sensibilidad COMPARTIDA a las tasas de interés (que mueve a ambas clases de activo en ciertos regimenes macro), no solo del riesgo de crédito. **Overlap con acciones individuales: NO APLICA por construcción** (100% deuda soberana de EEUU, cero emisores corporativos) - el diversificador de crédito MAS PURO posible de todo el proyecto, incluso mas limpio que VCSH (que aunque de bajo riesgo, sigue siendo deuda CORPORATIVA).",
           "calificacion": 5
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "19.6 anios de historial - segundo mas largo de renta fija del proyecto tras LQD - cubren la crisis financiera 2008 COMPLETA (con el comportamiento de 'flight-to-quality' tipico de los Treasuries largos, ver fila 14), la correccion COVID 2020, y el ciclo de alzas de tasas 2022-2026 (el peor tramo de su propio historial, ver filas 39/41).",
+          "notas": "19.6 años de historial - segundo mas largo de renta fija del proyecto tras LQD - cubren la crisis financiera 2008 COMPLETA (con el comportamiento de 'flight-to-quality' típico de los Treasuries largos, ver fila 14), la corrección COVID 2020, y el ciclo de alzas de tasas 2022-2026 (el peor tramo de su propio historial, ver filas 39/41).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 2.67
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
           "notas": "No aplica - TLH es un fondo 100% renta fija soberana, sin componente de equity (mismo criterio que el resto de renta fija del proyecto).",
           "calificacion": null
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield TTM = 4.62% (stockanalysis) / 4.44% (fuente alternativa, trailing) / 4.18% (marketbeat, fecha distinta) - cierta dispersion mayor que en los ETFs corporativos del proyecto, razonable dado que el yield de un fondo de Treasuries se mueve mecanicamente con el precio de mercado sin el ancla de un spread de credito. Distribucion MENSUAL.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield TTM = 4.62% (stockanalysis) / 4.44% (fuente alternativa, trailing) / 4.18% (marketbeat, fecha distinta) - cierta dispersión mayor que en los ETFs corporativos del proyecto, razonable dado que el yield de un fondo de Treasuries se mueve mecanicamente con el precio de mercado sin el ancla de un spread de crédito. Distribución MENSUAL.",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
-          "notas": "Duracion efectiva = 12.21 anios - **casi IDENTICA a VCLT (12.1 anios)**, el comparable directo mas cercano del proyecto para aislar el efecto del riesgo de credito (ver fila 41). Vencimiento promedio = 17.11 anios (banda del indice 10-20 anios por diseno). Yield ~4.44%-4.62% segun fuente. **Calidad crediticia: 100% Gobierno de EEUU - la MAXIMA CALIDAD CREDITICIA POSIBLE, PRIMERA VEZ en el proyecto con este nivel** (superior incluso al AAA/AA combinado ~10-12% de LQD o al AAA 0.3%+AA 7.4% de VCIT) - riesgo de default esencialmente nulo mientras el gobierno de EEUU mantenga su capacidad de pago en USD.",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
+          "notas": "Duración efectiva = 12.21 años - **casi IDENTICA a VCLT (12.1 años)**, el comparable directo mas cercano del proyecto para aislar el efecto del riesgo de crédito (ver fila 41). Vencimiento promedio = 17.11 años (banda del índice 10-20 años por diseño). Yield ~4.44%-4.62% según fuente. **Calidad crediticia: 100% Gobierno de EEUU - la MAXIMA CALIDAD CREDITICIA POSIBLE, PRIMERA VEZ en el proyecto con este nivel** (superior incluso al AAA/AA combinado ~10-12% de LQD o al AAA 0.3%+AA 7.4% de VCIT) - riesgo de default esencialmente nulo mientras el gobierno de EEUU mantenga su capacidad de pago en USD.",
           "calificacion": 5
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Sin un percentil de valoracion especifico de Treasuries verificado esta sesion (a diferencia del spread de credito usado en LQD/VCIT/HYG, la deuda soberana no tiene un 'spread' propio contra si misma - su valoracion se mide mas bien contra el nivel absoluto de tasas/forma de la curva, un marco no explorado a fondo esta sesion). Competidores identificados sin datos propios verificados: TLT (iShares 20+ Year Treasury, el fondo insignia de Treasuries largos, mas grande y liquido), VGLT (Vanguard Long-Term Treasury, mucho mas barato ~0.03-0.04%), IEF (iShares 7-10yr Treasury, duracion menor).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Sin un percentil de valoración específico de Treasuries verificado esta sesión (a diferencia del spread de crédito usado en LQD/VCIT/HYG, la deuda soberana no tiene un 'spread' propio contra si misma - su valoración se mide mas bien contra el nivel absoluto de tasas/forma de la curva, un marco no explorado a fondo esta sesión). Competidores identificados sin datos propios verificados: TLT (iShares 20+ Year Treasury, el fondo insignia de Treasuries largos, mas grande y liquido), VGLT (Vanguard Long-Term Treasury, mucho mas barato ~0.03-0.04%), IEF (iShares 7-10yr Treasury, duración menor).",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "**PRIMER ETF DE RENTA FIJA DE GOBIERNO (Treasuries) del proyecto** - el diversificador de CREDITO mas puro posible (cero riesgo de default, respaldo pleno del gobierno de EEUU), pero con el peor comportamiento reciente ajustado a riesgo de TODA la renta fija del proyecto (Max Drawdown record, retorno desde inception el mas bajo). Su funcion clasica de cartera es proteccion en crisis de RIESGO/CREDITO (2008-style, 'flight-to-quality'), no en crisis de TASAS como la actual. Se clasifica como **'Cobertura'** - mismo rol que VCSH pero por un mecanismo distinto (cero riesgo de credito por diseno, en vez de baja volatilidad por duracion corta).",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "**PRIMER ETF DE RENTA FIJA DE GOBIERNO (Treasuries) del proyecto** - el diversificador de CRÉDITO mas puro posible (cero riesgo de default, respaldo pleno del gobierno de EEUU), pero con el peor comportamiento reciente ajustado a riesgo de TODA la renta fija del proyecto (Max Drawdown récord, retorno desde inception el mas bajo). Su función clasica de cartera es protección en crisis de RIESGO/CRÉDITO (2008-style, 'flight-to-quality'), no en crisis de TASAS como la actual. Se clasifica como **'Cobertura'** - mismo rol que VCSH pero por un mecanismo distinto (cero riesgo de crédito por diseño, en vez de baja volatilidad por duración corta).",
           "calificacion": 4
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion pura a duracion larga sin ningun riesgo de credito - diversificador teorico valioso especificamente en escenarios de estres de MERCADO/CREDITO tipo 2008, aunque el ciclo reciente (2022-2026, alzas de tasas por inflacion/fortaleza economica en vez de crisis crediticia) ha sido el peor escenario posible para este tipo de exposicion pura a tasas.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición pura a duración larga sin ningún riesgo de crédito - diversificador teorico valioso específicamente en escenarios de estres de MERCADO/CRÉDITO tipo 2008, aunque el ciclo reciente (2022-2026, alzas de tasas por inflación/fortaleza económica en vez de crisis crediticia) ha sido el peor escenario posible para este tipo de exposición pura a tasas.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) **riesgo de tasa de interes MUY ALTO** (duracion 12.21 anios, SIN ningun colchon de spread de credito que compense, a diferencia de VCLT); (2) el escenario MACRO actual (tasas largas bajo presion, mismo contexto ya documentado en LQD con el umbral del Treasury a 30 anios >5.25%) es estructuralmente adverso para este tipo de exposicion; (3) TER relativamente caro para ser Treasuries puros (0.15%, existen alternativas mas baratas como VGLT); (4) el interes tributa como ingreso ordinario a nivel FEDERAL (aunque exento de impuestos estatales/locales, ver fila 12).",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) **riesgo de tasa de interés MUY ALTO** (duración 12.21 años, SIN ningún colchon de spread de crédito que compense, a diferencia de VCLT); (2) el escenario MACRO actual (tasas largas bajo presión, mismo contexto ya documentado en LQD con el umbral del Treasury a 30 años >5.25%) es estructuralmente adverso para este tipo de exposición; (3) TER relativamente caro para ser Treasuries puros (0.15%, existen alternativas mas baratas como VGLT); (4) el interés tributa como ingreso ordinario a nivel FEDERAL (aunque exento de impuestos estatales/locales, ver fila 12).",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "TLT (iShares 20+ Year Treasury, el fondo insignia de Treasuries largos, mas grande/liquido), VGLT (Vanguard Long-Term Treasury, mucho mas barato ~0.03-0.04%) e IEF (iShares 7-10yr Treasury, duracion menor) identificados como alternativas, sin comparacion con datos propios verificados esta sesion.",
+          "notas": "TLT (iShares 20+ Year Treasury, el fondo insignia de Treasuries largos, mas grande/liquido), VGLT (Vanguard Long-Term Treasury, mucho mas barato ~0.03-0.04%) e IEF (iShares 7-10yr Treasury, duración menor) identificados como alternativas, sin comparación con datos propios verificados esta sesión.",
           "calificacion": 4
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.52/5 - moderado, reflejo de un contraste genuino entre la MAXIMA CALIDAD CREDITICIA POSIBLE (100% Gobierno de EEUU, PRIMER ETF de renta fija de gobierno del proyecto, diversificador de credito mas puro incluso que VCSH) y el PEOR PERFIL DE RIESGO/RETORNO RECIENTE DE TODA LA RENTA FIJA DEL PROYECTO: Max Drawdown -41.14% (record del proyecto en renta fija, supera incluso a HYG y VCLT pese a no tener riesgo de credito) y retorno desde inception +2.77% anualizado (el mas bajo de renta fija del proyecto). **Hallazgo central de la sesion**: comparado directamente con VCLT (duracion casi identica, 12.21 vs 12.1 anios), TLH tuvo un desempeno PEOR pese a no cargar riesgo de credito - el ciclo de alzas de tasas 2022-2026, impulsado por fortaleza economica en vez de crisis crediticia, permitio que los spreads de VCLT se comprimieran (amortiguando parcialmente la caida de precio), mientras TLH no tuvo ese colchon. Decision ESPERAR MEJOR ENTRADA (mismo tratamiento que LQD, Score justo por encima de 3.5 combinado con una senal de riesgo/valoracion real): aqui la razon no es un spread de credito comprimido (no aplica a Treasuries) sino la EXPOSICION PURA Y SIN AMORTIGUADOR al riesgo de tasas de interes de largo plazo en un entorno macro donde las tasas largas siguen bajo presion (mismo contexto de umbral de 30yr Treasury >5.25% ya documentado en LQD). Rol en Portafolio: 'Cobertura' - TLH cumpliria su funcion clasica en una crisis de CREDITO/MERCADO (2008-style), no necesariamente en el entorno actual de tasas altas persistentes. TER (0.15%) relativamente caro frente a alternativas mas baratas (VGLT ~0.03-0.04%) para una exposicion de Treasuries puros."
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.52/5 - moderado, reflejo de un contraste genuino entre la MAXIMA CALIDAD CREDITICIA POSIBLE (100% Gobierno de EEUU, PRIMER ETF de renta fija de gobierno del proyecto, diversificador de crédito mas puro incluso que VCSH) y el PEOR PERFIL DE RIESGO/RETORNO RECIENTE DE TODA LA RENTA FIJA DEL PROYECTO: Max Drawdown -41.14% (récord del proyecto en renta fija, supera incluso a HYG y VCLT pese a no tener riesgo de crédito) y retorno desde inception +2.77% anualizado (el mas bajo de renta fija del proyecto). **Hallazgo central de la sesión**: comparado directamente con VCLT (duración casi identica, 12.21 vs 12.1 años), TLH tuvo un desempeño PEOR pese a no cargar riesgo de crédito - el ciclo de alzas de tasas 2022-2026, impulsado por fortaleza económica en vez de crisis crediticia, permitio que los spreads de VCLT se comprimieran (amortiguando parcialmente la caida de precio), mientras TLH no tuvo ese colchon. Decisión ESPERAR MEJOR ENTRADA (mismo tratamiento que LQD, Score justo por encima de 3.5 combinado con una señal de riesgo/valoración real): aquí la razón no es un spread de crédito comprimido (no aplica a Treasuries) sino la EXPOSISIÓN PURA Y SIN AMORTIGUADOR al riesgo de tasas de interés de largo plazo en un entorno macro donde las tasas largas siguen bajo presión (mismo contexto de umbral de 30yr Treasury >5.25% ya documentado en LQD). Rol en Portafolio: 'Cobertura' - TLH cumpliria su función clasica en una crisis de CRÉDITO/MERCADO (2008-style), no necesariamente en el entorno actual de tasas altas persistentes. TER (0.15%) relativamente caro frente a alternativas mas baratas (VGLT ~0.03-0.04%) para una exposición de Treasuries puros."
   }
 }

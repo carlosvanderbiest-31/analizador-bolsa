@@ -1,7 +1,7 @@
 {
   "empresa": "Adobe Inc.",
   "ticker": "ADBE",
-  "sector": "Tecnologia - Software creativo y de experiencia digital (Creative Cloud, Document Cloud, Experience Cloud)",
+  "sector": "Tecnología - Software creativo y de experiencia digital (Creative Cloud, Document Cloud, Experience Cloud)",
   "fecha_analisis": "2026-08-07",
   "analista": null,
   "secciones": [
@@ -15,17 +15,17 @@
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat historicamente muy fuerte (estandares de facto de la industria, costos de cambio altos, bloqueo por formatos de archivo) pero BAJO PRUEBA REAL por primera vez en decadas: la IA generativa esta reduciendo la barrera de habilidad que protegia el poder de fijacion de precios de Adobe - cuando un prompt de texto puede producir una imagen de marketing aceptable en segundos, esa prima se vuelve mas dificil de justificar para el usuario no profesional.",
+          "notas": "Moat históricamente muy fuerte (estandares de facto de la industria, costos de cambio altos, bloqueo por formatos de archivo) pero BAJO PRUEBA REAL por primera vez en décadas: la IA generativa esta reduciendo la barrera de habilidad que protegia el poder de fijación de precios de Adobe - cuando un prompt de texto puede producir una imagen de marketing aceptable en segundos, esa prima se vuelve mas difícil de justificar para el usuario no profesional.",
           "calificacion": 3
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Sigue dominante en grandes empresas con flujos de trabajo complejos y estandares de marca (Experience Cloud, reservas empresariales de 10 millones de USD o mas creciendo mas de 25 por ciento), pero perdiendo terreno con individuos-startups-equipos pequenios frente a Figma y Canva (Canva alcanzo 4 mil millones USD de ARR, +35 por ciento interanual, con valoracion potencial de IPO de 195 a 210 mil millones USD - mayor que la capitalizacion de mercado actual de Adobe).",
+          "notas": "Sigue dominante en grandes empresas con flujos de trabajo complejos y estandares de marca (Experience Cloud, reservas empresariales de 10 millones de USD o mas creciendo mas de 25 por ciento), pero perdiendo terreno con individuos-startups-equipos pequenios frente a Figma y Canva (Canva alcanzo 4 mil millones USD de ARR, +35 por ciento interanual, con valoración potencial de IPO de 195 a 210 mil millones USD - mayor que la capitalización de mercado actual de Adobe).",
           "calificacion": 3
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Poder de fijacion de precios bajo amenaza real y documentada por analistas independientes en el segmento prosumer-individual, aunque las cuentas empresariales de mayor tamanio muestran mayor resiliencia. Firefly (IA generativa propia) ya supero 18 mil millones de generaciones en menos de dos anios, un intento de reconvertir la amenaza en oportunidad de monetizacion.",
+          "notas": "Poder de fijación de precios bajo amenaza real y documentada por analistas independientes en el segmento prosumer-individual, aunque las cuentas empresariales de mayor tamanio muestran mayor resiliencia. Firefly (IA generativa propia) ya supero 18 mil millones de generaciones en menos de dos años, un intento de reconvertir la amenaza en oportunidad de monetización.",
           "calificacion": 3
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Programa de recompras muy agresivo y consistente (2 a 3.5 mil millones USD por trimestre desde 2022, 2.5 mil millones USD solo en el 1T 2026), con una nueva autorizacion de 25 mil millones USD anunciada - financiado con FCF, no con deuda. Nota historica relevante: el intento de adquirir Figma fue bloqueado por reguladores antimonopolio en 2023 - Figma ahora es un competidor directo relevante, un fallo estrategico notable en retrospectiva.",
+          "notas": "Programa de recompras muy agresivo y consistente (2 a 3.5 mil millones USD por trimestre desde 2022, 2.5 mil millones USD solo en el 1T 2026), con una nueva autorización de 25 mil millones USD anunciada - financiado con FCF, no con deuda. Nota histórica relevante: el intento de adquirir Figma fue bloqueado por reguladores antimonopolio en 2023 - Figma ahora es un competidor directo relevante, un fallo estratégico notable en retrospectiva.",
           "calificacion": 4
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "RIESGO DE TRANSICION DE LIDERAZGO: el CEO Shantanu Narayen (18 anios en el cargo) anuncio el 12-mar-2026 su decision de dejar el puesto una vez se nombre un sucesor - a la fecha de este analisis (7-ago-2026), NO se ha nombrado sucesor. El consejo formo un comite especial (presidido por Frank Calderoni) para evaluar candidatos internos y externos. Una vacante de liderazgo sin resolver justo en medio de la transicion critica hacia IA generativa es un riesgo real, no solo tecnico.",
+          "notas": "RIESGO DE TRANSISIÓN DE LIDERAZGO: el CEO Shantanu Narayen (18 años en el cargo) anuncio el 12-mar-2026 su decisión de dejar el puesto una vez se nombre un sucesor - a la fecha de este analisis (7-ago-2026), NO se ha nombrado sucesor. El consejo formo un comite especial (presidido por Frank Calderoni) para evaluar candidatos internos y externos. Una vacante de liderazgo sin resolver justo en medio de la transición critica hacia IA generativa es un riesgo real, no solo técnico.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion estandar y transparente, incluida la comunicacion proactiva sobre el proceso de busqueda de CEO. Sin senales de alerta de transparencia identificadas en esta sesion.",
+          "notas": "Divulgación estándar y transparente, incluida la comunicación proactiva sobre el proceso de busqueda de CEO. Sin señales de alerta de transparencia identificadas en esta sesión.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Balance muy solido: caja mas inversiones de corto plazo 6.89 mil millones USD (6.332 mil millones de caja mas 558 millones de inversiones de renta fija), deuda total 6.228 mil millones USD - practicamente caja neta neutra (aprox 0.66 mil millones USD de caja neta), sin apalancamiento relevante.",
+          "notas": "Balance muy sólido: caja mas inversiones de corto plazo 6.89 mil millones USD (6.332 mil millones de caja mas 558 millones de inversiones de renta fija), deuda total 6.228 mil millones USD - prácticamente caja neta neutra (aprox 0.66 mil millones USD de caja neta), sin apalancamiento relevante.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Liquidez solida, caja e inversiones de corto plazo cubren comodamente la deuda total.",
+          "notas": "Liquidez sólida, caja e inversiones de corto plazo cubren comodamente la deuda total.",
           "calificacion": 5
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "Emisiones de deuda en may-2024 y feb-2025 (aprox 4 mil millones USD combinados) parcialmente compensadas con pagos - sin pared de vencimientos critica identificada en esta sesion.",
+          "notas": "Emisiones de deuda en may-2024 y feb-2025 (aprox 4 mil millones USD combinados) parcialmente compensadas con pagos - sin pared de vencimientos critica identificada en esta sesión.",
           "calificacion": 4
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Activos totales 29.704 mil millones USD, patrimonio 11.433 mil millones USD (relativamente delgado en relacion al tamanio de la empresa por anios de recompras agresivas, patron similar al ya visto en V-MA-NVDA-LLY). Balance con goodwill-intangibles de adquisiciones historicas ademas de software propio.",
+          "notas": "Activos totales 29.704 mil millones USD, patrimonio 11.433 mil millones USD (relativamente delgado en relación al tamanio de la empresa por años de recompras agresivas, patrón similar al ya visto en V-MA-NVDA-LLY). Balance con goodwill-intangibles de adquisiciones históricas además de software propio.",
           "calificacion": 3
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margenes excelentes, entre los mejores del Dashboard: utilidad neta TTM 7.23 mil millones USD sobre ingresos de 25.20 mil millones USD = margen neto aprox 28.7 por ciento. Margen de FCF aprox 40.9 por ciento.",
+          "notas": "Márgenes excelentes, entre los mejores del Dashboard: utilidad neta TTM 7.23 mil millones USD sobre ingresos de 25.20 mil millones USD = margen neto aprox 28.7 por ciento. Margen de FCF aprox 40.9 por ciento.",
           "calificacion": 5
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE muy alto (aprox 63.2 por ciento, utilidad neta 7.23bn USD sobre patrimonio 11.433bn USD) - impulsado en parte por el patrimonio delgado producto de anios de recompras agresivas, no solo por eficiencia operativa pura, pero de cualquier forma refleja una generacion de valor solida sobre el capital desplegado.",
+          "notas": "ROE muy alto (aprox 63.2 por ciento, utilidad neta 7.23bn USD sobre patrimonio 11.433bn USD) - impulsado en parte por el patrimonio delgado producto de años de recompras agresivas, no solo por eficiencia operativa pura, pero de cualquier forma refleja una generación de valor sólida sobre el capital desplegado.",
           "calificacion": 5
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Modelo SaaS eficiente con facturacion por suscripcion y bajas necesidades de capital de trabajo.",
+          "notas": "Modelo SaaS eficiente con facturación por suscripción y bajas necesidades de capital de trabajo.",
           "calificacion": 4
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "Crecimiento solido pero desacelerando desde el ritmo historico de Adobe: ingresos TTM +11.5 por ciento, FY2025 +10.53 por ciento - todavia doble digito, pero ahora enfrentando vientos en contra competitivos reales por primera vez en mucho tiempo.",
+          "notas": "Crecimiento sólido pero desacelerando desde el ritmo histórico de Adobe: ingresos TTM +11.5 por ciento, FY2025 +10.53 por ciento - todavía doble digito, pero ahora enfrentando vientos en contra competitivos reales por primera vez en mucho tiempo.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Historicamente muy consistente, pero el futuro es genuinamente mas incierto de lo usual para Adobe dado el riesgo de disrupcion por IA y la vacante de CEO - el pasado no es tan buena guia de la trayectoria futura como en la mayoria de las empresas de calidad del Dashboard.",
+          "notas": "Históricamente muy consistente, pero el futuro es genuinamente mas incierto de lo usual para Adobe dado el riesgo de disrupción por IA y la vacante de CEO - el pasado no es tan buena guia de la trayectoria futura como en la mayoría de las empresas de calidad del Dashboard.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Monetizacion de Firefly (IA generativa propia, 18 mil millones de generaciones, reservas empresariales de mas de 10 millones de USD creciendo mas de 25 por ciento), continuidad de Document Cloud-Experience Cloud, y potencial expansion del mercado direccionable si la IA atrae a usuarios no profesionales que antes no pagaban por herramientas creativas - una historia genuinamente de dos caras (la IA amenaza pero tambien podria expandir el mercado).",
+          "notas": "Monetización de Firefly (IA generativa propia, 18 mil millones de generaciones, reservas empresariales de mas de 10 millones de USD creciendo mas de 25 por ciento), continuidad de Document Cloud-Experience Cloud, y potencial expansión del mercado direccionable si la IA atrae a usuarios no profesionales que antes no pagaban por herramientas creativas - una historia genuinamente de dos caras (la IA amenaza pero también podría expandir el mercado).",
           "calificacion": 3
         }
       ],
@@ -130,7 +130,7 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Calidad de ganancias alta: FCF (10.3bn USD) supera comodamente la utilidad neta (7.23bn USD) - sin distorsiones identificadas, patron limpio similar al de FTNT.",
+          "notas": "Calidad de ganancias alta: FCF (10.3bn USD) supera comodamente la utilidad neta (7.23bn USD) - sin distorsiones identificadas, patrón limpio similar al de FTNT.",
           "calificacion": 5
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Recompras muy agresivas y consistentes (nueva autorizacion de 25 mil millones USD) financiadas con FCF - genuinamente favorable al accionista, aunque cabe preguntarse si en un momento de amenaza real al moat convendria destinar una porcion mayor del capital a defender la posicion competitiva (I mas D, M&A en IA) en vez de solo recompras.",
+          "notas": "Recompras muy agresivas y consistentes (nueva autorización de 25 mil millones USD) financiadas con FCF - genuinamente favorable al accionista, aunque cabe preguntarse si en un momento de amenaza real al moat convendria destinar una porción mayor del capital a defender la posición competitiva (I mas D, M&A en IA) en vez de solo recompras.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P sobre E TTM apenas 14.88x (adelantado 10.03x) - notablemente BARATO frente al historial propio de Adobe y frente a la mayoria de las empresas de software de calidad similar del Dashboard, reflejo del descuento que el mercado aplica por el riesgo de disrupcion de IA. El precio objetivo promedio de analistas (269.61 USD) esta apenas 1.47 por ciento por encima del precio actual (265.70 USD) - el consenso de Wall Street valida el precio actual como razonable, SIN ver el descuento como una oportunidad clara, a diferencia de este DCF propio (ver fila 42).",
+          "notas": "P sobre E TTM apenas 14.88x (adelantado 10.03x) - notablemente BARATO frente al historial propio de Adobe y frente a la mayoría de las empresas de software de calidad similar del Dashboard, reflejo del descuento que el mercado aplica por el riesgo de disrupción de IA. El precio objetivo promedio de analistas (269.61 USD) esta apenas 1.47 por ciento por encima del precio actual (265.70 USD) - el consenso de Wall Street valida el precio actual como razonable, SIN ver el descuento como una oportunidad clara, a diferencia de este DCF propio (ver fila 42).",
           "calificacion": 4
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "DCF propio, escenario adoptado: FCF base aprox 10.3 mil millones USD (limpio, ver fila 36). Crecimiento con fade de 11 a 6 por ciento en 5 anios (moderado deliberadamente respecto al historial de Adobe, para reflejar el riesgo genuino de erosion de precio-asientos por IA generativa documentado en la fila 13). WACC 12.2 por ciento (CAPM: Beta 1.40, confiable, decadas de historial; Rf 3.5 por ciento, ERP 5.5 por ciento = costo de equity 11.2 por ciento; mas una prima de riesgo cualitativa de 1 punto porcentual por la vacante de CEO sin resolver mas el riesgo de disrupcion competitiva, similar en espiritu a la prima ya aplicada en BABA-WMB-ORCL). Terminal growth 4 por ciento estandar (no reducido, porque el riesgo aqui es de disrupcion competitiva especifica, no de un sector estructuralmente maduro-bajo-crecimiento como telecom). Valor Intrinseco resultante: aprox 394.60 USD por accion.",
+          "notas": "DCF propio, escenario adoptado: FCF base aprox 10.3 mil millones USD (limpio, ver fila 36). Crecimiento con fade de 11 a 6 por ciento en 5 años (moderado deliberadamente respecto al historial de Adobe, para reflejar el riesgo genuino de erosión de precio-asientos por IA generativa documentado en la fila 13). WACC 12.2 por ciento (CAPM: Beta 1.40, confiable, décadas de historial; Rf 3.5 por ciento, ERP 5.5 por ciento = costo de equity 11.2 por ciento; mas una prima de riesgo cualitativa de 1 punto porcentual por la vacante de CEO sin resolver mas el riesgo de disrupción competitiva, similar en espiritu a la prima ya aplicada en BABA-WMB-ORCL). Terminal growth 4 por ciento estándar (no reducido, porque el riesgo aquí es de disrupción competitiva específica, no de un sector estructuralmente maduro-bajo-crecimiento como telecom). Valor Intrínseco resultante: aprox 394.60 USD por acción.",
           "calificacion": 4
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "Margen de Seguridad: aprox +48.5 por ciento (precio actual 265.70 USD vs IV 394.60 USD) - zona de Comprar solida. Sensibilidad B (escenario pesimista, fade 8 a 2 por ciento en 5 anios, simulando que la disrupcion de IA realmente erosiona el crecimiento de forma severa, no adoptado): IV aprox 333.05 USD, MS todavia **+25.3 por ciento** - incluso bajo un supuesto de crecimiento muy pesimista, el margen de seguridad sigue siendo positivo y en zona de Comprar, porque la base de partida (multiplo P sobre E de solo 14.88x) ya esta muy comprimida. Esto es una **divergencia notable en la direccion OPUESTA** a la de CRWD-ORCL-CRWV (donde el DCF propio era mucho MAS PESIMISTA que el consenso alcista de Wall Street): aqui el DCF propio es mas OPTIMISTA que el consenso de analistas, que ve el precio actual como aproximadamente correcto. Documentar esta tension explicitamente: la tesis de Comprar depende de que el mercado este sobre-descontando el riesgo de disrupcion de IA en relacion a lo que sugieren incluso escenarios de crecimiento bastante pesimistas - si el riesgo de disrupcion resulta ser peor de lo que cualquiera de los dos escenarios de este DCF contempla (ej. perdida de asientos empresariales, no solo prosumer), la conclusion podria revertirse.",
+          "notas": "Margen de Seguridad: aprox +48.5 por ciento (precio actual 265.70 USD vs IV 394.60 USD) - zona de Comprar sólida. Sensibilidad B (escenario pesimista, fade 8 a 2 por ciento en 5 años, simulando que la disrupción de IA realmente erosiona el crecimiento de forma severa, no adoptado): IV aprox 333.05 USD, MS todavía **+25.3 por ciento** - incluso bajo un supuesto de crecimiento muy pesimista, el margen de seguridad sigue siendo positivo y en zona de Comprar, porque la base de partida (múltiplo P sobre E de solo 14.88x) ya esta muy comprimida. Esto es una **divergencia notable en la dirección OPUESTA** a la de CRWD-ORCL-CRWV (donde el DCF propio era mucho MAS PESIMISTA que el consenso alcista de Wall Street): aquí el DCF propio es mas OPTIMISTA que el consenso de analistas, que ve el precio actual como aproximadamente correcto. Documentar esta tensión explícitamente: la tesis de Comprar depende de que el mercado este sobre-descontando el riesgo de disrupción de IA en relación a lo que sugieren incluso escenarios de crecimiento bastante pesimistas - si el riesgo de disrupción resulta ser peor de lo que cualquiera de los dos escenarios de este DCF contempla (ej. pérdida de asientos empresariales, no solo prosumer), la conclusión podría revertirse.",
           "calificacion": 4
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "TAM grande pero en redefinicion activa por la IA generativa: podria EXPANDIRSE (mas usuarios no profesionales creando contenido) o CONTRAERSE en su forma actual (comoditizacion de tareas creativas basicas) - genuina incertidumbre sobre los limites futuros del mercado direccionable, no solo su tamanio.",
+          "notas": "TAM grande pero en redefinición activa por la IA generativa: podría EXPANDIRSE (mas usuarios no profesionales creando contenido) o CONTRAERSE en su forma actual (comoditización de tareas creativas básicas) - genuina incertidumbre sobre los limites futuros del mercado direccionable, no solo su tamanio.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Historicamente muy altas (ecosistema integrado, bloqueo por formato de archivo, complejidad de flujos de trabajo empresariales), pero la IA generativa esta reduciendo las barreras para casos de uso basicos-prosumer especificamente - una erosion de barrera real y documentada en parte del mercado.",
+          "notas": "Históricamente muy altas (ecosistema integrado, bloqueo por formato de archivo, complejidad de flujos de trabajo empresariales), pero la IA generativa esta reduciendo las barreras para casos de uso básicos-prosumer específicamente - una erosión de barrera real y documentada en parte del mercado.",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad en fuerte aumento (Figma, Canva, OpenAI-Sora, multiples startups nativas de IA), poder de comprador en aumento para el segmento individual-PYME (muchas alternativas gratuitas-economicas ahora viables), poder de comprador mas moderado en el segmento empresarial (costos de cambio todavia altos ahi), amenaza de sustitutos real y creciente (herramientas de IA generativa), barreras de entrada mas bajas que historicamente para casos de uso basicos.",
+          "notas": "Rivalidad en fuerte aumento (Figma, Canva, OpenAI-Sora, múltiples startups nativas de IA), poder de comprador en aumento para el segmento individual-PYME (muchas alternativas gratuitas-económicas ahora viables), poder de comprador mas moderado en el segmento empresarial (costos de cambio todavía altos ahi), amenaza de sustitutos real y creciente (herramientas de IA generativa), barreras de entrada mas bajas que históricamente para casos de uso básicos.",
           "calificacion": 2
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "El gasto en software creativo-de marketing puede ser sensible a recortes de presupuesto en recesiones, aunque el componente de suscripcion recurrente amortigua parte de esa ciclicidad.",
+          "notas": "El gasto en software creativo-de marketing puede ser sensible a recortes de presupuesto en recesiones, aunque el componente de suscripción recurrente amortigua parte de esa ciclicidad.",
           "calificacion": 3
         }
       ],
@@ -203,22 +203,22 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo regulatorio moderado: historial de escrutinio antimonopolio (el propio intento de adquisicion de Figma fue bloqueado en 2023), ademas de preguntas legales emergentes sobre derechos de autor-datos de entrenamiento relevantes para Firefly.",
+          "notas": "Riesgo regulatorio moderado: historial de escrutinio antimonopolio (el propio intento de adquisición de Figma fue bloqueado en 2023), además de preguntas legales emergentes sobre derechos de autor-datos de entrenamiento relevantes para Firefly.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion cambiaria relevante por ingresos internacionales, tipica de una empresa de software global - no cuantificada con precision en esta sesion.",
+          "notas": "Exposición cambiaria relevante por ingresos internacionales, típica de una empresa de software global - no cuantificada con precisión en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Sin concentracion de clientes relevante: base de clientes muy diversificada entre consumidores individuales y empresas globalmente - fortaleza genuina.",
+          "notas": "Sin concentración de clientes relevante: base de clientes muy diversificada entre consumidores individuales y empresas globalmente - fortaleza genuina.",
           "calificacion": 5
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "RIESGO CENTRAL Y PRINCIPAL DE ESTA FICHA: la IA generativa esta erosionando estructuralmente la barrera de habilidad que protegia el poder de fijacion de precios de Adobe por decadas. Competidores bien financiados y de rapido crecimiento (Canva 4bn USD de ARR +35 por ciento, Figma, OpenAI-Sora con asociacion de Disney para generacion de personajes con licencia) atacan activamente el segmento prosumer-individual. El segmento empresarial muestra mayor resiliencia por ahora, pero el riesgo de que la disrupcion escale hacia arriba en el mercado es real y no descartable.",
+          "notas": "RIESGO CENTRAL Y PRINCIPAL DE ESTA FICHA: la IA generativa esta erosionando estructuralmente la barrera de habilidad que protegia el poder de fijación de precios de Adobe por décadas. Competidores bien financiados y de rápido crecimiento (Canva 4bn USD de ARR +35 por ciento, Figma, OpenAI-Sora con asociación de Disney para generación de personajes con licencia) atacan activamente el segmento prosumer-individual. El segmento empresarial muestra mayor resiliencia por ahora, pero el riesgo de que la disrupción escale hacia arriba en el mercado es real y no descartable.",
           "calificacion": 2
         },
         {
@@ -239,12 +239,12 @@
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "No investigado con profundidad en esta sesion (dato pendiente) - seria util revisar actividad de insiders alrededor de la transicion de CEO en una sesion futura.",
+          "notas": "No investigado con profundidad en esta sesión (dato pendiente) - seria util revisar actividad de insiders alrededor de la transición de CEO en una sesión futura.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Precio objetivo promedio de analistas (269.61 USD) practicamente igual al precio actual (265.70 USD, +1.47 por ciento) - el consenso de Wall Street ve el precio actual como razonable, no como una oportunidad clara, en contraste con el resultado mucho mas alcista de este DCF propio (ver fila 42) - divergencia notable a monitorear.",
+          "notas": "Precio objetivo promedio de analistas (269.61 USD) prácticamente igual al precio actual (265.70 USD, +1.47 por ciento) - el consenso de Wall Street ve el precio actual como razonable, no como una oportunidad clara, en contraste con el resultado mucho mas alcista de este DCF propio (ver fila 42) - divergencia notable a monitorear.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.6486486486486487,
-    "recomendacion": "COMPRAR - con cautela por la vacante de CEO sin resolver y el riesgo de disrupcion por IA generativa",
-    "tesis": "Negocio de software de altisima calidad (margenes, FCF, balance) cotizando a un multiplo genuinamente comprimido (P sobre E adelantado de solo 10x) por el temor del mercado a la disrupcion de IA generativa sobre su moat historico - el DCF propio sugiere una infravaloracion sustancial incluso bajo supuestos de crecimiento pesimistas, pero el consenso de analistas no comparte ese optimismo y una vacante de CEO sin resolver anade incertidumbre de liderazgo justo en el momento mas critico de la transicion competitiva."
+    "recomendacion": "COMPRAR - con cautela por la vacante de CEO sin resolver y el riesgo de disrupción por IA generativa",
+    "tesis": "Negocio de software de altisima calidad (márgenes, FCF, balance) cotizando a un múltiplo genuinamente comprimido (P sobre E adelantado de solo 10x) por el temor del mercado a la disrupción de IA generativa sobre su moat histórico - el DCF propio sugiere una infravaloración sustancial incluso bajo supuestos de crecimiento pesimistas, pero el consenso de analistas no comparte ese optimismo y una vacante de CEO sin resolver anade incertidumbre de liderazgo justo en el momento mas critico de la transición competitiva."
   }
 }

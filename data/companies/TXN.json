@@ -1,7 +1,7 @@
 {
   "empresa": "Texas Instruments Incorporated",
   "ticker": "TXN",
-  "sector": "Tecnologia - Semiconductores Analogicos y Embebidos de Proposito General",
+  "sector": "Tecnología - Semiconductores Analogicos y Embebidos de Proposito General",
   "fecha_analisis": "2026-08-12",
   "analista": null,
   "secciones": [
@@ -15,17 +15,17 @@
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat excepcional - el portfolio de productos analogicos mas amplio de la industria, escala de manufactura interna (objetivo ~95% de obleas propias para 2030 tras la construccion del complejo de Sherman, Texas de USD30bn), switching costs reales en disenios embebidos de largo ciclo de vida.",
+          "notas": "Moat excepcional - el portfolio de productos analogicos mas amplio de la industria, escala de manufactura interna (objetivo ~95% de obleas propias para 2030 tras la construcción del complejo de Sherman, Texas de USD30bn), switching costs reales en disenios embebidos de largo ciclo de vida.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Recuperacion analogica en curso descrita como 'amplia pero no un rebote brusco' - industrial normalizando, automotriz aun rezagado; nuevo segmento de centros de datos +70% tras su primer reporte separado; capex guiado a la baja (USD2-3bn 2026 desde el pico de USD4.8-5.1bn) senala que la mayor parte de la expansion de capacidad ya se completo.",
+          "notas": "Recuperación analogica en curso descrita como 'amplia pero no un rebote brusco' - industrial normalizando, automotriz aun rezagado; nuevo segmento de centros de datos +70% tras su primer reporte separado; capex guiado a la baja (USD2-3bn 2026 desde el pico de USD4.8-5.1bn) senala que la mayor parte de la expansión de capacidad ya se completo.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Margen bruto 58.33%, operativo 38.07% - de los mas altos y resilientes de la industria de semiconductores incluso durante el ciclo bajo reciente, refleja pricing power genuino de decadas.",
+          "notas": "Margen bruto 58.33%, operativo 38.07% - de los mas altos y resilientes de la industria de semiconductores incluso durante el ciclo bajo reciente, refleja pricing power genuino de décadas.",
           "calificacion": 5
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Dividend Aristocrat con historial largo de aumentos consecutivos, pero el payout ratio actual sobre utilidad neta GAAP (100.97%) supera el 100% - el dividendo no esta totalmente cubierto por la utilidad neta actual (aunque si por el FCF en recuperacion, USD5.36bn TTM), reflejo del ciclo bajo reciente y del capex elevado de la construccion del complejo de Sherman; recompras historicamente activas tambien reducidas durante el ciclo de inversion.",
+          "notas": "Dividend Aristocrat con historial largo de aumentos consecutivos, pero el payout ratio actual sobre utilidad neta GAAP (100.97%) supera el 100% - el dividendo no esta totalmente cubierto por la utilidad neta actual (aunque si por el FCF en recuperación, USD5.36bn TTM), reflejo del ciclo bajo reciente y del capex elevado de la construcción del complejo de Sherman; recompras históricamente activas también reducidas durante el ciclo de inversión.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "Transacciones de insiders netamente negativas (Insider Trans -12.61%), propiedad interna baja (0.32%) - sin senal fuerte positiva.",
+          "notas": "Transacciones de insiders netamente negativas (Insider Trans -12.61%), propiedad interna baja (0.32%) - sin señal fuerte positiva.",
           "calificacion": 2
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion trimestral detallada con guia de capex clara y actualizada (rango recortado y mas especifico, senal de mayor confianza-visibilidad de la gerencia), nuevo desglose de segmento de centros de datos.",
+          "notas": "Divulgación trimestral detallada con guia de capex clara y actualizada (rango recortado y mas específico, señal de mayor confianza-visibilidad de la gerencia), nuevo desglose de segmento de centros de datos.",
           "calificacion": 4
         }
       ],
@@ -62,17 +62,17 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda neta ~USD10.39bn, Debt/Equity 0.72-0.78x - mas apalancado que la mayoria de sus pares de semiconductores (financiamiento parcial del complejo de Sherman via deuda), aunque manejable dado el FCF en recuperacion y el rating crediticio historicamente muy solido de TXN.",
+          "notas": "Deuda neta ~USD10.39bn, Debt/Equity 0.72-0.78x - mas apalancado que la mayoría de sus pares de semiconductores (financiamiento parcial del complejo de Sherman via deuda), aunque manejable dado el FCF en recuperación y el rating crediticio históricamente muy sólido de TXN.",
           "calificacion": 3
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 4.86x, prueba acida 2.93-3.44x - liquidez EXCEPCIONAL, de las mas altas de todo el Dashboard.",
+          "notas": "Razón corriente 4.86x, prueba acida 2.93-3.44x - liquidez EXCEPCIONAL, de las mas altas de todo el Dashboard.",
           "calificacion": 5
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "No verificado en detalle en esta sesion (pendiente); TXN tiene historicamente uno de los ratings crediticios mas altos del sector (AA-/A+).",
+          "notas": "No verificado en detalle en esta sesión (pendiente); TXN tiene históricamente uno de los ratings crediticios mas altos del sector (AA-/A+).",
           "calificacion": 4
         },
         {
@@ -93,12 +93,12 @@
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 34.97-35.31%, ROIC 19.47-25.03%, ambos comodamente por encima del WACC (~10.4%), spread positivo solido - notablemente mejor que ON (unico caso del cluster sin spread claro).",
+          "notas": "ROE 34.97-35.31%, ROIC 19.47-25.03%, ambos comodamente por encima del WACC (~10.4%), spread positivo sólido - notablemente mejor que ON (único caso del cluster sin spread claro).",
           "calificacion": 4
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos moderada (~0.54x), ciclo de conversion de efectivo mejorando con la recuperacion del ciclo.",
+          "notas": "Rotación de activos moderada (~0.54x), ciclo de conversión de efectivo mejorando con la recuperación del ciclo.",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR ingresos 5 anios apenas 4.10% (Finviz, refleja el ciclo bajo reciente), crecimiento reciente en fuerte recuperacion (accion +64% en 2026), guia de capex a la baja senala confianza en el ciclo actual - crecimiento genuino de recuperacion, no un pico especulativo.",
+          "notas": "CAGR ingresos 5 años apenas 4.10% (Finviz, refleja el ciclo bajo reciente), crecimiento reciente en fuerte recuperación (acción +64% en 2026), guia de capex a la baja senala confianza en el ciclo actual - crecimiento genuino de recuperación, no un pico especulativo.",
           "calificacion": 3
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Ciclo bajo real ya materializado y en proceso de recuperacion 'amplia pero no brusca' segun la propia empresa (industrial normalizando, automotriz aun rezagado) - similar en espiritu al patron de ON pero desde una posicion de moat mucho mas solida.",
+          "notas": "Ciclo bajo real ya materializado y en proceso de recuperación 'amplia pero no brusca' según la propia empresa (industrial normalizando, automotriz aun rezagado) - similar en espiritu al patrón de ON pero desde una posición de moat mucho mas sólida.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Fin del ciclo de capex mayor (Sherman 300mm ya en produccion desde dic-2025, objetivo ~95% de obleas propias para 2030), nuevo segmento de centros de datos +70%, recuperacion gradual de industrial-automotriz, contenido de semiconductores creciendo estructuralmente en electrificacion-automatizacion.",
+          "notas": "Fin del ciclo de capex mayor (Sherman 300mm ya en producción desde dic-2025, objetivo ~95% de obleas propias para 2030), nuevo segmento de centros de datos +70%, recuperación gradual de industrial-automotriz, contenido de semiconductores creciendo estructuralmente en electrificación-automatización.",
           "calificacion": 4
         }
       ],
@@ -130,22 +130,22 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo TTM USD8.67bn vs utilidad neta TTM implicita ~USD6.00bn (market cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
+          "notas": "Flujo de caja operativo TTM USD8.67bn vs utilidad neta TTM implícita ~USD6.00bn (market cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM USD5.36bn, surgiendo +256% interanual a medida que el capex del ciclo de construccion de Sherman se normaliza (de USD4.8-5.1bn pico a USD2-3bn guiado para 2026) - inflexion genuina de 'ano de cosecha', no un pico ciclico especulativo a evitar sino el fin natural de un ciclo de inversion plurianual ya anunciado.",
+          "notas": "FCF TTM USD5.36bn, surgiendo +256% interanual a medida que el capex del ciclo de construcción de Sherman se normaliza (de USD4.8-5.1bn pico a USD2-3bn guiado para 2026) - inflexion genuina de 'ano de cosecha', no un pico ciclico especulativo a evitar sino el fin natural de un ciclo de inversión plurianual ya anunciado.",
           "calificacion": 4
         },
         {
           "aspecto": "Capex: mantenimiento vs. crecimiento",
-          "notas": "Capex TTM USD3.31bn (17% de ingresos, aun elevado pero bajando desde el pico de 25-26% de ingresos en 2023-2024), guiado a USD2-3bn para 2026 - la mayor parte de la expansion estructural (complejo de Sherman) ya esta hecha.",
+          "notas": "Capex TTM USD3.31bn (17% de ingresos, aun elevado pero bajando desde el pico de 25-26% de ingresos en 2023-2024), guiado a USD2-3bn para 2026 - la mayor parte de la expansión estructural (complejo de Sherman) ya esta hecha.",
           "calificacion": 3
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Dividendo Dividend Aristocrat aunque con payout sobre utilidad neta superior al 100% actualmente (cubierto por FCF en recuperacion, no por utilidad neta GAAP); inversion masiva y ya mayormente completada en capacidad interna (Sherman).",
+          "notas": "Dividendo Dividend Aristocrat aunque con payout sobre utilidad neta superior al 100% actualmente (cubierto por FCF en recuperación, no por utilidad neta GAAP); inversión masiva y ya mayormente completada en capacidad interna (Sherman).",
           "calificacion": 3
         }
       ],
@@ -161,7 +161,7 @@
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (adoptado, WACC 10.4% CAPM literal -beta 1.32 no degenerado-, crecimiento con fade 12%->6% en 5 anios, FCF base TTM ya reflejando la inflexion post-capex de Sherman, terminal 4%): USD106.91/accion, MS -61.3%. Escenario B (optimista, growth 20%->10%, no adoptado): USD139.78/accion, MS -49.5% - ambos escenarios se mantienen solidamente negativos, muy por debajo del piso -20% de vender.",
+          "notas": "Escenario A (adoptado, WACC 10.4% CAPM literal -beta 1.32 no degenerado-, crecimiento con fade 12%->6% en 5 años, FCF base TTM ya reflejando la inflexion post-capex de Sherman, terminal 4%): USD106.91/acción, MS -61.3%. Escenario B (optimista, growth 20%->10%, no adoptado): USD139.78/acción, MS -49.5% - ambos escenarios se mantienen solidamente negativos, muy por debajo del piso -20% de vender.",
           "calificacion": 1
         },
         {
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de semiconductores analogicos-embebidos grande y en expansion estructural de largo plazo (electrificacion, automatizacion industrial, contenido de semiconductores creciente por vehiculo-fabrica), diversificacion adicional hacia centros de datos de IA.",
+          "notas": "Mercado de semiconductores analogicos-embebidos grande y en expansión estructural de largo plazo (electrificación, automatización industrial, contenido de semiconductores creciente por vehículo-fabrica), diversificación adicional hacia centros de datos de IA.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas - portfolio de mas de 80,000 SKUs, escala de manufactura interna sin precedentes en la industria analogica, decadas de relaciones de disenio embebido con clientes de largo ciclo de vida.",
+          "notas": "Muy altas - portfolio de mas de 80,000 SKUs, escala de manufactura interna sin precedentes en la industria analogica, décadas de relaciones de disenio embebido con clientes de largo ciclo de vida.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad moderada (Analog Devices, Infineon, STMicroelectronics, ON Semiconductor -ya en el Dashboard- como competidores en distintos nichos analogicos); poder de negociacion del comprador bajo-moderado (base de clientes extremadamente diversificada y fragmentada, sin cliente dominante); poder de proveedores bajo (fabricacion interna); amenaza de sustitutos baja; barreras de entrada muy altas.",
+          "notas": "Rivalidad moderada (Analog Devices, Infineon, STMicroelectronics, ON Semiconductor -ya en el Dashboard- como competidores en distintos nichos analogicos); poder de negociación del comprador bajo-moderado (base de clientes extremadamente diversificada y fragmentada, sin cliente dominante); poder de proveedores bajo (fabricación interna); amenaza de sustitutos baja; barreras de entrada muy altas.",
           "calificacion": 4
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Genuinamente ciclico (ya demostrado con el ciclo bajo 2023-2025), aunque la diversificacion extrema de clientes-aplicaciones (miles de clientes, ningun cliente dominante) suaviza la volatilidad relativa a competidores mas concentrados.",
+          "notas": "Genuinamente ciclico (ya demostrado con el ciclo bajo 2023-2025), aunque la diversificación extrema de clientes-aplicaciones (miles de clientes, ningún cliente dominante) suaviza la volatilidad relativa a competidores mas concentrados.",
           "calificacion": 3
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Riesgo bajo-moderado, exposicion limitada a controles de exportacion especificos (productos analogicos generalmente menos sensibles que los mas avanzados de IA-logica de punta), no cuantificado en detalle en esta sesion.",
+          "notas": "Riesgo bajo-moderado, exposición limitada a controles de exportación específicos (productos analogicos generalmente menos sensibles que los mas avanzados de IA-logica de punta), no cuantificado en detalle en esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional significativa, riesgo cambiario tipico de una tecnologica global de este tamano.",
+          "notas": "Exposición internacional significativa, riesgo cambiario típico de una tecnologica global de este tamaño.",
           "calificacion": 3
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de clientes EXTREMADAMENTE diversificada (decenas de miles de clientes en industrial-automotriz-electronica personal), sin concentracion de cliente unico relevante - uno de los perfiles de diversificacion de clientes mas solidos del Dashboard.",
+          "notas": "Base de clientes EXTREMADAMENTE diversificada (decenas de miles de clientes en industrial-automotriz-electronica personal), sin concentración de cliente único relevante - uno de los perfiles de diversificación de clientes mas sólidos del Dashboard.",
           "calificacion": 5
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo bajo - los semiconductores analogicos tienen ciclos de vida de producto muy largos y switching costs altos en disenios embebidos, menos expuestos a disrupcion tecnologica rapida que segmentos digitales-logica avanzada.",
+          "notas": "Riesgo bajo - los semiconductores analogicos tienen ciclos de vida de producto muy largos y switching costs altos en disenios embebidos, menos expuestos a disrupción tecnologica rápida que segmentos digitales-logica avanzada.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesión.",
           "calificacion": 4
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Proximos resultados trimestrales - clave para confirmar si la recuperacion de automotriz finalmente sigue a industrial, y si el capex se mantiene en el rango guiado de USD2-3bn.",
+          "notas": "Proximos resultados trimestrales - clave para confirmar si la recuperación de automotriz finalmente sigue a industrial, y si el capex se mantiene en el rango guiado de USD2-3bn.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "Transacciones de insiders netamente negativas (Insider Trans -12.61%) - senal de toma de utilidades tras el rally de +64% en 2026, sin refuerzo positivo.",
+          "notas": "Transacciones de insiders netamente negativas (Insider Trans -12.61%) - señal de toma de utilidades tras el rally de +64% en 2026, sin refuerzo positivo.",
           "calificacion": 2
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso mas neutral (recomendacion 2.14 Finviz), objetivo promedio USD331.36 (+19.8% de alza) - en direccion OPUESTA al DCF propio, aunque con divergencia de magnitud moderada comparada con el cluster de IA en pico.",
+          "notas": "Consenso mas neutral (recomendación 2.14 Finviz), objetivo promedio USD331.36 (+19.8% de alza) - en dirección OPUESTA al DCF propio, aunque con divergencia de magnitud moderada comparada con el cluster de IA en pico.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.5675675675675675,
-    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoracion exigente que ya anticipa la recuperacion) - Score Total 3.57/5 (moat solido, portfolio analogico mas amplio de la industria, margenes resilientes) es notablemente MEJOR que ON (2.76), pero el Margen de Seguridad es severamente negativo (-61.3%, Escenario A) porque el precio YA RALLYO +64% en 2026 anticipando el 'ano de cosecha' post-capex de Sherman. A diferencia de ON (cuyo precio sigue deprimido -38% desde maximos), aqui el mercado ya se adelanto a la recuperacion. Escenario B optimista (growth 20%->10%, no adoptado) sigue dando -49.5% - conclusion robusta. Consenso de analistas (objetivo +19.8%) en direccion opuesta al DCF, aunque con divergencia de magnitud moderada.",
-    "tesis": "El fabricante del portfolio de semiconductores analogicos mas amplio de la industria, con el mayor ciclo de inversion de capacidad de su historia (complejo de Sherman, USD30bn) ya mayormente completado y el FCF surgiendo como resultado, cotiza a multiplos que ya anticipan una recuperacion ciclica multianual sustancial tras un rally de +64% en 2026, dejando poco margen de seguridad pese a la calidad genuina del negocio subyacente."
+    "recomendacion": "VENDER O REDUCIR - NO COMPRAR (valoración exigente que ya anticipa la recuperación) - Score Total 3.57/5 (moat sólido, portfolio analogico mas amplio de la industria, márgenes resilientes) es notablemente MEJOR que ON (2.76), pero el Margen de Seguridad es severamente negativo (-61.3%, Escenario A) porque el precio YA RALLYO +64% en 2026 anticipando el 'ano de cosecha' post-capex de Sherman. A diferencia de ON (cuyo precio sigue deprimido -38% desde máximos), aquí el mercado ya se adelanto a la recuperación. Escenario B optimista (growth 20%->10%, no adoptado) sigue dando -49.5% - conclusión robusta. Consenso de analistas (objetivo +19.8%) en dirección opuesta al DCF, aunque con divergencia de magnitud moderada.",
+    "tesis": "El fabricante del portfolio de semiconductores analogicos mas amplio de la industria, con el mayor ciclo de inversión de capacidad de su historia (complejo de Sherman, USD30bn) ya mayormente completado y el FCF surgiendo como resultado, cotiza a múltiplos que ya anticipan una recuperación ciclica multianual sustancial tras un rally de +64% en 2026, dejando poco margen de seguridad pese a la calidad genuina del negocio subyacente."
   }
 }

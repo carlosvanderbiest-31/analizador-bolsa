@@ -1,35 +1,35 @@
 {
   "nombre": "abrdn Physical Silver Shares ETF",
   "ticker": "SIVR",
-  "categoria": "Materias Primas Fisico 1x (plata fisica en boveda, SIN futuros/swaps/apalancamiento - DECIMO instrumento de materias primas del proyecto, PRIMERO respaldado 100% por metal fisico, estructura la mas limpia de la categoria: sin contango, sin decay, sin K-1)",
+  "categoria": "Materias Primas Fisico 1x (plata física en boveda, SIN futuros/swaps/apalancamiento - DECIMO instrumento de materias primas del proyecto, PRIMERO respaldado 100% por metal fisico, estructura la mas limpia de la categoría: sin contango, sin decay, sin K-1)",
   "emisor": "abrdn (ex-Aberdeen Standard)",
   "fecha_analisis": "2026-08-11",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA: 100% plata fisica en boveda custodiada por JPMorgan en Londres - Grantor Trust, SIN futuros, SIN swaps, SIN apalancamiento. Estructura la MAS SIMPLE y limpia de toda la categoria de materias primas del proyecto (a diferencia de KOLD-UCO/BNO/USO, todos basados en derivados).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA: 100% plata física en boveda custodiada por JPMorgan en Londres - Grantor Trust, SIN futuros, SIN swaps, SIN apalancamiento. Estructura la MAS SIMPLE y limpia de toda la categoría de materias primas del proyecto (a diferencia de KOLD-UCO/BNO/USO, todos basados en derivados).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, estructura Grantor Trust - a diferencia del resto de la categoria de materias primas del proyecto (LP/Trust II con K-1), un Grantor Trust de metal fisico NO genera K-1 y emite el formulario 1099 estandar, PERO esta sujeto en EEUU al tratamiento fiscal de 'collectible' (tasa de plusvalia de largo plazo de hasta 28%, superior a la tasa normal de largo plazo para acciones/ETFs).",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, estructura Grantor Trust - a diferencia del resto de la categoría de materias primas del proyecto (LP/Trust II con K-1), un Grantor Trust de metal fisico NO genera K-1 y emite el formulario 1099 estándar, PERO esta sujeto en EEUU al tratamiento fiscal de 'collectible' (tasa de plusvalia de largo plazo de hasta 28%, superior a la tasa normal de largo plazo para acciones/ETFs).",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM $3.97bn - **EL MAS GRANDE de los DIEZ instrumentos de materias primas del proyecto por un margen enorme** (supera a USO, $1.72bn, en mas del doble).",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 24-jul-2009 (~17.05 anios) - cubre la recuperacion post-Crisis 2008, COVID 2020, y el rally reciente de la plata.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 24-jul-2009 (~17.05 años) - cubre la recuperación post-Crisis 2008, COVID 2020, y el rally reciente de la plata.",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor abrdn (ex-Aberdeen Standard) - PRIMER emisor especialista en ETPs de metales fisicos del proyecto.",
           "calificacion": 3
         }
@@ -40,13 +40,13 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.30% - se autodenomina 'el ETP de plata fisica de menor costo', **NOTABLEMENTE MAS BAJO que USO (0.60-0.86%), BNO (~1%) y los siete fondos apalancados (0.95%) - el instrumento de materias primas MAS BARATO de todo el proyecto**.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.30% - se autodenomina 'el ETP de plata física de menor costo', **NOTABLEMENTE MAS BAJO que USO (0.60-0.86%), BNO (~1%) y los siete fondos apalancados (0.95%) - el instrumento de materias primas MAS BARATO de todo el proyecto**.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Sin contango, sin costo de roll de futuros, sin swaps - el tracking difference deberia ser minimo y cercano al TER nominal (0.30%), estructuralmente el MEJOR de toda la categoria de materias primas del proyecto (los futuros-based KOLD-UCO/BNO/USO sufren costos adicionales de decay/contango no capturados por el TER solo).",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Sin contango, sin costo de roll de futuros, sin swaps - el tracking difference deberia ser mínimo y cercano al TER nominal (0.30%), estructuralmente el MEJOR de toda la categoría de materias primas del proyecto (los futuros-based KOLD-UCO/BNO/USO sufren costos adicionales de decay/contango no capturados por el TER solo).",
           "calificacion": 5
         }
       ],
@@ -58,93 +58,93 @@
       "rating_promedio": null
     },
     {
-      "titulo": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+      "titulo": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario ~725K acciones/dia (~$44.5M/dia al precio actual $61.44) - razonable, aunque menor en volumen que USO dado el precio por accion mas alto.",
+          "notas": "Volumen diario ~725K acciones/dia (~$44.5M/dia al precio actual $61.44) - razonable, aunque menor en volumen que USO dado el precio por acción mas alto.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "abrdn - profundidad de Authorized Participants adecuada, reforzada por ser el ETP de plata fisica mas grande del mercado.",
+          "notas": "abrdn - profundidad de Authorized Participants adecuada, reforzada por ser el ETP de plata física mas grande del mercado.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Numero de holdings y diversificacion",
+      "titulo": "Número de holdings y diversificación",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion Top 10 holdings (%)",
+      "titulo": "Concentración Top 10 holdings (%)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "titulo": "Concentración sectorial (sector dominante / índice tipo HHI)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Concentracion geografica",
+      "titulo": "Concentración geográfica",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "titulo": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
       "aspectos": [
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Sigue el precio LBMA Silver Price (benchmark estandar de la industria de metales preciosos) via tenencia fisica directa - metodologia la MAS SIMPLE y transparente de toda la categoria de materias primas del proyecto.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Sigue el precio LBMA Silver Price (benchmark estándar de la industria de metales preciosos) via tenencia física directa - metodología la MAS SIMPLE y transparente de toda la categoría de materias primas del proyecto.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 5.0
     },
     {
-      "titulo": "Reglas y frecuencia de rebalanceo del indice",
+      "titulo": "Reglas y frecuencia de rebalanceo del índice",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y = **+67.96%** (fuerte, mismo rally historico de la plata que beneficio a AGQ +49.46% y devasto a ZSL -89.12%). Retorno desde inception (17.05 anios) = **+9.13% CAGR - SOLIDO Y POSITIVO**, el MEJOR resultado historico compuesto de toda la categoria de materias primas del proyecto en relacion a su simplicidad estructural (sin apalancamiento, sin decay, sin contango).",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y = **+67.96%** (fuerte, mismo rally histórico de la plata que beneficio a AGQ +49.46% y devasto a ZSL -89.12%). Retorno desde inception (17.05 años) = **+9.13% CAGR - SÓLIDO Y POSITIVO**, el MEJOR resultado histórico compuesto de toda la categoría de materias primas del proyecto en relación a su simplicidad estructural (sin apalancamiento, sin decay, sin contango).",
           "calificacion": 5
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad: rango de 52 semanas $35.51-$115.26 (ratio 3.25x) - relativamente alta (la plata es volatil por naturaleza como metal industrial+monetario), mayor que BNO/USO (~2.2-2.3x) pero SIN la amplificacion adicional del apalancamiento de ZSL/AGQ.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad: rango de 52 semanas $35.51-$115.26 (ratio 3.25x) - relativamente alta (la plata es volatil por naturaleza como metal industrial+monetario), mayor que BNO/USO (~2.2-2.3x) pero SIN la amplificación adicional del apalancamiento de ZSL/AGQ.",
           "calificacion": 2
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el rango de precio de 52 semanas confirma volatilidad real y swings importantes inherentes a la plata como commodity.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesión, pero el rango de precio de 52 semanas confirma volatilidad real y swings importantes inherentes a la plata como commodity.",
           "calificacion": 2
         }
       ],
@@ -154,8 +154,8 @@
       "titulo": "Sharpe / Sortino ratio",
       "aspectos": [
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 0.51 - moderado, mayor que la mayoria de los instrumentos de materias primas del proyecto, sugiere cierta correlacion con sentimiento de riesgo/inflacion en el periodo medido, sin ser un diversificador puro.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.51 - moderado, mayor que la mayoría de los instrumentos de materias primas del proyecto, sugiere cierta correlación con sentimiento de riesgo/inflación en el período medido, sin ser un diversificador puro.",
           "calificacion": 2
         }
       ],
@@ -167,26 +167,26 @@
       "rating_promedio": null
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "titulo": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "titulo": "Dividend/Distribution yield vs. histórico propio",
       "aspectos": [],
       "rating_promedio": null
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "**Comparacion con ZSL/AGQ (fila 74/78, ya en el workbook)**: SIVR es exactamente la exposicion 'limpia' 1x fisica a la plata ya referenciada como alternativa en ambas fichas ('SLV/PSLV serian la alternativa logica sin decay amplificado'). A diferencia de ZSL/AGQ (futuros/swaps apalancados 2x con decay diario ya confirmado en el proyecto), SIVR ofrece exposicion pura al precio spot sin ninguno de esos riesgos estructurales. PSLV (Sprott Physical Silver Trust, estructura similar con opcion de redencion fisica) y SLV (iShares Silver Trust, el mas grande/liquido del espacio) no analizados en el workbook, serian los comparables mas directos. | ACTUALIZACION posterior (SLV, fila 83): ahora con datos propios verificados, SLV confirma ser mas caro (TER 0.50% vs 0.30% de SIVR) y con CAGR desde inception levemente menor (+7.73% vs +9.13%), PERO es POR MUCHO el instrumento de materias primas mas grande (AUM $28.60bn, 7x SIVR) y liquido (volumen 16x SIVR) del proyecto, con Score final incluso MAS ALTO (3.71 vs 3.62) por la ventaja de escala/liquidez/respaldo de emisor BlackRock. Ver Ficha SLV fila 50 para el detalle completo de esta comparacion.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "**Comparación con ZSL/AGQ (fila 74/78, ya en el workbook)**: SIVR es exactamente la exposición 'limpia' 1x física a la plata ya referenciada como alternativa en ambas fichas ('SLV/PSLV serian la alternativa logica sin decay amplificado'). A diferencia de ZSL/AGQ (futuros/swaps apalancados 2x con decay diario ya confirmado en el proyecto), SIVR ofrece exposición pura al precio spot sin ninguno de esos riesgos estructurales. PSLV (Sprott Physical Silver Trust, estructura similar con opción de redención física) y SLV (iShares Silver Trust, el mas grande/liquido del espacio) no analizados en el workbook, serian los comparables mas directos. | ACTUALIZASIÓN posterior (SLV, fila 83): ahora con datos propios verificados, SLV confirma ser mas caro (TER 0.50% vs 0.30% de SIVR) y con CAGR desde inception levemente menor (+7.73% vs +9.13%), PERO es POR MUCHO el instrumento de materias primas mas grande (AUM $28.60bn, 7x SIVR) y liquido (volumen 16x SIVR) del proyecto, con Score final incluso MAS ALTO (3.71 vs 3.62) por la ventaja de escala/liquidez/respaldo de emisor BlackRock. Ver Ficha SLV fila 50 para el detalle completo de esta comparación.",
           "calificacion": 4
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **Satelite** para exposicion a metales preciosos/cobertura de inflacion - perfil estructural MUCHO mas limpio que el resto de la categoria de materias primas del proyecto (sin apalancamiento, sin contango, sin K-1), aunque sigue siendo single-commodity sin diversificacion, no calificable como Core.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **Satélite** para exposición a metales preciosos/cobertura de inflación - perfil estructural MUCHO mas limpio que el resto de la categoría de materias primas del proyecto (sin apalancamiento, sin contango, sin K-1), aunque sigue siendo single-commodity sin diversificación, no calificable como Core.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion pura y de bajo costo (0.30% TER, el mas barato del proyecto) al precio de la plata fisica, sin los riesgos estructurales de decay/contango/apalancamiento del resto de la categoria del proyecto - unico instrumento de materias primas del proyecto que podria sostenerse razonablemente por un horizonte de mediano/largo plazo como cobertura de inflacion o diversificador, no solo dias/semanas como los apalancados o incluso BNO/USO.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición pura y de bajo costo (0.30% TER, el mas barato del proyecto) al precio de la plata física, sin los riesgos estructurales de decay/contango/apalancamiento del resto de la categoría del proyecto - único instrumento de materias primas del proyecto que podría sostenerse razonablemente por un horizonte de mediano/largo plazo como cobertura de inflación o diversificador, no solo dias/semanas como los apalancados o incluso BNO/USO.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) volatilidad inherente de la plata (rango 52 semanas ratio 3.25x), sin amplificacion de apalancamiento pero real; (2) tratamiento fiscal de 'collectible' en EEUU (hasta 28% en plusvalia de largo plazo, superior a la tasa normal); (3) riesgo de custodia fisica (JPMorgan, Londres), bajo pero no nulo; (4) single-commodity, cero diversificacion; (5) sin flujo de caja/dividendo - el retorno depende 100% de la apreciacion del precio del metal.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) volatilidad inherente de la plata (rango 52 semanas ratio 3.25x), sin amplificación de apalancamiento pero real; (2) tratamiento fiscal de 'collectible' en EEUU (hasta 28% en plusvalia de largo plazo, superior a la tasa normal); (3) riesgo de custodia física (JPMorgan, Londres), bajo pero no nulo; (4) single-commodity, cero diversificación; (5) sin flujo de caja/dividendo - el retorno depende 100% de la apreciación del precio del metal.",
           "calificacion": 3
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "PSLV (Sprott, estructura fisica similar con opcion de redencion) no analizado en el workbook. SLV (iShares, fila 83) ahora tambien analizado con datos propios - mas caro pero Score final mas alto por escala/liquidez, ver comparacion completa en su Ficha. ZSL/AGQ (fila 74/78) ofrecen la version apalancada -2x/+2x del mismo commodity, ya analizadas.",
+          "notas": "PSLV (Sprott, estructura física similar con opción de redención) no analizado en el workbook. SLV (iShares, fila 83) ahora también analizado con datos propios - mas caro pero Score final mas alto por escala/liquidez, ver comparación completa en su Ficha. ZSL/AGQ (fila 74/78) ofrecen la versión apalancada -2x/+2x del mismo commodity, ya analizadas.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "MANTENER/ACUMULAR GRADUAL (rol Satelite, no Core). Score 3.62/5 - EL MAS ALTO de los DIEZ instrumentos de materias primas del proyecto por un margen amplio (el segundo mejor era BNO, 2.91), y el PRIMERO de la categoria en cruzar el umbral de 3.5 usado en el resto del proyecto para 'MANTENER'. abrdn Physical Silver Shares ETF: 100% plata fisica en boveda (JPMorgan, Londres), Grantor Trust SIN futuros, SIN swaps, SIN apalancamiento - la estructura MAS LIMPIA de toda la categoria de materias primas del proyecto. Sin contango, sin costo de roll, sin decay compuesto de rebalanceo diario - los tres riesgos estructurales dominantes que penalizaron a KOLD-UCO (apalancados) y, en menor medida, a BNO/USO (futuros-based 1x). TER 0.30% - el mas bajo de todo el proyecto de materias primas (vs 0.60-1.00% de BNO/USO y 0.95% de los siete apalancados). CAGR desde inception (17.05 anios) = +9.13%, solido y positivo, sin ninguno de los patrones de decay o contango severo documentados en el resto de la categoria. Retorno 1Y = +67.96%, mismo rally historico de la plata que beneficio a AGQ y devasto a ZSL. AUM $3.97bn - el mas grande de los diez instrumentos de materias primas del proyecto. Sigue sin calificar como Core: es un unico commodity sin diversificacion, sin flujo de caja, con tratamiento fiscal de 'collectible' en EEUU (hasta 28% en plusvalia de largo plazo) y riesgo de custodia fisica (bajo pero no nulo). Es el UNICO instrumento de materias primas del proyecto que podria sostenerse razonablemente por un horizonte de mediano/largo plazo como cobertura de inflacion o diversificador de portafolio, no solo dias/semanas como el resto de la categoria. PSLV (Sprott, estructura fisica similar) y SLV (iShares, el mas grande/liquido del espacio) serian las alternativas mas directas, ninguna en el workbook. ZSL/AGQ (fila 74/78) ofrecen la version apalancada del mismo commodity - se actualizaron retroactivamente ambas fichas con esta comparacion."
+    "tesis": "MANTENER/ACUMULAR GRADUAL (rol Satélite, no Core). Score 3.62/5 - EL MAS ALTO de los DIEZ instrumentos de materias primas del proyecto por un margen amplio (el segundo mejor era BNO, 2.91), y el PRIMERO de la categoría en cruzar el umbral de 3.5 usado en el resto del proyecto para 'MANTENER'. abrdn Physical Silver Shares ETF: 100% plata física en boveda (JPMorgan, Londres), Grantor Trust SIN futuros, SIN swaps, SIN apalancamiento - la estructura MAS LIMPIA de toda la categoría de materias primas del proyecto. Sin contango, sin costo de roll, sin decay compuesto de rebalanceo diario - los tres riesgos estructurales dominantes que penalizaron a KOLD-UCO (apalancados) y, en menor medida, a BNO/USO (futuros-based 1x). TER 0.30% - el mas bajo de todo el proyecto de materias primas (vs 0.60-1.00% de BNO/USO y 0.95% de los siete apalancados). CAGR desde inception (17.05 años) = +9.13%, sólido y positivo, sin ninguno de los patrones de decay o contango severo documentados en el resto de la categoría. Retorno 1Y = +67.96%, mismo rally histórico de la plata que beneficio a AGQ y devasto a ZSL. AUM $3.97bn - el mas grande de los diez instrumentos de materias primas del proyecto. Sigue sin calificar como Core: es un único commodity sin diversificación, sin flujo de caja, con tratamiento fiscal de 'collectible' en EEUU (hasta 28% en plusvalia de largo plazo) y riesgo de custodia física (bajo pero no nulo). Es el ÚNICO instrumento de materias primas del proyecto que podría sostenerse razonablemente por un horizonte de mediano/largo plazo como cobertura de inflación o diversificador de portafolio, no solo dias/semanas como el resto de la categoría. PSLV (Sprott, estructura física similar) y SLV (iShares, el mas grande/liquido del espacio) serian las alternativas mas directas, ninguna en el workbook. ZSL/AGQ (fila 74/78) ofrecen la versión apalancada del mismo commodity - se actualizaron retroactivamente ambas fichas con esta comparación."
   }
 }

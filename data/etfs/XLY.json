@@ -6,31 +6,31 @@
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Discrepancia de fuentes sobre metodo de replica: SSGA -oficial- describe 'sampling' -muestreo-, Trackinsight lo describe como 'full replication'. En la practica los Select Sector SPDR suelen mantener casi todos los componentes del indice -47 holdings vs universo GICS similar en tamano-, por lo que la diferencia es probablemente de lenguaje legal vs comportamiento real.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Discrepancia de fuentes sobre metodo de réplica: SSGA -oficial- describe 'sampling' -muestreo-, Trackinsight lo describe como 'full replication'. En la practica los Select Sector SPDR suelen mantener casi todos los componentes del índice -47 holdings vs universo GICS similar en tamaño-, por lo que la diferencia es probablemente de lenguaje legal vs comportamiento real.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
           "notas": "Domiciliado en EEUU, consistente con el resto de la familia Select Sector SPDR ya en el workbook.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM ~$23.3-23.6bn -stockanalysis.com $23.35bn, SSGA oficial $23.64bn, Trackinsight ~$22bn con posible desfase de conversion/fecha-, GRANDE y consistente con la escala del resto de la familia Select Sector SPDR.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM ~$23.3-23.6bn -stockanalysis.com $23.35bn, SSGA oficial $23.64bn, Trackinsight ~$22bn con posible desfase de conversión/fecha-, GRANDE y consistente con la escala del resto de la familia Select Sector SPDR.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "27.7 anios desde inception -16-dic-1998, CONFIRMADO identico al resto de la familia 'Original Nine' Select Sector SPDR: XLU/XLK/XLE/XLP/XLI/XLB, todos ya en el workbook-. CUBRE Crisis 2008 completa -Max Drawdown documentado en fila 41, originado jun-2007, piso feb-2009-.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "27.7 años desde inception -16-dic-1998, CONFIRMADO identico al resto de la familia 'Original Nine' Select Sector SPDR: XLU/XLK/XLE/XLP/XLI/XLB, todos ya en el workbook-. CUBRE Crisis 2008 completa -Max Drawdown documentado en fila 41, originado jun-2007, piso feb-2009-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor State Street/SPDR, octava confirmacion de la familia Select Sector SPDR con parametros identicos.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor State Street/SPDR, octava confirmación de la familia Select Sector SPDR con parametros identicos.",
           "calificacion": 5
         }
       ],
@@ -40,30 +40,30 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
           "notas": "TER = 0.08% -CONFIRMADO, identico al resto de la familia Select Sector SPDR ya en el workbook, extremadamente barato-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference/Error historico NO ENCONTRADO con cifra numerica concreta en ninguna fuente consultada -solo lenguaje generico de prospecto sobre riesgo de tracking error por muestreo-.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference/Error histórico NO ENCONTRADO con cifra numerica concreta en ninguna fuente consultada -solo lenguaje generico de prospecto sobre riesgo de tracking error por muestreo-.",
           "calificacion": 2
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending para XLY.",
+          "notas": "Sin dato específico de revenue por securities lending para XLY.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Metodologia cap-weighted dentro del universo GICS Consumer Discretionary. Estatus del capping/limite regulatorio de concentracion -estandar 24%/48% RIC- NO CONFIRMADO explicitamente en texto de prospecto, aunque Amazon ronda ~25% sin verse claramente capado cerca de ese limite -sugiere que si aplica el capping estandar pero aun no se alcanza el umbral, o que el limite es distinto-.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Metodología cap-weighted dentro del universo GICS Consumer Discretionary. Estatus del capping/limite regulatorio de concentración -estándar 24%/48% RIC- NO CONFIRMADO explícitamente en texto de prospecto, aunque Amazon ronda ~25% sin verse claramente capado cerca de ese limite -sugiere que si aplica el capping estándar pero aun no se alcanza el umbral, o que el limite es distinto-.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
@@ -72,79 +72,79 @@
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread ~0.01% segun un articulo -Seeking Alpha- con AUM citado desactualizado -$13bn vs los ~$23bn actuales-, por lo que la vigencia temporal de esta cifra especifica es incierta, aunque cualitativamente XLY es conocido por spreads muy ajustados dada su liquidez.",
+          "notas": "Spread ~0.01% según un articulo -Seeking Alpha- con AUM citado desactualizado -$13bn vs los ~$23bn actuales-, por lo que la vigencia temporal de esta cifra específica es incierta, aunque cualitativamente XLY es conocido por spreads muy ajustados dada su liquidez.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount historico vs NAV NO ENCONTRADO con cifra numerica concreta. Dado el altisimo volumen/AUM es razonable inferir un premium/discount minimo tipico de la familia SPDR, pero sin verificacion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount histórico vs NAV NO ENCONTRADO con cifra numerica concreta. Dado el altisimo volumen/AUM es razonable inferir un premium/discount mínimo típico de la familia SPDR, pero sin verificación.",
           "calificacion": 2
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero State Street/SPDR tiene la infraestructura de creacion/redencion mas robusta y probada de toda la familia Select Sector ya en el workbook.",
+          "notas": "Sin cifra específica de profundidad de APs, pero State Street/SPDR tiene la infraestructura de creación/redención mas robusta y probada de toda la familia Select Sector ya en el workbook.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "46-50 holdings segun fuente -stockanalysis.com 50, SSGA oficial 47, Trackinsight 46-, usar 47 -fuente oficial del emisor- como referencia primaria.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "46-50 holdings según fuente -stockanalysis.com 50, SSGA oficial 47, Trackinsight 46-, usar 47 -fuente oficial del emisor- como referencia primaria.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "**Top 10 = 68.16% del fondo -SSGA oficial-, MUY CONCENTRADO**. Amazon 24.98% + Tesla 15.29% = **~40% del fondo entre solo DOS nombres** -la concentracion de dos nombres MAS ALTA documentada en la familia Select Sector SPDR del proyecto, supera a XLC con META+GOOGL ~37%-. Resto del Top10: Home Depot 5.76%, McDonald's 4.15%, TJX 3.97%, Booking Holdings 4.04%, Lowe's 3.03%, Starbucks 2.98%, Ross Stores 1.99%, General Motors 1.97%. **Nota: AMZN y TSLA ya estan analizadas individualmente en el proyecto hermano de acciones -overlap directo, verificar verdicts individuales antes de asignar una decision final de portafolio-.**",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "**Top 10 = 68.16% del fondo -SSGA oficial-, MUY CONCENTRADO**. Amazon 24.98% + Tesla 15.29% = **~40% del fondo entre solo DOS nombres** -la concentración de dos nombres MAS ALTA documentada en la familia Select Sector SPDR del proyecto, supera a XLC con META+GOOGL ~37%-. Resto del Top10: Home Depot 5.76%, McDonald's 4.15%, TJX 3.97%, Booking Holdings 4.04%, Lowe's 3.03%, Starbucks 2.98%, Ross Stores 1.99%, General Motors 1.97%. **Nota: AMZN y TSLA ya estan analizadas individualmente en el proyecto hermano de acciones -overlap directo, verificar verdicts individuales antes de asignar una decisión final de portafolio-.**",
           "calificacion": 1
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Desglose sectorial GICS oficial SSGA: Broadline Retail 26.15% -dominado por Amazon-, Hotels/Restaurants/Leisure 26.15% -McDonald's/Starbucks/Booking-, Specialty Retail 21.29% -Home Depot/TJX/Lowe's/Ross Stores-, Automobiles 18.62% -dominado por Tesla, mas GM-, Household Durables 3.72%, Textiles/Apparel/Luxury Goods 3.03%. **La categoria GICS MAS HETEROGENEA del proyecto**: mezcla e-commerce, automotriz/EV, retail especializado, restaurantes, viajes/hoteles y delivery -modelos de negocio y ciclos economicos muy distintos bajo una sola etiqueta sectorial-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Desglose sectorial GICS oficial SSGA: Broadline Retail 26.15% -dominado por Amazon-, Hotels/Restaurants/Leisure 26.15% -McDonald's/Starbucks/Booking-, Specialty Retail 21.29% -Home Depot/TJX/Lowe's/Ross Stores-, Automobiles 18.62% -dominado por Tesla, mas GM-, Household Durables 3.72%, Textiles/Apparel/Luxury Goods 3.03%. **La categoría GICS MAS HETEROGENEA del proyecto**: mezcla e-commerce, automotriz/EV, retail especializado, restaurantes, viajes/hoteles y delivery -modelos de negocio y ciclos económicos muy distintos bajo una sola etiqueta sectorial-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion cap-weighted dominada por DOS mega-caps de crecimiento -Amazon e-commerce/cloud, Tesla EV-, factor de estilo mas cercano a growth concentrado que a un sector consumo discrecional 'diversificado' tradicional.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición cap-weighted dominada por DOS mega-caps de crecimiento -Amazon e-commerce/cloud, Tesla EV-, factor de estilo mas cercano a growth concentrado que a un sector consumo discrecional 'diversificado' tradicional.",
           "calificacion": 2
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Consumer Discretionary Select Sector, cap-weighted dentro del universo GICS. Estatus del capping regulatorio NO confirmado explicitamente -ver fila 21-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Consumer Discretionary Select Sector, cap-weighted dentro del universo GICS. Estatus del capping regulatorio NO confirmado explícitamente -ver fila 21-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas de rebalanceo NO detalladas explicitamente en las fuentes consultadas, aunque se asume el estandar trimestral de la familia Select Sector SPDR por consistencia con XLU/XLK/XLE/etc.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas de rebalanceo NO detalladas explícitamente en las fuentes consultadas, aunque se asume el estándar trimestral de la familia Select Sector SPDR por consistencia con XLU/XLK/XLE/etc.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno con discrepancia GRANDE en 3Y -rango 12.1%-19.5% segun fuente/fecha de corte, no reconciliado-. 10Y razonablemente consistente ~12.18-13.0% anualizado. 5Y ~9.50% anualizado. CAGR desde inception ~9.46-9.64%. Retorno 1Y modesto 5.99%.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno con discrepancia GRANDE en 3Y -rango 12.1%-19.5% según fuente/fecha de corte, no reconciliado-. 10Y razonablemente consistente ~12.18-13.0% anualizado. 5Y ~9.50% anualizado. CAGR desde inception ~9.46-9.64%. Retorno 1Y modesto 5.99%.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada con rango 20-23% -desviacion estandar, dos fuentes especializadas razonablemente consistentes entre si-, descartando un outlier de 6.20% de una fuente no confiable -incompatible con el resto-.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada con rango 20-23% -desviación estándar, dos fuentes especializadas razonablemente consistentes entre si-, descartando un outlier de 6.20% de una fuente no confiable -incompatible con el resto-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown desde inception = -56.35% -ajustado por inflacion- a -59.0% -nominal-, **CONFIRMADO que cubre Crisis 2008 completa** -originado jun-2007, piso feb-2009-. Menos severo que los fondos de vivienda/retail mas angostos del proyecto -XHB -81.7%-, ITB -86.53%-, XRT -66%--, pero severo en terminos absolutos.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown desde inception = -56.35% -ajustado por inflación- a -59.0% -nominal-, **CONFIRMADO que cubre Crisis 2008 completa** -originado jun-2007, piso feb-2009-. Menos severo que los fondos de vivienda/retail mas angostos del proyecto -XHB -81.7%-, ITB -86.53%-, XRT -66%--, pero severo en términos absolutos.",
           "calificacion": 3
         },
         {
@@ -153,8 +153,8 @@
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 1.22 -unica fuente, stockanalysis.com, sin corroboracion independiente-.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.22 -única fuente, stockanalysis.com, sin corroboración independiente-.",
           "calificacion": 3
         },
         {
@@ -166,27 +166,27 @@
       "rating_promedio": 3.0
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado con discrepancia METODOLOGICA no de fuente: ~27-28x -TTM, stockanalysis.com- vs ~24x -forward FY1, SSGA oficial-, diferencia coherente con crecimiento de earnings esperado. Caro en terminos absolutos sin serie historica propia a 5-10 anios.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado con discrepancia METODOLOGICA no de fuente: ~27-28x -TTM, stockanalysis.com- vs ~24x -forward FY1, SSGA oficial-, diferencia coherente con crecimiento de earnings esperado. Caro en términos absolutos sin serie histórica propia a 5-10 años.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield bajo ~0.77% -rango estrecho 0.76-0.78% entre 4 fuentes, buena convergencia-. Tesis de apreciacion de capital, no income.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield bajo ~0.77% -rango estrecho 0.76-0.78% entre 4 fuentes, buena convergencia-. Tesis de apreciación de capital, no income.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion con XRT y XHB -ambos ya en el workbook-: XLY es MUCHO mas amplio en definicion GICS -incluye automotriz/EV, restaurantes, viajes/hoteles ademas de retail- pero domina en concentracion por Amazon/Tesla. Exposicion marginal a vivienda vs XHB -solo Household Durables 3.72% y Home Depot/Lowe's, mejoras del hogar no construccion nueva-. Sin overlap directo relevante de composicion con XRT pese a ambos incluir 'retail' -XRT es equal-weight de retailers pequenos/medianos sin Amazon/Tesla dominando, XLY es cap-weighted dominado por dos mega-caps-.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación con XRT y XHB -ambos ya en el workbook-: XLY es MUCHO mas amplio en definición GICS -incluye automotriz/EV, restaurantes, viajes/hoteles además de retail- pero domina en concentración por Amazon/Tesla. Exposición marginal a vivienda vs XHB -solo Household Durables 3.72% y Home Depot/Lowe's, mejoras del hogar no construcción nueva-. Sin overlap directo relevante de composición con XRT pese a ambos incluir 'retail' -XRT es equal-weight de retailers pequeños/medianos sin Amazon/Tesla dominando, XLY es cap-weighted dominado por dos mega-caps-.",
           "calificacion": 2
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol Satelite sectorial de consumo discrecional amplio, aunque con concentracion de mega-cap growth que lo acerca mas a una apuesta en 2 nombres que a diversificacion sectorial genuina.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol Satélite sectorial de consumo discrecional amplio, aunque con concentración de mega-cap growth que lo acerca mas a una apuesta en 2 nombres que a diversificación sectorial genuina.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion al ciclo de consumo discrecional via mega-caps de crecimiento -Amazon e-commerce/cloud, Tesla EV-, con TER extremadamente bajo -0.08%- y liquidez masiva -~$1.30bn/dia- propia de la familia Select Sector SPDR, pero con concentracion de dos nombres muy alta que domina el resultado del fondo.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición al ciclo de consumo discrecional via mega-caps de crecimiento -Amazon e-commerce/cloud, Tesla EV-, con TER extremadamente bajo -0.08%- y liquidez masiva -~$1.30bn/dia- propia de la familia Select Sector SPDR, pero con concentración de dos nombres muy alta que domina el resultado del fondo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: **concentracion EXTREMA en Amazon+Tesla -~40% combinado, la mas alta de dos nombres en la familia Select Sector SPDR del proyecto-**, categoria GICS mas heterogenea del proyecto -mezcla modelos de negocio muy distintos-, sensibilidad al ciclo de consumo discrecional/tasas de interes. **AMZN y TSLA ya estan analizadas individualmente en el proyecto hermano de acciones** -overlap directo relevante, revisar verdicts individuales de ambas antes de una decision final de portafolio que incluya XLY-.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **concentración EXTREMA en Amazon+Tesla -~40% combinado, la mas alta de dos nombres en la familia Select Sector SPDR del proyecto-**, categoría GICS mas heterogenea del proyecto -mezcla modelos de negocio muy distintos-, sensibilidad al ciclo de consumo discrecional/tasas de interés. **AMZN y TSLA ya estan analizadas individualmente en el proyecto hermano de acciones** -overlap directo relevante, revisar verdicts individuales de ambas antes de una decisión final de portafolio que incluya XLY-.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "RSPD -Invesco S&P 500 Equal Weight Consumer Discretionary, no analizado- diluiria la concentracion Amazon/Tesla de forma analoga a como RSP -ya en el workbook- diluye VOO/SPY, candidato pendiente para completar el contraste cap-weighted-concentrado vs equal-weight-diversificado en consumo discrecional, analogo al par XHB-vs-ITB o XLY-vs-XRT.",
+          "notas": "RSPD -Invesco S&P 500 Equal Weight Consumer Discretionary, no analizado- diluiria la concentración Amazon/Tesla de forma analoga a como RSP -ya en el workbook- diluye VOO/SPY, candidato pendiente para completar el contraste cap-weighted-concentrado vs equal-weight-diversificado en consumo discrecional, analogo al par XHB-vs-ITB o XLY-vs-XRT.",
           "calificacion": 2
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). XLY es el OCTAVO miembro confirmado de la familia 'Original Nine' Select Sector SPDR -mismo dia de inception 16-dic-1998, TER 0.08%, liquidez masiva ~$1.30bn/dia, AUM ~$23.5bn- pero resulta el **PEOR SCORE de toda la familia hasta ahora**, notablemente por debajo de XLU -3.85-, XLE -3.85-, XLP -3.82-, XLI -3.73-, XLB -3.61-, XLK -3.45- y XLC -3.18-, todos ya en el workbook. La causa es una **concentracion EXTREMA en solo dos nombres -Amazon 24.98% + Tesla 15.29% = ~40% del fondo-, la mas alta de dos nombres documentada en toda la familia -supera a XLC con META+GOOGL ~37%-**, dentro de la categoria GICS mas heterogenea del proyecto -e-commerce, automotriz/EV, retail especializado, restaurantes, viajes/hoteles mezclados bajo una sola etiqueta-. AMZN y TSLA ya estan analizadas INDIVIDUALMENTE en el proyecto hermano de acciones -overlap directo relevante que debe revisarse antes de cualquier decision final que incluya XLY-. Max Drawdown -56.35% a -59.0% cubre Crisis 2008 completa, menos severo que los fondos de vivienda/retail angostos del proyecto -XHB/ITB/XRT- pero severo en terminos absolutos. Retorno 10Y ~12.18-13.0% razonable, aunque el 3Y tiene una discrepancia grande entre fuentes -12.1% a 19.5%- sin reconciliar. Yield bajo 0.77%, P/E caro ~24-28x segun metodologia. Score 2.91/5, en linea con AIRR -2.91-, por debajo de XME -2.94-. Rol Satelite, pero la concentracion de dos nombres lo acerca mas a una apuesta directa en Amazon/Tesla que a diversificacion sectorial genuina. RSPD -Invesco equal-weight, no analizado- queda pendiente como contraste metodologico directo."
+    "tesis": "REDUCIR/VENDER (evitar). XLY es el OCTAVO miembro confirmado de la familia 'Original Nine' Select Sector SPDR -mismo dia de inception 16-dic-1998, TER 0.08%, liquidez masiva ~$1.30bn/dia, AUM ~$23.5bn- pero resulta el **PEOR SCORE de toda la familia hasta ahora**, notablemente por debajo de XLU -3.85-, XLE -3.85-, XLP -3.82-, XLI -3.73-, XLB -3.61-, XLK -3.45- y XLC -3.18-, todos ya en el workbook. La causa es una **concentración EXTREMA en solo dos nombres -Amazon 24.98% + Tesla 15.29% = ~40% del fondo-, la mas alta de dos nombres documentada en toda la familia -supera a XLC con META+GOOGL ~37%-**, dentro de la categoría GICS mas heterogenea del proyecto -e-commerce, automotriz/EV, retail especializado, restaurantes, viajes/hoteles mezclados bajo una sola etiqueta-. AMZN y TSLA ya estan analizadas INDIVIDUALMENTE en el proyecto hermano de acciones -overlap directo relevante que debe revisarse antes de cualquier decisión final que incluya XLY-. Max Drawdown -56.35% a -59.0% cubre Crisis 2008 completa, menos severo que los fondos de vivienda/retail angostos del proyecto -XHB/ITB/XRT- pero severo en términos absolutos. Retorno 10Y ~12.18-13.0% razonable, aunque el 3Y tiene una discrepancia grande entre fuentes -12.1% a 19.5%- sin reconciliar. Yield bajo 0.77%, P/E caro ~24-28x según metodología. Score 2.91/5, en línea con AIRR -2.91-, por debajo de XME -2.94-. Rol Satélite, pero la concentración de dos nombres lo acerca mas a una apuesta directa en Amazon/Tesla que a diversificación sectorial genuina. RSPD -Invesco equal-weight, no analizado- queda pendiente como contraste metodologico directo."
   }
 }

@@ -1,36 +1,36 @@
 {
   "nombre": "Vanguard S&P 500 ETF",
   "ticker": "VOO",
-  "categoria": "Equity Indice Amplio (S&P 500 Index 1x, replica FISICA COMPLETA - fondo PADRE del universo que VTV/VUG ya en el workbook dividen por estilo Value/Growth, y BASELINE 1x que faltaba para completar la escalera de apalancamiento sobre el mismo indice junto a SSO -+2x- y SPXL -+3x, ambos ya en el workbook-)",
+  "categoria": "Equity Índice Amplio (S&P 500 Index 1x, réplica FÍSICA COMPLETA - fondo PADRE del universo que VTV/VUG ya en el workbook dividen por estilo Value/Growth, y BASELINE 1x que faltaba para completar la escalera de apalancamiento sobre el mismo índice junto a SSO -+2x- y SPXL -+3x, ambos ya en el workbook-)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA COMPLETA - mantiene practicamente todas las 500 constituyentes del indice a su peso aproximado, sin swaps ni futuros. CERO riesgo de contraparte - la estructura mas simple/segura de cualquier fondo del proyecto sobre este benchmark (contrasta con SSO -swaps/futuros, 8 bancos- y SPXL -hibrida fisica+swap-).",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA COMPLETA - mantiene prácticamente todas las 500 constituyentes del índice a su peso aproximado, sin swaps ni futuros. CERO riesgo de contraparte - la estructura mas simple/segura de cualquier fondo del proyecto sobre este benchmark (contrasta con SSO -swaps/futuros, 8 bancos- y SPXL -hibrida física+swap-).",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US, tratamiento fiscal estandar de ETF, sin complejidad K-1 ni de otro tipo.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US, tratamiento fiscal estándar de ETF, sin complejidad K-1 ni de otro tipo.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM cruzo **$1 TRILLON el 2-jun-2026** (Vanguard, primer ETF de la historia en alcanzarlo) - **RECORD ABSOLUTO de todo el proyecto** por un margen enorme (mas de 6x el siguiente mayor, IEMG $150bn). VOO superó a SPY como el ETF mas grande del mundo hacia feb-2026.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM cruzo **$1 TRILLON el 2-jun-2026** (Vanguard, primer ETF de la historia en alcanzarlo) - **RÉCORD ABSOLUTO de todo el proyecto** por un margen enorme (mas de 6x el siguiente mayor, IEMG $150bn). VOO superó a SPY como el ETF mas grande del mundo hacia feb-2026.",
           "calificacion": 5
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "Inception 7-sep-2010 (~15.9 anios) - solido pero no el mas largo del proyecto (EWJ/EWC 30.4 anios, TLT 24 anios). No cubre la Crisis 2008 (nace post-crisis, igual que UDOW/SDOW).",
+          "aspecto": "Antigüedad y track record",
+          "notas": "Inception 7-sep-2010 (~15.9 años) - sólido pero no el mas largo del proyecto (EWJ/EWC 30.4 años, TLT 24 años). No cubre la Crisis 2008 (nace post-crisis, igual que UDOW/SDOW).",
           "calificacion": 4
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor Vanguard - pionero de la indexacion de bajo costo (fundado por John Bogle), el mayor proveedor de fondos indexados del mundo junto a BlackRock.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor Vanguard - pionero de la indexación de bajo costo (fundado por John Bogle), el mayor proveedor de fondos indexados del mundo junto a BlackRock.",
           "calificacion": 5
         }
       ],
@@ -40,34 +40,34 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER 0.03% - EMPATADO con SCHF como el mas barato de TODO el proyecto. Tambien empatado con IVV (BlackRock, mismo indice); notablemente mas barato que SPY (0.0945%, estructura UIT mas antigua).",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER 0.03% - EMPATADO con SCHF como el mas barato de TODO el proyecto. También empatado con IVV (BlackRock, mismo índice); notablemente mas barato que SPY (0.0945%, estructura UIT mas antigua).",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Replica FISICA del propio indice de referencia (no un indice distinto que aproxima al S&P 500) - tracking difference estructuralmente minima esperada, sin cifra puntual verificada esta sesion pero coherente con el diseno del producto.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Réplica FÍSICA del propio índice de referencia (no un índice distinto que aproxima al S&P 500) - tracking difference estructuralmente minima esperada, sin cifra puntual verificada esta sesión pero coherente con el diseño del producto.",
           "calificacion": 5
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Vanguard participa en securities lending sobre la cartera fisica - revenue especifico no verificado con cifra exacta esta sesion.",
+          "notas": "Vanguard participa en securities lending sobre la cartera física - revenue específico no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion de constituyentes del S&P 500 tipicamente BAJA (indice de gran capitalizacion establecida, cambios trimestrales por comite, no reglas puramente mecanicas) - costo de rebalanceo bajo frente a indices de screening mas activo ya en el proyecto (ej. SPMO momentum).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación de constituyentes del S&P 500 tipicamente BAJA (índice de gran capitalización establecida, cambios trimestrales por comite, no reglas puramente mecánicas) - costo de rebalanceo bajo frente a índices de screening mas activo ya en el proyecto (ej. SPMO momentum).",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.25
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~812K acciones/dia (~$577M/dia al precio actual $710) - solido pero no el mas alto en dolares del proyecto (TLT $2.85bn/dia sigue siendo el record). Cifra de un solo dia, no promedio de varios meses verificado.",
+          "notas": "Volumen ~812K acciones/dia (~$577M/dia al precio actual $710) - sólido pero no el mas alto en dólares del proyecto (TLT $2.85bn/dia sigue siendo el récord). Cifra de un solo dia, no promedio de varios meses verificado.",
           "calificacion": 4
         },
         {
@@ -76,117 +76,117 @@
           "calificacion": 5
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion, aunque se espera minimo dado el tamano/liquidez del fondo y la replica fisica completa.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión, aunque se espera mínimo dado el tamaño/liquidez del fondo y la réplica física completa.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Vanguard, como emisor del ETF mas grande del mundo, tiene la red de Authorized Participants mas profunda posible - sin friccion de creacion/redencion esperada.",
+          "notas": "Vanguard, como emisor del ETF mas grande del mundo, tiene la red de Authorized Participants mas profunda posible - sin fricción de creación/redención esperada.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 4.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "520 holdings - toda la cartera del S&P 500. Diversificacion nominal amplia pero PONDERADA POR CAPITALIZACION, por lo que el riesgo real esta mas concentrado que el conteo de holdings sugiere.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "520 holdings - toda la cartera del S&P 500. Diversificación nominal amplia pero PONDERADA POR CAPITALIZASIÓN, por lo que el riesgo real esta mas concentrado que el conteo de holdings sugiere.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 36.33% del NAV (NVDA 7.50%, AAPL 6.58%, MSFT 4.29%, AMZN 3.61%, GOOGL 3.24%, AVGO 2.77%, GOOG 2.58%, MU 2.01%, META 1.91%, TSLA 1.83%) - concentracion moderada-alta, tipica del regimen actual de mega-cap tech dominante en el indice.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 36.33% del NAV (NVDA 7.50%, AAPL 6.58%, MSFT 4.29%, AMZN 3.61%, GOOGL 3.24%, AVGO 2.77%, GOOG 2.58%, MU 2.01%, META 1.91%, TSLA 1.83%) - concentración moderada-alta, típica del régimen actual de mega-cap tech dominante en el índice.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector Tecnologia ~33-38% segun fuente/clasificacion (el mas dominante) + Financials ~12% + Comm. Services ~11% + Consumer Cyclical ~10% - concentracion sectorial significativa via el propio cap-weighting del indice, no una eleccion activa del fondo.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector Tecnología ~33-38% según fuente/clasificación (el mas dominante) + Financials ~12% + Comm. Services ~11% + Consumer Cyclical ~10% - concentración sectorial significativa via el propio cap-weighting del índice, no una elección activa del fondo.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
+          "aspecto": "Concentración geográfica",
           "notas": "Geografia 100% US (S&P 500).",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "BLEND puro - combina el universo completo de VTV (value) y VUG (growth), ya ambos en el workbook, sin tilt de factor propio. Representa el mercado de gran capitalizacion de EEUU sin distorsion.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "BLEND puro - combina el universo completo de VTV (value) y VUG (growth), ya ambos en el workbook, sin tilt de factor propio. Representa el mercado de gran capitalización de EEUU sin distorsión.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice S&P 500 - EL benchmark de renta variable mas seguido del mundo, metodologia de comite (inclusion/exclusion no puramente mecanica, a diferencia de indices basados en reglas duras como CRSP), transparente y ampliamente entendida.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice S&P 500 - EL benchmark de renta variable mas seguido del mundo, metodología de comite (inclusión/exclusión no puramente mecánica, a diferencia de índices basados en reglas duras como CRSP), transparente y ampliamente entendida.",
           "calificacion": 5
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo TRIMESTRAL estandar del indice - SIN reseteo diario ni mecanismo de decay compuesto, contraste TOTAL con SSO/SPXL sobre el mismo benchmark.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo TRIMESTRAL estándar del índice - SIN reseteo diario ni mecanismo de decay compuesto, contraste TOTAL con SSO/SPXL sobre el mismo benchmark.",
           "calificacion": 5
         }
       ],
       "rating_promedio": 3.71
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 1Y +22.90%, 3Y anualizado ~20.06%, 5Y anualizado ~13.08%, 10Y anualizado ~15.51-15.68%, desde inception (15.9 anios) ~14.99% anualizado - fuerte y consistente con el mercado alcista sostenido de EEUU del periodo.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 1Y +22.90%, 3Y anualizado ~20.06%, 5Y anualizado ~13.08%, 10Y anualizado ~15.51-15.68%, desde inception (15.9 años) ~14.99% anualizado - fuerte y consistente con el mercado alcista sostenido de EEUU del período.",
           "calificacion": 4
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Rango 52 semanas $578.46-$714.16 (ratio 1.235x) - volatilidad BAJA, muy por debajo de SSO (1.49x) y SPXL (1.79x) sobre el MISMO indice, como se espera del baseline sin apalancamiento.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Rango 52 semanas $578.46-$714.16 (ratio 1.235x) - volatilidad BAJA, muy por debajo de SSO (1.49x) y SPXL (1.79x) sobre el MISMO índice, como se espera del baseline sin apalancamiento.",
           "calificacion": 4
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown historico -33.99% (crash COVID, pico feb-2020 a minimo 23-mar-2020, 97 sesiones para recuperarse) - MUCHO menos severo que SPXL (-76.86%, mismo crash, mismo indice subyacente). Bear market 2022: ano calendario -18.17%, pico-a-valle ~-23.9%.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown histórico -33.99% (crash COVID, pico feb-2020 a mínimo 23-mar-2020, 97 sesiones para recuperarse) - MUCHO menos severo que SPXL (-76.86%, mismo crash, mismo índice subyacente). Bear market 2022: ano calendario -18.17%, pico-a-valle ~-23.9%.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio 0.78 (desde inception, 2010-2025) - solido pero no excepcional, refleja la mezcla de anios fuertes recientes con tramos mas volatiles en los 15.9 anios completos de historia.",
+          "notas": "Sharpe Ratio 0.78 (desde inception, 2010-2025) - sólido pero no excepcional, refleja la mezcla de años fuertes recientes con tramos mas volatiles en los 15.9 años completos de historia.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta = 1.01 vs S&P 500 (practicamente 1.0 por definicion, ES el propio benchmark). El riesgo real no esta en el beta sino en el OVERLAP directo con posiciones individuales ya analizadas en el proyecto de acciones (ver fila 55).",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta = 1.01 vs S&P 500 (prácticamente 1.0 por definición, ES el propio benchmark). El riesgo real no esta en el beta sino en el OVERLAP directo con posiciones individuales ya analizadas en el proyecto de acciones (ver fila 55).",
           "calificacion": 3
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "COVID mar-2020: drawdown -33.99%, recuperacion relativamente rapida (97 sesiones, ~4.5 meses) vs bonos largos del proyecto (TLH -41.14% con recuperacion mas lenta). Bear 2022: -18.17% calendario, -23.9% pico-a-valle, sin evento de crisis reciente en 2025-2026.",
+          "notas": "COVID mar-2020: drawdown -33.99%, recuperación relativamente rápida (97 sesiones, ~4.5 meses) vs bonos largos del proyecto (TLH -41.14% con recuperación mas lenta). Bear 2022: -18.17% calendario, -23.9% pico-a-valle, sin evento de crisis reciente en 2025-2026.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E Ponderado 27.53x - relativamente RICO frente al promedio historico del S&P 500, coherente con la valoracion actual elevada de las mega-caps tecnologicas que dominan el indice (mismo tema de fondo ya documentado en SPXV/VIG/DGRO). P/B no confirmado con cifra exacta esta sesion.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E Ponderado 27.53x - relativamente RICO frente al promedio histórico del S&P 500, coherente con la valoración actual elevada de las mega-caps tecnologicas que dominan el índice (mismo tema de fondo ya documentado en SPXV/VIG/DGRO). P/B no confirmado con cifra exacta esta sesión.",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend Yield 1.04% TTM ($7.35/accion), trimestral - bajo, tipico de un indice blend con tilt de crecimiento actual (compara con SCHD 3%+ ya en el workbook, filosofia opuesta).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend Yield 1.04% TTM ($7.35/acción), trimestral - bajo, típico de un índice blend con tilt de crecimiento actual (compara con SCHD 3%+ ya en el workbook, filosofia opuesta).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "COMPARACION MAS RICA de indices amplios del proyecto: (1) COMPLETA LA ESCALERA de apalancamiento sobre el S&P 500 -1x VOO / +2x SSO fila 95 / +3x SPXL fila 101-, el equivalente de la matriz PSQ/QID/SQQQ ya establecida para Nasdaq-100, aunque con la MISMA salvedad de ventanas de inception distintas (VOO sep-2010, SSO jun-2006, SPXL nov-2008); (2) es el fondo PADRE del cual VTV (value) y VUG (growth), ambos ya en el workbook, son las mitades por estilo; (3) IVV (BlackRock, mismo TER 0.03%, mismo indice exacto) y SPY (State Street, TER 0.0945%, estructura UIT mas antigua, historicamente el mas liquido en opciones) son los competidores directos MAS CERCANOS de todo el proyecto - VOO ahora el MAS GRANDE de los tres tras superar a SPY en AUM (feb-2026). | ACTUALIZACION posterior (ITOT, fila 103): iShares Core S&P Total U.S. Stock Market ETF, SUPERSET real de VOO+VB -agrega mid-cap y micro-cap-, mismo TER 0.03%, pero con track record MUCHO mas largo (22.5 anios desde 2004, cubre la Crisis 2008 completa, a diferencia de VOO desde 2010). Max Drawdown ITOT -55.20% -Crisis 2008- vs -33.99% de VOO -COVID- confirma que la cola de small/micro-cap anade riesgo estructural en crisis de liquidez. Ver Ficha ITOT fila 103 para el detalle completo. | ACTUALIZACION posterior (SPY, fila 104): ahora analizado con datos propios. SPY es el MISMO indice exacto que VOO pero estructurado como Unit Investment Trust -UIT- en vez de RIC - TER 0.0945% -~3.15x mas caro que VOO-, sin securities lending -prohibido por estructura-, y cash drag documentado por dividendos no reinvertidos. Score SPY 3.55 vs VOO 3.91, confirma a VOO como la version estructuralmente superior de la MISMA exposicion para buy-and-hold. SPY conserva volumen record absoluto del proyecto -~$30bn/dia- y el track record mas largo -33.6 anios, primer ETF de la historia-, unico con ambas crisis 2008/COVID documentadas. Ver Ficha SPY fila 104 para el detalle completo. | ACTUALIZACION posterior (IVV, fila 107): ahora analizado con datos propios, completando el trio SPY/VOO/IVV. IVV es el competidor MAS CERCANO POSIBLE a VOO -mismo indice exacto, MISMO TER 0.03%, misma estructura RIC-, ahora AUM #2 mundial tras VOO. Score IVV 3.88 vs VOO 3.91, practicamente empatados - la unica diferencia real es el timing de inception -IVV nace casi exactamente en el pico dot-com mar-2000, lo que deprime su CAGR desde inception a +8.5-8.59% vs +14.99% de VOO pese a ser la misma exposicion-. Jerarquia de AUM confirmada: VOO > IVV > SPY. Ver Ficha IVV fila 107 para el detalle completo.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "COMPARASIÓN MAS RICA de índices amplios del proyecto: (1) COMPLETA LA ESCALERA de apalancamiento sobre el S&P 500 -1x VOO / +2x SSO fila 95 / +3x SPXL fila 101-, el equivalente de la matriz PSQ/QID/SQQQ ya establecida para Nasdaq-100, aunque con la MISMA salvedad de ventanas de inception distintas (VOO sep-2010, SSO jun-2006, SPXL nov-2008); (2) es el fondo PADRE del cual VTV (value) y VUG (growth), ambos ya en el workbook, son las mitades por estilo; (3) IVV (BlackRock, mismo TER 0.03%, mismo índice exacto) y SPY (State Street, TER 0.0945%, estructura UIT mas antigua, históricamente el mas liquido en opciones) son los competidores directos MAS CERCANOS de todo el proyecto - VOO ahora el MAS GRANDE de los tres tras superar a SPY en AUM (feb-2026). | ACTUALIZASIÓN posterior (ITOT, fila 103): iShares Core S&P Total U.S. Stock Market ETF, SUPERSET real de VOO+VB -agrega mid-cap y micro-cap-, mismo TER 0.03%, pero con track record MUCHO mas largo (22.5 años desde 2004, cubre la Crisis 2008 completa, a diferencia de VOO desde 2010). Max Drawdown ITOT -55.20% -Crisis 2008- vs -33.99% de VOO -COVID- confirma que la cola de small/micro-cap anade riesgo estructural en crisis de liquidez. Ver Ficha ITOT fila 103 para el detalle completo. | ACTUALIZASIÓN posterior (SPY, fila 104): ahora analizado con datos propios. SPY es el MISMO índice exacto que VOO pero estructurado como Unit Investment Trust -UIT- en vez de RIC - TER 0.0945% -~3.15x mas caro que VOO-, sin securities lending -prohibido por estructura-, y cash drag documentado por dividendos no reinvertidos. Score SPY 3.55 vs VOO 3.91, confirma a VOO como la versión estructuralmente superior de la MISMA exposición para buy-and-hold. SPY conserva volumen récord absoluto del proyecto -~$30bn/dia- y el track record mas largo -33.6 años, primer ETF de la historia-, único con ambas crisis 2008/COVID documentadas. Ver Ficha SPY fila 104 para el detalle completo. | ACTUALIZASIÓN posterior (IVV, fila 107): ahora analizado con datos propios, completando el trio SPY/VOO/IVV. IVV es el competidor MAS CERCANO POSIBLE a VOO -mismo índice exacto, MISMO TER 0.03%, misma estructura RIC-, ahora AUM #2 mundial tras VOO. Score IVV 3.88 vs VOO 3.91, prácticamente empatados - la única diferencia real es el timing de inception -IVV nace casi exactamente en el pico dot-com mar-2000, lo que deprime su CAGR desde inception a +8.5-8.59% vs +14.99% de VOO pese a ser la misma exposición-. Jerarquia de AUM confirmada: VOO > IVV > SPY. Ver Ficha IVV fila 107 para el detalle completo.",
           "calificacion": 5
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: **CORE** - la posicion tipica de largo plazo para exposicion diversificada a gran capitalizacion de EEUU, opuesto categorico a SSO/SPXL (Tactico/Especulativo) sobre el mismo indice.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: **CORE** - la posición típica de largo plazo para exposición diversificada a gran capitalización de EEUU, opuesto categorico a SSO/SPXL (Táctico/Especulativo) sobre el mismo índice.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion diversificada, de costo minimo (0.03%) y replica fisica completa al mercado de gran capitalizacion de EEUU - la posicion base sobre la cual construir satelites (dividendo via SCHD, momentum via SPMO, tacticos via SSO/SPXL, todos ya en el workbook), no un producto que compita con ellos.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición diversificada, de costo mínimo (0.03%) y réplica física completa al mercado de gran capitalización de EEUU - la posición base sobre la cual construir satélites (dividendo via SCHD, momentum via SPMO, tácticos via SSO/SPXL, todos ya en el workbook), no un producto que compita con ellos.",
           "calificacion": 4
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) concentracion sectorial en Tecnologia (~33-38%) inherente al cap-weighting, no una eleccion activa; (2) OVERLAP DIRECTO con posiciones individuales ya analizadas en el proyecto de acciones - AVGO 2.77% y MU 2.01% (ambas NO COMPRAR-superciclo IA) suman 4.78% del fondo en nombres ya senalados como caros, junto a NVDA 7.50% (MANTENER, senal mixta); (3) valoracion actual rica (P/E 27.53x) vs promedio historico; (4) beta ~1.0 implica participacion completa en cualquier correccion amplia del mercado.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentración sectorial en Tecnología (~33-38%) inherente al cap-weighting, no una elección activa; (2) OVERLAP DIRECTO con posiciones individuales ya analizadas en el proyecto de acciones - AVGO 2.77% y MU 2.01% (ambas NO COMPRAR-superciclo IA) suman 4.78% del fondo en nombres ya senalados como caros, junto a NVDA 7.50% (MANTENER, señal mixta); (3) valoración actual rica (P/E 27.53x) vs promedio histórico; (4) beta ~1.0 implica participación completa en cualquier corrección amplia del mercado.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "IVV (BlackRock, mismo indice exacto, mismo TER 0.03%, el competidor mas cercano posible), SPY (State Street, TER 0.0945% mas caro, estructura UIT), VTI (Vanguard, mercado TOTAL de EEUU incl. small/mid-cap, mas diversificado), VTV/VUG (ya en el workbook, las mitades Value/Growth de este mismo universo), y SSO/SPXL (ya en el workbook, mismo indice apalancado 2x/3x) son las alternativas/comparables mas relevantes.",
+          "notas": "IVV (BlackRock, mismo índice exacto, mismo TER 0.03%, el competidor mas cercano posible), SPY (State Street, TER 0.0945% mas caro, estructura UIT), VTI (Vanguard, mercado TOTAL de EEUU incl. small/mid-cap, mas diversificado), VTV/VUG (ya en el workbook, las mitades Value/Growth de este mismo universo), y SSO/SPXL (ya en el workbook, mismo índice apalancado 2x/3x) son las alternativas/comparables mas relevantes.",
           "calificacion": 5
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "CORE DE LARGO PLAZO - POSICION BASE RECOMENDADA. Score 3.91/5, dentro de la banda alta de fondos amplios diversificados del proyecto (VTV 4.06 el maximo de equity, VXUS 3.94, VB 3.88, VT 3.76). Vanguard S&P 500 ETF, replica FISICA COMPLETA del S&P 500 - la estructura mas simple y segura de cualquier fondo del proyecto sobre este benchmark (sin swaps, sin contraparte). AUM cruzo **$1 TRILLON el 2-jun-2026**, primer ETF de la historia en alcanzarlo y ahora el MAS GRANDE DEL MUNDO tras superar a SPY (feb-2026) - RECORD ABSOLUTO del proyecto por un margen enorme. TER 0.03%, empatado con SCHF como el mas barato del proyecto y tambien con IVV (su competidor mas cercano, mismo indice exacto). CAGR desde inception (15.9 anios) ~14.99% anualizado, 10Y ~15.51-15.68%, 1Y +22.90% - fuerte y consistente. Volatilidad (rango 52 sem 1.235x) y Max Drawdown (-33.99% COVID, recuperado en 97 sesiones) MUCHO mas moderados que SSO (+2x, ya en el workbook) y SPXL (+3x, ya en el workbook) sobre el MISMO indice - completa la escalera de apalancamiento 1x/2x/3x del S&P 500 del proyecto, equivalente a la matriz PSQ/QID/SQQQ ya establecida para Nasdaq-100 (misma salvedad de ventanas de inception distintas). Riesgo principal: OVERLAP DIRECTO con AVGO (2.77%) y MU (2.01%), ambas ya marcadas NO COMPRAR-superciclo IA en el proyecto de acciones, junto a NVDA (7.50%, MANTENER) - la concentracion sectorial en Tecnologia (~33-38%) es inherente al cap-weighting del indice, no una eleccion del fondo. Valoracion actual (P/E 27.53x) relativamente rica vs promedio historico. Rol en Portafolio: CORE - la posicion base tipica de largo plazo, sobre la cual construir satelites de dividendo (SCHD), momentum (SPMO) o tacticos apalancados (SSO/SPXL), todos ya en el workbook. IVV (BlackRock, competidor mas cercano posible) y SPY (State Street, mas caro) no analizados en el workbook."
+    "tesis": "CORE DE LARGO PLAZO - POSISIÓN BASE RECOMENDADA. Score 3.91/5, dentro de la banda alta de fondos amplios diversificados del proyecto (VTV 4.06 el máximo de equity, VXUS 3.94, VB 3.88, VT 3.76). Vanguard S&P 500 ETF, réplica FÍSICA COMPLETA del S&P 500 - la estructura mas simple y segura de cualquier fondo del proyecto sobre este benchmark (sin swaps, sin contraparte). AUM cruzo **$1 TRILLON el 2-jun-2026**, primer ETF de la historia en alcanzarlo y ahora el MAS GRANDE DEL MUNDO tras superar a SPY (feb-2026) - RÉCORD ABSOLUTO del proyecto por un margen enorme. TER 0.03%, empatado con SCHF como el mas barato del proyecto y también con IVV (su competidor mas cercano, mismo índice exacto). CAGR desde inception (15.9 años) ~14.99% anualizado, 10Y ~15.51-15.68%, 1Y +22.90% - fuerte y consistente. Volatilidad (rango 52 sem 1.235x) y Max Drawdown (-33.99% COVID, recuperado en 97 sesiones) MUCHO mas moderados que SSO (+2x, ya en el workbook) y SPXL (+3x, ya en el workbook) sobre el MISMO índice - completa la escalera de apalancamiento 1x/2x/3x del S&P 500 del proyecto, equivalente a la matriz PSQ/QID/SQQQ ya establecida para Nasdaq-100 (misma salvedad de ventanas de inception distintas). Riesgo principal: OVERLAP DIRECTO con AVGO (2.77%) y MU (2.01%), ambas ya marcadas NO COMPRAR-superciclo IA en el proyecto de acciones, junto a NVDA (7.50%, MANTENER) - la concentración sectorial en Tecnología (~33-38%) es inherente al cap-weighting del índice, no una elección del fondo. Valoración actual (P/E 27.53x) relativamente rica vs promedio histórico. Rol en Portafolio: CORE - la posición base típica de largo plazo, sobre la cual construir satélites de dividendo (SCHD), momentum (SPMO) o tácticos apalancados (SSO/SPXL), todos ya en el workbook. IVV (BlackRock, competidor mas cercano posible) y SPY (State Street, mas caro) no analizados en el workbook."
   }
 }

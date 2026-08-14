@@ -1,7 +1,7 @@
 {
   "empresa": "Palo Alto Networks, Inc.",
   "ticker": "PANW",
-  "sector": "Tecnologia - Ciberseguridad, plataforma de red-nube-identidad-SecOps",
+  "sector": "Tecnología - Ciberseguridad, plataforma de red-nube-identidad-SecOps",
   "fecha_analisis": "2026-08-12",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ingresos por suscripciones-soporte y productos en tres pilares: Network Security (firewalls fisicos-virtuales, SASE/Prisma Access), Cloud Security (Prisma Cloud, CNAPP) y Security Operations (Cortex XSIAM/XDR), mas ahora Identity Security (CyberArk, adquisicion cerrada 11-feb-2026, PAM). Modelo de plataforma unificada con migracion de clientes desde herramientas puntuales.",
+          "notas": "Ingresos por suscripciones-soporte y productos en tres pilares: Network Security (firewalls fisicos-virtuales, SASE/Prisma Access), Cloud Security (Prisma Cloud, CNAPP) y Security Operations (Cortex XSIAM/XDR), mas ahora Identity Security (CyberArk, adquisición cerrada 11-feb-2026, PAM). Modelo de plataforma unificada con migración de clientes desde herramientas puntuales.",
           "calificacion": 5
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Estrategia deliberada de 'platformizacion' (bundling con incentivos de earn-back de ARR) crea altos switching costs a medida que los clientes consolidan multiples herramientas de seguridad en la plataforma unica; escala y reconocimiento de marca lider (Gartner Magic Quadrant leader en multiples categorias); la adquisicion de CyberArk (lider de PAM) anade una cuarta pata de moat en identidad.",
+          "notas": "Estrategia deliberada de 'platformización' (bundling con incentivos de earn-back de ARR) crea altos switching costs a medida que los clientes consolidan múltiples herramientas de seguridad en la plataforma única; escala y reconocimiento de marca líder (Gartner Magic Quadrant leader en múltiples categorías); la adquisición de CyberArk (líder de PAM) anade una cuarta pata de moat en identidad.",
           "calificacion": 4
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Lider o co-lider en network security-firewalls (junto a FTNT, Check Point), fuerte crecimiento de Next-Gen Security ARR (+59-60% guiado FY2026, aunque impulsado en parte por M&A -CyberArk y Chronosphere aportaron USD1.6bn de esa ARR-); compite de cerca con CRWD en endpoint-XDR y enfrenta la amenaza estructural de Microsoft empaquetando seguridad basica en licencias E5.",
+          "notas": "Líder o co-líder en network security-firewalls (junto a FTNT, Check Point), fuerte crecimiento de Next-Gen Security ARR (+59-60% guiado FY2026, aunque impulsado en parte por M&A -CyberArk y Chronosphere aportaron USD1.6bn de esa ARR-); compite de cerca con CRWD en endpoint-XDR y enfrenta la amenaza estructural de Microsoft empaquetando seguridad básica en licencias E5.",
           "calificacion": 4
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Margen bruto 71.05% (alto, tipico de software-plataforma), pero margen operativo GAAP muy comprimido (7.39%) por gasto agresivo en S&M-R&D e integracion de M&A - el pricing power existe a nivel de producto pero se reinvierte integramente en crecimiento, no se traduce aun en apalancamiento operativo GAAP visible.",
+          "notas": "Margen bruto 71.05% (alto, típico de software-plataforma), pero margen operativo GAAP muy comprimido (7.39%) por gasto agresivo en S&M-R&D e integración de M&A - el pricing power existe a nivel de producto pero se reinvierte integramente en crecimiento, no se traduce aun en apalancamiento operativo GAAP visible.",
           "calificacion": 3
         }
       ],
@@ -36,12 +36,12 @@
       "aspectos": [
         {
           "aspecto": "Track record de asignación de capital (M&A, buybacks, dividendos)",
-          "notas": "Adquisicion de CyberArk por USD 25bn (cerrada 11-feb-2026, la mas grande en la historia de la industria de ciberseguridad) - apuesta estrategica de alta conviccion pero de integracion aun no probada; sin dividendo (reinversion total en crecimiento-M&A), sin programa de recompra agresivo visible en los datos revisados.",
+          "notas": "Adquisición de CyberArk por USD 25bn (cerrada 11-feb-2026, la mas grande en la historia de la industria de ciberseguridad) - apuesta estratégica de alta convicción pero de integración aun no probada; sin dividendo (reinversión total en crecimiento-M&A), sin programa de recompra agresivo visible en los datos revisados.",
           "calificacion": 3
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "CEO Nikesh Arora historicamente vendedor neto (27 de 28 transacciones en 5 anios fueron ventas, incluida una venta de USD172.7M en sep-2025), pero compro USD10M en acciones en mar-2026 - su primera compra desde 2019, senial fuerte que elevo la accion +5% el dia de la divulgacion.",
+          "notas": "CEO Nikesh Arora históricamente vendedor neto (27 de 28 transacciones en 5 años fueron ventas, incluida una venta de USD172.7M en sep-2025), pero compro USD10M en acciones en mar-2026 - su primera compra desde 2019, senial fuerte que elevo la acción +5% el dia de la divulgación.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion trimestral detallada con metricas propias claras (Next-Gen Security ARR, RPO); la magnitud de la distorsion GAAP-no-GAAP (utilidad neta TTM solo USD843M vs FCF TTM USD3.79bn) exige que el inversionista entienda bien la diferencia, aunque la empresa la explica con detalle en sus reportes.",
+          "notas": "Divulgación trimestral detallada con métricas propias claras (Next-Gen Security ARR, RPO); la magnitud de la distorsión GAAP-no-GAAP (utilidad neta TTM solo USD843M vs FCF TTM USD3.79bn) exige que el inversionista entienda bien la diferencia, aunque la empresa la explica con detalle en sus reportes.",
           "calificacion": 3
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Caja neta ligera (deuda total USD2.07bn vs caja USD2.36bn, ND/EBITDA ~-0.14x) - balance conservador pese a la adquisicion de USD25bn, financiada mayormente con acciones, no deuda.",
+          "notas": "Caja neta ligera (deuda total USD2.07bn vs caja USD2.36bn, ND/EBITDA ~-0.14x) - balance conservador pese a la adquisición de USD25bn, financiada mayormente con acciones, no deuda.",
           "calificacion": 5
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 0.81-0.86x, por debajo de 1.0x - inusual pero tipico de negocios de suscripcion con grandes pasivos de ingresos diferidos corrientes, no necesariamente senial de estres real.",
+          "notas": "Razón corriente 0.81-0.86x, por debajo de 1.0x - inusual pero típico de negocios de suscripción con grandes pasivos de ingresos diferidos corrientes, no necesariamente senial de estres real.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "No verificado en detalle en esta sesion (pendiente); deuda total baja (USD2.07bn) sugiere perfil de vencimientos manejable.",
+          "notas": "No verificado en detalle en esta sesión (pendiente); deuda total baja (USD2.07bn) sugiere perfil de vencimientos manejable.",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Goodwill+intangibles saltaron de ~USD5.3bn a ~USD29.2bn interanual (63% de activos totales) por la adquisicion de CyberArk - el mayor salto de goodwill de una sola transaccion visto en el Dashboard; el patrimonio tangible por accion es ahora fuertemente negativo. No cambia la metodologia (DCF sobre FCF, no depende de patrimonio tangible) pero es un riesgo de integracion real a vigilar.",
+          "notas": "Goodwill+intangibles saltaron de ~USD5.3bn a ~USD29.2bn interanual (63% de activos totales) por la adquisición de CyberArk - el mayor salto de goodwill de una sola transacción visto en el Dashboard; el patrimonio tangible por acción es ahora fuertemente negativo. No cambia la metodología (DCF sobre FCF, no depende de patrimonio tangible) pero es un riesgo de integración real a vigilar.",
           "calificacion": 2
         }
       ],
@@ -88,17 +88,17 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto 71.05% estable-alto; margen operativo GAAP comprimido a 7.39% (vs no-GAAP historicamente mayor) por compensacion en acciones y costos de integracion de CyberArk; margen neto 7.95%. Brecha GAAP-no-GAAP de las mas grandes del Dashboard.",
+          "notas": "Margen bruto 71.05% estable-alto; margen operativo GAAP comprimido a 7.39% (vs no-GAAP históricamente mayor) por compensación en acciones y costos de integración de CyberArk; margen neto 7.95%. Brecha GAAP-no-GAAP de las mas grandes del Dashboard.",
           "calificacion": 3
         },
         {
           "aspecto": "ROE, ROIC, ROA vs. costo de capital",
-          "notas": "ROE 4.83%, ROIC 2.85%, ROA 2.47% (Finviz) - todos muy por debajo del WACC (8.5%), spread negativo severo; pero distorsionado por el salto reciente y masivo de goodwill de la adquisicion de CyberArk (denominador inflado, no necesariamente mala economia unitaria del negocio subyacente).",
+          "notas": "ROE 4.83%, ROIC 2.85%, ROA 2.47% (Finviz) - todos muy por debajo del WACC (8.5%), spread negativo severo; pero distorsionado por el salto reciente y masivo de goodwill de la adquisición de CyberArk (denominador inflado, no necesariamente mala economía unitaria del negocio subyacente).",
           "calificacion": 2
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos 0.229x, muy baja por el salto de activos totales tras la adquisicion; ciclo de conversion de efectivo favorable (cobro por adelantado tipico de modelo SaaS-suscripcion).",
+          "notas": "Rotación de activos 0.229x, muy baja por el salto de activos totales tras la adquisición; ciclo de conversión de efectivo favorable (cobro por adelantado típico de modelo SaaS-suscripción).",
           "calificacion": 3
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR ingresos 5 anios 22.03% (Finviz), crecimiento reciente TTM +19.5%, guia FY2026 +32% (impulsada en gran parte por la consolidacion de CyberArk desde feb-2026, no organico puro).",
+          "notas": "CAGR ingresos 5 años 22.03% (Finviz), crecimiento reciente TTM +19.5%, guia FY2026 +32% (impulsada en gran parte por la consolidación de CyberArk desde feb-2026, no orgánico puro).",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Crecimiento constante y de alta calidad durante anios (sin caidas ni ciclos abruptos), aunque el salto de FY2026 mezcla crecimiento organico fuerte con el efecto de una adquisicion masiva - dificulta separar la tasa organica real por ahora.",
+          "notas": "Crecimiento constante y de alta calidad durante años (sin caidas ni ciclos abruptos), aunque el salto de FY2026 mezcla crecimiento orgánico fuerte con el efecto de una adquisición masiva - dificulta separar la tasa orgánica real por ahora.",
           "calificacion": 3
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Next-Gen Security ARR +59-60% guiado FY2026 (incluye USD1.6bn de CyberArk-Chronosphere), expansion hacia Identity Security (CyberArk) y SecOps con IA (Cortex XSIAM); demanda de ciberseguridad estructuralmente creciente por adopcion de IA empresarial (superficie de ataque en expansion).",
+          "notas": "Next-Gen Security ARR +59-60% guiado FY2026 (incluye USD1.6bn de CyberArk-Chronosphere), expansión hacia Identity Security (CyberArk) y SecOps con IA (Cortex XSIAM); demanda de ciberseguridad estructuralmente creciente por adopción de IA empresarial (superficie de ataque en expansión).",
           "calificacion": 4
         }
       ],
@@ -130,12 +130,12 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo TTM USD4.22bn vs utilidad neta TTM solo USD843M - brecha muy amplia explicada principalmente por compensacion en acciones (SBC) y cargos de amortizacion-integracion de M&A, mismo gotcha ya documentado con CRWD (SBC estructural, no un evento puntual).",
+          "notas": "Flujo de caja operativo TTM USD4.22bn vs utilidad neta TTM solo USD843M - brecha muy amplia explicada principalmente por compensación en acciones (SBC) y cargos de amortización-integración de M&A, mismo gotcha ya documentado con CRWD (SBC estructural, no un evento puntual).",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM USD3.79bn, margen FCF 35.8% (uno de los mas altos del Dashboard), creciendo con fuerza y consistencia 4 anios seguidos (1.79bn -> 2.63bn -> 3.10bn -> 3.47bn -> 3.79bn).",
+          "notas": "FCF TTM USD3.79bn, margen FCF 35.8% (uno de los mas altos del Dashboard), creciendo con fuerza y consistencia 4 años seguidos (1.79bn -> 2.63bn -> 3.10bn -> 3.47bn -> 3.79bn).",
           "calificacion": 5
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Toda la generacion de FCF se reinvierte en crecimiento organico e inorganico (CyberArk); sin dividendo ni recompras relevantes visibles - coherente con una empresa en fase de consolidacion de plataforma, aunque implica menos retorno directo al accionista en el corto plazo.",
+          "notas": "Toda la generación de FCF se reinvierte en crecimiento orgánico e inorganico (CyberArk); sin dividendo ni recompras relevantes visibles - coherente con una empresa en fase de consolidación de plataforma, aunque implica menos retorno directo al accionista en el corto plazo.",
           "calificacion": 3
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E 318-374x (GAAP, distorsionado por costos de integracion), Forward P/E ~94-98x, EV/EBITDA 144x, P/FCF 83x - de los multiplos MAS ALTOS del Dashboard junto a CRWD, refleja expectativas de crecimiento muy elevadas ya incorporadas en el precio.",
+          "notas": "P/E 318-374x (GAAP, distorsionado por costos de integración), Forward P/E ~94-98x, EV/EBITDA 144x, P/FCF 83x - de los múltiplos MAS ALTOS del Dashboard junto a CRWD, refleja expectativas de crecimiento muy elevadas ya incorporadas en el precio.",
           "calificacion": 2
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (adoptado, WACC 8.5% CAPM literal -beta 0.91 no degenerado-, crecimiento con fade 25%->12% en 5 anios, terminal 4%): USD199.06/accion. Escenario B (crecimiento guiado FY26 32%->17%, no adoptado): USD251.22/accion. Ambos escenarios caen por debajo del precio actual.",
+          "notas": "Escenario A (adoptado, WACC 8.5% CAPM literal -beta 0.91 no degenerado-, crecimiento con fade 25%->12% en 5 años, terminal 4%): USD199.06/acción. Escenario B (crecimiento guiado FY26 32%->17%, no adoptado): USD251.22/acción. Ambos escenarios caen por debajo del precio actual.",
           "calificacion": 2
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "-48.6% con el Escenario A adoptado (incluso con el Escenario B mas generoso, -35.1%) - ambos en zona de vender-no comprar, patron similar a CRWD (excelente negocio, valoracion muy exigente).",
+          "notas": "-48.6% con el Escenario A adoptado (incluso con el Escenario B mas generoso, -35.1%) - ambos en zona de vender-no comprar, patrón similar a CRWD (excelente negocio, valoración muy exigente).",
           "calificacion": 2
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de ciberseguridad empresarial grande y en expansion estructural (superficie de ataque creciente por adopcion de IA, nube, dispositivos); TAM combinado tras CyberArk ahora incluye Identity Security, una de las categorias de mayor crecimiento del sector.",
+          "notas": "Mercado de ciberseguridad empresarial grande y en expansión estructural (superficie de ataque creciente por adopción de IA, nube, dispositivos); TAM combinado tras CyberArk ahora incluye Identity Security, una de las categorías de mayor crecimiento del sector.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Altas para plataformas integrales (escala de I+D, certificaciones regulatorias, relaciones enterprise de largo plazo), aunque el segmento de point-solutions especificas sigue teniendo entrada relativamente accesible para startups financiadas con capital de riesgo.",
+          "notas": "Altas para plataformas integrales (escala de I+D, certificaciones regulatorias, relaciones enterprise de largo plazo), aunque el segmento de point-solutions específicas sigue teniendo entrada relativamente accesible para startups financiadas con capital de riesgo.",
           "calificacion": 3
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad muy alta (CRWD, FTNT, Check Point, Microsoft, Zscaler, Cisco-Splunk); poder de negociacion del comprador moderado-alto en cuentas enterprise grandes; poder de proveedores bajo (infraestructura cloud generica); amenaza de sustitutos moderada (bundling de Microsoft E5 es el mas relevante); barreras de entrada altas para el segmento de plataforma.",
+          "notas": "Rivalidad muy alta (CRWD, FTNT, Check Point, Microsoft, Zscaler, Cisco-Splunk); poder de negociación del comprador moderado-alto en cuentas enterprise grandes; poder de proveedores bajo (infraestructura cloud generica); amenaza de sustitutos moderada (bundling de Microsoft E5 es el mas relevante); barreras de entrada altas para el segmento de plataforma.",
           "calificacion": 3
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "El gasto en ciberseguridad es defensivo-resiliente (presupuesto de seguridad rara vez se recorta primero en una desaceleracion), menos ciclico que la mayoria de TI discrecional.",
+          "notas": "El gasto en ciberseguridad es defensivo-resiliente (presupuesto de seguridad rara vez se recorta primero en una desaceleración), menos ciclico que la mayoría de TI discrecional.",
           "calificacion": 4
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Revision de ciberseguridad iniciada por el gobierno chino (analistas la consideran manejable, exposicion de ingresos en China limitada); riesgo regulatorio de fusiones ya despejado (la adquisicion de CyberArk recibio las aprobaciones de EEUU-UE-UK-Israel necesarias, sin pendientes materiales identificados).",
+          "notas": "Revisión de ciberseguridad iniciada por el gobierno chino (analistas la consideran manejable, exposición de ingresos en China limitada); riesgo regulatorio de fusiones ya despejado (la adquisición de CyberArk recibio las aprobaciones de EEUU-UE-UK-Israel necesarias, sin pendientes materiales identificados).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional moderada (ingresos mayormente en USD y mercados desarrollados), riesgo cambiario no destacado como material en la investigacion de esta sesion.",
+          "notas": "Exposición internacional moderada (ingresos mayormente en USD y mercados desarrollados), riesgo cambiario no destacado como material en la investigación de esta sesión.",
           "calificacion": 4
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de clientes enterprise-gobierno muy diversificada (miles de organizaciones, sin cliente individual con peso relevante); dependencia de proveedores de infraestructura cloud (AWS, Azure, Google Cloud) para partes de la plataforma, sin proveedor unico critico.",
+          "notas": "Base de clientes enterprise-gobierno muy diversificada (miles de organizaciones, sin cliente individual con peso relevante); dependencia de proveedores de infraestructura cloud (AWS, Azure, Google Cloud) para partes de la plataforma, sin proveedor único critico.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo de integracion real y de gran magnitud: la adquisicion de CyberArk (USD25bn, la mas grande de la historia del sector) aun no tiene track record de ejecucion; ademas, Microsoft empaquetando seguridad basica dentro de licencias E5 es una amenaza estructural de sustitucion de largo plazo para el segmento de menor valor agregado.",
+          "notas": "Riesgo de integración real y de gran magnitud: la adquisición de CyberArk (USD25bn, la mas grande de la historia del sector) aun no tiene track record de ejecución; además, Microsoft empaquetando seguridad básica dentro de licencias E5 es una amenaza estructural de sustitución de largo plazo para el segmento de menor valor agregado.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversias ESG mayores identificadas en esta sesion; el review de ciberseguridad del gobierno chino tiene un componente geopolitico pero no es estrictamente un riesgo ESG.",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesión; el review de ciberseguridad del gobierno chino tiene un componente geopolítico pero no es estrictamente un riesgo ESG.",
           "calificacion": 4
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Proximo reporte de resultados el 1-sep-2026 (primer trimestre completo con CyberArk consolidado todo el periodo) - clave para validar la integracion y el guidance combinado.",
+          "notas": "Proximo reporte de resultados el 1-sep-2026 (primer trimestre completo con CyberArk consolidado todo el período) - clave para validar la integración y el guidance combinado.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "CEO Nikesh Arora: 27 de 28 transacciones en 5 anios fueron ventas (incluida una venta de USD172.7M en sep-2025), pero rompio ese patron con una compra de USD10M en mar-2026, su primera desde 2019 - senial positiva notable que el mercado premio con un rally de +5% el dia de la divulgacion.",
+          "notas": "CEO Nikesh Arora: 27 de 28 transacciones en 5 años fueron ventas (incluida una venta de USD172.7M en sep-2025), pero rompio ese patrón con una compra de USD10M en mar-2026, su primera desde 2019 - senial positiva notable que el mercado premio con un rally de +5% el dia de la divulgación.",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso Buy fuerte (55 analistas), pero precio objetivo promedio (USD345-347) esta por debajo del precio actual (USD387.01, -10.8%) - patron similar al de ACN (consenso nominal alcista pero objetivo de precio ya no ofrece upside), aunque varias casas (BofA USD420, Oppenheimer USD400, Citizens USD415) elevaron sus objetivos por encima del precio tras resultados recientes - senial mixta.",
+          "notas": "Consenso Buy fuerte (55 analistas), pero precio objetivo promedio (USD345-347) esta por debajo del precio actual (USD387.01, -10.8%) - patrón similar al de ACN (consenso nominal alcista pero objetivo de precio ya no ofrece upside), aunque varias casas (BofA USD420, Oppenheimer USD400, Citizens USD415) elevaron sus objetivos por encima del precio tras resultados recientes - senial mixta.",
           "calificacion": 3
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.3783783783783785,
-    "recomendacion": "NO COMPRAR - VALORACION MUY EXIGENTE (vender o reducir si ya se tiene posicion). Score Total 3.38/5 (negocio de calidad real, moat de plataforma solido) pero Margen de Seguridad -48.6% (Escenario A adoptado) - mismo patron ya establecido con CRWD/NFLX/MU/TSM/CAT/COST: excelente negocio, mal precio. Incluso con el Escenario B mas generoso (crecimiento igual a la guia FY26 de +32%), el margen sigue negativo (-35.1%). El riesgo de integracion de la adquisicion de CyberArk (USD25bn, la mas grande del sector) anade incertidumbre adicional no totalmente resuelta.",
-    "tesis": "El lider de plataforma de ciberseguridad con el mejor moat de bundling del sector acaba de cerrar la adquisicion mas grande de la historia de la industria (CyberArk, USD25bn), pero cotiza a multiplos de crecimiento extremos que ya incorporan anios de ejecucion perfecta, dejando poco margen de seguridad incluso en escenarios generosos."
+    "recomendacion": "NO COMPRAR - VALORASIÓN MUY EXIGENTE (vender o reducir si ya se tiene posición). Score Total 3.38/5 (negocio de calidad real, moat de plataforma sólido) pero Margen de Seguridad -48.6% (Escenario A adoptado) - mismo patrón ya establecido con CRWD/NFLX/MU/TSM/CAT/COST: excelente negocio, mal precio. Incluso con el Escenario B mas generoso (crecimiento igual a la guia FY26 de +32%), el margen sigue negativo (-35.1%). El riesgo de integración de la adquisición de CyberArk (USD25bn, la mas grande del sector) anade incertidumbre adicional no totalmente resuelta.",
+    "tesis": "El líder de plataforma de ciberseguridad con el mejor moat de bundling del sector acaba de cerrar la adquisición mas grande de la historia de la industria (CyberArk, USD25bn), pero cotiza a múltiplos de crecimiento extremos que ya incorporan años de ejecución perfecta, dejando poco margen de seguridad incluso en escenarios generosos."
   }
 }

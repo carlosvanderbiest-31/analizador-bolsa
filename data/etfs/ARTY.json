@@ -1,36 +1,36 @@
 {
   "nombre": "iShares Future AI & Tech ETF",
   "ticker": "ARTY",
-  "categoria": "Equity Tematico/Factor (Inteligencia Artificial, tema cross-sector: semis+software+infra+servicios)",
+  "categoria": "Equity Temático/Factor (Inteligencia Artificial, tema cross-sector: semis+software+infra+servicios)",
   "emisor": "BlackRock (iShares)",
   "fecha_analisis": "2026-08-10",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA POR MUESTREO ('optimized sampling', confirmado por Trackinsight) - no fisica completa. Sin swaps, sin riesgo de contraparte.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA POR MUESTREO ('optimized sampling', confirmado por Trackinsight) - no física completa. Sin swaps, sin riesgo de contraparte.",
           "calificacion": 4
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domicilio US (iShares Trust), pero holdings incluyen exposicion real fuera de EEUU (TSM-Taiwan, SK Hynix/NAVER/Global Unichip-Corea/Taiwan segun fuente) - trae friccion fiscal de retencion sobre dividendos extranjeros y riesgo geopolitico de Taiwan (mismo gotcha ya documentado con TSM en el Dashboard de acciones), aunque el dividend yield del fondo es casi nulo (0.06%) por lo que el impacto fiscal practico es menor que en VYMI.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domicilio US (iShares Trust), pero holdings incluyen exposición real fuera de EEUU (TSM-Taiwan, SK Hynix/NAVER/Global Unichip-Corea/Taiwan según fuente) - trae fricción fiscal de retención sobre dividendos extranjeros y riesgo geopolítico de Taiwan (mismo gotcha ya documentado con TSM en el Dashboard de acciones), aunque el dividend yield del fondo es casi nulo (0.06%) por lo que el impacto fiscal practico es menor que en VYMI.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM = $3.78-3.81bn (stockanalysis.com) / ~EUR3.3bn (~$3.6bn, Trackinsight, 7-ago-2026) - razonablemente consistente entre fuentes. Tamano mediano-grande, sin riesgo de cierre.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM = $3.78-3.81bn (stockanalysis.com) / ~EUR3.3bn (~$3.6bn, Trackinsight, 7-ago-2026) - razonablemente consistente entre fuentes. Tamaño mediano-grande, sin riesgo de cierre.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "GOTCHA CENTRAL DE ESTA FICHA: el VEHICULO tiene inception 26-jun-2018 (~8.1 anios, reportado uniformemente por todas las fuentes), PERO fue lanzado y opero bajo el ticker IRBO como 'iShares Robotics and Artificial Intelligence Multisector ETF', siguiendo el NYSE FactSet Global Robotics and Artificial Intelligence Index. El 12-ago-2024 BlackRock CAMBIO el ticker a ARTY, el nombre a 'iShares Future AI & Tech ETF' Y el indice subyacente a Morningstar Global Artificial Intelligence Select Index - un cambio COMPLETO de tesis/tema, no solo de proveedor de indice (mas severo que el cambio MSCI->CRSP de VTV en 2013, que mantuvo el mismo tema value). El track record REAL y comparable de la estrategia actual es de solo ~2.0 anios, pese a que el 'Antiguedad' que reportan todos los agregadores es 8.1 anios del vehiculo legal.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "GOTCHA CENTRAL DE ESTA FICHA: el VEHÍCULO tiene inception 26-jun-2018 (~8.1 años, reportado uniformemente por todas las fuentes), PERO fue lanzado y opero bajo el ticker IRBO como 'iShares Robotics and Artificial Intelligence Multisector ETF', siguiendo el NYSE FactSet Global Robotics and Artificial Intelligence Index. El 12-ago-2024 BlackRock CAMBIO el ticker a ARTY, el nombre a 'iShares Future AI & Tech ETF' Y el índice subyacente a Morningstar Global Artificial Intelligence Select Index - un cambio COMPLETO de tesis/tema, no solo de proveedor de índice (mas severo que el cambio MSCI->CRSP de VTV en 2013, que mantuvo el mismo tema value). El track record REAL y comparable de la estrategia actual es de solo ~2.0 años, pese a que el 'Antigüedad' que reportan todos los agregadores es 8.1 años del vehículo legal.",
           "calificacion": 2
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
-          "notas": "Emisor BlackRock/iShares - cuarta aparicion en el proyecto (IHAK, SOXX, ITA, ahora ARTY). Maxima reputacion y escala, sin dudas de credibilidad del EMISOR (a diferencia de EUV/Corgi) - el riesgo aqui esta en el cambio de estrategia del fondo, no en quien lo gestiona.",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - cuarta aparición en el proyecto (IHAK, SOXX, ITA, ahora ARTY). Maxima reputación y escala, sin dudas de credibilidad del EMISOR (a diferencia de EUV/Corgi) - el riesgo aquí esta en el cambio de estrategia del fondo, no en quien lo gestiona.",
           "calificacion": 5
         }
       ],
@@ -40,152 +40,152 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.47% (confirmado por consenso de 4+ fuentes: stockanalysis, ishares, Trackinsight, busqueda general) - EMPATA EXACTAMENTE con IHAK (0.47%), mas caro que SOXX (0.34%)/SMH (0.35%)/EUV (0.35%), mas barato que CIBR (0.58%)/CRAK (0.61%)/DRAM (0.65%). Moderado-alto, tipico de tematico de nicho global.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.47% (confirmado por consenso de 4+ fuentes: stockanalysis, ishares, Trackinsight, busqueda general) - EMPATA EXACTAMENTE con IHAK (0.47%), mas caro que SOXX (0.34%)/SMH (0.35%)/EUV (0.35%), mas barato que CIBR (0.58%)/CRAK (0.61%)/DRAM (0.65%). Moderado-alto, típico de temático de nicho global.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference no verificada con fuente primaria esta sesion (mismo gap que en la mayoria de fichas del proyecto).",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesión (mismo gap que en la mayoría de fichas del proyecto).",
           "calificacion": 3
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Securities lending revenue no verificado esta sesion.",
+          "notas": "Securities lending revenue no verificado esta sesión.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Rotacion/rebalanceo del indice Morningstar Global AI Select no confirmado con fecha exacta esta sesion (a diferencia de VGT donde si se confirmo trimestral).",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Rotación/rebalanceo del índice Morningstar Global AI Select no confirmado con fecha exacta esta sesión (a diferencia de VGT donde si se confirmo trimestral).",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario = 141,947 acciones (stockanalysis) x ~$76.16/accion (precio de referencia mas reciente encontrado) = aprox $10.8M/dia - liquidez MODESTA, muy inferior a SCHD/VTV/VUG/VGT (cientos de millones/dia) pero razonable para un fondo tematico de nicho de este tamano.",
+          "notas": "Volumen diario = 141,947 acciones (stockanalysis) x ~$76.16/acción (precio de referencia mas reciente encontrado) = aprox $10.8M/dia - liquidez MODESTA, muy inferior a SCHD/VTV/VUG/VGT (cientos de millones/dia) pero razonable para un fondo temático de nicho de este tamaño.",
           "calificacion": 3
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask = 0.09% (mediana 30 dias, fuente unica tipo agregador de dividendos/liquidez) - ajustado, coherente con el AUM y volumen reportados.",
+          "notas": "Spread bid-ask = 0.09% (mediana 30 dias, fuente única tipo agregador de dividendos/liquidez) - ajustado, coherente con el AUM y volumen reportados.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesión.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "BlackRock/iShares, fondo de tamano mediano-grande ($3.8bn) - se infiere profundidad de Authorized Participants adecuada, sin evidencia de problemas de creacion/redencion.",
+          "notas": "BlackRock/iShares, fondo de tamaño mediano-grande ($3.8bn) - se infiere profundidad de Authorized Participants adecuada, sin evidencia de problemas de creación/redención.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 3.5
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "N Holdings INCONSISTENTE entre fuentes: 64-65 (stockanalysis) vs 50 (Trackinsight) vs 49 (PortfoliosLab) - diferencia significativa, posiblemente por fechas de snapshot distintas dado que el indice de Morningstar pondera/reconstituye por score de exposicion a IA (mas dinamico que un indice cap-weighted tradicional). Se uso 64 (fuente dedicada stockanalysis) en el Dashboard, con esta nota de cautela.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "N Holdings INCONSISTENTE entre fuentes: 64-65 (stockanalysis) vs 50 (Trackinsight) vs 49 (PortfoliosLab) - diferencia significativa, posiblemente por fechas de snapshot distintas dado que el índice de Morningstar pondera/reconstituye por score de exposición a IA (mas dinámico que un índice cap-weighted tradicional). Se uso 64 (fuente dedicada stockanalysis) en el Dashboard, con esta nota de cautela.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 41.84% (stockanalysis) vs 42.75% (Trackinsight, con composicion de nombres distinta pero suma casi identica) - BUENA corroboracion del PORCENTAJE total pese a diferir en los nombres exactos del 7-10. Concentracion moderada-alta, similar a XOP (30.3%) y por debajo de CIBR/SOXX/SMH/ITA/VGT (57-77%).",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 41.84% (stockanalysis) vs 42.75% (Trackinsight, con composición de nombres distinta pero suma casi identica) - BUENA corroboración del PORCENTAJE total pese a diferir en los nombres exactos del 7-10. Concentración moderada-alta, similar a XOP (30.3%) y por debajo de CIBR/SOXX/SMH/ITA/VGT (57-77%).",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Sector Technology = 87-89% (Trackinsight: Technology 89.18%, Industrials 5.29%, Business Services 2.19%, Utilities 1.61%) - muy concentrado en un mega-sector, aunque el indice en si pondera 4 subtemas de IA (GenAI, datos/infraestructura, software, servicios) dentro de ese mismo sector. Nivel similar a CIBR/IHAK/VGT, menos extremo que SOXX/SMH (99%).",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Sector Technology = 87-89% (Trackinsight: Technology 89.18%, Industrials 5.29%, Business Services 2.19%, Utilities 1.61%) - muy concentrado en un mega-sector, aunque el índice en si pondera 4 subtemas de IA (GenAI, datos/infraestructura, software, servicios) dentro de ese mismo sector. Nivel similar a CIBR/IHAK/VGT, menos extremo que SOXX/SMH (99%).",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Geografia: USA + Taiwan + Corea del Sur como exposiciones principales (Trackinsight) - PRIMER ETF 'growth/tematico de IA' del proyecto con exposicion internacional real y cuantificable en el propio top10 (TSM, SK Hynix/NAVER/Global Unichip segun fuente), a diferencia de SOXX/SMH/VGT que son ~100% US en el top10 (ASML de SOXX queda fuera del top10). No tan diversificado como VYMI/CRAK, pero mas que los pares semis puros del proyecto.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Geografia: USA + Taiwan + Corea del Sur como exposiciones principales (Trackinsight) - PRIMER ETF 'growth/temático de IA' del proyecto con exposición internacional real y cuantificable en el propio top10 (TSM, SK Hynix/NAVER/Global Unichip según fuente), a diferencia de SOXX/SMH/VGT que son ~100% US en el top10 (ASML de SOXX queda fuera del top10). No tan diversificado como VYMI/CRAK, pero mas que los pares semis puros del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Growth/tecnologia tematico puro (IA), con dividend yield casi nulo (0.06%) - perfil de estilo consistente con IHAK/EUV/DRAM del proyecto.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Growth/tecnología temático puro (IA), con dividend yield casi nulo (0.06%) - perfil de estilo consistente con IHAK/EUV/DRAM del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Morningstar Global Artificial Intelligence Select NTR Index: pondera companias por un SCORE de exposicion a 4 subtemas de IA (GenAI, datos/infraestructura de IA, software de IA, servicios de IA) - metodologia mas discrecional/cualitativa ('smart beta' tematico) que un indice puro cap-weighted por GICS o pais. Transparencia razonable (documentada por Morningstar) pero con menos historial de estabilidad metodologica que los indices tradicionales ya vistos en el proyecto (S&P, MSCI, CRSP, Nasdaq, Dow Jones), agravado por el cambio de indice completo de 2024.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Morningstar Global Artificial Intelligence Select NTR Index: pondera compañías por un SCORE de exposición a 4 subtemas de IA (GenAI, datos/infraestructura de IA, software de IA, servicios de IA) - metodología mas discrecional/cualitativa ('smart beta' temático) que un índice puro cap-weighted por GICS o pais. Transparencia razonable (documentada por Morningstar) pero con menos historial de estabilidad metodologica que los índices tradicionales ya vistos en el proyecto (S&P, MSCI, CRSP, Nasdaq, Dow Jones), agravado por el cambio de índice completo de 2024.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas y frecuencia de rebalanceo del indice de Morningstar no confirmadas con precision esta sesion.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas y frecuencia de rebalanceo del índice de Morningstar no confirmadas con precisión esta sesión.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.86
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 'desde inception' = 15.82-15.96% anualizado (stockanalysis) - NO ES REPRESENTATIVO de la estrategia actual: mezcla ~6.1 anios bajo el mandato ROBOTICS anterior (2018-2024, indice NYSE FactSet Global Robotics and AI, ticker IRBO) con solo ~2.0 anios bajo el mandato ACTUAL de IA (desde ago-2024). No existe un retorno anualizado limpio de 3Y/5Y/10Y para la estrategia actual con estos datos - se dejaron esas columnas en blanco en el Dashboard en vez de forzar una cifra enganosa.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 'desde inception' = 15.82-15.96% anualizado (stockanalysis) - NO ES REPRESENTATIVO de la estrategia actual: mezcla ~6.1 años bajo el mandato ROBOTICS anterior (2018-2024, índice NYSE FactSet Global Robotics and AI, ticker IRBO) con solo ~2.0 años bajo el mandato ACTUAL de IA (desde ago-2024). No existe un retorno anualizado limpio de 3Y/5Y/10Y para la estrategia actual con estos datos - se dejaron esas columnas en blanco en el Dashboard en vez de forzar una cifra enganosa.",
           "calificacion": 2
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada = 37.42% (PortfoliosLab) - unica cifra numericamente coherente con el beta (1.51) y el perfil concentrado en semis/IA (similar a SOXX 37%/SMH 37-39%, aceptadas en el proyecto pese a fuente unica por ser cualitativamente coherentes). Se DESCARTO una cifra alternativa de 15.60% por implausible (demasiado baja para un fondo tematico concentrado de alto beta) - mismo criterio ya aplicado a VYMI/IHAK/CIBR.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada = 37.42% (PortfoliosLab) - única cifra numericamente coherente con el beta (1.51) y el perfil concentrado en semis/IA (similar a SOXX 37%/SMH 37-39%, aceptadas en el proyecto pese a fuente única por ser cualitativamente coherentes). Se DESCARTO una cifra alternativa de 15.60% por implausible (demasiado baja para un fondo temático concentrado de alto beta) - mismo criterio ya aplicado a VYMI/IHAK/CIBR.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown: DOS cifras validas mas NO comparables entre si por referirse a periodos distintos (mismo tipo de gotcha ya documentado con la ambiguedad de definicion de ITA, aqui la ambiguedad es de VENTANA temporal, no de definicion): -18.8% parece corresponder solo al periodo bajo el mandato ACTUAL (desde ago-2024), mientras que -54.50% corresponde al historial COMPLETO del vehiculo desde 2018 (incluye la era robotics). El rango de 52 semanas mas reciente ($40.00-$81.85, -51% pico a valle) es mas consistente con la cifra de -54.5% que con -18.8%, por lo que se uso -54.5% en el Dashboard como la mas creible, con esta nota de cautela explicita.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown: DOS cifras validas mas NO comparables entre si por referirse a períodos distintos (mismo tipo de gotcha ya documentado con la ambiguedad de definición de ITA, aquí la ambiguedad es de VENTANA temporal, no de definición): -18.8% parece corresponder solo al período bajo el mandato ACTUAL (desde ago-2024), mientras que -54.50% corresponde al historial COMPLETO del vehículo desde 2018 (incluye la era robotics). El rango de 52 semanas mas reciente ($40.00-$81.85, -51% pico a valle) es mas consistente con la cifra de -54.5% que con -18.8%, por lo que se uso -54.5% en el Dashboard como la mas creible, con esta nota de cautela explicita.",
           "calificacion": 2
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "Sharpe Ratio reciente (12m trailing) = 1.70 y 1.86 segun dos snippets de PortfoliosLab, razonablemente cercanos entre si - pero NINGUNO es un Sharpe de largo plazo fiable de la estrategia ACTUAL (el indice solo tiene ~2 anios), a diferencia de otros ETFs del proyecto donde se pudo diferenciar Sharpe 'largo plazo' vs 'reciente'. Se uso el promedio (1.78) con esta advertencia.",
+          "notas": "Sharpe Ratio reciente (12m trailing) = 1.70 y 1.86 según dos snippets de PortfoliosLab, razonablemente cercanos entre si - pero NINGUNO es un Sharpe de largo plazo fiable de la estrategia ACTUAL (el índice solo tiene ~2 años), a diferencia de otros ETFs del proyecto donde se pudo diferenciar Sharpe 'largo plazo' vs 'reciente'. Se uso el promedio (1.78) con esta advertencia.",
           "calificacion": 3
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 1.51 (stockanalysis, fuente dedicada) - se DESCARTO una cifra de 2.05 (PortfoliosLab, ventana de 3 anios) por estar probablemente CONTAMINADA con datos del mandato ROBOTICS anterior a ago-2024, mismo periodo cuestionado en la fila de Antiguedad y Rentabilidad. OVERLAP CUANTIFICABLE ALTO con el Dashboard de acciones individuales del usuario: 8 de los 10 holdings del top10 (NVDA 5.13%, AVGO 5.05%, TSM 4.71%, AMD 4.57%, MU 4.30%, MRVL 3.50%, PLTR 3.37%, CRWV 4.08%) YA estan analizados individualmente, sumando aprox 34.7% del fondo (corroborado de forma independiente por el top10 de Trackinsight, que con nombres parcialmente distintos -MU/AMD/TSM/MRVL/NVDA/CRWV/AVGO- da un overlap muy similar, aprox 32.9%). Menor en magnitud que el record de SMH (61.9%)/VUG (60.3%)/VGT (57.7%)/SOXX (52.6%), pero muy cercano al de CIBR (31.3%) - solo NAVER/SK Hynix y SMCI del top10 no estan ya cubiertos individualmente.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.51 (stockanalysis, fuente dedicada) - se DESCARTO una cifra de 2.05 (PortfoliosLab, ventana de 3 años) por estar probablemente CONTAMINADA con datos del mandato ROBOTICS anterior a ago-2024, mismo período cuestionado en la fila de Antigüedad y Rentabilidad. OVERLAP CUANTIFICABLE ALTO con el Dashboard de acciones individuales del usuario: 8 de los 10 holdings del top10 (NVDA 5.13%, AVGO 5.05%, TSM 4.71%, AMD 4.57%, MU 4.30%, MRVL 3.50%, PLTR 3.37%, CRWV 4.08%) YA estan analizados individualmente, sumando aprox 34.7% del fondo (corroborado de forma independiente por el top10 de Trackinsight, que con nombres parcialmente distintos -MU/AMD/TSM/MRVL/NVDA/CRWV/AVGO- da un overlap muy similar, aprox 32.9%). Menor en magnitud que el récord de SMH (61.9%)/VUG (60.3%)/VGT (57.7%)/SOXX (52.6%), pero muy cercano al de CIBR (31.3%) - solo NAVER/SK Hynix y SMCI del top10 no estan ya cubiertos individualmente.",
           "calificacion": 2
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Comportamiento en crisis pasadas (2020, 2022) NO es realmente atribuible a la composicion/estrategia ACTUAL del fondo, dado que esos eventos ocurrieron bajo el mandato ROBOTICS anterior (indice y universo de holdings distintos). No hay un evento de crisis observado todavia bajo el mandato de IA vigente desde ago-2024 mas alla de la correccion reciente ya capturada en el Max Drawdown de -54.5%/-18.8%.",
+          "notas": "Comportamiento en crisis pasadas (2020, 2022) NO es realmente atribuible a la composición/estrategia ACTUAL del fondo, dado que esos eventos ocurrieron bajo el mandato ROBOTICS anterior (índice y universo de holdings distintos). No hay un evento de crisis observado todavía bajo el mandato de IA vigente desde ago-2024 mas alla de la corrección reciente ya capturada en el Max Drawdown de -54.5%/-18.8%.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 31.10x - caro en terminos absolutos (por encima de CIBR 33.92x? no, MENOR que CIBR, pero muy por encima de SCHD/VYMI/VTV e IHAK), aunque MENOS extremo que SOXX (47.6x)/SMH (44.7x)/EUV (61.6x)/VUG (36.65x)/VGT (38.3x). Sin poder calcular un PERCENTIL historico propio confiable, porque el indice actual solo tiene ~2 anios de historia (no hay ventana de 5-10y propia de ESTA composicion/metodologia para contextualizar si 31x es caro o barato en terminos relativos a si mismo).",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 31.10x - caro en términos absolutos (por encima de CIBR 33.92x? no, MENOR que CIBR, pero muy por encima de SCHD/VYMI/VTV e IHAK), aunque MENOS extremo que SOXX (47.6x)/SMH (44.7x)/EUV (61.6x)/VUG (36.65x)/VGT (38.3x). Sin poder calcular un PERCENTIL histórico propio confiable, porque el índice actual solo tiene ~2 años de historia (no hay ventana de 5-10y propia de ESTA composición/metodología para contextualizar si 31x es caro o barato en términos relativos a si mismo).",
           "calificacion": 2
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield = 0.06% - practicamente nulo, consistente con un fondo growth/tematico de reinversion total. Distribucion SEMESTRAL (fuente: agregador de dividendos, corroborado por historial de pagos minimos).",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield = 0.06% - prácticamente nulo, consistente con un fondo growth/temático de reinversión total. Distribución SEMESTRAL (fuente: agregador de dividendos, corroborado por historial de pagos mínimos).",
           "calificacion": 3
         },
         {
-          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "aspecto": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
           "notas": "No aplica - ARTY es un fondo 100% equity, sin componente de renta fija.",
           "calificacion": null
         },
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparables directos de tema IA identificados pero NO verificados con datos propios esta sesion (mismo patron de placeholder ya usado en la primera Ficha de un nicho antes de tener un competidor propio en el workbook, ej. IHAK antes de CIBR): BOTZ (Global X Robotics & AI), AIQ (Global X Artificial Intelligence & Technology), ROBT (First Trust Nasdaq AI and Robotics). Pendiente actualizar retroactivamente si se analiza alguno de estos en el futuro (mismo protocolo ya aplicado con IHAK/CIBR, SOXX/SMH, XOP/CRAK, VTV/VUG).",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparables directos de tema IA identificados pero NO verificados con datos propios esta sesión (mismo patrón de placeholder ya usado en la primera Ficha de un nicho antes de tener un competidor propio en el workbook, ej. IHAK antes de CIBR): BOTZ (Global X Robotics & AI), AIQ (Global X Artificial Intelligence & Technology), ROBT (First Trust Nasdaq AI and Robotics). Pendiente actualizar retroactivamente si se analiza alguno de estos en el futuro (mismo protocolo ya aplicado con IHAK/CIBR, SOXX/SMH, XOP/CRAK, VTV/VUG).",
           "calificacion": 3
         }
       ],
@@ -195,23 +195,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol en el portafolio: dado el overlap cuantificable alto (~34.7% del fondo, 8/10 del top10) con convicciones individuales YA tomadas por el usuario en semiconductores/IA (NVDA, AVGO, TSM, AMD, MU, MRVL) y en growth especulativo (PLTR, CRWV, ambos ya analizados como 'ESPECULATIVO DE ALTO RIESGO' en el Dashboard de acciones), sumado al track record real corto (~2 anios) de la estrategia vigente, ARTY funciona como Satelite tematico de conviccion baja-media, NO como Core - el usuario ya tiene expresadas la mayoria de estas convicciones individualmente.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol en el portafolio: dado el overlap cuantificable alto (~34.7% del fondo, 8/10 del top10) con convicciones individuales YA tomadas por el usuario en semiconductores/IA (NVDA, AVGO, TSM, AMD, MU, MRVL) y en growth especulativo (PLTR, CRWV, ambos ya analizados como 'ESPECULATIVO DE ALTO RIESGO' en el Dashboard de acciones), sumado al track record real corto (~2 años) de la estrategia vigente, ARTY funciona como Satélite temático de convicción baja-media, NO como Core - el usuario ya tiene expresadas la mayoría de estas convicciones individualmente.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion diversificada al TEMA amplio de Inteligencia Artificial (generacion, infraestructura/datos, software, servicios) en una sola canasta de ~64 nombres, en vez de concentrar unicamente en semiconductores (SOXX/SMH) o en nombres individuales. Tesis legitima de amplitud tematica, pero diluida porque la mayor parte del peso del fondo ya esta cubierta por convicciones individuales del usuario.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición diversificada al TEMA amplio de Inteligencia Artificial (generación, infraestructura/datos, software, servicios) en una sola canasta de ~64 nombres, en vez de concentrar unicamente en semiconductores (SOXX/SMH) o en nombres individuales. Tesis legitima de amplitud temática, pero diluida porque la mayor parte del peso del fondo ya esta cubierta por convicciones individuales del usuario.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos principales: (1) overlap cuantificable alto con cartera individual (~34.7% del top10, 8/10 nombres); (2) track record REAL de la estrategia vigente muy corto (~2.0 anios desde el cambio de indice/nombre en ago-2024, pese a que el vehiculo reporta 8.1 anios); (3) valoracion cara (P/E 31.1x) sin percentil historico propio confiable para contextualizarla; (4) volatilidad alta (~37%) y drawdown historico severo (-51% a -54.5% segun ventana); (5) exposicion internacional real (Taiwan/Corea) trae friccion fiscal de retencion y riesgo geopolitico (Taiwan Strait, ya documentado con TSM en el Dashboard de acciones); (6) metodologia de indice basada en scoring tematico discrecional de Morningstar, con menos historial de estabilidad que indices tradicionales.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap cuantificable alto con cartera individual (~34.7% del top10, 8/10 nombres); (2) track record REAL de la estrategia vigente muy corto (~2.0 años desde el cambio de índice/nombre en ago-2024, pese a que el vehículo reporta 8.1 años); (3) valoración cara (P/E 31.1x) sin percentil histórico propio confiable para contextualizarla; (4) volatilidad alta (~37%) y drawdown histórico severo (-51% a -54.5% según ventana); (5) exposición internacional real (Taiwan/Corea) trae fricción fiscal de retención y riesgo geopolítico (Taiwan Strait, ya documentado con TSM en el Dashboard de acciones); (6) metodología de índice basada en scoring temático discrecional de Morningstar, con menos historial de estabilidad que índices tradicionales.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Alternativas no verificadas con datos propios esta sesion (ver fila 50): BOTZ, AIQ, ROBT - buenos candidatos para una futura comparacion cabeza a cabeza dentro del mismo nicho de IA amplia.",
+          "notas": "Alternativas no verificadas con datos propios esta sesión (ver fila 50): BOTZ, AIQ, ROBT - buenos candidatos para una futura comparación cabeza a cabeza dentro del mismo nicho de IA amplia.",
           "calificacion": 3
         }
       ],
@@ -219,6 +219,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). Score 2.91/5, el PRIMERO por debajo del umbral de 3.0 sin ser un caso de emisor no probado (EUV) ni de estructura de swap (DRAM) ni de value-trap ciclico de commodity (CRAK) - es un CUARTO arquetipo distinto de score bajo: emisor de maxima calidad (BlackRock) y vehiculo de 8.1 anios, pero con un CAMBIO COMPLETO de indice/tesis en ago-2024 (de robotics multisector a IA pura, ticker IRBO->ARTY) que deja el track record REAL de la estrategia vigente en apenas ~2.0 anios. A eso se suma un overlap alto (~34.7% del top10, 8/10 nombres) con convicciones individuales ya tomadas por el usuario en semis/IA (NVDA, AVGO, TSM, AMD, MU, MRVL) y growth especulativo (PLTR, CRWV), valoracion cara (P/E 31.1x) sin percentil historico propio fiable, y volatilidad/drawdown altos. Comparado con CIBR (overlap similar, ~31.3%, pero Score 3.09 por encima del umbral): la diferencia decisiva es el track record - CIBR tiene 11.1 anios de historia LIMPIA de un solo indice, mientras que ARTY solo tiene ~2 anios utilizables tras el pivote de tesis. Precedente util: un cambio de indice que ademas implica un cambio COMPLETO de tema/tesis (no solo de proveedor, como VTV MSCI->CRSP) debe tratarse como un reinicio efectivo del track record a efectos de evaluacion, incluso si el vehiculo legal y el emisor son antiguos y solidos."
+    "tesis": "REDUCIR/VENDER (evitar). Score 2.91/5, el PRIMERO por debajo del umbral de 3.0 sin ser un caso de emisor no probado (EUV) ni de estructura de swap (DRAM) ni de value-trap ciclico de commodity (CRAK) - es un CUARTO arquetipo distinto de score bajo: emisor de maxima calidad (BlackRock) y vehículo de 8.1 años, pero con un CAMBIO COMPLETO de índice/tesis en ago-2024 (de robotics multisector a IA pura, ticker IRBO->ARTY) que deja el track record REAL de la estrategia vigente en apenas ~2.0 años. A eso se suma un overlap alto (~34.7% del top10, 8/10 nombres) con convicciones individuales ya tomadas por el usuario en semis/IA (NVDA, AVGO, TSM, AMD, MU, MRVL) y growth especulativo (PLTR, CRWV), valoración cara (P/E 31.1x) sin percentil histórico propio fiable, y volatilidad/drawdown altos. Comparado con CIBR (overlap similar, ~31.3%, pero Score 3.09 por encima del umbral): la diferencia decisiva es el track record - CIBR tiene 11.1 años de historia LIMPIA de un solo índice, mientras que ARTY solo tiene ~2 años utilizables tras el pivote de tesis. Precedente util: un cambio de índice que además implica un cambio COMPLETO de tema/tesis (no solo de proveedor, como VTV MSCI->CRSP) debe tratarse como un reinicio efectivo del track record a efectos de evaluación, incluso si el vehículo legal y el emisor son antiguos y sólidos."
   }
 }

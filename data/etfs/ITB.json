@@ -1,35 +1,35 @@
 {
   "nombre": "iShares U.S. Home Construction ETF",
   "ticker": "ITB",
-  "categoria": "Equity Tematico/Factor (constructoras de vivienda residencial EEUU + proveedores/mejoras del hogar)",
+  "categoria": "Equity Temático/Factor (constructoras de vivienda residencial EEUU + proveedores/mejoras del hogar)",
   "emisor": "iShares/BlackRock",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica por MUESTREO -sampling-, no fisica completa -confianza media, no se pudo verificar directamente en ficha oficial ishares.com por bloqueo 403-. Sin swaps ni riesgo de contraparte confirmado.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica por MUESTREO -sampling-, no física completa -confianza media, no se pudo verificar directamente en ficha oficial ishares.com por bloqueo 403-. Sin swaps ni riesgo de contraparte confirmado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domiciliado en EEUU -Cboe BZX Exchange-, sin retencion de dividendos extranjeros.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domiciliado en EEUU -Cboe BZX Exchange-, sin retención de dividendos extranjeros.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
-          "notas": "AUM con RANGO DISPERSO entre fuentes -$2.16bn a $2.77bn segun fecha de captura-, no reconciliado a una cifra unica. Moderado en terminos absolutos para un fondo con 20 anios de historia.",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
+          "notas": "AUM con RANGO DISPERSO entre fuentes -$2.16bn a $2.77bn según fecha de captura-, no reconciliado a una cifra única. Moderado en términos absolutos para un fondo con 20 años de historia.",
           "calificacion": 3
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "20.3 anios desde inception -1-may-2006-. **CUBRE LA BURBUJA INMOBILIARIA/CRISIS 2008 DE FORMA DIRECTA Y COMPLETA** -el evento MAS relevante posible para un fondo de constructoras de vivienda, nace apenas 1-2 anios antes del colapso-.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "20.3 años desde inception -1-may-2006-. **CUBRE LA BURBUJA INMOBILIARIA/CRISIS 2008 DE FORMA DIRECTA Y COMPLETA** -el evento MAS relevante posible para un fondo de constructoras de vivienda, nace apenas 1-2 años antes del colapso-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor iShares/BlackRock, la gestora de ETFs mas grande del mundo.",
           "calificacion": 5
         }
@@ -40,121 +40,121 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.37%-0.38% -mayoria de fuentes coinciden en 0.38%, stockanalysis.com/ETFDB-, caro para un ETF sectorial/tematico, en linea con el TER de la familia IY* -IYK/IYM/IYZ/IYR/IYE, todos 0.38%- ya documentada en el proyecto como cara. Competidor directo XHB -SPDR, no analizado individualmente- es levemente mas barato -0.35%-.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.37%-0.38% -mayoría de fuentes coinciden en 0.38%, stockanalysis.com/ETFDB-, caro para un ETF sectorial/temático, en línea con el TER de la familia IY* -IYK/IYM/IYZ/IYR/IYE, todos 0.38%- ya documentada en el proyecto como cara. Competidor directo XHB -SPDR, no analizado individualmente- es levemente mas barato -0.35%-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "**BANDERA DE CALIDAD DE DATO SEVERA**: Tracking Difference/Error de MUY BAJA CONFIANZA -una sintesis de busqueda menciona TE 1Y/3Y/5Y de 5.08%/5.31%/5.31%, inusualmente alto para un ETF de replica fisica, pero la MISMA fuente menciona cifras internamente CONTRADICTORIAS de '18-22%' en otro pasaje-. No se pudo verificar en fuente primaria -ishares.com y etf.com bloquearon el fetch directo-. Se declara explicitamente como no confiable en vez de forzar un numero.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "**BANDERA DE CALIDAD DE DATO SEVERA**: Tracking Difference/Error de MUY BAJA CONFIANZA -una sintesis de busqueda menciona TE 1Y/3Y/5Y de 5.08%/5.31%/5.31%, inusualmente alto para un ETF de réplica física, pero la MISMA fuente menciona cifras internamente CONTRADICTORIAS de '18-22%' en otro pasaje-. No se pudo verificar en fuente primaria -ishares.com y etf.com bloquearon el fetch directo-. Se declara explícitamente como no confiable en vez de forzar un número.",
           "calificacion": 1
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Sin dato especifico de revenue por securities lending para ITB pese a que BlackRock opera un programa institucional a nivel de firma.",
+          "notas": "Sin dato específico de revenue por securities lending para ITB pese a que BlackRock opera un programa institucional a nivel de firma.",
           "calificacion": 2
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice Dow Jones U.S. Select Home Construction Index, 'modified market cap weighting' con mecanismo de capping por emisor -porcentaje exacto del cap NO ENCONTRADO pese a busqueda dirigida a la metodologia de S&P DJI-. Rebalanceo trimestral, turnover BAJO ~13% anual.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice Dow Jones U.S. Select Home Construction Index, 'modified market cap weighting' con mecanismo de capping por emisor -porcentaje exacto del cap NO ENCONTRADO pese a busqueda dirigida a la metodología de S&P DJI-. Rebalanceo trimestral, turnover BAJO ~13% anual.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen ~2.2-2.3 millones de acciones/dia -iShares/Yahoo Finance-, equivalente a ~$220-225M/dia a precio ~$98/accion -ago-2026-. Alto, comparable a otros ETFs sectoriales grandes del proyecto.",
+          "notas": "Volumen ~2.2-2.3 millones de acciones/dia -iShares/Yahoo Finance-, equivalente a ~$220-225M/dia a precio ~$98/acción -ago-2026-. Alto, comparable a otros ETFs sectoriales grandes del proyecto.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread bid-ask -30-day median- = 0.04% -ishares.com via busqueda-, el DOBLE del spread tipico de otros grandes ETFs del proyecto -~0.02%-, aunque sigue siendo razonablemente ajustado.",
+          "notas": "Spread bid-ask -30-day median- = 0.04% -ishares.com via busqueda-, el DOBLE del spread típico de otros grandes ETFs del proyecto -~0.02%-, aunque sigue siendo razonablemente ajustado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount = 0.02% al 10-jun-2026 -dato puntual unico, sin serie historica mas amplia encontrada pese a busqueda dirigida-.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount = 0.02% al 10-jun-2026 -dato puntual único, sin serie histórica mas amplia encontrada pese a busqueda dirigida-.",
           "calificacion": 3
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero iShares/BlackRock tiene infraestructura de creacion/redencion robusta a nivel de firma.",
+          "notas": "Sin cifra específica de profundidad de APs, pero iShares/BlackRock tiene infraestructura de creación/redención robusta a nivel de firma.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "47-48 holdings segun fuente/fecha de corte -stockanalysis.com 47, Yahoo Finance 48-, numero moderado.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "47-48 holdings según fuente/fecha de corte -stockanalysis.com 47, Yahoo Finance 48-, número moderado.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 67.99% -stockanalysis.com, 12-ago-2026-: D.R. Horton 16.40%, PulteGroup 10.47%, Lennar 7.71%, NVR 7.22%, Sherwin-Williams 5.33%, Toll Brothers 5.29%, Home Depot 4.95%, Lowe's 4.57%, Masco 3.15%, Lennox International 2.88%. Las CUATRO GRANDES CONSTRUCTORAS -DHI+PHM+LEN+NVR- ya suman ~41.8% del fondo, concentracion ALTA pese a 47-48 holdings nominales.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 67.99% -stockanalysis.com, 12-ago-2026-: D.R. Horton 16.40%, PulteGroup 10.47%, Lennar 7.71%, NVR 7.22%, Sherwin-Williams 5.33%, Toll Brothers 5.29%, Home Depot 4.95%, Lowe's 4.57%, Masco 3.15%, Lennox International 2.88%. Las CUATRO GRANDES CONSTRUCTORAS -DHI+PHM+LEN+NVR- ya suman ~41.8% del fondo, concentración ALTA pese a 47-48 holdings nominales.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Confirmado que el indice va MAS ALLA de constructoras puras: incluye proveedores de materiales -Sherwin-Williams, Masco- y tiendas de mejoras del hogar -Home Depot, Lowe's-, no solo homebuilders. Concentracion sectorial Consumer Cyclical ~72-75%, Industrials ~18.94%, Basic Materials ~8.83%, Real Estate ~0.57% -Yahoo Finance-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Confirmado que el índice va MAS ALLA de constructoras puras: incluye proveedores de materiales -Sherwin-Williams, Masco- y tiendas de mejoras del hogar -Home Depot, Lowe's-, no solo homebuilders. Concentración sectorial Consumer Cyclical ~72-75%, Industrials ~18.94%, Basic Materials ~8.83%, Real Estate ~0.57% -Yahoo Finance-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU, exposicion pura al mercado de vivienda residencial domestico.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU, exposición pura al mercado de vivienda residencial domestico.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion de factor SECTOR CICLICO ANGOSTO con alta sensibilidad a tasas de interes -confirmado por Beta alto, ver fila 43-, exposicion de estilo clara y consistente con la tesis del fondo.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición de factor SECTOR CICLICO ANGOSTO con alta sensibilidad a tasas de interés -confirmado por Beta alto, ver fila 43-, exposición de estilo clara y consistente con la tesis del fondo.",
           "calificacion": 3
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice Dow Jones U.S. Select Home Construction, modified market cap weighting con capping por emisor -porcentaje exacto no verificado, transparencia parcial-.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice Dow Jones U.S. Select Home Construction, modified market cap weighting con capping por emisor -porcentaje exacto no verificado, transparencia parcial-.",
           "calificacion": 2
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Rebalanceo trimestral confirmado, pero detalle metodologico del cap exacto por emisor NO ENCONTRADO pese a busqueda dirigida a la documentacion de S&P DJI.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Rebalanceo trimestral confirmado, pero detalle metodologico del cap exacto por emisor NO ENCONTRADO pese a busqueda dirigida a la documentación de S&P DJI.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.29
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "Retorno 10Y anualizado FUERTE -14.13%-14.80% segun fuente, EL MEJOR de cualquier ETF sectorial angosto del proyecto hasta ahora-, PERO CAGR desde inception mucho mas modesto -4.21%-4.29%- por el arrastre del colapso 2007-2009 -ver fila 41-. Retorno 1Y con RANGO MUY DISPERSO entre fuentes -desde -4.06% hasta +7.46% segun fecha de captura-, reflejo de un sector actualmente en ciclo volatil/bajista. Retorno 3Y ~9.84% y 5Y ~11.77% -fuente de confianza media, snapshot sin fecha clara-.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "Retorno 10Y anualizado FUERTE -14.13%-14.80% según fuente, EL MEJOR de cualquier ETF sectorial angosto del proyecto hasta ahora-, PERO CAGR desde inception mucho mas modesto -4.21%-4.29%- por el arrastre del colapso 2007-2009 -ver fila 41-. Retorno 1Y con RANGO MUY DISPERSO entre fuentes -desde -4.06% hasta +7.46% según fecha de captura-, reflejo de un sector actualmente en ciclo volatil/bajista. Retorno 3Y ~9.84% y 5Y ~11.77% -fuente de confianza media, snapshot sin fecha clara-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "**BANDERA DE CALIDAD DE DATO SEVERA**: volatilidad anualizada con discrepancia EXTREMA e IRRECONCILIABLE entre fuentes -35.3% Composer.trade vs 10.29% PortfoliosLab-. La cifra de 35.3% es mas consistente con el perfil de riesgo observado -drawdown -86.53%, sector ciclico concentrado- pero no se puede confirmar cual es la correcta. No se fuerza una cifra unica.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "**BANDERA DE CALIDAD DE DATO SEVERA**: volatilidad anualizada con discrepancia EXTREMA e IRRECONCILIABLE entre fuentes -35.3% Composer.trade vs 10.29% PortfoliosLab-. La cifra de 35.3% es mas consistente con el perfil de riesgo observado -drawdown -86.53%, sector ciclico concentrado- pero no se puede confirmar cual es la correcta. No se fuerza una cifra única.",
           "calificacion": 1
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
           "notas": "Max Drawdown desde inception = **-86.53%**, EL PEOR de cualquier ETF NO APALANCADO de sector angosto del proyecto -supera a XME -85.89%-. **CONFIRMADO que cubre la burbuja inmobiliaria/Crisis 2008 de forma directa**: caida anual de -57.87% en 2007 y -42.98% en 2008 -caida compuesta explica el -86.53% pico a valle-. El mayor riesgo de cola documentado de cualquier fondo de este tipo en el proyecto.",
           "calificacion": 1
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "**BANDERA DE CALIDAD DE DATO**: Sharpe ratio con discrepancia grande y sin ventana temporal clara -0.29 Composer.trade, 0.43 PortfoliosLab periodo 'actual', -0.05 PortfoliosLab periodo alternativo-. No hay cifra unica confiable.",
+          "notas": "**BANDERA DE CALIDAD DE DATO**: Sharpe ratio con discrepancia grande y sin ventana temporal clara -0.29 Composer.trade, 0.43 PortfoliosLab período 'actual', -0.05 PortfoliosLab período alternativo-. No hay cifra única confiable.",
           "calificacion": 1
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "Beta vs S&P 500 = 1.29-1.50 segun fuente -stockanalysis.com 1.29, Yahoo Finance 5Y mensual 1.50-, AMBAS fuentes CONFIRMAN beta alto -consistente entre si, a diferencia de otras metricas de este fondo con datos dispersos-, reflejo genuino de la sensibilidad a tasas de interes y al ciclo inmobiliario.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.29-1.50 según fuente -stockanalysis.com 1.29, Yahoo Finance 5Y mensual 1.50-, AMBAS fuentes CONFIRMAN beta alto -consistente entre si, a diferencia de otras métricas de este fondo con datos dispersos-, reflejo genuino de la sensibilidad a tasas de interés y al ciclo inmobiliario.",
           "calificacion": 2
         },
         {
@@ -166,27 +166,27 @@
       "rating_promedio": 1.83
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado con rango 15.30x-17.06x segun fuente -stockanalysis.com 15.30, Yahoo Finance 16.68, otra fuente 17.06-, sin serie historica propia a 5-10 anios para calcular percentil.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado con rango 15.30x-17.06x según fuente -stockanalysis.com 15.30, Yahoo Finance 16.68, otra fuente 17.06-, sin serie histórica propia a 5-10 años para calcular percentil.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield MUY BAJO -0.65%-0.68%, TTM $0.64/accion-, payout ratio apenas 9.79% -stockanalysis.com-. La tesis de este fondo es apreciacion de capital via el ciclo inmobiliario, NO income.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield MUY BAJO -0.65%-0.68%, TTM $0.64/acción-, payout ratio apenas 9.79% -stockanalysis.com-. La tesis de este fondo es apreciación de capital via el ciclo inmobiliario, NO income.",
           "calificacion": 2
         }
       ],
       "rating_promedio": 2.5
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Competidor directo XHB -SPDR/State Street, no analizado individualmente en el workbook- sigue el S&P Homebuilders Select Industry Index con metodologia EQUAL-WEIGHT modificada -~35 holdings, Top10 solo ~35% vs 68% de ITB, MUCHO menos concentrado-, TER levemente mas barato -0.35% vs 0.37-0.38%-, AUM ~$1.47bn, inception 31-ene-2006 -aun mas temprano, tambien cubre Crisis 2008 completa-. Segun fuente comparativa, ITB historicamente SUPERO a XHB en retorno 10Y -14.13% vs 12.83%-, posiblemente por su mayor concentracion en las constructoras mas grandes/eficientes -DHI/PHM/LEN/NVR-. Comparacion MIXTA: XHB gana en diversificacion/costo, ITB gana en retorno realizado.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Competidor directo XHB -SPDR/State Street, no analizado individualmente en el workbook- sigue el S&P Homebuilders Select Industry Index con metodología EQUAL-WEIGHT modificada -~35 holdings, Top10 solo ~35% vs 68% de ITB, MUCHO menos concentrado-, TER levemente mas barato -0.35% vs 0.37-0.38%-, AUM ~$1.47bn, inception 31-ene-2006 -aun mas temprano, también cubre Crisis 2008 completa-. Según fuente comparativa, ITB históricamente SUPERO a XHB en retorno 10Y -14.13% vs 12.83%-, posiblemente por su mayor concentración en las constructoras mas grandes/eficientes -DHI/PHM/LEN/NVR-. Comparación MIXTA: XHB gana en diversificación/costo, ITB gana en retorno realizado.",
           "calificacion": 2
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol TACTICO/ESPECULATIVO dado el beta alto -1.29-1.50-, la naturaleza ciclica del sector, y el drawdown extremo YA MATERIALIZADO historicamente -86.53%-. NO apto como Core ni como Satelite de largo plazo tradicional tipo buy-and-hold.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol TÁCTICO/ESPECULATIVO dado el beta alto -1.29-1.50-, la naturaleza ciclica del sector, y el drawdown extremo YA MATERIALIZADO históricamente -86.53%-. NO apto como Core ni como Satélite de largo plazo tradicional tipo buy-and-hold.",
           "calificacion": 2
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion pura al ciclo de construccion de vivienda residencial EEUU, altamente sensible a tasas hipotecarias, con retorno 10Y fuerte -14.13-14.80%- pero un riesgo de cola extremo YA MATERIALIZADO una vez -burbuja inmobiliaria 2007-2008- que cualquier inversor debe internalizar antes de asignar capital aqui.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición pura al ciclo de construcción de vivienda residencial EEUU, altamente sensible a tasas hipotecarias, con retorno 10Y fuerte -14.13-14.80%- pero un riesgo de cola extremo YA MATERIALIZADO una vez -burbuja inmobiliaria 2007-2008- que cualquier inversor debe internalizar antes de asignar capital aquí.",
           "calificacion": 2
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: sensibilidad a tasas de interes CRITICA para este sector -constructoras dependen directamente de tasas hipotecarias-, ciclo inmobiliario, concentracion en 4 grandes constructoras ~42% del fondo, drawdown extremo YA MATERIALIZADO -86.53%-, y **calidad de dato notablemente debil en MULTIPLES metricas simultaneamente** -volatilidad, Sharpe, Tracking Difference, AUM puntual, todos con rangos amplios no reconciliados entre fuentes, posible senal de menor cobertura institucional/analitica para este fondo especifico-.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: sensibilidad a tasas de interés CRITICA para este sector -constructoras dependen directamente de tasas hipotecarias-, ciclo inmobiliario, concentración en 4 grandes constructoras ~42% del fondo, drawdown extremo YA MATERIALIZADO -86.53%-, y **calidad de dato notablemente débil en MÚLTIPLES métricas simultaneamente** -volatilidad, Sharpe, Tracking Difference, AUM puntual, todos con rangos amplios no reconciliados entre fuentes, posible señal de menor cobertura institucional/analitica para este fondo específico-.",
           "calificacion": 1
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "XHB -SPDR, equal-weight, TER 0.35% mas barato, MUCHO menos concentrado Top10 ~35% vs 68%- es el competidor directo mas natural, NO analizado individualmente en el workbook - candidato claro pendiente para completar la comparacion cap-weighted-concentrado vs equal-weight-diversificado en el sector de constructoras.",
+          "notas": "XHB -SPDR, equal-weight, TER 0.35% mas barato, MUCHO menos concentrado Top10 ~35% vs 68%- es el competidor directo mas natural, NO analizado individualmente en el workbook - candidato claro pendiente para completar la comparación cap-weighted-concentrado vs equal-weight-diversificado en el sector de constructoras.",
           "calificacion": 2
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "REDUCIR/VENDER (evitar). ITB es el PRIMER ETF de constructoras de vivienda del proyecto y presenta el peor perfil de riesgo de cola de cualquier fondo NO apalancado de sector angosto analizado hasta ahora: Max Drawdown desde inception de **-86.53%** -CONFIRMADO que cubre la burbuja inmobiliaria/Crisis 2008 de forma directa, con caidas anuales de -57.87% en 2007 y -42.98% en 2008-, superando incluso a XME -85.89%-. Beta alto y consistente entre fuentes -1.29-1.50- confirma sensibilidad genuina a tasas de interes y al ciclo inmobiliario. Retorno 10Y anualizado es fuerte -14.13-14.80%-, pero el CAGR desde inception -solo 4.21-4.29%- revela cuanto arrastra el colapso 2007-2009 incluso dos decadas despues. Concentracion alta -Top10 68%, cuatro grandes constructoras ~42%-, TER caro -0.37-0.38%-, y yield casi nulo -0.65-0.68%, tesis de apreciacion de capital pura-. **HALLAZGO DISTINTIVO**: calidad de dato notablemente debil en MULTIPLES metricas simultaneamente -volatilidad 35.3% vs 10.29% segun fuente, Sharpe 0.29/0.43/-0.05, Tracking Difference internamente inconsistente, AUM puntual con rango $2.16-2.77bn-, posible senal de menor cobertura analitica institucional para este fondo especifico frente a otros ETFs sectoriales mas grandes del proyecto. XHB -SPDR, equal-weight, mas barato y menos concentrado- queda como competidor directo pendiente. Score 2.48/5, en linea con AMLP -2.48-, por debajo de XME -2.94-, URA -2.94- y REMX -2.76-. Rol Tactico/Especulativo UNICAMENTE dado el beta alto y el riesgo de cola ya materializado historicamente - NO apto como Core ni Satelite de largo plazo."
+    "tesis": "REDUCIR/VENDER (evitar). ITB es el PRIMER ETF de constructoras de vivienda del proyecto y presenta el peor perfil de riesgo de cola de cualquier fondo NO apalancado de sector angosto analizado hasta ahora: Max Drawdown desde inception de **-86.53%** -CONFIRMADO que cubre la burbuja inmobiliaria/Crisis 2008 de forma directa, con caidas anuales de -57.87% en 2007 y -42.98% en 2008-, superando incluso a XME -85.89%-. Beta alto y consistente entre fuentes -1.29-1.50- confirma sensibilidad genuina a tasas de interés y al ciclo inmobiliario. Retorno 10Y anualizado es fuerte -14.13-14.80%-, pero el CAGR desde inception -solo 4.21-4.29%- revela cuanto arrastra el colapso 2007-2009 incluso dos décadas después. Concentración alta -Top10 68%, cuatro grandes constructoras ~42%-, TER caro -0.37-0.38%-, y yield casi nulo -0.65-0.68%, tesis de apreciación de capital pura-. **HALLAZGO DISTINTIVO**: calidad de dato notablemente débil en MÚLTIPLES métricas simultaneamente -volatilidad 35.3% vs 10.29% según fuente, Sharpe 0.29/0.43/-0.05, Tracking Difference internamente inconsistente, AUM puntual con rango $2.16-2.77bn-, posible señal de menor cobertura analitica institucional para este fondo específico frente a otros ETFs sectoriales mas grandes del proyecto. XHB -SPDR, equal-weight, mas barato y menos concentrado- queda como competidor directo pendiente. Score 2.48/5, en línea con AMLP -2.48-, por debajo de XME -2.94-, URA -2.94- y REMX -2.76-. Rol Táctico/Especulativo UNICAMENTE dado el beta alto y el riesgo de cola ya materializado históricamente - NO apto como Core ni Satélite de largo plazo."
   }
 }

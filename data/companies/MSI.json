@@ -1,7 +1,7 @@
 {
   "empresa": "Motorola Solutions, Inc.",
   "ticker": "MSI",
-  "sector": "Tecnologia - Comunicaciones de mision critica y seguridad publica",
+  "sector": "Tecnología - Comunicaciones de misión critica y seguridad pública",
   "fecha_analisis": "2026-08-12",
   "analista": null,
   "secciones": [
@@ -10,22 +10,22 @@
       "aspectos": [
         {
           "aspecto": "Cómo genera ingresos (fuentes, diversificación)",
-          "notas": "Ingresos en dos segmentos: Products and Systems Integration (radios LMR-P25, infraestructura de red, Video Security-Access Control via Avigilon) y Software and Services (Command Center software, servicios gestionados-mantenimiento), con backlog record de USD15.6bn.",
+          "notas": "Ingresos en dos segmentos: Products and Systems Integration (radios LMR-P25, infraestructura de red, Video Security-Access Control via Avigilon) y Software and Services (Command Center software, servicios gestionados-mantenimiento), con backlog récord de USD15.6bn.",
           "calificacion": 4
         },
         {
           "aspecto": "Tipo de moat (marca, red, switching costs, escala, regulatorio)",
-          "notas": "Moat excepcional - cuota de mercado dominante (~80% estimado) en radios de mision critica LMR-P25 para seguridad publica en EEUU, switching costs extremadamente altos (una agencia de 911 no puede permitirse una interrupcion de servicio al cambiar de proveedor de red de radio), contratos plurianuales de larga duracion, estandares regulatorios (P25) que refuerzan la posicion incumbente.",
+          "notas": "Moat excepcional - cuota de mercado dominante (~80% estimado) en radios de misión critica LMR-P25 para seguridad pública en EEUU, switching costs extremadamente altos (una agencia de 911 no puede permitirse una interrupción de servicio al cambiar de proveedor de red de radio), contratos plurianuales de larga duración, estandares regulatorios (P25) que refuerzan la posición incumbente.",
           "calificacion": 5
         },
         {
           "aspecto": "Posición competitiva y cuota de mercado (tendencia)",
-          "notas": "Backlog record de USD15.6bn (+11% interanual), crecimiento de doble digito en ambos segmentos (Products and Systems Integration +15%, Software and Services +10%) impulsado por modernizacion de redes de seguridad publica y demanda de Command Center-Video con IA.",
+          "notas": "Backlog récord de USD15.6bn (+11% interanual), crecimiento de doble digito en ambos segmentos (Products and Systems Integration +15%, Software and Services +10%) impulsado por modernización de redes de seguridad pública y demanda de Command Center-Video con IA.",
           "calificacion": 5
         },
         {
           "aspecto": "Poder de fijación de precios",
-          "notas": "Margen bruto 49.31%, operativo 25.29% - de los mas altos y estables del Dashboard entre industriales-tecnologia, refleja pricing power real en un mercado con pocos competidores creibles (L3Harris, Hytera-JVCKenwood limitados en EEUU por restricciones de seguridad nacional).",
+          "notas": "Margen bruto 49.31%, operativo 25.29% - de los mas altos y estables del Dashboard entre industriales-tecnología, refleja pricing power real en un mercado con pocos competidores creibles (L3Harris, Hytera-JVCKenwood limitados en EEUU por restricciones de seguridad nacional).",
           "calificacion": 4
         }
       ],
@@ -41,7 +41,7 @@
         },
         {
           "aspecto": "Alineación de incentivos (compensación, skin in the game)",
-          "notas": "No investigado en profundidad en esta sesion (pendiente); CEO Greg Brown con largo tenure (desde el spin-off de 2011) sugiere estabilidad, propiedad interna baja (0.41%) tipica de una empresa de esta escala y antiguedad.",
+          "notas": "No investigado en profundidad en esta sesión (pendiente); CEO Greg Brown con largo tenure (desde el spin-off de 2011) sugiere estabilidad, propiedad interna baja (0.41%) típica de una empresa de esta escala y antigüedad.",
           "calificacion": 3
         },
         {
@@ -51,7 +51,7 @@
         },
         {
           "aspecto": "Transparencia y comunicación con inversionistas",
-          "notas": "Divulgacion trimestral detallada, guia elevada de forma consistente en 2026 (ingresos y EPS no-GAAP ambos revisados al alza), backlog reportado con desglose por segmento.",
+          "notas": "Divulgación trimestral detallada, guia elevada de forma consistente en 2026 (ingresos y EPS no-GAAP ambos revisados al alza), backlog reportado con desglose por segmento.",
           "calificacion": 4
         }
       ],
@@ -62,22 +62,22 @@
       "aspectos": [
         {
           "aspecto": "Deuda Neta/EBITDA y Deuda/Patrimonio",
-          "notas": "Deuda neta ~USD8.76bn, ND/EBITDA ~2.42x (calculado via EV/EBITDA) - apalancamiento moderado-alto pero manejable dado el FCF consistente y de alta calidad; Debt/Equity nominal muy alto (3.6x) por el patrimonio contable delgado tras anios de recompras agresivas, no por sobre-endeudamiento real.",
+          "notas": "Deuda neta ~USD8.76bn, ND/EBITDA ~2.42x (calculado via EV/EBITDA) - apalancamiento moderado-alto pero manejable dado el FCF consistente y de alta calidad; Debt/Equity nominal muy alto (3.6x) por el patrimonio contable delgado tras años de recompras agresivas, no por sobre-endeudamiento real.",
           "calificacion": 3
         },
         {
           "aspecto": "Liquidez (razón corriente, prueba ácida, caja disponible)",
-          "notas": "Razon corriente 1.08-1.10x, prueba acida 0.78-0.84x - liquidez adecuada, sin senales de estres.",
+          "notas": "Razón corriente 1.08-1.10x, prueba acida 0.78-0.84x - liquidez adecuada, sin señales de estres.",
           "calificacion": 3
         },
         {
           "aspecto": "Estructura de vencimientos de deuda",
-          "notas": "No verificado en detalle en esta sesion (pendiente).",
+          "notas": "No verificado en detalle en esta sesión (pendiente).",
           "calificacion": 3
         },
         {
           "aspecto": "Calidad de activos (goodwill/intangibles vs. tangibles)",
-          "notas": "Goodwill+intangibles ~USD9.83bn (51% de activos totales) por decadas de M&A (Avigilon y otras); patrimonio tangible por accion negativo, mismo patron ya documentado con ITW-CL-PG-AZO-MCD-YUM-BKNG (recompras agresivas de una empresa de alta calidad, no distress) - no cambia la metodologia DCF FCFF.",
+          "notas": "Goodwill+intangibles ~USD9.83bn (51% de activos totales) por décadas de M&A (Avigilon y otras); patrimonio tangible por acción negativo, mismo patrón ya documentado con ITW-CL-PG-AZO-MCD-YUM-BKNG (recompras agresivas de una empresa de alta calidad, no distress) - no cambia la metodología DCF FCFF.",
           "calificacion": 3
         }
       ],
@@ -88,7 +88,7 @@
       "aspectos": [
         {
           "aspecto": "Márgenes (bruto, operativo, neto) y tendencia 5 años",
-          "notas": "Margen bruto 49.31%, operativo 25.29%, neto 17.44% - todos altos y en tendencia de expansion sostenida, de los mejores perfiles de margen del Dashboard.",
+          "notas": "Margen bruto 49.31%, operativo 25.29%, neto 17.44% - todos altos y en tendencia de expansión sostenida, de los mejores perfiles de margen del Dashboard.",
           "calificacion": 5
         },
         {
@@ -98,7 +98,7 @@
         },
         {
           "aspecto": "Rotación de activos y ciclo de conversión de efectivo",
-          "notas": "Rotacion de activos ~0.64x, ciclo de conversion de efectivo eficiente tipico de un negocio de hardware-software con alto componente de servicios recurrentes.",
+          "notas": "Rotación de activos ~0.64x, ciclo de conversión de efectivo eficiente típico de un negocio de hardware-software con alto componente de servicios recurrentes.",
           "calificacion": 4
         }
       ],
@@ -109,17 +109,17 @@
       "aspectos": [
         {
           "aspecto": "Crecimiento histórico de ingresos y utilidades (orgánico vs. M&A)",
-          "notas": "CAGR ingresos 5 anios 9.52% (Finviz), crecimiento reciente acelerando (+13% en el 2T 2026), guia FY2026 elevada dos veces durante el anio (a USD12.975bn) - crecimiento consistente y de calidad, mayormente organico con M&A bolt-on complementario en video-drones.",
+          "notas": "CAGR ingresos 5 años 9.52% (Finviz), crecimiento reciente acelerando (+13% en el 2T 2026), guia FY2026 elevada dos veces durante el año (a USD12.975bn) - crecimiento consistente y de calidad, mayormente orgánico con M&A bolt-on complementario en video-drones.",
           "calificacion": 4
         },
         {
           "aspecto": "Consistencia del crecimiento (estable vs. cíclico)",
-          "notas": "Crecimiento muy estable y predecible, respaldado por un backlog record de USD15.6bn (+11% interanual) que da visibilidad de varios anios - de los perfiles de crecimiento mas consistentes del Dashboard, sin ciclos abruptos.",
+          "notas": "Crecimiento muy estable y predecible, respaldado por un backlog récord de USD15.6bn (+11% interanual) que da visibilidad de varios años - de los perfiles de crecimiento mas consistentes del Dashboard, sin ciclos abruptos.",
           "calificacion": 5
         },
         {
           "aspecto": "Fuentes futuras de crecimiento (mercados, productos, capacidad)",
-          "notas": "Modernizacion de redes P25 de seguridad publica, expansion de Command Center con IA, crecimiento de Video Security-Access Control (Avigilon), demanda internacional (contrato U.K. Home Office); backlog de Software and Services impulsado por Command Center y Video.",
+          "notas": "Modernización de redes P25 de seguridad pública, expansión de Command Center con IA, crecimiento de Video Security-Access Control (Avigilon), demanda internacional (contrato U.K. Home Office); backlog de Software and Services impulsado por Command Center y Video.",
           "calificacion": 4
         }
       ],
@@ -130,12 +130,12 @@
       "aspectos": [
         {
           "aspecto": "Flujo de caja operativo vs. utilidad neta (calidad de ganancias)",
-          "notas": "Flujo de caja operativo TTM USD2.97bn vs utilidad neta TTM implicita ~USD2.10bn (Market Cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
+          "notas": "Flujo de caja operativo TTM USD2.97bn vs utilidad neta TTM implícita ~USD2.10bn (Market Cap/P-E) - FCO supera comodamente la utilidad neta, calidad de ganancias alta.",
           "calificacion": 4
         },
         {
           "aspecto": "Free Cash Flow y conversión EBITDA→FCF",
-          "notas": "FCF TTM USD2.68bn (margen FCF ~21.9% sobre ingresos), creciendo con consistencia (1.57bn -> 1.79bn -> 2.13bn -> 2.57bn -> 2.68bn en los ultimos 5 periodos), sin lumpiness.",
+          "notas": "FCF TTM USD2.68bn (margen FCF ~21.9% sobre ingresos), creciendo con consistencia (1.57bn -> 1.79bn -> 2.13bn -> 2.57bn -> 2.68bn en los últimos 5 períodos), sin lumpiness.",
           "calificacion": 5
         },
         {
@@ -145,7 +145,7 @@
         },
         {
           "aspecto": "Uso del capital (dividendos, buybacks, reinversión, deuda)",
-          "notas": "Balanceado entre dividendo creciente (yield 1.00%, payout 35.15%), recompras agresivas y sostenidas (explican el patrimonio delgado) y M&A bolt-on disciplinado - historial de asignacion de capital de calidad.",
+          "notas": "Balanceado entre dividendo creciente (yield 1.00%, payout 35.15%), recompras agresivas y sostenidas (explican el patrimonio delgado) y M&A bolt-on disciplinado - historial de asignación de capital de calidad.",
           "calificacion": 4
         }
       ],
@@ -156,17 +156,17 @@
       "aspectos": [
         {
           "aspecto": "Múltiplos (P/E, EV/EBITDA, P/FCF, P/B) vs. histórico y peers",
-          "notas": "P/E TTM 37.0x, Forward P/E 24.57x, EV/EBITDA 23.94x, P/FCF 29.04-32.17x - multiplos exigentes pero no extremos, reflejo de la calidad-consistencia del negocio; PEG 2.23 sugiere que el crecimiento no compensa totalmente el multiplo pagado.",
+          "notas": "P/E TTM 37.0x, Forward P/E 24.57x, EV/EBITDA 23.94x, P/FCF 29.04-32.17x - múltiplos exigentes pero no extremos, reflejo de la calidad-consistencia del negocio; PEG 2.23 sugiere que el crecimiento no compensa totalmente el múltiplo pagado.",
           "calificacion": 3
         },
         {
           "aspecto": "Valor intrínseco estimado (DCF)",
-          "notas": "Escenario A (adoptado, WACC 7.85% CAPM literal -beta 0.88 no degenerado-, crecimiento con fade 12%->7% en 5 anios, terminal 4%): USD496.91/accion, MS +5.8% - practicamente en valor razonable. DCF MUY fragil (Valor Terminal = 84.5% del EV, de los mas altos del Dashboard): sensibilidad de WACC +1.5pp revierte el margen a -27.4%.",
+          "notas": "Escenario A (adoptado, WACC 7.85% CAPM literal -beta 0.88 no degenerado-, crecimiento con fade 12%->7% en 5 años, terminal 4%): USD496.91/acción, MS +5.8% - prácticamente en valor razonable. DCF MUY fragil (Valor Terminal = 84.5% del EV, de los mas altos del Dashboard): sensibilidad de WACC +1.5pp revierte el margen a -27.4%.",
           "calificacion": 3
         },
         {
           "aspecto": "Margen de seguridad (precio actual vs. valor estimado)",
-          "notas": "+5.8% - modesto, practicamente en valor razonable, sin colchon real dada la fragilidad del DCF (Valor Terminal 84.5% del EV).",
+          "notas": "+5.8% - modesto, prácticamente en valor razonable, sin colchon real dada la fragilidad del DCF (Valor Terminal 84.5% del EV).",
           "calificacion": 3
         }
       ],
@@ -177,22 +177,22 @@
       "aspectos": [
         {
           "aspecto": "Tamaño y crecimiento del mercado (TAM)",
-          "notas": "Mercado de comunicaciones de mision critica para seguridad publica grande y con demanda estructural resiliente (modernizacion de redes analogas a digitales P25, expansion hacia video-IA); menos dependiente de ciclos economicos que la mayoria de TI empresarial.",
+          "notas": "Mercado de comunicaciones de misión critica para seguridad pública grande y con demanda estructural resiliente (modernización de redes analogas a digitales P25, expansión hacia video-IA); menos dependiente de ciclos económicos que la mayoría de TI empresarial.",
           "calificacion": 4
         },
         {
           "aspecto": "Barreras de entrada",
-          "notas": "Muy altas - certificaciones regulatorias (P25), contratos gubernamentales de larga duracion, switching costs extremos por el caracter de mision critica (911), y en algunos casos restricciones de seguridad nacional que limitan a competidores extranjeros (Hytera, JVCKenwood) en EEUU.",
+          "notas": "Muy altas - certificaciones regulatorias (P25), contratos gubernamentales de larga duración, switching costs extremos por el caracter de misión critica (911), y en algunos casos restricciones de seguridad nacional que limitan a competidores extranjeros (Hytera, JVCKenwood) en EEUU.",
           "calificacion": 5
         },
         {
           "aspecto": "5 fuerzas de Porter (resumen)",
-          "notas": "Rivalidad baja-moderada (L3Harris el competidor mas creible en EEUU, Hytera-JVCKenwood limitados por restricciones regulatorias); poder de negociacion del comprador bajo-moderado; poder de proveedores bajo; amenaza de sustitutos baja (sin alternativa viable para comunicaciones de mision critica); barreras de entrada muy altas.",
+          "notas": "Rivalidad baja-moderada (L3Harris el competidor mas creible en EEUU, Hytera-JVCKenwood limitados por restricciones regulatorias); poder de negociación del comprador bajo-moderado; poder de proveedores bajo; amenaza de sustitutos baja (sin alternativa viable para comunicaciones de misión critica); barreras de entrada muy altas.",
           "calificacion": 5
         },
         {
           "aspecto": "Ciclicidad de la industria",
-          "notas": "Negocio defensivo-resiliente, presupuestos de seguridad publica rara vez se recortan y a menudo cuentan con financiamiento dedicado (impuestos locales, subvenciones federales), poco ciclico.",
+          "notas": "Negocio defensivo-resiliente, presupuestos de seguridad pública rara vez se recortan y a menudo cuentan con financiamiento dedicado (impuestos locales, subvenciones federales), poco ciclico.",
           "calificacion": 5
         }
       ],
@@ -203,27 +203,27 @@
       "aspectos": [
         {
           "aspecto": "Riesgo regulatorio / político / país",
-          "notas": "Dependencia de presupuestos gubernamentales (federal-estatal-local en EEUU, mas contrato U.K. Home Office internacional) - riesgo de recortes de gasto publico o cambios de prioridad politica, aunque historicamente la seguridad publica ha sido resiliente a recortes.",
+          "notas": "Dependencia de presupuestos gubernamentales (federal-estatal-local en EEUU, mas contrato U.K. Home Office internacional) - riesgo de recortes de gasto público o cambios de prioridad política, aunque históricamente la seguridad pública ha sido resiliente a recortes.",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo de tipo de cambio",
-          "notas": "Exposicion internacional moderada (contrato U.K. Home Office y otros mercados), mayormente domestica en EEUU - riesgo cambiario limitado.",
+          "notas": "Exposición internacional moderada (contrato U.K. Home Office y otros mercados), mayormente domestica en EEUU - riesgo cambiario limitado.",
           "calificacion": 4
         },
         {
           "aspecto": "Concentración de clientes/proveedores",
-          "notas": "Base de clientes diversificada por miles de agencias gubernamentales (policia, bomberos, EMS) en EEUU y otros paises, sin cliente individual con peso relevante mas alla de contratos grandes puntuales (ej. U.K. Home Office); dependencia de componentes electronicos-semiconductores estandar, sin proveedor unico critico identificado.",
+          "notas": "Base de clientes diversificada por miles de agencias gubernamentales (policia, bomberos, EMS) en EEUU y otros paises, sin cliente individual con peso relevante mas alla de contratos grandes puntuales (ej. U.K. Home Office); dependencia de componentes electronicos-semiconductores estándar, sin proveedor único critico identificado.",
           "calificacion": 4
         },
         {
           "aspecto": "Riesgo tecnológico / disrupción",
-          "notas": "Riesgo bajo-moderado de largo plazo: la transicion tecnologica hacia redes de banda ancha 5G FirstNet (AT&T) para datos de seguridad publica podria complementar o eventualmente competir parcialmente con las redes de voz LMR de Motorola, aunque la empresa ya participa en ambos mundos (voz mision-critica + Command Center-Video).",
+          "notas": "Riesgo bajo-moderado de largo plazo: la transición tecnologica hacia redes de banda ancha 5G FirstNet (AT&T) para datos de seguridad pública podría complementar o eventualmente competir parcialmente con las redes de voz LMR de Motorola, aunque la empresa ya participa en ambos mundos (voz misión-critica + Command Center-Video).",
           "calificacion": 3
         },
         {
           "aspecto": "Riesgo ESG (si aplica)",
-          "notas": "Sin controversias ESG mayores identificadas en esta sesion.",
+          "notas": "Sin controversias ESG mayores identificadas en esta sesión.",
           "calificacion": 4
         }
       ],
@@ -234,17 +234,17 @@
       "aspectos": [
         {
           "aspecto": "Próximos eventos relevantes",
-          "notas": "Guia FY2026 ya elevada dos veces durante el anio (ingresos a USD12.975bn, EPS no-GAAP a USD17.62-17.72) - proximos resultados clave para confirmar si el backlog record se sigue convirtiendo en ingresos al ritmo guiado.",
+          "notas": "Guia FY2026 ya elevada dos veces durante el año (ingresos a USD12.975bn, EPS no-GAAP a USD17.62-17.72) - proximos resultados clave para confirmar si el backlog récord se sigue convirtiendo en ingresos al ritmo guiado.",
           "calificacion": 3
         },
         {
           "aspecto": "Insider buying/selling",
-          "notas": "No investigado en profundidad en esta sesion (pendiente).",
+          "notas": "No investigado en profundidad en esta sesión (pendiente).",
           "calificacion": 3
         },
         {
           "aspecto": "Cobertura y revisiones de analistas",
-          "notas": "Consenso 'Buy' fuerte (recomendacion 1.53 en escala Finviz), precio objetivo promedio USD526.00 (+12.0% de alza desde el precio actual) - alineado en direccion con el DCF propio, aunque algo mas optimista en magnitud (+12.0% vs +5.8%).",
+          "notas": "Consenso 'Buy' fuerte (recomendación 1.53 en escala Finviz), precio objetivo promedio USD526.00 (+12.0% de alza desde el precio actual) - alineado en dirección con el DCF propio, aunque algo mas optimista en magnitud (+12.0% vs +5.8%).",
           "calificacion": 4
         }
       ],
@@ -253,7 +253,7 @@
   ],
   "conclusion": {
     "score_promedio": 3.972972972972973,
-    "recomendacion": "MANTENER - NEGOCIO EXCEPCIONAL YA EN VALOR RAZONABLE (mismo patron NVDA). Score Total 3.97/5 -uno de los mas altos del Dashboard- reflejo de un moat dominante en comunicaciones de mision critica para seguridad publica (switching costs extremos, ~80% de cuota estimada en LMR-P25), pero el Margen de Seguridad es solo +5.8% y el DCF es de los MAS FRAGILES del Dashboard (Valor Terminal = 84.5% del EV) - una suba de WACC de apenas 1.5pp revierte el margen a -27.4%. El consenso de analistas (objetivo promedio USD526.00, +12.0%) es algo mas optimista que el DCF propio pero coincide en direccion. Sin colchon real para abrir posicion nueva pese a la calidad del negocio.",
-    "tesis": "El proveedor casi monopolico de comunicaciones de mision critica para seguridad publica en EEUU combina uno de los moats mas solidos del Dashboard con un backlog record de USD15.6bn, pero cotiza ya en un valor cercano al razonable segun el DCF propio, sin margen de seguridad real para una posicion nueva pese a la excepcional calidad del negocio."
+    "recomendacion": "MANTENER - NEGOCIO EXCEPCIONAL YA EN VALOR RAZONABLE (mismo patrón NVDA). Score Total 3.97/5 -uno de los mas altos del Dashboard- reflejo de un moat dominante en comunicaciones de misión critica para seguridad pública (switching costs extremos, ~80% de cuota estimada en LMR-P25), pero el Margen de Seguridad es solo +5.8% y el DCF es de los MAS FRAGILES del Dashboard (Valor Terminal = 84.5% del EV) - una suba de WACC de apenas 1.5pp revierte el margen a -27.4%. El consenso de analistas (objetivo promedio USD526.00, +12.0%) es algo mas optimista que el DCF propio pero coincide en dirección. Sin colchon real para abrir posición nueva pese a la calidad del negocio.",
+    "tesis": "El proveedor casi monopolico de comunicaciones de misión critica para seguridad pública en EEUU combina uno de los moats mas sólidos del Dashboard con un backlog récord de USD15.6bn, pero cotiza ya en un valor cercano al razonable según el DCF propio, sin margen de seguridad real para una posición nueva pese a la excepcional calidad del negocio."
   }
 }

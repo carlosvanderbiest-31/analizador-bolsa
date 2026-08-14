@@ -1,35 +1,35 @@
 {
   "nombre": "Vanguard Energy ETF",
   "ticker": "VDE",
-  "categoria": "Equity Sector (energia GICS multi-cap: integradas/E&P/midstream/refino/servicios)",
+  "categoria": "Equity Sector (energía GICS multi-cap: integradas/E&P/midstream/refino/servicios)",
   "emisor": "Vanguard",
   "fecha_analisis": "2026-08-12",
   "secciones": [
     {
-      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "titulo": "A. ESTRUCTURA Y MECÁNICA DEL ETF",
       "aspectos": [
         {
-          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
-          "notas": "Replica FISICA -'full-replication strategy when possible', segun ficha oficial Vanguard, muestreo solo si hay restricciones regulatorias-. Sin swaps ni riesgo de contraparte. Mismo mecanismo de bajo costo consistente en todo el proyecto Vanguard -VOO/VXUS/VEA/etc-.",
+          "aspecto": "Metodo de réplica (física completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Réplica FÍSICA -'full-replication strategy when possible', según ficha oficial Vanguard, muestreo solo si hay restricciones regulatorias-. Sin swaps ni riesgo de contraparte. Mismo mecanismo de bajo costo consistente en todo el proyecto Vanguard -VOO/VXUS/VEA/etc-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
-          "notas": "Domiciliado en EEUU, sin retencion de dividendos extranjeros.",
+          "aspecto": "Domicilio y eficiencia fiscal (retención de dividendos extranjeros, doble tributación)",
+          "notas": "Domiciliado en EEUU, sin retención de dividendos extranjeros.",
           "calificacion": 4
         },
         {
-          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "aspecto": "Tamaño (AUM) y riesgo de liquidación/cierre del fondo",
           "notas": "AUM ETF = $9,013M -ficha oficial Vanguard 30-jun-2026-; fondo total -incluye clases mutual fund Investor/Admiral- = $10,986M. Otras fuentes -stockanalysis.com $10.01bn, etfdb.com $12.38bn- varian por fecha de corte. Grande y estable, aunque menor que XLE -decenas de miles de millones-, muy superior a IYE -~$1.6bn, ya en el workbook-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Antiguedad y track record",
-          "notas": "21.9 anios desde inception -23-sep-2004-. CUBRE Crisis 2008 completa -retorno 2008 de -39.54%, MEJOR que el promedio de la categoria -51.12%, segun fuente agregada- y el crash COVID/petroleo negativo marzo-2020 -peor drawdown historico del fondo, ver fila 41-. Benchmark 'spliced': MSCI US Investable Market Energy Index hasta 26-feb-2010, luego MSCI US IMI Energy 25/50 -cambio de composicion documentado en la propia ficha de Vanguard, no afecta la continuidad del track record de retorno NAV-.",
+          "aspecto": "Antigüedad y track record",
+          "notas": "21.9 años desde inception -23-sep-2004-. CUBRE Crisis 2008 completa -retorno 2008 de -39.54%, MEJOR que el promedio de la categoría -51.12%, según fuente agregada- y el crash COVID/petróleo negativo marzo-2020 -peor drawdown histórico del fondo, ver fila 41-. Benchmark 'spliced': MSCI US Investable Market Energy Index hasta 26-feb-2010, luego MSCI US IMI Energy 25/50 -cambio de composición documentado en la propia ficha de Vanguard, no afecta la continuidad del track record de retorno NAV-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "aspecto": "Emisor: reputación, tamaño de la firma y gama de productos",
           "notas": "Emisor Vanguard, gestora reputada por su estructura de bajo costo consistente en todo el proyecto -VOO/VXUS/VEA/VTV/VUG entre otros ya en el workbook-.",
           "calificacion": 5
         }
@@ -40,153 +40,153 @@
       "titulo": "B. COSTOS",
       "aspectos": [
         {
-          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
-          "notas": "TER = 0.09% -ficha oficial Vanguard-, PRACTICAMENTE EMPATADO con XLE -0.08%- y FENY -0.08%, ambos ya en el workbook-, y 4.2x MAS BARATO que IYE -0.38%, ya en el workbook-. Vanguard reporta el promedio de categoria 'ETFs Natural Resources' en 0.48% y de fondos mutuos en 1.31% -VDE muy por debajo de ambos-.",
+          "aspecto": "Expense Ratio (TER) vs. categoría/competidores directos",
+          "notas": "TER = 0.09% -ficha oficial Vanguard-, PRÁCTICAMENTE EMPATADO con XLE -0.08%- y FENY -0.08%, ambos ya en el workbook-, y 4.2x MAS BARATO que IYE -0.38%, ya en el workbook-. Vanguard reporta el promedio de categoría 'ETFs Natural Resources' en 0.48% y de fondos mutuos en 1.31% -VDE muy por debajo de ambos-.",
           "calificacion": 5
         },
         {
-          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
-          "notas": "Tracking Difference DERIVADA de la propia tabla de performance oficial de Vanguard -no publicada explicitamente como cifra unica-: desde inception, NAV +7.91% anualizado vs indice spliced +7.93% -gap de solo ~0.02pp/anio-; a 10 anios, NAV +8.37% vs indice +8.47% -gap de ~0.10pp/anio-. Ambos MUY AJUSTADOS, consistente con el patron de bajo tracking error de Vanguard en el resto del proyecto.",
+          "aspecto": "Tracking Difference histórico (costo real vs. índice, no solo el TER nominal)",
+          "notas": "Tracking Difference DERIVADA de la propia tabla de performance oficial de Vanguard -no publicada explícitamente como cifra única-: desde inception, NAV +7.91% anualizado vs índice spliced +7.93% -gap de solo ~0.02pp/año-; a 10 años, NAV +8.37% vs índice +8.47% -gap de ~0.10pp/año-. Ambos MUY AJUSTADOS, consistente con el patrón de bajo tracking error de Vanguard en el resto del proyecto.",
           "calificacion": 4
         },
         {
           "aspecto": "Securities lending: revenue generado y % que compensa el TER",
-          "notas": "Vanguard opera un programa institucional de securities lending a nivel de firma, pero no se encontro cifra de revenue especifica para VDE que compense el TER.",
+          "notas": "Vanguard opera un programa institucional de securities lending a nivel de firma, pero no se encontro cifra de revenue específica para VDE que compense el TER.",
           "calificacion": 3
         },
         {
-          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
-          "notas": "Indice cap-weighted CAPPED -25/50, MSCI IMI-. Turnover rate = 10.8% anual -ficha oficial Vanguard-, bajo y razonable para un fondo sectorial.",
+          "aspecto": "Rotación de cartera del índice subyacente (costo de rebalanceo)",
+          "notas": "Índice cap-weighted CAPPED -25/50, MSCI IMI-. Turnover rate = 10.8% anual -ficha oficial Vanguard-, bajo y razonable para un fondo sectorial.",
           "calificacion": 4
         }
       ],
       "rating_promedio": 4.0
     },
     {
-      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "titulo": "C. LIQUIDEZ Y EJECUSIÓN",
       "aspectos": [
         {
           "aspecto": "Volumen diario promedio (USD)",
-          "notas": "Volumen diario con discrepancia entre fuentes: 399,625 acciones/dia -stockanalysis.com- vs 562,000 -AAII-. A precio ~$172/accion, esto implica un RANGO de ~$69M-$97M/dia -no se fuerza una cifra unica-. Alto en cualquier caso, muy superior a IYE.",
+          "notas": "Volumen diario con discrepancia entre fuentes: 399,625 acciones/dia -stockanalysis.com- vs 562,000 -AAII-. A precio ~$172/acción, esto implica un RANGO de ~$69M-$97M/dia -no se fuerza una cifra única-. Alto en cualquier caso, muy superior a IYE.",
           "calificacion": 4
         },
         {
           "aspecto": "Spread bid-ask promedio",
-          "notas": "Spread ~2 puntos basicos -0.02%- segun datos agregados de spread de ETPs -etfrc.com-; cotizacion puntual observada $172.25/$172.30 -~0.03%-. Muy ajustado, consistente con el patron Vanguard de alta eficiencia.",
+          "notas": "Spread ~2 puntos básicos -0.02%- según datos agregados de spread de ETPs -etfrc.com-; cotización puntual observada $172.25/$172.30 -~0.03%-. Muy ajustado, consistente con el patrón Vanguard de alta eficiencia.",
           "calificacion": 4
         },
         {
-          "aspecto": "Premium/Discount historico vs. NAV",
-          "notas": "Premium/Discount historico vs NAV NO ENCONTRADO como serie de tiempo -Vanguard no publica una cifra agregada en la ficha-. Snapshot puntual observado -NAV $170.11 vs precio $172.30- probablemente refleja distinto timestamp de captura, no un premium estructural real - declarado explicitamente como dato no confiable en vez de forzarlo.",
+          "aspecto": "Premium/Discount histórico vs. NAV",
+          "notas": "Premium/Discount histórico vs NAV NO ENCONTRADO como serie de tiempo -Vanguard no pública una cifra agregada en la ficha-. Snapshot puntual observado -NAV $170.11 vs precio $172.30- probablemente refleja distinto timestamp de captura, no un premium estructural real - declarado explícitamente como dato no confiable en vez de forzarlo.",
           "calificacion": 2
         },
         {
           "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
-          "notas": "Sin cifra especifica de profundidad de APs, pero Vanguard tiene infraestructura de creacion/redencion robusta a nivel de firma y el spread ajustado -~0.02-0.03%- sugiere un mecanismo funcional.",
+          "notas": "Sin cifra específica de profundidad de APs, pero Vanguard tiene infraestructura de creación/redención robusta a nivel de firma y el spread ajustado -~0.02-0.03%- sugiere un mecanismo funcional.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.25
     },
     {
-      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "titulo": "D. COMPOSISIÓN Y CONCENTRASIÓN",
       "aspectos": [
         {
-          "aspecto": "Numero de holdings y diversificacion",
-          "notas": "111 HOLDINGS -ficha oficial Vanguard jun-2026, stockanalysis.com muestra 118 en snapshot distinto-, MUCHO MAS que XLE -~20-25- y ligeramente mas que FENY -104, ya en el workbook-. Desglose por capitalizacion: Large Cap 41.0%, Medium 33.0%+7.5%, Small 13.0%+5.6% -~51.6% fuera de large-cap puro-, confirmando exposicion multi-cap genuina a diferencia de XLE.",
+          "aspecto": "Número de holdings y diversificación",
+          "notas": "111 HOLDINGS -ficha oficial Vanguard jun-2026, stockanalysis.com muestra 118 en snapshot distinto-, MUCHO MAS que XLE -~20-25- y ligeramente mas que FENY -104, ya en el workbook-. Desglose por capitalización: Large Cap 41.0%, Medium 33.0%+7.5%, Small 13.0%+5.6% -~51.6% fuera de large-cap puro-, confirmando exposición multi-cap genuina a diferencia de XLE.",
           "calificacion": 4
         },
         {
-          "aspecto": "Concentracion Top 10 holdings (%)",
-          "notas": "Top 10 = 63.6% -Exxon 21.7%, Chevron 13.5%, ConocoPhillips 5.5%, Williams 4.0%, Valero 3.5%, Marathon Petroleum 3.4%, EOG Resources 3.1%, SLB 3.1%, Phillips 66 3.0%, Kinder Morgan 2.7%-. Exxon+Chevron = 35.2% del fondo -concentracion similar en magnitud a XLE en las dos mayores posiciones-, pero diluida mas abajo por el resto de holdings mid/small-cap que XLE no tiene -Texas Pacific Land, Expand Energy, DT Midstream, Permian Resources, Ovintiv, entre otros-.",
+          "aspecto": "Concentración Top 10 holdings (%)",
+          "notas": "Top 10 = 63.6% -Exxon 21.7%, Chevron 13.5%, ConocoPhillips 5.5%, Williams 4.0%, Valero 3.5%, Marathon Petroleum 3.4%, EOG Resources 3.1%, SLB 3.1%, Phillips 66 3.0%, Kinder Morgan 2.7%-. Exxon+Chevron = 35.2% del fondo -concentración similar en magnitud a XLE en las dos mayores posiciones-, pero diluida mas abajo por el resto de holdings mid/small-cap que XLE no tiene -Texas Pacific Land, Expand Energy, DT Midstream, Permian Resources, Ovintiv, entre otros-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
-          "notas": "Desglose de subindustrias GICS -ficha oficial Vanguard-: Integradas 36.8%, E&P 22.0%, Midstream -storage/transportation- 16.1%, Refino/Marketing 11.7%, Equipos/Servicios 11.4%, Perforacion 1.3%, y **Coal & Consumable Fuels 0.8%** -exposicion residual a carbon que XLE probablemente no tiene o tiene marginal, relevante para criterios ESG-.",
+          "aspecto": "Concentración sectorial (sector dominante / índice tipo HHI)",
+          "notas": "Desglose de subindustrias GICS -ficha oficial Vanguard-: Integradas 36.8%, E&P 22.0%, Midstream -storage/transportation- 16.1%, Refino/Marketing 11.7%, Equipos/Servicios 11.4%, Perforación 1.3%, y **Coal & Consumable Fuels 0.8%** -exposición residual a carbon que XLE probablemente no tiene o tiene marginal, relevante para criterios ESG-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Concentracion geografica",
-          "notas": "Concentracion geografica 100% EEUU, sin exposicion internacional.",
+          "aspecto": "Concentración geográfica",
+          "notas": "Concentración geográfica 100% EEUU, sin exposición internacional.",
           "calificacion": 2
         },
         {
-          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
-          "notas": "Exposicion multi-cap genuina -large/mid/small cap combinados, ver fila 30-, factor de tamano mas amplio que XLE -puro large-cap del S&P Energy Select Sector-.",
+          "aspecto": "Exposición a factor/estilo (growth/value, tamaño, calidad, momentum)",
+          "notas": "Exposición multi-cap genuina -large/mid/small cap combinados, ver fila 30-, factor de tamaño mas amplio que XLE -puro large-cap del S&P Energy Select Sector-.",
           "calificacion": 4
         },
         {
-          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
-          "notas": "Indice MSCI US Investable Market -IMI- Energy 25/50 -cap-weighted, capped, ningun emisor >25%, agregado de posiciones >5% topado en 50%-, metodologia transparente y publicada por MSCI.",
+          "aspecto": "Metodología del índice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Índice MSCI US Investable Market -IMI- Energy 25/50 -cap-weighted, capped, ningún emisor >25%, agregado de posiciones >5% topado en 50%-, metodología transparente y publicada por MSCI.",
           "calificacion": 3
         },
         {
-          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
-          "notas": "Reglas de rebalanceo estandar MSCI, turnover bajo -10.8% anual, ficha oficial Vanguard-. Benchmark 'spliced' -cambio de composicion feb-2010- documentado transparentemente por Vanguard sin romper la continuidad del track record de retorno.",
+          "aspecto": "Reglas y frecuencia de rebalanceo del índice",
+          "notas": "Reglas de rebalanceo estándar MSCI, turnover bajo -10.8% anual, ficha oficial Vanguard-. Benchmark 'spliced' -cambio de composición feb-2010- documentado transparentemente por Vanguard sin romper la continuidad del track record de retorno.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.14
     },
     {
-      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "titulo": "E. RIESGO / RETORNO HISTÓRICO",
       "aspectos": [
         {
-          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
-          "notas": "HALLAZGO HONESTO -rompe el patron 'Vanguard barato siempre gana' ya visto en el resto del proyecto-: retorno NAV 10Y anualizado = 8.37% -oficial Vanguard-, INFERIOR al de XLE -9.75%- y FENY -9.64%-, ambos ya en el workbook, PESE a tener TER practicamente identico -0.09% vs 0.08%-. Retorno 1Y NAV +29.80%, 3Y +13.40%, 5Y +18.70% -todos oficiales Vanguard-.",
+          "aspecto": "Rentabilidad histórica vs. benchmark/categoría (1, 3, 5, 10 años)",
+          "notas": "HALLAZGO HONESTO -rompe el patrón 'Vanguard barato siempre gana' ya visto en el resto del proyecto-: retorno NAV 10Y anualizado = 8.37% -oficial Vanguard-, INFERIOR al de XLE -9.75%- y FENY -9.64%-, ambos ya en el workbook, PESE a tener TER prácticamente identico -0.09% vs 0.08%-. Retorno 1Y NAV +29.80%, 3Y +13.40%, 5Y +18.70% -todos oficiales Vanguard-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Volatilidad anualizada vs. categoria",
-          "notas": "Volatilidad anualizada = 19.27% -desviacion estandar 3Y de retornos mensuales, oficial Vanguard-. Otra fuente -composer.trade/portfoliosLab- reporta 20.34% a 1Y y 29.7% desde inception -ventanas distintas, no necesariamente contradictorias-.",
+          "aspecto": "Volatilidad anualizada vs. categoría",
+          "notas": "Volatilidad anualizada = 19.27% -desviación estándar 3Y de retornos mensuales, oficial Vanguard-. Otra fuente -composer.trade/portfoliosLab- reporta 20.34% a 1Y y 29.7% desde inception -ventanas distintas, no necesariamente contradictorias-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
-          "notas": "Max Drawdown historico = **-74.20%, ocurrido el 18-mar-2020** -crash COVID + precio negativo del WTI-, ~520 sesiones de recuperacion -composer.trade/portfoliosLab-. IMPORTANTE: el peor drawdown de VDE NO fue 2008 sino 2020 -retorno anual 2008 de -39.54%, MEJOR que el promedio de categoria -51.12%-.",
+          "aspecto": "Máximo Drawdown histórico y tiempo de recuperación",
+          "notas": "Max Drawdown histórico = **-74.20%, ocurrido el 18-mar-2020** -crash COVID + precio negativo del WTI-, ~520 sesiones de recuperación -composer.trade/portfoliosLab-. IMPORTANTE: el peor drawdown de VDE NO fue 2008 sino 2020 -retorno anual 2008 de -39.54%, MEJOR que el promedio de categoría -51.12%-.",
           "calificacion": 3
         },
         {
           "aspecto": "Sharpe / Sortino ratio",
-          "notas": "BANDERA DE CALIDAD DE DATO: Sharpe ratio con cifras MUY dispares y sin ventana temporal clara -0.42 desde inception, 2.22 a 1 anio, 1.95 en otra ventana no especificada-. No se fuerza una cifra unica confiable.",
+          "notas": "BANDERA DE CALIDAD DE DATO: Sharpe ratio con cifras MUY dispares y sin ventana temporal clara -0.42 desde inception, 2.22 a 1 año, 1.95 en otra ventana no especificada-. No se fuerza una cifra única confiable.",
           "calificacion": 1
         },
         {
-          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
-          "notas": "BANDERA DE CALIDAD DE DATO: Beta vs S&P 500 con discrepancia EXTREMA e implausible entre fuentes -stockanalysis.com 0.46, otra fuente agregada 1.11, AAII -0.07-. Un beta negativo para un ETF de energia frente al S&P 500 es poco plausible salvo ventana muy corta/anomala. Se declara explicitamente como NO VERIFICADO de forma fiable en vez de forzar un numero.",
+          "aspecto": "Beta y correlación con activos ya en el portafolio del usuario",
+          "notas": "BANDERA DE CALIDAD DE DATO: Beta vs S&P 500 con discrepancia EXTREMA e implausible entre fuentes -stockanalysis.com 0.46, otra fuente agregada 1.11, AAII -0.07-. Un beta negativo para un ETF de energía frente al S&P 500 es poco plausible salvo ventana muy corta/anomala. Se declara explícitamente como NO VERIFICADO de forma fiable en vez de forzar un número.",
           "calificacion": 1
         },
         {
           "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
-          "notas": "Cubre Crisis 2008 completa -retorno 2008 -39.54%, mejor que el promedio del sector- y el crash COVID/petroleo negativo de marzo-2020 -peor drawdown historico del fondo, -74.20%-, ambos eventos documentados directamente por el track record desde 2004.",
+          "notas": "Cubre Crisis 2008 completa -retorno 2008 -39.54%, mejor que el promedio del sector- y el crash COVID/petróleo negativo de marzo-2020 -peor drawdown histórico del fondo, -74.20%-, ambos eventos documentados directamente por el track record desde 2004.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 2.33
     },
     {
-      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "titulo": "F. VALORASIÓN AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
       "aspectos": [
         {
-          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
-          "notas": "P/E ponderado = 19.8x -fondo- vs 19.9x -indice-, cifra OFICIAL de Vanguard jun-2026. P/B ponderado = 2.2x -fondo- vs 2.2x -indice-, tambien oficial -dato raro de conseguir con confianza en este proyecto, ninguna fuente secundaria pudo confirmarlo independientemente pero la cifra oficial de Vanguard se toma con alta confianza-. Sin serie historica propia a 5-10 anios para calcular percentil.",
+          "aspecto": "Múltiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio histórico 5-10y",
+          "notas": "P/E ponderado = 19.8x -fondo- vs 19.9x -índice-, cifra OFICIAL de Vanguard jun-2026. P/B ponderado = 2.2x -fondo- vs 2.2x -índice-, también oficial -dato raro de conseguir con confianza en este proyecto, ninguna fuente secundaria pudo confirmarlo independientemente pero la cifra oficial de Vanguard se toma con alta confianza-. Sin serie histórica propia a 5-10 años para calcular percentil.",
           "calificacion": 3
         },
         {
-          "aspecto": "Dividend/Distribution yield vs. historico propio",
-          "notas": "Dividend yield ~2.4% -rango 2.34%-2.46% segun fuente/metodologia-, TTM ~$4.03/accion, distribucion trimestral. Payout ratio = 43.90% -stockanalysis.com-, RAZONABLE Y SOSTENIBLE, muy distinto del 125.41% de AMLP ya en el workbook.",
+          "aspecto": "Dividend/Distribution yield vs. histórico propio",
+          "notas": "Dividend yield ~2.4% -rango 2.34%-2.46% según fuente/metodología-, TTM ~$4.03/acción, distribución trimestral. Payout ratio = 43.90% -stockanalysis.com-, RAZONABLE Y SOSTENIBLE, muy distinto del 125.41% de AMLP ya en el workbook.",
           "calificacion": 3
         }
       ],
       "rating_promedio": 3.0
     },
     {
-      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "titulo": "Renta fija: duración efectiva, YTM, calidad crediticia vs. categoría (dejar en blanco si no aplica)",
       "aspectos": [
         {
-          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
-          "notas": "Comparacion directa: TER practicamente EMPATADO con XLE -0.08%- y FENY -0.08%-, pero retorno 10Y INFERIOR a ambos -8.37% vs 9.75% XLE vs 9.64% FENY-. FENY y VDE son los mas parecidos entre si del cluster -ambos indices MSCI IMI Energy 25/50, TER casi identico, holdings similares 104 vs 111-, casi sustitutos directos. VDE DOMINA decisivamente a IYE -4.2x mas barato -0.09% vs 0.38%-, mucho mas diversificado, ya en el workbook con Score 2.64-, confirmando el patron Vanguard-vs-iShares ya visto en VXUS-vs-ACWX y VEA-vs-SCHF.",
+          "aspecto": "Valoración relativa vs. ETFs competidores directos (misma exposición, distinto emisor)",
+          "notas": "Comparación directa: TER prácticamente EMPATADO con XLE -0.08%- y FENY -0.08%-, pero retorno 10Y INFERIOR a ambos -8.37% vs 9.75% XLE vs 9.64% FENY-. FENY y VDE son los mas parecidos entre si del cluster -ambos índices MSCI IMI Energy 25/50, TER casi identico, holdings similares 104 vs 111-, casi sustitutos directos. VDE DOMINA decisivamente a IYE -4.2x mas barato -0.09% vs 0.38%-, mucho mas diversificado, ya en el workbook con Score 2.64-, confirmando el patrón Vanguard-vs-iShares ya visto en VXUS-vs-ACWX y VEA-vs-SCHF.",
           "calificacion": 3
         }
       ],
@@ -196,23 +196,23 @@
       "titulo": "G. CUALITATIVO / TESIS",
       "aspectos": [
         {
-          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
-          "notas": "Rol Satelite de exposicion sectorial a energia con la diversificacion interna mas amplia del cluster -111 holdings multi-cap-, costo practicamente igual al mejor del cluster -XLE/FENY-.",
+          "aspecto": "Rol en el portafolio (core / satélite / táctico / cobertura de que riesgo específico)",
+          "notas": "Rol Satélite de exposición sectorial a energía con la diversificación interna mas amplia del cluster -111 holdings multi-cap-, costo prácticamente igual al mejor del cluster -XLE/FENY-.",
           "calificacion": 3
         },
         {
-          "aspecto": "Tesis de inversion / catalizador",
-          "notas": "Tesis: exposicion sectorial energetica MAS DIVERSIFICADA del cluster del proyecto -111 holdings multi-cap vs ~20-25 de XLE-, a un costo casi identico al mejor del cluster. Pero el retorno 10Y realizado es inferior a XLE y FENY pese al costo similar, matiz que templa la tesis de 'Vanguard barato siempre gana' del resto del proyecto.",
+          "aspecto": "Tesis de inversión / catalizador",
+          "notas": "Tesis: exposición sectorial energetica MAS DIVERSIFICADA del cluster del proyecto -111 holdings multi-cap vs ~20-25 de XLE-, a un costo casi identico al mejor del cluster. Pero el retorno 10Y realizado es inferior a XLE y FENY pese al costo similar, matiz que templa la tesis de 'Vanguard barato siempre gana' del resto del proyecto.",
           "calificacion": 3
         },
         {
-          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
-          "notas": "Riesgos: concentracion Exxon+Chevron 35.2% del fondo pese a 111 holdings, exposicion residual a carbon -0.8%, relevante para ESG-, maximo drawdown historico -74.20%- ocurrido en 2020 -no en 2008-, mas severo que la propia Crisis 2008 para este fondo. Datos de Sharpe/Beta de calidad NOTABLEMENTE debil -discrepancias grandes e implausibles entre fuentes-.",
+          "aspecto": "Riesgos principales (concentración, sector, geopolítico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: concentración Exxon+Chevron 35.2% del fondo pese a 111 holdings, exposición residual a carbon -0.8%, relevante para ESG-, máximo drawdown histórico -74.20%- ocurrido en 2020 -no en 2008-, mas severo que la propia Crisis 2008 para este fondo. Datos de Sharpe/Beta de calidad NOTABLEMENTE débil -discrepancias grandes e implausibles entre fuentes-.",
           "calificacion": 2
         },
         {
           "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
-          "notas": "Alternativas directas ya en el workbook: XLE -Score 3.85, mejor retorno 10Y, menos holdings/mas concentrado- y FENY -Score 3.30, practicamente identico a VDE en costo/metodologia/holdings, casi sustituto directo-. VDE DOMINA decisivamente a IYE -Score 2.64, 4.2x mas caro, ya en el workbook-.",
+          "notas": "Alternativas directas ya en el workbook: XLE -Score 3.85, mejor retorno 10Y, menos holdings/mas concentrado- y FENY -Score 3.30, prácticamente identico a VDE en costo/metodología/holdings, casi sustituto directo-. VDE DOMINA decisivamente a IYE -Score 2.64, 4.2x mas caro, ya en el workbook-.",
           "calificacion": 3
         }
       ],
@@ -220,6 +220,6 @@
     }
   ],
   "conclusion": {
-    "tesis": "ESPERAR MEJOR ENTRADA. VDE confirma parcialmente el patron 'Vanguard barato y bien diversificado' ya visto en el resto del proyecto -VXUS/VEA/VOO-: TER 0.09% practicamente empatado con los mejores del cluster de energia -XLE 0.08%, FENY 0.08%, ambos ya en el workbook- y 4.2x mas barato que IYE -0.38%, tambien ya en el workbook-, con la diversificacion interna MAS AMPLIA del cluster -111 holdings multi-cap large/mid/small, muy superior a los ~20-25 de XLE-. PERO el retorno NAV 10Y anualizado -8.37%- es INFERIOR al de XLE -9.75%- y FENY -9.64%-, pese al costo casi identico -hallazgo honesto que templa la narrativa de que Vanguard barato siempre gana en este proyecto-. Cubre Crisis 2008 completa -mejor que el promedio de categoria en 2008- y el crash COVID/petroleo negativo de marzo-2020 -su peor drawdown historico, -74.20%, mas severo que 2008 para este fondo especifico-. Datos de Sharpe y Beta de calidad notablemente debil -discrepancias grandes e implausibles entre fuentes, no se fuerza una cifra unica-. FENY y VDE son practicamente sustitutos directos entre si -mismo indice MSCI IMI Energy 25/50, TER y holdings casi identicos-. Score 3.30/5, empatado con FENY, por debajo de XLE -3.85, sigue siendo la mejor opcion del cluster-. Rol Satelite sectorial, no redundante con IYE -al que domina decisivamente- pero si muy cercano a FENY."
+    "tesis": "ESPERAR MEJOR ENTRADA. VDE confirma parcialmente el patrón 'Vanguard barato y bien diversificado' ya visto en el resto del proyecto -VXUS/VEA/VOO-: TER 0.09% prácticamente empatado con los mejores del cluster de energía -XLE 0.08%, FENY 0.08%, ambos ya en el workbook- y 4.2x mas barato que IYE -0.38%, también ya en el workbook-, con la diversificación interna MAS AMPLIA del cluster -111 holdings multi-cap large/mid/small, muy superior a los ~20-25 de XLE-. PERO el retorno NAV 10Y anualizado -8.37%- es INFERIOR al de XLE -9.75%- y FENY -9.64%-, pese al costo casi identico -hallazgo honesto que templa la narrativa de que Vanguard barato siempre gana en este proyecto-. Cubre Crisis 2008 completa -mejor que el promedio de categoría en 2008- y el crash COVID/petróleo negativo de marzo-2020 -su peor drawdown histórico, -74.20%, mas severo que 2008 para este fondo específico-. Datos de Sharpe y Beta de calidad notablemente débil -discrepancias grandes e implausibles entre fuentes, no se fuerza una cifra única-. FENY y VDE son prácticamente sustitutos directos entre si -mismo índice MSCI IMI Energy 25/50, TER y holdings casi identicos-. Score 3.30/5, empatado con FENY, por debajo de XLE -3.85, sigue siendo la mejor opción del cluster-. Rol Satélite sectorial, no redundante con IYE -al que domina decisivamente- pero si muy cercano a FENY."
   }
 }
