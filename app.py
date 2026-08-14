@@ -13,51 +13,26 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# ── AUTENTICACIÓN ─────────────────────────────────────────────────────────────
-try:
-    _CLAVE = st.secrets["access_key"]
-except Exception:
-    _CLAVE = "bolsa123"
-
-if "auth_ok" not in st.session_state:
-    st.session_state.auth_ok = False
-
-if not st.session_state.auth_ok:
-    st.markdown("""
-    <div style="max-width:360px;margin:120px auto 0;text-align:center">
-        <div style="font-size:48px">📊</div>
-        <h2 style="color:#111827;margin:12px 0 4px;font-size:22px">Analizador de Bolsa</h2>
-        <p style="color:#64748b;font-size:14px;margin-bottom:28px">Acceso restringido</p>
-    </div>
-    """, unsafe_allow_html=True)
-    _, mid, _ = st.columns([1, 1.2, 1])
-    with mid:
-        pwd = st.text_input("Contraseña", type="password", placeholder="••••••••", label_visibility="collapsed")
-        if st.button("Entrar →", use_container_width=True, type="primary"):
-            if pwd == _CLAVE:
-                st.session_state.auth_ok = True
-                st.rerun()
-            else:
-                st.error("Contraseña incorrecta")
-    st.stop()
-
-# Estado de sesión: ticker seleccionado desde el ranking
-if "ticker_click" not in st.session_state:
-    st.session_state.ticker_click = None
-# Modo global: "acciones" o "etfs" — controla toda la página (switch del sidebar)
-if "modo" not in st.session_state:
-    st.session_state.modo = "acciones"
-
 # ── CSS ──────────────────────────────────────────────────────────────────────
 st.markdown("""
 <style>
 html, body, [data-testid="stAppViewContainer"], .main, section.main {
     background-color: #f4f6fa !important;
 }
-[data-testid="stHeader"] { display: none !important; }
+/* No ocultar stHeader entero: ahí vive el botón para abrir/cerrar el sidebar.
+   Solo se lo hace transparente y bajito; el menú "Deploy"/hamburguesa se
+   oculta aparte via stToolbar más abajo. */
+[data-testid="stHeader"] {
+    background: transparent !important;
+    box-shadow: none !important;
+    height: 2.75rem;
+}
 [data-testid="stSidebar"] {
-    background-color: #f4f6fa !important;
+    background-color: #ffffff !important;
     border-right: 1px solid #e2e6ee;
+}
+[data-testid="stSidebarCollapsedControl"] {
+    color: #111827 !important;
 }
 .block-container { padding-top: 1.8rem !important; padding-bottom: 2rem !important; }
 
@@ -130,6 +105,42 @@ hr { border-color: #e2e6ee !important; margin: 1.2rem 0 !important; }
 }
 </style>
 """, unsafe_allow_html=True)
+
+# ── AUTENTICACIÓN ─────────────────────────────────────────────────────────────
+try:
+    _CLAVE = st.secrets["access_key"]
+except Exception:
+    _CLAVE = "bolsa123"
+
+if "auth_ok" not in st.session_state:
+    st.session_state.auth_ok = False
+
+if not st.session_state.auth_ok:
+    st.markdown("""
+    <div style="max-width:360px;margin:120px auto 0;text-align:center">
+        <div style="font-size:48px">📊</div>
+        <h2 style="color:#111827;margin:12px 0 4px;font-size:22px">Analizador de Bolsa</h2>
+        <p style="color:#64748b;font-size:14px;margin-bottom:28px">Acceso restringido</p>
+    </div>
+    """, unsafe_allow_html=True)
+    _, mid, _ = st.columns([1, 1.2, 1])
+    with mid:
+        pwd = st.text_input("Contraseña", type="password", placeholder="••••••••", label_visibility="collapsed")
+        if st.button("Entrar →", use_container_width=True, type="primary"):
+            if pwd == _CLAVE:
+                st.session_state.auth_ok = True
+                st.rerun()
+            else:
+                st.error("Contraseña incorrecta")
+    st.stop()
+
+# Estado de sesión: ticker seleccionado desde el ranking
+if "ticker_click" not in st.session_state:
+    st.session_state.ticker_click = None
+# Modo global: "acciones" o "etfs" — controla toda la página (switch del sidebar)
+if "modo" not in st.session_state:
+    st.session_state.modo = "acciones"
+
 
 
 # ── HELPERS ──────────────────────────────────────────────────────────────────
