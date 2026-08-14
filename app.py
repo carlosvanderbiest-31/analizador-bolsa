@@ -2,7 +2,6 @@ import json
 import re
 import streamlit as st
 from pathlib import Path
-from streamlit_searchbox import st_searchbox
 
 DATA_DIR = Path(__file__).resolve().parent / "data"
 
@@ -1118,26 +1117,34 @@ with st.sidebar:
     # Título clicable → vuelve a la pantalla principal
     if st.button("📊 Analizador de Bolsa", key="btn_home", use_container_width=True):
         st.session_state.ticker_click = None
-        for k in [k for k in st.session_state if k.startswith("buscador_activo")]:
-            del st.session_state[k]
+        st.session_state["buscador_texto"] = ""
         st.rerun()
     st.caption("Análisis fundamental · mediano y largo plazo")
     st.markdown("---")
 
-    ticker_buscado = st_searchbox(
-        buscar_activo,
-        placeholder="Ticker o nombre (acción o ETF)...",
-        label="Buscar en Mi Análisis",
-        key="buscador_activo",
-        default=None,
-        clear_on_submit=True,
+    # Buscador nativo (sin componente de terceros: text_input + lista de
+    # resultados clicables). Busca en ambos datasets de Mi Análisis y, al
+    # elegir un resultado, cambia el modo si hace falta y abre la ficha.
+    if st.session_state.pop("_limpiar_buscador", False):
+        st.session_state["buscador_texto"] = ""
+    query = st.text_input(
+        "Buscar en Mi Análisis",
+        placeholder="🔍 Ticker o nombre (acción o ETF)...",
+        key="buscador_texto",
     )
-    if ticker_buscado:
-        _modo_busq, _tk_busq = ticker_buscado.split("|", 1)
-        st.session_state.modo = _modo_busq
-        st.session_state["modo_selector"] = "📊 Acciones" if _modo_busq == "acciones" else "📦 ETFs"
-        st.session_state.ticker_click = _tk_busq
-        st.rerun()
+    if query and query.strip():
+        resultados = buscar_activo(query)
+        if resultados:
+            for label, value in resultados[:8]:
+                if st.button(label, key=f"searchres_{value}", use_container_width=True):
+                    _modo_busq, _tk_busq = value.split("|", 1)
+                    st.session_state.modo = _modo_busq
+                    st.session_state["modo_selector"] = "📊 Acciones" if _modo_busq == "acciones" else "📦 ETFs"
+                    st.session_state.ticker_click = _tk_busq
+                    st.session_state["_limpiar_buscador"] = True
+                    st.rerun()
+        else:
+            st.caption("Sin resultados.")
     st.markdown("---")
 
     st.markdown("**Modo**")
