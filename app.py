@@ -19,20 +19,9 @@ st.markdown("""
 html, body, [data-testid="stAppViewContainer"], .main, section.main {
     background-color: #f4f6fa !important;
 }
-/* No ocultar stHeader entero: ahí vive el botón para abrir/cerrar el sidebar.
-   Solo se lo hace transparente y bajito; el menú "Deploy"/hamburguesa se
-   oculta aparte via stToolbar más abajo. */
-[data-testid="stHeader"] {
-    background: transparent !important;
-    box-shadow: none !important;
-    height: 2.75rem;
-}
 [data-testid="stSidebar"] {
     background-color: #ffffff !important;
     border-right: 1px solid #e2e6ee;
-}
-[data-testid="stSidebarCollapsedControl"] {
-    color: #111827 !important;
 }
 .block-container { padding-top: 1.8rem !important; padding-bottom: 2rem !important; }
 
@@ -67,7 +56,32 @@ div[data-testid="stExpander"] {
 }
 hr { border-color: #e2e6ee !important; margin: 1.2rem 0 !important; }
 [data-testid="stDataFrame"] { border-radius: 8px; overflow: hidden; }
-[data-testid="stToolbar"] { display: none !important; }
+
+/* Oculta solo el botón "Deploy" y el menú hamburguesa — nunca el header
+   completo ni stToolbar, ahí vive el control para abrir/cerrar el sidebar. */
+[data-testid="stAppDeployButton"],
+[data-testid="stMainMenu"] {
+    display: none !important;
+}
+
+/* El botón nativo para abrir/cerrar el sidebar es un ícono chico y de bajo
+   contraste por defecto — se le da fondo de color para que sea imposible
+   pasarlo por alto, sobre todo el de "expandir" cuando está colapsado
+   (stExpandSidebarButton vive suelto arriba a la izquierda de toda la
+   página, fuera del sidebar). */
+button[data-testid="stExpandSidebarButton"],
+[data-testid="stSidebarCollapseButton"],
+[data-testid="stSidebarCollapseButton"] button {
+    background: #00c896 !important;
+    border-radius: 8px !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    box-shadow: 0 1px 4px rgba(0,0,0,.2) !important;
+}
+button[data-testid="stExpandSidebarButton"] [data-testid="stIconMaterial"],
+[data-testid="stSidebarCollapseButton"] [data-testid="stIconMaterial"] {
+    color: #ffffff !important;
+}
 
 /* ── Botón título "Analizador de Bolsa" en el sidebar ── */
 [data-testid="stSidebar"] .stButton:first-child > button {
