@@ -1,0 +1,224 @@
+{
+  "nombre": "Roundhill Memory ETF",
+  "ticker": "DRAM",
+  "categoria": "Equity Tematico/Factor (memoria DRAM/NAND - ACTIVO, hibrido fisico+swap)",
+  "emisor": "Roundhill Investments",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "ESTRUCTURA HIBRIDA FISICA + SINTETICA (SWAP) - PRIMERA VEZ EN EL PROYECTO. El top10 de holdings suma 110.69% (imposible en una replica fisica pura) porque combina acciones fisicas directas (Samsung 18.46%, SK Hynix 15.21%, Seagate 5.08%, Western Digital 4.20%) con Total Return Swaps adicionales sobre los MISMOS nombres (Micron Swap 14.94% + Micron Swap 'Gold' 9.29% = 24.23% de exposicion SOLO via swap sin ninguna posicion fisica directa en Micron; Samsung Swap 'Gold' 6.15% adicional a la posicion fisica; SK Hynix Swap 'Gold' 5.14% adicional) y un swap dedicado sobre CXMT -ChangXin Memory Technologies, China- 4.51% (inaccesible de otra forma para inversionistas retail), todo respaldado por un colateral de T-Bill de EEUU del 27.71%. Roundhill declara explicitamente que usa swaps para 'mantener cumplimiento con los tests de diversificacion RIC' (razon regulatoria/fiscal legitima) pero fuentes independientes tambien describen la estructura como 'amplified exposure' (amplificacion/apalancamiento). Introduce RIESGO DE CONTRAPARTE real (los proveedores de swap) - el propio Roundhill advierte: 'swap agreements may involve greater risks than direct investment... subject to credit, counterparty and valuation risk' y que muchos swaps 'trade over the counter and may be considered illiquid'.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, pero exposicion subyacente genuinamente global (EEUU, Corea del Sur -Samsung, SK Hynix-, Japon, Taiwan, CHINA -CXMT-). Friccion fiscal de dividendos extranjeros aplicaria a la porcion de acciones fisicas, aunque es menos relevante en la practica porque el fondo NO reparte dividendo (yield n/a).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $23.93bn - SORPRENDENTEMENTE GRANDE para un fondo de solo 4 meses (mayor que CIBR $15.4bn, ITA $14.8bn, cercano a VYMI $21bn). Refleja el apetito especulativo intenso actual por el tema de memoria/DRAM. Aunque el tamano en si mitiga el riesgo de cierre, la VELOCIDAD de acumulacion de activos en un tema tan caliente en tan poco tiempo es en si misma una senal de posible euforia especulativa de corto plazo, no necesariamente de estabilidad estructural del vehiculo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 2-abr-2026 - SOLO ~4.3 MESES de historial al 2026-08-10. El SEGUNDO fondo mas nuevo del proyecto despues de EUV (3 meses). No ha atravesado ningun ciclo de mercado completo. PERO ya se observo volatilidad EXTREMA en su corta vida: rango de precio de 52 semanas $26.14-$81.34 (mas que TRIPLICO desde el minimo hasta el pico) y ya cayo aproximadamente -38% desde ese pico hasta el precio actual ($50.33) - evidencia CONCRETA y ya observada de volatilidad extrema, no solo teorica como en el caso de EUV.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: Roundhill Investments, fundada en 2018 (~8 anios de trayectoria), $8-10bn+ de AUM total de la firma a fines de 2025, 36+ ETFs, reputacion establecida como emisor 'dinamico e innovador' con varios productos 'first-to-market'. A DIFERENCIA DE CORGI (emisor de EUV), Roundhill SI tiene trayectoria real y verificable como gestora de ETFs, no es una startup de seguros/cafeterias reconvertida. PERO su especialidad es precisamente productos de alto riesgo estructural: tematicos concentrados, apalancados (2X, 3X), de opciones semanales de un solo nombre ('WeeklyPay') - un perfil de emisor orientado a productos sofisticados/especulativos, no a indexacion pasiva conservadora como BlackRock/Vanguard/Schwab/State Street.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.65% - EL MAS ALTO DE TODO EL PROYECTO (superando a CRAK 0.61% y EUV 0.35%). Alto incluso para gestion activa, coherente con la complejidad estructural (swaps, colateral, cumplimiento RIC).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "NO APLICA de la forma tradicional - fondo activo sin indice de referencia formal (mismo criterio ya aplicado a EUV).",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado; ademas la naturaleza swap-heavy del fondo hace este concepto menos relevante que en fondos de accion fisica pura.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "No aplica el concepto de rebalanceo de indice (gestion activa discrecional, con ajustes adicionales de las posiciones de swap segun necesidad de cumplimiento RIC).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "No verificado con cifra exacta esta sesion, pero el AUM de $23.93bn sugiere volumen probablemente alto dado el interes especulativo intenso reciente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Roundhill mismo advierte explicitamente que 'many swaps trade over the counter and may be considered illiquid, which can make a position difficult to unwind at a favorable price' - riesgo de liquidez reconocido por el propio emisor para la porcion de swaps del fondo (la porcion de acciones fisicas del ETF en si podria tener buen spread dado el AUM grande, pero la mecanica interna de deshacer los swaps es una capa de riesgo adicional).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Roundhill es un emisor establecido y el AUM grande sugiere buena profundidad para la porcion fisica, aunque la porcion de swap depende de la solidez de las contrapartes especificas de swap (no identificadas por nombre en las fuentes consultadas).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "Solo 23 holdings - EL MENOR NUMERO DE POSICIONES DE TODO EL PROYECTO (menor incluso que CRAK 25-30 y SOXX 31-34).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 110.69% DE LOS ACTIVOS (!) - cifra por ENCIMA del 100%, imposible en una replica fisica pura, reflejo directo de la EXPOSICION NOCIONAL AMPLIFICADA via swaps sobre los mismos nombres (descrito en detalle en la fila 11). No es comparable directamente a la 'concentracion' de otros ETFs del proyecto (todos <=100% por definicion de replica fisica) - es evidencia de un tipo de riesgo estructural distinto y potencialmente mas severo que la simple concentracion de holdings.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% memoria/almacenamiento semiconductor - concentracion sectorial tan extrema como cualquier otro ETF de nicho del proyecto, pero AUN MAS estrecha (solo memoria DRAM/NAND, ni siquiera semiconductores en general como SOXX).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Exposicion real a EEUU, Corea del Sur (Samsung, SK Hynix), Japon, Taiwan y CHINA (via swap sobre CXMT/ChangXin Memory Technologies) - la presencia de CHINA introduce riesgo geopolitico/regulatorio especifico (controles de exportacion, riesgo de acceso/deslisting, fiabilidad de informacion financiera de empresas chinas) que ningun otro ETF del proyecto tiene de forma tan directa (SOXX/EUV tenian Taiwan-Paises Bajos via TSM/ASML, pero no exposicion China).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Growth/ciclico extremo sobre un sub-segmento de COMMODITY (memoria DRAM/NAND) - EL MISMO tipo de negocio ciclico de commodity ya analizado individualmente con MU (Micron) en el proyecto de acciones, donde la memoria se documento explicitamente como uno de los segmentos MAS ciclicos dentro de semiconductores, con superciclos de precio bien documentados historicamente.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Fondo ACTIVAMENTE gestionado sin indice formal (igual que EUV), con la particularidad adicional de usar swaps por una razon de cumplimiento regulatorio RIC declarada explicitamente por el propio Roundhill (razon legitima, no puramente especulativa) - algo mejor que la opacidad total de EUV, dado que hay una justificacion documentada para parte de la estructura, aunque el resultado practico (exposicion nocional >100%) sigue siendo un riesgo estructural real.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "No aplica el concepto tradicional de reglas de rebalanceo de indice.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.57
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "SIN HISTORIAL SUFICIENTE para un retorno anualizado estadisticamente significativo (~4.3 meses desde inception). PERO, a diferencia de EUV (donde no hay ninguna evidencia de comportamiento), aqui SI hay evidencia CONCRETA y extrema: el rango de precio de 52 semanas ($26.14-$81.34, mas que TRIPLICO desde el minimo) y la caida posterior de ~38% desde ese pico hasta el precio actual ($50.33) ya demuestran un perfil de retorno/riesgo extremadamente volatil incluso en su vida tan corta.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "No calculable con rigor estadistico dado el historial de solo 4 meses, pero el rango de precio de vida completa del fondo (triplicar y luego caer ~38% desde el pico) es evidencia cualitativa de volatilidad EXTREMA - probablemente la mas alta de todo el proyecto si se pudiera medir formalmente con una serie de tiempo mas larga.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "La caida observada desde el maximo de 52 semanas ($81.34) hasta el precio actual ($50.33) ya representa un drawdown de aproximadamente -38% en pocas semanas/meses - la cifra de drawdown MAS CONCRETA Y RECIENTE de cualquier ETF del proyecto, aunque NO sea tecnicamente un 'maximo desde inception' formal dado lo corto del historial (podria haber drawdowns intermedios menores no capturados por este calculo simple de rango).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "No calculable con 4 meses de historial, no encontrado en las fuentes consultadas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = NO DISPONIBLE (confirmado por stockanalysis.com), mismo patron que EUV dado el historial tan corto. OVERLAP: Micron (MU) YA esta analizado individualmente en el Dashboard de acciones del usuario, con una exposicion economica TOTAL en DRAM de ~24.23% (14.94% + 9.29% de las dos lineas de swap, sin ninguna posicion fisica directa adicional) - overlap significativo aunque concentrado en UN SOLO nombre (a diferencia del overlap multi-nombre de CIBR/SOXX/EUV).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Imposible de evaluar con rigor (4 meses de historial, sin ciclo de mercado completo) - aunque el drawdown ya observado de -38% desde el pico reciente es una senal temprana concreta de la severidad potencial en un evento de correccion del tema de memoria.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 28.76x - MAS BARATO que SOXX (47.61x) y EUV (61.61x) pese a cubrir un tema aun mas caliente/especifico (memoria DRAM/NAND). Esto es TIPICO de las empresas de memoria (Samsung, SK Hynix, Micron), que historicamente cotizan a multiplos mas bajos que las de equipo/diseno de semiconductores por su naturaleza de COMMODITY CICLICO - MISMO gotcha de 'value trap de superciclo de commodity' ya documentado extensamente con MU en [[stock_analysis_methodology]], ahora aplicado a un ETF completo dominado por ese mismo tipo de negocio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield no disponible/no aplicable (n/a) - fondo de crecimiento puro sin distribucion, coherente con su naturaleza de apuesta especulativa concentrada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica en terminos economicos - aunque el fondo mantiene ~27.71% en T-Bills como colateral de los swaps, la naturaleza economica del vehiculo es 100% equity/derivados sobre equity, no renta fija como inversion propia.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "No hay otro ETF de memoria/DRAM puro ya analizado en este workbook para comparar cabeza a cabeza - la comparacion mas cercana disponible es SOXX (fila 9), que ofrece exposicion a Micron (y al resto de la cadena de semiconductores) SIN riesgo de contraparte de swaps, SIN apalancamiento nocional, con 25 anios de historial probado y un TER mucho menor (0.34% vs 0.65%) - aunque sin la exposicion especifica y concentrada a Samsung/SK Hynix/CXMT que ofrece DRAM.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol sugerido: NINGUNO permanente recomendado. Dada la combinacion de riesgo de contraparte (swaps), volatilidad extrema YA OBSERVADA, apalancamiento nocional implicito, e historial minimo, este ETF a lo sumo seria defendible como una apuesta TACTICA de muy alta conviccion y TAMANO PEQUENO, nunca como Core ni Satelite de largo plazo, y solo con pleno entendimiento del riesgo de contraparte de los swaps por parte del inversionista.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion concentrada al 'supercycle' de precios de memoria DRAM/NAND impulsado por la demanda de IA (los mismos chips de memoria de alto ancho de banda -HBM- que alimentan GPUs de IA) - tesis real y respaldada por fundamentales actuales (escasez de capacidad de memoria, demanda de datacenters de IA), PERO con la MISMA cautela que ya aplica a MU en el proyecto de acciones: los superciclos de memoria historicamente revierten con fuerza, y el fondo YA muestra evidencia temprana de esa reversion (caida de ~-38% desde su propio pico reciente, en solo semanas/meses).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) RIESGO DE CONTRAPARTE de los swaps - primera vez en el proyecto, el propio Roundhill advierte 'may involve greater risks than direct investment... subject to credit, counterparty and valuation risk'; (2) APALANCAMIENTO/AMPLIFICACION NOCIONAL implicito (holdings suman 110.69%); (3) volatilidad EXTREMA ya observada en su corta vida (rango 52 semanas $26-$81, drawdown de ~-38% desde el pico); (4) historial de solo 4 meses, sin haber atravesado ningun ciclo de mercado; (5) riesgo geopolitico/regulatorio de CHINA via CXMT (controles de exportacion, riesgo de acceso); (6) mismo riesgo de 'superciclo de commodity en su pico' ya documentado con MU; (7) liquidez de la porcion de swaps reconocida como potencialmente pobre por el propio emisor; (8) overlap con MU ya analizado individualmente (~24% de exposicion economica del fondo).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SOXX (ya analizado en este mismo workbook, fila 9) para exposicion mas amplia y menos riesgosa a la cadena de semiconductores incluyendo memoria. Comprar Micron (MU), Samsung o SK Hynix directamente evitaria el riesgo de contraparte de los swaps y el TER de 0.65%, aunque se perderia la conveniencia de un solo ticker y la exposicion a CXMT (practicamente inaccesible de otra forma para inversionistas retail dado que es una empresa china restringida).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar / no iniciar posicion). Score ~1.97/5, EL SEGUNDO MAS BAJO DE TODO EL PROYECTO (solo por encima de EUV, 1.84), muy lejos del resto del grupo (CRAK 2.91 era el tercer minimo). A diferencia de EUV, aqui el EMISOR si es legitimo y establecido (Roundhill, 8 anios de trayectoria, $8-10bn+ de AUM de la firma) - pero el riesgo se traslada a la ESTRUCTURA del fondo en si: es la PRIMERA vez en el proyecto que se encuentra un ETF con exposicion via TOTAL RETURN SWAPS significativa (no solo acciones fisicas), lo cual introduce riesgo de contraparte real (reconocido explicitamente por el propio Roundhill) y una exposicion nocional AMPLIFICADA (holdings suman 110.69%, no 100%). Ademas, a diferencia de EUV (donde no hay ningun dato de comportamiento por ser demasiado nuevo), DRAM YA MUESTRA EVIDENCIA CONCRETA de volatilidad extrema en sus primeros 4 meses de vida: crecio de un minimo de $26.14 a un maximo de $81.34 (mas que triplico) y luego cayo a los $50.33 actuales (-38% desde el pico) - un ciclo completo de euforia y correccion ya observado en cuestion de semanas. El P/E de 28.76x, aunque mas barato que SOXX/EUV en terminos absolutos, es tipico del 'value trap' de las empresas de memoria en el pico de un superciclo de commodity (mismo patron ya documentado con MU). Overlap con Micron (~24% de exposicion economica del fondo) ya analizado individualmente. Como alternativa, SOXX (fila 9, ya analizado) ofrece exposicion a la cadena de semiconductores incluyendo memoria sin el riesgo de contraparte de swaps ni la amplificacion nocional, con un TER mucho menor y 25 anios de historial probado - o comprar Micron/Samsung/SK Hynix directamente para quien busque exposicion pura a memoria sin la capa de complejidad estructural de DRAM."
+  }
+}

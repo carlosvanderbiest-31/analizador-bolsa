@@ -1,0 +1,224 @@
+{
+  "nombre": "Vanguard Short-Term Corporate Bond ETF",
+  "ticker": "VCSH",
+  "categoria": "Renta Fija Corporativa (grado de inversion, duracion corta 1-5 anios)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica por MUESTREO, confirmada ('the fund uses a sampling method... holding a representative basket of thousands of bonds rather than buying every single bond in the benchmark') - estandar y esperado para un fondo de bonos con miles de emisiones individuales, muchas con liquidez limitada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, bonos denominados en USD de emisores US y no-US (industriales/utilities/financieras) - eficiencia fiscal razonable, aunque el interes de bonos corporativos tributa como INGRESO ORDINARIO, no como dividendos calificados (diferencia fiscal real frente a todos los ETFs de equity ya analizados en el proyecto, a considerar segun la situacion fiscal del usuario).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM entre $44.97bn y $51.99bn segun fuente/fecha - GRANDE, uno de los fondos de renta fija corporativa mas grandes del mercado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 19-nov-2009 (~16.7 anios) - sin cambio de mandato/indice, historial largo y limpio.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Vanguard - OCTAVA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VT, ahora VCSH).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.03% - EMPATA con VTV/VUG como el mas barato de TODO el proyecto, extraordinario para un fondo de renta fija corporativa (la mayoria de competidores de la categoria cobran 0.04-0.10%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending revenue no verificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Fondo de bonos con banda de vencimiento 1-5 anios requiere rebalanceo estructuralmente MAS ACTIVO que un indice de acciones cap-weighted: los bonos 'envejecen' fuera del rango objetivo (un bono que entro con 5 anios de vencimiento debe salir del indice cuando le queda menos de 1 anio) y deben reemplazarse continuamente - tipicamente mensual para indices Bloomberg de este tipo, no confirmado con fuente primaria especifica esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = 1,544,886 acciones (stockanalysis) x $78.61/accion (precio 9-ago-2026) = aprox $121.5M/dia - buena liquidez para un fondo de renta fija.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta, pero el Premium/Discount verificado (fila 26, 0.01%) sugiere un mercado muy eficiente y liquido.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "**Premium/Discount vs NAV = +0.01% (verificado directamente, precio $78.61 vs NAV $78.60, 9-ago-2026) - PRIMERA VEZ EN TODO EL PROYECTO que se obtiene un dato REAL y verificado para esta fila** en vez de dejarla como 'no verificado' (los 27 ETFs de equity anteriores nunca encontraron esta cifra con precision).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Fondo grande, emisor mayor (Vanguard) - profundidad de Authorized Participants excelente.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "3,019 holdings (stockanalysis) / '>2,000' (busqueda general) - numero alto, tipico y esperado para un fondo de bonos corporativos (miles de EMISIONES individuales de un numero mucho menor de EMISORES corporativos, estructura de concentracion distinta a un fondo de acciones).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Concentracion Top 10 no aplica de la misma forma que en un ETF de acciones (la concentracion relevante en renta fija es por EMISOR y por SECTOR, no por 'holding' individual, dado que un mismo emisor puede tener docenas de bonos distintos en el indice por vencimiento/cupon) - no se verifico una cifra de concentracion por emisor esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Composicion sectorial DENTRO de renta fija corporativa: Industrials ~35%, Financials ~30%, Utilities ~15% (los TRES sectores permitidos por la metodologia del indice Bloomberg US Corporate) - razonablemente diversificado entre ellos, sin una concentracion extrema en uno solo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Emisores US y no-US (companias globales que emiten deuda denominada en USD) dentro del universo investment-grade - diversificacion de emisor razonable, aunque no se desglosaron paises especificos esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "El 'factor' aqui no es value/growth sino una eleccion deliberada de DURACION CORTA (1-5 anios) y GRADO DE INVERSION (investment-grade) - perfil de riesgo bajo por diseño del mandato, ni mejor ni peor en si mismo, coherente con el objetivo declarado del fondo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Bloomberg U.S. 1-5 Year Corporate Bond Index (Bloomberg US Corporate 1-5Y) - proveedor Bloomberg, PRIMERA aparicion de este proveedor de indices en el proyecto (distinto de S&P/MSCI/CRSP-Morningstar/MVIS/Solactive/BlueStar/FTSE ya vistos), estandar de facto de la industria de renta fija, reglas transparentes.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo tipicamente MENSUAL para indices de bonos Bloomberg con banda de vencimiento (necesario para mantener el rango 1-5 anios a medida que los bonos existentes envejecen) - conocimiento general bien establecido de la metodologia estandar de este tipo de indices, no verificado con fuente primaria especifica de VCSH esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.86
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception = 2.90% anualizado en 16.7 anios, 1Y = +3.35% - MODESTOS EN TERMINOS ABSOLUTOS, pero esto es ESPERADO Y COHERENTE con el mandato del fondo (bonos corporativos de corta duracion y grado de inversion, no un vehiculo disenado para generar retornos tipo equity) - no es un 'mal' resultado dentro de su propia categoria, simplemente refleja bajo riesgo por diseño.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad = 0.56-0.68% segun fuente - **BAJA PERO PLAUSIBLE Y ESPERADA para esta clase de activo**, a diferencia de las cifras de volatilidad implausiblemente bajas ya DESCARTADAS repetidamente en ETFs de RENTA VARIABLE del proyecto (VYMI, XLU, XLK, XLE, VB, VXUS): aqui una volatilidad sub-1% es coherente con bonos investment-grade de duracion corta (~2.4 anios), que por diseño tienen mucho menor riesgo de precio que cualquier accion. Primera vez en el proyecto que una cifra de volatilidad 'baja' se ACEPTA sin sospecha, precisamente por tratarse de renta fija y no de renta variable.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -12.86% desde inception - parece severo para un fondo 'conservador' a primera vista, pero es COHERENTE con el ciclo de subida de tasas de 2022 (el mas agresivo en decadas), que golpeo a PRACTICAMENTE TODOS los fondos de bonos del mercado, incluso los de corta duracion como VCSH. Severo en terminos relativos a su propia categoria de bajo riesgo, pero normal en el contexto de ese evento macro especifico - y de cualquier forma MUCHO menos severo que cualquier drawdown de los ETFs de acciones del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 1.80 (cifra actual) vs 1.75-2.37 segun fuente - razonablemente consistente entre fuentes, fuerte para la categoria de renta fija de bajo riesgo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.13 - MUY BAJO, coherente y esperado para bonos investment-grade de corta duracion (correlacion minima con el riesgo de renta variable). **OVERLAP NO APLICA DE FORMA TRADICIONAL**: el Dashboard de acciones individuales del usuario es 100% renta variable, sin bonos individuales analizados - no hay overlap posible por definicion de clase de activo. Esto es en si mismo un punto MUY POSITIVO: VCSH es el diversificador MAS PURO de TODO el proyecto, no solo por nombre/holding sino por CLASE DE ACTIVO completa.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "16.7 anios de historial cubren el 'taper tantrum' de 2013, la correccion de credito de 2020 (COVID), y el peor mercado bajista de bonos en decadas (2022) - buena evidencia de resiliencia relativa: el Max Drawdown (-12.86%) es MUCHO menos severo que el peor drawdown de CUALQUIER ETF de acciones del proyecto.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "No aplica - VCSH es un fondo 100% renta fija, sin componente de equity. Los multiplos P/E/P/B/P/FCF no son relevantes; ver fila 49 para la valoracion agregada de renta fija (duracion, YTM, calidad crediticia).",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "SEC Yield (30 dias) = 4.18-4.6% segun fecha de fuente vs Distribution Yield TTM = 4.46-4.47% - dos metodologias DISTINTAS pero razonablemente consistentes entre si (SEC Yield es forward-looking neto de gastos, TTM Distribution Yield es historico - diferencia METODOLOGICA esperada, no una inconsistencia real de datos). Distribucion MENSUAL confirmada explicitamente - tipico y esperado para fondos de renta fija, a diferencia de la mayoria de fondos de equity del proyecto (trimestrales/anuales).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "**PRIMERA VEZ QUE ESTA FILA SE COMPLETA CON DATOS REALES en todo el proyecto** (los 27 ETFs de equity anteriores la dejaron 'No aplica'). Duracion efectiva ~2.1-2.7 anios (promedio ~2.4, dos fuentes con ligera discrepancia), vencimiento promedio ~2.8-3.0 anios, Yield to Maturity en el rango bajo-medio de 4% (aprox 4.3-4.5%, coherente con el SEC Yield de la fila 48), Calidad Crediticia sobreponderada en AA-/A-/BBB- (grado de inversion, sesgo hacia la parte media-baja del espectro IG en vez de AAA puro, tipico de bonos CORPORATIVOS frente a bonos de gobierno). Datos completos, coherentes entre si y bien alineados con el mandato declarado del fondo (1-5 anios, investment-grade).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "No se identificaron ni verificaron competidores directos con datos propios esta sesion. Candidatos conocidos: IGSB (iShares 1-5 Year Investment Grade Corporate Bond ETF), SPSB (SPDR Portfolio Short Term Corporate Bond ETF), y VCIT (Vanguard Intermediate-Term Corporate Bond ETF, el hermano de MAYOR duracion del propio Vanguard - buen candidato para una futura comparacion cabeza a cabeza de duracion dentro del mismo emisor).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **PRIMER Y UNICO DIVERSIFICADOR DE CLASE DE ACTIVO COMPLETO DEL PROYECTO** - los 27 ETFs anteriores son 100% renta variable, igual que toda la cartera de acciones individuales del usuario (fuertemente concentrada en growth/tech/especulativo segun el extenso Dashboard de acciones). VCSH aporta una dimension estructuralmente distinta: reduccion de volatilidad agregada del portafolio, ingreso corriente predecible (~4.4%), y correlacion minima (beta 0.13) con el riesgo de las posiciones growth/especulativas ya documentadas. Rol: **Cobertura** (mismo criterio ya usado con XLU, pero aqui aun mas puro dado que no es solo 'menor beta dentro de equity' sino una clase de activo completamente distinta).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion de bajisimo costo y alta calidad a renta fija corporativa de corta duracion - ingreso corriente (~4.4% de yield) con riesgo de tasa de interes acotado (duracion ~2.4 anios) y riesgo de credito moderado (grado de inversion). Rol de 'lastre' defensivo genuino para una cartera fuertemente concentrada en growth/especulativo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de tasa de interes (aunque acotado por la duracion corta de ~2.4 anios, un alza de tasas SI reduce el valor de mercado, como se demostro en 2022); (2) riesgo de credito corporativo (grado de inversion, pero no libre de riesgo de impago o rebaja de calificacion, especialmente en la porcion BBB- del espectro); (3) el interes de bonos corporativos tributa como INGRESO ORDINARIO, no como dividendos calificados - implicacion fiscal distinta a todos los ETFs de equity ya analizados en el proyecto, relevante segun la situacion fiscal especifica del usuario; (4) rendimiento nominal atractivo (~4.4%) pero rendimiento REAL (ajustado por inflacion) mucho mas modesto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "IGSB, SPSB y VCIT (hermano de mayor duracion del propio Vanguard) identificados como candidatos sin verificar con datos propios esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 4.03/5, entre los MAS ALTOS del proyecto pese a ser (o precisamente POR ser) el primer ETF de renta fija analizado. VCSH combina calidad estructural de PRIMER NIVEL (TER de los mas bajos del proyecto 0.03%, AUM enorme, 16.7 anios de historial limpio, Premium/Discount VERIFICADO por primera vez en el proyecto -0.01%-) con un rol de portafolio que NINGUN otro ETF analizado hasta ahora puede ofrecer: es el PRIMER Y UNICO diversificador de CLASE DE ACTIVO completo del proyecto (toda la cartera del usuario, incluyendo los 27 ETFs previos, es 100% renta variable). Beta = 0.13 confirma una correlacion minima con el riesgo growth/especulativo que domina el resto de la cartera segun el extenso Dashboard de acciones individuales. Valoracion (fila 49, primera vez completa con datos reales de renta fija): YTM ~4.3-4.5%, duracion ~2.4 anios, calidad AA-/A-/BBB- - no se pudo determinar un percentil historico propio de YTM esta sesion, por lo que la valoracion se trata como NEUTRAL (ni claramente barata ni cara) en vez de forzar una clasificacion sin base. Riesgos genuinos pero acotados: sensibilidad a tasas de interes (ya demostrada en el drawdown de 2022, -12.86%, aun asi mucho menos severo que cualquier ETF de acciones del proyecto) y tributacion como ingreso ordinario (distinta a los dividendos calificados de los ETFs de equity ya analizados). Para un usuario con una cartera tan concentrada en riesgo growth/especulativo como la documentada en el Dashboard de acciones, VCSH cumple una funcion de PORTAFOLIO COMPLETO (reduccion de volatilidad agregada, ingreso predecible) que ningun ETF de equity, por diversificado que sea, puede replicar."
+  }
+}

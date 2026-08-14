@@ -1,0 +1,225 @@
+{
+  "nombre": "SPDR Dow Jones Industrial Average ETF Trust",
+  "ticker": "DIA",
+  "categoria": "Equity Indice Amplio (Dow Jones Industrial Average 1x, PRIMER indice PONDERADO POR PRECIO -no por capitalizacion ni equal-weight- del proyecto, solo 30 acciones, estructura Unit Investment Trust -UIT- igual que SPY, NO convertida como QQQ - COMPLETA la escalera del Dow30 del proyecto como el baseline 1x que faltaba junto a UDOW -+3x fila 93- y SDOW -3x fila 94-, ambos ya en el workbook)",
+  "emisor": "State Street (SPDR)",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Estructura **Unit Investment Trust -UIT-**, IGUAL que SPY -fila 104-, NO convertida a RIC como QQQ -fila 106, dic-2025-. Obliga a mantener EXACTAMENTE las 30 acciones del Dow en todo momento -sin discrecion-, prohibe securities lending, y genera cash drag por dividendos no reinvertidos automaticamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, mismo cash drag estructural que SPY por la naturaleza UIT.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM solo ~$47.0-47.6bn - **MUCHO mas pequeno que SPY -$814.81bn-, VOO -$1.03T-, IVV -~$885bn- o QQQ -~$485bn-** pese a ser casi tan antiguo como SPY -1998 vs 1993-, senal clara de que el mercado ha preferido masivamente los indices cap-weighted sobre el price-weighted del Dow en terminos de flujos de activos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 14-ene-1998 (~28.6 anios) - mas antiguo que QQQ -1999-, mas joven que SPY -1993-. Cubre dot-com, Crisis 2008 y COVID.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor State Street/SPDR, mismo emisor que SPY, tercero de los 'big three' de indexacion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.16% - mas caro que VOO/IVV -0.03%- y SPY -0.0945%-, pero mas barato que RSP -0.20%- y QQQ -0.18%-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Replica fisica completa OBLIGATORIA por estructura UIT -debe mantener las 30 acciones exactas, sin discrecion-, tracking ajustado a su propio indice esperado, aunque con el cash drag estructural de la UIT.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "**PROHIBIDO por estructura UIT** - CERO securities lending, identico a SPY, a diferencia de VOO/IVV/ITOT/QQQ -post-conversion-, que si pueden prestar valores.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rotacion **MINIMA** - los cambios de constituyentes del Dow30 son RAROS -historicamente solo un punado por decada, ej. NVDA reemplazo a Intel en nov-2024- - el turnover mas bajo de cualquier fondo de indice amplio del proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~537K-1.39M acciones/dia -fuentes varian- (~$290-745M/dia al precio ~$537) - solido pero notablemente menor que SPY/QQQ/IVV, mas comparable a VOO o RSP.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask tipicamente de centavos en condiciones normales - no cuantificado con precision exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV con una lectura puntual de ~+1.1% en un snapshot -dato ruidoso, no estable, no verificado con confianza-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "State Street/SPDR, mismo emisor que SPY, red de AP establecida aunque para un fondo mas pequeno.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "**Solo 30 holdings EXACTOS** -el Dow 30- - **POR MUCHO el fondo MENOS diversificado por conteo de TODO el cluster de indices amplios del proyecto** -vs 100-105 QQQ, 509 RSP, 505-520 VOO/SPY/IVV, 2453 ITOT-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**Top 10 = ~55% del NAV** -Goldman Sachs 11.42%, Caterpillar 9.31% -YA NO COMPRAR-superciclo IA en el proyecto de acciones-, Microsoft 5.56%, Amgen 4.57%, UnitedHealth 4.44%, Travelers 4.15%, Sherwin-Williams 4.02% -tambien YA NO COMPRAR en el proyecto-, Visa 4.01%, JPMorgan 4.00%, Home Depot 3.91%- - **LA CONCENTRACION MAS ALTA de TODO el cluster de indices amplios del proyecto**, incluso mas que QQQ -46.4-46.7%-, e IMPULSADA POR PRECIO POR ACCION, no por fundamentos o capitalizacion.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Financials 27.35% -el mas dominante- + Tecnologia solo 17.49% + Industrials 16.46% + Healthcare 13.33% - notablemente MENOS concentrado en tech que VOO/SPY/IVV/QQQ -33-65%-, perfil mas balanceado, cercano al de RSP.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "**PONDERADO POR PRECIO POR ACCION, no por capitalizacion de mercado ni por igual** - metodologia GENUINAMENTE DISTINTA de cualquier otro fondo de indice del proyecto -VOO/SPY/IVV/ITOT cap-weighted, RSP equal-weight-. Un SPLIT de acciones reduce mecanicamente el peso de una empresa en el indice SIN ningun cambio fundamental en el negocio - una falla metodologica real, no solo una curiosidad historica.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Dow Jones Industrial Average - el indice bursatil mas antiguo en uso continuo -desde 1896-, iconico mas alla de lo financiero, PERO solo 30 acciones seleccionadas por COMITE -no por regla de capitalizacion- y ponderacion por precio ampliamente criticada como anticuada.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Cambios de constituyentes RAROS -comite, historicamente pocos por decada- - turnover minimo, aunque esto TAMBIEN significa que el indice tarda en reflejar la composicion real de la economia -historicamente lento en incorporar tech-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y +20.54% a +24.22% -fuentes varian-, 3Y anualizado +15.68%, 5Y anualizado +10.36%, 10Y anualizado +13.20%, desde inception -28.6 anios- ~+9.18-9.26% anualizado - **NOTABLEMENTE MAS BAJO que VOO/SPY/IVV en CADA horizonte temporal** -10Y: DIA 13.20% vs VOO 15.51-15.68%/SPY 15.05%/IVV 15.67%-. Un analisis independiente cito un retorno acumulado a 10 anios de +186.7% para DIA vs ~+314.79% para trackers del S&P 500 - una brecha real y cuantificada, no especulativa, atribuible directamente a la ponderacion por precio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $441.14-$546.75 (ratio 1.239x) - similar a VOO/SPY/IVV/ITOT -~1.235x-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown Crisis 2008: -51.87%, piso 9-mar-2009, 723 sesiones para recuperarse - LIGERAMENTE MENOS severo que ITOT/SPY/IVV -~-55.2%-, posiblemente por el perfil mas blue-chip/menos tech. Dot-com ~-47% -contexto de mercado amplio, no aislado para DIA especificamente-. COVID: peor dia unico -12.8% -16-mar-2020-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio no encontrado con confianza en fuentes accesibles esta sesion -fuente primaria bloqueada-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = **0.87** vs S&P 500 - **NOTABLEMENTE POR DEBAJO de 1.0**, el mas bajo de todo el cluster de indices amplios recientes del proyecto -RSP 0.92, VOO/SPY/IVV ~1.0-1.02, QQQ 1.15-1.23-, confirma un perfil genuinamente mas conservador/blue-chip.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Crisis 2008 -51.87%/723 sesiones-, dot-com ~-47% -contexto amplio-, COVID -12.8% dia unico - dataset razonablemente documentado aunque menos preciso/completo que el de SPY.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 20.03x -SSGA- vs 25.53x -stockanalysis, conflicto no resuelto- - GENERALMENTE MAS BARATO que VOO/SPY/IVV/QQQ -mid-alto 20s a 30s-, coherente con el tilt blue-chip/value. P/B 5.68x, similar a SPY/IVV.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield 1.33% TTM, **distribucion MENSUAL** -unico del cluster reciente, el resto es trimestral- - mas alto que VOO/SPY/IVV/ITOT -~1%- y conveniente para inversores de ingreso.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPLETA LA ESCALERA del Dow30 del proyecto**: 1x DIA / +3x UDOW -fila 93- / -3x SDOW -fila 94-, ambos ya en el workbook - analogo exacto a VOO -S&P500- y QQQ -Nasdaq-100-. TAMBIEN es el PRIMER fondo PONDERADO POR PRECIO del proyecto, metodologia genuinamente distinta de cualquier otro indice ya analizado -cap-weighted en VOO/SPY/IVV/ITOT, equal-weight en RSP-. El underperformance de DIA vs cap-weighted esta CUANTIFICADO y documentado -10Y acumulado +186.7% vs ~+314.79% del S&P 500-, un hallazgo evidenciado, no especulativo. EDOW -First Trust Dow 30 Equal Weight, el 'arreglo' genuino a la falla de ponderacion por precio- existe pero no esta analizado en el workbook.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **SATELITE/LEGACY**, no un Core solido dado el defecto metodologico documentado y el underperformance cuantificado vs alternativas cap-weighted ya en el workbook.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion legacy a las 30 empresas blue-chip mas iconicas de EEUU, ingreso mensual, beta mas bajo -0.87- que el resto del cluster - PERO la ponderacion por precio es un defecto real y cuantificado -un split reduce el peso de una empresa sin cambio fundamental alguno-, que ha costado retornos reales y medibles frente a alternativas cap-weighted durante decadas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) **DEFECTO METODOLOGICO DE PONDERACION POR PRECIO** - el riesgo mas distintivo de todo el proyecto, un split de acciones reduce arbitrariamente el peso de una empresa sin ningun cambio en su negocio; (2) estructura UIT -mismo cash drag/sin lending que SPY-; (3) Top10 55%, la concentracion mas alta del cluster, impulsada por precio no por fundamentos, incluye CAT y Sherwin-Williams, ambas YA NO COMPRAR en el proyecto de acciones; (4) underperformance documentado y cuantificado vs cap-weighted -10Y +186.7% vs ~+314.79%-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "UDOW/SDOW -filas 93/94, ya en el workbook, la familia +3x/-3x que DIA ahora ancla como baseline 1x-, EDOW -First Trust Dow 30 Equal Weight, el arreglo genuino a la falla de ponderacion por precio, no analizado- y VOO/SPY/IVV -ya en el workbook, alternativas cap-weighted con retornos demostrablemente superiores- son las alternativas/comparables mas relevantes.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 2.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar) - defecto metodologico documentado y cuantificado. Score 2.91/5, el MAS BAJO de TODO el cluster de indices amplios del proyecto -vs VOO 3.91, ITOT 3.88, IVV 3.88, RSP 3.67, SPY 3.55, QQQ 3.42-. SPDR Dow Jones Industrial Average ETF Trust, **PRIMER fondo PONDERADO POR PRECIO -no por capitalizacion ni equal-weight- de todo el proyecto**, solo 30 acciones seleccionadas por comite. **COMPLETA LA ESCALERA del Dow30 del proyecto** como el baseline 1x que faltaba junto a UDOW -+3x, fila 93- y SDOW -3x, fila 94-, ambos ya en el workbook -analogo exacto a VOO/QQQ completando sus respectivas escaleras-. Estructura **Unit Investment Trust -UIT-, IGUAL que SPY**, NO convertida a RIC como QQQ -dic-2025- - prohibe securities lending y genera cash drag. AUM solo ~$47.0-47.6bn, MUCHO mas pequeno que SPY/VOO/IVV/QQQ pese a ser casi tan antiguo como SPY -1998-, senal de que el mercado ha preferido masivamente los indices cap-weighted en terminos de flujos. **El defecto central**: la ponderacion por PRECIO POR ACCION -no por capitalizacion- hace que Goldman Sachs -11.42%- y Caterpillar -9.31%, YA NO COMPRAR-superciclo IA en el proyecto de acciones- dominen el indice simplemente por tener un precio nominal alto, mientras que un SPLIT de acciones reduce arbitrariamente el peso de una empresa sin ningun cambio fundamental en su negocio - un defecto de diseno real, no una curiosidad historica. Este defecto tiene un COSTO CUANTIFICADO Y DOCUMENTADO: retorno acumulado a 10 anios de solo +186.7% vs ~+314.79% para trackers del S&P 500 -una brecha real de cientos de miles de dolares sobre una posicion tipica-. Top 10 = ~55% del NAV, la concentracion mas alta de todo el cluster de indices amplios del proyecto. Beta 0.87 -el mas bajo del cluster reciente-, distribucion MENSUAL -unica del cluster-, P/E mas barato que VOO/SPY/IVV/QQQ - caracteristicas genuinamente favorables que no compensan el defecto estructural central. Rol en Portafolio: Satelite/legacy, NUNCA Core. EDOW -First Trust Dow 30 Equal Weight, el arreglo genuino a esta falla- existe pero no esta analizado en el workbook."
+  }
+}

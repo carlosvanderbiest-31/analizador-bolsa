@@ -1,0 +1,224 @@
+{
+  "nombre": "Vanguard Value ETF",
+  "ticker": "VTV",
+  "categoria": "Equity Tematico/Factor (value, gran capitalizacion US)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (confirmado por Trackinsight y por la propia metodologia declarada: 'invierte todos o sustancialmente todos sus activos en las acciones que componen el indice'). Sin riesgo de contraparte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US. Practicamente 100% empresas US, con una porcion marginal posiblemente domiciliada en Irlanda/Reino Unido por razones corporativas (inversiones fiscales historicas de algunas empresas, no negocio real fuera de EEUU) - friccion fiscal minima.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $191.42bn (stockanalysis.com) / ~$180bn (Trackinsight EUR165.55bn al 5-ago-2026) - **EL AUM MAS GRANDE DE TODO EL PROYECTO**, superando incluso a SCHD ($105bn).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 26-ene-2004 (~22.5 anios de historial al 2026-08-10) - el TERCER track record mas largo del proyecto (despues de SOXX 25.1 e ITA 20.3 anios). Atraveso la crisis financiera de 2008 COMPLETA (el drawdown de -59.3% desde inception, ver fila 41, probablemente ocurrio en ese periodo), COVID 2020, y el bear market de 2022.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: Vanguard - TERCERA aparicion en el proyecto (la primera fue VYMI). La gestora de mas bajo costo del mundo, estructura de propiedad mutualizada.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.03% - **EL TER MAS BAJO DE TODO EL PROYECTO**, superando incluso a SCHD (0.06%) y VYMI (0.07%). Extraordinariamente barato incluso para los estandares de Vanguard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Reconstitucion y rebalanceo TRIMESTRAL (confirmado). La metodologia CRSP esta explicitamente disenada para minimizar cambios innecesarios durante el rebalanceo y contener costos de transaccion ('market-cap weighting is well-suited to the large-value universe and helps contain trading costs').",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "No se obtuvo cifra explicita de volumen diario en esta sesion, pero con AUM $191bn y 1.63 mil millones de acciones en circulacion (stockanalysis) se infiere liquidez extrema con alta confianza.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado con cifra exacta, pero un AUM de esta magnitud (el mayor del proyecto) sugiere un spread minimo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Vanguard, uno de los ETFs mas grandes del mercado por AUM - se infiere profundidad de Authorized Participants excelente.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "308-326 holdings segun la fuente (Trackinsight 308, stockanalysis 326) - MUY diversificado, filosofia similar a VYMI aunque con menos posiciones por ser un universo domestico (VYMI cubre ~1600 empresas internacionales).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 23.51% (stockanalysis), Top 15 = 29.78% (Trackinsight) - concentracion MUY BAJA, entre las mas bajas de todo el proyecto (similar en espiritu a VYMI 13.47%, muy por debajo de SCHD 41.3%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Segun Trackinsight (30-jun-2026): Finance 24.40%, Healthcare 14.57%, Technology 14.32%, Industrials 12.84%, Consumer Non-Cyclicals 9.48%, Energy 6.81%, Utilities 4.78%, Materials 3.85%, Consumer Cyclicals 2.91% - MUY diversificado entre sectores, ningun sector domina de forma extrema (maximo 24.4%). Uno de los ETFs mas diversificados sectorialmente del proyecto junto con SPMO.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Practicamente 100% US, con una porcion marginal posiblemente domiciliada en Irlanda/Reino Unido por razones corporativas (Trackinsight menciona 'USA, Ireland, and United Kingdom' sin porcentajes exactos) - sin diversificacion geografica genuina como VYMI.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Factor VALUE bien definido segun metodologia CRSP: combina book-to-price, earnings-to-price historico y forward, dividend-to-price y sales-to-price en un score compuesto, clasificando acciones en 'sleeve' de value o growth con solapamiento minimo entre ambos. Metodologia academicamente reconocida (factor value de Fama-French).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice CRSP US Large Cap Value Index (CRSP = Center for Research in Security Prices, Universidad de Chicago, proveedor de indices academico y reconocido): top 85% de capitalizacion acumulada del universo CRSP US, clasificado en value/growth por score compuesto de multiples metricas de valoracion, ponderacion por capitalizacion de mercado free-float. NOTA: una fuente desactualizada (money.usnews.com) menciono erroneamente 'MSCI US Prime Market Value Index' con TER 0.04% - esto corresponde al benchmark ANTERIOR de VTV, que Vanguard cambio de MSCI a CRSP en 2013; se descarta esa fuente por estar claramente desactualizada frente a 3 fuentes independientes que confirman CRSP y TER 0.03% actuales.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo de pesos y reconstitucion (agregar/quitar acciones) TRIMESTRAL.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.43
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (ene-2004, ~22.5 anios) = 9.77% anualizado (stockanalysis.com) - el MAS BAJO de los ETFs 'core'/establecidos del proyecto (SCHD 12.70%, VYMI ~11%, SPMO 19.30%, SMH 28.92%), aunque razonable para una ventana tan larga que incluye la crisis financiera de 2008 COMPLETA y refleja el underperformance bien documentado del factor value frente a growth durante gran parte de la ultima decada. Retorno 1Y (ago-2026) = +29.08%, solido, refleja la rotacion reciente hacia value ya mencionada en otras fichas del proyecto (SCHD tambien se beneficio de ella).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada = 18.6% segun un agregador (fuente unica, pero cualitativamente razonable y consistente con un fondo value diversificado de gran capitalizacion, magnitud similar a SCHD 15.6%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Maximo Drawdown = -59.3% desde inception (fuente unica sin verificar con precision exacta, PERO muy plausible dado que el fondo estuvo plenamente invertido durante la crisis financiera de 2008 -un evento que golpeo particularmente fuerte a las financieras, 24.4% del fondo- y fue uno de los peores mercados bajistas de la historia moderna). **EL SEGUNDO DRAWDOWN MAS SEVERO DEL PROYECTO** despues de XOP (-90.27%), mas severo que SOXX (-46%).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 0.58 (fuente de largo plazo, la mas representativa) vs 2.52 (ventana reciente de 1 ano, EXPLICITAMENTE distinta segun la propia fuente, no una inconsistencia sin explicar como en otros ETFs del proyecto) - se usa 0.58 como cifra representativa de largo plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.76 (stockanalysis) - moderado/defensivo, similar a SCHD (0.69). OVERLAP: Micron (4.85%), JPMorgan Chase (3.04%), Berkshire Hathaway (2.93%), Johnson & Johnson (2.28%), Caterpillar (1.83%) y Cisco (1.55%) YA estan analizados individualmente, sumando ~16.5% del top10 - PERO dado que el fondo tiene 308-326 holdings totales y el top10 es solo 23.51% del fondo COMPLETO, el overlap proporcional al fondo total es mucho MENOR que en los fondos sectoriales concentrados del proyecto - diversificacion agregada real pese al overlap nominal en el top10.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "El drawdown de -59.3% (probablemente durante 2008) es evidencia de vulnerabilidad real en una crisis financiera severa, dado el peso significativo del fondo en el sector Finance (24.4%) - riesgo real a considerar, aunque coherente con la naturaleza del factor value en ese periodo especifico (las financieras fueron el epicentro de esa crisis).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 20.92x - MAS CARO que SCHD (17.6x) y VYMI (13.46x) pese a ser nominalmente un fondo 'value' - refleja que el mercado amplio en general esta caro en este entorno, y que la metodologia CRSP clasifica 'value' de forma RELATIVA al universo US completo (top 85% de capitalizacion, dividido en value/growth), no como un filtro de 'barato en terminos absolutos'. NO SE VERIFICO el percentil historico propio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 1.82% - moderado, menor que SCHD (3.1%) y VYMI (3.45%) pero mayor que los fondos de crecimiento puro del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - VTV es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "ACTUALIZADO 2026-08-10 con datos verificados de VUG (ver fila 18 del Dashboard, ya analizado en este mismo workbook, fondo HERMANO de VTV - mismo emisor, mismo dia de lanzamiento 26-ene-2004, mismo TER 0.03%): VTV esta MENOS concentrado (top10 23.5% vs 60.3%, 326 holdings vs 146-151), es MAS BARATO en P/E (20.92x vs 36.65x) y tiene overlap MUCHO MENOR con la cartera individual del usuario (~16.5% parcial del top10 vs 100% COMPLETO del top10 de VUG). VUG tiene mejor track record de largo plazo (12.30% vs 9.77% anualizado desde inception) pero peor 1Y reciente (17.27% vs 29.08%, reflejo de la rotacion actual hacia value). Para este usuario especifico, VTV es claramente la opcion mas eficiente de las dos: mismo emisor/costo, pero con una fraccion del overlap y la concentracion de VUG. IVE, RPV y VONV (competidores de value) siguen sin verificar.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol sugerido: CORE de la porcion value del portafolio de renta variable - dado el AUM enorme, TER minimo, diversificacion sectorial amplia y overlap proporcionalmente diluido por la gran escala del fondo, VTV es uno de los candidatos MAS SOLIDOS a posicion Core de todo el proyecto, junto con SCHD/VYMI.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion de bajisimo costo al factor value de gran capitalizacion en EEUU, ampliamente diversificado por sector, con metodologia CRSP academica y transparente. A diferencia de SCHD (value/calidad vía screening de dividendo), VTV usa un enfoque de valoracion mas puro (book-to-price, earnings-to-price, etc.) - complementa bien a SCHD, aunque ambos comparten cierto tilt value y podrian solaparse parcialmente en tesis de inversion (no necesariamente en holdings especificos).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) drawdown historico severo (-59.3%, el segundo peor del proyecto) vinculado a la crisis financiera de 2008 dado el peso en Finance (24.4%); (2) underperformance historico del factor value frente a growth en gran parte de la ultima decada (retorno desde inception de solo 9.77% anualizado, el mas bajo de los ETFs 'core' del proyecto); (3) valoracion actual (P/E 20.9x) mas cara que SCHD/VYMI pese a ser nominalmente 'value'; (4) overlap moderado con MU/JPM/BRK.B/JNJ/CAT/CSCO ya en cartera individual, aunque diluido por la gran diversificacion del fondo; (5) posible solapamiento parcial de tesis con SCHD (ambos con tilt value/calidad, aunque metodologias distintas).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "IVE, RPV y VONV como alternativas de value no verificadas en esta sesion - VTV probablemente sigue siendo la opcion mas barata dado el TER caracteristico de Vanguard.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER / ACUMULAR GRADUAL. Score ~4.06/5, **EL MAS ALTO DE TODO EL PROYECTO**, superando incluso a SCHD (4.03). Calidad estructural excepcional en casi todas las dimensiones: AUM mas grande del proyecto ($191bn), TER mas bajo del proyecto (0.03%), gran diversificacion (326 holdings, top10 solo 23.5%), diversificacion sectorial amplia (ningun sector supera 25%), metodologia CRSP transparente y academica, 22.5 anios de historial probado (incluyendo la crisis de 2008 completa). Valoracion moderada-cara (P/E 20.9x, mas cara que SCHD/VYMI pese a ser nominalmente 'value' - refleja que el mercado amplio esta caro en general, no que VTV especificamente lo este mas que sus pares value). Los principales matices: (1) el retorno historico desde inception (9.77% anualizado) es el mas bajo de los ETFs 'core' del proyecto, reflejo del underperformance bien documentado del factor value frente a growth en gran parte de la ultima decada; (2) el drawdown historico de -59.3% (probablemente durante 2008, dado el peso de 24.4% en Finance) es el segundo mas severo del proyecto; (3) hay overlap moderado con MU/JPM/BRK.B/JNJ/CAT/CSCO ya en cartera individual, aunque diluido por la enorme diversificacion del fondo (top10 es solo 23.5% de 326 posiciones, muy distinto del overlap concentrado de los fondos sectoriales del proyecto). VTV es, junto con SCHD y VYMI, uno de los candidatos mas solidos a posicion CORE de todo el proyecto - la eleccion entre los tres (o su combinacion) depende de si se prioriza dividendo/calidad (SCHD), diversificacion internacional (VYMI), o el factor value puro de menor costo posible (VTV)."
+  }
+}

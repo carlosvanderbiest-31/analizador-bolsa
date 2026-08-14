@@ -1,0 +1,224 @@
+{
+  "nombre": "Invesco S&P 500 Momentum ETF",
+  "ticker": "SPMO",
+  "categoria": "Equity Tematico/Factor (momentum, universo S&P 500 completo)",
+  "emisor": "Invesco",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (confirmado por Trackinsight). Sin riesgo de contraparte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, universo derivado 100% del S&P 500 (todas las empresas US-listed de gran capitalizacion) - friccion fiscal de dividendos extranjeros minima o nula.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$20.5-21.3bn (stockanalysis.com $21.29bn; Trackinsight EUR18.88bn=~$20.5bn al 6-ago-2026) - grande, comparable a VYMI ($21bn).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 9-oct-2015 (~10.8 anios de historial al 2026-08-10) - comparable a VYMI (10.5 anios). Atraveso la correccion de 2018, COVID 2020, y el bear market de growth de 2022 con RESILIENCIA NOTABLE (ver seccion E: drawdown de 2022 limitado a -10.46%, mucho menor que el mercado growth en general ese ano).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: Invesco - primera aparicion en el proyecto. Gestora grande y establecida, conocida principalmente por QQQ (uno de los ETFs mas grandes y liquidos del mundo) y una amplia gama de productos smart-beta/factor.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.13% - MUY BARATO, el SEGUNDO TER mas bajo de todo el proyecto despues de SCHD (0.06%) y VYMI (0.07%) - notablemente mas barato que CUALQUIER fondo sectorial/tematico del proyecto (rango 0.34%-0.65%). Excelente relacion costo/exposicion para un producto de factor activo por metodologia.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo SEMESTRAL (tercer viernes de marzo y septiembre, confirmado) - mecanismo de ROTACION GENUINO que redefine la composicion del fondo segun el liderazgo de mercado cambia, estructuralmente distinto de la definicion sectorial ESTATICA de SOXX/SMH/CIBR/ITA/IHAK (que nunca 'rotan' fuera de su sector fijo).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "No verificado con cifra exacta esta sesion, pero el AUM de $21.3bn sugiere buena liquidez.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado con cifra exacta, pero el AUM grande sugiere spread ajustado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Invesco, gestora grande con infraestructura robusta (ademas de operar QQQ) - se infiere profundidad de Authorized Participants adecuada.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "99-102 holdings segun la fuente (Trackinsight 99, stockanalysis 102) - MUCHO mas diversificado que cualquier fondo sectorial/tematico del proyecto (comparable a SCHD, 103 holdings).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 51.46% (stockanalysis), Top 15 = 63.38% (Trackinsight) - concentracion MODERADA: menor que los fondos sectoriales extremos del proyecto (SOXX 61%, SMH 71%, CIBR 58%) pero mayor que un S&P500 cap-weighted puro tipico (~35-38%) - refleja el sesgo de la metodologia de momentum hacia posiciones de alta conviccion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Segun Trackinsight (30-jun-2026): Technology ~60.99%, Industrials ~12.77%, Finance ~6.62%, Healthcare ~6.62% - NO es 100% un solo sector como TODOS los fondos sectoriales del proyecto, PERO SI esta fuertemente sesgado a tech AHORA MISMO porque ahi reside el momentum actual del mercado. Diferencia estructural clave: esta concentracion es DINAMICA (puede rotar hacia otros sectores en el proximo rebalanceo semestral si el liderazgo de mercado cambia), no un mandato sectorial fijo como en SOXX/SMH/CIBR/ITA.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% US (derivado integramente del universo S&P 500).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Factor MOMENTUM puro: ponderacion por capitalizacion de mercado x score de momentum (cambio de precio a 12 meses excluyendo el ultimo mes, ajustado por volatilidad), con restricciones de seguridad/sector. Perfil de factor bien definido y academicamente reconocido (momentum es uno de los factores mas documentados en la literatura de Fama-French/AQR).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice S&P 500 Momentum Index (proveedor S&P, de primer nivel): selecciona el QUINTIL SUPERIOR (~100 acciones) del universo S&P 500 por score de momentum, ponderacion por cap de mercado x score de momentum con restricciones de concentracion por seguridad/sector. Metodologia transparente, publicada, y de un proveedor de indices reconocido mundialmente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo SEMESTRAL (tercer viernes de marzo y septiembre) - frecuencia razonable para un factor de momentum: ni tan lenta como para perder la senal de tendencia, ni tan rapida como para generar exceso de rotacion/costos de transaccion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (oct-2015, ~10.8 anios) = 19.30% anualizado (stockanalysis.com) - el SEGUNDO MEJOR track record de TODO el proyecto (despues de SMH, 28.92%), superando a CIBR (16.32%). Retorno 1Y (ago-2026) = +28.66% - MUCHO mas moderado que los fondos sectoriales de semiconductores (SOXX +122%, SMH +96%), consistente con ser un fondo diversificado de ~100 posiciones en vez de una apuesta sectorial concentrada.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada = 20.4-20.5% segun DOS fuentes MUY consistentes entre si (una explicitamente 'desde octubre-2015 hasta julio-2026') - una de las MEJORES corroboraciones de volatilidad de todo el proyecto (junto con ITA). Moderada-alta, pero MUCHO menor que los fondos sectoriales extremos (SOXX ~37%, SMH ~38.6%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Maximo Drawdown = -30.9% desde inception (fuente especifica, razonablemente confiable). DATO ADICIONAL VALIOSO: el drawdown especifico de 2022 fue LIMITADO a solo -10.46% - evidencia CONCRETA de que el mecanismo de rotacion semestral ayudo a navegar ese ciclo bajista de growth mejor que un fondo estatico habria podido (el momentum roto fuera de las acciones growth mas golpeadas antes de que el drawdown se profundizara).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 0.86-0.87 desde inception segun DOS fuentes razonablemente consistentes (una especifica que supero al Sharpe de QQQ -0.74- en la misma ventana) - el Sharpe de largo plazo MAS CONFIABLE Y MEJOR CORROBORADO de todo el proyecto, en fuerte contraste con las cifras dispersas e irreconciliables encontradas para la mayoria de los demas ETFs. Una fuente tambien cito un Sharpe de 1.28 explicitamente etiquetado como 'base de 1 ano' (ventana reciente, no confundir con el de largo plazo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 1.11 (stockanalysis) o 1.28 segun otra fuente ('swings 28% wider than the market') - alguna discrepancia entre fuentes, pero AMBAS cifras son MODERADAS comparadas con SOXX/SMH (1.7-1.8) - beta cercano al mercado amplio, no un ETF de alto beta extremo. OVERLAP: Micron (9.82%), NVIDIA (8.85%), Broadcom (7.19%), Alphabet -GOOGL 4.56% + GOOG 3.64%, mismo emisor en dos clases de accion- (8.20% combinado), Johnson & Johnson (4.43%), AMD (3.96%) e Intel (2.59%) YA estan analizados individualmente por el usuario, sumando ~45.0% del top10 - overlap significativo aunque MENOR que SOXX/SMH/CIBR, y con la particularidad IMPORTANTE de que este overlap es DINAMICO: rotara con el rebalanceo semestral segun cambie el liderazgo de momentum, a diferencia del overlap ESTRUCTURAL PERMANENTE de un fondo sectorial fijo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "El drawdown de 2022 limitado a -10.46% (fila 41) es evidencia CONCRETA de buen comportamiento relativo en un evento de estres real reciente, gracias al mecanismo de rotacion del factor momentum.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 32.16x - caro en terminos absolutos, pero MUCHO menos extremo que los fondos sectoriales de semiconductores/litografia del proyecto (SOXX 47.6x, SMH 44.7x, EUV 61.6x). NO SE VERIFICO el percentil historico propio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.70% - moderado, posicionado entre los fondos de crecimiento puro del proyecto (0.07%-0.42%) y los fondos de dividendo (SCHD 3.1%, VYMI 3.45%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - SPMO es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Competidores directos de factor momentum: MTUM (iShares MSCI USA Momentum Factor, universo mas amplio que solo S&P 500, TER ~0.15%), QMOM (Alpha Architect, mas concentrado y activo), VFMO (Vanguard US Momentum Factor). NO verificado con fuente primaria en esta sesion - buen candidato para una futura comparacion cabeza a cabeza siguiendo el patron ya establecido en el proyecto (IHAK/CIBR, SOXX/SMH, XOP/CRAK).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol sugerido: SATELITE de factor de largo plazo - dado que es un fondo DIVERSIFICADO (100 posiciones, potencialmente cualquier sector del S&P 500) con rotacion semestral genuina, SPMO es un candidato mas razonable que CUALQUIERA de los fondos sectoriales del proyecto: el overlap actual (~45%) es una funcion del momentum ACTUAL (tech/semis liderando el mercado), no una apuesta estructural permanente como SOXX/SMH/CIBR/ITA - podria reducirse organicamente en proximos rebalanceos si el liderazgo de mercado rota hacia otros sectores.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion al factor MOMENTUM academicamente documentado (persistencia de tendencias de precio de 3-12 meses, uno de los factores de riesgo/retorno mas estudiados y replicados en finanzas cuantitativas), con mecanismo de rotacion semestral que capta el liderazgo de mercado cambiante en vez de apostar a un sector fijo permanente. Actualmente sobreponderado en tech/semis porque ahi reside el momentum, pero rotaria organicamente si el liderazgo del mercado cambia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) las reversiones de momentum pueden ser ABRUPTAS ('momentum crashes' - fenomeno bien documentado academicamente cuando el mercado revierte violentamente contra las acciones de mayor momentum reciente); (2) concentracion sectorial ACTUAL alta en tech (~61%), aunque dinamica y no estructural; (3) valoracion cara (P/E 32x) en el segmento actualmente sobreponderado; (4) overlap significativo (~45%) con posiciones individuales del usuario, aunque de naturaleza temporal/rotativa en vez de permanente; (5) el rebalanceo semestral (no mas frecuente) puede dejar al fondo 'atrapado' varios meses en nombres que ya perdieron momentum entre fechas de reconstitucion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "MTUM, QMOM y VFMO como alternativas de factor momentum no verificadas en esta sesion - buenos candidatos para una comparacion cabeza a cabeza futura.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER / ACUMULAR GRADUAL. Score ~3.85/5, el TERCER MEJOR de todo el proyecto (despues de SCHD 4.03 y VYMI 3.88, practicamente empatado con este ultimo). Excelente calidad estructural: TER muy bajo (0.13%, el segundo mas barato del proyecto), gran diversificacion (99-102 holdings), emisor solido (Invesco), y el SEGUNDO MEJOR track record historico del proyecto (19.30% anualizado desde 2015, con Sharpe 0.86-0.87 bien corroborado por dos fuentes independientes - superior a QQQ en la misma ventana). Demostro resiliencia real en 2022 (drawdown limitado a -10.46% gracias a la rotacion semestral del factor momentum, mucho mejor que el mercado growth en general ese ano). Valoracion moderada-cara (P/E 32.2x) pero MUCHO menos extrema que los fondos sectoriales de semiconductores del proyecto. El unico matiz relevante es el overlap actual (~45%) con MU/NVDA/AVGO/GOOGL/JNJ/AMD/INTC, ya analizados individualmente por el usuario - PERO a diferencia del overlap ESTRUCTURAL PERMANENTE de SOXX/SMH/CIBR/ITA (fondos sectoriales fijos), este overlap es DINAMICO: refleja el momentum ACTUAL del mercado (tech/semis liderando) y rotaria organicamente en el proximo rebalanceo semestral (marzo/septiembre) si el liderazgo cambia. SPMO es el candidato mas defendible del proyecto para exposicion factorial de largo plazo fuera de SCHD/VYMI, precisamente por NO estar atado permanentemente a un sector que ya se solapa con las convicciones individuales del usuario."
+  }
+}

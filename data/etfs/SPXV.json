@@ -1,0 +1,227 @@
+{
+  "nombre": "ProShares S&P 500 Ex-Health Care ETF",
+  "ticker": "SPXV",
+  "categoria": "Equity Indice Amplio con Exclusion Sectorial (S&P 500 excluyendo el sector Salud, 100% US, market-cap weighted - producto de NICHO con la LIQUIDEZ MAS BAJA de todo el proyecto)",
+  "emisor": "ProShares",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA, market-cap weighted, parte del universo S&P 500 excluyendo companias clasificadas GICS como sector Salud - 445 holdings.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% acciones US - sin retencion de dividendos extranjeros ni complejidad fiscal adicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $40.77M - **EXTREMADAMENTE PEQUENO, el fondo de acciones mas pequeno del proyecto por un margen enorme** (compara con SCHD ~$105bn o incluso NOBL ~$11.90bn) - riesgo real de cierre/liquidacion del fondo por escala insuficiente.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 22-sep-2015 (~10.9 anios) - uno de los fondos de acciones mas jovenes del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor ProShares - DECIMOCUARTA aparicion en el proyecto, segunda vez con un producto 'estrategico' no apalancado (tras NOBL).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.09% - barato en terminos nominales.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL, screening simple (excluir companias clasificadas GICS como sector Salud del universo S&P 500).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = **40 ACCIONES/DIA - LIQUIDEZ PRACTICAMENTE INEXISTENTE, LA PEOR DE TODO EL PROYECTO por varios ordenes de magnitud** (compara con cientos de miles o millones de acciones/dia del resto de fondos del proyecto, incluso los mas pequenos).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion, pero dada la liquidez casi nula (fila 24) se infiere EXTREMADAMENTE amplio, con riesgo real de ejecucion muy pobre para cualquier operacion.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion, pero el riesgo es alto dada la iliquidez extrema del mercado secundario.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "ProShares - profundidad de Authorized Participants teoricamente adecuada por ser un emisor establecido, PERO la liquidez de mercado secundario (fila 24-25) es el problema real y dominante aqui, no la profundidad de AP.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "445 holdings - numeroso, similar en magnitud a otros fondos amplios del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = **41.85%** - concentrado, similar a SCHD/VIG, dominado por mega-cap tech/IA (NVIDIA 8.92%, Apple 7.56%, Microsoft 6.11%, Amazon 4.42%, Alphabet 3.42%+2.75%, Broadcom 3.33%, Meta 2.14%, Micron 1.62%, JPMorgan 1.58%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "La exclusion explicita del sector Salud REDISTRIBUYE ese peso hacia el resto de sectores, resultando en una concentracion TECNOLOGICA aun MAYOR que el propio S&P 500 estandar - efecto secundario notable de la metodologia de exclusion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US - mismo perfil que el resto de fondos amplios del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Factor: exclusion sectorial simple (sin Salud), ponderado por market cap - metodologia MUY basica y de nicho, util solo para un inversor que ya tenga sobreexposicion sectorial especifica a Salud en otra parte de su portafolio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "S&P 500 Ex-Health Care Index - metodologia simple y transparente (clasificacion GICS + exclusion).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral, reglas claras (clasificacion sectorial GICS).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +21.63%. Retorno desde inception (10.9 anios) = **+15.93% CAGR** - fuerte, beneficiado por el peso tech elevado (efecto secundario de excluir Salud) durante el rally reciente del sector.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad no verificada con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown no verificado con cifra especifica esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "Sharpe / Sortino ratio",
+      "aspectos": [
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 1.07 - practicamente igual al mercado amplio. Overlap MIXTO: NVIDIA (8.92%, principal holding) tiene verdict individual **MANTENER** (Score 3.97, EL MAS ALTO de todo el proyecto de acciones) - overlap POSITIVO; PERO Micron (MU, 1.62%) y Broadcom (AVGO, 3.33%) tienen verdict **NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA** (mismo hallazgo ya visto en VYM/UDOW) - combinados 4.95% del fondo en riesgo de valoracion severo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Comportamiento en crisis pasadas no verificado con detalle especifico esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = **27.07x - EL MAS CARO de cualquier ETF de accion amplio/factor del proyecto analizado hasta ahora** (supera incluso a VIG, 25.03x, el previo record del proyecto).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.91% - muy bajo, consistente con el sesgo tech pronunciado del fondo.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Sin competidor 'ex-Health Care' directo identificado esta sesion - es un producto de NICHO sin comparables cercanos en el proyecto. VTI/VOO (S&P 500 o mercado total sin exclusion sectorial, mucho mas liquidos y con AUM ordenes de magnitud mayor) serian la alternativa simple y practica de referencia, ninguna analizada en el workbook.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: dado el riesgo de liquidez EXTREMO y la naturaleza de nicho (exclusion sectorial simple, no un factor de inversion robusto), este fondo NO calificaria como Core ni siquiera como Satelite razonable para la mayoria de inversores - unicamente Satelite muy especifico para quien necesite corregir una sobreexposicion puntual a Salud en su portafolio, y aun asi el riesgo de liquidez desaconseja su uso practico.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion al S&P 500 excluyendo el sector Salud - util UNICAMENTE si el inversor ya tiene sobreexposicion a Salud en otra parte de su portafolio y busca corregirla sin vender esas posiciones directamente; para cualquier otro proposito, VTI/VOO simple es mas eficiente, liquido y con escala institucional real.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) **LIQUIDEZ PRACTICAMENTE INEXISTENTE (40 acciones/dia), la peor de todo el proyecto por varios ordenes de magnitud**, riesgo real de spreads amplios y dificultad de entrada/salida; (2) AUM extremadamente pequeno ($40.77M), riesgo de cierre del fondo; (3) P/E el mas caro del cluster de acciones amplio del proyecto (27.07x); (4) overlap severo via MU+AVGO (NO COMPRAR-superciclo IA, 4.95% combinado); (5) producto de nicho sin proposito de inversion claro para la mayoria de portafolios.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VTI/VOO (S&P 500 o mercado total simple, sin exclusion sectorial, mucho mas liquidos) serian las alternativas practicas recomendadas, ninguna analizada en el workbook.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/EVITAR - RIESGO DE LIQUIDEZ EXTREMO. Score 2.68/5. ProShares S&P 500 Ex-Health Care ETF: producto de nicho que replica el S&P 500 excluyendo el sector Salud (445 holdings, market-cap weighted, TER 0.09%). **HALLAZGO DOMINANTE: volumen diario de apenas 40 ACCIONES - la liquidez mas baja de TODO el proyecto por varios ordenes de magnitud**, sin comparacion cercana entre los mas de 95 ETFs ya analizados. Combinado con un AUM de solo $40.77M (el fondo de acciones mas pequeno del proyecto por un margen enorme), esto implica riesgo real de spreads extremadamente amplios, dificultad seria de entrada/salida, y riesgo no trivial de cierre/liquidacion del fondo por escala insuficiente. La exclusion del sector Salud redistribuye ese peso hacia el resto de sectores, resultando en una concentracion TECNOLOGICA aun mayor que el propio S&P 500 (top10 41.85%: NVIDIA, Apple, Microsoft, Amazon, Alphabet, Broadcom, Meta, Micron, JPMorgan) - P/E ponderado 27.07x, el MAS CARO de cualquier ETF de accion amplio/factor del proyecto (supera incluso a VIG, 25.03x). Overlap mixto: NVIDIA (8.92%, principal holding) tiene verdict individual MANTENER (Score 3.97, el mas alto del proyecto de acciones); pero Micron y Broadcom (4.95% combinado) tienen verdict NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA. Sin proposito de inversion claro para la mayoria de portafolios: util unicamente si el inversor ya tiene sobreexposicion puntual a Salud en otra parte de su cartera y busca corregirla sin vender esas posiciones directamente - y aun en ese caso, la iliquidez extrema desaconseja fuertemente su uso practico. VTI/VOO (S&P 500 o mercado total simple, sin exclusion sectorial, ordenes de magnitud mas liquidos y con AUM real) son las alternativas practicas recomendadas, ninguna en el workbook."
+  }
+}

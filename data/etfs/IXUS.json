@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares Core MSCI Total International Stock ETF",
+  "ticker": "IXUS",
+  "categoria": "Equity Indice Amplio (mercado total ex-US, desarrollado + emergente, blend sin sesgo de estilo)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA POR MUESTREO OPTIMIZADO (Trackinsight: 'optimized sampling') - misma logica ya aplicada a VYMI/VXUS: universo de 4,301-4,537 holdings (segun fuente/fecha) hace impractica la replica completa literal para un fondo de este tamano. No hay indicio de estructura sintetica/swap - fisica en toda su extension, solo con muestreo estadistico del universo MSCI ACWI ex USA IMI.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, pero 100% holdings EXTRANJEROS por definicion (ex-US) - MISMO gotcha ya documentado con VYMI/VXUS: riesgo cambiario no cubierto (unhedged) y retencion de impuestos extranjera sobre dividendos que reduce el yield neto frente al 'headline'. Identico perfil de riesgo fiscal/cambiario que VXUS, su competidor directo ya en el workbook.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$59.9bn (stockanalysis) / EUR51.77bn ~ $56bn (Trackinsight, 6-ago-2026) - razonablemente consistente entre fuentes, pero NOTABLEMENTE MENOR que VXUS ($158-161bn, casi 3x mas grande). Fondo grande y solido en terminos absolutos, pero claramente el 'segundo' en escala frente a su competidor directo ya analizado en este proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 18-oct-2012 (~13.8 anios) - historial limpio, sin cambio de indice/mandato, pero mas CORTO que VXUS (15.5 anios) - no cubre la crisis de deuda europea de 2011 que VXUS si cubre en su ventana.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - QUINTA aparicion del emisor en el proyecto (IHAK, SOXX, ITA, ARTY, ahora IXUS) - maxima reputacion y escala, mismo nivel que Vanguard.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.07% - barato en terminos absolutos para un fondo internacional de esta amplitud, pero MAS CARO que VXUS (0.05%) pese a cubrir un universo mas reducido (4,300-4,537 vs 8,807 holdings). Diferencia pequena en puntos base pero decisiva quando ya existe una alternativa mas barata Y mas diversificada en el mismo workbook.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion (mismo gap que VXUS/VYMI/SCHD).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending: BlackRock opera un programa activo de prestamo de valores en sus fondos iShares grandes, pero revenue especifico y % de compensacion del TER no verificados esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI ACWI ex USA IMI - MSCI tipicamente revisa trimestralmente (feb/may/ago/nov) con rebalanceo semestral mas profundo (may/nov), pero no confirmado con fuente primaria especifica de IXUS esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = $263.30M/dia (2.96M acciones x precio, cifra real verificada via Seeking Alpha) - dato preciso y confiable, a diferencia de VXUS donde este dato quedo solo inferido cualitativamente sin cifra exacta. Liquidez alta, consistente con el tamano del fondo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion, pero se infiere ajustado dado el volumen diario verificado ($263M) y el tamano del fondo (BlackRock, $60bn AUM).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel, mismo estandar que Vanguard/State Street en este proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "4,301 holdings (Trackinsight, jun-2026) a 4,537 (stockanalysis, cifra mas reciente) - fondo MUY diversificado en numero absoluto, pero aproximadamente la MITAD de holdings que VXUS (8,807) pese a que ambos se autodenominan cobertura 'total' del mercado ex-US - diferencia estructural real: MSCI IMI vs FTSE Global All Cap no son universos identicos, FTSE captura un tramo adicional de micro-caps que MSCI IMI no cubre.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 13.16% (stockanalysis) a 14.95% (Trackinsight) - MUY BAJO, practicamente identico a VXUS (14.77%), confirma diversificacion interna excelente en ambos vehiculos por igual.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Finance 25.35% + Technology 23.40% = ~49% combinado en las dos categorias top, resto repartido en Industrials 12.57%, Materiales 8.15%, Consumo No Ciclico 6.72%, Salud 6.59%, Consumo Ciclico 5.07%, Energia 4.45% (Trackinsight, jun-2026) - moderadamente concentrado en Financials+Tech pero sin un sector unico dominante. Dato MAS PRECISO y verificado que el que se obtuvo para VXUS (que quedo solo cualitativo, sin cifras exactas por sector).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Exposicion geografica primaria en Japon, Taiwan y Reino Unido (iShares), sin cifras exactas por pais verificadas esta sesion - cualitativamente similar a la amplia diversificacion geografica de VXUS (Japon/UK/Canada/Taiwan/Suiza), aunque sin poder confirmar con la misma precision que ningun pais individual supera un umbral especifico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "BLEND puro (sin sesgo value/growth/dividendo), cap-weighted de TODO el mercado accionario ex-US incluyendo small-caps via metodologia IMI - mismo perfil de estilo que VXUS, complementa igual de bien el sesgo domestico/growth-tech del resto de la cartera.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI ACWI ex USA Investable Market Index (IMI) - proveedor MSCI, SEGUNDA aparicion de MSCI como proveedor de indice EQUITY del proyecto (la primera fue ARTY, Morningstar Global AI Select via metodologia distinta) pero PRIMERA aparicion de un indice MSCI de mercado amplio/core - metodologia transparente, reconocida globalmente, IMI = incluye large+mid+small cap (a diferencia de un indice MSCI estandar que solo cubre large+mid).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de IXUS esta sesion (tipicamente trimestral/semestral para indices MSCI de este tipo, ver fila 21).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (~13.8 anios) = 7.43% anualizado (lazyportfolioetf) - ligeramente MEJOR que VXUS (6.72% en 15.5 anios), aunque ventanas no son directamente comparables. Retorno 10Y = 9.41-9.83% segun fuente (mas alto que el 'desde inception', reflejando que los primeros anios 2012-2016 del fondo fueron mas debiles y arrastran el CAGR completo hacia abajo - mismo tipo de gotcha de ventana ya visto en otras fichas). Retorno 1Y = +25.85% (stockanalysis) a +27.27% (portfolioslab), 3Y anualizado +16.90% (fuente unica).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada: rango 13.31%-16.55% segun ventana/fuente (10Y = 14.79%, 1Y = 13.31%, PortfoliosLab general 16.55%) - razonablemente corroborado entre multiples fuentes y ventanas, sin cifras implausibles como las descartadas en VYMI/IHAK/CIBR. Similar en magnitud a VXUS (volatilidad no verificada alli, descartada por implausible).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -36.22% (Mar-2020, COVID, recuperacion 166 sesiones) - bien corroborado por una cifra independiente de ventana 10Y (-35.07%, lazyportfolioetf). PRACTICAMENTE IDENTICO a VXUS (-35.97%) - ambos fondos absorbieron el shock COVID de forma casi identica, coherente con su beta identico (0.78).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: 10Y = 0.48, 5Y = 0.35 (lazyportfolioetf, ventanas largas) vs 1Y = 1.57-1.76 (multiples fuentes coinciden en el reciente) - MISMO gotcha ya documentado repetidamente en el proyecto (MU, CRAK, SOXX): el Sharpe reciente esta inflado por el rally de 2025-2026 y no es representativo del largo plazo. Se prioriza el Sharpe 10Y (0.48) en el Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.78 - IDENTICO a VXUS. Overlap CONFIRMADO en ambas fuentes (stockanalysis + Trackinsight): Taiwan Semiconductor (TSM, 4.17-4.36%, la posicion MAS GRANDE del fondo en ambas fuentes) y ASML Holding (1.55-1.79%) YA analizados individualmente por el usuario, sumando 5.7-6.2% del fondo. Alibaba (BABA) aparece en el top10 de stockanalysis (0.61%) pero no en el de Trackinsight - overlap adicional probable pero menos cierto. Overlap CONFIRMADO (TSM+ASML) ligeramente MAYOR que el de VXUS (5.37%, mismos dos nombres).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "~13.8 anios de historial cubren el COVID crash de 2020 (drawdown -36.22%) y el bear market de 2022, pero NO cubren la crisis de deuda europea de 2011 (el fondo nacio en oct-2012) que VXUS si capturo en su ventana de 15.5 anios - cobertura de crisis ligeramente MENOR que su competidor directo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 17.54x - barato en el contexto general del proyecto (mucho menor que el mercado US), pero NOTABLEMENTE MAS CARO que VXUS (15.86x) pese a cubrir un universo muy similar. Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 2.89% (stockanalysis) a 2.96% (busqueda web) - fuentes consistentes, y NOTABLEMENTE MAYOR que VXUS (2.51-2.52%). Distribucion SEMESTRAL confirmada ($2.80/accion anual) - a diferencia de VXUS que distribuye TRIMESTRAL, primera vez que se documenta esta diferencia de frecuencia entre dos ETFs de renta variable muy similares en el proyecto.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "COMPARACION VERIFICADA CABEZA A CABEZA CON VXUS (competidor directo ya analizado en este workbook, fila 30) - mismo patron ya establecido (IHAK/CIBR, SOXX/SMH, XOP/CRAK, VTV/VUG): VXUS es OBJETIVAMENTE SUPERIOR en costo (TER 0.05% vs 0.07%), escala (AUM $161bn vs $60bn, ~2.7x mayor) y diversificacion interna (8,807 vs 4,301-4,537 holdings, ~2x mas). IXUS gana en dividend yield (2.89-2.96% vs 2.51-2.52%), en la precision de los datos de liquidez/sector verificados esta sesion (volumen exacto $263M/dia, sector breakdown preciso), y tiene un retorno desde inception ligeramente mejor (7.43% en 13.8 anios vs 6.72% en 15.5 anios de VXUS, aunque ventanas distintas). Beta (0.78 ambos) y Max Drawdown (-36.22% vs -35.97%) practicamente identicos - ambos fondos se comportan de forma casi indistinguible en riesgo de mercado. Conclusion: para este usuario, VXUS sigue siendo la opcion mas eficiente para el rol de diversificador geografico ex-US; IXUS es un vehiculo de calidad casi equivalente pero mas caro y mas pequeno, sin aportar una dimension de diversificacion nueva que VXUS no cubra ya. Otros candidatos sin datos propios verificados: VEU (Vanguard FTSE All-World ex-US, sin small-caps), SCHF (Schwab International Equity, solo desarrollados). | ACTUALIZACION posterior (ACWX, fila 46): tercer competidor directo verificado, PRE-serie Core de iShares (2008) con TER 0.32% (4.5x mas caro que IXUS) y AUM ~$11.6bn (bastante menor que IXUS $60bn) - IXUS sigue siendo mas eficiente que ACWX en costo/escala, aunque ambos pierden frente a VXUS. Ver Ficha ACWX fila 50 para el detalle completo. | ACTUALIZACION posterior (VEU, fila 47): cuarto competidor verificado del cluster, MAS BARATO que IXUS (TER 0.04% vs 0.07%) y con mejor liquidez y track record mas largo. VEU tambien supera a IXUS en la mayoria de dimensiones salvo N Holdings (3,895 vs 4,301-4,537 de IXUS, aunque ambos sin la cobertura small-cap total de VXUS). Ver Ficha VEU fila 50 para el detalle completo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: diversificador geografico de alta calidad (mismo rol conceptual que VXUS), PERO REDUNDANTE dado que VXUS ya ocupa ese rol de forma mas eficiente en este mismo workbook (mas barato, mas grande, mas diversificado). Primer caso del proyecto donde la redundancia no es por overlap de HOLDINGS individuales (como CIBR/SOXX/SMH/VUG/VGT) sino por redundancia de PRODUCTO/ROL frente a un ETF hermano-competidor ya presente en la cartera analizada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion de bajo costo a mercados desarrollados+emergentes ex-US, valoracion mas barata que EEUU (P/E 17.54x) y yield superior a VXUS (2.89-2.96% vs 2.52%) - pero es la MISMA tesis geografica que VXUS ya cubre, sin un angulo diferenciador que justifique tener ambos simultaneamente para este usuario.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo cambiario no cubierto (unhedged) y retencion fiscal extranjera sobre dividendos (mismo gotcha de VYMI/VXUS); (2) redundancia de cartera si se suma a VXUS sin un proposito claro (mismo capital fragmentado en dos vehiculos casi identicos en vez de concentrado en el mas eficiente); (3) exposicion a mercados emergentes via MSCI (clasificacion MSCI difiere de FTSE en algunos paises, ej. Corea del Sur es Mercado Emergente bajo MSCI pero Desarrollado bajo FTSE - una diferencia estructural real entre IXUS y VXUS que no se tradujo en diferencias materiales de riesgo/retorno esta sesion pero vale la pena monitorear).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VXUS (ya analizado en este workbook, fila 30 - ver comparacion completa en fila 50) es el competidor mas directo y objetivamente mas eficiente para este usuario. VEU y SCHF identificados como candidatos adicionales sin datos propios verificados esta sesion. ACWX (fila 46) tambien verificado - tercer y menos eficiente del cluster, ver comparacion en su Ficha. VEU (fila 47) tambien verificado - supera a IXUS en costo/liquidez/track record, ver comparacion en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score 3.84/5 - muy cercano al de VXUS (3.94), reflejando que IXUS es un vehiculo de calidad estructural casi equivalente (mismo beta 0.78, drawdown COVID casi identico -36.22% vs -35.97%, emisor de primer nivel). Pero en TODAS las dimensiones donde ambos compiten directamente por el mismo rol de portafolio (diversificador geografico ex-US), VXUS gana: mas barato (TER 0.05% vs 0.07%), ~2.7x mas grande en AUM, ~2x mas holdings, y overlap ligeramente menor con la cartera individual del usuario (5.37% vs 5.7-6.2% confirmado TSM+ASML). IXUS solo gana en dividend yield y en la precision de los datos verificados esta sesion (volumen exacto, sector breakdown). Primer caso del proyecto de redundancia de PRODUCTO frente a un ETF-hermano-competidor ya en el workbook (no de overlap de holdings individuales como CIBR/SOXX/SMH) - mismo criterio de decision 'MANTENER - no agregar' ya usado en esos casos: el problema dominante es que sumar IXUS no anadiria diversificacion real ya cubierta mejor por VXUS."
+  }
+}

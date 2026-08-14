@@ -1,0 +1,224 @@
+{
+  "nombre": "Corgi Lithography & Semiconductor Photonics ETF",
+  "ticker": "EUV",
+  "categoria": "Equity Tematico/Factor (litografia/fotonica semiconductor - ACTIVO, sin indice)",
+  "emisor": "Corgi (Corgi Strategies LLC / The Corgi Company)",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "ACTIVAMENTE GESTIONADO, NO INDEXADO - a diferencia de TODOS los demas ETFs del proyecto (todos indexados con reglas mecanicas transparentes), EUV no persigue ningun indice de referencia formal. La composicion depende del criterio discrecional del equipo gestor de Corgi entre empresas de litografia, inspeccion de chips, componentes opticos e infraestructura de datacenters de IA. Sin uso de swaps (mantiene acciones directamente, sin riesgo de contraparte por derivados), pero la ausencia de un proceso mecanico auditable introduce riesgo de 'manager/proceso' inexistente en el resto del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US (listado en Cboe BZX). El fondo incluye TSM (Taiwan) y ASML (Paises Bajos) como sus DOS MAYORES posiciones (21.4% combinado) - friccion fiscal de dividendos extranjeros aplica igual que en SOXX.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $462.67M - decente para un fondo de solo 3 meses (senal de captacion inicial fuerte va marketing), PERO hay que contextualizar: es parte de una familia de 197 ETFs lanzados por Corgi con solo $880.10M de AUM TOTAL DE LA FIRMA a agosto-2026 (~$4.5M promedio por fondo) - EUV es una excepcion positiva dentro de una estrategia de lanzamiento masivo de productos muy inusual. El riesgo real no es el AUM de ESTE fondo especificamente, sino el modelo de negocio del EMISOR completo (ver fila de Emisor).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 6-mayo-2026 - SOLO ~3 MESES de historial al 2026-08-10. ES, POR MUCHO, EL FONDO MAS NUEVO DE TODO EL PROYECTO (el anterior mas nuevo era IHAK con 7.2 anios). No ha atravesado NINGUN ciclo de mercado completo, ni siquiera una correccion normal. Aplica el mismo principio de cautela ya documentado en el proyecto de acciones para empresas con <3 anios de historial de cotizacion (beta/metricas no confiables), llevado aqui a un extremo aun mayor (semanas-meses, no anios).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: Corgi (Corgi Strategies LLC / The Corgi Company) - **RIESGO ESTRUCTURAL MAYOR DE TODO EL PROYECTO**. No es una gestora tradicional de ETFs: es una startup fintech respaldada por capital de riesgo cuyo negocio historico incluye SEGUROS PARA STARTUPS (Corgi Insure) y CAFETERIAS 24 HORAS en San Francisco y Atlanta, ademas de operar un autobus a la oficina de Y Combinator - sin trayectoria previa como gestora de activos antes de 2026. Lanzo un RECORD de 34 ETFs en un solo dia (6-mayo-2026, incluyendo 28 tematicos activos y 9 de buffer estructurado) y para agosto-2026 (solo 3 meses despues) YA TENIA 197 ETFs con apenas $880M de AUM TOTAL de la firma. Este modelo de lanzamiento masivo de productos ('spray and pray') no tiene precedente comparable en la industria de ETFs y genera dudas serias sobre: profundidad de analisis por fondo, sostenibilidad economica del modelo de negocio, y riesgo de liquidaciones masivas de fondos hermanos que podrian generar atencion negativa cruzada sobre toda la familia de productos.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.35% - sorprendentemente BARATO para un fondo ACTIVAMENTE gestionado y tematico de nicho (los fondos activos tipicamente cobran 0.60-1.00%+); de hecho comparable al TER de fondos PASIVOS del proyecto como SOXX (0.34%) o XOP (0.35%). Barato en terminos absolutos, aunque cabe preguntarse como es economicamente sostenible dado el AUM promedio tan bajo de la familia de fondos de Corgi (~$4.5M/fondo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "NO APLICA de la forma tradicional - al ser un fondo ACTIVAMENTE gestionado sin indice de referencia formal, no existe un 'tracking difference' mecanico que medir contra un benchmark. Se deja sin calificar por definicion estructural, no por falta de dato (mismo criterio que la fila de renta fija para fondos 100% equity).",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "No aplica el concepto de 'rebalanceo de indice' - al ser gestion activa discrecional, la rotacion de cartera depende de las decisiones del gestor, no de reglas mecanicas publicadas por un proveedor de indices. Sin historial suficiente (3 meses) para evaluar el patron de rotacion real del equipo gestor.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "No verificado con cifra exacta esta sesion. UNA FUENTE INDEPENDIENTE (articulo de analisis de EBC Financial Group) menciona EXPLICITAMENTE 'thin trading history' y riesgo de spreads amplios como preocupacion real del fondo - no es solo inferencia propia, es una senal de alerta citada directamente.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "La misma fuente independiente menciona explicitamente el riesgo de 'bid-ask spread' amplio dado el historial de trading tan corto (3 meses) del fondo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "La misma fuente independiente menciona explicitamente el riesgo de que el fondo cotice 'below net asset value' (con descuento) como una preocupacion real y citada, no hipotetica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Fondo de 3 meses de un emisor sin trayectoria previa en gestion de activos - profundidad de creadores de mercado (Authorized Participants) no probada en el tiempo.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "40-42 holdings segun la fuente (stockanalysis 42, articulo EBC 40) - concentrado, similar en magnitud a CIBR/ITA.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 56.77% (stockanalysis) / ~52.5% (EBC) - concentracion alta, comparable a CIBR (57.71%).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% Technology, con un foco AUN MAS ESTRECHO dentro de tech que cualquier otro ETF del proyecto: litografia, inspeccion de chips, componentes opticos, infraestructura de datacenters de IA - mas estrecho incluso que SOXX (semiconductores en general) o IHAK (ciberseguridad como categoria completa).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Dominado por TSM (Taiwan, 11.30%) y ASML (Paises Bajos, 10.12%) como las DOS MAYORES posiciones = 21.4% del fondo en riesgo pais no-US concentrado en solo dos paises - proporcionalmente MAS concentrado en riesgo pais especifico que SOXX (donde TSM y ASML eran posiciones menores dentro de un universo mas amplio).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Growth extremo, tematica muy especifica y de moda ('cuello de botella de IA' en litografia/fotonica). LA PROPIA FUENTE INDEPENDIENTE consultada cuestiona explicitamente si esta narrativa se sostendra o si los inversionistas simplemente seguiran usando ASML, NVIDIA o ETFs de semiconductores mas amplios (como SOXX) en su lugar - tesis especulativa y no probada por el mercado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "NO HAY UN INDICE FORMAL - es un fondo ACTIVAMENTE GESTIONADO, la composicion depende enteramente del criterio discrecional del equipo gestor de Corgi, sin track record previo verificable de ese equipo en gestion de activos (la firma matriz viene de seguros para startups y cafeterias, no de gestion de inversiones). Esto es fundamentalmente DISTINTO Y DE MAYOR RIESGO que todos los demas ETFs del proyecto (indexados, con reglas mecanicas transparentes y auditables por terceros).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "No aplica el concepto tradicional de reglas de rebalanceo de indice - gestion activa discrecional, sin cronograma de rebalanceo publicado ni verificable. Opacidad estructural frente al resto del proyecto.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.57
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "SIN HISTORIAL SUFICIENTE para evaluar - solo ~3 meses desde el lanzamiento (6-mayo-2026), ningun retorno anualizado significativo o estadisticamente confiable disponible. El precio actual (~$25.69) es simplemente el NAV acumulado desde el lanzamiento, no comparable a un 'retorno desde inception' de anios/decadas como el resto de ETFs del proyecto. Imposible evaluar con rigor.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "NO CALCULABLE CON CONFIANZA - 3 meses de datos son estadisticamente insuficientes para una cifra de volatilidad anualizada significativa, y no se encontro ninguna en las fuentes consultadas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "No aplica de forma significativa con solo 3 meses de historial - cualquier cifra de 'maximo drawdown' seria ruido estadistico de corto plazo, no una senal real de riesgo de cola en un ciclo completo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "No calculable con 3 meses de historial, no encontrado en las fuentes consultadas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = NO DISPONIBLE (confirmado explicitamente por stockanalysis.com) - mismo principio ya documentado en el proyecto de acciones para empresas con <3 anios de cotizacion, aqui llevado a un extremo aun mayor (semanas-meses de historial, no anios). OVERLAP SIGNIFICATIVO: Taiwan Semiconductor (TSM, 11.30%), ASML (10.12%) y Applied Materials (AMAT, 6.77%) YA estan analizados individualmente en el Dashboard de acciones del usuario, sumando 28.19% del fondo - overlap similar en magnitud al de CIBR (31.34%). Ademas, EUV es esencialmente un SUBCONJUNTO MAS CONCENTRADO Y MAS CARO del mismo tema que SOXX ya cubre de forma mas diversificada (TSM y AMAT tambien estaban en el top10 de SOXX, ya analizado en este mismo workbook, fila 9).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "IMPOSIBLE DE EVALUAR - el fondo no ha existido durante ningun ciclo de mercado, correccion, o evento de estres desde su lanzamiento hace apenas 3 meses.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 61.61x - EL MAS CARO DE TODO EL PROYECTO CON GRAN DIFERENCIA (el anterior record era SOXX con 47.61x, casi el doble de caro que ITA en tercer lugar con 39.53x). No hay percentil historico propio que evaluar dado que el fondo tiene solo 3 meses de existencia - el multiplo esta anclado enteramente en el entusiasmo actual del mercado por la narrativa de IA/litografia/fotonica, sin ningun ancla historica propia contra la cual contrastarlo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Yield no disponible/no reportado - fondo demasiado nuevo y de crecimiento puro para tener historial de distribuciones significativo. No relevante para la tesis de inversion de este ETF (similar tratamiento que otros fondos growth puros del proyecto como IHAK).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - EUV es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "COMPARACION DIRECTA CON SOXX (ya analizado en este mismo workbook, fila 9, universo amplio de semiconductores, incluye litografia/equipo como sub-componente): EUV es una apuesta MAS ESTRECHA, MAS CARA (P/E 61.6x vs 47.6x), MUCHO MAS NUEVA (3 meses vs 25 anios) y de gestion ACTIVA (mas riesgosa en todas las dimensiones estructurales evaluadas) sobre esencialmente el MISMO tema subyacente de cadena de suministro de semiconductores que SOXX ya cubre de forma mas diversificada, mas barata, con un indice transparente y con track record de un cuarto de siglo probado.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.67
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol sugerido: NINGUNO recomendado en este momento. Dado TODOS los riesgos estructurales documentados simultaneamente (emisor nuevo y no probado con modelo de negocio atipico; gestion activa sin track record verificable; historial de apenas 3 meses; valoracion mas extrema del proyecto; overlap significativo con SOXX y con posiciones individuales ya analizadas), NINGUN rol de portafolio (ni Core, ni Satelite, ni siquiera Tactico de alta conviccion) justifica actualmente el nivel de riesgo estructural combinado - los CUATRO tipos de riesgo (emisor + historial + valoracion + overlap) estan simultaneamente en su nivel mas alto de todo el proyecto en este unico ETF.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion a la narrativa especifica de que la fotonica/litografia se convertira en un 'cuello de botella' reconocido de la infraestructura de IA, tan critico como la propia litografia EUV. Es una tesis de nicho DENTRO de una tesis de nicho (semiconductores dentro de IA), no probada por el mercado, que la propia fuente independiente consultada cuestiona explicitamente ('los inversionistas pueden simplemente seguir usando ASML, NVIDIA o ETFs de semiconductores mas amplios en su lugar').",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) EMISOR nuevo y no probado - startup de seguros/cafeterias convertida en gestora de 197 ETFs en 3 meses con AUM promedio de solo ~$4.5M/fondo, modelo 'spray and pray' sin precedente; (2) SOLO 3 MESES de historial, sin haber atravesado ningun ciclo de mercado; (3) gestion ACTIVA discrecional sin proceso transparente ni track record verificable del equipo; (4) valoracion MAS CARA de todo el proyecto (P/E 61.6x) sin ancla historica propia; (5) riesgo de liquidez/spread/premium-descuento EXPLICITAMENTE citado por una fuente independiente (no solo inferencia propia); (6) riesgos especificos del tema citados por la misma fuente (pausas de capex de foundries, resets de pedidos de ASML, 'de-rating' de redes opticas, controles de exportacion mas estrictos - riesgo geopolitico China-Taiwan relevante dado el peso de TSM); (7) overlap significativo (28.2%) con TSM/ASML/AMAT ya en cartera individual del usuario Y ya cubiertos de forma mas diversificada por SOXX.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SOXX (ya analizado en este mismo workbook, fila 9) es la alternativa DIRECTA Y OBJETIVAMENTE SUPERIOR para cualquier inversionista que quiera exposicion al tema de semiconductores/litografia sin asumir el riesgo adicional de emisor nuevo, gestion activa y valoracion extrema de EUV: mismo tema subyacente mas amplio, indice transparente pasivo, mucho mas barato (P/E 47.6x vs 61.6x, TER similar), y con 25 anios de historial probado frente a 3 meses.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar / no iniciar posicion). Score ~1.84/5, EL MAS BAJO DE TODO EL PROYECTO CON GRAN DIFERENCIA (el anterior minimo era CRAK con 2.91). Es la primera vez en el proyecto que se combinan simultaneamente los CUATRO tipos de riesgo mas severos posibles: (1) EMISOR no probado - Corgi es una startup fintech de seguros/cafeterias que lanzo 34 ETFs en un solo dia y ya tenia 197 fondos con solo $880M de AUM TOTAL de la firma (~$4.5M promedio/fondo) tres meses despues, un modelo de negocio sin precedente en la industria; (2) HISTORIAL de apenas 3 meses, sin haber atravesado ningun ciclo de mercado ni siquiera una correccion normal - beta no disponible, volatilidad/Sharpe/drawdown no calculables con rigor; (3) VALORACION mas cara de todo el proyecto (P/E 61.6x, sin ancla historica propia); (4) OVERLAP significativo (28.2% del fondo en TSM+ASML+AMAT, ya analizados individualmente por el usuario Y ya cubiertos de forma mas diversificada por SOXX). Adicionalmente, EUV es gestionado ACTIVAMENTE sin indice de referencia formal, a diferencia de todos los demas ETFs del proyecto - la composicion depende del criterio discrecional de un equipo gestor sin trayectoria previa verificable en gestion de activos. La alternativa OBJETIVAMENTE SUPERIOR ya esta en este mismo workbook: SOXX (fila 9) cubre el mismo tema subyacente de forma mas amplia, mas barata, pasiva/indexada y con 25 anios de historial probado. No hay ningun escenario de rol de portafolio (ni Core, ni Satelite, ni Tactico) que justifique el riesgo estructural combinado de EUV en su estado actual."
+  }
+}

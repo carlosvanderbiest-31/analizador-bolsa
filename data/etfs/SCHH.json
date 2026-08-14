@@ -1,0 +1,225 @@
+{
+  "nombre": "Schwab U.S. REIT ETF",
+  "ticker": "SCHH",
+  "categoria": "Equity Tematico/Factor (REITs de EEUU, Dow Jones Equity All REIT Capped Index - EXCLUYE mortgage/hybrid/timber REITs por metodologia explicita - PRIMER fondo del sector inmobiliario/REIT de este workbook de ETFs. Prologis -PLD-, American Tower -AMT- y Welltower -WELL- son las TRES posiciones top-6 del fondo -WELL #1 con 10.84%- y las TRES ya fueron analizadas individualmente en el proyecto hermano de acciones con la metodologia especifica de REITs -FFO/AFFO via DDM-)",
+  "emisor": "Charles Schwab",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica fisica completa, sin swaps ni contraparte. Metodologia con EXCLUSIONES EXPLICITAS: quita mortgage REITs, hybrid REITs y la mayoria de REITs de propiedad no-directa -financieras, net-lease, timber, hibridas- para mantener exposicion PURA a equity-REITs. Topes: emisor individual 10%, peso agregado de emisores >4.5% limitado a 22.5%.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, Schwab Strategic Trust, RIC estandar bajo la Investment Company Act de 1940.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$11.4-11.5bn - solido, aunque menor que VNQ -Vanguard, no analizado, ~$37.7bn, ~3.3x mayor-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 13-ene-2011 (~15.58 anios) - **NO CUBRE la Crisis Financiera 2008**, cuando los REITs historicamente fueron de los sectores MAS golpeados -vacio de dato relevante dado el perfil de riesgo conocido del sector-. Cubre COVID y el ciclo de alzas de tasas 2022.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Charles Schwab - mismo emisor de bajo costo que SCHD -ya en el workbook, el score mas alto del proyecto- y SCHF.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.07% - muy barato para un fondo sectorial REIT, mas barato incluso que VNQ -0.13%, no analizado-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Replica fisica completa de un indice con reglas de exclusion explicitas bien definidas - tracking ajustado esperado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "RIC estandar, no verificado si presta valores esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo periodico para mantener cumplimiento de topes -emisor individual 10%, agregado >4.5% limitado a 22.5%- - mecanismo disciplinado, turnover moderado implicito.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~1.29M acciones/dia (~$30.6M/dia) - solido, buena liquidez para un fondo sectorial especifico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread ~0.04% -mediana 30 dias- - ajustado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no encontrado con cifra exacta esta sesion - vacio de dato.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Charles Schwab, emisor establecido de bajo costo -SCHD/SCHF ya en el workbook-.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "121 holdings - genuinamente diversificado a traves del universo REIT.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 50.43% del NAV - concentracion moderada, razonablemente diversificado para un fondo sectorial.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% REITs por definicion, PERO genuinamente diversificado DENTRO del sector inmobiliario: salud -WELL, VTR-, industrial -PLD-, data centers -DLR, EQIX-, torres celulares -AMT-, retail -SPG, O-, self-storage -PSA-, especializado -IRM-. Ninguna cifra de sub-sector numerica encontrada esta sesion, solo inferible de los holdings.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% REITs de EEUU por alcance explicito del indice, aunque varios holdings -AMT, EQIX, PLD, DLR- tienen activos/operaciones internacionales significativos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sector Real Estate/REITs - exposicion de clase de activo genuinamente distinta -parcialmente sensible a tasas como un bono, parcialmente equity-, PRIMERA de este tipo en el workbook de ETFs.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Dow Jones Equity All REIT Capped Index - metodologia de exclusion explicita y razonada -mantiene pureza equity-REIT-, mas disciplinada que un simple cap-weighting.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo periodico para mantener cumplimiento de topes de concentracion - mecanismo estandar y disciplinado.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.57
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y +17.23% -solido-, 3Y anualizado +12.44% -fuerte recuperacion reciente-, PERO **5Y anualizado solo +3.94% y 10Y anualizado solo +3.95%** - **genuinamente DEBIL en el mediano/largo plazo**, refleja la decada dificil de los REITs -crash COVID + ciclo de alzas de tasas 2022-, desde inception -15.58 anios- +6.95-7.16% anualizado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $20.63-$25.03 (ratio 1.213x) - moderado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown **-44.22%** en el crash COVID -23-mar-2020- - severo, consistente con la vulnerabilidad conocida de los REITs al estres inmobiliario/de confinamiento. Retorno calendario 2022 **-24.99%** -ciclo de alzas de tasas de la Fed- - tambien notablemente malo, confirma la sensibilidad genuina a tasas. **SIN datos de la Crisis 2008**, cuando los REITs fueron historicamente de los sectores mas castigados -vacio de dato relevante dado el perfil de riesgo conocido del sector-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ~1.42 -trailing 12 meses- a ~1.13 -1 anio, variacion de fuente- - solido en el corto plazo, refleja el rally actual mas que un perfil estable de largo plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.95 vs S&P 500 - cercano a 1.0, moderado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "COVID -44.22% -estres real de confinamiento sobre bienes raices- + 2022 -24.99% -ciclo de alzas de tasas, confirma la sensibilidad real a tasas de los REITs- - ambos bien documentados y coherentes con el perfil de riesgo conocido del sector, PERO la AUSENCIA de datos de la Crisis 2008 -el sector mas golpeado ese anio historicamente- es una limitacion real.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 29.11x -stockanalysis- a 36.92-36.57x -otros agregadores, conflicto notable- - rico por cualquier medida, PERO **el P/E NO es la metrica ideal para REITs** -el propio proyecto hermano de acciones ya establecio que P/FFO o P/AFFO es mas relevante para este tipo de activo, no encontrado en fuentes de ETF esta sesion- - limitacion metodologica real, no solo un dato faltante.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield 2.78% -2.66-2.81% segun fuente- TTM, trimestral, payout ratio 81.68% -tipico REIT dado el requisito legal de distribuir 90%+ del ingreso gravable-, **NOTABLEMENTE MENOR que VNQ -3.52-3.57%, no analizado-** por la exclusion de REITs hipotecarias/hibridas de mayor yield.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**PRIMER FONDO REIT/inmobiliario del workbook de ETFs, con un puente genuinamente rico al proyecto hermano de acciones**: Prologis -PLD- 8.58%, American Tower -AMT- 4.06% y Welltower -WELL- 10.84%, **#1 posicion del fondo**, son las TRES posiciones top-6 de SCHH, y las TRES ya fueron analizadas individualmente en el proyecto de acciones con la metodologia especifica de REITs alli establecida -FFO/AFFO via DDM al costo de equity en vez de DCF FCFF estandar, gotcha de beta bajo degenerado documentado con AMT, leccion de historial de recorte de dividendo 2020 documentada con WELL-. Tambien comparable a VNQ -Vanguard, NO analizado en este workbook, ~3.3x mas grande, yield mas alto -3.52-3.57%- pero TER mas caro -0.13%- e incluye mortgage REITs que SCHH excluye por diseno- y a XLRE -State Street/SPDR Real Estate, tampoco analizado-, mismo patron de comparables 'mas barato/puro vs mas grande/amplio' ya establecido en el proyecto con XLP-vs-IYK y XLB-vs-IYM. | ACTUALIZACION posterior (VNQ, fila 120): ahora analizado con datos propios. VNQ -el ETF REIT mas grande del mundo, $39.3bn a $59.5-71.4bn segun alcance- LLENA POR COMPLETO el vacio de dato de Crisis 2008 de SCHH -Max Drawdown verificado -68.3% a -73.1%, ~3.5 anios de recuperacion-. Comparacion genuinamente MATIZADA -no un barrido limpio-: VNQ gana en AUM/historia/amplitud/yield -3.57% vs 2.66-2.78%-, PERO PIERDE en costo -TER 0.13% vs 0.07%- y en desempeno reciente -1Y/3Y/5Y todos mas debiles que SCHH, solo gana en 10Y-. Welltower/Prologis/American Tower confirmados Top-5 tambien en VNQ. Score VNQ 3.42 vs SCHH 3.39, practicamente empatados. Ver Ficha VNQ fila 120 para el detalle completo. | ACTUALIZACION posterior (IYR, fila 121): completa la comparacion de tres vias REIT del proyecto. IYR es el MAS ANTIGUO -jun-2000, predata Crisis 2008 completa, Max Drawdown verificado -71% a -74% con la recuperacion mas larga de los tres ~69 meses- pero tambien el MAS CARO -TER 0.38%, ~5.4x SCHH/~3x VNQ- y PARADOJICAMENTE el mas liquido pese al AUM mas pequeno -uso tactico/opciones, no buy-and-hold-. Welltower/Prologis/American Tower confirmados tambien en IYR. Score IYR 3.21, por debajo de ambos. Ver Ficha IYR fila 121 para el detalle completo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **SATELITE de renta/diversificacion** - los REITs ofrecen un beneficio de diversificacion genuino de clase de activo -sensibilidad parcial a tasas tipo bono + cobertura potencial de inflacion via activos reales- que ningun otro fondo de este workbook de ETFs replica.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion diversificada y de bajo costo a REITs de EEUU, con un viento de cola favorable actual -la Fed recorto tasas 3 veces desde sep-2025- y demanda genuina impulsada por IA/data centers para una porcion significativa del fondo -DLR, EQIX, PLD-, PERO el retorno 5Y/10Y debil es una complicacion honesta que muestra que los REITs han sido una clase de activo genuinamente dificil durante mas de una decada hasta el rally muy reciente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) retorno 5Y/10Y genuinamente DEBIL -+3.94%/+3.95% anualizado- pese al fuerte 1Y/3Y reciente; (2) drawdown COVID documentado -44.22%- y caida 2022 por ciclo de alzas de tasas -24.99%- confirman riesgo real de sensibilidad a tasas; (3) SIN datos de la Crisis 2008, el peor anio historico conocido para REITs, vacio real; (4) el P/E -unica metrica de valoracion disponible, 29-37x segun fuente- no es la metrica ideal para REITs, limitacion metodologica; (5) el viento de cola de recortes de tasas es un arma de doble filo - si el ritmo de recortes de la Fed se frena o revierte, los REITs podrian enfrentar presion renovada dado el precedente de 2022.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VNQ -Vanguard, NO analizado en el workbook, mas grande/mayor yield pero mas amplio -incluye mortgage REITs-, TER mas caro 0.13%- es el comparable pendiente mas relevante, mismo patron 'mas barato/puro vs mas grande/amplio' ya establecido con XLP-vs-IYK y XLB-vs-IYM. XLRE -State Street/SPDR Real Estate, tampoco analizado- seria otro comparable natural.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA - buena estructura/costo con un puente rico al proyecto de acciones, pero retorno medio/largo plazo debil y riesgo de tasas real. Score 3.39/5. Schwab U.S. REIT ETF, Dow Jones Equity All REIT Capped Index -excluye mortgage/hybrid/timber REITs por metodologia explicita-, **PRIMER fondo del sector inmobiliario/REIT de este workbook de ETFs**. TER 0.07%, muy barato, mas que VNQ -0.13%, no analizado-. AUM ~$11.4-11.5bn, solido aunque menor que VNQ -~3.3x mayor-. **Puente genuinamente rico al proyecto hermano de acciones**: Prologis -PLD, 8.58%-, American Tower -AMT, 4.06%- y Welltower -WELL, **#1 posicion del fondo con 10.84%**- son las TRES posiciones top-6 de SCHH, y las TRES ya fueron analizadas individualmente alli con la metodologia especifica de REITs -FFO/AFFO via DDM, no DCF FCFF estandar-. Retorno 1Y +17.23% y 3Y anualizado +12.44% solidos -recuperacion reciente-, PERO **5Y anualizado solo +3.94% y 10Y anualizado solo +3.95%**, refleja la decada dificil de los REITs -crash COVID -44.22%- y ciclo de alzas de tasas 2022 -24.99%-. **SIN datos de la Crisis 2008**, cuando los REITs fueron historicamente de los sectores mas castigados -vacio real dado el perfil de riesgo conocido del sector-. P/E -unica metrica de valoracion disponible, 29-37x segun fuente- NO es la metrica ideal para REITs -mismo principio ya establecido en el proyecto de acciones sobre P/FFO/P/AFFO-. Dividend yield 2.78%, notablemente menor que VNQ -3.52-3.57%- por la exclusion de REITs de mayor yield. Rol en Portafolio: Satelite de renta/diversificacion, beneficio de clase de activo genuino no replicado por ningun otro fondo del workbook de ETFs, aunque el viento de cola actual de recortes de tasas de la Fed es un arma de doble filo dado el precedente de 2022. VNQ y XLRE, ambos no analizados, son los comparables pendientes mas relevantes."
+  }
+}

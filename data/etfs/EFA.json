@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares MSCI EAFE ETF",
+  "ticker": "EFA",
+  "categoria": "Equity Indice Amplio (Europa+Australasia+Japon -EAFE, mismo universo que IEFA sin tramo small-cap-, MSCI EAFE - PRE-serie Core de BlackRock 2001, dominado en eficiencia por IEFA pero con la liquidez mas profunda del cluster desarrollado)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO OPTIMIZADO (Trackinsight).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, exposicion multi-pais EAFE (Europa+Australasia+Japon, EXCLUYE Corea del Sur y Canada por clasificacion MSCI) - mismo perfil de riesgo cambiario que IEFA.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$69.08-79.33bn (stockanalysis $79.33bn, Trackinsight EUR69.08bn~$75bn, otra fuente $72.92bn - consistentes) - solido, aunque MENOR que IEFA ($168-193bn).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 14-ago-2001 (~25 anios) - **EL MAS LARGO de los cuatro fondos desarrollados ex-US amplios del proyecto** (SCHF 16.8, VEA 19, IEFA 13.8), captura la Crisis Financiera 2008 DIRECTAMENTE desde antes de su inicio.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - VIGESIMOCUARTA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.32% - **EL MAS CARO de los cuatro fondos desarrollados ex-US amplios del proyecto** (SCHF/VEA 0.03%, IEFA 0.07%), aproximadamente 4.6x el costo de IEFA - fondo PRE-serie Core (2001, once anios antes del lanzamiento de la linea Core en 2012), mismo patron de pricing legado ya documentado extensamente con ACWX/EZU/FXI/EEM.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI EAFE - rebalanceo tipicamente trimestral, no confirmado con fuente primaria especifica de EFA esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = 10.54-16M acciones/dia, descrito explicitamente como **'liquidez sin rival entre los ETFs EAFE'** - la mas alta de los fondos desarrollados ex-US del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion, se infiere extremadamente ajustado dado el volumen extremo verificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion (se menciono un premium historico de +3.16% en dic-2008, epoca de estres extremo de mercado, y un descuento de -0.33% a fin de 2009).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants MAXIMA, reforzada por ser el vehiculo EAFE de referencia del mercado.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "676 (Trackinsight) a 699 (stockanalysis) holdings - **EL MENOR de los cuatro fondos desarrollados ex-US amplios del proyecto** (SCHF 1,429+, VEA 3,856+, IEFA 2,616+), refleja el indice MSCI EAFE ESTANDAR sin tramo small-cap.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 13.67% - similar a IEFA (11.96%), bajo, buena diversificacion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Finance 26.59%, Industrials 15.91%, Technology 14.09% - **practicamente IDENTICO a IEFA** (26.11%/16.39%/13.77%), confirma que comparten el mismo universo base.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia primaria: Japon, Reino Unido y Suiza - **MISMA composicion que IEFA** (ambos siguen el mismo indice base MSCI EAFE, EFA sin el tramo small-cap adicional de IEFA).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Blend puro, sin sesgo de factor.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI EAFE (estandar, sin small-cap) - mismo proveedor MSCI que IEFA pero version mas estrecha, mismo tipo de relacion 'estandar vs IMI' ya documentada con EZU/IEUR y ACWX/IXUS en clusters anteriores.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de EFA esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (25 anios) = 5.572% (a mar-2025) a 5.75% (ventana mal etiquetada, ver fila 40) anualizado. 10Y = 10.26% anualizado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad = 16.44% - **una fuente etiqueto erroneamente la ventana como 'ultimos 30 anios' cuando el fondo real solo tiene 25 anios de existencia - CUARTA INSTANCIA CONFIRMADA del mismo gotcha de duracion mal etiquetada** ya documentado con VGK, EWJ y EFV, refuerza que es un patron sistematico de ciertas fuentes de datos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -61.0% (a mar-2025) a -57.38% (ventana mal etiquetada) - **MUCHO MAS SEVERO que IEFA (-34.78%)**, explicado DIRECTAMENTE por la ventana mas larga que SI incluye la Crisis Financiera 2008 completa (EFA nacio en 2001, IEFA en 2012, 11 anios despues).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio no verificado con cifra especifica confiable esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.78. **OVERLAP CONFIRMADO, MISMO PERFIL QUE IEFA**: SOLO ASML (2.98-3.52%) - SIN Samsung NI SK hynix, dado que EFA comparte el MISMO indice base MSCI EAFE (excluye Corea del Sur) que IEFA - overlap notablemente menor que SCHF/VEA (que si incluyen Corea via clasificacion FTSE).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "25 anios de historial - **la ventana MAS LARGA del cluster desarrollado ex-US del proyecto**, cubre la Crisis Financiera 2008 DIRECTAMENTE (a diferencia de SCHF/IEFA), la crisis de deuda soberana europea 2010-2012, COVID 2020, y el rally reciente.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 17.83x - similar al resto del cluster desarrollado ex-US del proyecto (~17-18x). Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = ~3% (3.12% o 2.69% segun fuente, discrepancia menor) - similar a IEFA (3.27%). Distribucion SEMESTRAL.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION DIRECTA Y MAS LIMPIA CON IEFA (fila 71, ya en el workbook)**: EFA e IEFA comparten el MISMO indice base (MSCI EAFE) - IEFA simplemente anade el tramo small-cap via metodologia IMI. EFA es ~4.6x mas caro (0.32% vs 0.07%), tiene MENOS holdings (676-699 vs 2,616-2,642), y un Max Drawdown mucho peor (explicado por su ventana mas larga que SI incluye la Crisis 2008) - PERO tiene la liquidez mas profunda del cluster desarrollado ex-US del proyecto ('liquidez sin rival entre ETFs EAFE') y 11 anios mas de historial. Mismo patron de dominancia en eficiencia ya documentado con ACWX/EZU/FXI/EEM en clusters anteriores del proyecto.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Core - mismo tratamiento que SCHF/VEA/IEFA, pero el mas DEBIL de los cuatro en eficiencia pura de costo/diversificacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: acceso al MISMO universo EAFE que IEFA (sin Corea del Sur/Canada), con la liquidez institucional mas profunda del cluster desarrollado ex-US - mismo patron de 'dominado en eficiencia pero con nicho de liquidez/historial' ya visto con ACWX/EZU/FXI/EEM en clusters anteriores del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) TER el mas alto del cluster desarrollado ex-US del proyecto (0.32%, ~4.6x IEFA); (2) menor diversificacion interna (sin tramo small-cap, indice estandar en vez de IMI); (3) Max Drawdown historico severo (-61.0%, aunque SI refleja la Crisis 2008 real, a diferencia del numero mas favorable pero menos representativo de SCHF/IEFA); (4) overlap via ASML (mismo que IEFA); (5) riesgo cambiario multi-divisa.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "IEFA (fila 71, ya analizado, claramente MAS EFICIENTE para un inversor de largo plazo) es la alternativa mas directa dentro del workbook - ver comparacion completa en fila 50. SCHF (fila 69) y VEA (fila 70) tambien comparables.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score 3.52/5 - justo por encima del umbral 'alto' del marco de decision del proyecto (>=3.5), con calidad estructural solida (BlackRock, el track record MAS LARGO del cluster desarrollado ex-US del proyecto -25 anios, unico que cubre la Crisis 2008 DIRECTAMENTE- y la liquidez MAS PROFUNDA de todo el cluster, descrita explicitamente como 'sin rival entre ETFs EAFE'). Sin embargo, EFA e IEFA (fila 71, ya en el workbook) comparten LITERALMENTE el mismo indice base (MSCI EAFE) - IEFA simplemente anade el tramo small-cap via metodologia IMI. EFA es ~4.6 VECES MAS CARO que IEFA (TER 0.32% vs 0.07%), tiene MENOS de un tercio de sus holdings (676-699 vs 2,616-2,642), y su Max Drawdown mucho peor (-61.0% vs -34.78%) se explica enteramente por la ventana mas larga que SI incluye la Crisis 2008 (EFA nacio en 2001, IEFA en 2012). Dado que IEFA ya ocupa el rol de version EFICIENTE de este MISMO universo EAFE en el workbook, sumar EFA no aporta diversificacion incremental real - mismo patron de dominancia en eficiencia ya documentado con ACWX/EZU/FXI/EEM en clusters anteriores del proyecto. El overlap via ASML (2.98-3.52%) es identico en perfil al de IEFA (ambos excluyen Corea del Sur por la misma clasificacion MSCI). Se confirmo ademas una CUARTA instancia del gotcha de duracion mal etiquetada ya documentado con VGK/EWJ/EFV (una fuente reporto volatilidad de '30 anios' para un fondo de solo 25 anios reales). Rol en Portafolio: Core. Alternativa mas eficiente en el workbook: IEFA (fila 71)."
+  }
+}

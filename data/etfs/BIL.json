@@ -1,0 +1,224 @@
+{
+  "nombre": "SPDR Bloomberg 1-3 Month T-Bill ETF",
+  "ticker": "BIL",
+  "categoria": "Renta Fija Gobierno - T-Bills de EEUU, duracion casi nula (~0.14 anios / 5-6 semanas), equivalente de efectivo",
+  "emisor": "State Street (SPDR)",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA, practicamente COMPLETA dado un universo pequeno de solo 20-23 T-Bills del Tesoro con vencimiento de 1-3 meses.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US. 100% T-Bills directos del Tesoro de EEUU - misma exencion de impuestos estatales/locales ya documentada con TLH/VTIP/GOVT/VGSH/TLT.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $47.08bn (stockanalysis, 10-ago-2026) - **EL AUM MAS ALTO entre los fondos de renta fija de gobierno 'puro' del proyecto** (supera a TLT $41.64bn y GOVT $43.70bn) - refleja el atractivo institucional enorme de un vehiculo cuasi-efectivo de alta liquidez.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 25-may-2007 (~19.2 anios) - similar vintage a HYG/TLH/MBB (2007), cuarto track record mas largo de renta fija del proyecto tras LQD/TLT (24.1 anios).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor State Street (SPDR) - QUINTA aparicion en el proyecto (XOP, XLU, XLK, XLE, ahora BIL).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.14% - **relativamente CARO para un fondo cuasi-efectivo**, notablemente mas caro que competidores directos de la misma categoria como SGOV (iShares 0-3 Month Treasury, TER mas bajo) - una 'prima de conveniencia' de BIL como el T-Bill ETF mas grande y establecido del mercado sobre alternativas mas baratas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion (el fact sheet de SSGA/State Street se descargo pero no se pudo extraer en formato legible).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending revenue no verificado con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Turnover implicitamente MUY ALTO por diseno (T-Bills de 1-3 meses vencen y se renuevan constantemente, aprox cada mes) aunque no se encontro una cifra exacta con fuente primaria esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = 7,511,550 acciones (stockanalysis) x $91.48/accion = aprox $687.3M/dia - sustancial, uno de los mas liquidos del grupo de renta fija de gobierno del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask exacto no verificado con precision, pero el volumen sustancial sugiere un spread ajustado tipico de un vehiculo cuasi-efectivo institucional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Fondo enorme, emisor mayor (State Street) - profundidad de Authorized Participants excelente.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "20-23 holdings - de los NUMEROS MAS BAJOS del proyecto en renta fija, coherente con un universo genuinamente pequeno de T-Bills de solo 1-3 meses de vencimiento (a diferencia de TMF, cuyo bajo numero de holdings reflejaba un producto derivado, aqui refleja simplemente la angostura natural de la categoria).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 holdings no calculado con precision esta sesion; dado que son T-Bills homogeneos de muy corto plazo del mismo emisor unico, el mismo matiz metodologico ya establecido con TLH/GOVT/VGSH/VTIP aplica con maxima fuerza aqui.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% Gobierno de EEUU (T-Bills directos del Tesoro) - maxima calidad y liquidez posible.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% deuda soberana de EEUU - sin diversificacion geografica por diseno de la categoria.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "El 'factor' es DURACION CASI NULA (~0.14 anios, 5-6 semanas) - **LA DURACION MAS CORTA DE TODO EL PROYECTO POR UN MARGEN ENORME** (la anterior mas corta era VGSH, 1.9 anios - BIL es aprox 13 veces mas corta) - BIL es, en la practica, un equivalente de efectivo/money market institucional, no un 'bono' en el sentido tradicional del resto del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Bloomberg US Treasury Bills 1-3 Month Index - metodologia simple y transparente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas de rebalanceo no confirmadas con fecha exacta esta sesion, aunque implicitamente continuas/mensuales dado el vencimiento constante de las posiciones subyacentes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.14
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +3.78% (stockanalysis, ago-2026), desde inception (19.2 anios) = +1.41% anualizado - **la brecha entre ambas cifras es informativa**: el retorno desde inception promedia dos decadas que incluyen el periodo prolongado de tasas CERO (2009-2021), mientras el retorno reciente (1yr) refleja el nivel de tasas cortas actual, mucho mas alto - BIL sigue de cerca la tasa de politica monetaria vigente en cada momento, sin acumular ni destruir valor por movimientos de precio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad = 0.07% (PortfoliosLab) - **ACEPTADA CON CONFIANZA**, coherente con el Max Drawdown de -0.78% (fila 41) y con la duracion casi nula del fondo - primera vez en varias sesiones que una cifra tan extrema de PortfoliosLab resulta genuinamente creible sin necesidad de escrutinio adicional, dado que BIL es por diseno el activo de menor riesgo de precio posible dentro del universo de renta fija.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "**Max Drawdown = -0.78% desde inception (PortfoliosLab) - EL MENOR (MEJOR) DE TODO EL PROYECTO POR UN MARGEN ENORME**, nuevo record absoluto (el anterior record era VGSH, -5.70% - BIL es mas de 7 veces menos severo) - coherente con ser esencialmente un instrumento de preservacion de capital puro sin exposicion practica a riesgo de tasa o credito.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "**Sharpe Ratio = aprox 19.09-19.39 (PortfoliosLab) - cifra extrema que requiere una salvedad metodologica EXPLICITA**: esta cifra NO debe interpretarse como 'el mejor retorno ajustado a riesgo de todo el proyecto' en un sentido significativo - es un artefacto conocido del calculo de Sharpe cuando se aplica a un activo que ES, en la practica, la propia tasa libre de riesgo: tanto el 'exceso de retorno' como la volatilidad tienden a cero, produciendo una razon numericamente inestable y poco informativa. Se documenta la cifra por transparencia pero se advierte explicitamente contra sobre-interpretarla.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.00 (stockanalysis) - **NUEVO RECORD ABSOLUTO DE BETA MAS BAJO DE TODO EL PROYECTO** (el anterior record era VGSH, 0.05) - BIL es, por diseno, el activo mas descorrelacionado posible del mercado de acciones, la version definitiva del 'ballast' de renta fija del proyecto. Overlap con acciones individuales: NO APLICA (100% T-Bills soberanos de EEUU).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "19.2 anios de historial - cubre la crisis financiera 2008 COMPLETA (con el comportamiento clasico de 'cash es rey' durante la crisis, la maxima expresion de flight-to-quality del proyecto), el prolongado periodo de tasas CERO 2009-2021, la correccion COVID 2020, y el ciclo de alzas de tasas 2022-2026 (el UNICO periodo del ciclo de alzas que BENEFICIO directamente a BIL en vez de perjudicarlo, a diferencia de TODOS los demas ETFs de renta fija del proyecto con duracion positiva).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.17
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "No aplica - BIL es un fondo 100% renta fija de muy corto plazo (equivalente de efectivo), sin componente de equity.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield TTM = 3.76% (stockanalysis) - distribucion MENSUAL, sigue de cerca la tasa de politica monetaria vigente de la Fed en el tramo mas corto de la curva.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "Duracion efectiva ~0.14 anios (5-6 semanas) - la mas corta de todo el proyecto por un margen enorme. Calidad crediticia: 100% Gobierno de EEUU directo (T-Bills) - la maxima calidad y liquidez posible de cualquier instrumento del mercado de renta fija global.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "El concepto tradicional de 'valoracion' (percentil de spread de credito, percentil de duracion vs promedio historico) NO APLICA de forma significativa a BIL: al no tener practicamente riesgo de tasa ni de credito, su 'yield' es esencialmente un reflejo directo y casi instantaneo de la tasa de politica monetaria de la Fed vigente, no un precio de mercado que pueda estar 'caro' o 'barato' en el sentido usado para el resto del proyecto. Competidor directo identificado: SGOV (iShares 0-3 Month Treasury, TER mas barato).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Equivalente de efectivo puro, preservacion de capital absoluta con el yield de la tasa de politica monetaria vigente. Se clasifica como **'Cobertura'** (sexta vez que se usa esta categoria en el proyecto, junto a VCSH, TLH, VTIP, GOVT, VGSH) - la version MAS EXTREMA de esta categoria en todo el workbook, superando incluso a VGSH en conservadurismo dado sus records de menor drawdown y menor beta.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: reserva de liquidez/efectivo con rendimiento tipicamente superior a una cuenta corriente tradicional o fondos money market minoristas, sin riesgo de tasa ni de credito practico - funcion de 'polvora seca' o preservacion de capital de corto plazo, no de generacion de retorno de largo plazo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo de tasa de interes ESENCIALMENTE NULO (duracion de semanas); (2) TER relativamente caro para la categoria (0.14% vs competidores mas baratos como SGOV); (3) riesgo de REINVERSION si la Fed baja las tasas (el yield de BIL caeria rapidamente, a diferencia de un bono de mayor duracion que 'blocked' un yield mas alto por mas tiempo); (4) tributacion como ingreso ordinario federal (exento de impuestos estatales/locales).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SGOV (iShares 0-3 Month Treasury, TER mas barato), SHV (iShares Short Treasury) y fondos money market tradicionales identificados como alternativas, sin comparacion con datos propios verificados esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 4.00/5 - de los MAS ALTOS del proyecto (empata con VCIT), resultado de records estructurales y de riesgo EXTREMOS: **TRES NUEVOS RECORDS ABSOLUTOS DE TODO EL PROYECTO**: Max Drawdown MAS BAJO (-0.78%, supera a VGSH -5.70% por un margen enorme), Beta MAS BAJO (0.00, supera a VGSH 0.05), y duracion MAS CORTA (~0.14 anios / 5-6 semanas, aprox 13x mas corta que VGSH). AUM el mas alto entre los fondos de renta fija de gobierno puro del proyecto ($47.08bn). BIL es, en efecto, el equivalente de efectivo institucional del proyecto, no un 'bono' en el sentido tradicional de duracion/credito ya analizado en el resto del workbook. **Salvedad metodologica importante**: una cifra de Sharpe ~19 (PortfoliosLab) se documenta pero se advierte explicitamente que es un artefacto del calculo cuando se aplica a un activo que ES esencialmente la tasa libre de riesgo, no una senal genuina de 'mejor retorno ajustado a riesgo' comparable al resto del proyecto. Unico riesgo real: TER relativamente caro para la categoria (0.14% vs competidores como SGOV) y riesgo de reinversion si la Fed recorta tasas (el yield de BIL caeria rapido, sin el 'lock-in' de un bono de mayor duracion). Es ademas el UNICO ETF de renta fija con duracion positiva del proyecto que se BENEFICIO directamente del ciclo de alzas de tasas 2022-2026 en vez de sufrirlo, a diferencia de TODOS los demas (VCSH/VCLT/VCIT/LQD/HYG/TLH/GOVT/VGSH/MBB/TLT). Rol en Portafolio: 'Cobertura' - la version MAS EXTREMA y conservadora de esta categoria en todo el workbook."
+  }
+}

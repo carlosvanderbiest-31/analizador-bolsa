@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares International Select Dividend ETF",
+  "ticker": "IDV",
+  "categoria": "Equity Tematico/Factor (alto dividendo, mercados DESARROLLADOS ex-US -EPAC: Europa/Australasia/Canada- - competidor directo de VYMI ya en el workbook)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO OPTIMIZADO (Trackinsight).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, exposicion a mercados DESARROLLADOS ex-US (EPAC: Europa, Australasia, Canada) - riesgo cambiario multi-divisa no cubierto + retencion fiscal variable por pais sobre dividendos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$8.03-8.47bn - solido, similar orden de magnitud a EWY/EWJ, notablemente MENOR que VYMI ($20-21bn, ya en el workbook, fila 6).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 11-jun-2007 (~19.2 anios) - cubre la Crisis Financiera 2008 DIRECTAMENTE desde su nacimiento (impacto maximo dado el peso financiero del fondo), mas largo que VYMI (10.5 anios).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - VIGESIMA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.50% - **NOTABLEMENTE MAS CARO que VYMI (0.07%), aproximadamente 7 VECES el costo** - mismo patron de dominacion en eficiencia ya documentado repetidamente en el proyecto (ACWX/EZU/FXI/EEM frente a sus equivalentes mas baratos).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice Dow Jones EPAC Select Dividend - metodologia de SELECCION anual de los 100 mejores pagadores de dividendo (no un tilt ponderado sobre un universo amplio), rebalanceo tipicamente anual, no confirmado con fuente primaria especifica de IDV esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = 773K-937K acciones/dia (dos fuentes con cifras cercanas) - MODERADO, notablemente MENOR que la mayoria de fondos del cluster de nueva geografia del proyecto (que tipicamente mostraban millones de acciones/dia).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Cifra de spread bid-ask de '6.12%' encontrada esta sesion es CLARAMENTE IMPLAUSIBLE para un fondo de $8bn AUM (equivaldria a una liquidez de accion penny, no de un ETF establecido) - DESCARTADA explicitamente, sin alternativa confiable encontrada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "98 (Trackinsight) a 126 (stockanalysis) holdings - **MUCHO MENOS que VYMI** (1,535-1,628), refleja una metodologia de 'seleccion de los 100 mejores pagadores' en vez de un tilt de dividendo aplicado a un universo amplio como VYMI.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 27.27% - **MAS CONCENTRADO que VYMI** (13.5%), consistente con la metodologia de seleccion mas estrecha.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Finance 36.01% + Energy 17.38% = ~53% combinado en dos sectores - concentracion sectorial alta, tipica de estrategias de alto dividendo internacional (bancos, petroleras, telecomunicaciones, utilities son los pagadores tradicionales mas generosos).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia primaria: Reino Unido, Francia y Espana - cobertura de mercados DESARROLLADOS solamente (EPAC), **MAS ESTRECHA que VYMI** (FTSE All-World ex-US, que incluye tambien mercados emergentes).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sesgo value/alto dividendo EXTREMO por diseño (selecciona explicitamente los 100 MEJORES pagadores del universo, no solo aplica un tilt), un sesgo de estilo mas pronunciado que el de VYMI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Dow Jones EPAC Select Dividend - metodologia de SELECCION (top 100 por yield) en vez de ponderacion por dividendo sobre un universo amplio como el FTSE All-World High Dividend Yield que sigue VYMI - transparente pero estructuralmente mas concentrada por diseño.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de IDV esta sesion (tipicamente revision anual para indices Dow Jones Select Dividend).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (19.2 anios) = 4.7% anualizado - **DEBIL**, refleja el impacto directo de la Crisis 2008 (el fondo nacio justo antes del colapso) y mas de una decada de underperformance del value/dividendo internacional. PERO 3Y anualizado = **+23.4%** y 5Y anualizado = **+12.4% - FUERTE recuperacion reciente**, consistente con la rotacion hacia value/dividendo ya documentada extensamente en el proyecto (SCHD/VTV).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad = 23.1% (desde inception a dic-2024, fuente con fecha especifica) - moderada-alta, plausible dado el peso financiero/energia del fondo. Cifras alternativas de 3.47%/4.82% DESCARTADAS por implausibles (mismo gotcha recurrente ya documentado extensamente en el proyecto).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -70.14% desde inception - **SEVERO**, refleja directamente el impacto de la Crisis Financiera 2008 en un fondo con peso extremo en financieras (36% del fondo) justo en el momento de su lanzamiento.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio desde inception (a dic-2024) = **0.05 - EXTREMADAMENTE BAJO**, uno de los mas bajos de todo el proyecto (orden similar a EWJ, 0.09, por las 'decadas perdidas' japonesas) - refleja el doble golpe de nacer justo antes de la Crisis 2008 Y sufrir mas de una decada de underperformance value/dividendo internacional frente a growth. Cifra reciente = 2.10 (inflada, mismo gotcha ya documentado repetidamente).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.66 - moderado-bajo. **SIN OVERLAP DETECTADO** con el Dashboard de acciones individuales del usuario - ninguno de los top10 (TotalEnergies, British American Tobacco, Enel, Rio Tinto, Eni, Telefonica, Mercedes-Benz, Zurich Insurance, ING Groep, Repsol) coincide (Telefonica aparece unicamente como referencia de CLIENTE en la ficha de otra empresa del Dashboard -una REIT de torres-, no como su propia posicion analizada).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "19.2 anios de historial cubren la Crisis Financiera 2008 DIRECTAMENTE desde su inicio (impacto maximo dado el peso financiero del 36%), la crisis de deuda soberana europea 2010-2012 (relevante dado el peso de Reino Unido/Francia/Espana en el fondo), COVID 2020, y el rally reciente de value/dividendo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 11.69x - **notablemente barato**, uno de los mas bajos del proyecto (mas barato incluso que VYMI, 13.46x), coherente con el sesgo value/dividendo extremo del fondo (bancos, energia, telecom tradicionalmente cotizan a multiplos bajos).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = **5.12% - UNO DE LOS MAS ALTOS DE TODO EL PROYECTO**, notablemente MAYOR que VYMI (3.44-3.48%), reflejo directo de la metodologia de 'seleccion de los mejores pagadores' en vez de un tilt mas moderado. Distribucion TRIMESTRAL.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION IMPLICITA con VYMI (fila 6, ya en el workbook desde el inicio del proyecto)** - ambos son fondos de alto dividendo internacional ex-US, pero VYMI es notablemente MAS EFICIENTE: 7x mas barato (0.07% vs 0.50%), 12-16x mas holdings (1,535-1,628 vs 98-126), menos concentrado (13.5% vs 27.27% top10), y cubre TAMBIEN mercados emergentes (FTSE All-World ex-US, mientras IDV solo cubre EPAC desarrollado). IDV compensa parcialmente con un yield notablemente mas alto (5.12% vs 3.44-3.48%) y un P/E mas barato (11.69x vs 13.46x), reflejo de su metodologia de seleccion mas concentrada en los mejores pagadores actuales. Candidato adicional sin verificar: SCHY (Schwab International Dividend Equity).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Satelite - tesis de alto dividendo internacional CONCENTRADO, parcialmente redundante con VYMI ya en el workbook pero con un angulo de yield mas extremo y una concentracion geografica solo en mercados desarrollados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: acceso concentrado a los 100 mejores pagadores de dividendo de mercados desarrollados ex-US, con yield excepcionalmente alto (5.12%) y valoracion barata (P/E 11.69x) - pero VYMI ya cubre una tesis similar de forma mas eficiente y diversificada en este mismo workbook.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentracion sectorial en financieras+energia (~53% combinado); (2) Max Drawdown historico severo (-70.14%, impacto directo de la Crisis 2008); (3) Sharpe de largo plazo extremadamente bajo (0.05); (4) redundancia parcial con VYMI ya en el workbook, mas eficiente en casi toda dimension salvo yield; (5) riesgo cambiario multi-divisa; (6) riesgo de 'yield trap' inherente a la metodologia 'select dividend' -selecciona por yield actual sin un filtro de calidad/sostenibilidad explicito, un dividendo muy alto puede reflejar una accion deprimida en vez de generosidad genuina-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VYMI (fila 6, ya analizado, mas eficiente en casi toda dimension salvo yield - ver comparacion completa en fila 50) y SCHY (Schwab International Dividend Equity) identificado sin datos propios verificados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.24/5 - zona intermedia del marco de decision del proyecto (3.0-3.5, mismo tratamiento ya aplicado a FXI/EEM/ILF/ASHR). IDV es un competidor directo de VYMI (fila 6, ya en el workbook desde el inicio del proyecto) para la tesis de alto dividendo internacional ex-US, pero notablemente MENOS eficiente: 7 veces mas caro (TER 0.50% vs 0.07%), con 12-16 veces menos holdings (98-126 vs 1,535-1,628), mas concentrado (Top10 27.27% vs 13.5%), y con cobertura solo de mercados DESARROLLADOS (EPAC) frente al universo mas amplio de VYMI (FTSE All-World ex-US, incluye tambien emergentes). Como contrapartida real, IDV ofrece un yield notablemente mas alto (5.12% vs 3.44-3.48% de VYMI, uno de los mas altos de todo el proyecto) y un P/E mas barato (11.69x vs 13.46x), reflejo de su metodologia de 'seleccion de los 100 mejores pagadores' en vez de un tilt de dividendo mas moderado sobre un universo amplio. El perfil de riesgo historico es duro: Max Drawdown -70.14% y Sharpe desde inception de solo 0.05 (uno de los mas bajos del proyecto), ambos explicados por el nacimiento del fondo justo antes de la Crisis Financiera 2008 con un peso extremo en financieras (36% del fondo). La recuperacion reciente es fuerte (3Y anualizado +23.4%, 5Y +12.4%), consistente con la rotacion hacia value/dividendo ya documentada en el proyecto con SCHD/VTV. Sin overlap detectado con el Dashboard de acciones individuales. Rol en Portafolio: Satelite. Dado que VYMI ya cubre una tesis similar de forma mas eficiente en este workbook, sumar IDV solo se justificaria por la busqueda especifica de un yield mas alto, no por diversificacion incremental real."
+  }
+}

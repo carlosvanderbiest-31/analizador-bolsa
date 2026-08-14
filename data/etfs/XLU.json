@@ -1,0 +1,224 @@
+{
+  "nombre": "Utilities Select Sector SPDR Fund",
+  "ticker": "XLU",
+  "categoria": "Equity Sector (utilities reguladas: electricas, multi-utilities, gas, agua - GICS completo)",
+  "emisor": "State Street (SPDR)",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA (el fondo invierte 'substantially all, but at least 95%' de sus activos en los componentes del indice) - practicamente completa.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "100% empresas US (indice sectorial GICS Utilities del S&P 500) - sin friccion fiscal internacional, el perfil de domicilio mas limpio posible.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $22.98-23.1bn segun fuente (muy consistente) - uno de los fondos MAS GRANDES del proyecto, solo detras de SCHD ($105bn) y SMH ($71.5bn).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 16-dic-1998 (~27.7 anios) - **NUEVO TRACK RECORD MAS LARGO DEL PROYECTO**, supera a SOXX (25.1 anios, el anterior record). Uno de los ETFs sectoriales SPDR originales, entre los primeros ETFs sectoriales del mercado estadounidense.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor State Street (SPDR) - SEGUNDA aparicion en el proyecto (XOP, ahora XLU). Creador del primer ETF de la historia (SPY, 1993), uno de los tres mayores emisores de ETFs del mundo junto con BlackRock y Vanguard.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.08% - MUY BARATO, el SEGUNDO mas barato de TODO el proyecto tras VTV/VUG (0.03%), y por MUCHO el mas barato entre los ETFs sectoriales del proyecto (SOXX 0.34%, SMH 0.35%, VGT 0.09% es el mas cercano).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending revenue no verificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL - conocimiento general bien establecido de la familia de fondos SPDR Select Sector (misma familia que XLE, competidor de XOP ya documentado), no verificado con una fuente primaria especifica de XLU esta sesion pero es un hecho publico consistente de toda la familia de fondos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = 11,971,496 acciones (stockanalysis) x $43.29/accion (precio 10-ago-2026) = aprox $518.3M/dia - **LIQUIDEZ EXTREMA, NUEVO RECORD DEL PROYECTO** (supera a VGT, $280.5M/dia, el anterior mas alto documentado con precision).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion, pero dado el volumen extremo (~$518M/dia) y el AUM ($23bn) se infiere extremadamente ajustado (tipicamente 1 centavo o menos para los SPDR sectoriales originales de este tamano).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Fondo enorme, extremadamente liquido, emisor mayor (State Street) - profundidad de Authorized Participants excelente, sin duda.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "31-34 holdings segun fuente (razonablemente consistente) - numero moderado, tipico de un sector GICS completo pero acotado (Utilities es uno de los sectores mas pequenos del S&P 500 por numero de constituyentes).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 57.89% - concentracion moderada-alta, similar en magnitud a XOP/VTV, no extrema como CIBR/ITA/SMH/URNM.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% Utilities por definicion (fondo sectorial GICS puro), aunque diversificado DENTRO del sector: Electric Utilities 65.7% + Multi-Utilities + Gas + Water. Mismo criterio de puntuacion ya aplicado a otros sectoriales 100%-concentrados del proyecto (SOXX/SMH/VGT).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% empresas US - limpio pero sin diversificacion internacional (mismo criterio aplicado a SCHD, sector/geografia domestico puro).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Perfil DEFENSIVO/value clasico de utilities: dividendo estable, beta baja, comportamiento historico de 'bond proxy' - contraste marcado con el perfil growth/especulativo de la mayoria de los tematicos recientes del proyecto (ARTY/AIPO/URA/URNM/REMX).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice S&P Utilities Select Sector Index - proveedor S&P (maxima transparencia y reconocimiento), clasificacion GICS pura, metodologia de cap-weighted modificado con 27+ anios de trayectoria publica y estable.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo TRIMESTRAL (conocimiento general de la familia SPDR Select Sector, no verificado con fuente primaria especifica de XLU esta sesion).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.57
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception = 7.46% anualizado en 27.7 anios - razonable para un sector defensivo de baja beta (ni el mejor ni el peor del proyecto). PERO retorno 1Y = solo +3.10%, MUY MODESTO comparado con el resto del proyecto (incluso menor que URA +16.73%) - refleja que XLU no participo tanto del rally reciente de IA/power como los holdings mas puros de esa tesis (CEG y VST individuales, o AIPO), diluido por el resto de utilities reguladas tradicionales del fondo sin exposicion directa a centros de datos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Se encontro una cifra de volatilidad de 3.81% que se DESCARTO por IMPLAUSIBLE para un ETF de renta variable (mismo criterio ya aplicado a VYMI) - no se encontro una cifra alternativa confiable esta sesion, se dejo en blanco en el Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown: -51.98% (historial completo, PortfoliosLab) vs -18.7% (ventana de 10 anios, misma fuente) - se uso la cifra de historial completo, consistente con el criterio ya establecido en el proyecto de preferir 'maximo drawdown desde inception' sobre ventanas cortas. Probablemente corresponde a la crisis financiera de 2008 (sector utilities con alto apalancamiento, sensible a la disponibilidad de credito) dado que el fondo tiene historial desde 1998.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: 0.28 (una fuente) vs 'Sharpe de 10 anios que coincide con el promedio de categoria de 0.56' (misma fuente, otra ventana) - se uso 0.56 con mas confianza por tener una validacion cruzada implicita (coincide con el promedio de la categoria), tratando 0.28 como una ventana mas corta/distinta.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.59 (stockanalysis) / 0.66 a 5 anios / 0.33 a 2 anios (otro agregador) - TODAS las cifras coinciden en un perfil DEFENSIVO/bajo, coherente y esperado para el sector utilities, SIN señal de implausibilidad (a diferencia de la discrepancia extrema de URA/URNM). **OVERLAP MODESTO**: solo Constellation Energy (CEG, 6.31%) del top10 esta analizado individualmente por el usuario - magnitud similar a XOP (MPC+DINO, 6.0%), notablemente MENOR que ARTY/AIPO (~34%) y muy lejos de los records de SMH/VUG/VGT/SOXX (52-62%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "27.7 anios de historial cubren MULTIPLES crisis de mercado completas (2000-2002 punto-com, 2008 financiera, 2020 COVID, 2022 subida de tasas) - la evidencia mas larga y robusta de comportamiento en distintos regimenes de mercado de CUALQUIER ETF del proyecto.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 22.88x - moderado, no barato pero tampoco en un pico de ciclo tan extremo como los tematicos recientes del proyecto; refleja la re-valoracion reciente del sector utilities por la demanda de energia de centros de datos de IA (misma tesis de AIPO/CEG/VST, aqui aplicada al sector completo y por tanto mas diluida). Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 2.60-2.76% segun fuente (razonablemente consistente). Payout Ratio = 62.71% - **SOSTENIBLE**, contraste marcado con el payout insostenible de URA (175%) y la ausencia de dato confiable en URNM/REMX. Distribucion probablemente TRIMESTRAL (estandar bien establecido de la familia SPDR Select Sector); se encontro una cifra de 'distribucion mensual' en un agregador que se trata con ESCEPTICISMO por ser atipica para esta familia especifica de fondos y no estar corroborada por fuente primaria.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - XLU es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "No se identificaron ni verificaron competidores directos con datos propios esta sesion. Candidatos conocidos sin verificar: VPU (Vanguard Utilities ETF), FUTY (Fidelity MSCI Utilities Index ETF), IDU (iShares U.S. Utilities ETF).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: fondo sectorial defensivo de bajo costo, liquidez extrema y el historial mas largo del proyecto, con overlap MODESTO (solo CEG). A diferencia de la mayoria de los tematicos recientes (rol Tactico/especulativo), XLU funciona mejor como **COBERTURA/lastre defensivo** frente al perfil marcadamente growth/especulativo de la cartera de acciones individuales del usuario (fuerte concentracion en semis/IA/growth de alto riesgo segun el Dashboard de acciones) - primera vez que se usa esta clasificacion del dropdown en el proyecto ETF.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis DOBLE y bien equilibrada, no dependiente de un solo catalizador especulativo: (a) defensiva clasica (dividendo estable, beta baja, proteccion historica en caidas de mercado -bond proxy-) Y (b) re-rating estructural por demanda de energia de centros de datos de IA (mismo megatema 'power for AI' ya documentado con VST/CEG/ETN/AIPO), aunque diluida por el resto de utilities reguladas tradicionales sin exposicion directa a datacenters.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) sensibilidad a tasas de interes (sector 'bond proxy', se mueve en funcion de expectativas de tasas ademas de fundamentales propios); (2) riesgo regulatorio/politico (utilities reguladas dependen de comisiones estatales de tarifas); (3) retorno 1Y muy modesto (+3.10%) pese al rally del megatema IA, senal de que el mercado ya diferencia entre utilities CON exposicion real a datacenters (CEG, VST) y las que no; (4) concentracion en NextEra Energy (12.91% del fondo, la posicion individual mas grande).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "Alternativas VPU/FUTY/IDU identificadas sin verificar con datos propios esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.85/5, empata practicamente con SPMO (3.85) y se acerca al top del proyecto (VTV 4.06, SCHD 4.03). XLU combina calidad estructural EXCEPCIONAL en casi todas las dimensiones: TER de los mas bajos del proyecto (0.08%), liquidez RECORD ($518M/dia), track record MAS LARGO del proyecto (27.7 anios, cubriendo 4 crisis de mercado completas: punto-com, 2008, COVID, 2022), y overlap solo MODESTO con la cartera del usuario (unicamente CEG, 6.31%). A diferencia de la mayoria de los ETFs tematicos recientes analizados (ARTY/AIPO/URA/URNM/REMX, todos con Score <3.0 y perfil especulativo/concentrado), XLU aporta algo que el resto del proyecto no tiene: una tesis DEFENSIVA solida (dividendo sostenible, payout 62.71%, beta baja 0.59) combinada con exposicion DILUIDA pero real al mismo megatema de 'power for AI' que ya se investigo a fondo con VST/CEG/ETN/AIPO. Rol recomendado: **COBERTURA/lastre defensivo** frente al perfil marcadamente growth/especulativo de las posiciones individuales del usuario (fuerte concentracion documentada en semis/IA de alto riesgo en el Dashboard de acciones), mas que un satelite tactico especulativo mas. Unica nota de cautela real: el retorno 1Y (+3.10%) es notablemente modesto pese al rally del tema IA, senal de que el mercado ya premia mas a las utilities CON exposicion directa a datacenters (CEG, VST) que al sector en su conjunto."
+  }
+}

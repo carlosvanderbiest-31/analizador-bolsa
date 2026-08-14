@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares MSCI Japan ETF",
+  "ticker": "EWJ",
+  "categoria": "Equity Indice Amplio (PAIS UNICO desarrollado - Japon, MSCI Japan Index - diversificador genuino, CERO overlap)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight) - factible con 169-173 holdings.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% holdings JAPONESES - riesgo cambiario JPY no cubierto (historicamente volatil frente al USD, con intervenciones periodicas del Banco de Japon) + retencion fiscal japonesa sobre dividendos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$19.4-22.4bn (stockanalysis $22.38bn, Trackinsight EUR19.41bn~$21bn) - **EL MAS GRANDE entre los fondos de pais unico del proyecto** (EWC $6.2bn, INDA $6.63bn, EWZ $8.6-9.15bn) - Japon es el mercado desarrollado individual mas grande fuera de EEUU cubierto en el proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 12-mar-1996 - **EMPATADO EXACTO con EWC como el TRACK RECORD MAS LARGO DE TODO EL PROYECTO** (misma fecha de lanzamiento, ~30.4 anios) - ambos fondos son parte de la serie original 'WEBS' (World Equity Benchmark Shares) de iShares, las PRIMERAS ETFs internacionales de la historia, lanzadas simultaneamente para multiples paises el mismo dia.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMOTERCERA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.49% - similar a EWC (0.50%), tipico de la serie original iShares de pais unico desarrollado (mas caro que los fondos 'Core' modernos como IEUR/VGK, pero razonable para la categoria y su antiguedad).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI Japan - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria especifica de EWJ esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio >$100M/dia (fuente cualitativa, sin cifra exacta en USD) - descrito explicitamente como 'el ETF de Japon mas liquido' entre sus pares directos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask = sub-1 punto basico (<0.01%) segun fuente cualitativa - extremadamente ajustado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "169 (Trackinsight) a 173 (stockanalysis) holdings - mas diversificado que EWC (84-89), similar en orden de magnitud a INDA (170).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 29.45% - concentracion MODERADA, menor que EWC (44.47%) y EWZ (56.75%), similar a EZU (29.37%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Technology 26.85% (maximo), Finance 19.49%, Industrials 18.29%, resto diversificado entre Consumer Cyclicals/Non-Cyclicals/Materials/Healthcare/Telecom (todos <10%) - buena diversificacion, ningun sector domina de forma extrema (a diferencia de EWC Finance 46.70% o EWZ Finance+Materials+Utilities+Energy ~78%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% Japon por definicion (fondo de pais unico) - CERO diversificacion geografica, mismo tratamiento que EWC/INDA/EWZ.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Blend con sesgo tech/industrial (semiconductores: Tokyo Electron, Advantest, Kioxia, Murata; industrial: Hitachi; automotriz: Toyota), P/E 18.59x (moderado).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI Japan - estandar, transparente, mismo proveedor MSCI que IXUS/ACWX/EWC/INDA en el proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de EWJ esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.57
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 10Y = 8.86%, 5Y = 9.17%, 3Y = 16.70%, 1Y = +30.90% (fuerte, consistente con el rally global de renta variable internacional ya documentado en TODO el cluster ex-US/geografia unica de esta sesion). Retorno 'desde inception' reportado en 4.93%, pero **con la ventana mal etiquetada como '42 anios' cuando el fondo real solo tiene 30.4 anios** - MISMO GOTCHA DE DATOS ya confirmado con VGK (la fuente probablemente extiende con historial de indice retroactivo/backtested previo a la creacion real del fondo) - SEGUNDA instancia confirmada de este patron especifico en el proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad por ventana (lazyportfolioetf, mismo problema de etiquetado de ventana ya mencionado): 1Y 14.81%, 5Y 14.79%, 10Y 13.66%, 'Maximo' 19.61% - magnitudes razonablemente coherentes entre si.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown: 1Y -8.59%, 5Y/10Y -28.85% (identicas, sugiere que el peor drawdown de la decada ocurrio dentro de los ultimos 5 anos), 'Maximo' (ventana real ~30.4 anios) = -58.36% - coherente con la Crisis 2008 Y el terremoto/tsunami/desastre nuclear de Fukushima de 2011 (evento especifico de Japon que ningun otro fondo del proyecto experimento).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe por ventana: 1Y 1.83 (inflado, mismo gotcha ya documentado repetidamente), 5Y 0.38, 10Y 0.48, **'Maximo' = 0.09 - EL SHARPE DE LARGO PLAZO MAS BAJO DE TODO EL PROYECTO** - genuinamente coherente y esperable: Japon vivio DECADAS de estancamiento economico y deflacion ('decadas perdidas', aprox 1990-2012) durante gran parte de la vida del fondo, un fenomeno macro ESTRUCTURAL de largo plazo, distinto de una crisis puntual como las ya documentadas en otros fondos del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.69 - moderado-bajo. **CERO OVERLAP DETECTADO** con el Dashboard de acciones individuales del usuario - matiz importante: SoftBank Group (2.55-2.67% del fondo) es el propietario mayoritario (86.4%) de ARM Holdings (SI analizado individualmente en el Dashboard de acciones, fila 74), pero ARM cotiza en Nasdaq como entidad SEPARADA y no esta incluida en el indice MSCI Japan - se trata explicitamente como NO-overlap (distincion entre propietario controlante y la entidad cotizada en si), primera vez que se documenta esta distincion especifica en el proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "30.4 anios de historial cubren la Crisis 2008, el terremoto/tsunami/desastre nuclear de Fukushima 2011 (evento especifico de Japon, UNICO en el proyecto), la era de politica monetaria ultra-laxa 'Abenomics' (desde 2012), COVID 2020, 2022 - ademas de la cola final de las 'decadas perdidas' japonesas de estancamiento previo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 18.59x - moderado, similar al cluster europeo del proyecto (17.17-17.63x) pero ligeramente mas caro. Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 3.69% - **EL MAS ALTO entre los fondos de pais unico desarrollado del proyecto** (EWC 1.22%). Distribucion SEMESTRAL.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "PRIMER fondo de Japon del proyecto - sin competidor directo verificado en este workbook. Candidatos identificados: DXJ (WisdomTree Japan Hedged Equity - relevante especificamente porque cubre el riesgo cambiario JPY que EWJ no cubre), BBJP (JPMorgan BetaBuilders Japan, TER historicamente mas barato ~0.19%, mismo patron 'alternativa moderna barata' ya documentado en el proyecto), FLJP (Franklin FTSE Japan) - ninguno verificado con datos propios esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **Satelite** - CERO overlap con acciones individuales, perfil sectorial genuinamente distinto (tech+industrial+financiero japones vs el sesgo growth-tech estadounidense que domina el resto de la cartera del usuario), diversificador genuino similar en espiritu a EWC (Canada) pero para la economia japonesa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion pura a la tercera economia mas grande del mundo, con el track record MAS LARGO (empatado) de todo el proyecto, CERO overlap de holdings individuales, dividend yield atractivo (3.69%), y un retorno reciente fuerte (+30.90% 1Y, consistente con el rally global ya documentado en el resto del cluster) - con la advertencia historica de decadas de estancamiento estructural que atenuo fuertemente el retorno de largo plazo del fondo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo cambiario JPY sin cobertura, historicamente volatil e influido por intervenciones del Banco de Japon; (2) riesgo estructural de estancamiento economico de largo plazo ('decadas perdidas'), aunque parcialmente mitigado por la recuperacion post-Abenomics reciente; (3) riesgo especifico de desastres naturales (terremotos/tsunamis, ej. Fukushima 2011); (4) concentracion en Technology (26.85%) via semiconductores (Tokyo Electron, Advantest, Kioxia, Murata) con exposicion INDIRECTA al mismo ciclo de IA/semis ya muy representado en la cartera individual del usuario, aunque sin overlap directo de nombres.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "DXJ (WisdomTree, cobertura de divisa JPY), BBJP (JPMorgan, mas barato) y FLJP (Franklin) identificados como candidatos sin datos propios verificados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.76/5 - solido, apoyado en una calidad estructural excepcional: **track record EMPATADO como el MAS LARGO de todo el proyecto** (30.4 anios, misma fecha exacta de lanzamiento que EWC, 12-mar-1996, ambos parte de la serie original WEBS de iShares), el AUM mas grande entre los fondos de pais unico del proyecto (~$19.4-22.4bn), replica fisica completa, y **CERO OVERLAP** con el Dashboard de acciones individuales del usuario (con la matiz de que SoftBank, en el top10 de EWJ, es propietario mayoritario de ARM Holdings -si analizada individualmente- pero ARM cotiza como entidad separada en Nasdaq y no forma parte del indice MSCI Japan). El perfil sectorial (Technology 26.85%, Finance 19.49%, Industrials 18.29%, bien diversificado sin dominancia extrema) es genuinamente distinto al sesgo growth-tech estadounidense que domina el resto de la cartera. El hallazgo mas distintivo: el Sharpe Ratio de largo plazo (0.09, ventana mal etiquetada como '42 anios' pero correspondiente al historial real del fondo) es el MAS BAJO de todo el proyecto, reflejo autentico de las 'decadas perdidas' de estancamiento economico japones (1990-2012) - un fenomeno macro estructural de largo plazo, no una crisis puntual como en otros fondos. El retorno reciente (10Y 8.86%, 1Y +30.90%) muestra una recuperacion solida y consistente con el rally global ya documentado en el resto del cluster esta sesion. Rol en Portafolio: Satelite. Candidatos identificados sin verificar: DXJ (con cobertura de divisa JPY), BBJP (mas barato), FLJP."
+  }
+}

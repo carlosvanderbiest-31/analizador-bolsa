@@ -1,0 +1,225 @@
+{
+  "nombre": "First Trust Dow Jones Internet Index Fund",
+  "ticker": "FDN",
+  "categoria": "Equity Tematico/Factor (internet, tematico cruza clasificaciones GICS, QUINTO ETF de tecnologia del proyecto tras XLK/VGT/FXL/QTEC, CUARTO fondo First Trust tras AIRR/FXL/QTEC)",
+  "emisor": "First Trust",
+  "fecha_analisis": "2026-08-13",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA, modified cap-weighted con reglas de capping por posicion, sin sintetico/swaps.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -First Trust, NYSE Arca-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM con rango $5.34-5.61bn segun fuente, fuentes razonablemente consistentes, grande, sin riesgo de cierre.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "20.15 anios desde inception -19-jun-2006-, sin hallazgo de cambio de indice detectado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor First Trust, **CUARTO fondo de este emisor en el proyecto** -junto a AIRR, FXL y QTEC, todos ya en el workbook-.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.49-0.52% segun fuente, caro pero MENOR que FXL -0.60-0.61%- y QTEC -0.55-0.57%-, ambos ya en el workbook, aunque mucho mas caro que XLK -0.08%- y VGT -0.09-0.10%-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Sin dato especifico de revenue por securities lending para FDN.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Turnover NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~$106M/dia -composer.trade-, buena liquidez, MEJOR que FXL -~$3.84M/dia- y comparable o mejor que QTEC -$53.59-81.89M/dia-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero el AUM grande -$5.3-5.6bn- sugiere infraestructura de creacion/redencion solida.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "42-43 holdings segun fuente, similar en magnitud a QTEC -46-49-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**Top10 = 61.08-61.09% del fondo, MUY CONCENTRADO** -mas que XLV -60.6%-, similar a XLF -56.82%-, MUCHO mas que FXL -18.22%- y QTEC -26.99%-, ambos ya en el workbook-. Top10: Amazon.com 10.51%, Meta Platforms 9.46%, Cisco Systems 8.14%, Arista Networks 5.37%, Booking Holdings 5.32%, Alphabet -GOOGL- 5.18%, Salesforce 4.66%, Oracle 4.16%, Alphabet -GOOG- 4.15%, Snowflake 4.14% -Alphabet en 2 clases de accion suma ~9.33% combinado, similar al peso de Amazon-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Tematico 'internet' que CRUZA clasificaciones GICS -no es un sector puro-: incluye nombres de Information Technology -Cisco, Salesforce, Oracle, Snowflake-, Communication Services -Meta, Alphabet-, y Consumer Discretionary -Amazon, Booking Holdings-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% listado EEUU.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "**HALLAZGO CUALITATIVO: fuentes externas describen explicitamente que 'mas alla de la dependencia general de internet, los componentes subyacentes tienen poco en comun'** -mezcla Cisco -hardware de redes legacy- con Amazon/Booking -e-commerce/viajes- con Salesforce/Snowflake -cloud SaaS- con Meta/Alphabet -publicidad digital/medios-. Tesis DILUIDA, patron similar al ya visto en XLF -Berkshire Hathaway- o KBE -aseguradoras-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Dow Jones Internet Composite Index, modified cap-weighted con reglas de capping por posicion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo NO ENCONTRADO con frecuencia especifica confirmada; presumiblemente trimestral, estandar de la familia de indices Dow Jones.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "**Retorno 1Y = SOLO 7.07%, MUY DEBIL comparado con el resto del cluster tecnologico del proyecto** -FXL 41.33%, QTEC 48.76%, USD 84.49-110.71%, todos ya en el workbook-, pese a que **desde inception = CAGR 14.07% anualizado sigue siendo fuerte**, similar a QTEC -15.24%- y superior a FXL -13.55%-. La debilidad reciente sugiere que la tesis diluida -ver fila 34- no capturo completamente el rally reciente de semiconductores/software puro que si beneficio a FXL/QTEC/USD.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada desde inception = 25.6% -composer.trade-, alta, similar a FXL -24.8%- y QTEC -26.3%-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = -61.5% -composer.trade-, severo, practicamente identico a FXL -61.4%-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = 0.65 -composer.trade-, decente, similar a FXL -0.64- y QTEC -0.67-. Calmar ratio = 0.23.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.22 -stockanalysis.com-, alto pero MENOR que FXL -1.25- y QTEC -1.43-, ambos ya en el workbook.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Cubre Crisis 2008, sin evento de cola idiosincratico especifico documentado, aunque el retorno 1Y reciente muy debil -7.07%- sugiere un rezago notable frente al resto del cluster tecnologico en el periodo mas reciente.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.17
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 30.83x, caro pero MENOR que QTEC -42.94x, ya en el workbook-, sin serie historica propia a 5-10 anios para contextualizar percentil.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield practicamente nulo/no disponible -'n/a' en la fuente consultada-, tipico de una canasta de crecimiento/tecnologia.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**QUINTO ETF de tecnologia del proyecto -tras XLK, VGT, FXL y QTEC, todos ya en el workbook-**: tesis mas DILUIDA que el resto -cruza GICS Info Tech, Communication Services y Consumer Discretionary-, Top10 mas concentrado -61% vs 18-27% de FXL/QTEC-, TER intermedio, y el retorno 1Y MAS DEBIL de todo el cluster tecnologico pese a un CAGR desde-inception competitivo.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Tactico/Especulativo dado el TER caro, la concentracion Top10 elevada, y el desempeno 1Y reciente debil.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion tematica a 'internet' -no un sector GICS puro-, con CAGR historico fuerte -14.07% desde inception- pero una composicion DILUIDA -mezcla hardware legacy, e-commerce, viajes, cloud SaaS y publicidad digital- que en el periodo reciente no logro capturar el rally de semiconductores/software puro que si beneficio a otros miembros del cluster tecnologico del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **tesis diluida confirmada por fuentes externas -'los componentes tienen poco en comun mas alla de depender de internet'**-, concentracion Top10 61%, TER caro relativo a XLK/VGT, retorno 1Y muy debil frente al resto del cluster tecnologico, dividend yield practicamente nulo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "XLK/VGT -ambos ya en el workbook- son mas baratos y con tesis sectorial GICS mas limpia; FXL/QTEC -ambos ya en el workbook- ofrecen alternativas smart-beta/equal-weight dentro del mismo cluster tecnologico con mejor desempeno 1Y reciente y menor concentracion Top10.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). FDN es el QUINTO ETF de tecnologia del proyecto -tras XLK, VGT, FXL y QTEC, todos ya en el workbook- y el CUARTO fondo First Trust -junto a AIRR, FXL y QTEC-. A diferencia de esos otros ETFs tecnologicos, FDN sigue un indice TEMATICO -Dow Jones Internet Composite- que CRUZA clasificaciones GICS: Information Technology -Cisco, Salesforce, Oracle, Snowflake-, Communication Services -Meta, Alphabet- y Consumer Discretionary -Amazon, Booking Holdings-. **HALLAZGO CUALITATIVO PRINCIPAL**: fuentes externas describen explicitamente que 'mas alla de la dependencia general de internet, los componentes subyacentes tienen poco en comun', confirmando una tesis DILUIDA -mismo patron ya visto en XLF con Berkshire Hathaway o KBE con aseguradoras-. Esto se traduce en **Top10 = 61.08-61.09%, MUY CONCENTRADO -mucho mas que FXL -18.22%- y QTEC -26.99%--**, dominado por Amazon 10.51%, Meta 9.46% y Cisco Systems 8.14% -este ultimo una empresa de hardware de redes legacy, no una 'internet company' en el sentido moderno-. TER = 0.49-0.52%, caro pero MENOR que FXL/QTEC. **RIESGO MAS RELEVANTE**: retorno 1Y = **SOLO 7.07%, EL MAS DEBIL de todo el cluster tecnologico del proyecto** -vs 41.33% FXL, 48.76% QTEC, 84.49-110.71% USD-, pese a que el CAGR desde inception -14.07%- sigue siendo competitivo, similar a QTEC -15.24%- y superior a FXL -13.55%-. Esta debilidad reciente sugiere que la composicion diluida no logro capturar el rally de semiconductores/software puro que si beneficio al resto del cluster. Volatilidad 25.6% y Max Drawdown -61.5%, ambos elevados y similares a FXL. Beta 1.22, alto pero el menor de los ETFs tecnologicos 'caros' del proyecto. Dividend yield practicamente nulo. Liquidez solida -~$106M/dia-. Score 2.52/5, por debajo de FXL/QTEC -2.67 ambos-. Rol Tactico/Especulativo unicamente. XLK/VGT siguen siendo la opcion estructuralmente preferible por costo y tesis sectorial limpia; FXL/QTEC -dentro del mismo grupo de fondos tecnologicos caros- ofrecen mejor desempeno reciente y menor concentracion Top10 que FDN."
+  }
+}

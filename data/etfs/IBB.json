@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares Biotechnology ETF",
+  "ticker": "IBB",
+  "categoria": "Equity Tematico/Factor (biotecnologia pura, CUARTO ETF de salud del proyecto, unico enfocado especificamente en biotech)",
+  "emisor": "BlackRock/iShares",
+  "fecha_analisis": "2026-08-13",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO -'representative sampling technique', confirmado-, similar a XLV -ya en el workbook-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -BlackRock/iShares-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM con rango disperso $7.08bn a $9.53bn segun fuente/fecha, tamano intermedio dentro del cluster salud del proyecto -mayor que IHI -$3.25-5.1bn-, menor que VHT -$18.3-20.9bn- y XLV -$38.67-43.87bn-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "25.52 anios desde inception -5-feb-2001-. **HALLAZGO METODOLOGICO CONFIRMADO**: el fondo se llamaba 'iShares NASDAQ Biotechnology ETF' y el **21-jun-2021 cambio de nombre a 'iShares Biotechnology ETF' Y de indice subyacente, del NASDAQ Biotechnology Index al actual ICE Biotechnology Index** -confirmado via filings SEC 497 de 2021-. Mismo patron recurrente del proyecto -KIE/KBE/KRE cambiaron de indice en 24-oct-2011, FAS en ago-2022-: el Max Drawdown historico -ver fila 41- mezcla ambas metodologias.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares, top-tier.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.44-0.45% -composer.trade cita 0.45%, otras fuentes 0.44%-, **EL MAS CARO de todo el cluster salud del proyecto** -vs 0.08% XLV, 0.09% VHT, 0.37% IHI, todos ya en el workbook-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Sin dato especifico de revenue por securities lending para IBB.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "**Reconstitucion COMPLETA anual en diciembre + rebalanceo trimestral**, con capping 8% para los 5 mayores constituyentes y 4% para el resto -mas activo que el resto del cluster salud, sugiere turnover mas alto, sin cifra especifica encontrada-.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~$170.2M/dia -composer.trade-, moderado, entre IHI -$131M- y XLV -$2.28bn-, ambos ya en el workbook.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount = +0.03%, ajustado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero infraestructura de creacion/redencion de BlackRock/iShares es robusta a nivel de firma.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "252 holdings, **EL SEGUNDO MAYOR numero del cluster salud del proyecto tras VHT -430-**, mucho mas diversificado por numero que IHI -51- y XLV -60-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**Top10 = 46.04% del fondo, EL MENOS CONCENTRADO de todo el cluster salud del proyecto** -vs 52.1% VHT, 60.6% XLV, 74% IHI-. Top10: Amgen 8.76%, Vertex Pharmaceuticals 7.84%, Gilead Sciences 7.09%, Regeneron Pharmaceuticals 6.01%, argenx SE 3.49%, Revolution Medicines 2.91%, Natera 2.91%, Alnylam Pharmaceuticals 2.36%, Biogen 2.34%, Illumina 2.34%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% biotecnologia -sub-segmento AUN MAS ESTRECHO y de MAYOR riesgo binario -aprobacion FDA, resultados de ensayos clinicos- que 'dispositivos medicos' de IHI o 'salud amplia' de VHT/XLV, pese a estar menos concentrado en nombres individuales-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% listado EEUU, aunque muchas biotechs de mediana/pequena capitalizacion tienen pipelines y ensayos clinicos globales.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sesgo fuerte hacia biotecnologia de mediana/pequena capitalizacion con alto riesgo binario de resultados clinicos/aprobacion regulatoria, factor de riesgo cualitativamente distinto al resto del cluster salud.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice ICE Biotechnology Index -desde jun-2021-, capping 8% para los 5 mayores constituyentes y 4% para el resto, rebalanceo trimestral con reconstitucion COMPLETA anual en diciembre.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral + reconstitucion anual completa, MAS ACTIVO que el resto del cluster salud del proyecto -que solo rebalancea trimestral/semestralmente sin reconstitucion completa anual-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.43
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "**Retorno 1Y = 52.75%, MUY FUERTE**, refleja un rally reciente pronunciado del sector biotecnologia. Desde inception = 7.45% anualizado, **el mas bajo del cluster salud del proyecto** pese al rally reciente, reflejo de decadas historicas muy volatiles -incluye el peor Max Drawdown del cluster, ver fila 41-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada desde inception = 25.9% -composer.trade-, **LA MAS ALTA del cluster salud del proyecto** -vs 16.9% VHT, 17.9% XLV, 19.9% IHI-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = **-62.8%, EL PEOR del cluster salud del proyecto** -vs -39.12% VHT, -39.2% XLV, -49.6% IHI-, mezclando la metodologia NASDAQ Biotechnology antigua -hasta jun-2021- y la ICE Biotechnology actual.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = 0.41 -composer.trade-, **el mas bajo del cluster salud del proyecto**. Calmar ratio = 0.12.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.70 -stockanalysis.com-, defensivo -<1- pese a la alta volatilidad idiosincratica -beta de mercado bajo no implica bajo riesgo especifico/binario-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Sector historicamente muy volatil en correcciones de mercado -especialmente en sell-offs de growth/high-beta-, con exposicion inherente a riesgo binario de resultados de ensayos clinicos y decisiones regulatorias FDA. El rally reciente de 52.75% en 1Y ilustra el lado positivo de esa misma volatilidad.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.17
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 24.03x, similar a VHT -24.26x, ya en el workbook-, razonable dado el rally reciente del sector.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.05-0.21% segun fuente, **EL MAS BAJO del cluster salud del proyecto**, tipico del sector biotecnologia que reinvierte en I+D en vez de distribuir dividendos.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**CUARTO ETF de salud del proyecto, unico enfocado especificamente en biotecnologia PURA** -vs 'salud amplia' de VHT/XLV o 'dispositivos medicos' de IHI, todos ya en el workbook-. Perfil de riesgo/retorno claramente el MAS AGRESIVO del cluster -peor Max Drawdown, mayor volatilidad, menor Sharpe-, pero con Top10 menos concentrado y mayor numero de holdings que XLV/IHI.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Tactico/Especulativo dado el perfil de riesgo mas alto del cluster salud y el cambio de indice reciente -2021-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion pura a innovacion biotecnologica -terapias geneticas, oncologia, enfermedades raras-, alto potencial de retorno -rally 52.75% en 1Y- pero con el peor perfil de riesgo de cola de todo el cluster salud del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **riesgo binario de aprobacion FDA/resultados de ensayos clinicos, inherente al sector biotech y no presente en la misma magnitud en VHT/XLV/IHI**, TER el mas caro del cluster salud -0.44-0.45%-, cambio de indice 2021 -NASDAQ Biotechnology a ICE Biotechnology, continuidad de datos historicos parcialmente afectada-, Max Drawdown historico severo -62.8%-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VHT/XLV -ya en el workbook- ofrecen exposicion mucho mas amplia y defensiva al sector salud completo; IHI -ya en el workbook- es la otra apuesta sub-sectorial concentrada del proyecto pero en dispositivos medicos, no biotecnologia. IBB es la UNICA opcion de biotecnologia pura del proyecto hasta ahora.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). IBB es el CUARTO ETF de salud del proyecto y el UNICO enfocado especificamente en biotecnologia pura -vs 'salud amplia' de VHT/XLV o 'dispositivos medicos' de IHI, todos ya en el workbook-. **HALLAZGO METODOLOGICO CONFIRMADO**: el fondo cambio de nombre -de 'iShares NASDAQ Biotechnology ETF' a 'iShares Biotechnology ETF'- y de indice subyacente -del NASDAQ Biotechnology Index al actual ICE Biotechnology Index- el 21-jun-2021, mismo patron recurrente ya visto en KIE/KBE/KRE -oct-2011- y FAS -ago-2022-, por lo que el Max Drawdown historico mezcla ambas metodologias. TER = 0.44-0.45%, **EL MAS CARO de todo el cluster salud del proyecto** -5.5x mas caro que XLV, 4.9x mas caro que VHT-. Presenta el **PEOR perfil de riesgo/retorno del cluster salud**: volatilidad 25.9% -la mas alta-, Max Drawdown -62.8% -el peor-, Sharpe 0.41 -el mas bajo-, y CAGR desde inception de solo 7.45% -el mas bajo pese al fuerte rally reciente de +52.75% en 1Y-. Dividend yield practicamente nulo -0.05-0.21%-. Aspecto positivo notable: 252 holdings -el segundo mayor numero del cluster tras VHT- y Top10 = 46.04%, **el MENOS CONCENTRADO de todo el cluster salud del proyecto**, gracias al capping 8%/4% del indice y la reconstitucion anual completa. Sin embargo, la concentracion sectorial en biotecnologia PURA conlleva riesgo binario de aprobacion FDA/resultados clinicos inherente al sub-sector, ausente en la misma magnitud en el resto del cluster. Score 2.61/5, el mas bajo de los 4 ETFs de salud del proyecto -vs 3.36 VHT, 3.36 XLV, 2.36 IHI-. Rol Tactico/Especulativo unicamente. Con IBB, el cluster salud del proyecto queda con 4 miembros: VHT y XLV como opciones defensivas centrales, IHI e IBB como apuestas tacticas concentradas en sub-segmentos de mayor riesgo -dispositivos con shock GLP-1 vigente, y biotecnologia con riesgo regulatorio binario, respectivamente-."
+  }
+}

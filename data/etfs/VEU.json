@@ -1,0 +1,225 @@
+{
+  "nombre": "Vanguard FTSE All-World ex-US ETF",
+  "ticker": "VEU",
+  "categoria": "Equity Indice Amplio (mercado ex-US large+mid cap, desarrollado + emergente, blend sin sesgo de estilo)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA confirmada (descripcion oficial de Vanguard: 'invests all, or substantially all, of its assets in the stocks that make up the index... does not use a sampling method') - CUARTO fondo del cluster ex-US amplio, SEGUNDO (tras ACWX) con replica completa verificada, factible porque el indice FTSE All-World ex US (estandar, no incluye small-cap) es un universo mas manejable que el Global All Cap de VXUS.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% holdings extranjeros - MISMO gotcha cambiario/fiscal ya documentado con VYMI/VXUS/IXUS/ACWX.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $69.78bn (stockanalysis) - SOLIDO, tercer lugar del cluster ex-US amplio (por debajo de VXUS $161bn, pero por ENCIMA de IXUS $59.9bn y muy por encima de ACWX $11.6bn).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 2-mar-2007 (~19.4 anios) - EL TRACK RECORD MAS LARGO DE TODO EL CLUSTER ex-US amplio (supera incluso a ACWX, 18.4 anios) - nace UN ANIO ANTES que ACWX, capturando el ciclo COMPLETO de la Crisis Financiera Global de 2008 desde antes de su inicio, no solo el crash.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Vanguard - SEPTIMA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, ahora VEU).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.4
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.04% - **EL MAS BARATO DE TODO EL CLUSTER ex-US amplio, incluso MAS BARATO que VXUS (0.05%)** - primera vez que un competidor directo supera a VXUS en costo puro. Diferencia pequena en terminos absolutos (1 punto base) pero simbolicamente relevante: rompe el patron de que VXUS siempre gana en costo (establecido con IXUS y ACWX).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending: el top10 reportado por stockanalysis incluye 'Slbbh1142' (1.25%), un artefacto de colateral de prestamo de valores casi con certeza - **MISMO PATRON EXACTO ya documentado con VXUS ('Slcmt1142') y VB ('Slcmt1142')**, confirma que Vanguard opera el mismo tipo de programa de securities lending en VEU. Revenue especifico no verificado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice FTSE All-World ex US - mismo proveedor que VXUS (FTSE Russell), tipicamente reconstitucion semestral, no confirmada con fuente primaria especifica de VEU esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = $353.36M/dia (4.56M acciones, Seeking Alpha) - **EL MAS ALTO DE TODO EL CLUSTER ex-US amplio** (vs $263.30M IXUS, $236.92M ACWX), pese a tener menos AUM que VXUS - senal de alta rotacion/uso institucional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask = ~0.01% (1 basis point, Seeking Alpha) - SEGUNDA cifra exacta de spread verificada en el proyecto (tras ACWX 0.01%), igual de ajustada.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Vanguard - profundidad de Authorized Participants de primer nivel, mismo estandar que VXUS/IXUS/ACWX.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "3,895 holdings (stockanalysis) - discrepancia notable con la descripcion oficial de Vanguard ('aproximadamente 2,200 stocks... 46 paises', posiblemente una cifra redondeada/desactualizada) - se uso la cifra mas granular de stockanalysis. En cualquier caso, MENOS que VXUS (8,807) e IXUS (4,301-4,537), pero MAS que ACWX (1,856-1,940) - segundo lugar del cluster, indice FTSE All-World ESTANDAR (sin el tramo small-cap que si cubre la version 'Global All Cap' que sigue VXUS).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 15.30% - similar en magnitud a ACWX (15.19-16.24%), moderadamente mas concentrado que VXUS (14.77%) e IXUS (13.16-14.95%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Financial Services 22.63%, Technology 21.55%, Industrials 15.03% - composicion muy similar al resto del cluster (IXUS: Finance 25.35%/Tech 23.40%; ACWX: Finance 26.13%/Tech 24.67%), sin dominancia extrema de un sector.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia: Europa Desarrollada 27.85%, Asia Desarrollada 16.15%, Japon 15.12%, Asia Emergente 13.28%, Norteamerica (Canada) 8.63% - datos MAS PRECISOS por region que los obtenidos para VXUS/IXUS/ACWX, buena diversificacion sin un pais/region dominante extremo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "BLEND puro (sin sesgo value/growth/dividendo), cap-weighted de large+mid cap ex-US - mismo perfil de estilo que VXUS/IXUS/ACWX.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice FTSE All-World ex US - mismo proveedor FTSE Russell que VXUS pero version ESTANDAR (sin el tramo small-cap del 'Global All Cap' de VXUS) - transparente y reconocida, pero cubre una porcion menor del universo total del mercado ex-US, mismo tipo de limitacion ya documentada en ACWX frente a IXUS.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de VEU esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.14
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (19.4 anios, la ventana MAS LARGA del cluster) = 5.48% anualizado segun la fuente principal consultada (rango entre fuentes de 5.48%-8.40%, dispersion notable sin una unica cifra oficial clara) - el MAS BAJO en terminos absolutos del cluster, pero explicado por ser la UNICA ventana que captura la Crisis 2008 desde ANTES de su inicio (ni ACWX, que nace un anio despues, lo hace tan completamente). Retornos mas recientes bien corroborados: 10Y = 9.83-10.14% (Vanguard oficial, dos fechas de corte cercanas), 5Y = 8.67-9.10%, 3Y = 19.04-19.24% (el retorno 3Y anualizado MAS ALTO de todo el cluster), 1Y = 25.35-27.98%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad: desde inception (19.4 anios) = 22.2%, reciente (1Y) = 16.80% - AMBAS cifras PLAUSIBLES para un ETF de renta variable global (a diferencia de las descartadas en VXUS), coherentes entre si (la cifra de largo plazo mas alta refleja la inclusion de la Crisis 2008). Se reporta la cifra desde inception en el Dashboard por consistencia de ventana con el Max Drawdown y el retorno desde inception.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -61.5% desde inception - **EL PEOR DE TODO EL CLUSTER ex-US amplio** (incluso peor que ACWX -60.40%), pero COHERENTE Y EXPLICADO: VEU tiene la ventana MAS LARGA del cluster (nace mar-2007, un anio antes que ACWX), capturando el ciclo completo de la Crisis 2008 desde su inicio. No es una senal de mala calidad del vehiculo, es la consecuencia directa y esperable de tener el track record mas extenso.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: desde inception = 0.13 (muy bajo, dominado por la Crisis 2008 al inicio de la ventana), reciente (1Y) = 1.52 (inflado, mismo gotcha ya documentado con MU/CRAK/SOXX/IXUS). NO se encontro una cifra de Sharpe de ventana intermedia (5Y/10Y) confiable esta sesion que sirviera de punto medio representativo (a diferencia de IXUS, que si tuvo un Sharpe 10Y limpio de 0.48) - se dejo en blanco en el Dashboard en vez de reportar cualquiera de los dos extremos como representativo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.77 - practicamente identico a VXUS/IXUS (0.78) y ACWX (0.77). Overlap CONFIRMADO: Taiwan Semiconductor (TSM, 4.37%) + ASML Holding (1.53%) ya analizados individualmente, sumando 5.90% - entre VXUS (5.37%) e IXUS (5.7-6.2%), menor que ACWX (6.6-7.1%). Sin overlap adicional detectado en el resto del top10 visible (Samsung, SK Hynix, Tencent, HSBC, Roche, Novartis, AstraZeneca - ninguno cotiza de forma directamente comparable en bolsas de EEUU o no coincide con el Dashboard de acciones).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "19.4 anios de historial - LA COBERTURA DE CRISIS MAS COMPLETA DE TODO EL PROYECTO para un fondo de renta variable: Crisis Financiera 2008 completa (desde antes del inicio), crisis de deuda europea 2011, taper tantrum 2013, COVID 2020, bear market 2022. Ningun otro ETF del proyecto tiene una ventana mas extensa de estres de mercado observado.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.67
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 17.84x - similar a IXUS (17.54x) y ACWX (17.74x), notablemente mas caro que VXUS (15.86x). Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 2.49% - practicamente identico a VXUS (2.51-2.52%) y ACWX (2.47%), menor que IXUS (2.89-2.96%). Distribucion TRIMESTRAL confirmada (igual que VXUS, a diferencia de la semestral de IXUS/ACWX).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "COMPARACION VERIFICADA A CUATRO BANDAS con VXUS (fila 30), IXUS (fila 45) y ACWX (fila 46), los tres ya analizados en este workbook. **VEU es el resultado MAS COMPETITIVO del cluster hasta ahora frente a VXUS**: TER MAS BARATO (0.04% vs 0.05%, primera vez que alguien le gana a VXUS en costo), liquidez verificada SUPERIOR en ambas metricas (volumen $353.36M/dia, el mas alto del cluster; spread ~0.01%, empatado con ACWX como el mas ajustado), y el track record MAS LARGO de todos (19.4 anios, cobertura de crisis sin igual en el proyecto). La UNICA desventaja real de VEU frente a VXUS es la diversificacion interna: 3,895 holdings sin tramo small-cap vs 8,807 de VXUS (que si incluye small-cap via su indice 'Global All Cap'). Para un inversor sin VXUS ya en cartera, VEU seria una alternativa genuinamente defendible (posiblemente incluso preferible por costo); para este usuario, que ya tiene VXUS analizado y en el rol de diversificador ex-US, sumar VEU no aporta una ventaja lo bastante grande para justificar fragmentar la posicion entre dos vehiculos casi identicos por un ahorro de solo 1 punto base. IXUS y ACWX siguen siendo claramente inferiores a VEU en esta comparacion de cuatro.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: mismo rol Core (diversificador ex-US) que VXUS/IXUS/ACWX - CUARTO vehiculo consecutivo del cluster, pero el que MAS FUERTE caso tiene de los tres competidores para 'reemplazar' a VXUS si el usuario empezara de cero (mas barato, mejor liquidez verificada, track record mas largo). Sigue siendo redundante dado que VXUS YA esta en la cartera analizada y la diferencia de costo es marginal frente a la perdida de diversificacion interna.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: misma tesis geografica ya cubierta TRES veces en este workbook (VXUS, IXUS, ACWX) - el angulo de VEU (ligeramente mas barato, mejor liquidez, track record mas largo) es real pero de bajo impacto practico para un usuario que ya tiene la posicion equivalente en VXUS.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo cambiario no cubierto + retencion fiscal extranjera (mismo gotcha de VYMI/VXUS/IXUS/ACWX); (2) redundancia de cartera (aunque el argumento de eficiencia de costo es el mas debil del cluster para justificar NO agregarlo, dado que VEU es mas barato que el propio VXUS); (3) Max Drawdown historico el MAS SEVERO de todo el proyecto de renta variable (-61.5%), aunque explicado por la ventana mas larga; (4) menor diversificacion interna que VXUS (sin tramo small-cap).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VXUS (fila 30), IXUS (fila 45) y ACWX (fila 46), los TRES ya analizados en este workbook - ver comparacion completa en fila 50. VEU es el competidor MAS FUERTE de los tres frente a VXUS. SCHF (Schwab, solo desarrollados) sigue sin datos propios verificados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score 3.91/5 - el MAS ALTO de los tres competidores directos de VXUS analizados hasta ahora (IXUS 3.82, ACWX 3.48), y sorprendentemente cercano al propio VXUS (3.94). VEU es el primer vehiculo del cluster ex-US amplio que le gana a VXUS en costo puro (TER 0.04% vs 0.05%), ademas de tener la mejor liquidez verificada del cluster (volumen $353.36M/dia, spread ~0.01%) y el track record mas largo de todo el proyecto de renta variable (19.4 anios, cobertura completa de la Crisis 2008 desde antes de su inicio - de ahi tambien su Max Drawdown record del proyecto, -61.5%, una consecuencia esperable de esa ventana mas larga, no una senal de mala calidad). Su unica desventaja estructural real frente a VXUS es la diversificacion interna: 3,895 holdings sin tramo small-cap (indice FTSE All-World estandar) vs 8,807 de VXUS (indice FTSE Global All Cap, que si incluye small-cap). Para este usuario, que ya tiene VXUS ocupando este rol en la cartera analizada, la diferencia de 1 punto base de TER no compensa fragmentar la posicion en un cuarto vehiculo con exposicion economica casi identica - mismo criterio de decision ya aplicado a IXUS y ACWX. Si el usuario tuviera que elegir HOY entre los cuatro sin VXUS ya en cartera, VEU seria el competidor mas dificil de descartar de los tres."
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "nombre": "Vanguard Financials ETF",
+  "ticker": "VFH",
+  "categoria": "Equity Sector (financiero diversificado multi-cap: bancos/banca de inversion/seguros/gestion de activos/pagos)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA -'full-replication cuando es posible', segun ficha oficial Vanguard, muestreo solo si hay restricciones regulatorias-. Mismo patron de bajo costo/alta calidad de replica consistente en todo el proyecto Vanguard -VOO/VXUS/VEA/VDE/etc-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -NYSE Arca, CUSIP 92204A405-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$12.7-13.9bn -ficha oficial Vanguard 30-jun-2026 $12,743M clase ETF/$13,933M fondo total, stockanalysis.com $13.87bn fecha posterior-, MUY SUPERIOR a IYF -~$4.45bn, ya en el workbook-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "22.5 anios desde inception -26-ene-2004-. CUBRE Crisis 2008 completa -Max Drawdown documentado en fila 41-, aunque con 4 anios MENOS historial que IYF -may-2000, ya en el workbook, incluye la burbuja punto-com que VFH no cubre-. Benchmark 'spliced': MSCI US Investable Market Financials Index hasta 26-feb-2010, luego MSCI US IMI Financials 25/50 -cambio de composicion documentado transparentemente en la ficha oficial, no rompe la continuidad del track record de retorno-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Vanguard, reputada por su estructura de bajo costo consistente en todo el proyecto -VOO/VXUS/VEA/VDE entre otros ya en el workbook-.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.09% -confirmado de forma identica por ficha oficial Vanguard, stockanalysis.com, advisors.vanguard.com, comparativas Motley Fool-, **4-4.75x MAS BARATO que IYF -0.38%, ya en el workbook- y que KIE/XHB/XRT -0.35%-**. Vanguard reporta el promedio de categoria 'Financial Services ETFs' en 0.47% -VFH muy por debajo-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference MUY LIMPIA -derivada directamente de la tabla de performance oficial de Vanguard, NAV vs indice, TODAS las ventanas-: 1Y -0.10pp, 3Y -0.11pp, 5Y -0.09pp, 10Y -0.09pp, desde inception -0.08pp. **Practicamente igual al TER en todas las ventanas** -replica de alta calidad, sin sorpresas-. Tracking error 3Y = 0.60% -fuente unica, Morningstar via busqueda- vs mediana de 1.35% para todos los ETFs.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Vanguard opera un programa institucional de securities lending a nivel de firma, sin cifra especifica de revenue para VFH.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice cap-weighted CAPPED -25/50, metodologia GICS estandar-. Turnover rate = 5.1% anual -ficha oficial Vanguard-, BAJO.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~785,380 acciones/dia -promedio 3 meses, fuente agregada-, equivalente a ~$110M/dia a precio ~$140.93/accion -estimacion derivada, no dato directo-. Alto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Bid-ask spread NO ENCONTRADO con cifra confiable -Vanguard/etf.com bloquearon el fetch directo, un intento devolvio '0.000%' probablemente un artefacto de scraping-. Declarado explicitamente como no verificado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount historico vs NAV NO ENCONTRADO -Vanguard no publica cifra agregada, ycharts bloqueado-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero Vanguard tiene infraestructura de creacion/redencion robusta a nivel de firma, consistente con el resto de fondos Vanguard del proyecto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "**427-441 holdings -ancla oficial Vanguard 428-, MUCHO MAS diversificado que IYF -143-147, ya en el workbook-**, ~3x mas posiciones. Desglose por capitalizacion: Large Cap 60.0%, Medium 15.7%+5.5%, Small Cap 11.1%+7.7% -exposicion multi-cap genuina que IYF -mas concentrado en large-cap- no tiene en la misma medida-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 45.2% -ficha oficial Vanguard-: JPMorgan Chase 9.5%, Berkshire Hathaway 8.1%, Mastercard 4.9%, Bank of America 4.5%, Visa 4.3%, Goldman Sachs 3.3%, Wells Fargo 3.0%, Morgan Stanley 2.9%, Citigroup 2.6%, American Express 2.1%. **Nucleo practicamente IDENTICO a IYF -JPM/BRK.B/BAC/GS/MS/WFC/C compartidos-, pero VFH sustituye SCHW/BLK/PGR de IYF por Mastercard/Visa/American Express -mucho mas peso a payment networks-**. Levemente MENOS concentrado que IYF -48.7-48.9%-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Desglose sub-industria GICS oficial Vanguard: Diversified Banks 23.8% el mayor, Transaction & Payment Processing Services 14.5% -Visa/Mastercard, presencia MUCHO mas fuerte que en IYF-, Investment Banking & Brokerage 10.9%, Property & Casualty Insurance 8.2%, Multi-Sector Holdings 8.1% -Berkshire Hathaway-, Asset Management & Custody Banks 7.6%, Regional Banks 7.6%, Financial Exchanges & Data 5.9%, Consumer Finance 4.9%, Insurance Brokers 3.0%, Life & Health Insurance 2.6%. Exposicion a seguros combinada ~13.8% -similar en espiritu a IYF, aunque no es directamente comparable con KIE, ya en el workbook, que es 100% seguros equal-weight-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Exposicion multi-cap genuina -large/mid/small cap combinados, ver fila 30-, factor de tamano mas amplio que IYF.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI US Investable Market -IMI- Financials 25/50 -cap-weighted, capped, metodologia GICS estandar-, transparente y publicada por MSCI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo estandar, turnover BAJO 5.1%/anio -ficha oficial Vanguard-, documentado con mas detalle que IYF.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.43
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 10Y anualizado = 13.09% -NAV, ficha oficial Vanguard 30-jun-2026-, **PRACTICAMENTE EMPATADO con IYF -~13.6-13.8%, ya en el workbook-, correlacion 0.98 entre ambos -sustitutos casi perfectos en exposicion de mercado-**. Retorno 1Y 5.22% -oficial jun-2026- a 13.89% -stockanalysis.com, fecha posterior, refleja rally del sector entre jun y ago-2026-. Retorno 3Y 19.67%, 5Y 10.01% -ambos oficiales-. CAGR desde inception 6.60%-7.01% segun fecha de corte.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad con cierta discrepancia por ventana: 15.51% -3 anios, ficha oficial Vanguard, cifra MAS CONFIABLE- vs 19.81% -otra ventana/fuente no identificada con precision-. Cifra oficial mas confiable que la disponible para IYF -rango 15.3-26.0% sin ancla oficial-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = **-78.61%**, minimo 6-mar-2009, ~1937 sesiones de recuperacion -fuente de segunda mano, fetch directo bloqueado-. **PRACTICAMENTE IDENTICO a IYF -79.1%, ya en el workbook-**, ambos cubren Crisis 2008 con severidad casi igual -retorno calendario 2008: VFH -48.91% vs IYF -50.07%-, coherente con que ambos son fondos financieros ampliamente diversificados con epicentro en la misma crisis. Dato adicional: Max Drawdown a 5 anios de -25.7% -ventana reciente, probable crisis bancaria regional 2023-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio NO ENCONTRADO pese a busqueda extensa en Morningstar/ycharts/portfoliovisualizer/seekingalpha -todas bloquearon el fetch directo con 403/405-. Declarado explicitamente como no disponible.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.80-0.91 -stockanalysis.com/otra fuente-, **RANGO IDENTICO al ya documentado para IYF en el workbook**. Correlacion VFH-IYF = 0.98 -se mueven de forma casi identica-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Cubre Crisis 2008 completa por inception ene-2004, documentado con retorno calendario 2008 -48.91%- y Max Drawdown -78.61%, ambos casi identicos a IYF. Dato adicional de drawdown a 5 anios -25.7%- sugiere tambien impacto de la crisis bancaria regional 2023.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 15.54x -stockanalysis.com- a 16.3x -ficha oficial Vanguard-, razonablemente cercano, sin discrepancia material.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "P/B ponderado = 2.2x -ficha oficial Vanguard, CONFIABLE, sin discrepancia entre fuentes-, metrica particularmente relevante para financieras. Dividend yield 1.64-1.77% segun fuente, payout ratio 25.56% -stockanalysis.com-. Datos adicionales oficiales: ROE ponderado 12.7%, crecimiento de earnings estimado 9.5%, market cap mediano $156.7bn, turnover 5.1%/anio.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**Comparacion DIRECTA cifra-a-cifra con IYF -ya en el workbook, Score 2.64-**: VFH gana en TER -4-4.75x mas barato-, numero de holdings -~3x mas, 428 vs 143-147-, y concentracion Top10 -45.2% vs 48.7-48.9%-, con retorno 10Y/Beta/Max Drawdown PRACTICAMENTE IDENTICOS -correlacion 0.98-. **NINGUN eje donde IYF domine claramente salvo un historial 4 anios mas largo -incluye la burbuja punto-com que VFH no cubre-**. Comparacion mucho mas decisiva a favor de Vanguard que la vista en VDE-vs-XLE/FENY -alli VDE SI tenia un retorno 10Y genuinamente inferior; aqui VFH iguala practicamente el retorno de IYF sin el sobrecosto-.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Satelite sectorial financiero amplio, mismo tipo de exposicion que IYF pero estructuralmente mas eficiente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: misma exposicion sectorial financiera diversificada que IYF -bancos/banca de inversion/seguros/gestion de activos/pagos- pero con 4-4.75x menor costo y ~3x mas holdings, SIN sacrificar retorno ni exposicion de mercado -Beta y correlacion practicamente identicos a IYF-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: mismos riesgos sistemicos/regulatorios/de tasas de interes que IYF -sector financiero, riesgo de cola ya materializado severamente en 2008-, concentracion Top10 45.2% pese a 428 holdings nominales -la cola larga de holdings mid/small-cap aporta diversificacion nominal pero poco peso real-, sensibilidad mixta a tasas -bancos sensibles vs payment networks/gestion de activos menos sensibles, dentro del mismo fondo-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "IYF -iShares, ya en el workbook, Score 2.64, REDUCIR/VENDER- es el competidor directo mas cercano -correlacion 0.98, casi sustitutos perfectos-: VFH lo domina en casi todos los ejes salvo el historial 4 anios mas corto. KIE -SPDR, seguros puro equal-weight, ya en el workbook- no es comparable directo pero comparte overlap parcial en el segmento asegurador -~13.8% de VFH-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. VFH es el competidor directo de IYF -ya en el workbook, fila 132, Score 2.64- que se dejo pendiente en esa ficha, y la comparacion cifra-a-cifra es DECISIVA a favor de Vanguard: TER 4-4.75x mas barato -0.09% vs 0.38%-, ~3x mas holdings -428 vs 143-147-, Top10 levemente menos concentrado -45.2% vs 48.7-48.9%-, mismo nucleo de holdings principales -JPM/BRK.B/BAC/GS/MS/WFC/C compartidos, VFH agrega mas peso a payment networks via Visa/Mastercard/Amex-, con retorno 10Y, Beta y Max Drawdown PRACTICAMENTE IDENTICOS a IYF -correlacion 0.98, sustitutos casi perfectos-. Tracking Difference muy limpia -practicamente igual al TER en todas las ventanas, replica de alta calidad-. Cubre Crisis 2008 completa con severidad casi identica a IYF -retorno 2008 -48.91% vs -50.07%, Max Drawdown -78.61% vs -79.1%-, aunque con 4 anios menos de historial -no cubre la burbuja punto-com-. A diferencia de VDE -donde el fondo Vanguard SI tenia un retorno 10Y genuinamente inferior a sus competidores mas caros ya en el workbook-, aqui VFH iguala practicamente el retorno de IYF SIN el sobrecosto -ningun matiz que temple la ventaja estructural-. Score 3.48/5, notablemente por encima de IYF -2.64- y de KIE -2.88-. Rol Satelite sectorial financiero, no redundante con KIE -seguros puro- pero SI con IYF, al que domina decisivamente."
+  }
+}

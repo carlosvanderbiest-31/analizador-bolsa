@@ -1,0 +1,225 @@
+{
+  "nombre": "Vanguard Communication Services ETF",
+  "ticker": "VOX",
+  "categoria": "Equity Sector (Communication Services, MSCI US IMI Communication Services 25/50 Index, Vanguard - competidor DIRECTO de XLC -fila 109, ya en el workbook-, mismo sector GICS pero indice MSCI IMI -large+mid+small cap- en vez de S&P500 Select Sector puro, MUCHOS mas holdings pero CONTRAINTUITIVAMENTE concentracion similar o mayor en Meta+Alphabet)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA declarada -muestreo solo como respaldo ante restricciones regulatorias-, compromiso metodologico mas estricto que el enfoque de muestreo optimizado de XLC.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, Vanguard World Fund, RIC estandar.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $5.66-5.95bn - solido pero **NOTABLEMENTE MAS PEQUENO que XLC** -$21.72-22.50bn, ~4x mayor-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 23-sep-2004 (~21.97 anios) - **MUCHO MAS ANTIGUO que XLC** -8.15 anios-, el indice cambio de nombre varias veces -de 'Telecom Services' a 'Communication Services' en dic-2018 tras la reclasificacion GICS-, cubre Crisis 2008 -como fondo de telecom legacy- y COVID, NO dot-com -nace post-crisis-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Vanguard, pionero de la indexacion de bajo costo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.09% - marginalmente MAS CARO que XLC -0.08%-, diferencia practicamente irrelevante, ambos ultra-baratos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "**Desviacion estandar 3 anios mensual: 15.40% vs benchmark 15.41%** -Vanguard oficial- - tracking PRACTICAMENTE PERFECTO, una de las cifras de calidad de tracking mas precisas verificadas en el proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "RIC estandar Vanguard, presumiblemente presta valores - revenue especifico no verificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Turnover anual **12.1%** -cifra oficial Vanguard, genuinamente precisa- - bajo, coherente con una metodologia de revision periodica MSCI.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~64,496 acciones/dia (~$11.9M/dia) - **NOTABLEMENTE MENOS liquido que XLC** -$720-924M/dia, ~60-80x mas liquido-, brecha de liquidez real y sustancial.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread ~0.03% -mediana 30 dias- - razonablemente ajustado en terminos absolutos, aunque mas ancho que lo implicito en la liquidez de XLC.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV ~-0.02% - minimo, cifra cuantificada con precision.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Vanguard, emisor establecido, aunque para un producto notablemente menos liquido que XLC la profundidad real de AP es menor.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "**112-117 holdings** - MUCHO mas que los 23-26 de XLC, universo nominal genuinamente mas amplio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 68.24-71.5% del NAV - **similar o incluso MAYOR que XLC -69.95%-**, CONTRAINTUITIVAMENTE NO menos concentrado pese a 4-5x mas holdings: **Meta+Alphabet combinado = 42.5-42.9%** -Meta ~20.3-20.5%, Alphabet/GOOGL+GOOG ~22.1-22.4%- **MAYOR que el ~37-37.2% de XLC** - leccion clara de que 'mas holdings' no implica automaticamente 'menos concentracion' cuando la metodologia sigue permitiendo que las mismas mega-caps dominen.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Interactive Media & Services **46.5%** -aun MAS concentrado en esta sub-industria que el 37.01% de XLC- + Movies & Entertainment 18.2% + Integrated Telecom 11.7% + Interactive Home Entertainment 7.2% + Alternative Carriers 5.2% + Wireless 3.3% + Cable & Satellite 2.4% + Advertising 2.2% + Broadcasting 1.6% + Publishing 1.6%.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Desglose por capitalizacion -Vanguard-: Large 65.2%, Med/Large 3.3%, Medium 15.1%, Med/Small 6.9%, Small 9.5% - **~35% de exposicion genuina a mid/small-cap** que XLC -universo S&P500 puro- NO tiene, esta es la VERDADERA diferencia de diversificacion frente a XLC, no la concentracion Top10.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Mismo tilt sectorial Communication Services que XLC, pero con amplitud multi-cap genuina en vez de large-cap puro.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "MSCI US IMI Communication Services 25/50 Index -Investable Market Index, cubre large+mid+small- - metodologia arguiblemente MAS representativa del sector 'real' que el subconjunto S&P500 de XLC, aunque el nombre del indice ha cambiado varias veces reflejando reclasificaciones historicas.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Revision periodica MSCI trimestral/semestral estandar, turnover bajo confirmado -12.1%-.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y +8.81% -Vanguard- o +7.22% -stockanalysis- -**MEJOR que el +3.83% de XLC**-, 3Y anualizado +21.40% -fuerte, aunque por debajo del +30.29% de XLC-, 5Y anualizado **solo +6.16%** -**NOTABLEMENTE MAS DEBIL que el +15.14% de XLC**, posible arrastre de la cola legacy telecom/small-cap-, 10Y anualizado +8.10%, desde inception -21.97 anios- +8.65-8.68% anualizado - resultados MIXTOS frente a XLC, genuinamente peor en la ventana de 5 anios.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $172.37-$200.77 (ratio 1.165x) - ligeramente MAS ALTO que XLC -1.146x-, ambos en el extremo bajo del cluster reciente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "**Max Drawdown -57.18%**, pico nov-2008 -era del indice legacy de Telecom Services, 959 sesiones -~3.8 anios- para recuperarse- - **MUCHO PEOR que el -46.65% de XLC -2022-**, aunque refleja una composicion de indice fundamentalmente distinta -telecom-pesado pre-reclasificacion GICS 2018, no comparable limpiamente con XLC-. Peor mes abr-2022 -15.0%, peor dia unico COVID -11.4% -16-mar-2020-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ~0.51 -aproximado- - similar al rango de XLC -0.41-0.58-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 1.06 vs S&P 500 - cercano a 1.0, notablemente mas 'de mercado' que el rango conflictivo de XLC -0.84-0.98-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Crisis 2008 -57.18%/959 sesiones, era telecom-pesada- + peor mes 2022 -15.0%- + peor dia COVID -11.4%- - dataset de crisis mas ANTIGUO que XLC, aunque la cifra de 2008 refleja una composicion de indice fundamentalmente distinta -no es comparable limpiamente-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 17.1x -Vanguard- o 16.69x -stockanalysis- - LIGERAMENTE mas caro que XLC -12.97-16.11x-. P/B 3.4x -tambien algo mas caro que XLC 2.99x-. ROE 29.0%, crecimiento de utilidades 20.8% - cifras de calidad/crecimiento genuinamente precisas, primeras de este tipo en el cluster.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield 1.05% TTM, trimestral - ligeramente MENOR que XLC -1.28-1.32%-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION MAS RICA Y CONTRAINTUITIVA** del cluster sectorial reciente: VOX tiene 4-5x MAS holdings que XLC -112-117 vs 23-26- PERO concentracion Top10 SIMILAR O MAYOR -68-71.5% vs 69.95%- porque Meta+Alphabet combinado -42.5-42.9%- es MAYOR en VOX que en XLC -~37-37.2%- - la leccion es que mas holdings NO garantiza menos concentracion si la metodologia sigue permitiendo dominancia mega-cap. La diferencia de diversificacion REAL esta en la cola mid/small-cap -~35%- que XLC no tiene -publishers, broadcasters, alternative carriers-. XLC gana DECISIVAMENTE en liquidez -~60-80x mayor volumen en dolares- y AUM -~4x mayor-, y ligeramente en costo/valoracion, mientras VOX ofrece track record mas largo -2004 vs 2018- y mejor 1Y/3Y reciente pese a un 5Y notablemente peor -+6.16% vs +15.14%-.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: SATELITE de alta conviccion sectorial - mismo tratamiento categorico que XLC dado el riesgo de concentracion mega-cap compartido.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: similar a XLC -exposicion concentrada a Meta/Alphabet- pero con track record mas largo y una cola genuina de mid/small-cap que anade exposicion a sub-industrias legacy telecom/media estructuralmente distintas -y a menudo mas debiles- que las mega-caps growth que dominan ambos fondos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentracion EXTREMA en solo dos nombres -Meta+Alphabet 42.5-42.9%, INCLUSO MAYOR que XLC- pese a 4-5x mas holdings nominales; (2) Max Drawdown historico documentado -57.18%, peor que XLC, aunque de una era de indice distinta-; (3) liquidez genuinamente peor que XLC -~60-80x menos volumen en dolares-; (4) retorno 5Y notablemente mas debil que XLC -+6.16% vs +15.14%-; (5) la cola mid/small-cap anade exposicion a sub-industrias estructuralmente desafiadas -broadcasting, publishing, wireless carriers- con fundamentos a menudo peores que las mega-caps.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "XLC -fila 109, ya en el workbook, el vehiculo mas liquido, barato, grande y enfocado para la misma tesis mega-cap central, generalmente el vehiculo mas fuerte- es la comparable directa mas relevante.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA - misma concentracion mega-cap que XLC, con peor liquidez y 5Y mas debil. Score 3.24/5, marginalmente por encima de XLC -3.18- pese a varias desventajas, gracias al tracking practicamente perfecto, turnover bajo confirmado y mejor 1Y/3Y reciente. Vanguard Communication Services ETF, MSCI US IMI Communication Services 25/50 Index - **competidor DIRECTO de XLC -fila 109, ya en el workbook-**, mismo sector GICS pero indice MSCI IMI -large+mid+small cap, 112-117 holdings- en vez del subconjunto S&P500 puro de XLC -23-26 holdings-. **Hallazgo CONTRAINTUITIVO clave**: pese a tener 4-5x mas holdings, la concentracion Top10 -68.24-71.5%- es SIMILAR O MAYOR que la de XLC -69.95%-, porque Meta+Alphabet combinado -42.5-42.9%- es MAYOR en VOX que en XLC -~37-37.2%- - mas holdings no implica menos concentracion cuando la metodologia sigue permitiendo dominancia mega-cap. La diferencia REAL de diversificacion esta en la cola mid/small-cap -~35% del fondo- ausente en XLC. AUM $5.66-5.95bn, notablemente menor que XLC -~4x-. Volumen ~$11.9M/dia, **~60-80x MENOS liquido que XLC** -$720-924M/dia-, una brecha real y sustancial. Retorno 1Y +8.81% o +7.22% -MEJOR que XLC +3.83%-, pero 5Y solo +6.16% -**NOTABLEMENTE PEOR que el +15.14% de XLC**-. Max Drawdown historico -57.18% -pico nov-2008, era del indice legacy de Telecom Services, no comparable limpiamente con la cifra de XLC de 2022-. Track record mucho mas largo -21.97 anios vs 8.15 de XLC-. TER 0.09% vs 0.08% de XLC, diferencia irrelevante. Rol en Portafolio: Satelite de alta conviccion sectorial, mismo riesgo de concentracion mega-cap que XLC pero con peor liquidez - XLC sigue siendo el vehiculo mas fuerte para la misma tesis central."
+  }
+}

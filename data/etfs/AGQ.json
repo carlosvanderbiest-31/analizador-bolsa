@@ -1,0 +1,226 @@
+{
+  "nombre": "ProShares Ultra Silver",
+  "ticker": "AGQ",
+  "categoria": "Materias Primas Apalancado/Inverso (+2x diario sobre plata via futuros/swaps - SEXTO instrumento apalancado/inverso del proyecto, ESPEJO DIRECCIONAL EXACTO de ZSL -fila 74-: mismo emisor, indice y fecha de inception, direccion opuesta)",
+  "emisor": "ProShares",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica SINTETICA via futuros de plata (68.40%) Y SWAPS con contrapartes bancarias NOMBRADAS (Citibank NA 61.93%, UBS AG 55.84%, Goldman Sachs 13.79%) - misma estructura exacta que ZSL, riesgo de contraparte bancario explicito.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - SEXTA confirmacion de esta complejidad fiscal en la categoria apalancado/inverso del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $1.25bn - **EL MAS GRANDE de los seis apalancados/inversos del proyecto**, supera incluso a SCO (~$744M-1.14bn), refleja el fuerte interes especulativo en la plata durante su rally reciente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 1-dic-2008 (~17.7 anios) - **MISMA fecha exacta que ZSL** (y UGL), lanzamiento gemelo de la pareja +2x/-2x de ProShares sobre plata, cubre la Crisis Financiera 2008 directamente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor ProShares - SEXTA aparicion consecutiva en el proyecto.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.95% - IDENTICO al resto de la linea Ultra/UltraShort de materias primas de ProShares, SEXTA confirmacion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Retorno neto desde inception LEVEMENTE POSITIVO pero con cifras CONFLICTIVAS entre fuentes: +1.59% a +3.17% CAGR (ver fila 39) - a diferencia de UGL (+12.44%, oro claramente alcista), la plata parece haber tenido una tendencia de largo plazo mas plana/mixta con volatilidad extrema, lo que sigue permitiendo que el decay estructural erosione gran parte del retorno esperado incluso del lado 'ganador' del par ZSL/AGQ.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rotacion DIARIA de los contratos de futuros y swaps de plata - misma mecanica que el resto de la categoria.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~1.82M acciones/dia (~$144.6M/dia al precio actual $79.43) - **LA MEJOR liquidez en dolares de los seis apalancados/inversos del proyecto**, superando incluso a UGL (~$93.4M/dia).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "ProShares - profundidad de Authorized Participants reforzada por ser el fondo mas grande de la categoria apalancada/inversa del proyecto.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Numero de holdings y diversificacion",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion Top 10 holdings (%)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion geografica",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "aspectos": [
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Bloomberg Silver Subindex, UN SOLO commodity, +2x diario via futuros/swaps - MISMO indice que ZSL, direccion opuesta.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo DIARIO al cierre de cada sesion para mantener el objetivo +2x - identico mecanismo al resto de la categoria, SEXTA confirmacion consecutiva del patron estructural de decay por rebalanceo diario.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = **+49.46%** (la plata tuvo un rally historico este anio, ver ZSL fila 74 para el lado corto devastado por el mismo movimiento). Retorno desde inception (17.7 anios) = cifras CONFLICTIVAS entre fuentes: **+3.17% CAGR (una fuente) vs +1.59% CAGR (otra fuente)** - ambas positivas pero modestas, muy por debajo del +12.44% de UGL, sugiriendo que la plata ha tenido una tendencia de largo plazo mucho mas plana/volatil que el oro en el mismo periodo. Se presentan ambas cifras con reserva explicita, mismo tipo de gotcha de datos conflictivos ya visto en ZSL.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad EXTREMA: rango de 52 semanas $49.68-$431.47 (ratio 8.68x) - **SEGUNDA mas extrema de los seis apalancados/inversos del proyecto** (tras ZSL, 16.76x), muy por encima de UGL (2.63x) pese a compartir emisor/estructura.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Evidencia de un YTD de -24.54% en un tramo de 2026 (posiblemente Q1) pese a terminar con retorno 1Y de +49.46% - drawdown intra-anual severo, coherente con la volatilidad extrema de fila 40 y el patron ya visto en UGL de caidas fuertes enmascaradas por el resultado final.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.67
+    },
+    {
+      "titulo": "Sharpe / Sortino ratio",
+      "aspectos": [
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = **1.01** - PRIMER beta cercano/igual a 1.0 de los seis apalancados/inversos del proyecto (los demas oscilaron entre -1.14 y +0.34), aunque no representa una relacion de mercado estable ni fiable: el precio de AGQ esta dominado por la dinamica propia de la plata (industrial + monetaria), no por el mercado accionario amplio.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**ESPEJO DIRECCIONAL EXACTO de ZSL (fila 74, ya en el workbook)**: mismo emisor, mismo indice Bloomberg Silver, MISMA fecha de inception (1-dic-2008). A diferencia del par KOLD/BOIL (donde una tendencia CLARA bajista del gas natural beneficio al corto y devasto al largo), aqui AMBOS lados del par ZSL/AGQ muestran evidencia de decay severo: AGQ termina positivo pero modesto (+1.59-3.17% CAGR) mientras ZSL termina fuertemente negativo (-42% CAGR) - sugiere que la plata tuvo una tendencia de largo plazo mas plana/lateral con volatilidad extrema, que castiga desproporcionadamente al lado corto via decay incluso sin una tendencia direccional clara. SLV/PSLV (1x fisica simple) serian la alternativa sin decay amplificado. | ACTUALIZACION posterior (SIVR, fila 82): SIVR (plata fisica 1x, TER 0.30%, CAGR desde inception +9.13%) confirma ser la exposicion 'limpia' a la plata que AGQ solo aproxima con apalancamiento y decay adicional - Score 3.62 de SIVR vs 2.61 de AGQ, evidencia clara de que el apalancamiento no aporta valor neto para un horizonte mayor a dias incluso cuando la direccion resulta favorable. Ver Ficha SIVR fila 50.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - misma categoria que el resto de la linea apalancada/inversa del proyecto, NUNCA apto como posicion de largo plazo pese al resultado historico neto positivo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: unicamente tiene sentido como (a) cobertura tactica de exposicion real a un alza de la plata por un horizonte de pocos dias, o (b) apuesta direccional alcista de trading de muy corto plazo. El resultado modesto pero positivo desde 2008 (a diferencia del fuerte +12.44% de UGL) muestra que incluso acertando la direccion, la plata no ha generado el mismo tipo de ganancia compuesta que el oro para el lado largo apalancado - la volatilidad extrema del commodity erosiona mas el resultado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) decay estructural presente pese al resultado neto positivo, con cifras de CAGR desde inception internamente inconsistentes entre fuentes; (2) volatilidad la segunda mas extrema de la categoria (rango 52 semanas 8.68x); (3) riesgo de contraparte bancario NOMBRADO en swaps (Citibank, UBS, Goldman Sachs); (4) complejidad fiscal via K-1; (5) drawdown intra-anual severo evidenciado (-24.54% YTD en algun tramo de 2026) pese a terminar el periodo en positivo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "ZSL (mismo emisor, -2x CORTO, espejo direccional exacto, ya en el workbook fila 74) y SLV/PSLV (exposicion 1x fisica simple sin apalancamiento, la alternativa logica sin decay amplificado) son las alternativas relevantes. SIVR (fila 82) ahora tambien analizado en el workbook - exposicion fisica 1x sin decay, Score notablemente mas alto, ver comparacion completa en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.61/5. ProShares Ultra Silver, +2x diario sobre plata - ESPEJO DIRECCIONAL EXACTO de ZSL (fila 74): mismo emisor, mismo indice Bloomberg Silver, MISMA fecha de inception (1-dic-2008). A diferencia del par KOLD/BOIL (donde una tendencia claramente bajista del gas natural beneficio al corto y devasto al largo), aqui el patron es mas matizado: AGQ termina con un CAGR desde inception LEVEMENTE POSITIVO pero modesto (+1.59% a +3.17%, cifras conflictivas entre fuentes) mientras ZSL termina fuertemente NEGATIVO (-42% CAGR) - sugiere que la plata ha tenido una tendencia de largo plazo mas plana/lateral que el gas natural o el oro, con volatilidad extrema que castiga desproporcionadamente al lado corto del par via decay, incluso sin una tendencia direccional clara y sostenida. El retorno 1Y de AGQ es fuerte (+49.46%, reflejo del mismo rally historico de la plata que devasto a ZSL -89.12% en el mismo periodo), pero la volatilidad extrema (rango 52 semanas de 8.68x, la segunda mas alta de los seis apalancados/inversos del proyecto) y evidencia de un drawdown intra-anual severo (-24.54% YTD en algun tramo de 2026 pese a terminar en positivo) muestran que el decay estructural sigue plenamente presente y el resultado favorable no es garantia de nada hacia adelante. Unico uso legitimo: cobertura tactica de exposicion real a un alza de la plata por un horizonte de dias, o apuesta direccional alcista de trading de muy corto plazo - nunca como posicion Core o Satelite. ZSL (mismo emisor, -2x, espejo exacto, ya en el workbook) y SLV/PSLV (1x fisica simple) son las alternativas relevantes. Con KOLD, ZSL, SCO, BOIL, UGL y ahora AGQ, el patron de decay compuesto por rebalanceo diario queda confirmado en SEIS DE SEIS casos de la categoria apalancado/inverso del proyecto."
+  }
+}

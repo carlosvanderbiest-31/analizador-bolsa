@@ -1,0 +1,225 @@
+{
+  "nombre": "SPDR S&P Bank ETF",
+  "ticker": "KBE",
+  "categoria": "Equity Tematico/Factor (banca regional/comunitaria EEUU + aseguradoras de vida-hipotecarias adyacentes)",
+  "emisor": "State Street/SPDR",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO -sampling-, no obligada a comprar todos los valores del indice. Turnover ~22% anual, mas alto que el resto de la familia S&P Select Industry ya en el workbook -posiblemente por mayor rotacion entre bancos regionales pequenos-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -SPDR Series Trust, NYSE Arca-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$1.79bn -SSGA oficial, 11-ago-2026, fuente mas reciente-, aunque otras fuentes/fechas muestran cifras mas bajas -$1.12bn a $1.52bn segun agregador-, rango disperso no reconciliado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "20.75 anios desde inception -8-nov-2005, **MISMA FECHA EXACTA que KIE -fila 131, ya en el workbook-**-. **HALLAZGO METODOLOGICO -mismo patron que KIE-**: el indice CAMBIO el 24-oct-2011 -misma fecha exacta que KIE- de KBW Bank Index -modified market-cap- al actual S&P Banks Select Industry Index -equal-weight-. El Max Drawdown de Crisis 2008 -ver fila 41- se produjo bajo la metodologia KBW ANTIGUA, NO bajo la metodologia equal-weight actual.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor State Street/SPDR, CUARTO miembro confirmado de la familia S&P Select Industry equal-weight junto a XHB/XRT/KIE ya en el workbook.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.35% -CONFIRMADO en TODAS las fuentes consultadas, sin excepcion-, IDENTICO a XHB/XRT/KIE.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita en ninguna fuente. Turnover ~22% y spread muy ajustado sugieren TD reducida, pero sin dato verificado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Sin dato especifico de revenue por securities lending para KBE.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo trimestral, banda de capping -~4.5% por familia, no confirmada especificamente para el indice de Bancos- probablemente NO VINCULANTE en la practica dado que ningun constituyente se acerca a ese umbral con ~103 holdings a ~1% cada uno.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen con rango amplio no reconciliado entre fuentes -~1M a ~2.4M acciones/dia-, cifra mas citada en USD: **~$145M/dia** -fuente agregada-. Alto en terminos absolutos, muy liquido dentro de la categoria sectorial.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask -30-day median- = 0.01% -SSGA oficial-, MUY ajustado, otra fuente cita 0.02%.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount = +0.02% -SSGA oficial, snapshot ago-2026-, dato puntual sin serie historica encontrada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero State Street/SPDR tiene infraestructura de creacion/redencion robusta a nivel de firma, consistente con XHB/XRT/KIE.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "98-105 holdings segun fuente/fecha -SSGA oficial 103-, **EL MAYOR NUMERO de holdings de toda la familia S&P Select Industry del proyecto** -mas que XHB 33-35, mas que KIE 53, comparable a XRT 75-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**Top10 = solo ~10.96%-11% del fondo, LA CONCENTRACION MAS BAJA de TODA la familia S&P Select Industry del proyecto** -incluso menor que XRT 16.8%-. Holdings principales -pesos de apenas ~1% cada uno-: The Bancorp 1.14-1.16%, Corebridge Financial 1.11-1.13%, Equitable Holdings 1.11-1.12%, Nicolet Bankshares 1.09-1.11%, Jackson Financial 1.10-1.11%, NMI Holdings 1.08-1.10%, MGIC Investment 1.07-1.08%, Essent Group/WesBanco ~1.06-1.07%, WesBanco/Bank of America ~1.06%, Bank of America/First BanCorp PR ~1.06%.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "**HALLAZGO CUALITATIVO DISTINTIVO**: pese al nombre 'Bank ETF', el Top10 esta DOMINADO por ASEGURADORAS de vida/anualidades e hipotecarias -Corebridge Financial, Equitable Holdings, Jackson Financial, NMI Holdings, MGIC Investment, Essent Group, Voya Financial-, no por bancos puros. Money-center banks -JPM ~1.05%, BAC ~1.06%, USB ~1.03%, BNY, M&T, Citizens Financial- SI estan presentes pero con peso identico al de cualquier banco comunitario pequeno -Nicolet Bankshares, WesBanco, First BanCorp PR-, a diferencia de IYF/VFH -ya en el workbook- donde estos nombres dominan con pesos de doble digito.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Exposicion equal-weight con SESGO FUERTE hacia banca regional -76.93-77.33% del indice-, exposicion de riesgo MUY DISTINTA a IYF/VFH pese a compartir el universo sectorial 'Financials'.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice S&P Banks Select Industry, equal-weight modificado, misma familia metodologica que XHB/XRT/KIE. Sub-industrias: Regional Banks 76.93-77.33%, Diversified Banks 8.78-8.92%, Commercial & Residential Mortgage Finance 6.81-7.29%, Diversified Financial Services ~5.29%, Asset Management & Custody Banks ~2.06%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral estandar de la familia, banda de capping no vinculante en la practica dado el gran numero de holdings a pesos similares.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retornos con DISCREPANCIAS GRANDES entre fuentes: 5Y anualizado 10.06% vs 17.70% -~7.6pp de diferencia, no reconciliado-, 10Y anualizado 7.46% vs 10.84% -no reconciliado-. Retorno 1Y 26.88% -etfdb.com-, 3Y 21.63%. **CAGR desde inception = 4.01-4.06%, MUY BAJO y consistente entre fuentes**, refleja el severo impacto de la Crisis 2008 sobre el track record de largo plazo -mismo patron ya visto en XHB/XRT/KIE-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "**BANDERA DE CALIDAD DE DATO**: volatilidad anualizada = 34.3% -danelfin.com, desde inception, fuente unica pero cifra MUY ALTA, consistente con la naturaleza ciclica/apalancada del sector bancario regional-. Una de las volatilidades mas altas de cualquier fondo diversificado -no apalancado- del proyecto.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = **-83.15% a -83.6%**, atribuible a la Crisis Financiera 2008-2009 -retorno calendario 2007 -21.94%, 2008 -47.61%-. **CRITICO -mismo hallazgo que KIE-: este drawdown se produjo bajo la metodologia KBW Bank Index ANTIGUA, NO bajo la metodologia equal-weight actual del fondo desde oct-2011.** Ademas, **Max Drawdown a 5 anios de -45%** -incluye la crisis bancaria regional de marzo-2023, SVB/Signature/First Republic-, y caida de **-7.3% en un SOLO DIA -9-mar-2023, el dia del colapso de SVB-, comparable al -8.1% de KRE -SPDR Regional Banking, puramente regional, no analizado-**.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = 0.28 -danelfin.com, desde inception, fuente unica, MUY BAJO, arrastrado por la Crisis 2008-. Calmar ratio = 0.04 -misma fuente-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.91 -stockanalysis.com, fuente unica sin segunda fuente de contraste-, notablemente CONTRAINTUITIVO para un sector historicamente muy volatil como banca regional -posiblemente ventana de calculo reciente de baja volatilidad relativa, no confirmado-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "**EXPOSICION DIRECTA Y RECIENTE a la crisis bancaria regional de marzo-2023**: caida de -7.3% en un solo dia -9-mar-2023-, contribucion relevante al Max Drawdown a 5 anios de -45%. El evento de riesgo idiosincratico MAS RECIENTE y relevante para la tesis de inversion de KBE especificamente, dado su sesgo del 77% hacia banca regional -el segmento que sufrio el shock mas agudo-.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado con rango 11.96x -etfdb.com, forward FY1- a 13.56x -stockanalysis.com-, razonablemente barato, sin serie historica propia a 5-10 anios.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "P/B ponderado = 1.36x -etfdb.com, fuente unica pero plausible dado el sesgo hacia bancos regionales/medianos que cotizan con P/B mas comprimido que los money-center grandes-. Dividend yield ~2.0-2.1%, payout ratio 28.20% -stockanalysis.com-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Comparacion con IYF y VFH -ambos ya en el workbook-: el overlap de NOMBRES existe -JPM/BAC/USB/BNY/Citizens Financial aparecen en ambos universos-, PERO el overlap de EXPOSICION AL RIESGO es MUY BAJO -en KBE estos nombres pesan ~1% cada uno, ~20-30x menos proporcionalmente que en IYF/VFH cap-weighted-. Perfiles de riesgo estructuralmente DISTINTOS pese a compartir el sector 'Financials'.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol TACTICO/ESPECULATIVO dado el beta historicamente alto -pese al 0.91 reciente medido-, la volatilidad extrema -34.3%-, y la exposicion directa y reciente a la crisis bancaria regional de 2023.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: la exposicion mas PURA a banca regional/comunitaria del proyecto -76.93-77.33% Regional Banks-, altamente diversificada por NUMERO -103 holdings, Top10 solo ~11%- pero con riesgo idiosincratico de corrida bancaria/deposit-run YA MATERIALIZADO de forma severa en marzo-2023.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: riesgo de tasas de interes -mecanismo EXACTO que detono el colapso de SVB, perdidas no realizadas en carteras hold-to-maturity al subir tasas-, riesgo de calidad crediticia/concentracion en real estate comercial, **riesgo de corrida bancaria/depositos -deposit run risk, caso de manual marzo-2023 con SVB/Signature/First Republic-**, exposicion directa y confirmada a esa crisis -caida -7.3% en un dia-, riesgo de concentracion por CAMBIO DE FAMILIA DE INDICE -mismo hallazgo critico que KIE, ya en el workbook-, y riesgo idiosincratico de que el Top10 este dominado por aseguradoras -no bancos puros- pese al nombre del fondo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "KRE -SPDR S&P Regional Banking ETF, aun MAS puro en banca regional, no analizado en el workbook- queda como comparable directo mas extremo pendiente. IYF y VFH -ya en el workbook- ofrecen exposicion financiera mucho mas segura via bancos money-center diversificados.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). KBE es el CUARTO miembro confirmado de la familia S&P Select Industry equal-weight de State Street -junto a XHB, XRT y KIE, ya en el workbook-, con el MISMO hallazgo metodologico critico que KIE: el indice CAMBIO el 24-oct-2011 -MISMA fecha exacta que KIE- de KBW Bank Index -modified market-cap- al actual S&P Banks Select Industry equal-weight, por lo que el Max Drawdown de Crisis 2008 -83.15% a -83.6%- NO refleja la metodologia actual del fondo. Presenta la CONCENTRACION MAS BAJA de toda la familia -Top10 solo ~11%, 103 holdings- pero con un hallazgo cualitativo distintivo: su Top10 esta dominado por ASEGURADORAS de vida/hipotecarias -Corebridge, Equitable, Jackson Financial, MGIC, Essent, Voya-, no por bancos puros, pese al nombre 'Bank ETF'. **RIESGO MAS RELEVANTE Y RECIENTE**: exposicion DIRECTA a la crisis bancaria regional de marzo-2023 -SVB/Signature/First Republic-, con caida de -7.3% en un solo dia -9-mar-2023- y Max Drawdown a 5 anios de -45%, coherente con su sesgo del 77% hacia banca regional -el segmento mas golpeado por ese evento-. Volatilidad extrema -34.3% desde inception, de las mas altas de cualquier fondo diversificado no apalancado del proyecto- y Sharpe muy bajo -0.28-. TER 0.35% igual al resto de la familia, CAGR desde inception muy bajo -4.01-4.06%- por el arrastre de la Crisis 2008. Overlap de nombres con IYF/VFH -ya en el workbook- existe pero con exposicion al riesgo MUY DISTINTA -pesos ~20-30x menores proporcionalmente en KBE-. Score 2.67/5, cercano a IYE/IYF -2.64-, por debajo de XRT/KIE -2.88-. Rol Tactico/Especulativo UNICAMENTE dado el riesgo de cola YA MATERIALIZADO dos veces -2008 y 2023-."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "nombre": "Vanguard Dividend Appreciation ETF",
+  "ticker": "VIG",
+  "categoria": "Equity Tematico/Factor (dividendo/crecimiento, 100% US, ponderado por MARKET CAP -quinta metodologia distinta del cluster-, QUINTO y ultimo competidor confirmado del cluster junto a SCHD/NOBL/DVY/DGRO, EL MAS BARATO -TER- y GRANDE -AUM- pero tambien el MAS CARO en P/E y con overlap mas severo)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA, indice ponderado por MARKET CAP (quinta metodologia de ponderacion distinta dentro del cluster de dividendo del proyecto) - 342 holdings.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% acciones US - sin retencion de dividendos extranjeros ni complejidad fiscal adicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $113.58bn - **EL MAS GRANDE de TODO el cluster de dividendo del proyecto**, incluso mayor que SCHD (~$105bn).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 21-abr-2006 (~20.3 anios) - SEGUNDO mas antiguo del cluster tras DVY (22.75 anios), mayor que SCHD (14.8), NOBL (12.8) y DGRO (12.2).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Vanguard - multiple aparicion ya consolidada en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.04% - **EL MAS BARATO de TODO el cluster de dividendo del proyecto**, incluso mas barato que SCHD (0.06%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking difference no verificada con fuente primaria esta sesion; el TER minimo sugiere costo real muy contenido.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Screening: 10+ anios CONSECUTIVOS de incrementos de dividendo (menos estricto que los 25+ de NOBL), ponderacion por market cap.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~624K acciones/dia (~$153.4M/dia al precio actual $245.80) - solido.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Vanguard - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "342 holdings - SEGUNDO mas diversificado del cluster de dividendo del proyecto tras DGRO (397).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top5 = **31.87%** - MAS CONCENTRADO que DGRO (27.36% en top5) pese a tener un numero de holdings totales relativamente similar (342 vs 397), reflejo del peso de las mega-caps top via ponderacion por market cap.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sin cifra sectorial exacta verificada esta sesion, pero el top5 (Broadcom, Apple, Eli Lilly, JPMorgan, Microsoft) confirma fuerte presencia tech/healthcare/financials, similar en espiritu a DGRO pero con mayor concentracion en las posiciones top.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US - mismo perfil que el resto del cluster, sin diversificacion internacional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Factor dividendo/crecimiento ponderado por MARKET CAP (quinta metodologia del cluster), screening de 10+ anios consecutivos (menos estricto que NOBL) - fuerte sesgo hacia mega-cap growth/calidad, aun mas pronunciado que DGRO.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "S&P U.S. Dividend Growers Index - metodologia transparente y simple (screening de anios consecutivos + ponderacion por market cap).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas claras: 10+ anios consecutivos de incrementos, replica fisica completa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +20.58% (entre NOBL +15.62% y DVY +23.73%). Retorno desde inception (20.3 anios) = **+10.36% CAGR - MENOR que SCHD (+12.7%) y DGRO (+12.63%)**, similar a NOBL (+10.88%), mejor que DVY (+9.05%) pero sobre una ventana mas larga que SCHD/NOBL/DGRO que SI incluye la Crisis 2008.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad no verificada con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown no verificado con cifra especifica esta sesion, aunque dado que la ventana cubre la Crisis 2008 (igual que DVY) se espera una cifra nominal mas severa que SCHD/NOBL/DGRO.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio no verificado con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = **0.83 - EL MAS ALTO (menos defensivo) de TODO el cluster de dividendo del proyecto** (SCHD 0.69, DVY 0.68-0.78, NOBL 0.76, DGRO 0.78). **Overlap SEVERO**: Broadcom (AVGO), la POSICION #1 de VIG (4.52%), tiene verdict individual **NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA** en el proyecto de acciones - la categoria de overlap MAS SEVERA ya documentada extensamente en el proyecto (junto a MU, SK hynix, TSM). Eli Lilly (LLY, #3, 4.13%) tiene verdict MANTENER CON CAUTELA (Score 3.41, DCF sensible al WACC). Junto a AAPL/JPM/MSFT (overlap positivo ya visto en DGRO), este es el overlap MAS MIXTO Y SEVERO del cluster de dividendo del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Comportamiento en crisis pasadas no verificado con detalle especifico esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = **25.03x - EL MAS CARO de TODO el cluster de dividendo del proyecto** (DGRO 22.21x, NOBL 21.4x, SCHD 17.6x, DVY 14.93x), consistente con el sesgo mas pronunciado hacia mega-cap growth del cluster.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = **1.46% - EL MAS BAJO de TODO el cluster de dividendo del proyecto** (DGRO 1.85%, NOBL 2.0%, SCHD 3.1%, DVY 3.23%).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION A CINCO BANDAS con SCHD (fila 5), NOBL (fila 87), DVY (fila 88) y DGRO (fila 89), todos ya en el workbook**: VIG tiene el TER mas bajo (0.04%) y el AUM mas grande (mayor incluso que SCHD) del cluster completo, PERO tambien el P/E mas caro (25.03x) y el yield mas bajo (1.46%) del cluster, ademas del overlap MAS SEVERO via AVGO (NO COMPRAR - superciclo IA, posicion #1 del fondo). Un caso donde el costo minimo NO se traduce en la mejor opcion neta - el perfil de holdings concentra riesgo de valoracion en mega-caps growth de forma mas pronunciada que cualquier otro competidor del cluster. | ACTUALIZACION posterior (HDV, fila 91): sexto competidor, HDV mas defensivo (beta 0.55 vs 0.83) y con yield mucho mayor (3.03% vs 1.46%), sin el overlap severo de VIG via AVGO, aunque con concentracion sectorial propia en Energia. Score 3.41, similar a VIG (3.34). Ver Ficha HDV fila 50. | ACTUALIZACION posterior (VYM, fila 92): septimo competidor, mismo TER minimo (0.04%) y misma exposicion severa a AVGO -pero con MAYOR peso en VYM (7.26% vs 4.52%)-, ademas VYM suma CAT tambien NO COMPRAR. El overlap mas concentrado de todo el cluster. Score 3.44 vs 3.34 de VIG. Ver Ficha VYM fila 50.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Core - aunque el candidato MENOS atractivo neto del cluster pese a su TER minimo, dado el overlap severo y la valoracion mas rica.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: TER minimo y liquidez/escala maxima del cluster, pero con el perfil de valoracion mas rico y yield mas bajo, ademas del overlap mas severo (AVGO NO COMPRAR como posicion #1) - el bajo costo nominal no compensa el riesgo de valoracion concentrado en sus principales holdings.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) P/E el mas caro de TODO el cluster de dividendo del proyecto; (2) yield el mas bajo de TODO el cluster; (3) overlap SEVERO via AVGO -NO COMPRAR, superciclo IA- como posicion #1 del fondo (4.52%); (4) 100% US, sin diversificacion geografica.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SCHD (fila 5), NOBL (fila 87), DVY (fila 88) y DGRO (fila 89), todos ya en el workbook, son los comparables directos mas relevantes de la categoria de dividendo/calidad del proyecto. HDV (fila 91) tambien analizado - el mas defensivo del cluster con filtro de moat, ver comparacion completa en su Ficha. VYM (fila 92) tambien analizado - el mas diversificado y barato del cluster, pero con el overlap mas severo via AVGO+CAT, ver comparacion completa en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.34/5 - quinto y ultimo competidor confirmado del cluster de dividendo/calidad del proyecto (SCHD 4.03, DVY 3.63, DGRO 3.59, VIG 3.34, NOBL 3.28). Vanguard Dividend Appreciation ETF: S&P U.S. Dividend Growers Index, ponderado por MARKET CAP (quinta metodologia distinta del cluster), screening de 10+ anios consecutivos de incrementos de dividendo. Tiene el TER MAS BAJO (0.04%, incluso mas barato que SCHD) y el AUM MAS GRANDE ($113.58bn, mayor incluso que SCHD) de TODO el cluster de dividendo del proyecto - en teoria el mas eficiente en costo puro. PERO tambien tiene el P/E MAS CARO (25.03x) y el yield MAS BAJO (1.46%) de TODO el cluster, reflejo de un sesgo hacia mega-cap growth aun mas pronunciado que DGRO. **Hallazgo central: overlap SEVERO via Broadcom (AVGO), la POSICION #1 del fondo (4.52%)**, que tiene verdict individual NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA en el proyecto de acciones - la categoria de overlap mas severa ya documentada extensamente en el proyecto (junto a MU, SK hynix, TSM). Eli Lilly (#3, 4.13%) tiene verdict MANTENER CON CAUTELA (DCF sensible al WACC). Junto a AAPL/JPM/MSFT (overlap positivo ya visto en DGRO), este es el overlap MAS MIXTO Y SEVERO del cluster. El bajo costo nominal (TER minimo) no compensa el riesgo de valoracion concentrado en las principales posiciones del fondo - un caso claro de que el TER mas bajo no siempre implica la mejor opcion neta. Se recomienda esperar una entrada mas favorable, especialmente dado el riesgo de valoracion en AVGO como posicion #1. Se actualizaron retroactivamente las Fichas de SCHD, NOBL, DVY y DGRO con esta comparacion. Con SCHD/NOBL/DVY/DGRO/VIG, el cluster de dividendo/calidad del proyecto queda con CINCO enfoques de screening y ponderacion genuinamente distintos, sin ganador absoluto en ninguno."
+  }
+}

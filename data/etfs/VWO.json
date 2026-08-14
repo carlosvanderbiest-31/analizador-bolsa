@@ -1,0 +1,225 @@
+{
+  "nombre": "Vanguard FTSE Emerging Markets ETF",
+  "ticker": "VWO",
+  "categoria": "Equity Indice Amplio (TODOS los mercados emergentes EXCEPTO Corea del Sur -clasificacion FTSE Developed-, FTSE EM All Cap - competidor directo de IEMG)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight) - notable dado que VWO tiene AUN MAS holdings que IEMG (4,936-5,077 vs 2,780-3,224) y aun asi logra replica completa, refuerza el patron de capacidad de ejecucion superior de Vanguard ya documentado repetidamente en el proyecto (VTV/VUG/VGT/VXUS/VEU/VGK).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, exposicion a decenas de paises emergentes (aunque EXCLUYENDO Corea del Sur por la clasificacion FTSE) - riesgo cambiario MULTI-DIVISA + riesgo VIE (empresas chinas del fondo, Tencent/Alibaba).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$108.99-124.90bn (stockanalysis $124.90bn, Trackinsight EUR108.99bn~$118bn) - **SEGUNDO FONDO MAS GRANDE DE TODO EL PROYECTO** (tras IEMG, $134.61-156.56bn).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 4-mar-2005 (~21.4 anios) - notablemente MAS LARGO que IEMG (13.8 anios), captura DIRECTAMENTE la Crisis Financiera 2008 en su propia historia (que IEMG, inception oct-2012, no experimento).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Vanguard - NOVENA aparicion en el proyecto (VYMI, VTV, VUG, VGT, VB, VXUS, VEU, VGK, ahora VWO).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.06% - **MAS BARATO que IEMG (0.09%)**, mismo patron 'Vanguard le gana en costo al iShares Core' ya documentado extensamente con VEU vs IXUS/VXUS y VGK vs IEUR en clusters anteriores del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending **CONFIRMADO EXPLICITAMENTE via artefactos de colateral en el propio top10**: 'Slcmt1142' (3.09%) y 'Mktliq 12/31/2049' (1.46%) - MISMO patron recurrente exacto ya documentado extensamente con VXUS/VB/VEU en el proyecto, CUARTA+ instancia confirmada del mismo gotcha de parsing de holdings de fondos Vanguard grandes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice FTSE Emerging Markets All Cap China A Inclusion - proveedor FTSE Russell (mismo que VXUS/VEU/VGK en el proyecto), rebalanceo tipicamente semestral, no confirmado con fuente primaria especifica de VWO esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio no verificado con cifra exacta en USD esta sesion, descrito cualitativamente como 'liquidez masiva' que permite ejecutar ordenes grandes con spreads muy ajustados.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask = 2 puntos basicos (0.02%) - ajustado, similar al de IEMG (0.01-0.03%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Vanguard - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "4,936 (Trackinsight) a 5,077 (stockanalysis) holdings - **EL NUMERO MAS ALTO DE TODO EL PROYECTO**, supera incluso a IEMG (2,780-3,224).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 29.49% (stockanalysis), aunque ~4.55% de eso corresponde a los DOS artefactos de colateral no-equity ya documentados (no son posiciones reales de renta variable). Taiwan Semiconductor domina con 14.66-15.61% - **notablemente MAS ALTO en porcentaje que en IEMG** (13.10-13.22%), precisamente porque la exclusion de Corea del Sur reduce el denominador del fondo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Technology 35.22% - **MENOR que IEMG (45.41%)** precisamente porque excluye los semiconductores coreanos (Samsung/SK hynix), Finance 20.65%, resto razonablemente diversificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Exposicion a decenas de paises emergentes, **EXCLUYENDO Corea del Sur** (clasificada como mercado DESARROLLADO por FTSE, a diferencia de MSCI que la clasifica como Emergente e incluye a Samsung/SK hynix en IEMG/EWY) - diferencia estructural REAL entre proveedores de indice ya documentada en el proyecto (relevante tambien para el cluster europeo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Blend amplio del universo EM segun metodologia FTSE, con menor sesgo tech agregado que IEMG por la exclusion completa de Corea del Sur.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice FTSE Emerging Markets All Cap China A Inclusion - proveedor FTSE Russell, incluye ACCIONES A CHINAS directamente en el indice principal (a diferencia de MCHI/otros fondos del proyecto que las excluyen o incluyen solo parcialmente via Stock Connect), metodologia transparente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de VWO esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (21.4 anios) = 6.93% anualizado - MENOR que el 10Y de IEMG (10.12%), pero explicado por la ventana MAS LARGA que SI incluye la Crisis 2008 (mismo patron de ventana ya documentado extensamente en el proyecto con VGK/EWJ). Retorno 1Y = +17.47% (una fuente) a +21.99% (otra) - moderado, menor que el rally puro de EWY/EWT y algo menor que IEMG en el mismo periodo reciente. **Dato de riesgo unico en el proyecto**: el PEOR retorno anualizado de cualquier ventana rodante de 10 anos en la historia del fondo fue de solo -0.06% - practicamente plano, nunca profundamente negativo en una decada completa pese a la alta volatilidad de corto plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad desde inception = **26.1% - NOTABLEMENTE MAS ALTA que IEMG (10.46%)**, explicado por la ventana mas larga (incluye la Crisis 2008) y la mayor concentracion relativa en TSM tras excluir Corea. Volatilidad reciente 1Y = 17.41%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = **-68.0% desde inception - MUCHO MAS SEVERO que IEMG (-38.71%)**, explicado directamente por la Crisis Financiera 2008 (que IEMG no vivio en su propia historia por nacer en oct-2012) - mismo tipo de gotcha de ventana temporal ya documentado extensamente (VGK/EWJ vs fondos mas jovenes con mejor Max Drawdown aparente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: desde inception = 0.21 (bajo, arrastrado por la Crisis 2008), reciente 1Y = 1.01 - notablemente MENOS inflado que el patron tipico ya documentado repetidamente en el proyecto (la mayoria de fondos EM mostraron Sharpe reciente de 1.5-3+ este rally), sugiere un desempeño reciente mas moderado y sostenible para VWO especificamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta: **DISCREPANCIA ENTRE FUENTES SIN RESOLVER (0.62 segun una fuente vs 1.16 segun otra, casi el doble)** - se reporta con cautela explicita. **Overlap CONFIRMADO: Taiwan Semiconductor (TSM, 14.66-15.61%, YA analizado individualmente con Recomendacion NO COMPRAR por superciclo IA) - proporcionalmente MAS ALTO que en IEMG.** Alibaba (BABA, 1.79-2.26%) tambien confirmado. **CRUCIALMENTE, VWO NO incluye Corea del Sur** (Samsung/SK hynix EXCLUIDOS por la clasificacion FTSE de Corea como mercado desarrollado) - elimina POR COMPLETO uno de los dos overlaps 'NO COMPRAR' que penalizaron severamente a IEMG/EWY.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "21.4 anios de historial cubren la Crisis Financiera 2008 DIRECTAMENTE (a diferencia de IEMG), el 'taper tantrum' 2013, la crisis de commodities 2014-2016, el crackdown regulatorio chino 2021-2022, COVID 2020, y el rally reciente - **la cobertura de crisis MAS COMPLETA de cualquier fondo de mercados emergentes diversificado del proyecto**.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.17
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 17.10x - practicamente IDENTICO a IEMG (17.19x). Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 2.30% - similar a IEMG (2.24%). Distribucion TRIMESTRAL (diferente de la semestral de IEMG).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION VERIFICADA con IEMG (fila 63, ya en el workbook)**: VWO es MAS BARATO (0.06% vs 0.09%), tiene MAS holdings (4,936-5,077 vs 2,780-3,224), y CRUCIALMENTE excluye a Corea del Sur (elimina el overlap de SK hynix por completo) - PERO tiene mayor volatilidad/drawdown historico (por la ventana mas larga que incluye directamente la Crisis 2008) y una concentracion PROPORCIONALMENTE MAYOR en TSM (14.66-15.61% vs 13.10-13.22%) precisamente por excluir Corea del denominador. Mismo patron general 'Vanguard mas barato y mas diversificado que el iShares Core equivalente' ya visto con VEU/VGK, pero con el matiz ESTRUCTURAL adicional y unico de la exclusion de Corea del Sur segun la clasificacion FTSE vs MSCI. Candidato adicional sin verificar: SCHE (Schwab Emerging Markets). | ACTUALIZACION posterior (EEM, fila 65): fondo EM amplio PRE-serie Core (2003, iShares), tercer lugar en eficiencia del trio IEMG/VWO/EEM. A diferencia de VWO, EEM SI incluye Corea del Sur, por lo que tiene overlap via SK hynix ademas de TSM (el mas concentrado del trio en ambos nombres). VWO sigue siendo mas eficiente en costo y diversificacion. Ver Ficha EEM fila 50.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **Core** (mismo tratamiento que IEMG, dado lo extremadamente amplio de su cobertura -4,936+ holdings, decenas de paises-).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: la version MAS BARATA y MAS DIVERSIFICADA (por numero de holdings, el record de todo el proyecto) de exposicion a mercados emergentes, con la ventaja ESTRUCTURAL de excluir el riesgo de valoracion de SK hynix (aunque mantiene y de hecho amplifica proporcionalmente el de TSM).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap via TSM (proporcionalmente el MAS ALTO de cualquier fondo diversificado del proyecto, ya NO COMPRAR individualmente); (2) mayor volatilidad/drawdown historico que IEMG, explicado por la ventana mas larga que incluye directamente 2008; (3) riesgo cambiario multi-divisa; (4) riesgo VIE (China); (5) discrepancia de Beta entre fuentes sin resolver esta sesion (0.62 vs 1.16).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "IEMG (fila 63, ya analizado, comparacion completa en fila 50) y SCHE (Schwab Emerging Markets) identificados como alternativas. EEM (fila 65) tambien verificado - version pre-Core mas cara y con overlap mayor via SK hynix, ver comparacion en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.82/5 - ligeramente SUPERIOR a IEMG (3.73, ya en el workbook fila 63), mismo patron ya establecido repetidamente en el proyecto de que la version Vanguard supera a su equivalente iShares Core en costo y diversificacion (VEU vs IXUS/VXUS, VGK vs IEUR, ahora VWO vs IEMG). VWO es MAS BARATO (TER 0.06% vs 0.09%) y tiene MAS holdings (4,936-5,077, el numero MAS ALTO DE TODO EL PROYECTO) que IEMG. El diferenciador ESTRUCTURAL mas relevante: VWO EXCLUYE a Corea del Sur por completo (FTSE la clasifica como mercado Desarrollado, a diferencia de MSCI que la clasifica Emergente) - esto ELIMINA por completo el overlap de SK hynix (ya NO COMPRAR individualmente) que penalizo severamente a IEMG y a EWY. Sin embargo, esa misma exclusion hace que Taiwan Semiconductor (tambien ya NO COMPRAR individualmente) pese PROPORCIONALMENTE MAS en VWO (14.66-15.61%) que en IEMG (13.10-13.22%), por lo que el riesgo de valoracion de superciclo de IA sigue presente, solo que concentrado en un unico nombre en vez de dos. VWO tambien tiene mayor volatilidad y Max Drawdown historico que IEMG (-68.0% vs -38.71%), pero esto se explica directamente por su ventana mas larga (21.4 anios vs 13.8), que SI incluye la Crisis Financiera 2008 en su propia historia. Existe ademas una discrepancia de Beta entre fuentes sin resolver (0.62 vs 1.16). Rol en Portafolio: Core. Alternativa comparada en el workbook: IEMG (fila 63)."
+  }
+}

@@ -651,6 +651,29 @@ def cargar_ficha_excel(ticker: str):
         return json.load(f)
 
 
+# ── DATOS DEL ANÁLISIS FUNDAMENTAL PROPIO DE ETFs (Excel) ──────────────────────
+# Generados localmente por scripts/export_excel_etfs.py. Mismo mecanismo que
+# los de acciones, pero sin DCF/WACC: valoracion via Costo Total Real y
+# percentil historico en vez de Margen de Seguridad.
+
+@st.cache_data(show_spinner=False)
+def cargar_datos_etfs():
+    path = DATA_DIR / "etfs_ranking.json"
+    if not path.exists():
+        return []
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
+@st.cache_data(show_spinner=False)
+def cargar_ficha_etf(ticker: str):
+    path = DATA_DIR / "etfs" / f"{ticker}.json"
+    if not path.exists():
+        return None
+    with open(path, encoding="utf-8") as f:
+        return json.load(f)
+
+
 @st.cache_data(ttl=3600 * 4, show_spinner=False)
 def cargar_ranking():
     def _fetch(tk):
@@ -1457,6 +1480,13 @@ def _score_color(score):
 
 
 def _mostrar_analisis_fundamental():
+    _sw_col1, _sw_col2 = st.columns([5, 1.2])
+    with _sw_col2:
+        ver_etfs = st.toggle("Ver ETFs", value=False, key="toggle_modo_analisis")
+    if ver_etfs:
+        _mostrar_analisis_fundamental_etfs()
+        return
+
     st.markdown("---")
 
     datos = cargar_datos_excel()
@@ -1688,6 +1718,246 @@ def _mostrar_detalle_excel(ticker: str):
         st.info("Esta empresa no tiene secciones de Ficha detallada registradas.")
 
 
+# ── ANÁLISIS FUNDAMENTAL PROPIO DE ETFs (Excel) ─────────────────────────────────
+# Mismo formato que _mostrar_analisis_fundamental() / _mostrar_detalle_excel(),
+# pero sin DCF/WACC: se agrupa por postura de portafolio (decision_badge) en
+# vez de por Margen de Seguridad, y las tarjetas muestran métricas de ETF
+# (AUM, TER, rendimiento, riesgo) en vez de márgenes/ROE/DCF.
+
+_BANDAS_ETF = [
+    ("MANTENER",         "#2ea87e", "✅ MANTENER / ACUMULAR",  "Postura de portafolio: continuar o sumar gradualmente"),
+    ("ESPERAR ENTRADA",  "#b07d2a", "⏳ ESPERAR MEJOR ENTRADA", "Fundamentos ok, pero la valoración actual no es el punto de entrada ideal"),
+    ("SATÉLITE TÁCTICO", "#6b5ecd", "🛰️ SATÉLITE TÁCTICO",    "Solo como posición táctica pequeña, no como core del portafolio"),
+    ("REDUCIR/VENDER",   "#c0392b", "🔻 REDUCIR / VENDER",     "Señales para reducir exposición o salir de la posición"),
+    ("NO APTO",          "#7c2d3a", "⛔ NO APTO",              "Riesgo estructural (decay, apalancamiento, etc.) descarta el ETF para el core"),
+    ("SIN CLASIFICAR",   "#3d4555", "❓ SIN CLASIFICAR",       "Decisión no clasificada automáticamente"),
+]
+
+
+def _fmt_aum(v):
+    if v is None:
+        return "N/D"
+    try:
+        return f"${round(float(v), 1)}B"
+    except (TypeError, ValueError):
+        return "N/D"
+
+
+def _mostrar_analisis_fundamental_etfs():
+    st.markdown("---")
+
+    datos = cargar_datos_etfs()
+    if not datos:
+        st.warning(
+            "No se encontraron datos del análisis fundamental de ETFs "
+            "(falta `data/etfs_ranking.json`). Corré `scripts/export_excel_etfs.py` "
+            "sobre el Excel y volvé a desplegar."
+        )
+        return
+
+    categorias_disponibles = sorted({e["categoria"] for e in datos if e.get("categoria")})
+    emisores_disponibles = sorted({e["emisor"] for e in datos if e.get("emisor")})
+
+    fcol1, fcol2, fcol3 = st.columns([1.3, 1.3, 1.6])
+    with fcol1:
+        f_postura = st.selectbox(
+            "Postura",
+            ["Todas"] + [b[0] for b in _BANDAS_ETF],
+            key="fx_etf_postura",
+        )
+    with fcol2:
+        f_categoria = st.multiselect(
+            "Categoría", options=categorias_disponibles, default=[],
+            placeholder="Todas las categorías", key="fx_etf_categoria",
+        )
+    with fcol3:
+        f_emisor = st.multiselect(
+            "Emisor", options=emisores_disponibles, default=[],
+            placeholder="Todos los emisores", key="fx_etf_emisor",
+        )
+
+    filtrados = [
+        e for e in datos
+        if (f_postura == "Todas" or e.get("decision_badge") == f_postura)
+        and (not f_categoria or e.get("categoria") in f_categoria)
+        and (not f_emisor or e.get("emisor") in f_emisor)
+    ]
+
+    conteo_txt = f"{len(filtrados)} de {len(datos)} ETFs" if len(filtrados) != len(datos) else f"{len(datos)} ETFs"
+    if not filtrados:
+        st.info("Ningún ETF cumple los filtros seleccionados.")
+        return
+
+    st.markdown("---")
+    st.markdown(
+        f'<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:6px">'
+        f'<span style="font-size:20px;font-weight:700;color:#e6f1ff">🧭 Mi Análisis de ETFs</span>'
+        f'<span style="font-size:13px;color:#4a5270">{conteo_txt} · basado en tu propio análisis, no en datos en vivo</span>'
+        f'</div>',
+        unsafe_allow_html=True,
+    )
+    st.caption("Clasificados por postura de portafolio (sin DCF/WACC: un ETF es una canasta, no un negocio con flujos propios).")
+
+    for clave, color, etiqueta, descripcion in _BANDAS_ETF:
+        etfs = [e for e in filtrados if e.get("decision_badge") == clave]
+        if not etfs:
+            continue
+        etfs = sorted(
+            etfs,
+            key=lambda e: (e.get("score_total") is None, -(e.get("score_total") or 0)),
+        )
+
+        st.markdown(
+            f'<div style="background:{color}1a;border-left:4px solid {color};'
+            f'border-radius:0 8px 8px 0;padding:10px 18px;margin:24px 0 14px">'
+            f'<div style="display:flex;align-items:baseline;gap:10px;flex-wrap:wrap">'
+            f'<span style="color:{color};font-weight:700;font-size:15px">{etiqueta}</span>'
+            f'<span style="color:#4a5270;font-size:12px">· {len(etfs)} ETF{"s" if len(etfs) != 1 else ""}</span>'
+            f'<span style="color:#3d4555;font-size:11.5px;margin-left:6px">{descripcion}</span>'
+            f'</div></div>',
+            unsafe_allow_html=True,
+        )
+
+        cols_n = 5
+        for i in range(0, len(etfs), cols_n):
+            grupo = etfs[i: i + cols_n]
+            cols = st.columns(cols_n)
+            for j, emp in enumerate(grupo):
+                score = emp.get("score_total")
+                score_str = f"{score:.2f}" if score is not None else "N/D"
+                r1y = emp.get("rent_1y_pct")
+                r1y_str = "N/D" if r1y is None else f'{"+" if r1y >= 0 else ""}{r1y:.1f}%'
+                r1y_color = "#3d4555" if r1y is None else ("#2ea87e" if r1y >= 0 else "#c0392b")
+
+                with cols[j]:
+                    st.markdown(
+                        f'<div style="background:#161b2e;border:1px solid #21262d;border-bottom:none;'
+                        f'border-left:3px solid {color};border-radius:6px 6px 0 0;'
+                        f'padding:11px 12px 10px">'
+                        f'<div style="display:flex;justify-content:space-between;align-items:center">'
+                        f'<span style="font-weight:700;color:#e6f1ff;font-size:15px">{emp["ticker"]}</span>'
+                        f'<span style="background:{_score_color(score)};color:#fff;font-size:12px;font-weight:700;'
+                        f'border-radius:4px;padding:2px 7px">{score_str}</span>'
+                        f'</div>'
+                        f'<div style="font-size:11px;color:#8b949e;margin-top:3px;white-space:nowrap;'
+                        f'overflow:hidden;text-overflow:ellipsis" title="{emp.get("nombre", "")}">{emp.get("nombre", "")}</div>'
+                        f'<div style="font-size:10.5px;color:#4a5270;margin-top:2px;white-space:nowrap;'
+                        f'overflow:hidden;text-overflow:ellipsis">{emp.get("categoria", "")} · {emp.get("emisor", "")}</div>'
+                        f'<div style="display:flex;justify-content:space-between;align-items:center;margin-top:9px">'
+                        f'<span style="font-size:12px;font-weight:700;color:{r1y_color}">Rent. 1Y {r1y_str}</span>'
+                        f'<span style="font-size:10px;color:#8b949e;text-align:right;max-width:55%;'
+                        f'overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="{emp.get("decision_full", "")}">'
+                        f'{_fmt_aum(emp.get("aum_b"))} AUM</span>'
+                        f'</div>'
+                        f'</div>',
+                        unsafe_allow_html=True,
+                    )
+                    if st.button("Ver ficha →", key=f"fxetf_{emp['ticker']}", use_container_width=True):
+                        st.session_state.ticker_click = emp["ticker"]
+                        st.session_state.ticker_source = "etf"
+                        st.rerun()
+
+    st.markdown("---")
+    st.caption("Costo Total Real = TER + spread + tracking difference estimados. La postura de portafolio refleja tu propio análisis, no una recomendación genérica.")
+
+
+def _mostrar_detalle_etf(ticker: str):
+    ficha = cargar_ficha_etf(ticker)
+    emp = next((e for e in cargar_datos_etfs() if e["ticker"] == ticker), None)
+
+    if not ficha or not emp:
+        st.warning(f"No se encontró análisis propio para **{ticker}** en `data/etfs/`.")
+        if st.button("← Volver"):
+            st.session_state.ticker_click = None
+            st.rerun()
+        return
+
+    score = emp.get("score_total")
+    score_str = f"{score:.2f}/5" if score is not None else "N/D"
+    tesis = (ficha.get("conclusion") or {}).get("tesis") or emp.get("decision_full") or ""
+
+    st.markdown(
+        f'<div style="background:#161b2e;border:1px solid #21262d;border-radius:12px;padding:20px 24px;margin-bottom:18px">'
+        f'<div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px">'
+        f'<div>'
+        f'<div style="font-size:24px;font-weight:700;color:#e6f1ff">{emp.get("ticker")} '
+        f'<span style="font-size:15px;font-weight:400;color:#8b949e">· {emp.get("nombre", "")}</span></div>'
+        f'<div style="font-size:12.5px;color:#4a5270;margin-top:4px">{emp.get("categoria", "")} · {emp.get("emisor", "")} · Análisis del {emp.get("fecha_analisis", "N/D")}</div>'
+        f'</div>'
+        f'<div style="display:flex;gap:8px">'
+        f'<span style="background:{_score_color(score)};color:#fff;font-weight:700;font-size:14px;border-radius:6px;padding:5px 12px">'
+        f'Score {score_str}</span>'
+        f'<span style="background:#0d1117;border:1px solid #21262d;color:#c0cfe0;font-weight:700;font-size:13px;'
+        f'border-radius:6px;padding:5px 12px">{emp.get("decision_badge", "")}</span>'
+        f'</div>'
+        f'</div>'
+        f'<p style="margin:14px 0 0;font-size:13.5px;color:#c0cfe0;line-height:1.5">{tesis}</p>'
+        f'<div style="display:flex;gap:24px;margin-top:16px;flex-wrap:wrap">'
+        f'<div><div style="font-size:10.5px;color:#8b949e;text-transform:uppercase">AUM</div>'
+        f'<div style="font-size:17px;font-weight:700;color:#e6f1ff">{_fmt_aum(emp.get("aum_b"))}</div></div>'
+        f'<div><div style="font-size:10.5px;color:#8b949e;text-transform:uppercase">Expense Ratio (TER)</div>'
+        f'<div style="font-size:17px;font-weight:700;color:#e6f1ff">{_fmt_pct_directo(emp.get("ter_pct"))}</div></div>'
+        f'<div><div style="font-size:10.5px;color:#8b949e;text-transform:uppercase">Dividend Yield</div>'
+        f'<div style="font-size:17px;font-weight:700;color:#e6f1ff">{_fmt_pct_directo(emp.get("dividend_yield_pct"))}</div></div>'
+        f'</div>'
+        f'</div>',
+        unsafe_allow_html=True,
+    )
+
+    if st.button("📡 Ver cotización en vivo (Yahoo Finance) →", key="ir_a_yfinance_etf"):
+        st.session_state.ticker_click = ticker
+        st.session_state.ticker_source = "yfinance"
+        st.rerun()
+
+    st.markdown("#### Métricas clave del ETF")
+    _m_cards = [
+        ("AUM", _fmt_aum(emp.get("aum_b"))),
+        ("Expense Ratio (TER)", _fmt_pct_directo(emp.get("ter_pct"))),
+        ("Costo Total Real Est.", _fmt_pct_directo(emp.get("costo_total_real_pct"))),
+        ("Dividend Yield", _fmt_pct_directo(emp.get("dividend_yield_pct"))),
+        ("Rent. 1 año", _fmt_pct_directo(emp.get("rent_1y_pct"))),
+        ("Rent. 5 años (anual.)", _fmt_pct_directo(emp.get("rent_5y_pct"))),
+        ("Rent. 10Y/Incepción (anual.)", _fmt_pct_directo(emp.get("rent_10y_pct"))),
+        ("Volatilidad anualizada", _fmt_pct_directo(emp.get("volatilidad_pct"))),
+        ("Máx. Drawdown", _fmt_pct_directo(emp.get("max_drawdown_pct"))),
+        ("Sharpe Ratio", fmt(emp.get("sharpe_ratio"))),
+        ("Beta vs S&P 500", fmt(emp.get("beta_sp500"))),
+        ("P/E Ponderado", fmt(emp.get("pe_ponderado"))),
+        ("Top 10 Holdings", _fmt_pct_directo(emp.get("top10_holdings_pct"))),
+        ("N° Holdings", "N/D" if emp.get("n_holdings") is None else str(int(emp.get("n_holdings")))),
+    ]
+    for i in range(0, len(_m_cards), 4):
+        cols = st.columns(4)
+        for j, (lbl, val) in enumerate(_m_cards[i:i + 4]):
+            with cols[j]:
+                st.markdown(card(lbl, val), unsafe_allow_html=True)
+
+    st.markdown("---")
+    st.markdown("#### Ficha detallada")
+
+    secciones = ficha.get("secciones", [])
+    if secciones:
+        tab_labels = [s["titulo"] for s in secciones]
+        tabs = st.tabs(tab_labels)
+        for tab, sec in zip(tabs, secciones):
+            with tab:
+                avg = sec.get("rating_promedio")
+                if avg is not None:
+                    st.markdown(
+                        f'<div style="display:inline-block;background:{_score_color(avg)};color:#fff;'
+                        f'font-weight:700;font-size:13px;border-radius:6px;padding:4px 10px;margin-bottom:14px">'
+                        f'Promedio de la sección: {avg}/5</div>',
+                        unsafe_allow_html=True,
+                    )
+                for asp in sec.get("aspectos", []):
+                    rating = asp.get("calificacion")
+                    label = f'{_rating_emoji(rating)} {asp["aspecto"]}  ({rating if rating is not None else "N/D"}/5)'
+                    with st.expander(label):
+                        st.write(asp.get("notas") or "Sin notas registradas.")
+    else:
+        st.info("Este ETF no tiene secciones de Ficha detallada registradas.")
+
+
 # ── SIDEBAR ──────────────────────────────────────────────────────────────────
 with st.sidebar:
     # Título clicable → vuelve al ranking principal
@@ -1775,6 +2045,10 @@ if not ticker_activo:
 # ── ANÁLISIS FUNDAMENTAL PROPIO (Excel) — bifurca antes de tocar yfinance ──────
 if st.session_state.get("ticker_source") == "excel":
     _mostrar_detalle_excel(ticker_activo.strip().upper())
+    st.stop()
+
+if st.session_state.get("ticker_source") == "etf":
+    _mostrar_detalle_etf(ticker_activo.strip().upper())
     st.stop()
 
 

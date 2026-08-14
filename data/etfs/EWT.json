@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares MSCI Taiwan ETF",
+  "ticker": "EWT",
+  "categoria": "Equity Indice Amplio (PAIS UNICO Taiwan, MSCI Taiwan 25/50 - de facto apuesta concentrada en semiconductores via TSMC, con riesgo geopolitico Taiwan-China unico en el proyecto)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO OPTIMIZADO (Trackinsight).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% holdings de Taiwan - riesgo cambiario TWD no cubierto + **RIESGO GEOPOLITICO SEVERO Y UNICO EN EL PROYECTO**: la tension Taiwan-China ya fue calificada en la ficha individual de TSM como 'la calificacion mas baja de cualquier item individual en todo el Dashboard [de acciones], empatando con BABA' - este riesgo es MAS AGUDO en un fondo de PAIS ENTERO concentrado en Taiwan que en una sola accion individual, porque no hay diversificacion geografica que lo diluya.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$9.55-11.10bn (stockanalysis $11.10bn, Trackinsight EUR9.55bn~$10.4bn, otra fuente $10.29bn - razonablemente consistentes) - solido, menor que EWY ($24-26.51bn) pero mayor que ASHR/MCHI.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 20-jun-2000 (~26.2 anios) - esencialmente EMPATADO con EWY (9-may-2000) para el tercer/cuarto track record mas largo de todo el proyecto. Cubre la Crisis 2008, COVID 2020, y el actual superciclo de semiconductores/IA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMOSEPTIMA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.59% - identico a EWY/EWZ/MCHI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI Taiwan 25/50 - rebalanceo tipicamente trimestral, no confirmado con fuente primaria especifica de EWT esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = 6.65M acciones/dia, descrito explicitamente como 'el mas liquido y popular' vehiculo para exposicion a Taiwan.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "78 (Trackinsight) a 84 (stockanalysis) holdings - similar orden de magnitud a EWY.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 47.88% - concentrado, TSMC solo representa 20.71-21.02% del fondo (posicion dominante unica, aunque algo menos extrema en terminos de concentracion de DOS nombres combinados que el caso Samsung+SK hynix de EWY).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: **Technology 71.99% - NUEVO RECORD DEL PROYECTO de concentracion sectorial en cualquier fondo de pais/region 'amplio'** (supera a EWY 57.78%, el record anterior) - un fondo nominalmente 'de pais' que es de facto casi una apuesta pura en la cadena de suministro de semiconductores.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% Taiwan por definicion (fondo de pais unico) - CERO diversificacion geografica, PLUS el riesgo geopolitico unico y severo ya documentado en la fila 12.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sesgo ESTRUCTURAL EXTREMO hacia semiconductores (TSMC + MediaTek + ASE Technology + United Microelectronics = fabricacion, diseno y ensamblaje de chips, la cadena de suministro de semiconductores casi completa de un solo pais concentrada en un solo vehiculo).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI Taiwan 25/50 - mismos topes de concentracion RIC que EWY, con el mismo problema practico de que TSMC por si sola se acerca al limite de concentracion single-issuer.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de EWT esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = **+81.30%** (extraordinario, del mismo orden de magnitud que el superciclo de memoria/IA ya documentado en EWY +120.61%). Retorno desde inception (26.2 anios) = 7.29% (una fuente) a 8.09% (otra, con fecha de corte distinta -oct-2025-) - dos cifras razonablemente consistentes, a diferencia de la severa discrepancia de retorno 1Y ya documentada en EWY.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "**Cifras de volatilidad CONTRADICTORIAS dentro de la MISMA fuente**: 13.69% (cifra 'actual') vs 23.50% ('calculada junto al retorno desde inception') - discrepancia real sin resolver esta sesion, se reporta con cautela explicita en vez de elegir arbitrariamente una de las dos.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -64.37% desde inception - severo, orden de magnitud similar a EWY (-70.13%) y al cluster europeo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: 3.46 vs 2.88 segun fuente/fecha - **ambas cifras MUY ALTAS**, claramente infladas por el rally extraordinario reciente (+81.30% 1Y), mismo gotcha ya documentado repetidamente en el proyecto (MU/CRAK/SOXX/IXUS/EWC/EZU) pero aqui sin una cifra de largo plazo alternativa confiable para contrastar.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.16 - alto (aunque menor que el 1.50 de EWY). **OVERLAP CONFIRMADO Y DE MAXIMA SEVERIDAD: Taiwan Semiconductor (TSM, 20.71-21.02% del fondo, LA POSICION DOMINANTE) ya analizado individualmente CON EL MISMO PATRON DE ALERTA que SK hynix (EWY)** - Score 3.59/5 (moat mas dominante y mejor salud financiera de cualquier fabricante de semiconductores del Dashboard) PERO Recomendacion explicita 'NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA' (frase IDENTICA a la ya usada con MU y SK hynix) - TERCERA instancia confirmada de este patron especifico de riesgo de valoracion en el proyecto, aqui con el nombre individual de MAYOR peso (20-21%) de cualquier caso de overlap severo encontrado.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "26.2 anios de historial cubren la Crisis 2008, COVID 2020, y el actual superciclo de semiconductores/IA - PERO el riesgo geopolitico Taiwan-China es un riesgo DE COLA (invasion/bloqueo/conflicto) que NO esta necesariamente reflejado en el historial de drawdowns pasados, a diferencia de crisis financieras ya vividas y medidas.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = **28.64x - NOTABLEMENTE RICO**, uno de los multiplos mas altos de todo el proyecto (comparar con EWY 17.12x, mucho mas barato pese a tener un perfil de riesgo similar de superciclo) - refleja la prima de TSMC y del sector tech taiwanes en el pico del superciclo de IA, sin margen de seguridad aparente, coherente con el veredicto individual ya confirmado de TSM (NO COMPRAR por valoracion).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 2.70% - moderado, mas alto que EWY (1.21%). Distribucion ANUAL.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "PRIMER fondo de Taiwan del proyecto - sin competidor directo verificado en este workbook. Candidato conocido: FLTW (Franklin FTSE Taiwan, TER historicamente mas barato) - sin datos propios verificados esta sesion. | ACTUALIZACION posterior (IEMG, fila 63): fondo emergente diversificado padre del cluster - TSM tambien es la posicion mas grande de IEMG (13.10-13.22%), confirmando que el riesgo de valoracion de TSMC (NO COMPRAR individualmente) esta presente incluso en el fondo mas diversificado del universo EM del proyecto, aunque diluido. IEMG ofrece exposicion tech asiatica con volatilidad/drawdown MUCHO menores que EWT (concentracion unica). Ver Ficha IEMG fila 43/50 para el detalle.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Satelite - exposicion EXTREMADAMENTE concentrada en semiconductores via TSMC, con el mismo tipo de overlap de maxima severidad ya visto en EWY (nombre dominante marcado NO COMPRAR individualmente), PLUS un riesgo geopolitico unico y severo (Taiwan-China) no presente en ningun otro fondo del proyecto.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: acceso al lider indiscutido mundial de fabricacion de semiconductores avanzados (TSMC) y su cadena de suministro taiwanesa, PERO la propia ficha individual de TSM ya establecio que la valoracion actual asume continuidad del superciclo de IA - mismo riesgo que EWY/SK hynix, aqui potencialmente MAS severo dado el P/E mas rico (28.64x vs 17.12x) y el riesgo geopolitico adicional que ningun otro fondo del proyecto comparte.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) OVERLAP DE MAXIMA SEVERIDAD via TSM (ya marcado NO COMPRAR individualmente por valoracion de superciclo); (2) concentracion sectorial RECORD DE TODO EL PROYECTO (Technology 71.99%); (3) RIESGO GEOPOLITICO UNICO Y SEVERO (tensiones Taiwan-China, ya calificado como el riesgo individual mas bajo de cualquier item del Dashboard de acciones para TSM); (4) P/E rico (28.64x) sin margen de seguridad aparente; (5) discrepancias de datos de volatilidad/Sharpe sin resolver esta sesion, sugiriendo cifras poco fiables en el entorno actual de volatilidad extrema.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "FLTW (Franklin FTSE Taiwan, mas barato) identificado como candidato sin datos propios verificados. IEMG (fila 63) tambien verificado - mismo riesgo TSM pero diluido en un fondo mucho mas diversificado, ver comparacion en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 1.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). Score 2.67/5 - por debajo del umbral de 3.0, y el SEGUNDO SCORE MAS BAJO entre los fondos de nueva geografia del proyecto (tras EWY, 2.94), reflejando una version AUN MAS SEVERA del mismo patron de riesgo: EWT combina concentracion sectorial RECORD del proyecto (Technology 71.99%, supera al 57.78% de EWY), overlap de MAXIMA severidad cualitativa via TSMC (20.71-21.02% del fondo, la posicion dominante, ya analizada individualmente con Score 3.59/5 pero Recomendacion explicita NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA, la MISMA frase de alerta ya usada con MU y SK hynix, tercera instancia de este patron confirmado en el proyecto), un P/E notablemente rico (28.64x, mucho mas caro que el 17.12x de EWY pese a un perfil de riesgo similar), y un riesgo ADICIONAL que ningun otro fondo del proyecto comparte: el riesgo GEOPOLITICO Taiwan-China, ya calificado en la propia ficha individual de TSM como la calificacion mas baja de cualquier item individual del Dashboard de acciones (empatando con BABA) - un riesgo de cola que no esta capturado en el historial de drawdowns pasados del fondo. La calidad estructural del vehiculo es solida (BlackRock, track record esencialmente empatado con EWY como tercero/cuarto mas largo del proyecto, liquidez descrita como la mejor de su categoria), pero la combinacion de concentracion sectorial extrema + overlap de alta conviccion ya marcado como sobrevalorado + valoracion rica + riesgo geopolitico unico hacen que EWT sea, en conjunto, el fondo de pais unico con el perfil de riesgo mas concentrado del proyecto. Rol en Portafolio: Satelite. Primer fondo de Taiwan del proyecto, competidor sin verificar: FLTW (mas barato)."
+  }
+}

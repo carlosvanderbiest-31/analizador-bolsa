@@ -1,0 +1,225 @@
+{
+  "nombre": "Vanguard Real Estate ETF",
+  "ticker": "VNQ",
+  "categoria": "Equity Tematico/Factor (REITs de EEUU AMPLIO, MSCI US IMI Real Estate 25/50 Index - INCLUYE mortgage REITs y empresas de gestion/desarrollo inmobiliario que SCHH -fila 119, ya en el workbook- excluye por diseno - el ETF REIT MAS GRANDE del mundo, competidor DIRECTO de SCHH ya flagged explicitamente en su propia Ficha, comparacion genuinamente MATIZADA -no un barrido limpio-)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica fisica completa. Confirmado: INCLUYE mortgage REITs -mREITs- y empresas de gestion/desarrollo inmobiliario -~14.5% del fondo-, categorias que SCHH excluye explicitamente por metodologia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, RIC estandar Vanguard.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $39.3bn -solo la clase ETF, stockanalysis.com- a $59.5-71.4bn -fondo total incl. todas las clases de accion, otros agregadores- - **EL ETF REIT MAS GRANDE DEL MUNDO**, confirmado, ~3.4-6x mayor que SCHH -~$11.4-11.5bn-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 23-sep-2004 (~21.89 anios) - **PREDATA la Crisis 2008 por ~4 anios, LLENA POR COMPLETO el vacio de dato de SCHH** -que nace en 2011, sin cobertura de 2008-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Vanguard, pionero de la indexacion de bajo costo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.13% - **casi el doble que SCHH -0.07%-**, aunque todavia razonable frente a IYM -0.38%- o AIRR -0.69%-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Replica fisica de un indice MSCI IMI mas amplio, incluye una posicion interna inusual -'Vanguard Real Estate II Index Fund', 14.36% del fondo- - un wrapper estructural de fondo-dentro-de-fondo, probable vehiculo legacy de gestion de liquidez para ciertas clases de accion, no una empresa operativa individual.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "RIC estandar Vanguard, presumiblemente presta valores.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Revision periodica MSCI trimestral/semestral estandar, turnover moderado.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~858,341 acciones/dia (~$83.5M/dia) - solido, MAS liquido en dolares que SCHH -~$30.6M/dia-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread no encontrado con cifra exacta esta sesion, aunque tipicamente ajustado para un ETF de este tamano - vacio parcial de dato.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no encontrado con cifra exacta esta sesion - vacio de dato.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Vanguard, el ETF REIT mas grande del mundo - la red de AP mas profunda posible para esta clase de activo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "157 holdings - MAS que SCHH -121-, universo genuinamente mas amplio por incluir mREITs y gestion/desarrollo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 53.89% del NAV - LIGERAMENTE mas concentrado que SCHH -50.43%-, PERO la posicion #1 -14.36%- es en realidad un wrapper interno de fondo -'Vanguard Real Estate II Index Fund'-, no una empresa operativa, lo que complica una comparacion de concentracion limpia. Welltower -WELL- 8.37%, Prologis -PLD- 6.68%, Equinix -EQIX- 5.43%, American Tower -AMT- 4.03% -confirmados TOP-5 igual que en SCHH-, Simon Property -SPG- 3.84%, Digital Realty -DLR- 3.26%, Realty Income -O- 3.03%, Public Storage -PSA- 2.66%, Ventas -VTR- 2.23%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Alto nivel 'Real Estate 97.6%' confirmado -desglose granular por sub-industria bloqueado en fuentes esta sesion, vacio de dato-, PERO confirmado que ~14.5% del fondo esta en mortgage REITs/gestion-desarrollo inmobiliario que SCHH excluye por completo - alcance genuinamente MAS AMPLIO de 'real estate' que SCHH.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% real estate de EEUU por alcance del indice.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Clase de activo Real Estate AMPLIA -equity REITs + mortgage REITs + servicios/desarrollo inmobiliario- vs el alcance mas angosto de SCHH -solo equity-REITs puros- - definicion de factor genuinamente mas amplia.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "MSCI US IMI Real Estate 25/50 Index - metodologia de mercado amplio bien establecida -large+mid+small cap-, PERO la INCLUSION de mortgage REITs es una eleccion metodologica real con consecuencias de perfil de riesgo -las mREITs se comportan mas como fondos de bonos apalancados que como equity REITs-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Revision periodica MSCI estandar, turnover moderado.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.43
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y +13.62% a +15.30% -**MAS DEBIL que SCHH +17.23%**-, 3Y anualizado +9.33% -**tambien mas debil que SCHH +12.44%**-, 5Y anualizado +2.44-2.72% -**MAS DEBIL que SCHH +3.94%**-, 10Y anualizado +4.74-4.90% -**MEJOR que SCHH +3.95%, la UNICA ventana donde VNQ gana**-, desde inception -21.89 anios- +6.98-7.50% anualizado -aproximadamente comparable a SCHH +6.95-7.16%-. **Cuadro genuinamente MIXTO**: VNQ ha rendido MENOS que SCHH en la mayoria de horizontes recientes/medios, pese a -o quiza en parte por- su inclusion mas amplia de mortgage REITs.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $86.84-$101.80 (ratio 1.172x) - LIGERAMENTE MENOS volatil que SCHH -1.213x- en esta ventana reciente especifica.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "**Max Drawdown Crisis 2008: -68.3% a -73.1%**, pico feb-2007 a piso mar-2009, peor mes oct-2008 -31.7%, **~885 sesiones -~3.5 anios- para recuperarse** - **LLENA POR COMPLETO el vacio de dato de SCHH** y confirma que los REITs fueron GENUINAMENTE de los sectores mas castigados en 2008 -mucho mas severo que el -44.22% de COVID que sufrieron ambos fondos-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe 0.19-0.88 -variacion AMPLIA segun ventana de medicion-, desviacion estandar ~19.5-28.4% - cifra genuinamente inconsistente/incierta.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.97-0.99 vs S&P 500 - cercano a 1.0, ligeramente MAS ALTO que SCHH -0.95-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "**Crisis 2008 -68.3% a -73.1%/885 sesiones- es EL dato de crisis REIT definitivo del proyecto**, confirma la vulnerabilidad historica conocida del sector ese anio. Sin cifras aisladas de COVID/2022 especificas para VNQ encontradas esta sesion -vacio parcial, aunque probablemente similar a SCHH dado el overlap sustancial de holdings-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 29.21x - **PRACTICAMENTE IDENTICO a SCHH -29.11x-**, convergencia interesante. P/B no encontrado. **P/FFO/P/AFFO NO DISPONIBLE ni siquiera a esta escala mucho mayor** - confirma que es un vacio de transparencia ESTRUCTURAL del espacio de ETFs REIT en general, no una limitacion especifica de SCHH.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield **3.57%** -distribuciones 2025 $3.4718/accion-, trimestral - **NOTABLEMENTE MAS ALTO que SCHH -2.66-2.78%-**, atribuido a la inclusion de mREITs/ingreso especializado, PERO explicitamente senalado como MAS VOLATIL - un intercambio real de yield-por-calidad, no ingreso extra gratuito.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**LA COMPARACION REIT DEFINITIVA del proyecto**: VNQ vs SCHH -fila 119, ya en el workbook, que flagged explicitamente esta comparacion pendiente-. Resultado genuinamente MATIZADO -como XLB-vs-IYM, NO un barrido limpio como XLP-vs-IYK-: VNQ gana en AUM -el ETF REIT mas grande del mundo-, profundidad historica -llena el vacio de 2008 de SCHH por completo-, amplitud -157 vs 121 holdings- y yield -3.57% vs 2.66-2.78%-, PERO PIERDE en costo -0.13% vs 0.07%, casi el doble- y en DESEMPENO RECIENTE -1Y/3Y/5Y todos mas debiles que SCHH, solo gana en 10Y-. Welltower/Prologis/American Tower CONFIRMADOS Top-5 tambien en VNQ, reforzando el MISMO puente rico al proyecto hermano de acciones ya establecido con SCHH -metodologia FFO/AFFO via DDM-. La inclusion de mortgage REITs esta explicitamente senalada en comentario 2026 como fuente de mayor sensibilidad a tasas/volatilidad que ha lastrado el desempeno reciente de VNQ frente al enfoque mas puro de SCHH -ejemplo citado: debilidad de inicios de vivienda may-2026, -15.4%-. | ACTUALIZACION posterior (IYR, fila 121): completa la comparacion de tres vias REIT del proyecto. IYR es el MAS ANTIGUO -jun-2000, predata Crisis 2008 completa, Max Drawdown verificado -71% a -74% con la recuperacion mas larga de los tres ~69 meses- pero tambien el MAS CARO -TER 0.38%, ~5.4x SCHH/~3x VNQ- y PARADOJICAMENTE el mas liquido pese al AUM mas pequeno -uso tactico/opciones, no buy-and-hold-. Welltower/Prologis/American Tower confirmados tambien en IYR. Score IYR 3.21, por debajo de ambos. Ver Ficha IYR fila 121 para el detalle completo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: SATELITE de renta/diversificacion - mismo rol de clase de activo que SCHH, aunque el perfil mas amplio/mayor yield/mas volatil de VNQ sirve un balance riesgo/ingreso ligeramente distinto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: el fondo definitivo de 'poseer todo el mercado inmobiliario de EEUU' -el mas grande, el historial mas largo, el alcance mas amplio-, con mayor yield, aunque la inclusion de mortgage REITs anade un intercambio real de volatilidad/calidad que se ha reflejado en el underperformance reciente frente a la alternativa mas pura de SCHH.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) Max Drawdown Crisis 2008 documentado y SEVERO -68.3% a -73.1%, ~3.5 anios de recuperacion- - el peor dato de crisis verificado de la comparacion REIT; (2) inclusion de mortgage REITs anade sensibilidad a tasas/volatilidad genuina mas alla de los equity REITs puros, senalada explicitamente como lastre de desempeno 2026 frente a SCHH; (3) underperformance reciente frente a la alternativa mas barata SCHH en 1Y/3Y/5Y; (4) TER casi el doble que SCHH; (5) datos de P/FFO/P/AFFO no disponibles pese a la escala mucho mayor, vacio de transparencia estructural del espacio REIT-ETF.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SCHH -fila 119, ya en el workbook, la alternativa mas barata/pura/de mejor desempeno reciente- es la comparable directa mas relevante, ahora con una comparacion bidireccional genuinamente completa -a diferencia del barrido mas unilateral de XLP-vs-IYK-. XLRE -State Street/SPDR Real Estate, no analizado- completaria un trio de comparacion REIT.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA - el ETF REIT mas grande del mundo, con una comparacion genuinamente matizada frente a SCHH. Score 3.42/5, muy cerca de SCHH -3.39-. Vanguard Real Estate ETF, MSCI US IMI Real Estate 25/50 Index - **INCLUYE mortgage REITs y empresas de gestion/desarrollo inmobiliario** -~14.5% del fondo- que SCHH -fila 119, ya en el workbook, que flagged explicitamente esta comparacion pendiente en su propia Ficha- excluye por diseno. AUM $39.3bn -clase ETF- a $59.5-71.4bn -fondo total-, confirmado como **EL ETF REIT MAS GRANDE DEL MUNDO**, ~3.4-6x mayor que SCHH. Inception 23-sep-2004 -~21.89 anios-, **PREDATA la Crisis 2008 y LLENA POR COMPLETO el vacio de dato de SCHH**: Max Drawdown Crisis 2008 VERIFICADO -68.3% a -73.1%, ~885 sesiones -~3.5 anios- para recuperarse- - el dato de crisis REIT definitivo del proyecto, confirma que el sector fue genuinamente de los mas castigados ese anio. **Resultado de comparacion genuinamente MATIZADO frente a SCHH -no un barrido limpio como XLP-vs-IYK-**: VNQ gana en AUM, profundidad historica, amplitud -157 vs 121 holdings- y yield -3.57% vs 2.66-2.78% de SCHH, aunque explicitamente mas volatil-, PERO PIERDE en costo -TER 0.13% vs 0.07%, casi el doble- y en **DESEMPENO RECIENTE** -1Y +13.62-15.30% vs SCHH +17.23%, 3Y +9.33% vs +12.44%, 5Y +2.44-2.72% vs +3.94%, solo gana en 10Y +4.74-4.90% vs +3.95%-. Welltower, Prologis y American Tower CONFIRMADOS Top-5 tambien en VNQ, reforzando el mismo puente rico al proyecto hermano de acciones -metodologia FFO/AFFO via DDM- ya establecido con SCHH. P/FFO/P/AFFO siguen sin estar disponibles pese a la escala mucho mayor, confirma un vacio de transparencia estructural del espacio REIT-ETF. Rol en Portafolio: Satelite de renta/diversificacion, el fondo definitivo de 'poseer todo el mercado inmobiliario de EEUU', aunque SCHH sigue siendo la opcion mas eficiente en costo y de mejor desempeno reciente para la misma tesis subyacente."
+  }
+}

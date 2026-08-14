@@ -1,0 +1,225 @@
+{
+  "nombre": "SPDR S&P 500 ETF Trust",
+  "ticker": "SPY",
+  "categoria": "Equity Indice Amplio (S&P 500 Index 1x, PRIMER Y UNICO fondo del proyecto estructurado como Unit Investment Trust -UIT-, no como RIC estandar -diferencia legal real con VOO/ITOT ya en el workbook-, el ETF MAS ANTIGUO de EEUU -ene-1993, primer ETF listado en la historia-)",
+  "emisor": "State Street Global Advisors (SPDR)",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Estructura legal **Unit Investment Trust (UIT)**, NO un Regulated Investment Company -RIC- estandar como VOO/ITOT ya en el workbook - PRIMERA UIT del proyecto. La UIT obliga a replica FISICA COMPLETA sin discrecion de muestreo (mas rigido incluso que VOO), pero PROHIBE el uso de futuros/derivados para gestionar flujos de caja - una restriccion estructural real, no solo un detalle legal.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US. La estructura UIT crea un **cash drag documentado**: los dividendos recibidos NO se reinvierten automaticamente, se mantienen como efectivo sin invertir hasta la distribucion trimestral -estimado en 1-2 puntos base/anio de underperformance vs VOO en mercados alcistas-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $814.81bn (SSGA, 11-ago-2026) - aun enorme pero SPY ha caido al **#3 mundial**, superado tanto por VOO -$1.03T, fila 102- como por IVV -~$855.4bn, no analizado- pese a ser el ETF original del que ambos derivan.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 22-ene-1993 - **EL PRIMER ETF LISTADO EN LA HISTORIA DE EEUU** y **NUEVO RECORD ABSOLUTO de track record mas largo de todo el proyecto** (~33.6 anios, supera a EWJ/EWC, 30.4 anios, el record anterior). Cubre AMBAS crisis mayores del periodo -2008 GFC y COVID 2020- con datos propios verificados (ver fila 41/44).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor State Street Global Advisors -SPDR-, creador del primer ETF de la historia, tercero de los 'big three' de indexacion junto a Vanguard y BlackRock.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.0945% - **~3.15x mas caro que VOO (0.03%)** por la MISMA exposicion exacta al mismo indice. El mas caro de los fondos S&P 500 del proyecto por un margen amplio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Replica fisica completa obligatoria por estructura UIT (sin discrecion de muestreo) - en teoria muy ajustada al indice, pero el cash drag de dividendos no reinvertidos introduce un costo estructural real no capturado por el TER nominal.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "**PROHIBIDO por estructura**: la UIT no permite securities lending - CERO revenue de este concepto, a diferencia de VOO/ITOT que si prestan valores. Primera vez en el proyecto que esto es una restriccion estructural confirmada, no un simple dato no verificado.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rotacion de constituyentes del S&P 500 identica a VOO/ITOT (mismo indice exacto) - baja, cambios trimestrales por comite.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~6.15M acciones/dia, **~$30bn/dia en dolares** - **RECORD ABSOLUTO DE TODO EL PROYECTO por un margen enorme** (supera a TLT, el record previo con $2.85bn/dia, por ~10x; supera a VOO ~$577M/dia y SPXL ~$965M/dia por ordenes de magnitud). Confirmado como el instrumento financiero mas negociado del mundo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask ~$0.01 (un centavo) - de los mas ajustados de cualquier ETF, consecuencia directa del volumen record.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion, aunque se espera minimo dado el volumen extremo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "State Street/SPDR - la red de Authorized Participants y el ecosistema de arbitraje de futuros/opciones mas MADURO y profundo de cualquier ETF del mundo, con 33 anios de infraestructura.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "504-505 holdings - practicamente identico a VOO (520, mismo indice), replica fisica completa mandatada por la estructura UIT.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 38.15% (SSGA) - la MAS ALTA concentracion de los tres fondos S&P 500/mercado total del proyecto (vs VOO 36.33%, ITOT 33.86%), pese a ser esencialmente el mismo universo - variacion atribuible a diferencias de fecha de snapshot entre fuentes, no a una diferencia real de metodologia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector Tecnologia 37.51% (SSGA) - el mas alto de los tres fondos S&P 500/mercado total del proyecto, mismo tema de concentracion por cap-weighting.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "BLEND identico a VOO - mismo indice S&P 500 exacto, misma composicion de facto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice S&P 500 - identico al de VOO, la maxima pureza de metodologia posible.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral estandar del indice - sin reseteo diario ni decay.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y +22.80%, 10Y anualizado +15.05%, desde inception -33.6 anios- +10.89% anualizado - **el track record de CAGR verificado mas largo de todo el proyecto**.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $629.28-$776.85 (ratio 1.234x) - PRACTICAMENTE IDENTICO a VOO (1.235x) e ITOT (1.235x), tercera confirmacion consecutiva del mismo patron de precio reciente en los tres vehiculos S&P 500/mercado total del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "**DOS crisis documentadas con fecha y tiempo de recuperacion** -unico fondo del proyecto con ambas-: (1) Crisis Financiera 2008: drawdown ~-55.2%, piso 9-mar-2009, ~869 sesiones -~3.5 anios- para recuperarse; (2) COVID 2020: drawdown ~-34%, piso alcanzado en solo 32 dias -el bear market MAS RAPIDO registrado-, recuperacion en ~5 meses. Riqueza de datos de crisis sin comparacion en el proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio en MULTIPLES ventanas (record de granularidad del proyecto): desde inception -33 anios- ~0.47, 5 anios ~0.59, 3 anios ~1.08, 12 meses ~1.51 - ilustra como el Sharpe de corto plazo puede ser engañosamente alto frente al historico completo de tres decadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 1.01 vs S&P 500 - identico a VOO/ITOT, ES el propio benchmark original.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "**UNICO fondo del proyecto con AMBAS crisis mayores documentadas**: 2008 GFC -recuperacion lenta, ~3.5 anios- y COVID 2020 -crash mas rapido de la historia pero recuperacion mucho mas veloz, ~5 meses-, ilustrando dos perfiles de crisis completamente distintos sobre el MISMO vehiculo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 26.82x trailing / 21.57x forward (SSGA), **P/B 5.37x** (primera cifra de P/B confirmada con precision en este cluster reciente de fondos S&P 500/mercado total) - valoracion rica, mismo tema que VOO/ITOT.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield 0.97% TTM, trimestral - muy similar a VOO (1.04%) e ITOT (0.97%), la pequena diferencia vs VOO es consistente con el cash drag de la estructura UIT.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "LA COMPARACION MAS LIMPIA DEL PROYECTO ENTRE ESTRUCTURAS SOBRE EL MISMO INDICE EXACTO: SPY (UIT, TER 0.0945%, sin lending, cash drag) vs VOO (fila 102, RIC, TER 0.03%, con lending, sin cash drag) - MISMO indice literal, estructuras legales genuinamente distintas, brecha de costo de ~3.15x sin beneficio adicional para un tenedor de largo plazo. IVV (BlackRock, TER 0.03% igual que VOO, ahora AUM #2 mundial superando a SPY) completaria el trio pero no esta en el workbook. ITOT (fila 103, ya en el workbook) es el comparable de mercado TOTAL. La UNICA ventaja real de SPY es su ecosistema de opciones/futuros y liquidez sin rival -relevante para trading institucional, no para buy-and-hold-.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Core, pero **ESTRUCTURALMENTE INFERIOR a VOO/ITOT para un tenedor de largo plazo** por el TER 3x mayor y la ausencia de securities lending - su ventaja real es el volumen/mercado de opciones, relevante para trading activo, no para acumulacion pasiva.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: misma exposicion que VOO/ITOT pero mas cara y estructuralmente mas rigida - la UNICA razon legitima para preferir SPY sobre VOO/IVV es el mercado de opciones mas profundo/liquido del mundo y el uso institucional/de cobertura, no la acumulacion de largo plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos/desventajas principales: (1) mismo overlap con AVGO -2.96%- y MU -1.47%-, ambas NO COMPRAR-superciclo IA, junto a NVDA -7.92%, MANTENER-; (2) TER 3.15x mayor que VOO/IVV sin beneficio adicional para buy-and-hold; (3) estructura UIT prohibe securities lending -revenue perdido- y genera cash drag por dividendos no reinvertidos; (4) valoracion rica identica a VOO/ITOT -P/E ~27x, P/B 5.37x-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VOO (fila 102, ya en el workbook, MISMO indice exacto, TER 3.15x mas barato, estructura RIC superior para buy-and-hold), ITOT (fila 103, ya en el workbook, mercado total), e IVV (BlackRock, mismo TER 0.03% que VOO, mismo indice exacto, ahora AUM #2 mundial superando a SPY, no analizado) son las alternativas/comparables mas relevantes - SPY es claramente el mas caro y rigido de los cuatro, con la unica ventaja de liquidez/opciones.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar (VOO/IVV son la version estructuralmente superior de la MISMA exposicion para buy-and-hold). Score 3.55/5, notablemente por debajo de VOO (3.91) e ITOT (3.88) pese a ser el MISMO indice que VOO. SPDR S&P 500 ETF Trust, el PRIMER ETF listado en la historia de EEUU (22-ene-1993, ~33.6 anios) - **NUEVO RECORD ABSOLUTO de track record mas largo del proyecto** (supera a EWJ/EWC, 30.4 anios) y **UNICO fondo del proyecto con AMBAS crisis mayores documentadas** -2008 GFC (drawdown ~-55.2%, ~3.5 anios para recuperarse) y COVID 2020 (drawdown ~-34%, el crash mas rapido registrado, recuperado en ~5 meses)-. PERO: es la PRIMERA Y UNICA estructura Unit Investment Trust (UIT) del proyecto, no un RIC estandar como VOO/ITOT - esto significa TER 0.0945% -~3.15x mas caro que VOO 0.03%-, PROHIBICION legal de securities lending -revenue perdido frente a VOO/ITOT- y un cash drag documentado por dividendos no reinvertidos automaticamente. Volumen ~$30bn/dia - **RECORD ABSOLUTO de TODO el proyecto por un margen enorme** -supera a TLT, el record previo, por ~10x- y sigue siendo el instrumento financiero mas negociado del mundo, gracias a un ecosistema de opciones/futuros sin rival tras 33 anios de infraestructura - PERO esta ventaja es relevante para trading institucional/cobertura, no para un inversor de largo plazo. AUM $814.81bn, aun enorme, pero SPY ha caido al **#3 mundial**, superado tanto por VOO -fila 102, $1.03T- como por IVV -no analizado, ~$855.4bn- pese a ser el ETF original del que ambos derivan. Overlap identico a VOO/ITOT con AVGO -2.96%- y MU -1.47%-, ambas NO COMPRAR-superciclo IA. Rol en Portafolio: Core en teoria, pero ESTRUCTURALMENTE INFERIOR a VOO/ITOT ya en el workbook para acumulacion pasiva - preferible solo para uso institucional/de opciones. IVV (BlackRock, mismo TER 0.03% que VOO, ahora AUM #2 mundial) no analizado en el workbook."
+  }
+}

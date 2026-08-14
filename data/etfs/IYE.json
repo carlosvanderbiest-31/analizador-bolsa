@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares U.S. Energy ETF",
+  "ticker": "IYE",
+  "categoria": "Equity Sector (energia GICS completo: integradas/E&P/refino/midstream)",
+  "emisor": "iShares/BlackRock",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO -representative sampling-, no completa. Sin swaps ni riesgo de contraparte. Emisor iShares/BlackRock, mismo mecanismo que el resto de la familia IYK/IYM/IYZ/IYR ya en el workbook.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU, sin retencion de dividendos extranjeros.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$1.5-1.7bn -fact sheet ishares.com 30-jun-2026 $1,529.25M; stockanalysis.com $1.73bn-, MUCHO menor que XLE -decenas de miles de millones- y que FENY, pero en linea con el resto de la familia iShares Russell-capped -IYM ~$1.05-1.18bn, IYK ~$1.3-1.43bn, ambos ya en el workbook-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "26.2 anios desde inception -12-jun-2000, MISMA FECHA EXACTA que IYK y IYM ya en el workbook, tercer/cuarto miembro confirmado de esa cohorte de lanzamiento-. CUBRE Crisis 2008 y crash COVID marzo-2020 completos -Max Drawdown historico documentado abajo-, track record largo y completo, ventaja estructural frente a FENY.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor iShares/BlackRock, la gestora de ETFs mas grande del mundo, gama de productos enorme y liquidez/infraestructura de creacion-redencion robusta a nivel de firma pese a que este fondo especifico es relativamente chico.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.38% -confirmado por ishares.com fact sheet, mutualfunds.com, etfdb.com, coincide EXACTAMENTE con el resto de la familia IYK/IYM/IYZ/IYR-. Es 4.75x MAS CARO que XLE y FENY -ambos 0.08%, ya en el workbook-, EXACTAMENTE el mismo multiplicador de sobrecosto ya documentado en el patron XLP-vs-IYK y XLB-vs-IYM.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference confiable NO ENCONTRADA pese a busqueda dirigida. Un solo snippet no verificado -PortfoliosLab- menciona Tracking Error a 3 anios de 1.13%, pero no se pudo confirmar en fuente primaria -declarado explicitamente como dato incierto, no se fuerza un numero-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "BlackRock/iShares opera uno de los programas de securities lending mas grandes de la industria a nivel de firma, pero no se encontro cifra de revenue especifica de IYE que compense el TER -mismo vacio de dato que en el resto de la familia IY*-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice cap-weighted CAPPED -22.5/45-, un solo valor tope 22.5%, agregado de valores >4.5% individual topado en 45%. Rebalanceo TRIMESTRAL. Rotacion moderada dado el numero intermedio de holdings -~40-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~562,579 acciones/dia -stockanalysis.com-. Derivado a USD usando AUM/acciones en circulacion del fact sheet -$1,529.25M / 27,000,000 acciones = ~$56.64/accion- x volumen: **~$31.9M/dia** -estimacion propia a partir de datos oficiales, no dato directo de fuente-. Modesto pero funcional, muy por debajo de XLE.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask (30-day median) = 0.02% al 4-ago-2026 -ishares.com-, muy ajustado pese al AUM relativamente chico del fondo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount historico vs NAV NO ENCONTRADO pese a busqueda dirigida a ishares.com -bloqueo 403 en fetch directo del fact sheet completo-. Dato declarado explicitamente como no verificado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs para IYE, pero BlackRock/iShares es el emisor mas grande del mercado con infraestructura de creacion/redencion robusta a nivel de firma; el spread ajustado -0.02%- sugiere un mecanismo funcional pese al tamano relativamente chico del fondo especifico.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "~40-42 holdings segun fuente/fecha de corte -fact sheet ishares.com 30-jun-2026: 40-, numero INTERMEDIO: mas que XLE -~20-25- pero muy por debajo de FENY -104, ya en el workbook-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 70.6% del fondo -stockanalysis.com-: Exxon 23.18%, Chevron 15.80%, ConocoPhillips 6.43%, Marathon Petroleum 4.09%, Valero 4.07%, Williams 3.83%, Phillips 66 3.74%, EOG Resources 3.45%, SLB 3.24%, Kinder Morgan 2.73%. Exxon+Chevron concentran ~39% del fondo, concentracion alta similar al patron de XLE.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Concentracion sectorial Energy ~99% -cobertura GICS COMPLETA: integradas, E&P, refino -Marathon/Valero/Phillips 66 ~12% combinado-, y midstream -Williams+Kinder Morgan ~6.6%-, similar en amplitud a XLE.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU, sin exposicion internacional.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Exposicion de factor sector energia pura, cap-weighted sin sesgo growth/value diferenciado, exposicion estandar consistente con la tesis del fondo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Russell 1000 Energy RIC 22.5/45 Capped Index -cap-weighted, capped-, metodologia transparente y publicada por FTSE Russell.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "**HALLAZGO**: el indice CAMBIO en sep-2021 de Dow Jones U.S. Oil & Gas Index a Russell 1000 Energy RIC 22.5/45 Capped Index -mismo patron ya visto en IYZ, cambio de familia Dow Jones a Russell-, lo que ROMPE la continuidad metodologica del historico de largo plazo -cualquier CAGR desde inception mezcla dos regimenes de indice distintos-. Rebalanceo trimestral con reglas claras post-cambio.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.57
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 10Y anualizado ~9.03-9.18% -segun comparativas cruzadas IYE/FENY/XLE va portfolioslab/minafi, no fuente primaria unica-, **INFERIOR a XLE -9.75%- y a FENY -9.64%-, ambos ya en el workbook**, pese al TER 4.75x mayor -el costo adicional NO se compensa con mejor desempeno-. Retorno 1Y con RANGO AMPLIO entre fuentes -36.70% a 48.19%-, todas positivas por el rally energetico reciente pero sin cifra unica confiable. Retorno 3Y NO ENCONTRADO pese a busqueda dirigida.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "**BANDERA DE CALIDAD DE DATO**: volatilidad anualizada con cifras MUY INCONSISTENTES entre fuentes -4.91%, 7.00%, y 21.76% segun snippet de portfoliosLab-, demasiado dispares para reconciliar con confianza sin acceso directo a portfoliovisualizer.com. No se fuerza una cifra unica.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = **-73.74%** -portfoliosLab-. CUBRE Crisis 2008 y el crash COVID marzo-2020 completos -mismo perfil que IYK/IYM, ventaja de track record sobre FENY-; peor dia individual documentado 9-mar-2020 -20.7%, colapso de precio del petroleo por la guerra de precios Rusia-Arabia Saudita coincidiendo con el inicio de COVID.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio con discrepancia entre fuentes -1.44 a 1.98 segun snippets de portfoliosLab en distintas fechas de captura-, sin fuente primaria confiable para una cifra unica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.47 -stockanalysis.com-, sorprendentemente BAJO para un ETF sectorial de energia -normalmente 0.8-1.2-, probablemente refleja una ventana de calculo corta/reciente donde energia se desacoplo del mercado amplio. Reportado con esta salvedad explicita, no como beta estructural de largo plazo verificado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Cubre Crisis 2008 completa y el crash COVID marzo-2020 -incluido el colapso de precio del petroleo de esa semana- de forma directa por su track record desde 2000, a diferencia de FENY que nace mas tarde.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado ~21.4-21.9x segun fuente/fecha -stockanalysis.com 21.36, ishares.com 21.92-, sin serie historica propia a 5-10 anios disponible para calcular percentil.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield SEC 30-day = 2.4% -ishares.com 30-jun-2026-, TTM $1.34/accion. Yield moderado, ni destaca ni penaliza frente al resto del cluster de energia del proyecto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Comparacion directa con XLE y FENY -ambos ya en el workbook, misma exposicion nucleo Energy GICS-: IYE pierde CLARAMENTE en costo -TER 0.38% vs 0.08% de ambos, 4.75x mas caro- y en retorno 10Y -9.03-9.18% vs 9.75% XLE vs 9.64% FENY-. Correlacion con FENY practicamente 1.00 -movimiento casi identico-, confirmando que la eleccion entre ambos es puramente de costo, y en ese eje IYE pierde decisivamente.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Satelite de exposicion sectorial a energia, pero REDUNDANTE frente a XLE y FENY ya en el workbook, ambos con mejor perfil costo/retorno para la misma exposicion nucleo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: cobertura GICS Energy completa -integradas+E&P+refino+midstream- con track record que SI cubre Crisis 2008 y COVID de forma directa -ventaja sobre FENY-, pero sin ventaja diferencial clara sobre XLE que ya ofrece la misma cobertura amplia a un costo 4.75x menor.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: concentracion Exxon+Chevron ~39% del fondo, cambio de indice en 2021 -Dow Jones a Russell- que rompe continuidad metodologica del historico, TER estructuralmente mas caro sin compensacion de retorno, y calidad de dato debil en volatilidad/Sharpe -discrepancias grandes entre fuentes, posible senal de baja cobertura de terceros dado el AUM chico del fondo-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "Alternativas DIRECTAS ya en el workbook y CLARAMENTE preferibles: XLE -TER 0.08%, mejor retorno 10Y, Score 3.85- y FENY -TER 0.08%, mas holdings -104-, retorno similar, Score 3.30-. IYE completa el patron ya documentado con IYK/IYM/IYZ/IYR: el par iShares Russell-capped SIEMPRE pierde frente a su competidor SPDR/Fidelity mas barato en el mismo sector.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). IYE completa el CUARTO caso confirmado del patron familiar iShares Russell-capped ya documentado con IYK, IYM e IYZ: TER 0.38% -4.75x mas caro que su competidor SPDR/Fidelity directo-, AUM mucho menor, y SIN ventaja de retorno compensatoria -10Y ~9.03-9.18% vs 9.75% de XLE y 9.64% de FENY, ambos ya en el workbook con la MISMA exposicion nucleo GICS Energy-. Su unica ventaja real es un track record que cubre Crisis 2008 y COVID de forma completa y directa -mismo dia de inception exacto que IYK/IYM, 12-jun-2000-, superando en ese aspecto especifico a FENY. Pero esto no compensa el sobrecosto estructural frente a XLE, que ya ofrece cobertura de crisis comparable a un costo 4.75x menor. Calidad de dato notablemente mas debil que XLE/FENY -volatilidad y Sharpe con discrepancias grandes entre fuentes sin poder reconciliar una cifra unica confiable-, reflejo probable del menor AUM y menor cobertura de terceros. Score 2.64/5, en linea con IYM -2.85- e IYZ -2.61-, ambos con el mismo patron de sobrecosto sin compensacion. Rol Satelite REDUNDANTE: XLE y FENY, ambos ya en el workbook, son la eleccion estructuralmente superior para esta misma exposicion."
+  }
+}

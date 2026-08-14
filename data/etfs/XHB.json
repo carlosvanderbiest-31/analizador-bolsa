@@ -1,0 +1,225 @@
+{
+  "nombre": "SPDR S&P Homebuilders ETF",
+  "ticker": "XHB",
+  "categoria": "Equity Tematico/Factor (ecosistema de vivienda residencial EEUU: constructoras + proveedores/materiales + mejoras del hogar)",
+  "emisor": "State Street/SPDR",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Discrepancia de fuentes sobre metodo de replica: el prospecto OFICIAL de SSGA declara explicitamente estrategia de MUESTREO -sampling, minimo 80% de activos en valores del indice-, mientras Trackinsight lo clasifica como 'Full replication'. En la practica casi equivalentes dado que el fondo tiene solo 33-35 posiciones que calzan casi 1:1 con el indice. Se usa la clasificacion oficial de SSGA -muestreo- por ser la fuente regulatoria mas autorizada.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -NYSE Arca, estandar para la familia SPDR-, sin fuente dedicada que lo declare explicitamente pero consistente con el resto de fondos SPDR ya en el workbook -SPY/XLE/XLU/etc-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$1.51-1.52bn -convergencia firme entre 3 fuentes: stockanalysis.com $1.52bn, SSGA oficial $1,511.56M, Barchart ~$1.52bn-, similar en escala a ITB -~$2.47bn, ya en el workbook- aunque algo menor.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "20.5 anios desde inception -31-ene-2006, AUN MAS TEMPRANO que ITB -may-2006, ya en el workbook--. CUBRE la burbuja inmobiliaria/Crisis 2008 completa, con el max drawdown documentado abajo con buena convergencia entre fuentes -mejor calidad de dato en esta metrica especifica que ITB-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor State Street/SPDR, gestora grande y reputada, gama de productos consistente con el resto del proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.35% -confirmado por 4 fuentes independientes sin discrepancia: stockanalysis.com, SSGA oficial 'Gross Expense Ratio', trackinsight, portfolioslab-. MAS BARATO que ITB -0.37-0.38%, ya en el workbook-, aunque la diferencia es marginal en terminos absolutos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO en ninguna de las fuentes consultadas -SSGA, etf.com bloqueado, trackinsight, etfdb bloqueado-. Declarado explicitamente como dato no disponible, mismo enfoque aplicado a ITB.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Sin dato especifico de revenue por securities lending para XHB pese a que State Street opera un programa institucional a nivel de firma.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Metodologia MODIFIED EQUAL-WEIGHT confirmada por SSGA oficial -'includes liquidity and market cap screens for investability'-. Banda de capping de ~4.5% por constituyente en cada rebalanceo -sintesis de busqueda sobre la metodologia S&P Select Industry Indices, NO verificada contra el documento fuente original por bloqueo 403-, rebalanceo TRIMESTRAL el tercer viernes de marzo/junio/septiembre/diciembre.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen con RANGO AMPLIO segun fuente: 1.84M a 2.71M acciones/dia -Robinhood/snapshots de distinta fecha-, equivalente a ~$195M-$300M/dia. Dato puntual de SSGA de un solo dia -225,409 acciones- no es representativo del promedio. XHB es conocido como vehiculo tacticamente muy transado relativo a su AUM.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask -30-day median- = 0.04% -SSGA oficial-, IGUAL que ITB, razonablemente ajustado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount = +0.01% al 11-ago-2026 -SSGA oficial, dato puntual unico-. Sin serie historica de premium/discount promedio encontrada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero State Street/SPDR tiene infraestructura de creacion/redencion robusta a nivel de firma, consistente con el resto de fondos SPDR del proyecto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "33-35 holdings segun fuente -SSGA 33, stockanalysis.com 34, trackinsight 35-, MENOS que ITB -47-48, ya en el workbook- en numero absoluto, pero ver fila 31 para concentracion relativa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = **39.7%** -SSGA suma exacta 39.66%, stockanalysis.com 39.77%, buena convergencia; corrige al alza la estimacion preliminar de ~35%-. **MUCHO MENOS concentrado que ITB -67.99%, ya en el workbook-**, ventaja estructural clara de la metodologia equal-weight. Top10: Owens Corning 4.56%, Allegion 4.30%, Installed Building Products 4.21%, Williams-Sonoma 4.00%, Champion Homes 3.97%, Carlisle Companies 3.93%, PulteGroup 3.69%, Home Depot 3.67%, Johnson Controls 3.67%, Advanced Drainage Systems 3.66% -SOLO 2-3 de 10 nombres son constructoras puras-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Desglose sectorial OFICIAL SSGA: Homebuilding 44.20%, Building Products 41.53%, Home Improvement Retail 7.08%, Homefurnishing Retail 4.02%, Home Furnishings 3.16%. **CONFIRMADO que mas del 55% del fondo NO es homebuilding puro** -mismo patron de 'ecosistema de vivienda amplio' ya visto en ITB, aqui con desglose oficial mas granular-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU, exposicion pura al mercado de vivienda residencial domestico.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Metodologia EQUAL-WEIGHT MODIFICADA -a diferencia del cap-weighted modificado con capping de ITB- reduce el riesgo idiosincratico de las posiciones top, exposicion de factor genuinamente distinta y mas balanceada que ITB.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice S&P Homebuilders Select Industry, modified equal-weight con banda de capping ~4.5%/constituyente -cifra exacta no verificada en documento fuente original-, screens de liquidez y capitalizacion para 'investability'.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo TRIMESTRAL confirmado -tercer viernes de marzo/junio/septiembre/diciembre-, reglas mas claras y documentadas que las de ITB.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.14
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno con RANGO NO RECONCILIADO entre fuentes de distinta confianza: **10Y anualizado 12.07% -SSGA oficial NAV- a 12.77% -totalrealreturns.com total return-** -fetch directo, mas confiables-, pero snippets de busqueda no verificados citan un cluster distinto de 14.0-14.2% -no reconciliado, declarado explicitamente-. CAGR desde inception = 4.93%-5.48%, **MEJOR que ITB -4.21-4.29%, ya en el workbook-**. Retorno 1Y debil -2.34% a 3.37% segun fuente-, 3Y 7.80-10.67%, 5Y 7.43-8.02%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad con discrepancia entre VENTANAS de calculo, no necesariamente error de fuente: 31.9% anualizada desde inception -composer.trade, fetch directo, cubre Crisis 2008- vs 25.98% trailing 3Y -via busqueda- vs 9.84% en una comparacion directa con ITB -portfolioslab, periodo no especificado, cifra dudosa-. Menos severa en conjunto que la dispersion vista en ITB, pero aun sin cifra unica limpia.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = **-81.6% a -81.8%** -BUENA CONVERGENCIA entre composer.trade -81.8%- y portfoliosLab -81.61%-, mejor calidad de dato en esta metrica que ITB-. **MENOS SEVERO que ITB -86.53%, ya en el workbook-** pese a nacer unos meses antes y cubrir la misma Crisis 2008/burbuja inmobiliaria completa - la metodologia equal-weight diluyo el impacto de las constructoras puras -las mas golpeadas en 2008- al mezclarlas con proveedores/retail mas resilientes.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = 0.32 -composer.trade, fetch directo, desde inception-, cifra razonablemente confiable. Snippets no verificados citan 0.42 y 0.08 -probablemente periodo reciente debil dado el retorno 1Y bajo-, no se les da el mismo peso que a la cifra fetched directamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.25-1.30 -BUENA CONVERGENCIA: stockanalysis.com 1.26, barchart '60-month beta' 1.25, busqueda 3Y 1.30-. LIGERAMENTE MENOR que ITB -1.29-1.50, ya en el workbook-, consistente con la dilucion de riesgo idiosincratico de la metodologia equal-weight.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Cubre la burbuja inmobiliaria/Crisis 2008 completa por su inception ene-2006, con el drawdown documentado en fila 41 con buena convergencia entre fuentes -a diferencia de la dispersion severa que tuvo ITB en varias metricas-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado 18.04x -trailing, stockanalysis.com- a 19.12x -forward FY1, SSGA oficial-, diferencia atribuible a metodologia trailing vs forward, no es discrepancia real de fuente. P/B ponderado = **2.52x -unica fuente encontrada, SSGA oficial, sin segundo dato para contrastar-**.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield 0.65%-0.68% -SSGA Fund Distribution Yield 0.65%, 30-Day SEC Yield 0.68%, stockanalysis TTM 0.66%, buena convergencia-, similar a ITB. Tesis de apreciacion de capital, no income.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Comparacion DIRECTA cifra-a-cifra con ITB -ya en el workbook, Score 2.48-: **XHB gana en TER -0.35% vs 0.37-0.38%-, concentracion -Top10 39.7% vs 67.99%-, Max Drawdown -81.7% vs -86.53%-, Beta -1.275 vs 1.29-1.50- y CAGR desde inception -5.2% vs 4.25%-**; ITB probablemente gana en retorno 10Y headline -14.13-14.80% vs el cluster mas confiable de XHB 12.07-12.77%-, aunque con incertidumbre real por dispersion de fuentes en XHB -un cluster no verificado de XHB llega a 14.0-14.2%, casi empatando-. Correlacion entre ambos = 0.96 -portfolioslab-, se mueven casi en lockstep, diversificacion minima si se tienen ambos. Empate matizado con ligera inclinacion estructural a favor de XHB si el criterio prioriza riesgo/concentracion sobre retorno bruto historico.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol TACTICO/ESPECULATIVO, mismo perfil de riesgo sectorial angosto ciclico que ITB, pero con MEJOR perfil estructural de riesgo -menor concentracion, menor drawdown, menor beta-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: misma exposicion al ecosistema de vivienda residencial EEUU que ITB -constructoras + proveedores + retail de mejoras del hogar-, pero con metodologia equal-weight que reduce la concentracion idiosincratica y ha demostrado un drawdown historico algo menos severo en la misma Crisis 2008/burbuja inmobiliaria.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: mismo riesgo sectorial/ciclo inmobiliario/sensibilidad a tasas de interes que ITB, clasificado EXPLICITAMENTE por el propio prospecto de SSGA como potencialmente 'non-diversified' pese a la metodologia equal-weight, riesgo de tracking por estrategia de muestreo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "ITB -iShares, ya en el workbook, Score 2.48, REDUCIR/VENDER- es el competidor directo mas cercano -correlacion 0.96, casi sustitutos-: mas concentrado, mayor drawdown historico, pero con retorno 10Y headline mas alto segun la cifra mas citada para cada uno.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. XHB es el competidor directo de ITB -ya en el workbook, fila 127, Score 2.48- que se dejo pendiente en esa ficha, y la comparacion cifra-a-cifra confirma una VENTAJA ESTRUCTURAL clara a favor de XHB en la mayoria de los ejes: TER mas barato -0.35% vs 0.37-0.38%-, concentracion MUCHO menor -Top10 39.7% vs 67.99%, gracias a su metodologia equal-weight modificada en vez del cap-weighted concentrado de ITB-, Max Drawdown MENOS SEVERO -81.6-81.8% vs -86.53%- pese a nacer unos meses antes y cubrir la misma burbuja inmobiliaria/Crisis 2008 completa, Beta algo menor -1.25-1.30 vs 1.29-1.50-, y CAGR desde inception superior -4.93-5.48% vs 4.21-4.29%-. La UNICA metrica donde ITB probablemente gana es el retorno 10Y headline -14.13-14.80% vs el cluster mas confiable de XHB 12.07-12.77%-, aunque con incertidumbre real por dispersion de fuentes -un cluster alternativo no verificado de XHB llega a 14.0-14.2%, casi empatando-. Correlacion entre ambos = 0.96, se mueven casi en lockstep -diversificacion minima si se tienen los dos-. Sigue siendo un fondo sectorial angosto y ciclico -mismo riesgo de tasas de interes/vivienda que ITB, clasificado por el propio SSGA como potencialmente 'non-diversified'-, con yield casi nulo -0.65-0.68%- y volatilidad alta -31.9% desde inception-. Score 3.09/5, notablemente por encima de ITB -2.48-, en linea con XOP -3.03- e IHAK -3.18-. Rol Tactico/Especulativo, no redundante con ITB en el sentido de ser sustituto CLARAMENTE inferior -al contrario, es la mejor de las dos opciones estructuralmente-, pero dada la correlacion de 0.96 no tiene sentido tener ambos en portafolio."
+  }
+}

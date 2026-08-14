@@ -1,0 +1,227 @@
+{
+  "nombre": "ProShares UltraPro Short Dow30",
+  "ticker": "SDOW",
+  "categoria": "Equity Indice Amplio Apalancado/Inverso (-3x diario sobre el Dow Jones Industrial Average via futuros - NOVENO apalancado/inverso del proyecto, ESPEJO DIRECCIONAL EXACTO de UDOW -fila 93-: mismo emisor/indice/fecha de inception, direccion opuesta)",
+  "emisor": "ProShares",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica SINTETICA via futuros DJIA E-mini + cash/Treasury Bills - estructura MAS SIMPLE que UDOW (solo futuros compensados centralmente, SIN los seis bancos de swaps), aunque igual de apalancada (-3x).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - misma complejidad fiscal que el resto de la linea apalancada.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $146.74M - MUCHO MENOR que UDOW ($944.80M), refleja la escasa demanda de apostar en contra del mercado alcista de acciones de EEUU sostenido desde 2010.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 9-feb-2010 (~16.5 anios) - **MISMA fecha exacta que UDOW**, lanzamiento gemelo de la pareja +3x/-3x de ProShares sobre el Dow30.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor ProShares - NOVENA aparicion de la linea apalancada/inversa del proyecto.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.95% - identico a UDOW y al resto de la linea apalancada de ProShares.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Decay CATASTROFICO: CAGR desde inception -38.46% a -37.99% - **uno de los PEORES resultados de todo el proyecto**, cerca del minimo historico (ZSL, -42%).",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rotacion DIARIA de los contratos de futuros DJIA E-mini - misma mecanica que UDOW.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~2.95M acciones/dia (mayor en conteo de acciones que UDOW, 1.34M, aunque a un precio unitario mucho menor dado el AUM mas pequeno) - liquidez solida.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "ProShares - misma profundidad de Authorized Participants que UDOW y el resto de la categoria.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "17 holdings (futuros + cash/T-bills) - estructura simple, sin la exposicion directa a acciones individuales que si tenia UDOW via algunas holdings puntuales.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Concentracion Top 10 holdings (%)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion geografica",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "aspectos": [
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Dow Jones Industrial Average, -3x diario via futuros - mismo benchmark que UDOW, direccion opuesta.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo DIARIO al cierre de cada sesion para mantener el objetivo -3x - identico mecanismo a UDOW, mismo nivel de apalancamiento extremo (3x) del proyecto.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = **-44.27%**. Retorno desde inception (16.5 anios) = **-38.46% a -37.99% CAGR - de los PEORES resultados historicos de todo el proyecto**, muy cerca del minimo (ZSL, -42%), reflejo directo de apostar en contra del mercado alcista de acciones de EEUU mas fuerte y sostenido del periodo analizado en el proyecto.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad: rango de 52 semanas $21.13-$42.34 (ratio 2.00x) - moderada dentro de la categoria apalancada del proyecto, similar a UDOW (1.72x).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el CAGR de -38% desde inception implica una perdida acumulada cercana a la totalidad del capital original.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.33
+    },
+    {
+      "titulo": "Sharpe / Sortino ratio",
+      "aspectos": [
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = -2.45 - fuerte correlacion inversa por diseno (-3x sobre un indice altamente correlacionado con el mercado amplio).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**ESPEJO DIRECCIONAL EXACTO de UDOW (fila 93, ya en el workbook)**: mismo emisor, mismo indice Dow Jones Industrial Average, MISMA fecha de inception (9-feb-2010). La comparacion produce la BRECHA DE CAGR MAS EXTREMA de cualquier par direccional del proyecto: UDOW +26.91% vs SDOW -38.46% a -37.99% (diferencia de ~65 puntos porcentuales anualizados), superando incluso la brecha de KOLD/BOIL, ZSL/AGQ o SCO/UCO - refleja que el mercado accionario de EEUU ha tenido la tendencia direccional mas fuerte y sostenida de cualquier activo comparado en pares dentro de todo el proyecto. | ACTUALIZACION posterior (DIA, fila 108): el BASELINE 1x del Dow30 que faltaba, ahora analizado en el workbook - completa la escalera 1x DIA / +3x UDOW / -3x SDOW. DIA es Unit Investment Trust -UIT-, igual estructura que SPY, y PRIMER fondo ponderado por PRECIO -no capitalizacion- del proyecto - un defecto metodologico documentado con costo cuantificado -10Y +186.7% vs ~+314.79% de trackers del S&P 500-. Score DIA 2.91, el mas bajo del cluster de indices amplios del proyecto. Ver Ficha DIA fila 108 para el detalle completo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO - misma categoria que UDOW y el resto de la linea apalancada del proyecto, NUNCA apto como posicion de largo plazo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: unicamente tiene sentido como cobertura tactica bajista de exposicion real a acciones de EEUU por un horizonte de pocos dias, o apuesta direccional bajista de trading de muy corto plazo sobre el Dow30. El resultado de este proyecto (CAGR -38% desde 2010) es la advertencia mas severa sobre el riesgo de apostar contra una tendencia estructural sostenida del mercado accionario.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) decay compuesto por rebalanceo diario -3x, YA MATERIALIZADO en uno de los peores CAGR del proyecto; (2) apalancamiento 3x, el mas alto de la categoria; (3) riesgo de contraparte en futuros; (4) complejidad fiscal via K-1; (5) el resultado historico depende enteramente de la direccion del mercado, y aqui la direccion fue consistentemente adversa durante 16.5 anios.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "UDOW (mismo emisor, +3x LARGO, espejo direccional exacto, ya en el workbook fila 93) y exposicion 1x simple al Dow (sin apalancamiento) son las alternativas relevantes.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.42/5 - entre los mas bajos del proyecto (cerca de ZSL, 2.30). ProShares UltraPro Short Dow30, -3x diario sobre el Dow Jones Industrial Average - ESPEJO DIRECCIONAL EXACTO de UDOW (fila 93): mismo emisor, mismo indice, MISMA fecha de inception (9-feb-2010). Esta comparacion produce la BRECHA DE CAGR MAS EXTREMA de cualquier par direccional del proyecto: UDOW termino con CAGR desde inception de +26.91% mientras SDOW termino con -38.46% a -37.99% - una diferencia de aproximadamente 65 puntos porcentuales anualizados, superando la brecha ya vista en los pares KOLD/BOIL (gas natural), ZSL/AGQ (plata) y SCO/UCO (petroleo). Refleja que el mercado accionario de EEUU ha tenido la tendencia direccional mas fuerte y sostenida de cualquier activo comparado en pares dentro de todo el proyecto - apostar en su contra durante 16.5 anios con apalancamiento -3x fue devastador. Retorno 1Y = -44.27%. AUM mucho menor que UDOW ($146.74M vs $944.80M), reflejo de la escasa demanda de apostar contra la tendencia alcista. Estructura mas simple que UDOW (solo futuros, sin los seis bancos de swaps), aunque el mismo nivel de apalancamiento extremo (3x, el mas alto de la categoria del proyecto). Unico uso legitimo: cobertura tactica bajista de exposicion real a acciones de EEUU por un horizonte de dias, o apuesta direccional bajista de trading de muy corto plazo - nunca como posicion Core o Satelite. UDOW (mismo emisor, +3x largo, espejo exacto, ya en el workbook) es el comparable mas directo. Con nueve instrumentos apalancados/inversos analizados en el proyecto, el patron de decay compuesto por rebalanceo diario queda confirmado en NUEVE DE NUEVE casos."
+  }
+}

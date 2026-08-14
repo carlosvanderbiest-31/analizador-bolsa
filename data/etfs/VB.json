@@ -1,0 +1,224 @@
+{
+  "nombre": "Vanguard Small-Cap ETF (Vanguard Morningstar Small-Cap ETF desde 29-jul-2026)",
+  "ticker": "VB",
+  "categoria": "Equity Indice Amplio (small-cap blend, EEUU, sin sesgo de estilo value/growth)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA, confirmada explicitamente ('full physical replication... holds all constituents of the index rather than using optimized sampling') - notable porque el fondo tiene 1,316 holdings, mas que VTV (326) pero aun asi replica fisica completa, no muestreo (a diferencia de lo que se podria asumir por analogia con VYMI, que si usa muestreo con un universo aun mayor, 1500+).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "100% empresas US (small-caps domesticas, indice CRSP/Morningstar US) - sin friccion fiscal internacional.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM entre $79.92bn y $82.51bn segun fuente/fecha (razonablemente consistente) - ENORME, uno de los fondos mas grandes del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 26-ene-2004 (~22.5 anios) - MISMO DIA que VTV, VUG y VGT (Vanguard lanzo su familia completa de estilo/capitalizacion ese dia) - CUARTO fondo hermano de ese lanzamiento conjunto analizado en el proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Vanguard - SEXTA aparicion en el proyecto (VYMI, VTV, VUG, VGT, ahora VB).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.03% - EMPATA con VTV/VUG como el MAS BARATO de TODO el proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending: el propio listado de top10 muestra una entrada atipica ('Slcmt1142 - 1.49%') que probablemente representa colateral de reinversion de prestamo de valores, sugiriendo que el fondo SI participa activamente en securities lending - no se verifico el revenue generado ni el % que compensa el TER esta sesion, se trata como un dato NO un holding real de una empresa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Frecuencia y reglas de reconstitucion del indice CRSP/Morningstar US Small Cap no confirmadas con precision especifica esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = 221,949 acciones (stockanalysis) x $305.33/accion (precio 10-ago-2026) = aprox $67.8M/dia - solido, aunque no un record de liquidez comparado con los SPDR Select Sector de esta sesion (XLE $1.23bn/dia, XLK $681M/dia, XLU $518M/dia).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Fondo enorme, emisor mayor (Vanguard) - profundidad de Authorized Participants excelente.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "1,316 holdings - el SEGUNDO numero mas alto de holdings de TODO el proyecto (solo detras de VYMI, 1500-1628) - extremadamente diversificado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = solo 6.09% de los activos (incluyendo la entrada atipica 'Slcmt1142') - **EL MAS BAJO DE TODO EL PROYECTO**, supera incluso a VYMI (13.5%, el anterior record de diversificacion) - nuevo record de diversificacion del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sin datos de composicion sectorial verificados con precision esta sesion - se espera razonablemente diversificado dado el numero de holdings, pero no confirmado con cifras exactas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% empresas US (small-caps domesticas) - limpio, sin diversificacion internacional (mismo criterio aplicado a otros fondos domesticos puros del proyecto).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Exposicion de FACTOR TAMANO (small-cap blend, sin sesgo value/growth) - complementa genuinamente el sesgo mega-cap/large-cap growth-tech que domina el resto de la cartera del usuario segun el extenso Dashboard de acciones individuales.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice CRSP US Small Cap Index, REBRANDEADO a 'Morningstar US Small Cap Index' el 29-jul-2026 tras la adquisicion de CRSP por Morningstar - CAMBIO DE NOMBRE/PROPIETARIO DEL PROVEEDOR, SIN cambio de metodologia ni de gestion del fondo (confirmado explicitamente por el comunicado de prensa de Vanguard: 'did not affect the funds' investment objectives or how they are managed') - gotcha MUCHO mas leve que el cambio completo de indice/tesis de ARTY, mas parecido en espiritu (aunque en direccion inversa) al cambio MSCI->CRSP de VTV en 2013.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo/reconstitucion no confirmadas con precision esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +28.94% (fuerte). Retorno anualizado desde inception NO encontrado directamente esta sesion - se dejo en blanco en el Dashboard en vez de estimarlo sin verificar. Dado que el Max Drawdown (-59.56%) esta en la MISMA ventana de 22.5 anios que sus hermanos VTV (-59.3%)/VUG (-50.7%)/VGT (-54.6%) y es el mas cercano al de VTV, es razonable esperar un retorno anualizado en un rango similar al de esa familia (~9-15%), pero esto es INFERENCIA, no un dato verificado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Se encontro una cifra de volatilidad de 2.93% que se DESCARTO por implausiblemente baja para un ETF de renta variable (mismo patron recurrente ya visto en VYMI/XLU/XLK/XLE) - no se encontro alternativa confiable esta sesion, se dejo en blanco en el Dashboard.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -59.56% desde inception - severo, el MAS SEVERO de la familia Vanguard 2004 del proyecto (VTV -59.3%, VUG -50.7%, VGT -54.6%, VB -59.56%) - MUY cercano al de VTV, dando una corroboracion cruzada implicita razonable entre fondos hermanos lanzados el mismo dia. Consistente con que las small-caps historicamente sufren mas en crisis de credito (2008 en particular).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 1.41 (una fuente) vs 1.75 (1 anio, otra fuente) - razonablemente cercanos, se uso el promedio (~1.58).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.05 - cercano a 1, coherente y sin señal de implausibilidad para un indice amplio de small-cap blend. **OVERLAP CASI NULO**: solo Bloom Energy (BE, 0.47%) del top10 esta analizado individualmente por el usuario - QUINTO caso del proyecto con overlap practicamente nulo (tras VYMI, ITA, URNM, REMX), y el de MENOR overlap absoluto en % de fondo entre todos ellos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "22.5 anios de historial cubren 2008, 2020, 2022 - evidencia solida, con un Max Drawdown coherente y corroborado implicitamente por sus fondos hermanos de la misma familia lanzados el mismo dia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado entre 20.88x (stockanalysis) y 17.43x (busqueda mas reciente) - moderado, notablemente MAS BARATO que la mayoria de los fondos large-cap growth del proyecto (VUG 36.65x, VGT 38.3x, XLK 37.37x). Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 1.17-1.18% - bajo pero coherente con un universo small-cap blend/growth-tilted. Distribucion probablemente TRIMESTRAL (estandar de los fondos indexados de Vanguard, no confirmado con fuente primaria especifica de VB esta sesion).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - VB es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "No se identificaron ni verificaron competidores directos con datos propios esta sesion. Candidatos conocidos: IJR (iShares Core S&P Small-Cap), IWM (iShares Russell 2000), y especialmente VBR (Vanguard Small-Cap VALUE ETF, hermano directo del MISMO lanzamiento de 2004, mismo patron ya establecido VTV/VUG) - buen candidato para una futura comparacion cabeza a cabeza de estilo dentro del propio segmento small-cap.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **DIVERSIFICADOR GENUINO DE ALTA CALIDAD** - overlap casi nulo (solo BE, 0.47%), factor de TAMANO (small-cap) que el resto de la cartera del usuario (fuertemente concentrada en mega-caps growth/tech segun el Dashboard de acciones) no cubre en absoluto, combinado con calidad estructural excepcional (TER minimo 0.03%, AUM enorme, 22.5 anios de historial, replica fisica completa). Rol: Core de diversificacion genuina de factor tamano, no un satelite tactico mas.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion de bajisimo costo al segmento de pequena capitalizacion de EEUU, factor historicamente con prima de riesgo/retorno propia (small-cap premium), y ademas el segmento del mercado con MENOR representacion actual en la cartera del usuario.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) las small-caps historicamente sufren MAS en recesiones/crisis de credito (Max Drawdown -59.56%, el mas severo de la familia Vanguard 2004 del proyecto); (2) mayor volatilidad idiosincratica a nivel de empresa individual dado el menor tamano; (3) sensibilidad a tasas de interes (small-caps suelen depender mas de financiamiento con deuda a tasa variable); (4) menor cobertura de analistas/liquidez a nivel de empresa individual dentro de la canasta (aunque el ETF en si es muy liquido).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VBR (Vanguard Small-Cap Value, hermano directo del mismo lanzamiento 2004) identificado como el candidato MAS relevante para una futura comparacion cabeza a cabeza; IJR/IWM tambien identificados sin verificar.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.88/5, empata practicamente con VYMI (3.88), cerca del top del proyecto (VTV 4.06, SCHD 4.03). VB es uno de los MEJORES diversificadores genuinos identificados en todo el proyecto: overlap CASI NULO (solo Bloom Energy, 0.47% del fondo), **record de diversificacion interna del proyecto** (top10 = solo 6.09%, supera incluso a VYMI 13.5%, con 1,316 holdings), TER de los mas bajos del proyecto (0.03%, empata con VTV/VUG), AUM enorme (~$82bn) y 22.5 anios de historial limpio (mismo dia de lanzamiento que VTV/VUG/VGT). Lo mas valioso para este usuario: VB aporta el factor de TAMANO (small-cap) que esta COMPLETAMENTE AUSENTE del resto de la cartera, fuertemente concentrada en mega-caps growth/tech segun el extenso Dashboard de acciones individuales - a diferencia de VUG/VGT/XLK (que reciclan las MISMAS convicciones mega-cap ya tomadas individualmente), VB abre una exposicion genuinamente nueva. Unica nota de cautela real: el Max Drawdown (-59.56%) es el mas severo de la familia Vanguard 2004 del proyecto, reflejo de que las small-caps historicamente sufren mas en crisis de credito - coherente con el perfil de riesgo esperado del factor, no una señal de alarma especifica del vehiculo. Nota tecnica menor: el fondo cambio de nombre a 'Vanguard Morningstar Small-Cap ETF' el 29-jul-2026 tras la adquisicion de CRSP por Morningstar, SIN cambio de metodologia ni gestion (confirmado por Vanguard) - gotcha leve, no afecta la evaluacion."
+  }
+}

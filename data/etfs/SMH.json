@@ -1,0 +1,224 @@
+{
+  "nombre": "VanEck Semiconductor ETF",
+  "ticker": "SMH",
+  "categoria": "Equity Sector (semiconductores, sector puro - competidor directo de SOXX)",
+  "emisor": "VanEck",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (confirmado por Trackinsight). Sin riesgo de contraparte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US. Holdings incluyen TSM (Taiwan) y ASML (Paises Bajos) - mismo perfil de friccion fiscal minima que SOXX (empresas listadas/accesibles directamente en bolsas de EEUU).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$66-71.5bn segun la fuente (stockanalysis.com $71.50bn; Trackinsight EUR61.1bn=~$66bn al 6-ago-2026) - MAYOR que SOXX ($47.6bn), el SEGUNDO AUM mas grande de todo el proyecto despues de SCHD ($105bn). Riesgo de cierre nulo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 20-dic-2011 (~14.6 anios de historial al 2026-08-10) - notablemente MAS JOVEN que SOXX (25.1 anios) pero aun asi sustancial, comparable a SCHD (14.8 anios). Sobrevivio la correccion de 2018, COVID 2020, el bear market de growth 2022, y capturo el ciclo completo de IA desde un punto de partida mas favorable que SOXX (que incluye los anios de resaca post dot-com de 2001-2003).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: VanEck - segunda aparicion en el proyecto (la primera fue CRAK). Gestora establecida y legitima, de tamano moderado comparada con BlackRock/Vanguard/State Street.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.4
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.35% - practicamente IDENTICO a SOXX (0.34%). Sin diferencia relevante de costo entre ambos competidores directos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "No se confirmo con precision la frecuencia exacta de rebalanceo en las fuentes consultadas esta sesion (los indices MVIS de VanEck tipicamente rebalancean trimestralmente, similar a SOXX, pero no verificado especificamente para este indice).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = 2,810,109 acciones (stockanalysis) x precio ~$575.74 = ~$1,618M/dia negociado - EXTREMADAMENTE liquido, cifra VERIFICADA con numero real (no solo inferida del AUM como en varios ETFs anteriores del proyecto).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado con cifra exacta, pero un volumen diario de ~$1.6bn y un AUM de $71.5bn sugieren un spread extremadamente ajustado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "VanEck, fondo grande ($71.5bn) y con volumen diario muy alto - se infiere profundidad de Authorized Participants muy adecuada.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "Solo 25-26 holdings segun la fuente (Trackinsight 25, stockanalysis 26) - AUN MENOS que SOXX (31-34) - el numero de holdings MAS BAJO de cualquier ETF sectorial amplio del proyecto (solo el fondo activo/nicho DRAM con 23 tiene menos, pero no es comparable por ser un vehiculo distinto).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 71.46% (stockanalysis), Top 15 = 88.90% (Trackinsight) - MAS CONCENTRADO que SOXX (61.14%/77.78%). NVIDIA sola representa 21.70% del fondo - la posicion individual mas grande de cualquier ETF del proyecto (indexado, sin contar el apalancamiento nocional de DRAM).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Technology = 100% del fondo (Trackinsight) - concentracion sectorial tan pura como SOXX (99.55%), practicamente identica.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia: USA, Taiwan (TSM 9.51%, MAS ALTO que el 4.49% de SOXX) y Paises Bajos (ASML 5.12%, explicitamente en el TOP10 de SMH, mientras que en SOXX ASML solo aparecia como exposicion geografica fuera del top10 oficial) - SMH tiene una concentracion de riesgo pais no-US PROPORCIONALMENTE MAYOR que SOXX pese a cubrir el mismo tema.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Tilt growth/ciclico EXTREMO, incluso MAS pronunciado que SOXX gracias a la mayor ponderacion individual de NVIDIA. Beta 1.74 y P/E 44.71x, ambos entre los mas altos del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MVIS US Listed Semiconductor 25 Index (indice PROPIO de VanEck, distinto del ICE Semiconductor Index que seleccion SOXX): selecciona 25 empresas semiconductoras/de equipo listadas en EEUU, ponderacion modificada por capitalizacion de mercado con topes (el detalle exacto del tope por posicion no se verifico con precision esta sesion, aunque la alta concentracion resultante en NVDA sugiere un tope mas laxo que el 8% que usa el indice de SOXX, o que NVDA esta cerca del limite permitido). Metodologia transparente y publicada, aunque el resultado de concentracion es mas severo que el de SOXX.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "No se confirmo con precision la frecuencia exacta de rebalanceo en las fuentes consultadas esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (dic-2011, ~14.6 anios) = **28.92% anualizado** (stockanalysis.com) - **EL MEJOR TRACK RECORD DE TODO EL PROYECTO POR UN MARGEN ENORME** (el anterior lider era CIBR con 16.32%, y SOXX -mismo tema- apenas 14.10%). Retorno 1Y (ago-2026) = +96.51% (stockanalysis) - fuerte, aunque MENOR que el +122.16% de SOXX en el mismo periodo, una divergencia interesante pese a la similitud tematica (posiblemente por diferencias en el timing de rebalanceo o en la composicion exacta de holdings menores).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada ~38.57% segun un agregador (fuente unica sin verificar con precision exacta, PERO cualitativamente muy coherente con SOXX -~37%- y con el beta alto de SMH -1.74-, mismo criterio de inclusion con cautela ya aplicado a SOXX) - la volatilidad mas alta o empatada como mas alta de todo el proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Cifras inconsistentes entre fuentes de busqueda ('14.97 a 90 dias', 'drawdown actual 19.19%') - NINGUNA es un 'maximo drawdown desde inception' comparable al resto del proyecto. Se deja en blanco por ambiguedad de definicion, mismo criterio ya aplicado a ITA.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "MUY inconsistente entre fuentes (Sharpe de 2.29 vs 0.27 en la misma busqueda, sin poder reconciliar la ventana temporal de cada uno) - descartado, mismo gotcha ya documentado repetidamente en el proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.74 (stockanalysis) - el SEGUNDO MAS ALTO del proyecto, practicamente empatado con SOXX (1.80). **OVERLAP RECORD DE TODO EL PROYECTO, SUPERANDO A SOXX**: NVIDIA (21.70%), Taiwan Semiconductor (9.51%), Broadcom (6.73%), AMD (5.43%), ASML (5.12%), Micron (4.74%), Applied Materials (4.52%) y QUALCOMM (4.11%) - **8 DE LOS 10 HOLDINGS PRINCIPALES** ya estan analizados individualmente en el Dashboard de acciones del usuario, sumando **61.86% DEL FONDO** (vs 52.63% de SOXX, el anterior record). Texas Instruments y Analog Devices son las UNICAS dos posiciones del top10 sin overlap directo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "No se verifico en detalle esta sesion el comportamiento especifico en crisis pasadas.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 44.71x - ligeramente MAS BARATO que SOXX (47.61x), pero sigue siendo el SEGUNDO MAS CARO de todo el proyecto (despues de EUV 61.61x). NO SE VERIFICO el percentil historico propio - mismo riesgo de pico de ciclo de euforia de IA/semiconductores ya documentado con SOXX.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.19%, distribucion ANUAL (no trimestral como la mayoria del proyecto) - el yield MAS BAJO entre los ETFs de semiconductores del proyecto (menor que SOXX 0.27%), marginal para la tesis de inversion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - SMH es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "COMPARACION DIRECTA CON SOXX (ya analizado en este mismo workbook, fila 9, mismo tema de semiconductores): SMH es MAS GRANDE (AUM $71.5bn vs $47.6bn) y tiene MEJOR track record historico (28.92% vs 14.10% anualizado desde inception, aunque en una ventana mas corta -14.6 vs 25.1 anios-, no directamente comparable), con TER practicamente identico (0.35% vs 0.34%). PERO esta MAS CONCENTRADO (top10 71.46% vs 61.14%, solo 25-26 holdings vs 31-34) y tiene MAYOR OVERLAP con la cartera del usuario (61.86% vs 52.63%, el record del proyecto). Es esencialmente una version 'mas concentrada en NVIDIA, con mejor track record historico' del mismo tema que SOXX.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: dado el OVERLAP RECORD del proyecto (61.86%+), SMH es INCLUSO MENOS apto que SOXX como posicion incremental para este usuario - practicamente seria pagar un TER de 0.35% por una replica muy concentrada de posiciones que el usuario YA tiene individualmente, con NVIDIA sola representando casi 22% del 'nuevo' vehiculo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: misma tesis que SOXX (exposicion al ciclo estructural de semiconductores/IA), pero con MAYOR concentracion en el lider de mercado (NVIDIA) - lo cual explica el mejor track record historico pero tambien implica mayor riesgo idiosincratico de un solo nombre.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: mismos riesgos estructurales que SOXX (concentracion sectorial extrema, valoracion cara, ciclicidad historica severa del sector semiconductor) MAS una concentracion de nombre AUN MAS extrema (NVIDIA sola 21.70%) y el OVERLAP MAS ALTO DE TODO EL PROYECTO (61.86%, supera incluso a SOXX).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SOXX (ya analizado en este mismo workbook, fila 9) es la comparacion directa mas relevante - menos concentrado, algo mas holdings, track record historico peor pero TER practicamente identico. Para un inversionista que ya tiene fuerte conviccion individual en NVDA/TSM/AVGO/AMD/ASML/MU/AMAT/QCOM, NINGUNO de los dos ETFs (SOXX ni SMH) anade diversificacion real - la eleccion entre ambos es secundaria frente a la pregunta mas importante de si vale la pena sumar CUALQUIERA de los dos dado el nivel de overlap.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score ~3.00/5, exactamente en el limite del umbral 'Score bajo' del marco de Metodologia, pero se trata como el mismo tipo de caso que SOXX (fila 9): la calidad ESTRUCTURAL del vehiculo es EXCELENTE (AUM $71.5bn -el segundo mas grande del proyecto-, liquidez verificada de ~$1.6bn/dia, el MEJOR track record historico de todo el proyecto con 28.92% anualizado desde 2011, indice transparente de VanEck) - lo que arrastra el score hacia abajo es la combinacion de concentracion extrema (top10 71.5%, solo 26 holdings, NVIDIA sola 21.7%), valoracion cara (P/E 44.7x) y, sobre todo, el OVERLAP MAS ALTO DE TODO EL PROYECTO: 8 de los 10 holdings principales (NVDA, TSM, AVGO, AMD, ASML, MU, AMAT, QCOM) representan 61.86% del fondo y YA estan analizados individualmente en el Dashboard de acciones del usuario - superando incluso el 52.63% de SOXX, el anterior record. Comparado directamente con SOXX (mismo tema, ya analizado en este workbook): SMH ofrece mejor track record y mayor liquidez, pero a costa de MAS concentracion y MAS overlap - es una version 'todavia mas concentrada en NVIDIA' del mismo problema estructural ya identificado con SOXX. Ninguno de los dos ETFs (SOXX ni SMH) representa diversificacion real para este usuario dado el nivel de convicciones individuales ya tomadas en el sector semiconductor."
+  }
+}

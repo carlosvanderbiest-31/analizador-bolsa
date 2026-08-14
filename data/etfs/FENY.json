@@ -1,0 +1,225 @@
+{
+  "nombre": "Fidelity MSCI Energy Index ETF",
+  "ticker": "FENY",
+  "categoria": "Equity Sector (Energia, MSCI USA IMI Energy 25/50 Index, Fidelity - competidor de XLE -fila 27, ya en el workbook- con el MISMO TER exacto -0.08%-, a diferencia del patron de iShares Russell/Dow Jones -IYK/IYM/IYZ/IYR- que siempre resulto mas caro que su equivalente SPDR/Schwab/Vanguard. Universo MSCI IMI mucho mas amplio -104 holdings vs ~20-25 de XLE-, con mejor cobertura de midstream/LNG relevante para la tematica de demanda energetica de IA/data centers 2025-2026)",
+  "emisor": "Fidelity",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica fisica por MUESTREO representativo -no completa, dado el universo mas amplio de 104 nombres-, sin swaps ni contraparte.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, Fidelity Covington Trust, RIC estandar.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$1.7-2.0bn - MUCHO menor que XLE -$10bn+-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 24-oct-2013 (~12.8 anios) - **NOTABLEMENTE MAS CORTO que XLE -~27.65 anios-**, NO cubre 2008 GFC, si cubre el brutal bear energetico 2014-2020, COVID/WTI negativo y el bear 2022.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Fidelity, gestor de fondos de bajo costo establecido, aunque con menor cuota de mercado en ETFs sectoriales que State Street/SPDR.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER **0.08% - IDENTICO a XLE** - a diferencia del patron ya documentado de iShares Russell/Dow Jones -IYK/IYM/IYZ/IYR- que SIEMPRE resulto mas caro que su equivalente SPDR/Schwab/Vanguard.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Muestreo representativo de un universo MSCI IMI de 104 nombres - tracking razonable esperado, aunque muestreo -no replica completa- dado el alcance amplio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "RIC estandar, no verificado si presta valores esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Revision periodica MSCI estandar, turnover moderado.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~637,765 acciones/dia (~$21.5M/dia) - MUCHO mas delgado que XLE -decenas de millones de acciones/dia-, desventaja de liquidez real.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread no encontrado con cifra exacta esta sesion, aunque los holdings subyacentes -mega-caps energeticas muy liquidas- mantienen el arbitraje razonablemente ajustado pese al menor volumen del fondo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no encontrado con cifra exacta esta sesion - vacio de dato.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Fidelity, emisor establecido aunque con menor cuota de mercado en ETFs sectoriales que State Street.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "**104 holdings - MUCHO MAS que los ~20-25 de XLE**, universo genuinamente mas amplio -MSCI IMI incluye mid/small-cap que GICS Select Sector excluye-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 65.32% del NAV -Exxon XOM **22.54%**, Chevron CVX 14.24%, ConocoPhillips COP 5.84%, Marathon Petroleum MPC 3.72%, Valero VLO 3.69%, Williams WMB 3.41%, Phillips 66 PSX 3.33%, EOG Resources EOG 3.16%, SLB 2.91%, Kinder Morgan KMI 2.48%- - **XOM+CVX solos ~37% del fondo**, concentracion alta en la cima pese al universo mucho mas amplio -mismo patron ya visto con VOX vs XLC: mas holdings no siempre implica menos concentracion en el top-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Cobertura genuinamente MAS AMPLIA que XLE a traves de sub-industrias energeticas: integradas -XOM, CVX-, refinerias -MPC, VLO, PSX-, **midstream/gasoductos -WMB, KMI, TRGP, OKE, LNG-**, E&P -EOG, DVN, FANG, OXY, EQT-, servicios petroleros -SLB, BKR, HAL, FTI- - la inclusion MIDSTREAM/LNG es un diferenciador estructural real frente a la cesta mas estrecha de XLE, directamente relevante a la tematica de demanda energetica de IA/data centers 2025-2026.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% US listado, aunque XOM/CVX tienen operaciones globales masivas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Energia amplia, cap-weighted MSCI IMI -large+mid+small-, cobertura genuinamente mas completa del sector que el GICS Select Sector de XLE, que se limita a large-cap del S&P 500.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "MSCI USA IMI Energy 25/50 Index - metodologia de mercado amplio bien establecida, alcance genuinamente mas comprehensivo que GICS Select Sector aunque menos iconica/seguida.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Revision periodica MSCI estandar, turnover moderado.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y +45.60% a +49.39% -extraordinario, rally energetico 2025-2026-, 3Y anualizado +13.45-16.42%, 5Y anualizado +18.82-23.9% -muy fuerte-, 10Y anualizado +9.15-16.35% -variacion amplia entre fuentes, una comparacion directa cita a XLE levemente por delante -9.75% vs 9.18%-, correlacion 0.99 entre ambos-, desde inception -12.8 anios- solo +5.73-5.80% anualizado -modesto, refleja el dificil tramo 2014-2020 para energia antes del rally reciente-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $23.27-$35.26 (ratio 1.52x) - notablemente alto para un fondo NO apalancado, refleja la ciclicidad genuina del sector energetico.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown **-74.35%** desde inception -periodo COVID/WTI negativo 2020- - SEVERO para un fondo sectorial sin apalancar. Sin cifra aislada de 2022 encontrada -vacio de dato-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe con CONFLICTO de fuente -1.98 vs 0.34, probablemente ventanas de medicion distintas- - incertidumbre real de dato.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.46 vs S&P 500 - notablemente BAJO, resultado algo inesperado para un sector tipicamente volatil, posiblemente reflejo de la ventana/metodologia especifica de medicion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Max Drawdown -74.35% documentado -periodo COVID/WTI negativo 2020-, sin fecha/tiempo de recuperacion exactos ni cifra aislada de 2022 encontrados esta sesion - vacio parcial de dato.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 21.03x - razonable, mas barato que el tier VOO/SPY/QQQ. P/B no encontrado -vacio de dato-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield 2.30-2.33% TTM, trimestral - solido, similar o algo por encima del tier de fondos amplios del proyecto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**MISMO TER exacto que XLE -fila 27, ya en el workbook, Score 3.85-**, a diferencia del patron sistematico ya documentado de iShares Russell/Dow Jones -IYK/IYM/IYZ/IYR- resultando SIEMPRE mas caros que su par SPDR/Schwab/Vanguard. FENY ofrece MAS diversificacion -104 vs ~20-25 holdings- con cobertura MIDSTREAM/LNG genuina -WMB/KMI/OKE/TRGP/LNG- que XLE no tiene en la misma medida, directamente relevante a la tematica de demanda energetica de IA/data centers 2025-2026. PERO sufre de AUM y liquidez MUCHO menores, y una comparacion directa cita retornos 10Y levemente a favor de XLE -9.75% vs 9.18%, correlacion 0.99-. Tambien comparable a ERX -fila 122, ya en el workbook, version +2x apalancada del propio indice de XLE, Score 2.38- como tercer angulo -amplio sin apalancar vs estrecho sin apalancar vs estrecho apalancado- sobre el sector Energia.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: SATELITE sectorial - exposicion energetica diversificada y barata, aunque de menor escala/liquidez que XLE.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: acceso barato -mismo TER que XLE- y diversificado al sector energia, con cobertura genuina de midstream/LNG bien posicionada para la tematica de demanda de energia de IA/data centers - aunque la escala/liquidez menor son consideraciones practicas reales para asignaciones grandes.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) Max Drawdown historico documentado -74.35%, severo para un fondo sectorial sin apalancar, refleja la ciclicidad genuina de energia; (2) AUM/liquidez notablemente menores que XLE, desventaja practica real; (3) XOM solo representa 22.54% del fondo, concentracion de un solo nombre alta; (4) CAGR desde inception modesto -+5.73-5.80%- pese al rally reciente fuerte, refleja el dificil tramo 2014-2020 para el sector.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "XLE -fila 27, ya en el workbook, Score 3.85, mas grande/liquido, mismo TER, cesta mas estrecha/concentrada, retorno 10Y levemente mejor- es la comparable directa dominante. ERX -fila 122, ya en el workbook, version +2x apalancada del indice de XLE, Score 2.38- ofrece el contraste apalancado.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA - mismo costo que XLE con mejor diversificacion, pero menor escala/liquidez. Score 3.30/5, por debajo de XLE -3.85-. Fidelity MSCI Energy Index ETF, MSCI USA IMI Energy 25/50 Index. **TER 0.08%, IDENTICO a XLE -fila 27, ya en el workbook-**, a diferencia del patron sistematico ya documentado de iShares Russell/Dow Jones -IYK/IYM/IYZ/IYR- resultando SIEMPRE mas caros que su par SPDR/Schwab/Vanguard. FENY ofrece **104 holdings vs ~20-25 de XLE**, con cobertura genuina de midstream/gasoductos/LNG -Williams WMB, Kinder Morgan KMI, Targa TRGP, ONEOK OKE, Cheniere LNG- que XLE no tiene en la misma medida - diferenciador estructural real, directamente relevante a la tematica de demanda energetica de IA/data centers de 2025-2026 citada en comentario reciente. PERO Top10 sigue concentrado -65.32%-, con Exxon solo en 22.54% del fondo -misma leccion ya vista con VOX vs XLC: mas holdings no siempre implica menos concentracion en la cima-. AUM ~$1.7-2.0bn y volumen ~$21.5M/dia, MUCHO menores que XLE - desventaja practica real de escala/liquidez. Retorno 1Y extraordinario +45.60% a +49.39% -rally energetico 2025-2026-, 5Y +18.82-23.9%, aunque 10Y -9.15-16.35% segun fuente- y una comparacion directa cita a XLE levemente por delante -9.75% vs 9.18%, correlacion 0.99-. Max Drawdown historico -74.35%, severo para un fondo sectorial SIN apalancar. Rol en Portafolio: Satelite sectorial, exposicion energetica diversificada y de igual costo que XLE, aunque XLE sigue siendo la opcion dominante en escala/liquidez para la misma tesis central. ERX -ya en el workbook- ofrece el contraste apalancado sobre el mismo sector."
+  }
+}

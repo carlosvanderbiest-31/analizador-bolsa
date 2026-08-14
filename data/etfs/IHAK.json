@@ -1,0 +1,224 @@
+{
+  "nombre": "iShares Cybersecurity and Tech ETF",
+  "ticker": "IHAK",
+  "categoria": "Equity Tematico/Factor (ciberseguridad, tema puro)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (Trackinsight) - factible dado que el indice solo tiene ~40-54 constituyentes (a diferencia de VYMI, donde el tamano del indice obliga a muestreo). Sin riesgo de contraparte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US. A diferencia de VYMI, la mayoria de las empresas del fondo cotizan directamente en bolsas de EEUU (incluso las de origen israeli como SentinelOne o Varonis cotizan como acciones domesticas US, no ADRs con retencion compleja) - friccion fiscal de dividendos extranjeros menor que VYMI, aunque en la practica es casi irrelevante dado que el yield del fondo es marginal (0.07%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$0.7-1.0bn segun la fuente (busqueda general $712M, stockanalysis.com $1.02bn, Trackinsight EUR952M=~$1.03bn) - discrepancia proporcionalmente mayor entre fuentes que en SCHD/VYMI, posiblemente por el crecimiento rapido reciente del fondo (rally growth/tech) entre las fechas de corte de cada fuente. Es, con diferencia, el ETF MAS PEQUENO de los 3 analizados hasta ahora (vs $105bn SCHD, $21bn VYMI) - primer caso del proyecto donde el tamano merece mencionarse como un factor de riesgo real, aunque todavia lejos del umbral de alerta de <$50-100M del checklist de Metodologia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 11-jun-2019 (~7.2 anios de historial al 2026-08-10). El track record MAS CORTO de los 3 ETFs del proyecto (SCHD 14.8, VYMI 10.5), aunque supera el umbral de 3 anios que el proyecto usa para desconfiar de un beta reciente. Atraveso COVID 2020 y el bear market de growth/tech de 2022.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: BlackRock (iShares), la gestora de ETFs mas grande del mundo. Sin senales de riesgo reputacional o de negocio del emisor.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.47% - MUCHO mas alto que SCHD (0.06%) y VYMI (0.07%), pero tipico y de hecho COMPETITIVO dentro de la categoria de ETFs de ciberseguridad pura (competidores CIBR ~0.60%, HACK ~0.60%, BUG ~0.50%). Los ETFs tematicos de nicho cuestan estructuralmente mas que los indices amplios o de factor diversificado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo SEMESTRAL (primer viernes de junio y diciembre) con reconstitucion ANUAL en diciembre - mas frecuente que SCHD/VYMI (solo anual). Coherente con la necesidad de capturar rapido nuevos IPOs y absorber M&A del sector (la ciberseguridad tiene alta actividad de fusiones y adquisiciones, lo que fuerza rotacion de constituyentes con mas frecuencia que un indice de dividendo maduro).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "NO VERIFICADO con cifra exacta esta sesion. Dado el AUM sustancialmente menor (~$1bn vs $105bn/$21bn de SCHD/VYMI), es razonable esperar volumen y liquidez menores - revisar antes de una orden grande.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado. Las 54 posiciones son en su mayoria acciones grandes/medianas liquidas de EEUU e Israel, pero el AUM pequeno del ETF en si puede ampliar el spread del vehiculo mismo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares es una gestora enorme con infraestructura de creacion/redencion robusta, pero el fondo especifico es pequeno - se infiere adecuado, sin verificacion directa.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "Solo 54 holdings (stockanalysis.com) - el indice selecciona un maximo de 40 empresas 'puras' de ciberseguridad segun su metodologia, aunque el conteo de holdings del ETF aparece algo mayor. Fondo MUY concentrado por diseno, drasticamente menos diversificado que SCHD (103) y VYMI (1600+).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 46.92% (Qualys 5.86%, Netskope 4.72%, SentinelOne 4.71%, Palo Alto Networks 4.70%, Varonis 4.68%, Tenable 4.59%, Zscaler 4.53%, CrowdStrike 4.49%, Okta 4.39%, CACI International 4.26% - stockanalysis.com). Una fuente alternativa (Trackinsight) mostro una composicion top10 algo distinta (incluye BlackBerry, Fortinet) con pesos similares - discrepancia probablemente por fecha de corte. Concentracion muy alta sobre un universo ya de por si pequeno (54 posiciones).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Technology 85.74% + Business Services 10.13% = ~96% del fondo en esencialmente UN SOLO (sub)sector (ciberseguridad dentro de tecnologia). Es la concentracion sectorial MAS EXTREMA de los 3 ETFs del proyecto - intencional y coherente con su mandato tematico puro, pero hay que ser honesto en el puntaje: cero diversificacion sectorial real.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Exposicion geografica primaria a USA, con Israel y Canada como siguientes paises relevantes (sin porcentajes exactos verificados) - varias empresas de ciberseguridad tienen fundadores/operaciones israelies (ej. SentinelOne, Varonis) pese a cotizar como acciones US. Introduce un riesgo geopolitico de concentracion regional (Medio Oriente) distinto en naturaleza al riesgo pais diversificado de VYMI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Tilt de GROWTH puro (P/E 25x, dividend yield practicamente nulo 0.07%) - el polo opuesto de SCHD/VYMI (value/dividendo). Exposicion bien definida y consistente con el mandato tematico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice NYSE FactSet Global Cyber Security Index (ICE Data Indices): selecciona empresas que derivan >=50% de sus ingresos de 12 sub-industrias de ciberseguridad (clasificacion RBICS), categorias Hardware y Software/Services; ponderacion por capitalizacion de mercado MODIFICADA con topes de concentracion (para limitar el peso de las mega-caps); las 40 empresas mas grandes de ciberseguridad forman el indice final. Metodologia transparente y publicada, aunque el universo de seleccion inicial (clasificacion RBICS por ingresos) es mas subjetivo que un simple screening cuantitativo de dividendo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo semestral (junio, diciembre), reconstitucion anual en diciembre - mas frecuente que SCHD/VYMI, adecuado para un sector con alta rotacion de IPOs y M&A.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.86
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (jun-2019) ~14.88% anualizado (stockanalysis.com). Retorno 1Y (ago-2026) = +35.10% (stockanalysis.com), coherente en magnitud con el +36.01% YTD reportado por Trackinsight. NO SE VERIFICARON 3Y/5Y con cifras confiables: los snippets de busqueda mostraron numeros MUY inconsistentes entre si (retorno 1Y de solo 9.05% en un snippet, CAGR de 12.32% 'a abril de 2025' en otro) sin poder determinar la ventana temporal exacta de cada uno - mismo gotcha de calidad de datos ya documentado con VYMI (ver [[etf_analysis_project]]). Solo se uso la cifra de la ficha dedicada del ETF en stockanalysis.com como fuente principal.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "NO VERIFICADO con confianza - los snippets encontrados en la misma busqueda dieron TRES cifras distintas e inconsistentes (24.44%, 20.01%, y 9.06% 'actual'), sin poder reconciliar ventanas temporales. Se descartan todas explicitamente por el mismo motivo que en VYMI. Cualitativamente se espera volatilidad ALTA (mayor que SCHD 15.6% y probablemente que VYMI) dado que es un fondo tematico concentrado en growth/tech de mediana capitalizacion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Maximo Drawdown desde inception = -34.42% segun una fuente unica (lazyportfolioetf.com, SIN verificacion independiente). Otro snippet menciono un drawdown de -29.29% con 28 meses de recuperacion, posiblemente un evento de drawdown distinto (no necesariamente el maximo). Magnitud similar a SCHD (-33.4%) pese al perfil de mayor riesgo esperado - tratar con cautela por ser fuente unica no verificada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "MUY inconsistente entre fuentes: un mismo snippet de busqueda menciono un Sharpe de 0.32 y otro de 1.00 sin indicar la ventana temporal de cada uno. No se puede usar con confianza - descartado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.80 (stockanalysis.com) - moderado, aunque sorprendente para un fondo growth/tech concentrado (uno esperaria beta >1; posible explicacion: baja correlacion idiosincratica de un sub-sector de nicho con el mercado amplio, no necesariamente menor riesgo real). OVERLAP DIRECTO Y CUANTIFICABLE: CrowdStrike (CRWD, 4.49% del fondo) y Fortinet (FTNT, presente en el top10 segun Trackinsight) estan AMBOS ya analizados individualmente en el Dashboard de acciones del usuario (ver [[stock_analysis_project]]) - juntos representan ~9% del fondo. Es el overlap mas concreto y cuantificable de los 3 ETFs analizados hasta ahora en este proyecto (mas directo que el overlap cualitativo de SCHD con KO/PEP/VZ/MRK/CVX).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "No se verifico en detalle el comportamiento especifico en crisis pasadas (2020, bear market growth/tech 2022) en esta sesion - se esperaria un comportamiento peor que el mercado amplio en eventos de risk-off dado el perfil growth/concentrado. Pendiente para proxima revision.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 25.05x - considerablemente mas caro que SCHD (17.6x) y VYMI (13.46x), coherente con su perfil growth puro. NO SE VERIFICO el percentil historico propio (fondo joven, solo 7 anios de historia, con alta volatilidad de multiplos tipica del sector tech en los ciclos de entusiasmo/correccion de IA de los ultimos anios) - dato pendiente para proxima revision con serie de tiempo dedicada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.07%, practicamente nulo - coherente con un fondo growth puro donde las empresas reinvierten el flujo de caja en crecimiento en vez de repartir dividendo. El analisis de 'percentil de yield historico' que aplica a SCHD/VYMI no es relevante aqui: el yield es estructuralmente insignificante para la tesis de inversion de este ETF.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - IHAK es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "ACTUALIZADO 2026-08-10 con datos verificados de CIBR (ver fila 8 del Dashboard, ya analizado en este mismo workbook): frente a su competidor directo mas grande, IHAK gana en casi todas las metricas objetivas - TER mas bajo (0.47% vs 0.58%), menos concentrado (top10 46.9% vs 57.7%), valoracion menos rica (P/E 25.1x vs 33.9x) y overlap de cartera mucho menor con las posiciones individuales del usuario (~9% vs 31.3% en CIBR). CIBR gana en AUM/liquidez ($15.4bn vs $1bn) y en track record de rentabilidad (16.32% vs 14.88% anualizado desde inception). HACK y BUG siguen sin verificar con fuente primaria.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol sugerido: SATELITE/TACTICO tematico - apuesta concentrada de alta conviccion en el crecimiento estructural del gasto en ciberseguridad, NO un candidato a posicion Core dado su concentracion extrema (54 holdings, ~96% en un sub-sector). Dado el overlap directo con CRWD y FTNT ya en cartera individual, el usuario deberia decidir explicitamente si quiere exposicion ADICIONAL concentrada al sector via el ETF, o si el ETF deberia mas bien reemplazar/consolidar esas posiciones individuales en vez de sumarse encima de ellas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion diversificada (dentro del nicho) a ~54 empresas puras de ciberseguridad, sector con vientos de cola estructurales (aumento del gasto corporativo en seguridad, regulacion creciente, amenazas de IA generativa que aumentan tanto el riesgo de ataques como la necesidad de defensas automatizadas) sin tener que elegir ganadores individuales entre docenas de empresas del sector.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentracion sectorial EXTREMA (~96% en un sub-sector de tech, la mas alta del proyecto); (2) valoracion alta (P/E 25x) sin soporte de dividendo, vulnerable a compresion de multiplo en un ciclo de aversion al riesgo growth; (3) M&A frecuente en el sector puede causar rotacion subita de cartera; (4) AUM pequeno (~$1bn) frente a SCHD/VYMI; (5) overlap DIRECTO y cuantificable con CRWD y FTNT ya en el portafolio individual del usuario (~9% del fondo); (6) exposicion geopolitica a Israel via varias de las empresas del sector.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "Alternativas directas: CIBR, HACK, BUG (categoria ciberseguridad pura, todas con TER mas alto que IHAK). Cifras de competidores basadas en conocimiento general de la categoria, no verificadas con fuente primaria en esta sesion - confirmar antes de una decision final entre ellos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score estructural moderado (~3.18/5, el mas bajo de los 3 ETFs del proyecto) arrastrado por concentracion sectorial extrema (~96% en ciberseguridad), baja diversificacion (solo 54 holdings, top10 47%), AUM pequeno (~$1bn) y calidad de datos de riesgo/retorno inconsistente entre fuentes (volatilidad y Sharpe descartados por no reconciliar). Valoracion rica: P/E 25x, el mas alto de los 3 ETFs, sin soporte de dividendo (yield 0.07%) y sin poder verificar el percentil historico propio. Hallazgo mas concreto para este usuario especifico: OVERLAP DIRECTO Y CUANTIFICABLE con CRWD y FTNT, ya analizados y presumiblemente en cartera individual (~9% combinado del fondo) - antes de sumar IHAK, evaluar si el objetivo es diversificar DENTRO del sector ciberseguridad (mas alla de esas 2 posiciones) o si conviene esperar una correccion de multiplo dado el rally reciente (+35% 12m, +36% YTD). No es una tesis de mala calidad estructural (indice bien disenado, emisor solido, TER competitivo dentro de su categoria de nicho) sino una cuestion de concentracion de riesgo, valoracion y overlap ya existente."
+  }
+}

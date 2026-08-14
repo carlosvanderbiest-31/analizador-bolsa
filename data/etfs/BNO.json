@@ -1,0 +1,226 @@
+{
+  "nombre": "United States Brent Oil Fund",
+  "ticker": "BNO",
+  "categoria": "Materias Primas Simple 1x (petroleo Brent via futuros ICE, SIN apalancamiento - PRIMER commodity 1x del proyecto, categoria distinta a los siete apalancados/inversos KOLD-UCO ya analizados: roll MENSUAL en vez de rebalanceo DIARIO, sin decay compuesto de apalancamiento)",
+  "emisor": "USCF (US Commodity Funds)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica SINTETICA via futuros de Brent ICE en calendario MENSUAL (front-month, ~50% del fondo) mas cash/money market como colateral - SIN apalancamiento (1x), primera vez en la categoria de materias primas del proyecto. Estructurado como Limited Partnership (LP), no Trust.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, estructura LP genera formulario fiscal K-1 - mismo tipo de complejidad fiscal ya visto en los siete apalancados/inversos del proyecto, pese a no tener apalancamiento.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $562.24M - solido, mayor que KOLD/ZSL/BOIL/UCO, comparable a SCO/UGL.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 2-jun-2010 (~16.2 anios) - cubre el colapso petrolero 2014-16, COVID 2020, el spike 2022 y el shock geopolitico Iran-EEUU de 2026 (Brent llego a $138/barril en abril antes de retroceder fuertemente).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor USCF (US Commodity Funds) - PRIMER emisor especialista en commodities puras del proyecto (distinto de ProShares/BlackRock/Vanguard/Schwab/Xtrackers ya vistos), tambien gestiona USO (WTI) y UNG (gas natural 1x).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER ~0.94-1.00% (una fuente reporta 1.15%) - notablemente alto para una exposicion 1x SIN apalancamiento, similar en magnitud al TER de los fondos apalancados 2x del proyecto (0.95%) pese a ofrecer solo la mitad del exposure nominal.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "A diferencia del decay por rebalanceo DIARIO de los siete apalancados/inversos del proyecto, el costo estructural aqui es el ROLL DE CONTANGO/BACKWARDATION mensual del futuro front-month - no cuantificado con cifra exacta esta sesion, pero categoricamente MENOS punitivo: el CAGR desde inception es modesto pero POSITIVO (+4.35%, ver fila 39), sin el patron de perdida catastrofica compuesta visto en KOLD-UCO.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rotacion MENSUAL del contrato futuro front-month (vs rotacion DIARIA de los siete apalancados/inversos del proyecto) - frecuencia de rebalanceo mucho menor, categoria estructural distinta.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~1.27M acciones/dia (~$64.3M/dia al precio actual $50.82) - solido.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "USCF - emisor especialista mas pequeno que ProShares/BlackRock, profundidad de Authorized Participants adecuada para el nicho pero menor escala institucional que los emisores mayores del proyecto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Numero de holdings y diversificacion",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion Top 10 holdings (%)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion geografica",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "aspectos": [
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Sigue el precio spot de Brent via futuros ICE cercanos al vencimiento (front-month), metodologia SIMPLE y transparente, 1x sin apalancamiento - a diferencia de la categoria apalancada del proyecto, este es el tipo de exposicion 'directa' a un commodity individual mas estandar.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Roll MENSUAL del futuro front-month (vs rebalanceo DIARIO de KOLD-UCO) - el 'riesgo estructural dominante' de la categoria apalancada (decay compuesto exponencial) NO aplica de la misma forma aqui; el costo de contango/backwardation sigue siendo real pero categoricamente menor y mas lento de acumular.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = **+71.81%** (fuerte, refleja el shock geopolitico del petroleo Brent en 2026 -conflicto Iran-EEUU, pico a $138/barril en abril antes de retroceder-). Retorno desde inception (16.2 anios) = **+4.35% CAGR - MODESTO PERO POSITIVO**, sin el patron catastrofico de decay compuesto visto en los siete apalancados/inversos del proyecto (rango -57.80% a +12.44%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad: rango de 52 semanas $27.14-$60.81 (ratio 2.24x) - **LA MENOS EXTREMA de toda la categoria de materias primas del proyecto** (el minimo anterior era UCO, 2.92x), coherente con la ausencia de apalancamiento, aunque sigue siendo mayor que cualquier ETF diversificado del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el pico de Brent a $138/barril en abril-2026 seguido de un 'retroceso fuerte' (fuente) implica un drawdown intra-anual real pese al buen resultado 1Y neto de +71.81%.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "Sharpe / Sortino ratio",
+      "aspectos": [
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = -0.06 - practicamente cero, similar al resto de la categoria de materias primas del proyecto, no es un diversificador fiable pero tampoco correlaciona significativamente con la renta variable.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "USO (mismo emisor USCF, 1x sobre WTI en vez de Brent) seria el comparable mas directo dentro de la misma casa de commodities, no analizado en el workbook. SCO/UCO (fila 75/79, ya en el workbook) son los -2x/+2x apalancados sobre WTI - categoria estructuralmente distinta (BNO es 1x sin apalancamiento, sin el decay diario). Ningun competidor Brent 1x de otro emisor identificado esta sesion. | ACTUALIZACION posterior (USO, fila 81): ahora con datos propios verificados, USO confirma ser el comparable directo mas relevante (mismo emisor USCF, misma categoria 1x sin apalancamiento) pero con un resultado historico compuesto NOTABLEMENTE PEOR - CAGR desde inception de USO es -6.91% (WTI, 20.3 anios) vs +4.35% de BNO (Brent, 16.2 anios), pese a que ambos comparten TER relativamente similar y estructura LP. La diferencia se explica por la ventana de tiempo mas larga y dura de USO (incluye la Crisis 2008 completa y el evento unico de precios negativos de WTI abril-2020) y un contango historicamente mas severo y documentado especificamente para USO. Ver Ficha USO fila 50 para el detalle completo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **SATELITE tactico/cobertura de commodity individual** - a diferencia de los siete apalancados/inversos del proyecto (estrictamente Tactico/Especulativo de dias), BNO SI podria sostenerse por horizontes mas largos (semanas/meses) dado que no tiene el decay diario destructivo, pero sigue sin calificar como Core: es un unico commodity sin diversificacion, con costo de roll no cuantificado y volatilidad geopolitica extrema.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion directa 1x al precio del Brent, util como cobertura tactica de inflacion energetica o riesgo geopolitico (ej. conflicto Iran-EEUU 2026) sin el riesgo de decay diario de los instrumentos apalancados del proyecto, aunque con costo de roll/contango real y no cuantificado esta sesion, y sujeto a la volatilidad geopolitica extrema inherente al petroleo (pico y caida abrupta ya vistos en 2026).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) costo de contango en el roll mensual del futuro (no cuantificado con cifra exacta esta sesion, pero real); (2) volatilidad geopolitica extrema del petroleo (pico a $138/barril y retroceso fuerte en el mismo anio); (3) estructura LP con complejidad fiscal K-1; (4) single-commodity, cero diversificacion; (5) TER relativamente alto (~1%) para una exposicion 1x sin apalancamiento.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "USO (mismo emisor, WTI en vez de Brent, no analizado en el workbook) es la alternativa mas directa. SCO/UCO (fila 75/79, ya en el workbook) ofrecen exposicion apalancada al mismo tipo de commodity mediante un emisor y categoria distintos. USO (fila 81) ahora tambien analizado en el workbook con datos propios, con resultado historico notablemente peor - ver comparacion completa en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "SATELITE TACTICO UNICAMENTE - NO CORE. Score 2.91/5 - por debajo del umbral de 3.0, pero notablemente MAS ALTO que cualquiera de los siete instrumentos apalancados/inversos del proyecto (KOLD 2.35 a UGL 2.65), porque BNO es categoricamente distinto: United States Brent Oil Fund (USCF), exposicion 1x SIN apalancamiento al petroleo Brent via futuros ICE con roll MENSUAL (no rebalanceo diario). No sufre el decay compuesto exponencial de los fondos -2x/+2x ya analizados (KOLD/ZSL/SCO/BOIL/UGL/AGQ/UCO) - su costo estructural es el roll de contango/backwardation mensual del futuro, categoricamente menos punitivo: CAGR desde inception (16.2 anios, desde jun-2010) = +4.35%, modesto pero POSITIVO, sin el patron de perdida catastrofica visto en la categoria apalancada. Retorno 1Y = +71.81%, reflejo del shock geopolitico del petroleo en 2026 (Brent llego a $138/barril en abril por el conflicto Iran-EEUU antes de retroceder fuertemente). Volatilidad (rango 52 semanas ratio 2.24x) la menos extrema de toda la categoria de materias primas del proyecto. Pese a este perfil estructural mas favorable, sigue sin calificar como Core: es un unico commodity sin diversificacion, estructura LP con complejidad fiscal K-1, TER relativamente alto (~1%) para una exposicion simple sin apalancamiento, y sujeto a volatilidad geopolitica extrema del petroleo (evidenciada por el pico y caida abrupta del mismo 2026). Rol apropiado: Satelite tactico/cobertura de inflacion energetica o riesgo geopolitico por horizontes de semanas/meses (a diferencia de los apalancados, limitados a dias), nunca como posicion Core del portafolio. USO (mismo emisor USCF, WTI en vez de Brent) seria la alternativa mas directa, no analizada en el workbook. SCO/UCO (fila 75/79, ya en el workbook) ofrecen exposicion apalancada al petroleo WTI - categoria distinta."
+  }
+}

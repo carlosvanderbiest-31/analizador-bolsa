@@ -1,0 +1,224 @@
+{
+  "nombre": "iShares Semiconductor ETF",
+  "ticker": "SOXX",
+  "categoria": "Equity Sector (semiconductores, sector puro)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (confirmado por Trackinsight). Sin riesgo de contraparte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US. Casi todos los holdings cotizan como acciones US directas (incluyendo TSM y ASML, que cotizan via ADR/listado directo en bolsas de EEUU pese a ser empresas de Taiwan y Paises Bajos) - friccion fiscal de dividendos extranjeros minima, similar a IHAK/CIBR.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$41-48bn segun la fuente (stockanalysis.com $47.57bn; Trackinsight EUR41.25bn=~$44.7bn al 4-ago-2026) - grande, el segundo o tercer AUM mas alto del proyecto despues de SCHD ($105bn). Riesgo de cierre nulo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 10-jul-2001 - **25 ANIOS de historial**, el track record MAS LARGO del proyecto con gran diferencia (el anterior lider era SCHD con 14.8 anios). Sobrevivio la resaca del estallido dot-com, la crisis financiera de 2008, multiples ciclos bajistas de semiconductores (2008, 2018, 2022) y COVID 2020.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: BlackRock (iShares), la gestora de ETFs mas grande del mundo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.34% (stockanalysis) / 0.33% (Trackinsight) - moderado: mas caro que SCHD/VYMI (0.06-0.07%) pero mas barato que IHAK (0.47%) y CIBR (0.58%). Razonable para un ETF sectorial especializado de este tamano y track record.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL (confirmado). Rotacion moderada-alta, similar a CIBR.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "No se obtuvo cifra explicita de volumen diario, pero con AUM $47.5bn y 84.55M acciones en circulacion (stockanalysis) se infiere liquidez muy alta - inferencia razonable, no verificacion directa.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado con cifra exacta, pero el AUM grande y la antiguedad del fondo sugieren spread muy ajustado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock, fondo de 25 anios y $47.5bn AUM - se infiere profundidad de Authorized Participants muy adecuada.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "31-34 holdings segun la fuente (Trackinsight 31, stockanalysis 34) - el fondo MAS concentrado en numero de posiciones de TODO el proyecto (menos que CIBR 42-46 e IHAK 54).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 61.14% (stockanalysis) y Top 15 = 77.78% (Trackinsight) - la concentracion numerica MAS ALTA del proyecto, superando incluso a CIBR (57.7%). El universo de semiconductores 'grandes' es simplemente muy reducido.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Technology = 99.55% del fondo (Trackinsight) - la concentracion sectorial MAS EXTREMA y MAS PURA del proyecto: a diferencia de IHAK/CIBR (que reparten ~96-100% entre varias sub-categorias de tech), SOXX es esencialmente semiconductores puros sin diversificacion siquiera dentro de tech.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia primaria: USA, Taiwan (via TSM) y Paises Bajos (via ASML) segun Trackinsight - ambos paises de exposicion no-US corresponden a empresas que el usuario YA tiene analizadas individualmente (TSM y ASML en [[stock_analysis_project]]), reforzando el hallazgo de overlap de la seccion E.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Tilt growth/ciclico EXTREMO - el beta mas alto del proyecto (1.77-1.81) y el P/E mas caro (47.6x). Consistente con su mandato de sector puro semiconductores, aunque de altisimo riesgo idiosincratico de ciclo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice ICE Semiconductor Index (antes PHLX Semiconductor Sector Index / 'SOX', uno de los indices de semiconductores mas antiguos y reconocidos del mercado, desde 1993): ~30 empresas US-listed de semiconductores y equipo semiconductor segun clasificacion ICE; ponderacion 'equal-weight modificado' con tope de ~8% por posicion para reducir la concentracion en las mega-caps - aunque el top10 sigue siendo muy alto dado lo reducido del universo elegible. Metodologia transparente y de trayectoria larga y probada. NOTA: stockanalysis.com etiqueta el indice como 'NYSE Semiconductor Index' - probablemente una variante de nomenclatura del mismo proveedor (ICE es propietaria de NYSE), no un indice distinto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral - similar cadencia a CIBR.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (jul-2001, 25 anios) = 14.10% anualizado (stockanalysis.com) - fuerte para una ventana tan larga que incluye 2008 y el bear market de 2022. Retorno 1Y (ago-2026) = +122.16% (stockanalysis.com, fuente principal usada por consistencia con el resto del proyecto) - otras fuentes mostraron cifras distintas e inconsistentes entre si (+171.57% en un snippet, +80.14% YTD en otro), reflejo del MISMO gotcha de calidad de datos ya documentado con VYMI/IHAK/CIBR. Todas las fuentes coinciden en que el rally del ultimo anio es EXCEPCIONAL, impulsado por el ciclo de IA/semiconductores.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada ~37.35% segun un agregador (fuente unica sin verificacion independiente de precision exacta) - A DIFERENCIA de las cifras implausibles descartadas en VYMI/IHAK/CIBR (3-8%, fisicamente imposibles para renta variable), esta cifra SI es cualitativamente coherente con el beta alto (1.77-1.81) y el perfil obvio de riesgo de un fondo ciclico de un solo sector - se incluye con cautela moderada, no se descarta, pero se mantiene como estimacion de fuente unica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Maximo Drawdown ~-46% segun un agregador (fuente unica sin verificar con precision) - el drawdown MAS SEVERO del proyecto (SCHD -33.4%, IHAK -34.42%, CIBR -33.9%), coherente con el perfil de mayor riesgo. El sector semiconductor es conocido historicamente por drawdowns severos en cada ciclo bajista (2000-2002, 2008, 2018, 2022).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "MUY inconsistente entre fuentes: un mismo snippet de busqueda mostro un Sharpe de 4.43 y otro de 0.69 sin poder reconciliar la ventana temporal de cada uno. Descartado, mismo gotcha ya documentado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.77-1.81 (dos fuentes consistentes) - EL MAS ALTO DEL PROYECTO CON GRAN DIFERENCIA (todos los demas ETFs analizados tenian beta <1). OVERLAP MASIVO, EL MAS ALTO DEL PROYECTO: NVIDIA (8.97%), AMD (8.20%), Broadcom (8.15%), Micron (7.86%), Intel (5.45%), Applied Materials (5.07%), Taiwan Semiconductor (4.49%) y Marvell (4.44%) - **8 DE LOS 10 HOLDINGS PRINCIPALES** ya estan analizados individualmente en el Dashboard de acciones del usuario (ver [[stock_analysis_project]]), sumando **52.63% DEL FONDO**. Ademas, ASML (Paises Bajos, presente fuera del top10 segun geografia de Trackinsight) tambien ya esta analizado individualmente por el usuario - el overlap real probablemente supera el 53-55%. Este es, con gran diferencia, el overlap MAS SEVERO de los 5 ETFs del proyecto (el anterior record era CIBR con 31.3%).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "No se verifico en detalle esta sesion, aunque el drawdown historico ya documentado (~-46%) da una idea de la severidad esperable en ciclos bajistas del sector.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 47.61x - EL MAS CARO, por mucho, de los 5 ETFs del proyecto (el anterior record era CIBR con 33.92x). Refleja el entusiasmo extremo del ciclo actual de IA/semiconductores. NO SE VERIFICO el percentil historico propio - dado que el sector semiconductor es notoriamente ciclico en sus multiplos (compresion severa en cada bajada del ciclo), este P/E deberia tratarse con maxima cautela como posible senal de pico de ciclo, no de valor sostenible.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.27% - marginal, similar a CIBR (0.39%), no relevante para la tesis de inversion de este ETF growth/ciclico puro.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - SOXX es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "ACTUALIZADO 2026-08-10 con datos verificados de SMH (ver fila 15 del Dashboard, ya analizado en este mismo workbook): frente a su competidor directo mas grande, SOXX esta MENOS concentrado (top10 61.1% vs 71.5%, 31-34 holdings vs solo 25-26) y tiene MENOR overlap con la cartera individual del usuario (52.6% vs 61.9%, el record del proyecto), pero SMH tiene MEJOR track record historico (28.92% vs 14.10% anualizado desde inception, aunque en ventana mas corta) y MAYOR AUM/liquidez ($71.5bn vs $47.6bn). TER practicamente identico entre ambos (0.34-0.35%). Para este usuario especifico, SOXX es la opcion ligeramente mejor de las dos por tener menos overlap, aunque ninguno de los dos anade diversificacion real dado el nivel de convicciones individuales ya tomadas en semiconductores.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol sugerido: NINGUNO recomendado dado el nivel de overlap. Con >52-55% del fondo ya presente en posiciones individuales del usuario, SOXX no funciona como satelite temático incremental sino como una VERSION EMPAQUETADA Y CON COSTO (TER 0.34%) de una cartera que el usuario ya armo manualmente sin ese costo. El unico valor incremental real serian los holdings NO solapados (KLAC, LRCX, y posiblemente 20+ posiciones menores fuera del top10).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion pura al ciclo estructural de semiconductores/IA (capex de datacenters, demanda de GPUs/aceleradores, escasez de capacidad de fabricacion) - tesis sectorial valida en si misma, pero el vehiculo especifico SOXX no aporta casi nada incremental sobre lo que el usuario ya tiene armado individualmente con NVDA/AMD/AVGO/MU/INTC/AMAT/TSM/MRVL/ASML.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentracion sectorial MAS EXTREMA del proyecto (99.55% semiconductores puros); (2) valoracion MAS CARA del proyecto (P/E 47.6x) en lo que parece el pico de un ciclo de euforia de IA, alto riesgo de compresion de multiplo cuando el ciclo gire; (3) beta MAS ALTO del proyecto (1.8x), maxima sensibilidad a una correccion del mercado; (4) ciclicidad historica severa y bien documentada del sector semiconductor (drawdowns de 40%+ en cada ciclo bajista pasado); (5) OVERLAP MASIVO (>52-55%) con posiciones individuales ya analizadas - el riesgo de redundancia MAS ALTO del proyecto.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SMH y XSD como alternativas de ETF no verificadas en esta sesion. Para este usuario en particular, la alternativa mas relevante no es necesariamente otro ETF sino evaluar si el capital destinado a SOXX no estaria mejor deployado ampliando directamente las posiciones individuales ya analizadas (mas control, sin TER) o diversificando hacia sectores donde el usuario SI tiene poca exposicion actual.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score ~3.06/5 (similar a CIBR, el mas bajo del proyecto junto con este), pero por razones DISTINTAS: la calidad ESTRUCTURAL del vehiculo es excelente (25 anios de historial, el mas largo del proyecto; $47.5bn AUM; replica fisica completa; metodologia de indice historica y reconocida) - lo que arrastra el score hacia abajo es la combinacion de concentracion sectorial mas extrema del proyecto (99.55% semiconductores puros), valoracion mas cara del proyecto (P/E 47.6x, posible pico de ciclo de euforia IA), beta mas alto del proyecto (1.8x) y sobre todo el OVERLAP MAS SEVERO DE TODO EL PROYECTO: 8 de los 10 holdings principales (NVDA, AMD, AVGO, MU, INTC, AMAT, TSM, MRVL) representan 52.63% del fondo y YA estan analizados individualmente en el Dashboard de acciones del usuario, mas ASML fuera del top10 tambien ya analizado - overlap real probablemente 53-55%+, superando incluso el 31.3% de CIBR (el anterior record del proyecto). Comprar SOXX en este momento equivaldria en gran parte a pagar un TER de 0.34% por replicar una cartera que el usuario ya armo manualmente sin ese costo, ademas de hacerlo en el pico aparente de valoracion del ciclo. El valor incremental real de SOXX se limita a los holdings NO solapados (KLAC, LRCX y posiciones menores fuera del top10) y a la conveniencia de rebalanceo automatico trimestral - insuficiente para justificar la duplicacion de riesgo dado el resto de senales."
+  }
+}

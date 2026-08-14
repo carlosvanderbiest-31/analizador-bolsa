@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares Core S&P 500 ETF",
+  "ticker": "IVV",
+  "categoria": "Equity Indice Amplio (S&P 500 Index 1x, replica FISICA COMPLETA, estructura RIC estandar -como VOO, NO UIT como SPY- COMPLETA EL TRIO SPY/VOO/IVV del proyecto -los tres emisores del mismo indice exacto ahora en el workbook-, el competidor MAS CERCANO POSIBLE a VOO ya flagged en su propia Ficha)",
+  "emisor": "iShares (BlackRock)",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA del S&P 500 - estructura RIC estandar identica a VOO -fila 102-, NO UIT como SPY -fila 104-. Puede reinvertir dividendos y prestar valores sin restriccion, sin el cash drag de SPY.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, tratamiento fiscal RIC estandar, sin complejidad ni cash drag.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $869.2-901.0bn segun fuente/fecha - **AHORA #2 MUNDIAL**, detras de VOO -$1.03T, fila 102- pero por delante de SPY -$814.81bn, fila 104-, confirmando la jerarquia VOO>IVV>SPY documentada en el proyecto en 2025-2026 -entradas netas 2024 de $86.7bn en IVV vs solo $16.5bn en SPY-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 15-may-2000 (~26.24 anios) - nace CASI EXACTAMENTE en el pico dot-com -mar-2000-, mas antiguo que VOO -15.9 anios- pero mas joven que SPY -33.6 anios-. Cubre dot-com -casi desde el dia cero-, Crisis 2008 y COVID.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor iShares/BlackRock, el mayor gestor de activos del mundo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.03% - **EMPATADO EXACTO con VOO** -y con SCHF- como el mas barato del proyecto. Historial de recortes de comision: 0.07% -> 0.04% -oct-2016- -> 0.03% -jun-2020, igualando a VOO-, guerra de precios documentada.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Replica fisica del mismo indice exacto que VOO/SPY - tracking esperado igual de ajustado que ambos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Estructura RIC estandar permite securities lending -BlackRock es uno de los mayores prestamistas de valores del mundo via su programa institucional- - revenue especifico no verificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rotacion de constituyentes del S&P 500 identica a VOO/SPY -mismo indice exacto-.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~7.75M acciones/dia -promedio 3 meses- (~$6.0bn/dia al precio $774-777) - **MAS liquido en dolares que VOO** -$577M/dia, aunque ese dato fue de un solo dia-, aunque muy por debajo de SPY -~$30bn/dia, record absoluto del proyecto-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask ~$0.73-0.77 -~0.10%- - mas ancho que VOO -~0.01%- o SPY -centavos-, aunque razonable para el precio por accion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV levemente NEGATIVO -~-0.03% a -0.29%, estimacion intradiaria con ruido- - una de las pocas cifras de esta metrica realmente cuantificadas en el proyecto -la mayoria quedan sin verificar-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "iShares/BlackRock - red de Authorized Participants tan profunda como la de VOO/SPY.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "508 holdings - practicamente identico a VOO -520- y SPY -505-, mismo universo exacto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 38.07% del NAV - similar a SPY -38.15%-, ligeramente mas concentrado que VOO -36.33%-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector Tecnologia 37.96% - similar a SPY -37.51%-, ligeramente mas alto que VOO -33-38%- e ITOT -35.34%-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "BLEND identico a VOO/SPY - mismo indice S&P 500 exacto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice S&P 500 - identico a VOO/SPY, maxima pureza de metodologia.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral estandar del indice - sin reseteo diario ni decay.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y +22.94% -cercano a VOO/SPY-, 10Y anualizado +15.67% -el MEJOR de todo el trio S&P 500 del proyecto, supera a VOO 15.51-15.68% y SPY 15.05%-. PERO desde inception -26.24 anios- solo **+8.5-8.59% anualizado** - **NOTABLEMENTE MAS BAJO que VOO -14.99%- y SPY -10.89%-**, pese a ser el MISMO indice: refleja una LECCION genuina sobre riesgo de timing de inception - IVV nacio casi exactamente en el pico dot-com -mar-2000-, capturando la caida completa sin ganancias previas que la amortiguaran, mientras VOO -2010- y SPY -1993, con 7 anios de ganancias previas antes del pico- tuvieron ventanas de partida mas favorables pese a ser la misma exposicion subyacente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $632.14-$780.64 (ratio 1.235x) - **IDENTICO** al ratio de VOO -1.235x- y practicamente igual a ITOT/SPY -1.235x/1.234x-, CUARTA confirmacion del mismo patron de precio reciente en los cuatro vehiculos S&P 500/mercado total del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Crisis 2008: Max Drawdown -55.25%, piso 9-mar-2009, 869 sesiones para recuperarse -misma banda que ITOT -55.20%- y SPY -~-55.2%-. Dot-com: el S&P 500 amplio cayo -49.1% en 929 dias -pico 24-mar-2000 a piso 9-oct-2002-, recuperacion completa de precio recien el 30-may-2007 -~86 meses, 7 anios- - IVV -inception 15-may-2000- estuvo vivo para CASI TODA la caida y el ciclo completo de recuperacion. COVID: peor dia unico -11.6% -16-mar-2020-, sin cifra de drawdown total verificada esta sesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio ~1.72 -actual/trailing-, ~1.61 -1 anio- -cifras aproximadas, confianza media- - solido en el corto plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 1.01 vs S&P 500 - identico a VOO/SPY/ITOT, ES el propio benchmark.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Cubre dot-com -casi desde el dia cero, ciclo completo de 7 anios de caida+recuperacion-, Crisis 2008 -55.25%, 869 sesiones- y COVID -peor dia -11.6%, sin drawdown total verificado-. Cobertura de crisis mas rica que VOO, algo menos completa que SPY en el dato de COVID especificamente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.17
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 25.96-26.83x -TTM- o 30.17x -fact sheet, metodologia distinta-, similar a VOO/SPY. **P/B 5.59x -jun-2026-, subio desde 4.72x -mar-2026-** - segunda cifra de P/B confirmada con precision en el cluster reciente -junto a SPY 5.37x-, mismo tema de valoracion rica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield 1.05-1.09% TTM -0.98% SEC 30 dias-, trimestral - muy similar a VOO -1.04%-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPLETA EL TRIO SPY/VOO/IVV del proyecto** -los tres principales fondos S&P 500 del mundo ahora todos en el workbook-: IVV es el competidor MAS CERCANO POSIBLE a VOO -ya flagged explicitamente en la propia Ficha VOO-, mismo indice exacto, MISMO TER -0.03%-, misma estructura RIC -sin cash drag, a diferencia de SPY-. Las UNICAS diferencias reales son el emisor -BlackRock vs Vanguard-, el ranking de AUM -#2 vs #1- y, mas interesante, el TIMING DE INCEPTION -IVV nacio casi exactamente en el pico dot-com, lo que deprime su CAGR desde inception -8.5-8.59%- muy por debajo del de VOO -14.99%- pese a ser la MISMA exposicion subyacente-. Jerarquia de AUM 2025-2026 confirmada: VOO -$1.03T- > IVV -~$885bn- > SPY -$814.81bn-.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: CORE, funcionalmente INTERCAMBIABLE con VOO.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: identica a VOO - exposicion diversificada, de costo minimo, al mercado de gran capitalizacion de EEUU. Para un inversor NUEVO, IVV y VOO son practicamente una moneda al aire -mismo TER/estructura-; para quien YA tiene VOO, no hay razon estructural para tambien tener IVV.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: identicos a VOO -overlap AVGO/MU -NO COMPRAR-superciclo IA- junto a NVDA, concentracion sectorial Tech ~38%, valoracion rica P/E ~27x, P/B 5.59x-. Riesgo ADICIONAL especifico: NINGUNA ventaja estructural real sobre VOO ya en el workbook - mantener AMBOS en un portafolio real seria pura redundancia sin beneficio de diversificacion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VOO -fila 102, ya en el workbook, MISMO indice exacto, MISMO TER 0.03%, el competidor mas cercano posible, actualmente #1 mundial- es la alternativa directa. SPY -fila 104, ya en el workbook, mismo indice pero UIT y TER 3.15x mas caro- e ITOT -fila 103, ya en el workbook, mercado total- completan el set de comparables.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar (REDUNDANCIA TOTAL con VOO ya en el workbook - el caso mas claro de duplicidad del proyecto). Score 3.88/5, identico a ITOT y muy cercano a VOO -3.91-. iShares Core S&P 500 ETF, replica FISICA COMPLETA del S&P 500, estructura RIC estandar -como VOO, NO UIT como SPY-. **COMPLETA EL TRIO SPY/VOO/IVV del proyecto**: mismo indice exacto, MISMO TER -0.03%, empatado con VOO como el mas barato del proyecto-, misma estructura sin cash drag. Ahora AUM **#2 MUNDIAL** -$869.2-901.0bn-, detras de VOO -$1.03T- pero por delante de SPY -$814.81bn-, confirmando la jerarquia VOO>IVV>SPY que se consolido en 2025-2026 -entradas netas 2024 de $86.7bn en IVV vs solo $16.5bn en SPY-. Inception 15-may-2000 -~26.24 anios-, nace CASI EXACTAMENTE en el pico dot-com -mar-2000-, lo que produce el hallazgo mas interesante de esta Ficha: CAGR desde inception de solo +8.5-8.59% anualizado, NOTABLEMENTE MAS BAJO que VOO -14.99%- pese a ser la MISMA exposicion subyacente - una leccion pura sobre el riesgo de TIMING de inception, no sobre la calidad del fondo. 10Y anualizado +15.67% es de hecho el MEJOR del trio -supera a VOO y SPY-. Volumen ~$6.0bn/dia -promedio 3 meses-, mas liquido en dolares que el dato disponible de VOO. Riesgos identicos a VOO -overlap AVGO/MU NO COMPRAR-superciclo IA, concentracion Tech ~38%, valoracion rica P/E ~27x-. Rol en Portafolio: CORE, funcionalmente INTERCAMBIABLE con VOO - para un inversor nuevo es una moneda al aire entre ambos, pero mantener los DOS en el mismo portafolio no aporta diversificacion real, de ahi la decision de NO agregar dado que VOO ya cubre esta exposicion en el workbook."
+  }
+}

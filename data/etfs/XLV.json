@@ -1,0 +1,225 @@
+{
+  "nombre": "Health Care Select Sector SPDR Fund",
+  "ticker": "XLV",
+  "categoria": "Equity Sector (salud, TERCER ETF de salud del proyecto, NOVENO Y VERDADERO ULTIMO miembro de la familia 'Original Nine' Select Sector SPDR - corrige error de memoria previo que daba la familia por completa sin XLV)",
+  "emisor": "State Street/SPDR",
+  "fecha_analisis": "2026-08-13",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO -'passive sampling method', CONFIRMADO por SSGA oficial-, universo reducido -60-63 holdings- hace que el muestreo sea muy cercano a replica completa en la practica.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -SPDR/State Street, NYSE Arca-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $43.87bn -SSGA oficial, 12-ago-2026-, rango 38.67-43.87bn segun fuente/fecha, uno de los ETFs de salud mas grandes del mundo, sin riesgo de cierre.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "27.75 anios desde inception -16-dic-1998, IDENTICA al resto de la familia 'Original Nine' Select Sector SPDR- -XLU/XLK/XLE/XLP/XLI/XLB/XLY/XLF, todos ya en el workbook-. SIN hallazgo de cambio de indice detectado, track record continuo bajo la misma metodologia desde 1998, cubre Crisis 2008 y COVID.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor State Street/SPDR. **XLV es el VERDADERO NOVENO Y ULTIMO miembro de la familia 'Original Nine' Select Sector SPDR -1998-, que en realidad NUNCA se habia completado en el proyecto: la nota previa de la ficha de XLF -fila 137- que daba la familia por completa contando XLC como uno de los nueve estaba ERRADA -XLC es un sector creado en 2018, no parte de los Original Nine-.** Con XLV, la familia real de 9 -XLB/XLE/XLF/XLI/XLK/XLP/XLU/XLV/XLY- queda ahora si completa, mas XLC como el sector adicional #10.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.08%, EXTREMADAMENTE barato, identico al resto de la familia Select Sector SPDR, **mas barato que VHT -0.09%, ya en el workbook- y 4.6x mas barato que IHI -0.37%, ya en el workbook-**.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Sin dato especifico de revenue por securities lending para XLV.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Turnover NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen = **$2.28bn/dia -14.87M acciones-, ENORME, uno de los ETFs mas liquidos de todo el proyecto**, comparable a XLE/XLF -ambos ~$2-2.5bn/dia, ya en el workbook-, MUY superior a VHT -$63.6M/dia- e IHI -$131M/dia-, ambos ya en el workbook.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask -30-day median- = 0.01% -SSGA oficial-, MUY ajustado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount = 0.00% -SSGA oficial, snapshot ago-2026-, PERFECTO.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero el volumen masivo implica una red de creacion/redencion extremadamente activa, consistente con el resto de la familia Select Sector SPDR.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "60-63 holdings segun fuente/fecha, en linea con el resto de la familia Select Sector SPDR -MUCHO menos que VHT -430-, mas que IHI -51-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**Top10 = 60.64-60.67% del fondo, MAS CONCENTRADO que VHT -52.1%- e incluso que XLF -56.82%, ambos ya en el workbook-, aunque menos extremo que IHI -74%-**. Top10: Eli Lilly 15.87%, Johnson & Johnson 10.32%, AbbVie 7.23%, UnitedHealth Group 6.06%, Merck 5.40%, Amgen 3.69%, Thermo Fisher Scientific 3.68%, Abbott Laboratories 3.18%, Gilead Sciences 2.77%, Pfizer 2.47%. **Eli Lilly SOLA pesa ~16%, incluso mas que en VHT -11.9%-.**",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% Health Care -tratamiento estandar de un fondo de un unico sector, igual que el resto de la familia Select Sector SPDR-. Sub-industrias: Pharmaceuticals 37.09%, Biotechnology 18.45%, Health Care Providers & Services 17.96%, Health Care Equipment & Supplies 16.53%, Life Sciences Tools & Services 9.37%, Health Care Technology 0.60%.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sesgo cap-weighted fuerte hacia Pharma+Biotech -55.5% combinado- y mega-cap -weighted average market cap $373.2bn-, con Eli Lilly como maximo exponente de ese sesgo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Health Care Select Sector Index, cap-weighted, MISMA familia metodologica Select Sector que XLU/XLK/XLE/XLP/XLI/XLB/XLY/XLF -ya en el workbook-, sin la banda de diversificacion 25/50 que usa VHT.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral estandar de la familia Select Sector SPDR.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retornos con cierta dispersion entre fuentes: 1Y = 26.78% -SSGA oficial, jul-2026- vs 31.54% -stockanalysis.com, ago-2026-. 3Y anualizado 8.41%, **5Y anualizado 5.93% -eslabon debil, MISMO patron que VHT, 5.9%-**, 10Y anualizado 9.82%, desde inception 8.73-8.76%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada desde inception = 17.9% -composer.trade-, **PRACTICAMENTE IDENTICA a VHT -16.9%-**, de las mas bajas de cualquier sector-equity individual del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = -39.17% a -39.2% -dos fuentes consistentes-, **CASI IDENTICO a VHT -39.12%-**, confirma el patron defensivo del sector salud amplio, cubre Crisis 2008 y COVID bajo la misma metodologia sin cambio de indice.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = 0.56 desde inception -composer.trade-, similar a VHT -0.5-, moderado. Calmar ratio = 0.22.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 ~0.68 -fuente unica de baja confiabilidad, sin segunda fuente de contraste-, defensivo <1, consistente con VHT -0.60-0.74- e IHI -0.81-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Sector historicamente defensivo en Crisis 2008, igual patron que VHT. Sin un evento de cola idiosincratico agudo y reciente como el shock GLP-1 de IHI -ya en el workbook-, aunque UnitedHealth Group -6.06% del fondo- y las farmaceuticas del Top10 tienen exposicion indirecta a esa misma dinamica y al riesgo regulatorio de precios de medicamentos.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.17
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado con discrepancia 20.23x -SSGA oficial- a 25.07x -stockanalysis.com-. **P/B ponderado = 4.74x -SSGA oficial-, MUY ALTO**, tipico de un sector dominado por farmaceuticas/biotecnologia con bajo valor en libros relativo a capitalizacion. Sin serie historica propia a 5-10 anios para contextualizar percentil.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 1.48-1.51%, similar a VHT -1.49%-, bajo respecto al resto del cluster sectorial del proyecto.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**TERCER ETF de salud del proyecto, ahora con comparacion triple VHT/IHI/XLV**: XLV es MAS BARATO que VHT en TER -0.08% vs 0.09%, marginal- pero MAS concentrado -Top10 60.6% vs 52.1%-, con volatilidad -17.9% vs 16.9%- y Max Drawdown -39.2% vs 39.1%- PRACTICAMENTE IDENTICOS a VHT. **MUCHO mas liquido que ambos** -$2.28bn/dia vs $63.6M de VHT y $131M de IHI, ambos ya en el workbook-. Estructuralmente muy superior a IHI en diversificacion -60 holdings especializados vs concentracion extrema- y sin el shock GLP-1 tan directo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Satelite sectorial, igual tratamiento que el resto de la familia Select Sector SPDR -XLU/XLE/XLK/etc, ya en el workbook-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion sectorial de costo minimo -TER 0.08%, el mas barato del cluster salud del proyecto- y liquidez masiva -$2.28bn/dia, la mas alta del cluster salud-, con perfil defensivo historico practicamente identico a VHT -volatilidad y Max Drawdown casi calcados-, ideal para exposicion tactica/liquida al sector.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **concentracion en Eli Lilly -~16% del fondo, incluso mas que en VHT-**, riesgo regulatorio de precios de medicamentos -negociacion de precios de Medicare, politica de salud EEUU-, P/B muy alto -4.74x-, exposicion indirecta a la dinamica GLP-1 -ya materializada en IHI, ya en el workbook- via UnitedHealth Group y farmaceuticas del Top10.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VHT -ya en el workbook- ofrece mayor diversificacion -430 vs 60-63 holdings- por un TER marginalmente mayor -0.09% vs 0.08%-; IHI -ya en el workbook- es mucho mas concentrado y expuesto directamente al shock GLP-1. XLV destaca especificamente por su liquidez masiva y TER minimo dentro del trio de salud del proyecto.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. XLV es el TERCER ETF de salud del proyecto y el VERDADERO NOVENO Y ULTIMO miembro de la familia 'Original Nine' Select Sector SPDR -1998-, que en realidad NUNCA se habia completado: la ficha previa de XLF -fila 137- daba la familia por completa contando erroneamente a XLC -sector creado en 2018- como uno de los nueve originales; con XLV la familia real -XLB/XLE/XLF/XLI/XLK/XLP/XLU/XLV/XLY- queda ahora si completa. TER = 0.08%, el MAS BARATO del cluster salud del proyecto -mas barato que VHT 0.09% e IHI 0.37%, ambos ya en el workbook-, y volumen de **$2.28bn/dia, uno de los mas liquidos de todo el proyecto**, muy superior a VHT -$63.6M- e IHI -$131M-. Perfil de riesgo/retorno **PRACTICAMENTE IDENTICO a VHT**: volatilidad 17.9% vs 16.9%, Max Drawdown -39.2% vs -39.12%, Sharpe 0.56 vs 0.5, ambos cubriendo Crisis 2008 y COVID bajo la misma metodologia sin cambio de indice. Sin embargo, **MAS CONCENTRADO que VHT** -Top10 60.64-60.67% vs 52.1%-, con **Eli Lilly sola pesando ~16% del fondo** -incluso mas que en VHT-, y P/B muy alto -4.74x-, tipico de un sector dominado por Pharma+Biotech -55.5% combinado-. Valuacion P/E con discrepancia 20.23-25.07x, sin serie historica propia para percentil confiable. Dividend yield bajo 1.48-1.51%. Score 3.36/5, PRACTICAMENTE IDENTICO al de VHT -3.36-, reflejando el mismo perfil subyacente con distinto tradeoff estructural: XLV gana en costo/liquidez, VHT gana en diversificacion. Rol Satelite. Dentro del trio de salud del proyecto -VHT/IHI/XLV-, XLV es la opcion mas eficiente en costo y liquidez, VHT la mas diversificada, e IHI la mas concentrada y actualmente la mas debil por el shock estructural GLP-1."
+  }
+}

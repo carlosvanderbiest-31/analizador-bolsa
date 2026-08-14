@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares MSCI ACWI ex U.S. ETF",
+  "ticker": "ACWX",
+  "categoria": "Equity Indice Amplio (mercado total ex-US, large+mid cap solamente, desarrollado + emergente, blend sin sesgo de estilo)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (Trackinsight: 'Full replication') - a diferencia de VXUS e IXUS (ambos FISICA MUESTREO por el tamano extremo de su universo), ACWX SI logra replica completa porque el indice MSCI ACWI ex USA estandar (no IMI) solo cubre large+mid cap (~1,856-1,940 nombres) - un universo manejable sin necesidad de muestreo estadistico. Primera vez en el cluster de fondos 'ex-US amplios' del proyecto con replica completa confirmada.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% holdings extranjeros por definicion - MISMO gotcha cambiario/fiscal ya documentado con VYMI/VXUS/IXUS.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$11.5-11.7bn (stockanalysis $11.74bn, Seeking Alpha $11.52bn, Trackinsight EUR10.32bn~$11.2bn - fuentes consistentes) - EL MAS PEQUENO de los tres fondos ex-US amplios del proyecto por un margen enorme (7% del tamano de VXUS $161bn, 19% del tamano de IXUS $60bn).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 26-mar-2008 (~18.4 anios) - EL TRACK RECORD MAS LARGO de los tres fondos ex-US amplios del proyecto (vs 15.5 anios VXUS, 13.8 anios IXUS), y el UNICO que cubre la Crisis Financiera Global de 2008 en su propia historia (nacio meses antes del colapso de Lehman Brothers, sep-2008).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - SEXTA aparicion del emisor en el proyecto (IHAK, SOXX, ITA, ARTY, IXUS, ahora ACWX).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.32% - CLARAMENTE EL MAS CARO de los tres fondos ex-US amplios del proyecto (4.5x mas caro que IXUS 0.07%, 6.4x mas caro que VXUS 0.05%) pese a exposicion casi identica. Explicacion estructural confirmada: ACWX (2008) es PRE-serie 'Core' de iShares (lanzada en 2012, el mismo anio que IXUS) - BlackRock creo la linea Core especificamente como version economica/flagship de sus fondos originales para inversores buy-and-hold, dejando fondos como ACWX con el pricing legado mas alto, orientados historicamente a trading institucional/opciones liquidas mas que a acumulacion de bajo costo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion; la replica FISICA COMPLETA (a diferencia del muestreo de VXUS/IXUS) implica en teoria mas nombres individuales prestables, pero no se confirmo el programa especifico de ACWX.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI ACWI ex USA (estandar, no IMI) - MSCI tipicamente revisa trimestralmente con rebalanceo semestral mas profundo (may/nov), no confirmado con fuente primaria especifica de ACWX esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = $236.92M/dia (3.37M acciones, cifra real verificada via Seeking Alpha) - dato preciso, similar en magnitud a IXUS ($263.30M/dia) pese a ser un fondo mucho mas pequeno en AUM, senal de rotacion/turnover relativamente alta.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask = 0.01% (mediana 30 dias, Seeking Alpha, dato con fecha exacta 22-jun-2026) - PRIMERA CIFRA EXACTA de spread bid-ask verificada en todo el proyecto (en VXUS/IXUS este dato solo se pudo inferir cualitativamente). Spread extremadamente ajustado, coherente con 18 anios de historial y liquidez institucional profunda.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel, mismo estandar que IXUS/Vanguard en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "1,856 (Trackinsight) a 1,940 (stockanalysis) holdings - EL MENOR numero de los tres fondos ex-US amplios del proyecto (menos de la mitad de IXUS 4,301-4,537, ~21% de VXUS 8,807) - refleja que el indice MSCI ACWI ex USA ESTANDAR solo cubre large+mid cap, sin el tramo small-cap que si incluyen la version IMI de IXUS y el FTSE Global All Cap de VXUS.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 15.19% (stockanalysis) a 16.24% (Trackinsight) - moderadamente MAS CONCENTRADO que IXUS (13.16-14.95%) y VXUS (14.77%), consistente con tener menos holdings totales repartiendo el mismo peso de las posiciones top.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Finance 26.13% + Technology 24.67% = ~51% combinado (Trackinsight) - practicamente IDENTICO en composicion a IXUS (Finance 25.35% + Tech 23.40% = ~49%), coherente con seguir esencialmente el mismo universo economico ex-US solo que sin el tramo small-cap.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Exposicion geografica primaria en Japon, Taiwan y Corea del Sur (iShares) - practicamente identica a IXUS (Japon/Taiwan/UK), sin cifras exactas por pais verificadas esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "BLEND puro (sin sesgo value/growth/dividendo), cap-weighted de large+mid cap ex-US - mismo perfil de estilo que VXUS/IXUS.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI ACWI ex USA (version ESTANDAR, no IMI) - mismo proveedor MSCI que IXUS pero metodologia mas estrecha (solo large+mid cap, sin el tramo small-cap que agrega IXUS via IMI) - transparente y reconocida igualmente, pero cubre una porcion menor del universo total del mercado ex-US.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de ACWX esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.86
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (18.4 anios, incluye la Crisis Financiera 2008) = 4.93% anualizado - EL MAS BAJO de los tres fondos ex-US amplios del proyecto (vs 7.43% IXUS, 6.72% VXUS), pero por una razon estructural LEGITIMA: es la unica ventana de las tres que arranca justo antes del crash de 2008. Retornos acumulados verificados y CAGR calculado a partir de ellos: 10Y = +151.81% acumulado -> ~9.68% anualizado (superior al 'desde inception', mismo gotcha de ventana ya documentado con IXUS); 5Y = +49.64% acumulado -> ~8.39% anualizado; 3Y = +20.5% acumulado -> ~6.42% anualizado; 1Y = +30.55% (el mas alto de los tres fondos ex-US amplios en el mismo periodo reciente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Cifras de volatilidad encontradas (5.85%, rango 5.41%-7.34% segun ventana) DESCARTADAS por implausibles para un ETF de renta variable global - MISMO gotcha recurrente ya documentado extensamente en el proyecto (VYMI/XLU/XLK/XLE/VB/VXUS). Se dejo en blanco en el Dashboard, sin alternativa confiable encontrada esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -60.40% desde inception (fuente unica, PortfoliosLab) - EL PEOR de los tres fondos ex-US amplios del proyecto (vs -36.22% IXUS, -35.97% VXUS), pero EXPLICADO Y COHERENTE: ACWX es el UNICO de los tres que cubre la Crisis Financiera Global de 2008-2009 en su historia (nacio en mar-2008), un evento que devasto las acciones globales ex-US mucho mas severamente que el COVID de 2020. No se trata como senal de mala calidad del vehiculo sino de diferencia de ventana temporal - mismo principio de rigor ya aplicado a ITA/ARTY con ambiguedades de definicion de drawdown.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: cifras recientes encontradas (1.59-2.29) claramente infladas por el rally 2025-2026 (mismo gotcha ya documentado con IXUS/MU/CRAK/SOXX) - NO se encontro una cifra de Sharpe de largo plazo (10Y) confiable esta sesion como si se encontro para IXUS (0.48). Se dejo en blanco en el Dashboard en vez de forzar la cifra reciente inflada.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.77 - practicamente identico a IXUS (0.78) y VXUS (0.78). Overlap CONFIRMADO en ambas fuentes: Taiwan Semiconductor (TSM, 4.82-5.03%, la posicion mas grande del fondo) y ASML Holding (1.78-2.06%) ya analizados individualmente, sumando 6.6-7.1% - EL OVERLAP CONFIRMADO MAS ALTO de los tres fondos ex-US amplios del proyecto (vs 5.7-6.2% IXUS, 5.37% VXUS). Alibaba (BABA, 0.71%) aparece en el top10 de stockanalysis pero no en el de Trackinsight, overlap adicional probable sin confirmar en ambas fuentes. Patron claro: menos holdings totales = mayor peso proporcional de los mismos megacaps ya analizados individualmente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "18.4 anios de historial - el UNICO de los tres fondos ex-US amplios que cubre la Crisis Financiera Global de 2008-2009 ademas de la crisis de deuda europea de 2011, el taper tantrum, el COVID de 2020 y el bear market de 2022 - la cobertura de crisis MAS COMPLETA de todo el cluster de fondos ex-US del proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 17.74x - practicamente identico a IXUS (17.54x), ligeramente mas caro que VXUS (15.86x). Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 2.47% - EL MAS BAJO de los tres fondos ex-US amplios del proyecto (vs 2.89-2.96% IXUS, 2.51-2.52% VXUS). Distribucion SEMESTRAL confirmada (igual que IXUS, a diferencia de la trimestral de VXUS).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "COMPARACION VERIFICADA A TRES BANDAS con VXUS (fila 30) e IXUS (fila 45), ambos ya analizados en este workbook - ACWX es CLARAMENTE el tercer lugar del trio en eficiencia: TER 4.5-6.4x mas caro (0.32% vs 0.07%/0.05%), AUM mas pequeno con gran margen ($11.6bn vs $60bn/$161bn), menos holdings (1,856-1,940 vs 4,301-4,537/8,807, sin tramo small-cap) y el overlap confirmado mas alto (6.6-7.1% vs 5.7-6.2%/5.37%). Las UNICAS ventajas reales de ACWX son estructurales, no de costo: replica FISICA COMPLETA (vs muestreo en los otros dos), el track record mas largo del cluster (18.4 anios, incluye la Crisis 2008) y los datos de ejecucion mejor verificados del proyecto (spread exacto 0.01%, volumen exacto $236.92M/dia). Para un inversor que ya tiene VXUS o IXUS, sumar ACWX no aporta diversificacion incremental real, solo un costo mayor por la misma exposicion economica. VEU (fila 47) fue analizado posteriormente y confirma el patron: TER 0.04% (aun mas barato que IXUS/VXUS), mejor liquidez verificada y el track record mas largo del cluster (19.4 anios) - ACWX sigue siendo el ultimo lugar del cluster en las cuatro comparaciones directas ahora disponibles (VXUS, IXUS, VEU). SCHF sigue sin datos propios verificados.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: mismo rol conceptual (Core, diversificador ex-US desarrollado+emergente) que VXUS e IXUS - TERCER vehiculo consecutivo para el mismo proposito en este workbook, y el mas caro/pequeno/concentrado de los tres. A diferencia de IXUS (razonablemente competitivo pese a perder frente a VXUS), ACWX es claramente INFERIOR en casi toda metrica de eficiencia frente a AMBOS competidores ya presentes.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: misma tesis geografica ya cubierta DOS VECES en este workbook (VXUS, IXUS), sin angulo diferenciador que justifique un TERCER vehiculo con TER 4.5-6.4x mas alto que las alternativas ya analizadas. El unico atractivo genuino (18.4 anios de historial, incluyendo 2008) es informativo mas que accionable para una decision de compra nueva.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) riesgo cambiario no cubierto + retencion fiscal extranjera (mismo gotcha de VYMI/VXUS/IXUS); (2) riesgo de REDUNDANCIA, el mas severo del trio dado el TER notablemente mas alto sin beneficio compensatorio de escala/diversificacion; (3) Max Drawdown historico el mas severo del cluster (-60.40%, aunque explicado por la ventana que incluye 2008); (4) fondo mas pequeno del trio, con margen (aunque comodo en terminos absolutos) menor frente a un eventual cierre de fondo que VXUS/IXUS.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VXUS (fila 30) e IXUS (fila 45), AMBOS ya analizados en este workbook y AMBOS mas eficientes en costo/escala/diversificacion - ver comparacion completa en fila 50. VEU y SCHF identificados sin datos propios verificados en ninguna ficha del cluster. VEU (fila 47) tambien verificado - ACWX es el ultimo lugar de las cuatro comparaciones del cluster, ver Ficha VEU fila 50.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score 3.48/5 - notablemente por debajo de VXUS (3.94) e IXUS (3.82), el TERCER lugar de un cluster de tres fondos que ahora cubren el mismo rol de portafolio (diversificador geografico ex-US desarrollado+emergente). ACWX tiene atractivos estructurales genuinos - replica FISICA COMPLETA (a diferencia del muestreo de sus dos competidores), el track record mas largo del cluster (18.4 anios, UNICO que cubre la Crisis Financiera de 2008), y los datos de ejecucion mejor verificados del proyecto (spread exacto 0.01%, volumen exacto) - pero estos NO compensan un TER 4.5-6.4x mas alto (0.32% vs 0.07% IXUS / 0.05% VXUS), un AUM sustancialmente menor, menos holdings (sin tramo small-cap) y el overlap confirmado mas alto del cluster con la cartera individual del usuario (6.6-7.1% via TSM+ASML). Explicacion estructural confirmada del TER alto: ACWX es PRE-serie 'Core' de iShares (2008, antes de que existiera la linea Core lanzada en 2012 que redujo agresivamente costos en fondos como IXUS). Para este usuario, que ya tiene VXUS e IXUS analizados en este mismo workbook, sumar ACWX no anadiria diversificacion incremental real - es el mismo rol de portafolio a un costo significativamente mayor. Se actualizaron retroactivamente las Fichas de VXUS (C50/C56) e IXUS (C50/C56) y sus notas de Dashboard (columna 40) con esta comparacion a tres bandas ahora verificada."
+  }
+}

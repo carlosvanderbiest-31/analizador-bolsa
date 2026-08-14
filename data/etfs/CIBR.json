@@ -1,0 +1,224 @@
+{
+  "nombre": "First Trust NASDAQ Cybersecurity ETF",
+  "ticker": "CIBR",
+  "categoria": "Equity Tematico/Factor (ciberseguridad, tema puro - competidor directo de IHAK)",
+  "emisor": "First Trust",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Metodo de replica no declarado explicitamente por First Trust en la ficha consultada, pero con solo 42-46 holdings es factible replica fisica completa (mismo patron inferido que IHAK). Sin evidencia de estructura sintetica/swap.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US (NASDAQ). El top 10 completo son empresas listadas en EEUU - friccion fiscal de dividendos extranjeros minima, similar a IHAK.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$15.3-15.4bn (dos fuentes muy consistentes: stockanalysis.com $15.29bn, ficha oficial de First Trust $15.44bn al 7-ago-2026) - es, con DIFERENCIA, el ETF de ciberseguridad mas grande del mercado y el segundo ETF mas grande del proyecto despues de SCHD. Aprox 15x el AUM de IHAK (~$1bn). Riesgo de cierre nulo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 6/7-jul-2015 (~11.1 anios de historial al 2026-08-10) - el SEGUNDO track record mas largo del proyecto (SCHD 14.8, VYMI 10.5, IHAK 7.2). Atraveso el bear market de 2018, COVID 2020 y el bear market growth/tech de 2022.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: First Trust, gestora establecida de ETFs tematicos (menos grande que Vanguard/BlackRock/Schwab en AUM total, pero con historial largo y solvente especificamente en productos tematicos sectoriales como este).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.58% (confirmado por dos fuentes: stockanalysis 0.58%, First Trust oficial 0.58% al 2-feb-2026) - el TER MAS ALTO de los 4 ETFs del proyecto, incluso mas caro que su competidor directo IHAK (0.47%). Dentro de la categoria de ciberseguridad sigue siendo comparable a HACK (~0.60%) pero mas caro que IHAK y BUG (~0.50%).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL con reconstitucion SEMESTRAL (confirmado por First Trust, ficha oficial) - la cadencia de ajuste MAS ALTA de los 4 ETFs del proyecto (mas frecuente que el semestral/anual de IHAK). Mayor rotacion esperable de costos de transaccion internos.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "No se obtuvo cifra explicita de volumen diario en esta sesion, pero con AUM $15.4bn y 157.85M acciones en circulacion (stockanalysis) se infiere liquidez sustancialmente mayor que IHAK (~$1bn) - inferencia razonable, no verificacion directa de volumen.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado con cifra exacta, pero el AUM grande sugiere spread ajustado frente a IHAK.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "First Trust, fondo grande y establecido (~11 anios, $15bn AUM) - se infiere profundidad adecuada de Authorized Participants, sin verificacion directa.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "42-46 holdings segun la fuente (First Trust oficial: 42 'excluyendo cash'; stockanalysis: 46, probablemente distinta fecha de corte - el top10 de First Trust del 7-ago-2026 incluye Rubrik, ausente del top10 de stockanalysis). MAS concentrado que IHAK (54).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 57.71-57.9% (dos fuentes consistentes) - la concentracion MAS ALTA de los 4 ETFs del proyecto (mayor que IHAK 46.92% y SCHD 41.3%). El indice usa topes explicitos por escalon (segun First Trust: Core principales 8%, resto Core 4%, Complementarias 2%; una fuente alternativa describe topes distintos '5 mas liquidas 6%, resto 3%' - discrepancia sobre el detalle exacto entre fuentes, aunque el principio de limitar concentracion es consistente) pero aun asi el top10 es muy alto porque hay pocas empresas verdaderamente grandes en el sector.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Segun ficha oficial First Trust (7-ago-2026): Software and Computer Services 76.44%, Telecommunications Equipment 9.55%, Technology Hardware and Equipment 8.99%, Industrial Support Services 3.01%, Aerospace and Defense 2.01% = ~100% tecnologia/afines. Una fuente alternativa usa otra taxonomia (Technology Services 77.26%, Electronic Technology 21.29%) pero la conclusion es identica: concentracion sectorial tan extrema como IHAK (~96%).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "No verificado explicitamente. El criterio de elegibilidad del indice (capitalizacion minima mundial $250M) sugiere que podria incluir empresas no-US, pero el top10 completo observado son todas empresas listadas en EEUU. Se infiere concentracion geografica en US similar a IHAK, sin confirmar con certeza el peso exacto de exposicion internacional si la hay.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Tilt de GROWTH puro, aun mas caro que IHAK (P/E 33.92 vs 25.05). Consistente con su mandato tematico, aunque la valoracion es notablemente mas rica.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Nasdaq CTA Cybersecurity Index (desarrollado con la Consumer Technology Association): criterios de elegibilidad objetivos (capitalizacion minima mundial $250M, volumen diario minimo promedio $1M en 3 meses, free float minimo 20%); ponderacion por capitalizacion de mercado ajustada por liquidez ('modified free float market cap weighting') con topes por escalon de liquidez. Metodologia transparente y publicada, con el mismo tipo de clasificacion cualitativa de 'que cuenta como empresa de ciberseguridad' que IHAK (juicio de la CTA en vez de un simple screening cuantitativo como el de un indice de dividendo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo TRIMESTRAL, reconstitucion SEMESTRAL - la cadencia de ajuste mas alta del proyecto, mas frecuente que IHAK (semestral/anual).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.86
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (jul-2015) = 16.32% anualizado (stockanalysis.com) - la MEJOR rentabilidad de largo plazo de los 4 ETFs del proyecto (SCHD 12.70%, VYMI ~11%, IHAK 14.88%). Retorno 1Y (ago-2026) = +42.14% - tambien la mas alta de los 4. Beneficiario del mismo rally growth/tech/ciberseguridad reciente que impulso a IHAK, pero con un historial de largo plazo mas largo y solido.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "NO VERIFICADO con confianza - un agregador de busqueda mostro una cifra de 8.06%, la MISMA clase de numero implausible ya descartada para VYMI e IHAK (demasiado baja para un ETF growth/tech concentrado en apenas 42-46 posiciones). Se descarta explicitamente por el mismo motivo. Cualitativamente se espera volatilidad alta, similar o mayor que IHAK dado el nivel de concentracion aun mayor (top10 57.7% vs 46.9%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Maximo Drawdown = -33.9% segun un agregador (PortfoliosLab-derivado, SIN verificacion independiente de fuente primaria). Magnitud sorprendentemente similar a SCHD (-33.4%) e IHAK (-34.42%) pese a la mayor concentracion de CIBR - posible que la ventana de medicion del agregador no capture el peor evento real, o que el crecimiento excepcional reciente domine la metrica. Tratar con la misma cautela que las cifras equivalentes de IHAK y VYMI (fuente unica sin confirmar).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 1.47 segun un agregador, sin poder confirmar la ventana temporal exacta (mismo patron de cifras 'recientes' no verificables ya visto en SCHD/VYMI/IHAK). No usar como representativo del perfil riesgo/retorno de largo plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.93 (mas alto/cercano a 1 que IHAK 0.80) - menos defensivo. OVERLAP MUY SIGNIFICATIVO Y EL MAS ALTO DEL PROYECTO: Fortinet (FTNT, 8.44%), CrowdStrike (CRWD, 8.56%), Cisco (CSCO, 7.36%) y Broadcom (AVGO, 6.98%) SUMAN 31.34% DEL FONDO y los CUATRO ya estan analizados individualmente en el Dashboard de acciones del usuario (ver [[stock_analysis_project]]). Esto es casi 3.5 veces el overlap de IHAK (~9%, solo CRWD+FTNT). Sumar CIBR representaria una duplicacion sustancial de riesgo sobre posiciones que el usuario ya tiene, no una diversificacion real.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "No se verifico en detalle el comportamiento especifico en crisis pasadas en esta sesion - pendiente para proxima revision, mismo estado que IHAK.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 33.92x - el MAS CARO de los 4 ETFs del proyecto (SCHD 17.6x, VYMI 13.46x, IHAK 25.05x). NO SE VERIFICO el percentil historico propio - pendiente para proxima revision con serie de tiempo dedicada.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.39% (stockanalysis) a 0.43% (First Trust, tasa de distribucion 12 meses) - mayor que IHAK (0.07%) pero sigue siendo marginal, no relevante para la tesis de inversion de este ETF growth puro.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - CIBR es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "COMPARACION DIRECTA CON DATOS VERIFICADOS (no solo 'conocimiento general de categoria' como se tuvo que hacer con IHAK, ya que ambos ETFs de ciberseguridad estan ahora en este mismo workbook): CIBR es el lider de mercado en AUM ($15.4bn vs $1bn) y tiene el mejor track record de rentabilidad (16.32% vs 14.88% anualizado desde inception), pero pierde en CASI TODAS las demas metricas objetivas frente a IHAK: TER mas alto (0.58% vs 0.47%), MAS concentrado (top10 57.7% vs 46.9%), valoracion MAS rica (P/E 33.9x vs 25.1x) y OVERLAP de cartera MUCHO mayor con las posiciones individuales del usuario (31.3% vs 9%). Para un inversionista que ya tiene CRWD/FTNT/CSCO/AVGO en cartera individual, IHAK es objetivamente la opcion mas eficiente de las dos para exposicion tematica adicional a ciberseguridad.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol sugerido: SATELITE/TACTICO tematico, igual naturaleza que IHAK pero AUN MENOS apto para este usuario especifico dado el nivel de overlap (31.3%) con posiciones individuales ya analizadas. Sumar CIBR encima de CRWD+FTNT+CSCO+AVGO individuales no anadiria diversificacion real, solo apalancaria mas la misma tesis de inversion ya tomada de forma individual.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: misma tesis estructural que IHAK (vientos de cola del gasto en ciberseguridad, amenazas de IA generativa), pero CIBR es la opcion mas 'establecida'/lider de mercado en AUM con el mejor track record de rentabilidad historica del grupo - a costa de mayor costo (TER), mayor concentracion y mayor overlap de cartera para este usuario en particular.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: mismos riesgos estructurales que IHAK (concentracion sectorial extrema, valoracion rica P/E 34x, M&A frecuente en el sector) MAS un overlap de cartera severamente mayor (31.3% vs 9% de IHAK) y el TER mas alto del proyecto (0.58%). Es el perfil de riesgo combinado (estructural + especifico para este usuario) mas elevado de los 4 ETFs analizados hasta ahora.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "Alternativa directa mas relevante: IHAK (ya analizado en este mismo workbook, fila 7 del Dashboard) - mas barato, menos concentrado, con overlap de cartera mucho menor, aunque con AUM y track record menores. HACK y BUG son otras alternativas de la categoria no analizadas todavia en este proyecto. Comparado cabeza a cabeza con IHAK usando datos verificados de ambos, IHAK sale mejor parado en la mayoria de las metricas relevantes para este usuario especifico.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score estructural ~3.12/5, el mas bajo del proyecto hasta ahora, arrastrado por la combinacion de: TER mas alto (0.58%), concentracion top10 mas alta (57.7%), valoracion mas rica del proyecto (P/E 33.9x) y sobre todo un OVERLAP DE CARTERA SEVERO (31.3% del fondo en FTNT+CRWD+CSCO+AVGO, las 4 ya analizadas individualmente en el Dashboard de acciones del usuario). Esto no es principalmente una cuestion de timing de entrada (por eso no se eligio 'esperar mejor entrada') sino de REDUNDANCIA DE CARTERA: sumar CIBR encima de esas 4 posiciones individuales no anadiria diversificacion real, solo apalancaria mas la misma tesis ya tomada. CIBR SI gana en tamano/liquidez ($15.4bn AUM, el mayor ETF de ciberseguridad del mercado) y en track record de rentabilidad (16.32% anualizado desde 2015, el mejor del proyecto) frente a IHAK. Recomendacion practica: si el usuario quiere exposicion tematica adicional a ciberseguridad mas alla de sus posiciones individuales, IHAK (ya analizado, fila 7) es la opcion objetivamente mas eficiente en costo, concentracion y overlap. CIBR seria mas defendible solo si se busca especificamente el vehiculo mas liquido/grande de la categoria por razones operativas (ej. opciones listadas sobre el ETF, trading institucional)."
+  }
+}

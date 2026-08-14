@@ -1,0 +1,224 @@
+{
+  "nombre": "Vanguard Information Technology ETF",
+  "ticker": "VGT",
+  "categoria": "Equity Sector (tecnologia de la informacion, GICS completo)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (confirmado por Trackinsight). Sin riesgo de contraparte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, practicamente 100% empresas US (universo MSCI US IMI) - friccion fiscal minima.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $147.30bn (stockanalysis.com) / ~$134bn (Trackinsight EUR120.79bn al 31-jul-2026) - grande, TERCER lugar del proyecto detras de VUG ($229.6bn) y VTV ($191.4bn), aun mayor que SCHD ($105bn).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 26-ene-2004 - **EL MISMO DIA** que VTV y VUG (Vanguard lanzo su familia de ETFs sectoriales/de estilo simultaneamente ese dia). Tercer lugar en antiguedad del proyecto, empatado con VTV/VUG (~22.5 anios).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: Vanguard - QUINTA aparicion en el proyecto (VYMI, VTV, VUG, ahora VGT).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.09% - MUY BARATO para un fondo sectorial, notablemente mas barato que SOXX (0.34%), SMH (0.35%), CIBR (0.58%), ITA (0.38%) e IHAK (0.47%) - refleja la ventaja estructural de costo de Vanguard incluso en fondos sectoriales especializados.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL (confirmado: ultimo dia habil de febrero/mayo/agosto/noviembre, coincidiendo con las revisiones trimestrales del indice padre de MSCI).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = 2,325,106 acciones (stockanalysis) x precio ~$120.66 = ~$280.5M/dia negociado - liquidez alta, cifra VERIFICADA con numero real.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado con cifra exacta, pero el AUM y volumen altos sugieren spread ajustado.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Vanguard, fondo grande - se infiere profundidad de Authorized Participants excelente.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "320-327 holdings segun la fuente (Trackinsight 320, stockanalysis 327) - MUY diversificado en numero de posiciones, comparable a VTV (326) y MUY superior a SOXX (34)/SMH (26)/CIBR (46) - refleja que VGT cubre TODO el sector 'Information Technology' de GICS (software, hardware, semiconductores, servicios IT), no solo semiconductores como SOXX/SMH.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 59.87% - concentrado (similar a SOXX 61.14%), pese al alto numero de holdings totales: los megacaps (NVIDIA, Apple, Microsoft) dominan incluso en un universo amplio de 320+ posiciones.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Technology = 94.98% del fondo (Trackinsight) - practicamente 100% tech, tan extremo como SOXX/SMH/IHAK, aunque cubre TODOS los sub-sectores de tecnologia (software, hardware, semis, servicios IT) en vez de un nicho unico.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% US (universo MSCI US IMI).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Growth/tech puro, cubriendo TODA la cadena de valor tecnologica (no solo semiconductores como SOXX/SMH) - definicion mas amplia y menos idiosincratica que un fondo de nicho especifico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI US IMI Information Technology 25/50 Index: clasificacion GICS de 'Information Technology', ponderacion por capitalizacion de mercado con topes '25/50' (ningun emisor individual >25%, la suma de emisores con peso >5% no excede 50% del indice) - topes DISENADOS ESPECIFICAMENTE para cumplir limites de diversificacion RIC bajo el codigo fiscal de EEUU, LA MISMA razon regulatoria ya documentada con DRAM/Roundhill (aunque alli se implementaba activamente via swaps, aqui es un tope pasivo y transparente incorporado directamente en el diseno del indice). Metodologia transparente y de un proveedor reconocido (MSCI).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo TRIMESTRAL con fecha exacta confirmada (ultimo dia habil de feb/may/ago/nov).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.57
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (ene-2004, ~22.5 anios) = 15.16% anualizado (stockanalysis.com) - MEJOR que VUG (12.30%) y VTV (9.77%) en la MISMA ventana temporal EXACTA (mismo dia de lanzamiento) - el fondo tech puro supero tanto al growth diversificado como al value. Retorno 1Y (ago-2026) = +38.97% - MEJOR que VUG (+17.27%) y tambien MEJOR que VTV (+29.08%) pese a la narrativa de rotacion hacia value ya observada en otras fichas del proyecto - sugiere que DENTRO de growth, especificamente TECH ha seguido liderando, mientras otros nombres growth no-tech de VUG (TSLA, LLY, etc.) diluyeron el retorno relativo de ese fondo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada = 22.7-24.45% segun dos fuentes razonablemente cercanas - moderada-alta, mayor que VUG (20.0%) pero menor que SOXX/SMH (~37-39%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Maximo Drawdown = -54.6% desde inception - severo, entre VUG (-50.7%) y VTV (-59.3%) en la misma ventana de 22.5 anios.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 0.74 (largo plazo) vs 1.60 (ventana reciente de 1 ano, EXPLICITAMENTE distinta segun la fuente) - se usa 0.74 como cifra representativa de largo plazo, MEJOR que VUG (0.55) y VTV (0.58).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.35 (stockanalysis) - moderado-alto, MAYOR que VUG (1.23), consistente con ser un fondo sectorial puro tech en vez de un fondo growth mas diversificado. **OVERLAP MASIVO**: NVIDIA (16.10%), Apple (14.33%), Microsoft (8.28%), Micron (5.04%), Broadcom (3.84%), AMD (3.65%), Intel (2.41%), Applied Materials (2.26%) y Cisco (1.82%) - 9 DE LOS 10 HOLDINGS PRINCIPALES (todos menos Lam Research) YA estan analizados individualmente por el usuario, sumando ~57.73% del top10 - cerca del record de SMH (61.86%). Dado que el fondo tiene 320+ holdings cubriendo TODO el sector tech, es MUY PROBABLE que otros nombres del usuario (QCOM, MRVL, ADBE, ORCL, CRWD, NOW, CDNS, SNPS, ARM) tambien esten presentes mas abajo en la lista, aunque esto NO se verifico con el listado completo de holdings en esta sesion - el overlap real del fondo COMPLETO podria ser aun mayor que el 57.73% calculado solo del top10.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "El drawdown de -54.6% (fila 41) es severo, consistente con un fondo tech puro en eventos de aversion al riesgo growth/tech (2008, 2022).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 38.30x - caro, similar a VUG (36.65x), aunque menos extremo que SOXX (47.6x)/SMH (44.7x). NO SE VERIFICO el percentil historico propio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.36% - bajo, similar a VUG (0.38%), consistente con un fondo growth/tech de reinversion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - VGT es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "COMPARACION CON SOXX/SMH (ya analizados en este workbook, fondos de semiconductores dentro del universo mas amplio que VGT cubre) y VUG (fondo hermano, mismo emisor/dia de lanzamiento): VGT es MAS BARATO en TER que SOXX/SMH (0.09% vs 0.34-0.35%) y MAS DIVERSIFICADO internamente (320+ holdings vs 26-34), con MEJOR track record que SOXX (15.16% vs 14.10%) aunque PEOR que SMH (28.92%). Frente a VUG (mismo dia de lanzamiento/emisor): VGT tiene MEJOR track record (15.16% vs 12.30%) y MEJOR Sharpe (0.74 vs 0.55), aunque comparte un perfil de overlap similarmente masivo con la cartera del usuario.\n\n**ACTUALIZACION RETROACTIVA - COMPARACION CON XLK** (Technology Select Sector SPDR Fund, analizado despues en este workbook, fila 26): XLK es ligeramente mas barato en TER (0.08% vs 0.09%), mucho mas liquido ($681M/dia vs $280.5M/dia) y tiene un historial mas largo (27.7 vs 22.5 anios, incluyendo el crash punto-com que VGT no vivio por haber nacido en 2004) - PERO VGT esta MENOS concentrado (320+ holdings vs 76 de XLK, top10 59.87% vs 61.57%) y tiene un overlap LIGERAMENTE MENOR (57.73% vs 59.03%). Ambos cubren esencialmente la misma tesis de tecnologia amplia para este usuario - la eleccion es marginal, VGT gana en diversificacion interna, XLK gana en costo/liquidez/historial.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: dado el overlap masivo (~58%+ del top10, probablemente mayor incluyendo el resto de holdings), VGT practicamente duplica gran parte de la cartera de tech del usuario - aunque tiene la ventaja de ser mas diversificado internamente (320+ nombres vs 26-34 de SOXX/SMH) y mas barato en TER, el valor incremental para ESTE usuario sigue siendo cuestionable dado el nivel de convicciones individuales ya tomadas en el sector tecnologico.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion de bajo costo a TODO el sector de Information Technology (no solo semiconductores), incluyendo software/servicios IT que SOXX/SMH no cubren directamente - aunque el peso principal del fondo sigue siendo hardware/semis dado el tamano dominante de NVIDIA/Apple/Microsoft.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap masivo con posiciones individuales del usuario (~58%+ del top10, probablemente mayor); (2) concentracion sectorial extrema (95% tech); (3) valoracion cara (P/E 38.3x); (4) beta alto (1.35); (5) drawdown historico severo (-54.6%); (6) mismo riesgo estructural de 'apuesta a un solo sector' que el resto de fondos tech del proyecto, pese a la mayor diversificacion interna.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SOXX/SMH (ya analizados, semis puro, mas caros en TER, mas concentrados internamente pero con track record de SMH superior); VUG (fondo hermano, growth diversificado, ya analizado); XLK (Technology Select Sector SPDR, competidor directo mas conocido, no verificado en esta sesion - buen candidato para una comparacion cabeza a cabeza futura).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score ~3.58/5, solido (superior a SOXX 3.06, SMH 3.00, CIBR 3.09, IHAK 3.18 y VUG 3.36) gracias a un TER mucho mas bajo (0.09%), mayor diversificacion interna (320+ holdings) y el MEJOR track record de largo plazo comparando los tres fondos hermanos de Vanguard lanzados el mismo dia (15.16% vs 12.30% de VUG y 9.77% de VTV, en la MISMA ventana de 22.5 anios). Sin embargo, el overlap sigue siendo el problema dominante: 9 de los 10 holdings principales (NVIDIA, Apple, Microsoft, Micron, Broadcom, AMD, Intel, Applied Materials, Cisco) YA estan analizados individualmente por el usuario, sumando ~57.73% del top10 - cerca del record de SMH (61.86%) - y dado que VGT cubre 320+ posiciones de TODO el sector tech (no solo semis), es probable que el overlap REAL del fondo completo sea aun mayor considerando otros nombres del usuario como QCOM, MRVL, ADBE, ORCL, CRWD, NOW, CDNS, SNPS y ARM (presencia no verificada con el listado completo en esta sesion). Para este usuario, VGT es estructuralmente el MEJOR de los ETFs sectoriales de tecnologia del proyecto (mas barato, mas diversificado, mejor Sharpe de largo plazo que SOXX/SMH/VUG), pero sigue sin representar diversificacion incremental real dado el nivel de convicciones individuales ya tomadas en el sector tecnologico en su conjunto."
+  }
+}

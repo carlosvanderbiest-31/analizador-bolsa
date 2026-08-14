@@ -1,0 +1,224 @@
+{
+  "nombre": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+  "ticker": "XOP",
+  "categoria": "Equity Sector (energia E&P/refino, equal-weight)",
+  "emisor": "State Street (SPDR)",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (confirmado por Trackinsight y por la descripcion de la propia State Street: 'invierte en sustancialmente todos los valores del indice en proporciones aproximadamente iguales'). Sin riesgo de contraparte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US. Holdings casi 100% empresas listadas en EEUU (refinadoras y E&P domesticas) - friccion fiscal de dividendos extranjeros minima.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$3.3-3.6bn (stockanalysis.com $3.62bn; Trackinsight EUR3bn=~$3.3bn al 7-ago-2026) - el AUM MAS PEQUENO de los ETFs sectoriales 'grandes' del proyecto (ITA $14.8bn, CIBR $15.4bn, SOXX $47.6bn), solo por encima de IHAK (~$1bn). Riesgo de cierre bajo pero merece nota, no es un fondo 'grande' en terminos absolutos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 19-jun-2006 (~20.1 anios de historial al 2026-08-10) - similar antiguedad a ITA (20.3 anios). Sobrevivio el boom del shale, el colapso de precios de petroleo 2014-2016, la crisis COVID de precios negativos de WTI en abril 2020, y capturo el rally reciente. Historial largo, aunque marcado por un track record de RENTABILIDAD muy pobre en la mayor parte de ese periodo (ver seccion E).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: State Street (SPDR), creadora del primer ETF del mundo (SPY, 1993) - una de las gestoras de ETF mas grandes y establecidas del mercado.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.4
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.35% - moderado, similar a SOXX (0.34%) y ligeramente menor que ITA (0.38%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Metodologia EQUAL-WEIGHT (confirmado) - se infiere rebalanceo trimestral (tipico de los indices 'Select Industry' de S&P/State Street), aunque no se confirmo con precision la cadencia exacta en esta sesion. La naturaleza equal-weight implica rotacion estructuralmente MAYOR que un indice cap-weighted (cada rebalanceo requiere vender ganadores relativos y comprar rezagados para volver a la ponderacion igual).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = 1,253,803 acciones (stockanalysis) x precio ~$173.82 = ~$217.9M/dia negociado - razonablemente liquido pese al AUM mas pequeno del fondo. Cifra VERIFICADA con numero real, a diferencia de varios ETFs anteriores del proyecto donde este dato quedo pendiente.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado con cifra exacta, pero un volumen diario de >$200M sugiere spread razonable para ordenes de tamano normal.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "State Street, gestora enorme con infraestructura robusta, aunque el fondo especifico es mas pequeno que ITA/CIBR/SOXX - se infiere adecuado.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "50-54 holdings segun la fuente (Trackinsight 50, stockanalysis 54) - similar en magnitud a CIBR/IHAK.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 30.29% (stockanalysis), Top 15 = 41.87% (Trackinsight) - LA CONCENTRACION MAS BAJA de todos los ETFs sectoriales/tematicos del proyecto (ITA 76.65%, SOXX 61.14%, CIBR 57.71%, IHAK 46.92%) - resultado DIRECTO de la metodologia equal-weight (a diferencia de todos los demas, que son cap-weighted con distintos topes). Mejor diversificacion por emisor de todo el grupo de nicho.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Energy 90.29% + Finance 5.89% + Non-Energy Materials 4.41% + Industrials 1.28% (Trackinsight) - dominado por energia pero no tan 'puro' al 100% como IHAK/CIBR/SOXX/ITA (~96-100%). Aun asi, es esencialmente una apuesta sectorial unica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 'Primarily USA' (Trackinsight) - sin diversificacion geografica, similar a ITA.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Exposicion CICLICA/COMMODITY pura, PERO con un hallazgo no obvio: pese al nombre del fondo ('Exploration & Production'), el TOP10 real esta dominado por REFINADORAS (PBF Energy, Par Pacific, Delek US, HF Sinclair -DINO-, Valero, Marathon Petroleum -MPC-, Phillips 66 = 7 de 10 nombres, ~22.5% del fondo) mas que por E&P upstream puro (solo Permian Resources, Ovintiv, Texas Pacific Land = 3 de 10, ~7.6%). La tesis real del fondo esta mas ligada al MARGEN DE REFINACION (crack spread) que al precio directo del crudo/gas - relevante porque el usuario ya tiene MPC y DINO analizados individualmente exactamente bajo esa misma tesis de refinadoras.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice S&P Oil & Gas Exploration & Production Select Industry Index: metodologia EQUAL-WEIGHT (a diferencia de TODOS los demas ETFs sectoriales del proyecto, que son cap-weighted con distintos topes de concentracion) dentro del universo de la sub-industria GICS de E&P+refino+equipo relacionado con petroleo y gas de EEUU. La metodologia equal-weight es la razon estructural directa de la menor concentracion observada frente al resto del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "No se confirmo con precision la frecuencia exacta de rebalanceo en esta sesion (tipicamente trimestral para los indices 'Select Industry' de S&P, pero no verificado especificamente para XOP) - pendiente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.14
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (jun-2006, 20.1 anios) = SOLO 2.56% anualizado (stockanalysis.com) - EL PEOR de TODO el proyecto por un margen enorme (ITA 13.09%, SOXX 14.10%, CIBR 16.32%, SCHD 12.70%). Refleja dos decadas marcadas por el colapso de precios del petroleo 2014-2016, la crisis COVID de precios negativos de WTI en abril 2020, y solo una recuperacion fuerte muy reciente (1Y +44.26%, YTD +32.99%). CRITICO: no anclar expectativas en el rally reciente dado el historico de largo plazo tan debil - mismo principio de cautela ya aplicado a MU en el proyecto de acciones (ciclo de commodities, ver [[stock_analysis_methodology]]).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada ~33.21% segun un agregador (fuente unica, sin verificar con precision exacta, pero cualitativamente muy coherente con un sector de commodities altamente ciclico) - la SEGUNDA MAS ALTA del proyecto despues de SOXX (~37%).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Maximo Drawdown = -90.27% DESDE INCEPTION segun un agregador (fuente unica, SIN verificacion independiente de precision exacta, PERO extremadamente coherente con la historia bien documentada del sector: el colapso de precios de petroleo/gas 2014-2020 destruyo o diluyo masivamente a la mayoria de las empresas de E&P de pequena-mediana capitalizacion). ES EL DRAWDOWN MAS SEVERO DE TODO EL PROYECTO CON GRAN DIFERENCIA (el anterior peor registrado era SOXX con ~-46%).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: cifras dispares segun ventana - '-0.15 actual' (probablemente ventana muy corta, poco representativa) vs '0.5 a 3 anios' (mas estable, aunque igual mediocre frente al 1.2 de SPY citado en la misma fuente de comparacion). A diferencia de los casos de Sharpe verdaderamente irreconciliable de VYMI/IHAK/CIBR/SOXX, aqui AMBAS cifras (pese a ser de ventanas distintas) apuntan consistentemente en la MISMA direccion: un perfil riesgo/retorno historicamente pobre, coherente con el CAGR desde inception de solo 2.56% y el drawdown de -90%.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.55 (stockanalysis) - sorprendentemente BAJO en terminos relativos al mercado para un sector tan volatil en terminos ABSOLUTOS (volatilidad 33%); esto refleja baja correlacion con el ciclo economico general del S&P500 (el precio del petroleo/gas responde a dinamicas globales de oferta-demanda distintas al ciclo bursatil US), NO que el sector sea de bajo riesgo en terminos absolutos. OVERLAP MODERADO: Marathon Petroleum (MPC, 2.86%) y HF Sinclair (DINO, 3.14%) YA estan analizados individualmente en el Dashboard de acciones del usuario, sumando 6.0% del fondo - mucho menor que CIBR (31%) o SOXX (53%), mas cercano al nivel de IHAK (~9%). El overlap NO es el problema dominante de este ETF (a diferencia de CIBR/SOXX), el problema es el perfil de riesgo estructural del sector mismo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "El drawdown de -90% desde inception (fila 41) YA documenta la severidad extrema vivida en el ciclo bajista de petroleo/gas 2014-2020 - el peor comportamiento en crisis de cualquier ETF del proyecto.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 14.54x - EL MAS BARATO DE TODO EL PROYECTO (mas barato incluso que VYMI 13.46x en terminos relativos al perfil de riesgo, y dramaticamente mas barato que SOXX 47.6x/ITA 39.5x/CIBR 33.9x). PERO esto es tipico de sectores de energia/commodities en el PICO de un ciclo de utilidades (margenes de refinacion altos = utilidades altas = P/E bajo aunque el precio de la accion tambien haya subido fuerte) - un P/E bajo en un sector ciclico que acaba de subir +44% en 1Y no equivale necesariamente a 'barato' en terminos ajustados por ciclo. Mismo gotcha de 'commodity en pico de ciclo' ya documentado con MU en el proyecto de acciones (ver [[stock_analysis_methodology]]) - NO SE VERIFICO el percentil historico propio del P/E de XOP.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 1.87-1.95% (dos fuentes cercanas) - el MAS ALTO de los ETFs de nicho/tematicos del proyecto (ITA 0.42%, CIBR 0.39%, SOXX 0.27%, IHAK 0.07%), aunque menor que SCHD (3.1%) o VYMI (3.45%) - refleja que las empresas de energia maduras (especialmente refinadoras) tienden a repartir mas caja que las de crecimiento tecnologico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - XOP es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Competidores directos: XLE (Energy Select Sector SPDR, CAP-WEIGHTED, mucho mas concentrado en integradas grandes tipo ExxonMobil/Chevron en vez de E&P/refino de mediana capitalizacion - perfil de riesgo estructuralmente distinto, historicamente menos volatil que XOP), PXE, FCG (enfoque en gas natural). NO verificado con fuente primaria en esta sesion. XOP se distingue de XLE por su enfoque equal-weight en empresas de mediana capitalizacion, con mayor beta al ciclo especifico de exploracion-produccion-refino que las integradas grandes de XLE.\n\n**ACTUALIZACION RETROACTIVA - COMPARACION VERIFICADA CON XLE** (Energy Select Sector SPDR Fund, analizado despues en este workbook, fila 27, con datos propios en vez de solo la hipotesis original): CONFIRMADO - XLE es mucho mas barato en TER (0.08% vs 0.35% de XOP), mas de 10x mayor en AUM, muchisimo mas liquido (record del proyecto, $1.23bn/dia vs $217.9M/dia de XOP), y tiene un retorno historico muy superior (8.90% vs 2.56% anualizado en sus respectivas ventanas de 27.7 y 20.1 anios) con un drawdown menos severo (-71.26% vs -90.27%). La hipotesis original (metodologia cap-weighted en integradas grandes vs equal-weight en E&P mediano) queda confirmada con datos reales: XLE es objetivamente superior a XOP en casi toda dimension para este usuario, aunque XOP mantiene un overlap ligeramente menor y captura de forma mas pura el tema especifico de margenes de refinacion/E&P mediano que XLE diluye dentro de las supermajors integradas.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol sugerido: TACTICO puro (apuesta ciclica de commodities de alta conviccion y timing), NO una posicion de largo plazo tipo 'comprar y mantener' dado el track record historico muy pobre (2.56% anualizado en 20 anios) y el drawdown extremo (-90%). El PEOR candidato a Core o incluso Satelite permanente de todo el proyecto. El overlap moderado con MPC+DINO (6%) NO es el problema principal aqui - el problema es el perfil de riesgo estructural del sector mismo a lo largo de ciclos completos.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion apalancada al ciclo de precios de petroleo/gas y a los margenes de refinacion (crack spreads), con el hallazgo no obvio de que el fondo esta mas inclinado a refino que a E&P puro pese al nombre. Vientos de cola posibles: disciplina de capital de la industria desde 2020 (tras la crisis) limitando la oferta, demanda energetica global sostenida. Vientos en contra estructurales: transicion energetica de largo plazo, historial de destruccion de capital de la industria en el ciclo 2014-2020.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) HISTORIAL DE RENTABILIDAD MUY POBRE a 20 anios (2.56% anualizado, el peor del proyecto); (2) drawdown historico EXTREMO (-90%, el peor del proyecto con gran diferencia) - riesgo real de repeticion si el ciclo de precios de energia vuelve a girar a la baja; (3) volatilidad muy alta (~33%); (4) riesgo de transicion energetica estructural de largo plazo que podria limitar el crecimiento terminal del sector; (5) el rally reciente (+44% 1Y) puede estar cerca de un pico de ciclo de margenes, no al inicio de uno nuevo; (6) overlap moderado con MPC y DINO ya en cartera individual (6%, riesgo menor que otros ETFs del proyecto pero real).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "XLE (mas grande, cap-weighted, mas concentrado en integradas grandes, historicamente menos volatil que XOP), PXE y FCG como alternativas no verificadas en esta sesion. Para un inversionista que quiera exposicion a energia con menor volatilidad, XLE seria la comparacion cabeza a cabeza mas relevante a analizar en el futuro.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score ~3.09/5 (similar a CIBR/SOXX), pero por razones DISTINTAS a ambos: el overlap con la cartera individual del usuario es MODESTO (MPC+DINO, solo 6.0% del fondo, no el problema dominante), y la valoracion nominal es la MAS BARATA de todo el proyecto (P/E 14.54x). El motivo real de cautela es el PERFIL DE RIESGO ESTRUCTURAL DEL SECTOR a lo largo de ciclos completos: retorno anualizado desde inception de apenas 2.56% en 20 anios (el peor del proyecto), un drawdown historico de -90% (el peor del proyecto con gran diferencia) y volatilidad ~33% (la segunda mas alta). El P/E bajo actual probablemente refleja margenes de refinacion en el PICO del ciclo (tras un rally de +44% en 12 meses) - un clasico 'value trap' de commodities donde un multiplo bajo en el pico de utilidades ciclicas no equivale a valor real, mismo patron de cautela ya aplicado a MU en el proyecto de acciones. Hallazgo no obvio adicional: pese al nombre 'Exploration & Production', el top10 real esta dominado por REFINADORAS (PBF, Par Pacific, Delek, HF Sinclair, Valero, Marathon Petroleum, Phillips 66 = 7 de 10 nombres) mas que por E&P upstream puro - la tesis real es sobre margenes de refinacion (crack spread), no sobre el precio directo del crudo. Si se considera este ETF, tratarlo explicitamente como TACTICO (apuesta de ciclo con timing activo), nunca como posicion de largo plazo tipo Core, dado el historial de dos decadas."
+  }
+}

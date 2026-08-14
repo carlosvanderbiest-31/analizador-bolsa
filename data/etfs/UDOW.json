@@ -1,0 +1,227 @@
+{
+  "nombre": "ProShares UltraPro Dow30",
+  "ticker": "UDOW",
+  "categoria": "Equity Indice Amplio Apalancado/Inverso (+3x diario sobre el Dow Jones Industrial Average via swaps - PRIMER instrumento apalancado del proyecto sobre un INDICE DE ACCIONES en vez de un commodity, y PRIMER +3x del proyecto -el resto de la categoria era 2x-)",
+  "emisor": "ProShares",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica SINTETICA via swaps con SEIS contrapartes bancarias nombradas (Bank of America, Barclays, Societe Generale, Citibank, BNP Paribas, UBS) mas algunas holdings directas (Goldman Sachs, Caterpillar, Microsoft) - la estructura de contraparte MAS COMPLEJA de todo el proyecto (supera a UCO, 4 bancos).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US (ProShares Trust II). Genera formulario fiscal K-1 - misma complejidad fiscal que el resto de la linea apalancada de ProShares.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $944.80M - **EL MAS GRANDE de los ocho instrumentos apalancados/inversos del proyecto** (supera a UCO ~$375-431M y se acerca a SCO ~$744M-1.14bn).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 9/11-feb-2010 (~16.5 anios) - dentro del rango medio de la categoria apalancada del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor ProShares - OCTAVA aparicion de la linea apalancada/inversa del proyecto (tras KOLD/ZSL/SCO/BOIL/UGL/AGQ/UCO), **PRIMERA vez sobre un indice de ACCIONES en vez de un commodity individual**.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.95% - identico al resto de la linea apalancada de ProShares.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Decay presente pero ENMASCARADO por una tendencia alcista extraordinaria: el CAGR desde inception es +26.91% (ver fila 39), PERO una fuente documenta evidencia directa de decay real - 'drift promedio historico de -2.38% en periodos de 12 meses' - confirmando que el mecanismo de decay diario SIGUE erosionando el resultado esperado ingenuo de 3x, incluso durante la tendencia alcista de fondo del mercado accionario de EEUU.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rotacion DIARIA de la exposicion sintetica via swaps al indice Dow30 - misma mecanica de rebalanceo diario que el resto de la categoria apalancada.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~1.34M acciones/dia (~$100.6M/dia al precio actual $75.10) - solido, dentro del rango medio-alto de la categoria apalancada del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "ProShares - profundidad de Authorized Participants adecuada para la categoria.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "42 holdings (via swaps referenciando los 30 componentes del Dow mas exposicion directa a algunos nombres) - a diferencia de los commodities single-asset del proyecto, aqui SI hay una base subyacente diversificada por diseno (30 blue-chips), aunque el apalancamiento 3x sigue dominando el perfil de riesgo real del vehiculo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Concentracion Top 10 holdings (%)",
+      "aspectos": [
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "El Dow Jones Industrial Average tiene composicion diversificada por diseno (30 blue-chips de distintos sectores), aunque el fondo amplifica esa canasta 3x, concentrando el riesgo de valoracion agregado del indice.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US (Dow Jones Industrial Average).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Metodologia +3x diario sobre un indice PONDERADO POR PRECIO (no por capitalizacion de mercado como el S&P 500) - primera vez en el proyecto con esta metodologia de ponderacion como base, aunque distorsionada por el apalancamiento 3x del vehiculo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Dow Jones Industrial Average, +3x diario via swaps - benchmark transparente y conocido, aunque el vehiculo en si (3x apalancado) es deliberadamente NO representativo de una exposicion pasiva simple al indice.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo DIARIO para mantener el objetivo +3x - **EL NIVEL DE APALANCAMIENTO MAS ALTO de todo el proyecto** (3x vs 2x del resto de la categoria apalancada), fuente de decay potencialmente mas severa en periodos adversos.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.6
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = **+65.09%** (extraordinario). Retorno desde inception (16.5 anios) = **+26.91% CAGR - EL MEJOR CAGR de CUALQUIER instrumento apalancado/inverso analizado en todo el proyecto** (supera incluso a UGL, +12.44%), reflejo de la fortaleza sostenida del mercado accionario de EEUU amplificada 3x - el ejemplo MAS EXTREMO del proyecto de 'decay + direccion correcta = ganancia amplificada'.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad: rango de 52 semanas $46.06-$79.26 (ratio 1.72x) - relativamente CONTENIDA para un producto 3x apalancado, **LA MENOS EXTREMA de TODA la categoria apalancada del proyecto** (KOLD 3.7x, SCO 3.68x, BOIL 5.09x, UGL 2.63x, AGQ 8.68x, ZSL 16.76x, UCO 2.92x) pese a tener el mayor apalancamiento nominal - refleja que el Dow30 en si es menos volatil que los commodities individuales del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero la evidencia de 'drift negativo -2.38% en periodos de 12 meses' (fila 19) sugiere drawdowns reales en tramos bajistas/laterales del mercado que no se reflejan en el resultado favorable del periodo actual.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "Sharpe / Sortino ratio",
+      "aspectos": [
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = **2.61 vs S&P 500 - EL UNICO beta claramente >1 medido directamente en la categoria apalancada del proyecto** (por diseno, +3x sobre un indice de acciones altamente correlacionado con el mercado amplio, a diferencia de los commodities cuyo beta era bajo/negativo/no significativo). Overlap verificado: Caterpillar (CAT, 4.63% del fondo) tiene verdict **NO COMPRAR - VALORACION QUE ASUME CONTINUIDAD DEL SUPERCICLO DE IA** (mismo hallazgo ya visto en VYM); Microsoft (MSFT, 2.75%) tiene verdict individual entre los mas altos del proyecto de acciones (Score 3.86).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Comportamiento en crisis pasadas no verificado con detalle especifico esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Sin competidor +3x directo sobre el Dow de otro emisor identificado esta sesion. SDOW (mismo emisor ProShares, -3x CORTO sobre el mismo indice) seria el espejo direccional opuesto, no analizado en el workbook. Exposicion 1x simple al Dow (sin apalancamiento) seria la alternativa logica sin decay amplificado. | ACTUALIZACION posterior (SDOW, fila 94): ahora con datos propios verificados, SDOW confirma ser el espejo direccional exacto (mismo indice, misma fecha de inception 9-feb-2010) con el resultado opuesto mas extremo del proyecto - CAGR desde inception de SDOW -38.46% a -37.99% vs +26.91% de UDOW, una brecha de ~65 puntos porcentuales anualizados, la mas grande de cualquier par direccional del proyecto. Ver Ficha SDOW fila 50 para el detalle completo. | ACTUALIZACION posterior (SPXL, fila 101): Direxion Daily S&P 500 Bull 3X Shares, mismo +3x pero sobre el S&P 500 en vez del Dow30, emisor distinto (Direxion vs ProShares). CAGR desde inception +27.90% (SPXL) vs +26.91% (UDOW) - muy cercano en magnitud pese a indices distintos, aunque con ventanas de inception tambien distintas (SPXL nov-2008, UDOW feb-2010). Score SPXL 3.16 supera a UDOW 2.75. Ver Ficha SPXL fila 101 para el detalle completo. | ACTUALIZACION posterior (DIA, fila 108): el BASELINE 1x del Dow30 que faltaba, ahora analizado en el workbook - completa la escalera 1x DIA / +3x UDOW / -3x SDOW. DIA es Unit Investment Trust -UIT-, igual estructura que SPY, y PRIMER fondo ponderado por PRECIO -no capitalizacion- del proyecto - un defecto metodologico documentado con costo cuantificado -10Y +186.7% vs ~+314.79% de trackers del S&P 500-. Score DIA 2.91, el mas bajo del cluster de indices amplios del proyecto. Ver Ficha DIA fila 108 para el detalle completo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **TACTICO/ESPECULATIVO DE MUY CORTO PLAZO** - mismo tratamiento categorico que el resto de la linea apalancada del proyecto (KOLD-UCO), PESE al resultado historico extraordinario (+26.91% CAGR). El excelente resultado refleja haber estado del lado correcto del mercado alcista mas fuerte del periodo, no una propiedad estructural segura del instrumento.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: el resultado extraordinario (+26.91% CAGR desde 2010) refleja haber estado LARGO durante el mercado alcista de acciones EEUU mas fuerte y sostenido analizado en todo el proyecto - NO es evidencia de que el instrumento sea seguro para mantener a largo plazo. Una correccion o mercado lateral revertiria las ganancias con la misma velocidad de decay ya documentada en el resto de la categoria apalancada (ver BOIL, ZSL).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) apalancamiento 3x, EL MAS ALTO de todo el proyecto (vs 2x del resto de la categoria) - decay potencialmente MAS SEVERO en periodos adversos, actualmente enmascarado por la tendencia alcista sostenida; (2) riesgo de contraparte con SEIS bancos nombrados, la estructura mas compleja del proyecto; (3) complejidad fiscal K-1; (4) overlap severo via CAT (NO COMPRAR-superciclo IA); (5) el resultado historico extraordinario depende enteramente de haber acertado la direccion, no es una propiedad estructural segura del instrumento.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SDOW (fila 94) ahora tambien analizado con datos propios - el peor resultado del par, ver comparacion completa en su Ficha. Exposicion 1x simple al Dow (sin apalancamiento) sigue siendo la alternativa sin decay amplificado.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.75/5 - el MAS ALTO de los ocho instrumentos apalancados/inversos del proyecto (KOLD 2.35 a UGL 2.65), pero sigue firmemente por debajo del umbral de 3.0. ProShares UltraPro Dow30: +3x diario sobre el Dow Jones Industrial Average via swaps con SEIS bancos nombrados (Bank of America, Barclays, Societe Generale, Citibank, BNP Paribas, UBS) - la estructura de contraparte mas compleja del proyecto. PRIMER instrumento apalancado del proyecto sobre un INDICE DE ACCIONES (no un commodity) y PRIMER +3x (el resto de la categoria era 2x) - el nivel de apalancamiento mas alto analizado. El CAGR desde inception (16.5 anios, desde 2010) es +26.91% - EL MEJOR de cualquier instrumento apalancado/inverso del proyecto, incluso mejor que UGL (+12.44%) - reflejo de haber estado del lado LARGO durante el mercado alcista de acciones de EEUU mas fuerte y sostenido del periodo. Retorno 1Y = +65.09%. PERO el decay estructural sigue presente y documentado: evidencia de un 'drift negativo promedio de -2.38% en periodos de 12 meses', confirmando que el mecanismo de rebalanceo diario erosiona el resultado esperado ingenuo de 3x incluso durante la tendencia alcista de fondo - simplemente ha sido superado por la magnitud del rally subyacente, mismo patron ya visto con UGL/BOIL pero llevado al extremo con el apalancamiento 3x. El resultado extraordinario NO es evidencia de seguridad estructural: una correccion o mercado lateral revertiria las ganancias con la misma velocidad de decay ya documentada en el resto de la categoria. Overlap severo confirmado via Caterpillar (CAT, 4.63% del fondo, NO COMPRAR - superciclo IA, mismo hallazgo ya visto en VYM). Unico uso legitimo: cobertura tactica o apuesta direccional alcista de trading de muy corto plazo sobre el Dow30 - nunca como posicion Core o Satelite del portafolio. SDOW (mismo emisor, -3x corto) es el espejo direccional opuesto, no analizado. Con este octavo caso, el patron de decay compuesto por rebalanceo diario se extiende por primera vez de commodities a indices de acciones."
+  }
+}

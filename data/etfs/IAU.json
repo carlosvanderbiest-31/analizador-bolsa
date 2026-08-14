@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares Gold Trust",
+  "ticker": "IAU",
+  "categoria": "Materias Primas Fisico 1x (oro fisico en boveda, TRECEAVO instrumento de materias primas del proyecto, competidor directo de SGOL -fila 84-: mismo commodity/benchmark LBMA Gold Price, mas caro pero MUCHO mas grande/liquido y con mejor CAGR historico, emisor BlackRock)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA: 100% oro fisico en boveda, custodio JPMorgan Chase - Trust (no registrado como investment company bajo la Investment Company Act de 1940), SIN futuros, SIN swaps, SIN apalancamiento, misma estructura limpia que SGOL (fila 84).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, estructura Trust - sin K-1, sujeto al mismo tratamiento fiscal de 'collectible' en EEUU que SGOL/SIVR/SLV.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $60.50bn - **EL MAS GRANDE de TODOS los trece instrumentos de materias primas del proyecto por un margen enorme** (mas del doble de SLV, $28.60bn; casi 9x SGOL, $6.82bn), uno de los AUM mas grandes de todo el proyecto incluyendo el cluster de acciones.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 21-ene-2005 (~21.5 anios) - **EL MAS ANTIGUO de TODOS los trece instrumentos de materias primas del proyecto** (incluso mas que SLV/USO, ambos abril-2006), captura mas del ciclo alcista temprano del oro de mediados de la decada de 2000.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - **VIGESIMOSEXTA aparicion en el proyecto**, segunda vez en la categoria de metales fisicos (tras SLV).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.25% - entre SGOL (0.17%, el mas barato del proyecto) y SLV (0.50%), notablemente mas barato que la mayoria de la categoria de materias primas del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Sin contango, sin costo de roll de futuros, sin swaps - tracking difference deberia mantenerse cercano al TER nominal (0.25%), estructuralmente solido.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~3.45M acciones/dia (~$283.4M/dia al precio actual $82.14) - **MUCHO mas liquido que SGOL** (~$41M/dia), aunque por debajo de SLV (~$681.6M/dia).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion; se infiere ajustado dada la liquidez notable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de PRIMER NIVEL.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Numero de holdings y diversificacion",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion Top 10 holdings (%)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion geografica",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "aspectos": [
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Sigue el LBMA Gold Price, misma metodologia simple y transparente que SGOL/SLV.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "Reglas y frecuencia de rebalanceo del indice",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = **+28.18%** (practicamente identico a SGOL, +28.93%, mismo commodity subyacente). Retorno desde inception (21.5 anios) = **+11.08% CAGR - EL MAS ALTO de los TRES metales fisicos del proyecto** (SGOL +8.83%, SLV +7.73%), pese a NO ser el mas barato de los tres - explicado por la ventana de inicio mas temprana (2005 vs 2009 de SGOL) que capturo mas del bull run temprano del oro previo a la Crisis 2008.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad: rango de 52 semanas $62.48-$104.40 (ratio 1.67x) - **IDENTICO a SGOL**, consistente con seguir el mismo commodity y benchmark, la menos extrema de toda la categoria de materias primas del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el perfil de riesgo deberia ser practicamente identico a SGOL dado que ambos siguen el mismo LBMA Gold Price.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Sharpe / Sortino ratio",
+      "aspectos": [
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.18 - **IDENTICO a SGOL**, el mas bajo de los metales fisicos del proyecto, consistente con el rol clasico del oro como activo refugio.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION DIRECTA CON SGOL (fila 84, ya en el workbook)**: IAU es mas caro (0.25% vs 0.17%) pero tiene CAGR desde inception MAYOR (+11.08% vs +8.83%, por la ventana de inicio 4 anios mas temprana que capturo mas del bull run del oro pre-2008) y es MUCHO mas grande/liquido (AUM 9x mayor, volumen 7x mayor). A DIFERENCIA del caso SIVR/SLV del proyecto (donde el fondo mas barato -SIVR- tenia mejor CAGR que el mas caro -SLV-), aqui el fondo mas caro (IAU) gana en AMBAS dimensiones simultaneamente: escala/liquidez Y resultado historico compuesto. GLD (SPDR Gold Shares, el mayor ETF de oro del mundo, no analizado en el workbook) seria el tercer comparable relevante del espacio. | ACTUALIZACION posterior (GLD, fila 86): ahora con datos propios verificados, GLD confirma ser el MAS CARO de los tres ETFs de oro fisico del proyecto (TER 0.40% vs 0.25% IAU vs 0.17% SGOL) Y tener el CAGR desde inception MAS BAJO de los tres (+10.65% vs +11.08% IAU vs +8.83% SGOL) pese a ser el mas antiguo - a diferencia del patron IAU/SGOL, aqui GLD paga el TER mas alto SIN compensar con mejor CAGR. Su ventaja real es ser por mucho el mas grande (2x IAU) y liquido (9x IAU en volumen USD), relevante sobre todo para operadores institucionales. Para el inversor individual, IAU sigue pareciendo la opcion mas eficiente del trio. Ver Ficha GLD fila 50 para el detalle completo.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **Satelite**, mismo tratamiento que SGOL/SIVR/SLV, con la ventaja adicional de ser el vehiculo de oro fisico mas grande, liquido y con el track record mas largo del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: misma que SGOL (activo refugio/cobertura de inflacion, baja volatilidad relativa dentro del cluster de materias primas del proyecto), con la ventaja del track record MAS LARGO del proyecto (21.5 anios, capturando mas ciclos completos del oro incluyendo el rally pre-2008) y el MEJOR CAGR historico compuesto de los tres metales fisicos analizados.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: mismos que SGOL - (1) volatilidad del oro, contenida pero real; (2) tratamiento fiscal de 'collectible' en EEUU; (3) riesgo de custodia fisica (bajo, JPMorgan); (4) single-commodity, cero diversificacion; (5) sin flujo de caja. TER algo mas alto que SGOL, aunque compensado por el mejor CAGR historico.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SGOL (fila 84, mismo commodity, mas barato pero menor CAGR historico, ya en el workbook) es la alternativa mas directa. GLD (SPDR, el mayor ETF de oro del mundo) tambien relevante, no analizado en el workbook. GLD (fila 86) ahora tambien analizado - el mas caro y con peor CAGR de los tres pese a ser el mas grande/liquido, ver comparacion completa en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL (rol Satelite, no Core). Score 4.10/5 - **EL MAS ALTO de TODOS los trece instrumentos de materias primas del proyecto**, superando a SGOL (3.81), SLV (3.71) y SIVR (3.62), y comparable a los mejores ETFs diversificados de todo el proyecto (ej. SCHD 4.03). iShares Gold Trust: 100% oro fisico en boveda custodiada por JPMorgan, Trust sin futuros/swaps/apalancamiento - misma estructura limpia que SGOL, mismo benchmark LBMA Gold Price. IAU es mas caro que SGOL (TER 0.25% vs 0.17%) pero tiene un CAGR desde inception NOTABLEMENTE MAYOR (+11.08% vs +8.83%, por una ventana de inicio 4 anios mas temprana -2005 vs 2009- que capturo mas del bull run temprano del oro previo a la Crisis 2008) y es MUCHO mas grande/liquido (AUM $60.50bn, 9x SGOL; volumen ~$283.4M/dia, 7x SGOL). A diferencia del caso SIVR/SLV del proyecto (donde el fondo mas barato -SIVR- tenia mejor CAGR que el mas caro -SLV-), aqui el fondo mas caro (IAU) gana en AMBAS dimensiones simultaneamente: escala/liquidez Y resultado historico compuesto - un caso genuinamente mas favorable que el paralelo en plata. EL MAS ANTIGUO de los trece instrumentos de materias primas del proyecto (21.5 anios, desde ene-2005), captura mas ciclos completos del oro que cualquier otro vehiculo analizado. Volatilidad (rango 52 semanas ratio 1.67x) identica a SGOL, la mas contenida de la categoria. Retorno 1Y = +28.18%. Sigue sin calificar como Core: single-commodity sin diversificacion, tratamiento fiscal 'collectible', sin flujo de caja. Se actualizo retroactivamente la Ficha de SGOL con esta comparacion. GLD (SPDR, el mayor ETF de oro del mundo) seria el tercer comparable relevante del espacio, no analizado en el workbook."
+  }
+}

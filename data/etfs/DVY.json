@@ -1,0 +1,226 @@
+{
+  "nombre": "iShares Select Dividend ETF",
+  "ticker": "DVY",
+  "categoria": "Equity Tematico/Factor (dividendo/valor, 100% US, criterio de SOSTENIBILIDAD de dividendo -cobertura, EPS no negativo-, tercer competidor directo de SCHD -fila 5- y NOBL -fila 87-, el mas antiguo de los tres cubriendo la Crisis 2008 directamente)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA, indice ponderado por dividendo/yield (Dow Jones U.S. Select Dividend), 105 holdings.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% acciones US - sin retencion de dividendos extranjeros ni complejidad fiscal adicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $23.77bn - solido, mayor que NOBL ($11.90bn) pero MENOR que SCHD (~$105bn).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 3-nov-2003 (~22.75 anios) - **EL MAS ANTIGUO de los tres competidores de dividendo del proyecto** (SCHD 14.8, NOBL 12.8), cubre la Crisis Financiera 2008 DIRECTAMENTE desde antes de su inicio.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - multiple aparicion ya consolidada en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.4
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.38% - similar a NOBL (0.35%), notablemente MAS CARO que SCHD (0.06%, ~6.3x).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL con reconstitucion ANUAL. Screening de SOSTENIBILIDAD de dividendo (cobertura de dividendo 5 anios >=167%, EPS trailing 12m no negativo, 5 anios consecutivos de pago, market cap flotante minimo $3bn) - criterio distinto de NOBL (25+ anios consecutivos de crecimiento) y SCHD (composite score).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~252K acciones/dia - MENOR en conteo de acciones que SCHD/NOBL, aunque el AUM grande sugiere baja rotacion de inversores mas que mala liquidez.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "105 holdings - similar a SCHD (103), MAS que NOBL (70).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = **18.86% - MUCHO MENOR que SCHD (41.3%)**, similar en magnitud a NOBL (16.2%) - buena diversificacion por posicion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sin cifra sectorial exacta verificada esta sesion, pero el top10 (T. Rowe Price, Prudential, Altria, HP Inc, Pfizer, Verizon, ONEOK, Edison International, Ford, Kimberly-Clark) sugiere concentracion en sectores defensivos/value tradicionales -financieras, utilities, telecom, consumo basico-, en espiritu similar a SCHD.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US - mismo perfil que SCHD y NOBL, sin diversificacion internacional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Factor value/dividendo con criterio de SOSTENIBILIDAD (cobertura de dividendo, EPS no negativo) mas que crecimiento consecutivo (NOBL) o composite score de fundamentales (SCHD) - un tercer enfoque de screening distinto dentro del cluster de dividendos del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Dow Jones U.S. Select Dividend - metodologia transparente con criterios cuantitativos claros y verificables.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral, reconstitucion anual, reglas de elegibilidad claras y cuantitativas.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +23.73% (entre NOBL +15.62% y SCHD +31.31%). Retorno desde inception (22.75 anios) = **+9.05% CAGR - MENOR que SCHD (+12.7%) y NOBL (+10.88%)**, pero explicado por la ventana MUCHO mas larga que SI incluye la Crisis 2008 completa (ni SCHD ni NOBL la cubren directamente).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad = 11.31% (cifra plausible) - una fuente alternativa reporto 3.63%, claramente implausible para un ETF de renta variable y DESCARTADA (mismo gotcha recurrente ya documentado extensamente en el proyecto).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = **-62.59% desde inception - EL PEOR de los tres competidores de dividendo del proyecto** en terminos nominales (SCHD -33.4%, NOBL -35.43%), explicado DIRECTAMENTE por la ventana mucho mas larga que SI incluye la Crisis 2008 completa - no un problema de calidad del fondo sino de periodo medido.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 2.11-2.14 (cifra reciente) - **FUERTE, MEJOR que SPY** (1.81) en el periodo medido.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.68-0.78 (discrepancia menor entre fuentes) - moderadamente defensivo, en linea con SCHD (0.69). Overlap verificado: 3 de los top10 tienen cobertura individual en el proyecto de acciones - Verizon/VZ (MANTENER-ESPERAR MEJOR ENTRADA, Score 3.16), Ford/F (MANTENER-ESPERAR, Score 2.78, debil), Altria/MO (**COMPRAR CON CAUTELA**, Score 3.38, MS +15.8%) - overlap MIXTO, sin senales severas de NO COMPRAR, incluye un verdict individual positivo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Cubre la Crisis 2008 DIRECTAMENTE (ver Max Drawdown, fila 41) - track record mas largo y probado de los tres competidores de dividendo del proyecto, unico que incluye un ciclo bajista severo completo en su propia historia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = **14.93x - EL MAS BARATO de los tres competidores de dividendo del proyecto** (SCHD 17.6x, NOBL 21.4x), refleja un sesgo de valor mas profundo que ambos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = **3.23% - EL MAS ALTO de los tres competidores de dividendo del proyecto** (SCHD 3.1%, NOBL 2.0%). Distribucion trimestral.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION A TRES BANDAS con SCHD (fila 5) y NOBL (fila 87), ambos ya en el workbook**: DVY tiene el P/E MAS BARATO (14.93x) y el yield MAS ALTO (3.23%) del trio, el track record MAS LARGO (22.75 anios, unico que cubre la Crisis 2008 directamente), y buen Sharpe reciente (2.11-2.14, mejor que SPY). Su TER (0.38%) es similar a NOBL pero mucho mas caro que SCHD (0.06%). CAGR desde inception el mas bajo del trio (+9.05%), pero explicado por la ventana mas larga y dura, no por peor calidad. Overlap moderado con posiciones individuales del usuario (VZ, F, MO) similar en naturaleza al ya documentado en SCHD (KO, PEP, VZ, MRK, CVX). | ACTUALIZACION posterior (DGRO, fila 89): cuarto competidor del cluster, Score levemente menor que DVY (3.59 vs 3.63), pero mucho mas diversificado (397 vs 105 holdings), TER mucho mas bajo (0.08% vs 0.38%) y mejor CAGR (+12.63% vs +9.05%) - a cambio de yield mas bajo (1.85% vs 3.23%) y P/E mas caro (22.21x vs 14.93x). Ver Ficha DGRO fila 50. | ACTUALIZACION posterior (VIG, fila 90): quinto competidor, TER mas bajo que DVY (0.04% vs 0.38%) y AUM mucho mayor, pero yield mucho menor (1.46% vs 3.23%) y overlap severo via AVGO -NO COMPRAR-. Score 3.34, menor que DVY (3.63). Ver Ficha VIG fila 50. | ACTUALIZACION posterior (HDV, fila 91): sexto competidor con perfil similar en yield (3.03% vs 3.23%) pero MAS defensivo (beta 0.55 vs 0.68-0.78) y con filtro de moat unico, aunque menos diversificado (81 vs 105 holdings) y Score levemente menor (3.41 vs 3.63). Ver Ficha HDV fila 50. | ACTUALIZACION posterior (VYM, fila 92): septimo competidor, mucho mas diversificado (618 vs 105 holdings) y barato (0.04% vs 0.38%), pero yield menor (2.19% vs 3.23%) y overlap mucho mas severo via AVGO+CAT. Score 3.44 vs 3.63 de DVY. Ver Ficha VYM fila 50.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Core - tercer competidor viable del cluster de dividendo del proyecto junto a SCHD y NOBL.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: el mas antiguo y probado de los tres competidores de dividendo del proyecto, con el P/E mas barato y el yield mas alto, usando un criterio de SOSTENIBILIDAD del dividendo (cobertura, EPS positivo) distinto de crecimiento consecutivo (NOBL) o composite score (SCHD) - una via adicional y genuinamente distinta de exposicion a calidad/valor dentro de la categoria.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) TER notablemente mas alto que SCHD (0.38% vs 0.06%); (2) Max Drawdown historico severo (-62.59%, aunque explicado por la ventana mas larga que SI cubre la Crisis 2008); (3) 100% US, sin diversificacion geografica; (4) overlap moderado con posiciones individuales del usuario (VZ, F, MO), mixto pero sin senales severas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SCHD (fila 5) y NOBL (fila 87), ambos ya en el workbook, son los comparables directos mas relevantes de la categoria de dividendo/calidad del proyecto. DGRO (fila 89) tambien analizado - mas diversificado y barato pero con menor yield, ver comparacion completa en su Ficha. VIG (fila 90) tambien analizado - mas barato pero overlap severo y yield mucho menor, ver comparacion completa en su Ficha. HDV (fila 91) tambien analizado - el mas defensivo del cluster con filtro de moat, ver comparacion completa en su Ficha. VYM (fila 92) tambien analizado - el mas diversificado y barato del cluster, pero con el overlap mas severo via AVGO+CAT, ver comparacion completa en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.63/5 - el mas alto del trio de dividendo/calidad del proyecto junto a SCHD (4.03), superando a NOBL (3.28). iShares Select Dividend ETF: indice Dow Jones U.S. Select Dividend, criterio de SOSTENIBILIDAD del dividendo (cobertura 5 anios >=167%, EPS no negativo, 5 anios consecutivos de pago) - un tercer enfoque de screening distinto al composite score de SCHD y al crecimiento consecutivo de 25+ anios de NOBL. DVY tiene el P/E MAS BARATO del trio (14.93x vs 17.6x SCHD vs 21.4x NOBL) y el yield MAS ALTO (3.23% vs 3.1% SCHD vs 2.0% NOBL), ademas del track record MAS LARGO (22.75 anios, UNICO que cubre la Crisis Financiera 2008 directamente en su propia historia) y un Sharpe reciente fuerte (2.11-2.14, mejor que SPY 1.81). Su Max Drawdown historico (-62.59%) es el mas severo nominal del trio, pero explicado directamente por la ventana mas larga y dura, no por peor calidad estructural. TER 0.38% - similar a NOBL, notablemente mas caro que SCHD (0.06%), la principal desventaja relativa. CAGR desde inception el mas bajo del trio (+9.05%), tambien explicado por la ventana mas larga/dura. Overlap moderado y mixto con posiciones individuales del usuario: Verizon/VZ (MANTENER-ESPERAR), Ford/F (MANTENER-ESPERAR, debil), Altria/MO (COMPRAR CON CAUTELA, MS +15.8%) - sin senales severas de NO COMPRAR, similar en naturaleza al overlap ya documentado en SCHD. Con SCHD, NOBL y DVY, el cluster de dividendo/calidad del proyecto ahora tiene tres enfoques de screening genuinamente distintos (fundamentales compuestos / crecimiento consecutivo / sostenibilidad de cobertura), sin un ganador unico absoluto - SCHD gana en costo puro, DVY en valoracion/yield/track-record, NOBL en diversificacion estructural equal-weight."
+  }
+}

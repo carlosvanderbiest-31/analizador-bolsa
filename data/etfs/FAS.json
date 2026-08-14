@@ -1,0 +1,225 @@
+{
+  "nombre": "Direxion Daily Financial Bull 3X Shares",
+  "ticker": "FAS",
+  "categoria": "Otro - Apalancado/Inverso (+3x diario sobre el sector financiero EEUU)",
+  "emisor": "Direxion",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Estructura HIBRIDA -fisica + swaps de retorno total + futuros + otros ETFs que siguen el mismo indice-, mismo patron ya visto en ERX/SPXL. Contrapartes de swap identificadas a nivel del trust completo -Citibank N.A., Barclays, UBS Securities, Deutsche Bank AG London, via N-CSR/N-CSRS de SEC-, PERO NO confirmadas especificamente asignadas a FAS individualmente -el filing agrega varios fondos del trust-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -Direxion Shares ETF Trust-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM con rango disperso $1.81bn-$2.46bn segun fuente/fecha, usar ~$2.4bn como cifra mas reciente. Grande para un apalancado sectorial, similar a otros productos Direxion establecidos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "17.77 anios desde inception -6-nov-2008-. **CUBRE DIRECTAMENTE el peor tramo de la Crisis Financiera 2008-2009**: el fondo toco su MINIMO HISTORICO apenas 4 meses despues de lanzarse -6-mar-2009, validado cruzadamente con el precio historico minimo independiente de $1.66 en esa misma fecha exacta-. Multiples REVERSE SPLITS historicos -jul-2009 -1:5 o 1:10, discrepancia entre fuentes-, abr-2020 -1:10-, mar-2022 -1:10-- y un split directo 4:1 -may-2015-, reflejo del decay extremo y la volatilidad de precio tipica de productos 3x de larga duracion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Direxion -gestor legal Rafferty Asset Management-, SEGUNDO producto Direxion sector-equity apalancado del proyecto tras ERX -ya en el workbook, mismo emisor-.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.88% neto -consistente en multiples fuentes-, algunas fuentes citan 0.86% ex-AFFE o 0.89% -discrepancia menor, no reconciliada-. Uno de los mas caros del proyecto, consistente con la categoria apalancada 3x -comparable a SPXL 0.81% neto, ya en el workbook-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Costo de financiamiento del swap -spread sobre tasa de referencia- NO DIVULGADO publicamente en ningun prospecto o filing SEC consultado.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Contrapartes de swap identificadas a nivel de trust -4 bancos: Citibank, Barclays, UBS, Deutsche Bank-, complejidad similar a otros apalancados del proyecto -SSO tenia 8 bancos, UDOW 6, UCO/SCO 4-, aunque no confirmada la asignacion exacta a FAS.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo DIARIO inherente al mecanismo de apalancamiento 3x -mecanismo estandar de la categoria, bien documentado en el prospecto SEC-.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~182,250-186,123 acciones/dia segun fuente, equivalente a ~$33-34M/dia a precio ~$182/accion. Moderado para un apalancado sectorial.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask NO CONFIABLE -unico snapshot puntual observado ~$0.76/accion sobre ~$182, no representativo de un promedio historico-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount historico vs NAV NO ENCONTRADO.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero Direxion tiene infraestructura establecida para su linea completa de productos apalancados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "97 holdings -stockanalysis.com, ago-2026, otra fuente cita 90-93-, incluye una posicion de COLATERAL en cash management -Dreyfus Govt Cash Mgmt Institutional ~22.06%- tipica de la pata de swaps de un fondo apalancado 3x.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Principales posiciones -ademas del colateral ~22%-: Berkshire Hathaway 8.46%, JPMorgan Chase 8.03%, Visa 5.10%. Concentracion moderada-alta considerando el peso del colateral.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector Financials segun el indice Financial Select Sector -vigente desde ago-2022-: bancos, seguros, capital markets, consumer finance, mortgage REITs, servicios financieros diversificados.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Exposicion +3x DIARIO, mecanismo de decay compuesto inherente al producto -el fondo puede perder dinero incluso si el indice sube, segun lenguaje explicito del propio prospecto SEC-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "**HALLAZGO CRITICO PARA LA COMPARACION CON IYF**: el indice subyacente CAMBIO el 1-ago-2022 de **Russell 1000 Financials 40 Act 15/22.5 Daily Capped Index -EXACTAMENTE el MISMO indice que IYF sigue hoy, ya en el workbook, fila 132-** al actual **Financial Select Sector Index -el MISMO indice que XLF, NO analizado individualmente aun en el workbook-**. Esto significa que la comparacion de 'costo puro del apalancamiento' FAS-vs-IYF -analoga a la hecha con XLE-vs-ERX- **solo es metodologicamente valida para el periodo nov-2008 a jul-2022**; desde ago-2022 el equivalente 1x correcto de FAS seria XLF, no IYF.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo DIARIO inherente al apalancamiento 3x, bien documentado en el prospecto SEC de forma consistente en multiples anios de filing.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.14
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retornos con discrepancia GRANDE en 1Y entre fuentes -23.73% vs -2.38%, no reconciliado-. 3Y anualizado 36.87%, 5Y 25.87%, 10Y 21.14% -todos FUERTES-. **CAGR desde inception = 8.78%-10.28%, POSITIVO y solido** -a diferencia de la mayoria de apalancados del proyecto-, explicado por haber nacido CASI EN EL FONDO de la Crisis 2008 -6-nov-2008, apenas 4 meses antes del minimo del 6-mar-2009- y cabalgar la recuperacion/bull market financiero-mercado amplio subsecuente -misma logica favorable de timing ya vista en UDOW, ya en el workbook-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada = 43.03% -fuente unica, portfoliolab.com, sin segunda fuente para contrastar-. EXTREMADAMENTE ALTA, de las mas altas de cualquier fondo del proyecto.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = **-91.61%, ocurrido el 6-mar-2009** -portfoliolab.com, VALIDADO CRUZADAMENTE con el precio historico minimo independiente de $1.66 en la misma fecha exacta, companiesmarketcap.com-. Severo pero MENOS EXTREMO que ERX -99.5% a -99.54%, ya en el workbook-. Peor dia individual: **-43.0%, 1-dic-2008** -mismo periodo de crisis-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = -0.04 -fuente unica, portfoliolab.com, probablemente ventana trailing corta reciente, NO representativa del track record completo desde inception dado el CAGR historico positivo-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 2.58 -fuente unica, stockanalysis.com-, coherente con un apalancamiento 3x sobre un sector con beta historico >1.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.6
+    },
+    {
+      "titulo": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "Metrica de valoracion tradicional -P/E/P/B- de utilidad limitada para un producto apalancado 3x cuya composicion incluye ~22% de colateral en cash management; no se completa por ser poco informativa para la tesis de inversion de este tipo de instrumento -mismo criterio aplicado a otros apalancados del proyecto-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield con discrepancia grande entre fuentes -7.69% TTM ($14.01/accion) vs 1.6% segun base de calculo distinta, probablemente SEC yield forward vs TTM-, no reconciliado. Frecuencia trimestral confirmada.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Comparacion con ERX -mismo emisor Direxion, mismo tipo sector-equity apalancado, ya en el workbook, Score 2.38-: FAS mantuvo el apalancamiento 3x SIN CAMBIOS toda su historia -a diferencia de ERX que redujo de 3x a 2x en 2020-, con un Max Drawdown MENOS severo -91.61% vs 99.5-99.54%- pero aun extremo. La comparacion con IYF -ya en el workbook- solo es valida para el periodo nov-2008 a jul-2022 dado el cambio de indice de FAS en ago-2022 -ver fila 35-; el equivalente 1x actual de FAS es XLF, no analizado individualmente en el workbook.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol TACTICO/ESPECULATIVO puro, mismo tratamiento que el resto de la categoria apalancada del proyecto -18 instrumentos previos, todos con este mismo rol-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: CAGR desde inception POSITIVO y fuerte -8.78-10.28%- por haber nacido casi en el fondo de la Crisis 2008 y cabalgar el bull market financiero/de mercado amplio subsecuente -logica de timing favorable, no evidencia de que el mecanismo de apalancamiento sea sostenible o repetible en cualquier entrada-. Genuina diferencia frente a ERX -CAGR NEGATIVO pese a tambien beneficiarse de un rally reciente-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **decay por compounding diario** -lenguaje explicito del prospecto SEC: 'el fondo perdera dinero si el indice esta plano, y podria perder dinero incluso si el indice sube'-, riesgo de PERDIDA TOTAL INTRADIA si el indice cae mas del 33% en un dia, riesgo de contraparte de swaps -4 bancos a nivel de trust-, MULTIPLES reverse splits historicos como evidencia tangible del decay extremo del producto.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "**XLF** -Financial Select Sector SPDR, el equivalente 1x ACTUAL de FAS desde ago-2022, NO analizado individualmente aun en el workbook- e **IYF** -ya en el workbook, el equivalente 1x HISTORICO de FAS hasta jul-2022- quedan como comparables directos, cada uno valido solo para su respectivo periodo temporal.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "NO APTO - Instrumento tactico/especulativo, no portafolio. FAS es el SEGUNDO producto sector-equity apalancado de Direxion en el workbook tras ERX -Score 2.38-, con TER 0.88% neto y estructura hibrida fisica+swaps identica en espiritu. **HALLAZGO CRITICO**: el indice subyacente CAMBIO el 1-ago-2022 de Russell 1000 Financials -el MISMO indice que sigue IYF, ya en el workbook- al actual Financial Select Sector Index -el MISMO que sigue XLF, no analizado individualmente aun-, por lo que la comparacion de 'costo puro del apalancamiento' con IYF solo es valida para el periodo nov-2008 a jul-2022. FAS **CUBRE DIRECTAMENTE el peor tramo de la Crisis 2008-2009** -lanzado 6-nov-2008, toco su minimo historico apenas 4 meses despues el 6-mar-2009, con Max Drawdown de -91.61% validado cruzadamente-, menos severo que el -99.5-99.54% de ERX pero aun catastrofico, con multiples reverse splits historicos como evidencia tangible del decay. **A diferencia de ERX -que redujo su apalancamiento de 3x a 2x en 2020-, FAS mantuvo 3x SIN CAMBIOS toda su historia**. CAGR desde inception POSITIVO y fuerte -8.78-10.28%-, explicado por haber nacido casi en el fondo de la crisis y cabalgar la recuperacion subsecuente -logica de timing favorable, no repetible ni evidencia de sostenibilidad del mecanismo-. Volatilidad extrema -43.03%-, Sharpe muy bajo -(-0.04)-, Beta 2.58. Score 2.35/5, en linea con la categoria apalancada del proyecto, cercano a ERX. Rol Tactico/Especulativo unicamente. XLF -equivalente 1x actual- e IYF -equivalente 1x historico- quedan como comparables directos pendientes/ya en el workbook segun el periodo."
+  }
+}

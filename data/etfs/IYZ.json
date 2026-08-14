@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares U.S. Telecommunications ETF",
+  "ticker": "IYZ",
+  "categoria": "Equity Sector (Telecomunicaciones legacy, iShares/BlackRock, benchmark ACTUAL Russell 1000 Telecommunications RIC 22.5/45 Capped Index -CAMBIO de indice desde el antiguo Dow Jones US Select Telecommunications sin actualizacion completa de transparencia en todo el mercado- - HALLAZGO CRITICO: pese al nombre, NO es un fondo de telecom puro, esta dominado por equipos de red/data center -CSCO+ANET ~35%- que SUPERA a los operadores VZ+T+TMUS combinados ~20.1%)",
+  "emisor": "iShares (BlackRock)",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica fisica estandar iShares, misma estructura que IYK.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, RIC estandar.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM solo ~$1.19-1.25bn - DIMINUTO, magnitud similar a IYK -~$1.3-1.43bn-, muy por debajo de XLC/VOX.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 22-may-2000 (~26.22 anios) - nace CASI EXACTAMENTE en el pico dot-com -como IVV, pero para el sector telecom, historicamente el mas castigado de esa crisis-, cubre el colapso dot-com de telecom, Crisis 2008, COVID y el bear 2022.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor iShares/BlackRock.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.37-0.40% - ~4-5x mas caro que XLC/VOX -0.08-0.09%-, misma banda que IYK -0.38%-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "**HALLAZGO DE TRANSPARENCIA**: el benchmark CAMBIO del antiguo Dow Jones U.S. Select Telecommunications Index al actual **Russell 1000 Telecommunications RIC 22.5/45 Capped Index**, sin actualizacion completa en todo el ecosistema de datos de mercado -algunas fichas todavia muestran el nombre obsoleto-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "RIC estandar, revenue de securities lending no verificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Reconstitucion Russell anual - estandar, aunque la composicion ha derivado significativamente con el tiempo -ver fila 32-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~906,840 acciones/dia (~$39.9M/dia) - MAS liquido que IYK pese a AUM similar, aunque aun notablemente menos liquido que XLC/VOX.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread ~0.02% - ajustado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no aislado con precision -diferencia observada probablemente de timing, no premium confirmado-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "iShares/BlackRock, aunque para un producto de nicho la profundidad real de AP es menor que en productos insignia.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "Solo 28 holdings - concentracion alta por conteo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**Top 10 = 71.5-72.1% del NAV** - de la concentracion MAS ALTA de todo el cluster de fondos de comunicaciones del proyecto -supera a XLC 69.95% y VOX 68.24-71.5%-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "**HALLAZGO CRITICO**: Cisco -CSCO- 22.8-23.1% + Arista Networks -ANET- 11.9-12.2% = **~35% en equipos de red/data center**, SUPERA a Verizon -VZ- 11.9% + AT&T -T- 4.7% + T-Mobile -TMUS- 3.5% = **~20.1% en operadores reales**. Completan el Top10 Comcast -CMCSA- 3.8%, Motorola -MSI- 3.7%, Lumentum -LITE- 2.96%, Charter -CHTR- 2.85%, Roku 2.83%. **PESE AL NOMBRE 'Telecommunications', el fondo esta DOMINADO por beneficiarios del boom de infraestructura de IA/data center -CSCO/ANET-, no por operadores de telecom defensivos** como sugeriria la reputacion del sector.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia US 91.5-94.9%, extranjero ~5.1-8.5% -incl. Luxemburgo 2.6%, probablemente clasificacion de domicilio corporativo, no operaciones reales- - PRIMER fondo de este cluster reciente con una cola internacional -aunque pequena-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Indice legacy de telecom que ha DERIVADO via reconstitucion hacia territorio de equipos de red/IA - perfil de factor genuinamente inestable frente a los fondos blend large-cap estables del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Benchmark CAMBIO de Dow Jones a Russell sin transparencia completa en el mercado -algunas fichas todavia citan el indice obsoleto- - una preocupacion metodologica real, no solo una curiosidad.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reconstitucion Russell anual estandar.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "**DIVERGENCIA EXTREMA por horizonte**: 1Y +40.6% a +45.9% -extraordinario, impulsado por el rally de CSCO/ANET en IA/data center-, 3Y ~+25.1-25.9% anualizado -fuerte-, 5Y solo ~+5.1-6.3% anualizado -debil-, 10Y solo ~+3.1% anualizado -muy debil-, **desde inception -26 anios- solo ~+1.56% anualizado** - **UNO DE LOS PEORES CAGR de largo plazo de TODO EL PROYECTO**, confirma la 'historia notoriamente dificil' de la telecom legacy, ahora enmascarada por un rally muy reciente y concentrado en solo dos nombres.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $30.17-$46.07 (ratio 1.527x) - **MUY ALTO**, cerca del record del cluster reciente -AIRR 1.54x-, refleja la volatilidad genuina de un rally concentrado en pocos nombres de equipos.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Crisis 2008: minimo de 20 anios de $12.65 el 1-nov-2008 -desde un precio pre-crisis ~4x mayor, refleja el colapso MULTIANUAL post-dot-com de la telecom CONTINUANDO hacia la Crisis 2008, posiblemente la historia de declive mas brutal y sostenida del proyecto-. Bear 2022: **-30.27% -NAV-**, severo. Sin cifra aislada de dot-com o COVID encontrada.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio NO DISPONIBLE -explicitamente no provisto en las fuentes consultadas- - vacio de dato.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.87-0.88 -stockanalysis/etfrc- vs 0.71 -aaii- -conflicto de fuente-, generalmente moderado/por debajo de 1.0, aunque probablemente subestima el riesgo actual real dado que CSCO/ANET -de comportamiento mas tech-volatil- ya dominan la composicion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Minimo de 20 anios en Crisis 2008 -colapso multianual post-dot-com continuado- + bear 2022 -30.27%- - ambos severos, aunque falta la cifra especifica de dot-com -la crisis mas infame para telecom legacy, pese a que el fondo nacio en may-2000, casi en el pico-.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 16.57x - razonablemente barato, aunque esta cifra mezcla telecom legacy barata -VZ/T- con nombres de equipos mas caros -CSCO/ANET-, una cifra combinada que probablemente enmascara dispersion real. P/B no encontrado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield 1.58-2.7% segun fuente -conflicto real-, **NO el yield ultra-alto esperado de un fondo de 'ingreso de telecom legacy'** - genuinamente diluido por los yields bajos/nulos de CSCO/ANET, un hallazgo que desmiente la tesis de ingreso presumida del fondo.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**EL FONDO MAS SORPRENDENTE/DIFERENCIADO del cluster de comunicaciones del proyecto**: a diferencia de XLC -fila 109- y VOX -fila 113-, ambos ya en el workbook y dominados por META/GOOGL mega-cap, IYZ confirma la AUSENCIA de META/GOOGL/NFLX/DIS -como se esperaria de un indice legacy pre-reclasificacion GICS 2018- PERO **NO es un fondo de telecom puro como sugiere su nombre**: esta dominado por beneficiarios de IA/equipos de red -CSCO+ANET ~35%, SUPERA a VZ+T+TMUS combinados ~20.1%-, una historia genuina de 'deriva de indice' donde la composicion legacy evoluciono via reconstitucion hacia algo que el nombre/reputacion del fondo no capturan. El benchmark en si CAMBIO -Dow Jones a Russell- sin transparencia completa. CAGR desde inception de solo ~1.56% en 26 anios es de los peores registros de largo plazo de todo el proyecto, ahora enmascarado por un pico muy reciente -1Y- impulsado por IA/networking.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: dado el genuino desajuste entre el nombre/reputacion del fondo -telecom defensivo/de ingreso- y su composicion actual real -equipos de red impulsados por IA, mas volatiles-, NO es adecuado como satelite defensivo/de ingreso estable como sugeriria su nombre.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis confusa: un inversor que busca exposicion defensiva de telecom legacy/ingreso en realidad recibe beta concentrada de equipos de red impulsados por IA -CSCO/ANET- superpuesta sobre un segmento de operadores estructuralmente desafiado y en guerra de precios - un desajuste genuino entre expectativa y realidad.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) **riesgo SEVERO de deriva de composicion/etiquetado erroneo** - el nombre del fondo sugiere ingreso de telecom defensivo, pero ~45% es ahora equipos de red -CSCO/ANET-, un perfil de riesgo genuinamente distinto y mas volatil del que los inversores probablemente esperan; (2) TER 0.37-0.40%, caro frente a XLC/VOX; (3) CAGR desde inception de solo ~1.56% en 26 anios, uno de los peores registros de largo plazo del proyecto; (4) historial de Max Drawdown incluye un colapso multianual brutal post-dot-com continuado hacia el minimo de la Crisis 2008; (5) el benchmark en si cambio sin transparencia completa.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "XLC -fila 109- y VOX -fila 113-, ambos ya en el workbook, ofrecen la exposicion mega-cap internet/medios de 'Communication Services' que IYZ explicitamente NO tiene -sin META/GOOGL-. No se identifico un fondo puro de operadores de telecom -VZ/T/TMUS concentrado- comparable en esta investigacion; IYZ NO es un sustituto limpio dado su deriva hacia equipos de red.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar) - desajuste severo entre nombre/tesis y composicion real, CAGR de largo plazo entre los peores del proyecto. Score 2.61/5, el MAS BAJO del cluster de fondos de comunicaciones del proyecto -XLC 3.18, VOX 3.24-, y de los mas bajos de todo el proyecto. iShares U.S. Telecommunications ETF, benchmark ACTUAL Russell 1000 Telecommunications RIC 22.5/45 Capped Index -cambiado desde el antiguo Dow Jones U.S. Select Telecommunications Index sin transparencia completa en el mercado-. **HALLAZGO CRITICO**: pese a confirmarse la AUSENCIA de META/GOOGL/NFLX/DIS -como se esperaria de un indice legacy pre-2018-, el fondo NO es un vehiculo de telecom puro: esta DOMINADO por equipos de red/data center -Cisco CSCO 22.8-23.1% + Arista Networks ANET 11.9-12.2% = ~35%-, que SUPERA a los operadores reales -Verizon VZ 11.9% + AT&T T 4.7% + T-Mobile TMUS 3.5% = ~20.1%-. Esto produce un retorno 1Y extraordinario -+40.6% a +45.9%-, impulsado por el rally de IA/networking, no por fundamentos de telecom. PERO el CAGR desde inception -26 anios, nace may-2000 casi en el pico dot-com- es de solo **~1.56% anualizado**, uno de los peores registros de largo plazo de todo el proyecto -10Y solo ~3.1%, 5Y solo ~5.1-6.3%-. TER 0.37-0.40%, ~4-5x mas caro que XLC/VOX. Top10 71.5-72.1%, la concentracion mas alta del cluster de comunicaciones. Rango 52 semanas ratio 1.527x, cerca del record del cluster reciente. Max Drawdown historico incluye un minimo de 20 anios en la Crisis 2008 -colapso multianual post-dot-com continuado-, y -30.27% en el bear 2022. Dividend yield -1.58-2.7%- NOTABLEMENTE MENOR al esperado de un fondo de 'ingreso de telecom legacy', diluido por CSCO/ANET. Rol en Portafolio: dado el desajuste genuino entre nombre/reputacion y composicion real, NO es adecuado como satelite defensivo/de ingreso estable. XLC -fila 109- y VOX -fila 113-, ya en el workbook, siguen siendo los vehiculos correctos para exposicion mega-cap de Communication Services."
+  }
+}

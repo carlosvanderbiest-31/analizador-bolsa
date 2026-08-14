@@ -1,0 +1,224 @@
+{
+  "nombre": "Defiance AI & Power Infrastructure ETF",
+  "ticker": "AIPO",
+  "categoria": "Equity Tematico/Factor (infraestructura electrica + IA: generacion, red, datacenters, chips - no solo semis/software)",
+  "emisor": "Defiance ETFs",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Metodo de replica EXACTO (fisica completa vs. muestreo) no confirmado explicitamente por ninguna fuente consultada esta sesion. Se infiere FISICA (no hay evidencia de swaps: el top10 suma 55-56%, cifra normal para replica fisica, muy lejos del >100% que delataria exposicion sintetica como en DRAM) y probablemente COMPLETA dado que el universo del indice es relativamente acotado (84 holdings, min. cap $300M, min. ADV $1M segun el rulebook de MarketVector).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, indice exige que los componentes coticen en bolsa de EEUU ('US Listed'), pero algunas empresas subyacentes no son estadounidenses en su negocio/incorporacion (ej. Cameco-CCJ es canadiense, cotiza en NYSE) - friccion fiscal menor pero no nula. Mayormente domestico en la practica.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $957-964M (fuentes consistentes) - solido para un fondo con solo ~13 meses de vida, muy superior a EUV/DRAM en madurez relativa de captacion. Representa aprox 10-12% del AUM TOTAL del emisor Defiance (~$8-11bn en ~87 fondos) - senal de que es un producto insignia, no un lanzamiento marginal.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 24-jul-2025 (~1.05 anios / ~13 meses) - SEGUNDO TRACK RECORD MAS CORTO DEL PROYECTO tras EUV (3 meses) y DRAM (4.3 meses), muy por debajo del anterior 'corto' normal (IHAK, 7.2 anios). A DIFERENCIA de ARTY, aqui NO hay cambio de indice/mandato que contamine el historial (el fondo ha operado bajo la MISMA tesis e indice desde el dia 1) - el problema es simplemente que 13 meses es insuficiente para observar el comportamiento del fondo en un ciclo de mercado completo, especialmente una correccion severa o recesion.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor Defiance ETFs LLC, fundado 2018 (~7.5 anios), aprox $8-11bn AUM en ~87 fondos (promedio ~$100-127M/fondo) - EMISOR ESTABLECIDO Y LEGITIMO, claramente distinto de Corgi/EUV (spray-and-pray sin trayectoria previa) y sin el problema de estructura de swaps de Roundhill/DRAM. Especializado en tematico/income/leveraged (perfil de producto mas arriesgado que BlackRock/Vanguard/State Street ya vistos en el proyecto, pero un modelo de negocio probado). AIPO gano el premio 'Best New Thematic ETF Award 2026' de etf.com - señal de reconocimiento de la industria, no solo AUM organico.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.69% - EL MAS ALTO DE TODO EL PROYECTO, supera el anterior record de DRAM (0.65%). Tipico de un fondo tematico de nicho reciente de un emisor especializado, pero es objetivamente el costo mas alto de los 21 ETFs analizados.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada - dato improbable de encontrar para un fondo con solo 13 meses de historia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending revenue no verificado esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rebalanceo TRIMESTRAL confirmado con precision por el rulebook oficial de MarketVector (marzo/junio/septiembre/diciembre). Metodologia de ponderacion 'tiered modified float-adjusted market cap' con tope de peso ESCALONADO: 8% maximo general, pero solo 4% para componentes de Data Centers/AI Hardware puros o con menos del 50% de exposicion a los criterios del indice - mecanismo explicito para evitar que los megacaps de chips (NVDA, AVGO, AMD) dominen el fondo a costa de las empresas de infraestructura electrica pura. La metodologia MEJOR documentada y mas transparente de los ETFs tematicos de nicho reciente del proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario = 719,299 acciones (stockanalysis) x ~$29.91/accion (precio 10-ago-2026) = aprox $21.5M/dia - liquidez BUENA para un fondo de $960M/13 meses, superior a ARTY (~$10.8M/dia).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask = 0.06% (mediana 30 dias) - ajustado, mejor que ARTY (0.09%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Emisor de tamano mediano-establecido, fondo con buen volumen y AUM solido para su edad - se infiere profundidad de Authorized Participants adecuada.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "84 holdings - cifra consistente entre las fuentes consultadas (sin la discrepancia que hubo en ARTY). Numero moderado, ni ultra-concentrado ni ultra-diversificado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 55.46-56.4% segun fuente (razonablemente consistentes) - concentracion ALTA, con los 4 nombres principales (GE Vernova, Eaton, Vertiv, Quanta Services) sumando ya aprox 34% del fondo ellos solos (todos ligados a la capa de infraestructura electrica/construccion, tope individual de 8% segun el rulebook).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Industrials 55.27%, Utilities 17.20%, Technology 16.34%, Energy 6.94%, Financial Services 2.79%, Real Estate 1.02%, Communication Services 0.44% - EL FONDO TEMATICO DE IA/TECH MAS DIVERSIFICADO SECTORIALMENTE DE TODO EL PROYECTO: ningun sector supera el 56%, y hay 4 sectores con peso real (>2.5%), a diferencia de SOXX/SMH (99% Technology), IHAK (96%), CIBR (76-100%), VGT (95%) o incluso ARTY (87-89% Technology). Refleja la tesis explicita del fondo de cubrir TODA la cadena de valor (generacion-red-datacenter-chip), no solo la capa de semiconductores/software.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica: 100% cotizando en bolsas de EEUU por regla del indice, pero con al menos una empresa de incorporacion no-US en el top10 (Cameco, canadiense) - mayormente domestico, no completamente limpio.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Mezcla de ESTILOS mas equilibrada que otros tematicos de IA del proyecto: la capa de infraestructura electrica (GEV, ETN, PWR, VRT, CEG) tiene un perfil mas value/industrial-utility que la capa de chips (NVDA, AVGO, AMD, BE), evitando la concentracion 100% growth-tech de SOXX/SMH/EUV/ARTY.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MarketVector US Listed AI and Power Infrastructure Index (MVAIPO) - MISMO PROVEEDOR DE INDICES que SMH (VanEck usa MarketVector para varios de sus productos, aunque aqui es Defiance el cliente). Rulebook publico con criterios de inclusion explicitos (min. 50% de ingresos de IA/infraestructura de poder, cap. minima $300M, ADV minimo $1M) y ponderacion escalonada por tipo de exposicion - metodologia transparente y bien documentada, superior en claridad a la de Morningstar-ARTY (basada en un score mas discrecional de 4 subtemas).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral con meses exactos confirmados (mar/jun/sep/dic) por el rulebook oficial.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +45.39% (stockanalysis) y retorno anualizado desde inception = +45.72% - AMBAS cifras son LIMPIAS y consistentes entre si (a diferencia de ARTY, aqui no hay cambio de indice que las contamine), pero cubren la MISMA ventana de solo ~13 meses, un unico tramo alcista del ciclo de IA - no hay forma de saber como se comportaria en un ciclo bajista o lateral.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada = 35.98% (PortfoliosLab, fuente unica pero coherente en magnitud con el perfil concentrado de alto beta al tema IA, mismo criterio de aceptacion ya usado con SOXX/SMH/ARTY) - alta.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -17.31% (1Y y 'desde inception' coinciden en la misma fuente, sin la ambiguedad de ventanas mezcladas que tuvo ARTY) - PERO con solo 13 meses de historia, esta cifra probablemente SUBESTIMA el verdadero riesgo de cola del fondo: no ha atravesado una correccion de mercado amplia ni una recesion. Rango de 52 semanas del precio ($19.17-$34.79, precio actual $29.91) es consistente con un fondo que broto con fuerza tras el lanzamiento y ya sufrio al menos una correccion intermedia.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe/Sortino Ratio no disponible en las fuentes consultadas esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 no disponible (fondo demasiado joven para un calculo confiable en los agregadores consultados, mismo gotcha ya visto con acciones de IPO reciente como CRWV/SNDK en el Dashboard de acciones). OVERLAP CUANTIFICABLE: 7 de los 10 holdings del top10 (Eaton-ETN 8.56%, Vertiv-VRT 6.52%, Broadcom-AVGO 4.33%, Bloom Energy-BE 4.09%, Constellation Energy-CEG 4.05%, NVIDIA-NVDA 4.04%, AMD 2.45%) YA estan analizados individualmente por el usuario, sumando aprox 34.0% del fondo - magnitud CASI IDENTICA al overlap de ARTY (34.7%) pese a tratarse de una canasta tematica completamente distinta. Solo GE Vernova (GEV), Quanta Services (PWR) y Cameco (CCJ) del top10 no estan cubiertos individualmente. Mismo megatema de electrificacion-centros de datos ya identificado en la ficha de ETN del Dashboard de acciones (grid-to-chip: VST-CEG generacion, NVDA-AVGO-MRVL chips, ETN-VRT distribucion/gestion de energia) - AIPO empaqueta ese MISMO megatema completo en un solo vehiculo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Sin datos de comportamiento en crisis pasadas - el fondo no existia en 2020 ni 2022, y sus 13 meses de historia no incluyen un evento de correccion de mercado amplia (dato genuinamente no disponible, no solo no verificado).",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 36.70x - caro, comparable a VUG (36.65x)/VGT (38.3x), sin percentil historico propio posible dado que el indice tiene apenas 13 meses de existencia (ventana aun mas corta que la de ARTY, ~2 anios).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.01%, practicamente nulo. Dato curioso: el SEC yield de 30 dias al 31-jul-2026 es NEGATIVO (-0.09%), reflejando que los gastos corrientes del fondo superan el ingreso por dividendos de las subyacentes en ese periodo - coherente con un fondo growth/reinversion de TER alto (0.69%) y holdings de bajo yield (varias industriales/utilities de crecimiento, no de dividendo).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - AIPO es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "No se identificaron ni verificaron competidores directos exactos esta sesion (tema aun mas de nicho que 'IA general' - candidatos preliminares sin verificar: GRID, PWER u otros ETFs de infraestructura electrica/energia para IA). Pendiente para una futura comparacion cabeza a cabeza si se analiza un competidor directo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.67
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: tesis genuinamente diferenciada (infraestructura electrica completa para IA, no solo chips) con mejor diversificacion sectorial que sus pares tematicos, PERO lastrada por track record muy corto (13 meses, sin probar en un ciclo completo), TER mas alto del proyecto, y overlap significativo (~34% del top10) con convicciones individuales ya tomadas. Rol: Satelite/Tactico de conviccion media - candidato a monitorear mas que a acumular de inmediato, dejando madurar el historial.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: el deficit de capacidad de red electrica y generacion para alimentar centros de datos de IA es un cuello de botella real y ampliamente documentado del ciclo actual de IA - AIPO es de los primeros vehiculos en capturar la CADENA COMPLETA (generacion nuclear/gas/renovable, equipos de red, construccion/ingenieria, datacenters, chips) en un solo fondo, en vez de solo la capa de semiconductores ya cubierta por SOXX/SMH/ARTY. Primer producto de este tipo en ganar reconocimiento de la industria (etf.com Best New Thematic ETF 2026).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) track record extremadamente corto (13 meses, no probado en un ciclo bajista ni en una recesion); (2) TER mas alto de TODO el proyecto (0.69%); (3) overlap significativo (~34% del top10) con convicciones individuales ya tomadas (ETN, VRT, AVGO, BE, CEG, NVDA, AMD); (4) valoracion cara (P/E 36.7x) sin base historica propia para contextualizarla; (5) concentracion en 4 nombres del top10 (~34% del fondo en GEV+ETN+PWR+VRT, cada uno con tope individual de 8%); (6) universo de holdings admite empresas pequenas (capitalizacion minima solo $300M), potencialmente menos liquidas fuera del top10; (7) dependencia del ciclo de capex de IA sosteniendose - si la narrativa de 'demanda de energia para IA' se enfria, toda la canasta (no solo una capa) se ve afectada.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "Alternativas/competidores no verificados con datos propios esta sesion (ver fila 50).",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.18/5, zona intermedia (3.0-3.5, mismo bucket que IHAK 3.18/CIBR-adyacente/ITA 3.45/XOP 3.03) - mismo criterio ya usado en el proyecto para scores que no encajan limpio en 'acumular' (>=3.5) ni en 'reducir' (<3.0). A diferencia de ARTY (score 2.91, REDUCIR/VENDER), AIPO NO tiene el gotcha de cambio de indice/mandato (misma tesis desde el lanzamiento) ni un emisor no probado (Defiance es legitimo y establecido, ~7.5 anios, $8-11bn AUM) - su problema dominante es distinto: simplemente es DEMASIADO JOVEN (13 meses) para confiar en sus metricas de riesgo/retorno a traves de un ciclo completo, combinado con la valoracion cara (P/E 36.7x) sin base historica propia y el overlap real (~34% del top10, magnitud casi identica a ARTY pese a ser una canasta tematica completamente distinta: infraestructura electrica + IA, no solo semis/software). Punto a favor notable: es el ETF tematico de IA MEJOR DIVERSIFICADO SECTORIALMENTE del proyecto (55% Industrials, 17% Utilities, 16% Technology, 7% Energy) y el de metodologia de indice MEJOR documentada (rulebook publico de MarketVector, topes de peso escalonados, rebalanceo trimestral confirmado). 'Esperar mejor entrada' aqui significa tanto esperar un precio mas razonable como dejar madurar el track record antes de comprometer una posicion mayor - revisar de nuevo en 12-18 meses cuando el fondo tenga un ciclo de mercado mas completo que evaluar."
+  }
+}

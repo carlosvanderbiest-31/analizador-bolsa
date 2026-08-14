@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares MSCI Emerging Markets ETF",
+  "ticker": "EEM",
+  "categoria": "Equity Indice Amplio (TODOS los mercados emergentes, MSCI EM ESTANDAR sin small-cap - PRE-serie Core de BlackRock, el ETF EM mas liquido del mercado pero dominado en eficiencia por IEMG/VWO)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, exposicion a decenas de paises emergentes (incluye Corea del Sur, a diferencia de VWO) - riesgo cambiario MULTI-DIVISA sin cobertura + riesgo VIE (empresas chinas del fondo).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$25.8-30.20bn (stockanalysis $30.20bn, Trackinsight EUR25.8bn~$28bn) - menor que IEMG ($134.61-156.56bn) y VWO ($108.99-124.90bn), aunque solido en terminos absolutos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 7-abr-2003 (~23.3 anios) - **EL MAS LARGO de los tres fondos EM amplios del proyecto** (IEMG 13.8, VWO 21.4), captura la Crisis Financiera 2008 DIRECTAMENTE y con mas anticipacion que VWO.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMONOVENA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.4
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.72% - **EL MAS CARO de los tres fondos EM amplios del proyecto** (IEMG 0.09%, VWO 0.06%) - fondo PRE-serie Core (2003, nueve anios antes del lanzamiento de la linea Core en 2012), mismo patron de pricing legado ya documentado con ACWX/EZU en clusters anteriores.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI Emerging Markets estandar - rebalanceo tipicamente trimestral, no confirmado con fuente primaria especifica de EEM esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = ~40 MILLONES de acciones/dia, $2.68 MIL MILLONES/dia (3 meses) - **LA LIQUIDEZ MAS ALTA DE CUALQUIER FONDO DE MERCADOS EMERGENTES DEL PROYECTO**, descrito explicitamente como 'el ETF EM mas liquido que existe', el vehiculo POR DEFECTO de instituciones/hedge funds para trading de gran tamano y cobertura con opciones.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion, se infiere extremadamente ajustado dado el volumen extremo verificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants MAXIMA, reforzada por ser el vehiculo EM de referencia del mercado de opciones y trading institucional de gran volumen.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "1,179 (Trackinsight) a 1,226 (stockanalysis) holdings - **EL MENOR de los tres fondos EM amplios del proyecto** (IEMG 2,780-3,224, VWO 4,936-5,077), refleja el indice MSCI EM ESTANDAR (sin el tramo small-cap que si incluye la version IMI de IEMG).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 37.28% - **MAS CONCENTRADO que IEMG y VWO**, incluye ademas DOS lineas de Samsung Electronics (comun + preferente sin voto) contadas por separado en el top10 reportado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Technology 48.23% - **LA CONCENTRACION SECTORIAL MAS ALTA de los tres fondos EM amplios del proyecto** (IEMG 45.41%, VWO 35.22%), reflejo directo de tener MENOS holdings para diluir el peso de los semiconductores asiaticos.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Exposicion a decenas de paises emergentes, incluyendo Corea del Sur (a diferencia de VWO, que la excluye por clasificacion FTSE) - composicion de pais similar a IEMG.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Blend con sesgo tech PRONUNCIADO, el mas fuerte de los tres fondos EM amplios del proyecto por tener menos holdings diluyendo la concentracion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI Emerging Markets ESTANDAR (sin small-cap) - transparente, mismo proveedor MSCI que IEMG pero version mas estrecha (equivalente a la relacion EZU/IEUR o ACWX/IXUS ya documentada en el cluster europeo).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de EEM esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.86
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +43.83% (el mas alto de los tres fondos EM amplios del proyecto, aunque ventanas no perfectamente comparables). Secuencia de retornos anuales bien documentada: 2025 +33.34%, 2024 +6.94%, 2023 +8.90%, 2022 -20.55%, 2021 -3.72%. Retorno 5Y acumulado = +36.6% (~6.4% anualizado, $1,000 invertidos hace 5 anios valdrian $1,366 hoy).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad = 19.46% (1Y, reciente) - entre la de IEMG (10.46%) y VWO (26.1% desde inception, aunque las ventanas no son directamente comparables entre si).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -66.43% (20-nov-2008, fecha exacta del fondo de la Crisis Financiera Global) - severo, similar orden de magnitud a VWO (-68.0%), mas severo que IEMG (-38.71%) por la ventana mas larga que SI incluye 2008 directamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: 1Y = 2.27 (inflado por el rally reciente, mismo gotcha ya documentado repetidamente), 3Y = 1.0 (cifra de mediano plazo mas moderada y util para contraste).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.74 - IDENTICO al de IEMG. **OVERLAP CONFIRMADO Y EL MAS SEVERO DE LOS TRES FONDOS EM AMPLIOS DEL PROYECTO**: Taiwan Semiconductor (15.05-15.12%, MAS ALTO que en IEMG 13.10-13.22% o VWO 14.66-15.61%) + SK hynix (5.33-7.63%, MAS ALTO que en IEMG 3.98-6.70%) + Alibaba (1.60-2.25%) = **~22-25% del fondo COMPLETO**, con TSM y SK hynix YA marcados individualmente NO COMPRAR por superciclo de IA - la combinacion de overlap mas concentrada de los tres fondos EM amplios del proyecto.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "23.3 anios de historial - la ventana MAS LARGA de los tres fondos EM amplios del proyecto, cubre la Crisis Financiera 2008 completa, ademas de un evento especifico y dateable no mencionado en ningun otro fondo del proyecto: el **'2025 US Tariff Shock' (-13.7%)**, presumiblemente una politica arancelaria estadounidense de 2025 que golpeo especificamente a mercados emergentes.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.17
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 17.25x - practicamente identico a IEMG (17.19x) y VWO (17.10x). Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 1.70% - **EL MAS BAJO de los tres fondos EM amplios del proyecto** (IEMG 2.24%, VWO 2.30%). Distribucion SEMESTRAL.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION VERIFICADA A TRES BANDAS con IEMG (fila 63) y VWO (fila 64)**: EEM es CLARAMENTE el tercer lugar en eficiencia estructural del trio (mas caro -0.72% vs 0.06-0.09%-, menos holdings -1,179-1,226 vs 2,780-5,077-, overlap MAS concentrado en TSM+SK hynix), PERO conserva un nicho genuino: la liquidez institucional MAS PROFUNDA de cualquier fondo EM del proyecto (el vehiculo de referencia del mercado de opciones/trading de gran volumen) y el track record mas largo (23.3 anios). Para un inversor de largo plazo, IEMG/VWO son claramente mas eficientes; para necesidades de trading/cobertura de gran tamano, EEM sigue siendo el estandar del mercado - mismo tipo de nicho de liquidez ya documentado con EZU/FXI en clusters anteriores pese a ser dominados en costo/diversificacion.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Core (mismo tratamiento que IEMG/VWO dado lo amplio de su cobertura), aunque el mas debil de los tres en eficiencia pura de costo/diversificacion/overlap.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: acceso amplio a mercados emergentes con la liquidez institucional mas profunda del mercado - mismo patron de 'dominado en eficiencia mientras conserva un nicho de liquidez/historial' ya documentado con ACWX/EZU/FXI en clusters anteriores del proyecto. Para un inversor individual de largo plazo, el caso de uso real es limitado frente a IEMG/VWO ya en el workbook.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap el MAS SEVERO de los tres fondos EM amplios via TSM+SK hynix (ambos ya NO COMPRAR individualmente, ~22-25% combinado del fondo); (2) TER el mas alto del trio (0.72%); (3) menor diversificacion interna (sin tramo small-cap, indice estandar en vez de IMI); (4) riesgo cambiario multi-divisa; (5) riesgo VIE (China).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "IEMG (fila 63) y VWO (fila 64), ambos ya analizados en este workbook y claramente mas eficientes para un inversor de largo plazo - ver comparacion completa en fila 50.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.24/5 - zona intermedia del marco de decision del proyecto (3.0-3.5, mismo tratamiento ya aplicado a FXI/ILF/INDA/ASHR/MCHI). EEM es CLARAMENTE el tercer lugar en eficiencia del trio de fondos EM amplios ahora en el workbook (IEMG, VWO, EEM): es el mas caro (TER 0.72% vs 0.06-0.09% de IEMG/VWO), el menos diversificado por numero de holdings (1,179-1,226 vs 2,780-5,077), y tiene el overlap MAS CONCENTRADO de los tres via Taiwan Semiconductor (15.05-15.12%, el peso mas alto del trio) y SK hynix (5.33-7.63%, tambien el mas alto), ambos ya marcados individualmente NO COMPRAR por asumir continuidad del superciclo de IA - combinados con Alibaba, ~22-25% del fondo completo en overlap confirmado con nombres ya senalados como sobrevalorados. Sin embargo, EEM conserva un nicho genuino que IEMG/VWO no igualan: es 'el ETF de mercados emergentes mas liquido que existe', el vehiculo de referencia institucional para trading de gran volumen y cobertura con opciones (volumen ~40M acciones/dia, $2.68bn/dia), y tiene el track record mas largo del trio (23.3 anios, incluye la Crisis 2008 directamente ademas de un evento especifico de 2025 -'US Tariff Shock', -13.7%- no documentado en ningun otro fondo del proyecto). Mismo patron de 'dominado en eficiencia pero con nicho de liquidez/historial' ya visto con ACWX/EZU/FXI en clusters anteriores. Para un inversor individual de largo plazo, IEMG o VWO (ambos ya en el workbook) son la eleccion mas eficiente; EEM solo se justificaria por necesidades especificas de liquidez/trading de gran tamano. Rol en Portafolio: Core."
+  }
+}

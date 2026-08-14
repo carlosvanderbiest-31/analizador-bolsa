@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares U.S. Technology ETF",
+  "ticker": "IYW",
+  "categoria": "Equity Sector (tecnologia, SEXTO ETF de tecnologia del proyecto, EL MAS ANTIGUO -unico que cubre directamente el crash dot-com 2000-2002-)",
+  "emisor": "BlackRock/iShares",
+  "fecha_analisis": "2026-08-13",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA cap-weighted con reglas de capping RIC 22.5/45 -limite 22.5% por posicion individual, suma de posiciones >4.5% limitada al 45%-, filosofia similar a VGT -25/50, ya en el workbook-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -BlackRock/iShares, NYSE Arca-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "**AUM con discrepancia MUY GRANDE entre fuentes: $10.72bn -composer.trade- vs $25.18-25.63bn -dos fuentes independientes consistentes entre si-**, la mayor discrepancia de AUM vista en el proyecto -factor ~2.4x-. En cualquier escenario, fondo grande sin riesgo de cierre.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "**26.25 anios desde inception -15-may-2000-, EL FONDO TECNOLOGICO MAS ANTIGUO DEL PROYECTO Y UNICO QUE CUBRE DIRECTAMENTE EL CRASH DOT-COM 2000-2002** desde su propio lanzamiento -practicamente coincide con el pico de la burbuja NASDAQ de marzo-2000-, ademas de la Crisis 2008. Track record mas largo y mas probado de todo el cluster tecnologico del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.4
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.38-0.39%, MAS BARATO que FXL -0.60-0.61%-, QTEC -0.55-0.57%- y FDN -0.49-0.52%-, todos ya en el workbook, pero mucho mas caro que XLK -0.08%- y VGT -0.09-0.10%-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Sin dato especifico de revenue por securities lending para IYW.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Turnover NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~$55.36M/dia -composer.trade-, decente, similar en magnitud a FDN -$106M- y QTEC -$53.59-81.89M-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero infraestructura de creacion/redencion de BlackRock/iShares es robusta a nivel de firma.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "144-153 holdings segun fuente, numero alto, similar a VHT en magnitud dentro del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**Top10 = 61.58-65.30% del fondo, ALTO** -similar a XLV -60.6%-, mayor que VHT -52.1%--. Top10: Apple 14.27% -otra fuente 18.34%-, NVIDIA 13.33%, Microsoft 10.42% -otra fuente 16.67%-, Alphabet -GOOGL+GOOG combinado ~10.57%-, Broadcom 4.63%, Meta Platforms 3.69%, Micron Technology 3.17%, AMD 3.13%, Intel 2.09%. **Apple+NVIDIA+Microsoft solos suman ~38% del fondo segun la fuente mas conservadora**.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% tecnologia -universo Russell 1000 clasificado tech-, tratamiento estandar de concentracion sectorial unica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 99.8% EEUU.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sesgo cap-weighted fuerte hacia mega-caps -Apple/NVIDIA/Microsoft dominantes-, filosofia de ponderacion tradicional similar a XLK/VGT -ambos ya en el workbook-, a diferencia de FXL/QTEC que evitan deliberadamente esa concentracion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Russell 1000 Technology RIC 22.5/45 Capped Index, cap-weighted con banda de diversificacion, misma logica de capping -distinta formula especifica- que VGT -25/50- y el Select Sector de XLK.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo estandar trimestral/semestral, sin cifra especifica de frecuencia confirmada.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = 38.55%, fuerte. **10Y = 25.51%/ano, MUY FUERTE, SUPERIOR a QQQ -21.45%/ano en el mismo periodo-**. Sin embargo, **desde inception = CAGR SOLO 9.41% anualizado, EL MAS BAJO del cluster tecnologico 'caro' del proyecto** -vs 13.55% FXL, 15.24% QTEC, 14.07% FDN-, arrastrado por el crash dot-com de 2000-2002 que golpeo al fondo practicamente desde su lanzamiento.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada desde inception = 27.2% -composer.trade-, la mas alta entre los fondos tecnologicos cap-weighted 'tradicionales' del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "**Max Drawdown desde inception = -81.9%, EL PEOR de todo el cluster tecnologico del proyecto** -comparable al -78.68% a -82.69% de XLF, aunque causado por un evento completamente distinto: el crash dot-com 2000-2002, no la Crisis Financiera 2008-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = 0.47 -composer.trade-, el mas bajo entre los fondos tecnologicos del proyecto con dato disponible -vs 0.64 FXL, 0.67 QTEC, 0.65 FDN-. Calmar ratio = 0.12.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.36 -stockanalysis.com-, alto, entre FXL -1.25- y QTEC -1.43-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "**UNICO ETF del cluster tecnologico del proyecto -y uno de los pocos de TODO el proyecto- que cubre DIRECTAMENTE el crash dot-com 2000-2002 desde su propio lanzamiento**, ademas de la Crisis 2008. Aporta la ventana de riesgo mas larga y mas severa disponible para el sector tecnologico dentro del proyecto.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 36.78x, caro pero MENOR que QTEC -42.94x, ya en el workbook-, sin serie historica propia a 5-10 anios para contextualizar percentil.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.10%, muy bajo.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**SEXTO ETF de tecnologia del proyecto -tras XLK, VGT, FXL, QTEC y FDN, todos ya en el workbook-**: TER intermedio -mas barato que FXL/QTEC/FDN, mas caro que XLK/VGT-, con el track record MAS LARGO -26.25 anios, cubre dot-com Y 2008- y el Max Drawdown MAS SEVERO -81.9%- de todo el cluster.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Tactico/Especulativo dado el TER caro relativo a XLK/VGT y el Max Drawdown historico extremo, pese al track record mas largo y probado del cluster.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion cap-weighted tradicional a tecnologia con el track record MAS LARGO del cluster -unico que cubre el crash dot-com 2000-2002 ademas de Crisis 2008-, TER intermedio, retorno 10Y muy fuerte -25.51%/ano, superior a QQQ-, pero CAGR desde-inception decepcionante -9.41%- por el arrastre historico del dot-com.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **Max Drawdown -81.9%, el peor del cluster tecnologico del proyecto**, concentracion mega-cap -Apple+NVIDIA+Microsoft ~38-45% segun fuente-, **AUM con discrepancia MUY grande entre fuentes -senal de calidad de dato dudosa-**, TER caro relativo a XLK/VGT, dividend yield muy bajo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "XLK/VGT -ambos ya en el workbook- son mas baratos con track record mas corto pero sin el arrastre historico del dot-com; FXL/QTEC -ambos ya en el workbook- ofrecen alternativas que evitan la concentracion mega-cap via smart-beta/equal-weight.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). IYW es el SEXTO ETF de tecnologia del proyecto -tras XLK, VGT, FXL, QTEC y FDN, todos ya en el workbook- y **EL FONDO TECNOLOGICO MAS ANTIGUO, lanzado el 15-may-2000, practicamente en el pico de la burbuja NASDAQ de marzo-2000**, lo que lo convierte en el UNICO ETF del cluster -y uno de los pocos de todo el proyecto- que cubre DIRECTAMENTE el crash dot-com 2000-2002 desde su propio lanzamiento, ademas de la Crisis 2008. TER = 0.38-0.39%, intermedio -mas barato que FXL/QTEC/FDN pero mucho mas caro que XLK/VGT-. AUM presenta una **discrepancia MUY grande entre fuentes -$10.72bn a $25.18-25.63bn, factor ~2.4x, la mayor discrepancia de AUM vista en el proyecto-, senal de calidad de dato dudosa a verificar. Top10 = 61.58-65.30%, concentrado en mega-caps -Apple+NVIDIA+Microsoft solos ~38% del fondo segun la fuente mas conservadora-, filosofia cap-weighted tradicional similar a XLK/VGT, a diferencia de FXL/QTEC que evitan esa concentracion deliberadamente. **RIESGO MAS RELEVANTE: Max Drawdown desde inception = -81.9%, EL PEOR de todo el cluster tecnologico del proyecto**, comparable al -78.68% a -82.69% de XLF pero originado por el crash dot-com en vez de la crisis financiera. Ese arrastre historico explica un **CAGR desde inception de solo 9.41%, EL MAS BAJO del cluster tecnologico 'caro' del proyecto** -vs 13.55% FXL, 15.24% QTEC, 14.07% FDN-, pese a que el retorno reciente a 10 anios es muy fuerte -25.51%/ano, superior a QQQ-. Volatilidad 27.2%, Sharpe 0.47 -el mas bajo del cluster tecnologico con dato disponible-, Beta 1.36. P/E 36.78x, caro pero menos que QTEC. Dividend yield muy bajo -0.10%-. Score 2.64/5, cercano a IYF -2.64, ya en el workbook- y en linea con el resto del cluster tecnologico 'caro'. Rol Tactico/Especulativo. XLK/VGT siguen siendo la opcion estructuralmente preferible por costo; IYW aporta la perspectiva historica mas larga y probada del sector, pero con el peor drawdown documentado del cluster."
+  }
+}

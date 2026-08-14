@@ -1,0 +1,225 @@
+{
+  "nombre": "ProShares Ultra Semiconductors",
+  "ticker": "USD",
+  "categoria": "Apalancado/Inverso (+2x diario sobre el sector semiconductores, vehiculo apalancado de SOXX/SMH ya en el workbook)",
+  "emisor": "ProShares",
+  "fecha_analisis": "2026-08-13",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Estructura 100% SINTETICA via **index swaps con multiples contrapartes -UBS AG, Bank of America, Citibank, BNP Paribas, Societe Generale, JPMorgan, Goldman Sachs, Morgan Stanley, Barclays Capital-**, exposicion nocional ~182.42% de los activos -consistente con el objetivo 2x-, con reset y rebalanceo DIARIO. La diversificacion entre 9 contrapartes mitiga -pero no elimina- el riesgo de contraparte individual.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -ProShares Trust, NYSE Arca-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $2.82-2.95bn -dos fuentes independientes consistentes, ProShares oficial y stockanalysis.com-, grande para un fondo apalancado de nicho sectorial, sin riesgo de cierre. Una tercera fuente -composer.trade- cita $269.8M, cifra probablemente desactualizada o erronea, descartada por inconsistencia con las otras dos.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "19.54 anios desde inception -30-ene-2007-, cubre directamente la Crisis Financiera 2008-2009. Sin hallazgo de cambio de indice detectado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor ProShares, especialista reconocido en productos apalancados/inversos, gama de productos muy amplia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.95% neto, caro en terminos absolutos pero tipico de la categoria apalancada del proyecto -similar a ERX/FAS/TMF, ya en el workbook-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita; el mecanismo de reset diario y costos de swap introducen decay estructural inherente a toda la categoria apalancada.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No aplica de forma significativa -fondo mayoritariamente basado en swaps, no en tenencia fisica prestable-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "**Rebalanceo/reset DIARIO por diseno**, inherente al objetivo de 2x diario, el turnover mas alto posible por construccion del producto.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~$4.57M/dia -composer.trade-, moderado-bajo para un fondo con AUM de casi $3bn, consistente con un producto de trading tactico mas que de tenencia pasiva amplia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Red de 9 contrapartes de swap -UBS, BofA, Citibank, BNP Paribas, Societe Generale, JPMorgan, Goldman Sachs, Morgan Stanley, Barclays-, diversificacion de contraparte solida y tipica de productos ProShares de este tamano.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "36 companias en el indice subyacente -Dow Jones U.S. Semiconductors-, 53 posiciones en el fondo incluyendo lineas de swap, universo concentrado por diseno sectorial.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**NVIDIA sola pesa entre 17.49% y 32.92% del fondo segun fuente/fecha -variacion notable dado el fuerte re-rating de NVIDIA en el periodo-, concentracion EXTREMA en un solo nombre**, amplificada 2x por el apalancamiento. Broadcom 6.53-10.96%, Micron Technology 3.45%, AMD 2.64-4.98%, Intel 1.67%.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% semiconductores, apalancado 2x diario -riesgo de concentracion sectorial amplificado por el mecanismo de apalancamiento-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU -aunque las companias del indice tienen ventas/cadenas de suministro globales-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sesgo hacia semiconductores de mega-cap -NVIDIA dominante-, amplificado 2x, exposicion de factor extrema por diseno.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Dow Jones U.S. Semiconductors, cap-weighted, apalancamiento +2x diario via swaps.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo/reset DIARIO por diseno del apalancamiento -inherente a toda la categoria, no una eleccion discrecional del emisor-.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "**Retornos EXTRAORDINARIOS**: 1Y con discrepancia -84.49% a 110.71% segun fuente, AMBOS enormes-, 3Y acumulado 87.91%, 5Y acumulado 54.97%. **Desde inception = CAGR 28.11-29.17% anualizado, POSIBLEMENTE EL MEJOR CAGR DESDE-INCEPCION DE TODO EL PROYECTO**, reflejo del rally historico de NVIDIA/semiconductores potenciado 2x.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada desde inception = **63.2% -composer.trade-, EXTREMA, de las mas altas de todo el proyecto**, consistente con 2x sobre un sector ya de por si volatil.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = **-88.6% -composer.trade-**, severo pero MENOS extremo que otros apalancados del proyecto -ERX -99.5% a -99.54%-, cubre directamente la Crisis 2008-2009.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = **0.72 -composer.trade-, NOTABLEMENTE BUENO para un fondo apalancado**, superior a la mayoria de los apalancados del proyecto -FAS -0.04-, ERX y otros con Sharpe negativo o muy bajo-. Calmar ratio = 0.33.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 3.70 -stockanalysis.com-, extremo por diseno -2x sobre un sector de beta ya superior a 1-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Cubre directamente la Crisis 2008-2009 -semiconductores sufrieron caida severa-. **HALLAZGO POSITIVO DISTINTIVO**: a diferencia de ERX/FAS/TMF -ya en el workbook, todos con historial de reverse splits por decay severo-, USD registra **5 splits desde 2017, TODOS FORWARD -ej. 2-for-1 en ene-2017-, SIN NINGUN reverse split encontrado**, evidencia tangible de que el decay estructural fue ampliamente compensado por el desempeno excepcional y sostenido del sector subyacente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "No aplica el marco tradicional de multiplos de forma significativa dado que es un producto derivado sintetico apalancado, no una canasta de acciones para valorar por P/E propio; sin dato encontrado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.30%, bajo pero no nulo pese al apalancamiento y la estructura basada en swaps.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "El comparable 1x mas cercano dentro del proyecto es SOXX o SMH -ambos ya en el workbook, exposicion no apalancada a semiconductores-. USD ofrece 2x el retorno diario de esa misma exposicion, con TER mucho mayor -0.95% vs 0.35% SOXX- y riesgo de decay estructural por compounding diario, aunque el historial de 19.5 anios muestra que ese decay fue superado por el desempeno del sector.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Tactico/Especulativo UNICAMENTE -mismo tratamiento que todos los productos apalancados/inversos del proyecto, independientemente del historial de retorno-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: apalancamiento +2x diario sobre semiconductores, con un track record historico EXCEPCIONAL -CAGR desde inception 28.11-29.17%, posiblemente el mejor del proyecto-, pero con un mecanismo de riesgo estructural -decay por compounding diario, volatilidad extrema 63.2%- inherente a toda la categoria, que solo es adecuado para trading tactico de muy corto plazo pese al historial favorable.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **decay por apalancamiento diario compuesto** -mitigado historicamente pero no eliminado estructuralmente-, volatilidad extrema -63.2%-, Max Drawdown severo -88.6%-, riesgo de contraparte de swaps -diversificado entre 9 bancos pero no nulo-, **concentracion extrema en NVIDIA -hasta ~33% del fondo segun fecha-** amplificada 2x.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SOXX/SMH -ambos ya en el workbook- son las opciones estructuralmente apropiadas para exposicion de largo plazo a semiconductores; USD solo es apto para trading tactico de muy corto plazo, pese a tener el mejor historial de retorno absoluto de cualquier producto apalancado del proyecto.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "NO APTO - Instrumento tactico/especulativo, no portafolio. USD es un producto +2x diario sobre el Dow Jones U.S. Semiconductors Index, estructura 100% SINTETICA via swaps con 9 contrapartes -UBS, Bank of America, Citibank, BNP Paribas, Societe Generale, JPMorgan, Goldman Sachs, Morgan Stanley, Barclays-, TER = 0.95%. **HALLAZGO PRINCIPAL Y DISTINTIVO**: pese a ser un producto apalancado -categoria que en el proyecto suele mostrar CAGR negativo o mediocre por decay-, USD registra un **CAGR desde inception de 28.11-29.17% anualizado, POSIBLEMENTE EL MEJOR retorno de largo plazo de cualquier ETF del proyecto**, con Sharpe de 0.72 -notablemente bueno para un apalancado- y **5 splits desde 2017, TODOS FORWARD -sin ningun reverse split encontrado-, evidencia tangible OPUESTA al patron de ERX/FAS/TMF -ya en el workbook, todos con reverse splits por decay severo-**. Esto refleja el rally historico y sostenido de NVIDIA -que llega a pesar hasta ~33% del fondo segun fecha- y del sector semiconductores en general, potenciado 2x. Sin embargo, el perfil de riesgo estructural sigue siendo EXTREMO: volatilidad anualizada = 63.2%, de las mas altas del proyecto; Max Drawdown desde inception = -88.6%, severo aunque menor que ERX -99.5%-; Beta = 3.70; concentracion de un solo nombre -NVIDIA- amplificada por el apalancamiento; y el mecanismo de compounding diario introduce riesgo de decay estructural independientemente del historial pasado favorable. Score 2.36/5, en linea con FAS -2.35- y ERX -2.38-, consistente con el tratamiento del proyecto para toda la categoria apalancada -el riesgo estructural se puntua independientemente del desempeno historico-. Rol Tactico/Especulativo UNICAMENTE. SOXX/SMH -ambos ya en el workbook- siguen siendo las opciones estructuralmente apropiadas para exposicion de largo plazo a semiconductores."
+  }
+}

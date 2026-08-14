@@ -1,0 +1,225 @@
+{
+  "nombre": "First Trust NASDAQ-100 Technology Sector Index Fund",
+  "ticker": "QTEC",
+  "categoria": "Equity Tematico/Factor (tecnologia, equal-weight NASDAQ-100, CUARTO ETF de tecnologia del proyecto tras XLK/VGT/FXL, TERCER fondo First Trust del proyecto tras AIRR/FXL)",
+  "emisor": "First Trust",
+  "fecha_analisis": "2026-08-13",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA, equal-weight de los componentes NASDAQ-100 clasificados como 'tecnologia' -Industry Classification Benchmark-, sin sintetico/swaps.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -First Trust, NASDAQ-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM con rango disperso $2.78bn -composer.trade- a $4.56-4.85bn -otras fuentes, dos de ellas consistentes entre si-, grande, sin riesgo de cierre.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "20.33 anios desde inception -19-abr-2006-, sin hallazgo de cambio de indice detectado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor First Trust, **TERCER fondo de este emisor en el proyecto** -junto a AIRR y FXL, ambos ya en el workbook-.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.55-0.57%, caro, ligeramente menor que FXL -0.60-0.61%, ya en el workbook- pero MUCHO mas caro que XLK -0.08%- y VGT -0.09-0.10%-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Sin dato especifico de revenue por securities lending para QTEC.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Turnover NO ENCONTRADO con cifra especifica para QTEC; el equal-weight con reconstitucion trimestral sugiere turnover moderado-alto, similar en naturaleza al de FXL aunque sin cifra confirmada.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen con rango $53.59M a $81.89M/dia segun fuente, **MUCHO MEJOR que FXL -~$3.84M/dia, ya en el workbook-**, liquidez solida.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask NO ENCONTRADO con cifra especifica, aunque el volumen y AUM sugieren un spread razonablemente ajustado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount = +0.03%, ajustado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs, pero el volumen decente sugiere buena actividad de creacion/redencion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "46-49 holdings segun fuente, universo NASDAQ-100 clasificado como tecnologia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 26.99% del fondo, BAJO, consistente con equal-weight -~20.4% 'puro' para 10 de 49 holdings, con drift hasta 27% por rebalanceo trimestral-. Top10 -stockanalysis.com-: DoorDash 3.02%, Palo Alto Networks 2.88%, Shopify 2.80%, Roper Technologies 2.75%, Applied Materials 2.64%, Workday 2.62%, Fortinet 2.62%, Thomson Reuters 2.61%, CrowdStrike 2.56%, Microsoft 2.50%. **Otra fuente cita una lista de Top5 distinta -Intel 4.18%, Marvell Technology 3.45%, AMD 3.30%, Seagate 3.25%, Arm Holdings 2.94%-, discrepancia notable no reconciliada, posiblemente fechas de corte distintas**. En ambos casos, **NINGUNA de las mega-caps dominantes -Apple, Nvidia- aparece entre los principales pesos**, mismo patron cualitativo que FXL.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% tecnologia -universo NASDAQ-100-, tratamiento estandar de concentracion de un unico sector.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU -universo NASDAQ-100-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Equal-weight dentro del universo NASDAQ-100 tech, EXCLUYE la dominancia mega-cap tipica de XLK/VGT, filosofia similar a FXL pero via equal-weight simple en vez de factor-score cuantitativo.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice NASDAQ-100 Technology Sector Index, equal-weighted, rebalanceo trimestral estandar.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral estandar del indice equal-weight.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = 48.76%, fuerte. **Desde inception = CAGR 15.24% anualizado, MUY FUERTE, superior al de FXL -13.55%, ya en el workbook-**, uno de los mejores del cluster tecnologico del proyecto.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada desde inception = 26.3% -composer.trade-, alta, similar en magnitud a FXL -24.8%-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = -58.9% -composer.trade-, severo, ligeramente MENOS extremo que FXL -61.4%-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = 0.67 -composer.trade-, decente, similar a FXL -0.64-. Calmar ratio = 0.26.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "**Beta vs S&P 500 = 1.43 -stockanalysis.com-, EL MAS ALTO de cualquier fondo tecnologico del proyecto, incluso superior a FXL -1.25-**.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Cubre Crisis 2008, sin evento de cola idiosincratico especifico documentado en las fuentes consultadas.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "**P/E ponderado = 42.94x, MUY CARO, probablemente el mas caro de cualquier fondo tecnologico del proyecto**, reflejo del sesgo hacia nombres de alto crecimiento/multiplo -DoorDash, Shopify, CrowdStrike, Palo Alto Networks- en vez de hardware/semiconductores de multiplo mas moderado.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "**Dividend yield = 0.01%, PRACTICAMENTE NULO**, incluso mas bajo que FXL -0.00% pero de magnitud similar-.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**CUARTO ETF de tecnologia del proyecto -tras XLK, VGT y FXL, todos ya en el workbook-**: overlap de holdings con XLK = **71% -etfrc.com-, MUCHO MAYOR que el 26.7% de FXL**, dado que ambos parten del mismo universo NASDAQ-100/Select Sector, solo cambia la ponderacion -equal-weight QTEC vs cap-weight XLK-. TER intermedio entre XLK/VGT y FXL, pero P/E MUY superior a los tres.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Tactico/Especulativo dado el TER caro, beta extremo, y valuacion muy elevada.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion equal-weight a tecnologia NASDAQ-100, evita la dominancia mega-cap de XLK/VGT, con CAGR historico muy fuerte -15.24% desde inception- pero a un P/E extremadamente caro -42.94x- y el beta mas alto del cluster tecnologico.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **P/E 42.94x, el mas caro del cluster tecnologico del proyecto**, **Beta 1.43, el mas alto del cluster tecnologico**, dividend yield practicamente nulo, TER caro relativo a XLK/VGT, alta sensibilidad a correcciones de valuacion en nombres de alto crecimiento/multiplo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "XLK/VGT -ambos ya en el workbook- son mucho mas baratos en TER y valuacion; FXL -ya en el workbook- ofrece una filosofia similar de evitar mega-caps via metodologia smart-beta distinta, con P/E y beta ligeramente menores que QTEC.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). QTEC es el CUARTO ETF de tecnologia del proyecto -tras XLK, VGT y FXL, todos ya en el workbook- y el TERCER fondo First Trust -junto a AIRR y FXL-. Su metodologia equal-weight sobre el universo NASDAQ-100 clasificado como tecnologia produce un Top10 = 26.99%, bajo, y -al igual que FXL- **NINGUNA de las mega-caps dominantes -Apple, Nvidia- aparece entre sus principales posiciones**, con un overlap de holdings con XLK del **71% -etfrc.com-, MUCHO MAYOR que el 26.7% de FXL**, dado que QTEC y XLK comparten un universo de partida mas similar, solo difiriendo en la ponderacion. TER = 0.55-0.57%, caro pero ligeramente menor que FXL, MUCHO mas caro que XLK/VGT. **CAGR desde inception = 15.24% anualizado, MUY FUERTE, superior incluso al de FXL -13.55%-**, uno de los mejores del cluster tecnologico del proyecto, con Sharpe decente de 0.67. Sin embargo, presenta el **PEOR perfil de valuacion y riesgo sistemico del cluster tecnologico**: **P/E = 42.94x, probablemente el mas caro de cualquier fondo tecnologico del proyecto**, reflejo del sesgo hacia nombres de alto crecimiento/multiplo -DoorDash, Shopify, CrowdStrike, Palo Alto Networks- en vez de semiconductores/hardware de multiplo mas moderado; y **Beta = 1.43, EL MAS ALTO de cualquier fondo tecnologico del proyecto, incluso superior al 1.25 de FXL**. Volatilidad 26.3% y Max Drawdown -58.9% desde inception, ambos elevados aunque ligeramente menos severos que FXL. Dividend yield practicamente nulo -0.01%-. Liquidez solida -$53.59-81.89M/dia-, mucho mejor que FXL. Score 2.67/5, identico a FXL y KBE. Rol Tactico/Especulativo unicamente. XLK/VGT siguen siendo la opcion estructuralmente preferible para exposicion tecnologica de bajo costo y valuacion mas razonable; QTEC solo tiene sentido para quien busca exposicion equal-weight deliberada a tecnologia de alto crecimiento y esta dispuesto a pagar una prima de costo, valuacion y beta muy significativa por ello."
+  }
+}

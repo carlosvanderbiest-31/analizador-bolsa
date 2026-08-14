@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares MSCI South Korea ETF",
+  "ticker": "EWY",
+  "categoria": "Equity Indice Amplio (PAIS UNICO Corea del Sur, MSCI Korea 25/50 - de facto una apuesta concentrada en semiconductores/memoria via envoltorio de pais)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% holdings de Corea del Sur - riesgo cambiario KRW no cubierto + retencion fiscal coreana sobre dividendos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$24-26.51bn (stockanalysis $26.51bn, Trackinsight EUR22.12bn~$24bn) - **EL MAS GRANDE DE TODO EL CLUSTER DE NUEVA GEOGRAFIA DEL PROYECTO**, superando incluso a EWJ ($19.4-22.4bn).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 9-may-2000 (~26.2 anios) - **TERCER track record mas largo de todo el proyecto** (tras EWC/EWJ empatados en 30.4 anios), muy cerca de EZU (26.1). Cubre la cola de la Crisis Financiera Asiatica, la Crisis 2008, COVID 2020, y el actual superciclo extremo de memoria/IA 2025-2026.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMOSEXTA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.6
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.59% - moderado, similar a EWZ/MCHI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI Korea 25/50 - rebalanceo tipicamente trimestral, no confirmado con fuente primaria especifica de EWY esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = 22.7M acciones/dia - MUY ALTO, uno de los mas altos del cluster de nueva geografia del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra confiable esta sesion - una cifra de '17.20%' encontrada resulto ser del spread de OPCIONES sobre EWY, no del propio ETF, y se DESCARTO explicitamente por no ser aplicable.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "78 (Trackinsight) a 83 (stockanalysis) holdings - bajo-moderado, similar orden de magnitud a EWC (84-89).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 57.34% - **MUY concentrado**: Samsung Electronics (21.13-23.19%) + SK hynix (20.25-27.17%) = **~41-50% del fondo COMBINADOS en SOLO DOS NOMBRES** - la concentracion de dos nombres MAS EXTREMA de todo el proyecto (supera con creces a EWC Finance vía 5 bancos ~27%, o al top1 de FEZ via ASML 8.75-10.36%).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: **Technology 57.78% - LA CONCENTRACION SECTORIAL MAS ALTA DE CUALQUIER FONDO DE PAIS/REGION 'AMPLIO' DEL PROYECTO** (supera a EWC Finance 46.70%, INDA Finance 30.09%, EWJ Technology 26.85%) - un fondo nominalmente de 'pais' que es de facto una apuesta sectorial concentrada en semiconductores/memoria.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% Corea del Sur por definicion (fondo de pais unico) - CERO diversificacion geografica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sesgo ESTRUCTURAL EXTREMO hacia semiconductores/memoria (Samsung+SK hynix+Samsung Electro-Mechanics = >45% del fondo) - practicamente una apuesta sectorial disfrazada de fondo de pais, no un blend diversificado.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI Korea 25/50 - topes de concentracion RIC estandar (25% single-issuer, 50% agregado issuers >5%), PERO el propio tope del 25% esta siendo ALCANZADO/CERCA por Samsung y SK hynix individualmente, mostrando los limites practicos de ese tope cuando dos empresas dominan tan extremadamente la economia bursatil del pais.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de EWY esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "**DISCREPANCIA SEVERA entre fuentes en el retorno 1Y**: 19.2% (una fuente) vs +74.0% YTD (otra) vs **+120.61%** (lazyportfolioetf, ventana 1Y a 31-jul-2026) - la dispersion MAS EXTREMA de cifras de retorno 1Y encontrada en todo el proyecto, reflejo probable de la volatilidad extraordinaria del superciclo de memoria/IA en semanas recientes (la propia fuente reporta 'peor trimestre -20.43%, mejor trimestre +66.58%' dentro del mismo periodo). Se reporta la cifra de la tabla mas completa (lazyportfolioetf, +120.61%) con salvedad EXPLICITA de la discrepancia. 3Y anualizado = +35.68%, 5Y anualizado = +14.47%, 10Y anualizado = +13.05%, desde inception (26.2 anios) = 11.92%.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad por ventana (lazyportfolioetf): 1Y 60.58% (EXTREMA, refleja el superciclo reciente), 5Y 37.59%, 10Y 30.41%, Maximo 30.13% - progresion COHERENTE aunque en direccion opuesta a la de EWC/EWJ (aqui la volatilidad RECIENTE es mayor que la historica, logico dado un evento de mercado extraordinario en curso en vez de una crisis ya cerrada).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown por ventana: 1Y -23.67%, 5Y -45.49%, 10Y -48.08%, Maximo (~26 anios) -70.13% - severo en la ventana completa, coherente con la cola de la Crisis Financiera Asiatica y la Crisis 2008 en la historia mas larga del fondo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe por ventana: 1Y 1.93 (inflado por el rally reciente extraordinario, mismo gotcha ya documentado repetidamente), 5Y 0.29, 10Y 0.36, Maximo 0.34 - se prioriza el de largo plazo como representativo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = **1.50 - EL MAS ALTO DE TODO EL CLUSTER DE NUEVA GEOGRAFIA DEL PROYECTO** (supera a FEZ 0.95, el anterior record del cluster), refleja la correlacion directa con el ciclo global de semiconductores/IA. **OVERLAP CONFIRMADO Y DE MAXIMA SEVERIDAD CUALITATIVA: SK hynix (SKHY, 20.25-27.17% del fondo, POSICION MAS GRANDE O SEGUNDA MAS GRANDE) ya analizado individualmente por el usuario CON VEREDICTO EXPLICITAMENTE NEGATIVO** (Score 2.68/5, Recomendacion NO COMPRAR, Margen de Seguridad -73.1%, 'valoracion que asume continuidad del superciclo', lider en HBM pero con cuota de mercado en declive rapido de 69% a 58% en 12 meses frente a Samsung y Micron) - overlap de la MAYOR severidad cualitativa encontrada en el proyecto, dado que la propia ficha individual ya concluyo que esta sobrevalorada.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "26.2 anios de historial cubren la cola de la Crisis Financiera Asiatica de finales de los 90, la Crisis 2008, COVID 2020, y el actual superciclo extremo de memoria/IA 2025-2026.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 17.12x - moderado en apariencia, similar al cluster europeo (~17x). Pero dado el rally reciente extraordinario (+120.61% 1Y segun la cifra mas completa), un P/E 'moderado' podria estar ocultando una compresion severa de multiplo relativo a ganancias en PICO DE CICLO - mismo gotcha de superciclo de commodities/memoria ya documentado extensamente con MU/SNDK en el proyecto de acciones, y ahora CONFIRMADO individualmente con SK hynix (Margen de Seguridad -73.1%).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 1.21% - **EL MAS BAJO entre los fondos de pais unico desarrollado/emergente del proyecto** (similar al 1.22% de EWC), tipico de un fondo dominado por tecnologia de crecimiento reciente sin tradicion de dividendos altos. Distribucion ANUAL.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "PRIMER fondo de Corea del Sur del proyecto - sin competidor directo verificado en este workbook. Candidatos conocidos: FLKR (Franklin FTSE South Korea, TER historicamente mas barato), EWYS (iShares MSCI South Korea Small-Cap, complementario no competidor) - ninguno verificado con datos propios esta sesion. | ACTUALIZACION posterior (IEMG, fila 63): fondo emergente diversificado padre del cluster - SK hynix tambien es una posicion significativa de IEMG (3.98-6.70%), confirmando que el riesgo de valoracion ya senalado individualmente (NO COMPRAR, MS -73.1%) esta presente incluso en el fondo mas diversificado del universo EM del proyecto, aunque diluido junto a TSM y Alibaba (~19-21% combinado en IEMG). IEMG ofrece exposicion similar con volatilidad/drawdown MUCHO menores que EWY. Ver Ficha IEMG fila 43/50.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Satelite - exposicion EXTREMADAMENTE concentrada de facto en semiconductores/memoria via un envoltorio nominal de 'fondo de pais', con el overlap MAS SEVERO cualitativamente de todo el proyecto (SK hynix, ya marcada individualmente como NO COMPRAR por valoracion excesiva).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: acceso al superciclo de memoria/HBM para IA (Samsung y SK hynix son proveedores criticos de NVIDIA), PERO la propia ficha individual de SK hynix ya establecio explicitamente que la valoracion actual ASUME una continuidad del superciclo que podria no materializarse dada la perdida de cuota de mercado frente a Samsung/Micron - la misma tesis de riesgo aplica directamente a EWY dado su peso combinado (~20-27% del fondo en un solo nombre ya senalado como sobrevalorado).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) OVERLAP SEVERO Y DE ALTA CONVICCION via SK hynix, ya marcada NO COMPRAR individualmente con MS -73.1%; (2) concentracion sectorial la MAS ALTA de cualquier fondo de pais del proyecto (Technology 57.78%); (3) concentracion de DOS nombres la MAS EXTREMA del proyecto (Samsung+SK hynix ~41-50%); (4) Beta el mas alto del cluster de nueva geografia (1.50); (5) riesgo cambiario KRW no cubierto; (6) discrepancia severa en cifras de retorno 1Y entre fuentes (19.2% a +120.61%), senal de volatilidad extraordinaria reciente que podria revertir con la misma velocidad.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "FLKR (Franklin, mas barato) y EWYS (small-cap complementario) identificados como candidatos sin datos propios verificados. IEMG (fila 63) tambien verificado - mismo riesgo SK hynix pero diluido en un fondo mucho mas diversificado, ver comparacion en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). Score 2.94/5 - por debajo del umbral de 3.0 del marco de decision del proyecto. Pese a una calidad estructural solida (BlackRock, replica fisica completa, el AUM MAS GRANDE de todo el cluster de nueva geografia del proyecto -$24-26.51bn-, y el TERCER track record mas largo de todo el proyecto -26.2 anios-), EWY es de facto una apuesta CONCENTRADA en semiconductores/memoria disfrazada de fondo de pais: Samsung Electronics + SK hynix suman ~41-50% del fondo en solo DOS nombres (la concentracion de dos nombres mas extrema de todo el proyecto), y Technology representa el 57.78% del fondo (la concentracion sectorial mas alta de cualquier fondo de pais/region amplio ya analizado). El hallazgo mas determinante: SK hynix (SKHY), que pesa entre 20.25% y 27.17% del fondo, YA fue analizada individualmente por el usuario con un veredicto explicitamente NEGATIVO (Score 2.68/5, Recomendacion NO COMPRAR, Margen de Seguridad -73.1%, la propia ficha concluyendo que la valoracion actual asume continuidad del superciclo de memoria/HBM pese a la perdida rapida de cuota de mercado frente a Samsung y Micron) - este es el overlap de mayor severidad cualitativa de todo el proyecto, porque no es solo una posicion grande que coincide, sino una posicion grande que el propio analisis fundamental del usuario ya identifico como sobrevalorada. El Beta (1.50) es el mas alto del cluster de nueva geografia, y existe ademas una discrepancia severa entre fuentes sobre el retorno 1Y (19.2% a +120.61% segun la fuente), senal de la volatilidad extraordinaria del rally reciente de memoria/IA que podria revertir con la misma velocidad con la que se genero. Rol en Portafolio: Satelite. Primer fondo de Corea del Sur del proyecto, sin competidor directo aun analizado (FLKR identificado como candidato mas barato)."
+  }
+}

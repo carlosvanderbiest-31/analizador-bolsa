@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares Core MSCI EAFE ETF",
+  "ticker": "IEFA",
+  "categoria": "Equity Indice Amplio (Europa+Australasia+Japon -EAFE, EXCLUYE Canada y Corea del Sur por clasificacion MSCI-, MSCI EAFE IMI, serie Core BlackRock - TERCER competidor del cluster desarrollado tras SCHF/VEA, overlap mas bajo del trio)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO OPTIMIZADO (Trackinsight).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, exposicion multi-pais EAFE (Europa+Australasia+Japon) - riesgo cambiario multi-divisa no cubierto. EXCLUYE Corea del Sur Y Canada (a diferencia de SCHF/VEA, que si los incluyen via clasificacion FTSE 'Desarrollado').",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$168.48-193.54bn (stockanalysis $193.54bn, Trackinsight EUR168.48bn~$183bn) - **MASIVO**, comparable a VEA, entre los fondos mas grandes de todo el proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 18-oct-2012 (~13.8 anios) - **MISMA FECHA EXACTA que IXUS e IEMG** (tercera confirmacion en el proyecto de este lanzamiento coordinado de la serie Core de BlackRock). NO cubre la Crisis 2008 en su propia historia.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - VIGESIMOTERCERA aparicion en el proyecto, **CUARTA vez como fondo de la serie 'Core'** (tras IXUS, IEUR, IEMG).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.07% - mas caro que SCHF/VEA (0.03% ambos), pero mismo nivel que el resto de la serie Core del proyecto (IXUS, IEUR, IEMG), aun muy barato en terminos absolutos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI EAFE IMI - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria especifica de IEFA esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = 7.48M acciones/dia - solido, entre SCHF (1.69M) y VEA (20-22M).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no confirmado con precision para IEFA especificamente esta sesion (solo se encontro la cifra del fondo hermano 'flagship' EFA, 0.01%, que sigue el mismo indice pero con TER historicamente mas alto) - se infiere razonablemente ajustado dado el tamano del fondo, sin verificar directamente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "2,616 (Trackinsight) a 2,642 (stockanalysis) holdings - menos que VEA (3,856+) pero mas que SCHF (1,429+).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = **11.96% - NOTABLEMENTE MAS BAJO que SCHF y VEA** (que rondaban 9-9.4% solo en sus 3 principales nombres Samsung+SK hynix+ASML), buena diversificacion.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Finance 26.11%, Industrials 16.39%, Technology 13.77% - **NOTABLEMENTE MAS BAJO en Technology que SCHF (18.60%) y VEA (17.96%)**, precisamente porque excluye los semiconductores coreanos (Samsung/SK hynix) que inflan el peso tech de esos dos fondos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia primaria: Japon, Reino Unido y Suiza (iShares) - **EXCLUYE Corea del Sur Y Canada** (a diferencia de SCHF/VEA), cobertura mas estrecha pero mas 'pura' del universo EAFE clasico.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Blend puro, sin sesgo de factor.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI EAFE IMI (Investable Market Index, incluye small-cap) - proveedor MSCI (a diferencia de FTSE que usan SCHF/VEA), metodologia transparente y reconocida.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de IEFA esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.14
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (13.8 anios) = **8.40% anualizado - EL MEJOR de los tres fondos desarrollados ex-US amplios del proyecto** (SCHF 5.722%, VEA 5.17%). 10Y = 9.4-9.65%, 5Y = 8.5%, 1Y = 23.12-27.03% (MENOR que SCHF/VEA ~30%, coherente con la ausencia de exposicion a los semiconductores coreanos que impulsaron el rally reciente en esos fondos).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Cifra de volatilidad encontrada (4.65%) claramente implausible para un ETF de renta variable - DESCARTADA (mismo gotcha recurrente ya documentado extensamente en el proyecto), sin alternativa confiable esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -34.78% desde inception - MUY similar a SCHF (-34.9%), ambos con ventanas que no incluyen la Crisis 2008 directamente (aunque IEFA nacio incluso mas tarde, oct-2012, que SCHF, nov-2009).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 1.60 (cifra reciente/actual) - moderadamente alto, aunque no tan extremo como otros fondos del proyecto impulsados por el rally de semiconductores esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.79. **OVERLAP MUCHO MENOR que SCHF/VEA: SOLO ASML (2.51-3.03%) confirmado - SIN Samsung NI SK hynix** en el top10 reportado - hallazgo estructural directo de que MSCI clasifica a Corea del Sur como mercado EMERGENTE (excluida de EAFE), a diferencia de la clasificacion FTSE 'Desarrollado' que usan SCHF/VEA - reduce sustancialmente el overlap de riesgo de valoracion de superciclo de IA.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "13.8 anios de historial NO cubren la Crisis 2008 (nacio despues), SI cubren la parte final de la crisis de deuda soberana europea 2010-2012, COVID 2020, y el rally reciente.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 17.51x - similar a SCHF (17.85x)/VEA (17.61x). Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = **3.27% - EL MAS ALTO de los tres fondos desarrollados ex-US amplios del proyecto** (SCHF 2.99%, VEA 2.50%). Distribucion SEMESTRAL.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION VERIFICADA A TRES BANDAS con SCHF (fila 69) y VEA (fila 70)**: IEFA es MAS CARO que ambos (0.07% vs 0.03%), tiene MENOS holdings que VEA pero MAS que SCHF, PERO ofrece el OVERLAP MAS BAJO del trio (solo ASML, SIN Samsung/SK hynix gracias a la exclusion MSCI de Corea del Sur), el MEJOR retorno desde inception (8.40%), y el yield MAS ALTO (3.27%). Un trade-off genuino entre costo puro (SCHF/VEA ganan) y overlap/calidad de retorno historico (IEFA gana) - ningun fondo del trio domina estrictamente a los otros dos. Candidato adicional sin verificar: EFA (el hermano 'flagship' no-Core de IEFA, mismo indice MSCI EAFE pero TER historicamente mas alto, patron 'legado caro vs Core barato' ya documentado con ACWX/IXUS). | ACTUALIZACION posterior (EFA, fila 72): el hermano 'flagship' no-Core de IEFA, mismo indice base MSCI EAFE (IEFA solo anade el tramo small-cap via metodologia IMI). EFA es ~4.6x mas caro (0.32% vs 0.07%) y tiene menos de un tercio de los holdings de IEFA, confirmando que IEFA es la version claramente mas eficiente del mismo universo para un inversor de largo plazo. EFA conserva unicamente la ventaja de liquidez institucional 'sin rival' y un track record 11 anios mas largo (incluye la Crisis 2008 directamente). Ver Ficha EFA fila 50 para el detalle completo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **Core** - mismo tratamiento que SCHF/VEA, tercer fondo 'padre' del cluster de mercados desarrollados ex-US, con el perfil de overlap mas limpio de los tres.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion a mercados desarrollados EAFE 'puros' (sin la exposicion a semiconductores coreanos que domina SCHF/VEA), con el MEJOR retorno historico desde inception del trio y el yield mas alto - un perfil genuinamente mas defensivo/diversificado en terminos de riesgo de valoracion de superciclo de IA que sus dos competidores directos.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap via ASML (el menor del trio, pero real); (2) TER mas alto que SCHF/VEA (0.07% vs 0.03%); (3) riesgo cambiario multi-divisa; (4) no cubre la Crisis 2008 en su propia historia (aunque tampoco lo hace SCHF).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SCHF (fila 69) y VEA (fila 70), ambos ya analizados en este workbook - ver comparacion completa en fila 50. EFA (el hermano 'flagship' no-Core de IEFA) identificado sin datos propios verificados. EFA (fila 72) tambien verificado - version pre-Core mas cara del mismo indice base, IEFA sigue siendo mas eficiente, ver comparacion en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.73/5 - entre SCHF (3.67) y VEA (3.88), completando un trio SIN un ganador absoluto: SCHF/VEA ganan en costo puro (TER 0.03% vs 0.07% de IEFA), pero IEFA ofrece el OVERLAP MAS BAJO del trio por un margen amplio - solo ASML (2.51-3.03%) confirmado, SIN Samsung NI SK hynix en el top10, gracias a que MSCI clasifica a Corea del Sur como mercado EMERGENTE (excluida de EAFE), a diferencia de la clasificacion FTSE 'Desarrollado' que usan SCHF/VEA (mismo hallazgo estructural ya documentado con VWO en el cluster emergente, ahora confirmado tambien en el lado desarrollado). Esto reduce sustancialmente la exposicion al riesgo de valoracion de superciclo de IA que penalizo el overlap de SCHF/VEA via SK hynix (ya NO COMPRAR individualmente). IEFA tambien tiene el MEJOR retorno desde inception del trio (8.40% anualizado vs 5.722%/5.17%) y el yield MAS ALTO (3.27% vs 2.99%/2.50%), aunque su retorno reciente 1Y (23.12-27.03%) es menor que SCHF/VEA (~30%), coherente con no haberse beneficiado del mismo impulso de semis coreanos. Es la CUARTA vez que la serie 'Core' de BlackRock aparece en el proyecto (tras IXUS, IEUR, IEMG), y comparte la MISMA fecha exacta de lanzamiento que IXUS e IEMG (18-oct-2012), confirmando por tercera vez ese lanzamiento coordinado masivo. Rol en Portafolio: Core. Competidores comparados en el workbook: SCHF (fila 69), VEA (fila 70)."
+  }
+}

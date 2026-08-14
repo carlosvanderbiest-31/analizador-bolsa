@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares MSCI EAFE Value ETF",
+  "ticker": "EFV",
+  "categoria": "Equity Tematico/Factor (VALUE puro, mercados desarrollados EAFE -Europa+Australasia+Japon, excluye Canada- - PRIMER fondo de factor value internacional del proyecto)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por MUESTREO OPTIMIZADO (Trackinsight).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, exposicion a Japon+Europa (EAFE: Europe, Australasia, Far East, EXCLUYE Canada a diferencia de EPAC) - riesgo cambiario MULTI-DIVISA (JPY, EUR, GBP, CHF, etc.) no cubierto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$26.23-29.63bn (stockanalysis $29.63bn, Trackinsight EUR26.23bn~$28.5bn) - fondo grande y solido.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 1-ago-2005 (~21 anios) - cubre la Crisis Financiera 2008 DIRECTAMENTE (fondo con peso extremo en financieras, 41.85%, justo antes del colapso bancario global de 2008), la crisis de deuda soberana europea 2010-2012, COVID 2020, y el rally reciente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - VIGESIMOPRIMERA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.4
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.31-0.33% - moderado, mas barato que IDV (0.50%) pero mas caro que los fondos Core/Vanguard sin tilt de factor (VXUS 0.05%, IEUR 0.09%, VGK 0.06%) - razonable para un producto de FACTOR (value), categoria historicamente mas cara que la exposicion pasiva pura.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI EAFE Value - rebalanceo tipicamente trimestral/semestral de MSCI, no confirmado con fuente primaria especifica de EFV esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = 4.6M acciones/dia, ~$125M/dia (cifra verificada con precision) - solido.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask = 0.01% - **EXCELENTE**, significativamente mas ajustado que el promedio de mercado de ETFs (15-30 puntos basicos).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "406 (Trackinsight) a 435 (stockanalysis) holdings - buena diversificacion interna para un fondo de factor.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 19.29% - BAJO, buena diversificacion, similar en espiritu a IEUR/VGK.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Finance 41.85% (maximo) - concentracion sectorial alta pero TIPICA Y ESPERADA de un fondo de factor VALUE puro (bancos/financieras y energia son estructuralmente las acciones 'value' por excelencia), resto razonablemente diversificado entre Consumer Non-Cyclicals/Materials/Healthcare/Industrials/Energy/Utilities/Consumer Cyclicals (todos <10%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia primaria: Japon, Reino Unido y Francia (iShares) - **EAFE incluye Japon**, a diferencia del cluster puramente europeo del proyecto (FEZ/IEUR/EZU/VGK, sin Japon) y de IDV (EPAC, sin destacar Japon en su composicion) - diversificacion geografica GENUINAMENTE DISTINTA de cualquier otro fondo del proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Sesgo VALUE PURO por metodologia de indice - **PRIMER fondo de factor value internacional del proyecto**, equivalente en espiritu a VTV (value factor domestico, ya analizado en el proyecto de acciones/ETFs) pero aplicado a EAFE.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI EAFE Value - metodologia de factor reconocida y transparente, mismo proveedor MSCI que IXUS/ACWX/EWC/INDA/IEUR/EWJ en el proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de EFV esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 10Y anualizado = 10.62% - SOLIDO. 2025 (calendario) = **+42.36% - MUY FUERTE**, consistente con la rotacion value/internacional ya documentada extensamente en el proyecto (SCHD/VTV/IDV).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad = 15.17% (anualizada) - moderada, plausible. **Una fuente etiqueto erroneamente la ventana como 'ultimos 30 anios' cuando el fondo real solo tiene 21 anios de existencia - TERCERA INSTANCIA CONFIRMADA del mismo gotcha de duracion mal etiquetada ya documentado con VGK y EWJ**, refuerza que es un patron sistematico de ciertas fuentes de datos (probablemente extienden con historial de indice retroactivo/backtested).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -63.94% desde inception (una metodologia) a -59.70% con 120 meses de recuperacion (otra metodologia/fuente) - severo, coherente con la Crisis 2008 golpeando a un fondo con peso extremo en financieras (41.85%) nacido en 2005.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio: 2.37 y 1.93 segun fuente (ambas recientes/12 meses) - claramente infladas por el rally excepcional de 2025 (+42.36%), mismo gotcha ya documentado repetidamente en el proyecto. Sin cifra de largo plazo confiable encontrada esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.62 - moderado-bajo. **CERO OVERLAP DETECTADO** con el Dashboard de acciones individuales del usuario - ninguno de los top10 (HSBC, Nestle, Shell, Mitsubishi UFJ, Roche, Allianz, Novartis, Toyota, Siemens, TotalEnergies, BBVA) coincide, todos ya verificados repetidamente sin match en fichas anteriores del proyecto (FEZ/IEUR/EZU/VGK/EWJ).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "21 anios de historial cubren la Crisis Financiera 2008 DIRECTAMENTE (impacto maximo dado el peso financiero extremo), la crisis de deuda soberana europea 2010-2012, COVID 2020, y el rally reciente de value/internacional.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 14.37x - barato, coherente con el sesgo value estructural del fondo. Sin percentil historico propio verificado esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 4.48% - alto, similar orden de magnitud a IDV (5.12%), reflejo del mismo tipo de sesgo value/financiero/energetico. Distribucion SEMESTRAL.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "PRIMER fondo de factor value internacional del proyecto - sin competidor directo verificado en este workbook. Candidatos conocidos: EFA (iShares MSCI EAFE, sin tilt value, el hermano 'neutro' de EFV), IVLU (Invesco S&P International Developed Low Volatility/Value) - ninguno verificado con datos propios esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **Core** - dado el CERO overlap confirmado y la naturaleza genuinamente diferenciadora del factor value internacional (ninguna redundancia con el resto del cluster ex-US/europeo/de pais unico ya analizado, todos exposicion 'blend' o de mercado amplio), EFV aporta una dimension de FACTOR que ningun otro fondo del proyecto cubre.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: primer acceso puro a la prima de valor en mercados desarrollados internacionales (EAFE, incluye Japon), con CERO overlap de holdings individuales, yield alto (4.48%), P/E barato (14.37x), y un repunte reciente muy fuerte (2025 +42.36%) consistente con la narrativa de rotacion value ya documentada extensamente en el proyecto (SCHD/VTV/IDV).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentracion sectorial en financieras (41.85%); (2) Max Drawdown historico severo (-63.94%, impacto directo de la Crisis 2008 en un fondo bancario-pesado); (3) riesgo cambiario multi-divisa; (4) posible 'value trap' si la rotacion reciente hacia value se revierte, mismo principio de cautela ya aplicado a otros rallies fuertes del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "EFA (iShares MSCI EAFE, sin tilt value) e IVLU (Invesco) identificados como candidatos sin datos propios verificados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.88/5 - solido, apoyado en ser el PRIMER fondo de FACTOR VALUE internacional del proyecto (equivalente en espiritu a VTV pero aplicado a EAFE en vez de EEUU) con CERO OVERLAP confirmado con el Dashboard de acciones individuales del usuario. La cobertura geografica (Japon, Reino Unido, Francia como principales) es GENUINAMENTE DISTINTA de cualquier otro fondo del cluster ex-US/europeo ya analizado: EAFE incluye Japon (a diferencia del cluster puramente europeo FEZ/IEUR/EZU/VGK) y excluye Canada (a diferencia de IDV/EPAC). Calidad estructural excelente: liquidez verificada con precision (volumen $125M/dia, spread 0.01%, de los mas ajustados del proyecto), buena diversificacion interna (406-435 holdings, Top10 solo 19.29%), valoracion barata (P/E 14.37x) y yield alto (4.48%) coherentes con el sesgo value estructural. El retorno reciente es excepcionalmente fuerte (2025 calendario +42.36%, 10Y anualizado 10.62%), consistente con la narrativa de rotacion value/internacional ya documentada extensamente en el proyecto (SCHD/VTV/IDV). Se confirmo una TERCERA instancia del gotcha de duracion mal etiquetada ya documentado con VGK y EWJ (una fuente reporto volatilidad de 'ultimos 30 anios' para un fondo que solo tiene 21 anios reales de existencia). El riesgo principal es la concentracion sectorial en financieras (41.85%, aunque tipica y esperada de un fondo value) y el Max Drawdown historico severo (-63.94%, impacto directo de la Crisis 2008 en un fondo bancario-pesado nacido en 2005). Rol en Portafolio: Core, dado el overlap cero y la dimension de factor genuinamente nueva que aporta al proyecto. Competidores identificados sin verificar: EFA (version sin tilt value), IVLU (Invesco)."
+  }
+}

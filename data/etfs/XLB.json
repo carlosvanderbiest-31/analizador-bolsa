@@ -1,0 +1,225 @@
+{
+  "nombre": "Materials Select Sector SPDR Fund",
+  "ticker": "XLB",
+  "categoria": "Equity Sector (Materials GICS puro, mismo dia de inception que XLU/XLK/XLE/XLP/XLI -16-dic-1998, ya en el workbook- - SEPTIMO miembro de la familia Select Sector SPDR del proyecto, competidor DIRECTO de IYM -fila 116, ya en el workbook- ya flagged explicitamente en su propia Ficha, PERO con un resultado de comparacion mas MATIZADO que el caso XLP-vs-IYK)",
+  "emisor": "State Street (SPDR)",
+  "fecha_analisis": "2026-08-12",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica fisica -misma metodologia que el resto de la familia SPDR-, sin swaps ni contraparte.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, RIC estandar -Select Sector SPDR NO es UIT-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $8.40-8.82bn - **~7-8x mas grande que IYM** -~$1.05-1.18bn, fila 116-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 16-dic-1998 (~27.65 anios) - **MISMO DIA que XLU/XLK/XLE/XLP/XLI**, ya en el workbook, SEPTIMO miembro original de la familia Select Sector SPDR.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor State Street/SPDR, mismo emisor establecido que el resto de la familia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.08% - **~4.75x mas barato que IYM -0.38%-**, estandar de la familia.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking excelente: Premium/Discount 0.00% en fecha de medicion, opero cerca del NAV 69 de 123 dias en H1-2026 -cifra genuinamente precisa-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "RIC estandar, presumiblemente presta valores como el resto de la familia SPDR.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Cambios de composicion GICS raros - turnover normal bajo, igual que el resto de la familia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~2.39-3.82M acciones/dia (~$125-200M+/dia) - **MUCHO MAS liquido que IYM** -volumen delgado en acciones-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread 0.02% -mediana 30 dias- - muy ajustado, ventaja de liquidez declarada explicitamente por SSGA.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount 0.00% en fecha de medicion - excelente, cifra genuinamente precisa poco comun en el proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "State Street/SPDR - misma red de AP establecida que el resto de la familia.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.5
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "25-28 holdings - MENOS que los 42-43 de IYM, mas concentrado por conteo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 58.50% del NAV - MENOS concentrado que IYM -67-68%-, y **Linde especificamente MENOS dominante -13.04-13.10% vs ~19-20% en IYM-**. Resto del Top10: Newmont -NEM- 6.97-7.19%, Freeport-McMoRan -FCX- 5.69-5.79%, **Sherwin-Williams -SHW- 5.13-5.23% -YA NO COMPRAR en el proyecto de acciones, CONFIRMADO presente aqui-**, Ecolab -ECL- 4.74-4.77%, Air Products -APD- 4.72-4.78%, Nucor -NUE- 4.64-4.68%, Vulcan Materials -VMC- 4.49-4.51%, Corteva -CTVA- 4.38-4.44%, CRH plc 4.32-4.33% -domicilio Irlanda, un nombre no-US dentro de un fondo 'US Materials'-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "**GICS PURO**: Chemicals 48.86% + Metals & Mining 21.77% + Containers & Packaging 16.22% + Construction Materials 13.15% - **SIN la fuga hacia Industrials -Fastenal- que tiene IYM -~11-12%-**, ejecucion sectorial genuinamente mas pura.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia nominalmente US, aunque incluye CRH plc -domiciliada en Irlanda- y otras con operaciones globales significativas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Materials GICS amplio, cap-weighted - la version 'pura' de la exposicion que IYM ejecuta via Russell-capped.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Select Sector Index GICS - misma metodologia rigurosa/iconica que el resto de la familia SPDR, mas establecida que el enfoque Russell de IYM.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo trimestral estandar de la familia Select Sector SPDR.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y +16.96% a +21.59%, 3Y anualizado +7.59-7.62%, 5Y anualizado +5.78-5.80%, 10Y anualizado +9.70-9.73%, desde inception +8.02-8.32% anualizado - **NOTABLEMENTE, XLB RINDIO MENOS que IYM en 3Y/5Y/10Y** -IYM: 3Y ~8.8%, 5Y ~10.8%, 10Y ~12.3%- **pese al TER mucho mas bajo** - una diferencia real y honesta frente al patron limpio de XLP-vs-IYK, donde el fondo mas barato tambien ganaba en retorno.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Rango 52 semanas $42.04-$54.14 (ratio 1.29x) - algo MENOS volatil que IYM -~1.38x-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown Crisis 2008: -55.49% a -59.83%, pico jun-2008, piso feb-2009, recuperacion completa ~abr-2013 -**~59 meses, ~4.9 anios**- - MENOS severo en magnitud que IYM -67.78%- pero con una recuperacion COMPARABLEMENTE LARGA. COVID: -27.72% -ventana 10Y-. Bear 2022: ~-23.73% -fechas aproximadas-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe 0.85 -SOLO ventana de 1 anio, no una cifra de largo plazo- - vacio/limitacion de dato real.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.93 vs S&P 500 - moderado, similar al rango de IYM -0.88-0.98-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "**Dataset de crisis MAS COMPLETO que IYM**: Crisis 2008 -55.49% a -59.83%/~59 meses + COVID -27.72% + bear 2022 ~-23.73% -las tres documentadas, IYM solo tenia la de 2008-.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E 18.45x -SSGA FY1- a 23.51x -stockanalysis, conflicto de fuente- - razonable. P/B 3.01x -cifra confirmada, IYM no tenia dato-.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend Yield 1.60-1.61% TTM, trimestral - **MAS ALTO que IYM** -1.23-1.33%-, ventaja de ingreso real.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION MAS MATIZADA del cluster de materiales del proyecto**: XLB vs IYM -fila 116, ya en el workbook, flagged explicitamente como pendiente en su propia Ficha- - XLB gana DECISIVAMENTE en costo -TER 0.08% vs 0.38%, ~4.75x-, escala -AUM 7-8x mayor-, liquidez, spread -0.02%- y concentracion -Top10 58.50% vs 67-68%, Linde 13% vs ~19-20%- - PERO **XLB RINDIO MENOS que IYM en 3Y/5Y/10Y** pese al costo mucho menor, una diferencia real que rompe el patron limpio 'el mas barato siempre gana' ya visto con XLP-vs-IYK. Confirma a Sherwin-Williams -SHW, YA NO COMPRAR en el proyecto de acciones- como posicion presente -5.13-5.23%-. SEPTIMO miembro de la familia SPDR del proyecto -junto a XLU/XLK/XLE/XLC/XLP/XLI-. XME -fila 117, ya en el workbook, equal-weight puro metales/mineria- ofrece un tercer angulo sobre la tematica de materiales.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: SATELITE sectorial - exposicion razonablemente diversificada, barata y liquida a Materials, aunque sigue siendo concentracion de un solo sector.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: acceso eficiente, barato y liquido a Materials GICS puro, con mejor ingreso -1.60-1.61%- y menor concentracion en Linde que IYM - PERO el rezago de retorno medio plazo -3Y/5Y/10Y- frente a IYM es una complicacion honesta a la tesis simple de 'elegir el mas barato'.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap con Sherwin-Williams -5.13-5.23%, YA NO COMPRAR en el proyecto de acciones-; (2) Max Drawdown Crisis 2008 documentado con una recuperacion genuinamente larga -~59 meses-; (3) COVID -27.72%, severo para un fondo sectorial 'diversificado'; (4) underperformance de retorno medio plazo -3Y/5Y/10Y- frente a su par mas caro IYM, riesgo genuino de que 'mas barato' no siempre signifique 'mejor retorno' en la practica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "IYM -fila 116, ya en el workbook, el competidor mas caro/mas concentrado en Linde, PERO con mejor retorno medio plazo- es la alternativa mas relevante. XME -fila 117, ya en el workbook, equal-weight puro metales/mineria- ofrece un tercer angulo sobre la misma tematica de materiales.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL - version mas barata y liquida de la tesis Materials, con un matiz honesto de retorno medio plazo. Score 3.61/5, por debajo del resto de la familia Select Sector SPDR flagship ya en el workbook -XLU 3.85, XLP 3.82, XLI 3.73-, aunque solido. Materials Select Sector SPDR Fund, State Street, SEPTIMO miembro de la familia -junto a XLU/XLK/XLE/XLC/XLP/XLI-, inception 16-dic-1998 -MISMO DIA que XLU/XLK/XLE/XLP/XLI-. **Es el competidor DIRECTO de IYM -fila 116, ya en el workbook, que flagged explicitamente esta comparacion pendiente en su propia Ficha-**: XLB gana DECISIVAMENTE en costo -TER 0.08% vs 0.38%, ~4.75x-, escala -AUM 7-8x mayor-, liquidez, spread -0.02%, con tracking casi perfecto- y concentracion -Top10 58.50% vs 67-68% de IYM, Linde 13.04-13.10% vs ~19-20% en IYM-, ademas de ejecucion GICS PURA -sin la fuga hacia Industrials/Fastenal que tiene IYM-. **PERO, a diferencia del caso limpio XLP-vs-IYK, XLB RINDIO MENOS que IYM en 3Y/5Y/10Y** -XLB 5Y +5.78-5.80% vs IYM ~+10.8%- pese al costo mucho mas bajo, una diferencia real y honesta que complica la tesis simple de 'elegir siempre el mas barato'. Confirma la presencia de Sherwin-Williams -SHW, YA NO COMPRAR en el proyecto de acciones- en el Top10 -5.13-5.23%-. Max Drawdown Crisis 2008 -55.49% a -59.83%, recuperacion de ~59 meses, MENOS severo que IYM pero con una recuperacion igualmente larga. Dividend yield 1.60-1.61%, MAS ALTO que IYM. Rol en Portafolio: Satelite sectorial, la version estructuralmente superior de la tesis Materials para un inversor nuevo, aunque IYM ha ofrecido mejor retorno medio plazo pese a su costo mayor - ambos ya en el workbook, junto a XME como tercer angulo tematico."
+  }
+}

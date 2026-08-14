@@ -1,0 +1,226 @@
+{
+  "nombre": "ProShares UltraShort Silver",
+  "ticker": "ZSL",
+  "categoria": "Materias Primas Apalancado/Inverso (-2x diario sobre plata, via futuros/swaps - SEGUNDO instrumento apalancado/inverso del proyecto tras KOLD, mismo emisor y mecanica, distinto commodity subyacente)",
+  "emisor": "ProShares",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica SINTETICA via futuros de plata (contrato sep-2026) Y SWAPS con contrapartes bancarias NOMBRADAS (Citibank, Goldman Sachs, UBS) - a diferencia de KOLD (solo futuros), ZSL anade riesgo de contraparte bancario explicito y nombrado ademas del riesgo de camara de compensacion de los futuros.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US (ProShares Trust II). Sin retencion de dividendos extranjeros (no aplica), PERO genera formulario fiscal K-1 (partnership) igual que KOLD - SEGUNDA confirmacion de esta complejidad fiscal en la categoria apalancado/inverso del proyecto.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM con rango amplio entre fuentes: $59.19M (stockanalysis, mas reciente) a $120-166M (otras fuentes, fechas anteriores en 2026) - la caida coincide con el desplome de precio del fondo este anio (ver fila 39/40), consistente y no una discrepancia de fuente sino una caida real de activos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 1-dic-2008 (~17.7 anios) - EL MAS LARGO de los dos instrumentos apalancados/inversos del proyecto (KOLD 14.8 anios), cubre la Crisis Financiera 2008 DIRECTAMENTE desde su nacimiento y multiples ciclos alcistas/bajistas completos de la plata.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor ProShares - SEGUNDA aparicion consecutiva en el proyecto (tras KOLD), mismo especialista en apalancados/inversos.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.95% - IDENTICO al de KOLD, confirma que es el precio estandar de la linea Ultra/UltraShort de materias primas de ProShares (SEGUNDA confirmacion), normal para la categoria pese a ser alto en terminos absolutos.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Decay EXTREMO: retorno 1Y = -89.12%, el PEOR resultado de cualquier periodo de cualquier ETF del proyecto - la plata tuvo un rally historico este anio y el -2x inverso amplifico la perdida por partida doble (direccion equivocada + compounding diario). Cifras de 'retorno anual promedio desde inception' encontradas (-41.85% a -42.49%) son INCONSISTENTES con una cifra de 'retorno acumulado desde inception' de -43.0% tambien reportada (matematicamente, un -42%/anio compuesto por 17.7 anios implicaria una perdida acumulada cercana al 100%, no 43%) - se presentan ambas cifras con la reserva explicita de que probablemente una sea un promedio aritmetico simple y no un CAGR real, mismo tipo de gotcha de datos conflictivos ya documentado con EWY.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Rotacion DIARIA de los contratos de futuros y swaps de plata, misma mecanica de KOLD - fuente directa del decay.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~1.2M acciones/dia (~$30M/dia al precio actual $24.81) - MENOR en terminos de dolares que KOLD (~$46-84M/dia), aunque el precio de la accion se desplomo de un maximo de 52 semanas de $241.30 a $24.81 (ver fila 40), lo que reduce el volumen en USD aun con conteo de acciones similar.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "ProShares - misma profundidad de Authorized Participants que KOLD, adecuada para la categoria.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Numero de holdings y diversificacion",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion Top 10 holdings (%)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Concentracion geografica",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+      "aspectos": [
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice Bloomberg Silver Subindex (tambien referenciado como Dow Jones-UBS Silver Sub-Index en fuentes legadas), UN SOLO commodity, -2x diario via futuros/swaps - metodologia transparente pero deliberadamente NO diversificada, mismo tipo de estructura que KOLD sobre un commodity distinto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Rebalanceo DIARIO al cierre de cada sesion para mantener el objetivo -2x - identico mecanismo estructural a KOLD, SEGUNDA confirmacion en el proyecto de que el rebalanceo diario es la causa mecanica directa del decay en la categoria apalancado/inverso, patron ahora sistematico y no un caso aislado de KOLD.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = -89.12% - EL PEOR de cualquier ETF/periodo del proyecto, reflejo directo del rally historico de la plata en el ultimo anio combinado con el decay del apalancamiento -2x. Cifras de retorno desde inception conflictivas, ver fila 19.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad extrema: rango de 52 semanas $14.40-$241.30 (ratio 16.76x entre minimo y maximo) - LA MAS EXTREMA de cualquier ticker del proyecto por un margen amplio, incluso superando a KOLD (ratio 3.7x).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "No se encontro cifra puntual de Max Drawdown esta sesion, pero el desplome de precio de $241.30 a $24.81 dentro de la misma ventana de 52 semanas (fila 40) implica un drawdown superior al 89% dentro de un solo anio - el mas severo del proyecto.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.0
+    },
+    {
+      "titulo": "Sharpe / Sortino ratio",
+      "aspectos": [
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = -1.14 - numericamente mas fuerte (mas negativo) que el de KOLD (-0.11), PERO medido en un periodo dominado por un rally historico y atipico de la plata, no una relacion inversa estable ni fiable como diversificador estructural del portafolio hacia adelante.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Dividend/Distribution yield vs. historico propio",
+      "aspectos": [],
+      "rating_promedio": null
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "Sin competidor -2x directo sobre plata de otro emisor identificado esta sesion. AGQ (mismo emisor ProShares, +2x LARGO sobre el mismo indice) es el espejo direccional, no un sustituto - misma relacion que BOIL/KOLD. SLV o PSLV (exposicion 1x fisica simple sin apalancamiento) serian la alternativa logica si se buscara exposicion direccional a la plata sin el decay amplificado del -2x. Ninguno presente en el workbook. | ACTUALIZACION posterior (AGQ, fila 78): ahora con datos propios verificados, AGQ confirma ser el espejo direccional exacto (mismo indice, misma fecha de inception 1-dic-2008) pero con un contraste MAS MATIZADO que el par KOLD/BOIL - AGQ termina con un CAGR desde inception levemente POSITIVO pero modesto (+1.59% a +3.17%, cifras conflictivas entre fuentes) mientras ZSL termina fuertemente NEGATIVO (-42%), sugiriendo que la plata tuvo una tendencia de largo plazo mas plana/lateral que otros commodities del proyecto, con volatilidad extrema que castiga desproporcionadamente al lado corto via decay. Ver Ficha AGQ fila 50 para el detalle completo de esta comparacion. | ACTUALIZACION posterior (SIVR, fila 82): ahora analizada en el workbook la alternativa 1x fisica sin apalancamiento a la plata (abrdn Physical Silver Shares, TER 0.30%, CAGR desde inception +9.13% solido y positivo, sin decay ni contango) - Score 3.62, el mas alto de toda la categoria de materias primas del proyecto, confirma que la exposicion fisica simple es estructuralmente muy superior a la version apalancada -2x para cualquier horizonte mayor a dias. Ver Ficha SIVR fila 50 para el detalle completo.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: TACTICO/ESPECULATIVO DE MUY CORTO PLAZO (horizonte de dias) - misma categoria que KOLD, NUNCA apto como posicion de largo plazo. El resultado de este anio (-89.12% en 1Y) es el ejemplo mas extremo del proyecto de por que.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: unicamente tiene sentido como (a) cobertura tactica de exposicion real a la plata por un horizonte de pocos dias, o (b) apuesta direccional bajista de trading de muy corto plazo sobre el precio de la plata. El desempeno de este anio (rally historico de la plata que devasto la posicion -2x) es la advertencia mas clara del proyecto sobre el riesgo de sostener una vision direccional equivocada en este tipo de instrumento.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) decay compuesto por rebalanceo diario -2x, el PEOR resultado medido de todo el proyecto (-89.12% en 1Y); (2) volatilidad mas extrema del proyecto (rango 52 semanas 16.76x); (3) riesgo de contraparte bancario NOMBRADO en swaps (Citibank, Goldman Sachs, UBS), mas explicito que el de KOLD; (4) complejidad fiscal via K-1; (5) beta -1.14 posiblemente no representativo/estable hacia adelante, medido en un periodo excepcional para la plata.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "AGQ (mismo emisor, +2x LARGO, espejo direccional, no sustituto) y SLV/PSLV (exposicion 1x fisica sin apalancamiento, la alternativa logica sin decay amplificado) son las alternativas relevantes, ninguna presente en el workbook. AGQ (fila 78) ahora tambien analizado en el workbook con datos propios - ver comparacion completa en su Ficha. SIVR (fila 82) ahora tambien analizado en el workbook con datos propios - alternativa fisica 1x, Score 3.62 el mas alto del proyecto en materias primas, ver comparacion completa en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "NO APTO PARA PORTAFOLIO DE LARGO PLAZO. Score 2.30/5 - el MAS BAJO de todo el proyecto (supera a KOLD, 2.35), SEGUNDO instrumento apalancado/inverso analizado: ProShares UltraShort Silver, -2x diario sobre plata via futuros y swaps con contrapartes bancarias nombradas (Citibank, Goldman Sachs, UBS). El decay compuesto del rebalanceo diario, combinado con un rally historico de la plata en el ultimo anio, produjo un retorno 1Y de -89.12% - el peor resultado de rentabilidad de cualquier ETF/periodo de todo el proyecto - y una volatilidad extrema sin precedente (rango de 52 semanas de 16.76x entre minimo y maximo). Es la evidencia mas clara del proyecto de por que un instrumento -2x diario es estructuralmente inadecuado para cualquier horizonte mayor a unos pocos dias: perder casi el 90% del valor en un solo anio no requiere un error de analisis fundamental, solo estar del lado equivocado de un movimiento sostenido del commodity subyacente mientras el apalancamiento diario compone la perdida. Unico uso legitimo: cobertura tactica de exposicion real a la plata por un horizonte de dias, o apuesta direccional bajista de trading de muy corto plazo - nunca como posicion Core o Satelite del portafolio. Sin competidor -2x directo identificado; AGQ (mismo emisor, +2x largo) es el espejo direccional, no una alternativa comparable; SLV/PSLV serian la via logica para exposicion direccional simple sin decay amplificado. Confirma con KOLD (fila 73) que el patron de decay compuesto por rebalanceo diario es sistematico en la categoria apalancado/inverso, no un caso aislado."
+  }
+}

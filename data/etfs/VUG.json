@@ -1,0 +1,224 @@
+{
+  "nombre": "Vanguard Growth ETF",
+  "ticker": "VUG",
+  "categoria": "Equity Tematico/Factor (growth, gran capitalizacion US - hermano de VTV)",
+  "emisor": "Vanguard",
+  "fecha_analisis": "2026-08-10",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA (confirmado por Trackinsight). Sin riesgo de contraparte.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, practicamente 100% empresas US - friccion fiscal minima.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM = $229.61bn (stockanalysis.com) / ~$215bn (Trackinsight EUR198.39bn al 6-ago-2026) - **EL AUM MAS GRANDE DE TODO EL PROYECTO**, superando incluso a VTV ($191.42bn), su fondo hermano.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Lanzado 26-ene-2004 - EL MISMO DIA que VTV (~22.5 anios de historial al 2026-08-10) - Vanguard lanzo el par growth/value simultaneamente. Tercer track record mas largo del proyecto, empatado con VTV.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor: Vanguard - CUARTA aparicion en el proyecto (VYMI, VTV, ahora VUG).",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 5.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.03% - EMPATADO con VTV como el TER MAS BAJO de todo el proyecto.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "No verificado con fuente primaria en esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "No verificado - no disponible en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Se infiere rebalanceo TRIMESTRAL por simetria directa con VTV (misma familia de indices CRSP, mismo emisor, mismo criterio de reconstitucion growth/value) - no se re-verifico independientemente en esta sesion dado que es la misma metodologia ya confirmada para VTV.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "No se obtuvo cifra explicita de volumen diario, pero con AUM $229.6bn y 3.10 mil millones de acciones en circulacion (stockanalysis) se infiere liquidez extrema con alta confianza.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "No verificado con cifra exacta, pero el AUM mas grande del proyecto sugiere un spread minimo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "No verificado con cifra exacta esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Vanguard, el ETF con mayor AUM del proyecto - se infiere profundidad de Authorized Participants excelente.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "146-151 holdings segun la fuente (Trackinsight 146, stockanalysis 151) - MENOS diversificado que VTV (326), aunque razonablemente diversificado comparado con cualquier fondo sectorial del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top 10 = 60.27% - MUCHO mas concentrado que VTV (23.51%), comparable en magnitud a SOXX (61.14%)/SMH (71.46%) pese a ser nominalmente un fondo de estilo (growth) y no un fondo sectorial - los nombres growth de mayor conviccion resultan ser, en la practica actual, casi todos megacaps de tecnologia.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Segun Trackinsight (30-jun-2026): Technology 69.79%, Consumer Non-Cyclicals 6.33%, Industrials 4.79%, Finance 4.73%, Healthcare 4.67% - MUY concentrado en tech (70%), mucho MENOS diversificado sectorialmente que su fondo hermano VTV (maximo 24.4% en un sector).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% US (mismo perfil que VTV, universo CRSP domestico).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Factor GROWTH bien definido por la misma metodologia CRSP que VTV (score compuesto, pero del lado growth: crecimiento de utilidades/ventas, momentum de precio, en vez de metricas de valoracion barata). Metodologia academicamente reconocida (factor growth de Fama-French, complemento directo del factor value).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice CRSP US Large Cap Growth Index - misma familia de indices que VTV (CRSP, proveedor academico reconocido), clasificacion growth/value con solapamiento minimo entre ambos sleeves, ponderacion por capitalizacion de mercado free-float.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Se infiere rebalanceo trimestral por simetria con VTV (mismo proveedor CRSP) - no re-verificado independientemente esta sesion.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.29
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno desde inception (ene-2004, ~22.5 anios) = 12.30% anualizado (stockanalysis.com) - MEJOR que VTV (9.77%), consistente con el outperformance historico bien documentado de growth sobre value en gran parte de este periodo (especialmente la ultima decada de dominio de megacaps tech). Retorno 1Y (ago-2026) = +17.27% - NOTABLEMENTE MENOR que VTV (+29.08%) en el MISMO periodo - confirma la rotacion reciente hacia value/dividendo ya observada en varias fichas del proyecto (SCHD y VTV se beneficiaron de ella, VUG se quedo rezagado).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada = 20.0% segun un agregador (fuente unica, pero plausible) - similar en magnitud a VTV (18.6%) y SPMO (20.4%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Maximo Drawdown = -50.7% desde inception (fuente unica, plausible) - SEVERO, aunque MENOS que VTV (-59.3%). Interesante: uno esperaria que growth/tech tuviera un drawdown peor dado su mayor beta, pero el crash de 2008 fue especificamente una crisis FINANCIERA que golpeo mas fuerte a VTV (24.4% en Finance) que a VUG (tech-heavy, menos expuesto directamente al sistema bancario en ese periodo especifico).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio = 0.55-0.67 desde inception segun dos fuentes (una especificamente fechada '01/30/2004 a 05/26/2026', casi coincidente con la fecha de inception real) - similar o algo mejor que VTV (0.58).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 1.23 (stockanalysis) - moderado-alto, MAYOR que VTV (0.76), consistente con el perfil growth. **OVERLAP CASI TOTAL, EL MAS COMPLETO DEL PROYECTO**: los DIEZ holdings principales (NVIDIA 12.59%, Apple 11.64%, Microsoft 7.59%, Alphabet -GOOGL 5.74%+GOOG 4.52%, misma empresa, dos clases de accion-, Amazon 4.46%, Broadcom 4.27%, Meta Platforms 3.40%, Tesla 3.26%, Eli Lilly 2.80%) TODOS ya estan analizados individualmente en el Dashboard de acciones del usuario, sumando 60.27% del fondo. Es la PRIMERA VEZ en el proyecto que el 100% de las posiciones del top10 (no solo la mayoria) coinciden con las convicciones individuales del usuario, aunque el PORCENTAJE total queda ligeramente por debajo del record de SMH (61.86%).",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "El drawdown de -50.7% (fila 41), aunque severo, es MENOS que el de VTV (-59.3%) en la misma ventana historica de 22 anios que incluye 2008, COVID y 2022.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 36.65x - notablemente MAS CARO que VTV (20.92x), consistente con el premium historico que el mercado paga por growth sobre value. NO SE VERIFICO el percentil historico propio.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 0.38% - bajo, consistente con empresas growth que reinvierten el flujo de caja en vez de repartir dividendo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+          "notas": "No aplica - VUG es un fondo 100% equity, sin componente de renta fija.",
+          "calificacion": null
+        },
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "COMPARACION DIRECTA CON VTV (ya analizado en este mismo workbook, fila 17, MISMO emisor, MISMO dia de lanzamiento -26-ene-2004-, MISMO TER 0.03%): VUG tiene MEJOR track record de largo plazo (12.30% vs 9.77% anualizado) pero PEOR 1Y reciente (17.27% vs 29.08%, reflejo de la rotacion actual hacia value), es MAS CARO (P/E 36.65x vs 20.92x), MAS CONCENTRADO (top10 60.27% vs 23.51%, solo 146-151 holdings vs 326) y tiene un OVERLAP MUCHO MAYOR Y MAS COMPLETO con la cartera individual del usuario (100% del top10 vs ~16.5% parcial de VTV). Es el 'espejo' growth de VTV, pero con un perfil de riesgo/overlap sustancialmente peor para este usuario en particular.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.33
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: dado el OVERLAP CASI TOTAL (100% del top10) con las convicciones individuales ya tomadas por el usuario, VUG practicamente DUPLICA la cartera de megacaps tech/growth que el usuario ya posee individualmente - es el candidato MENOS recomendable a cualquier rol de portafolio de todo el proyecto en terminos de valor incremental REAL para este usuario especifico.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion de bajo costo al factor growth de gran capitalizacion en EEUU (crecimiento de utilidades, momentum de calidad) - tesis valida en abstracto y bien fundamentada academicamente, pero para ESTE usuario en particular, con practicamente NINGUN valor incremental dado que ya posee individualmente cada una de las 10 principales posiciones del fondo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) OVERLAP CASI TOTAL (100% del top10: NVDA/AAPL/MSFT/GOOGL+GOOG/AMZN/AVGO/META/TSLA/LLY) con la cartera individual del usuario - el mas completo de todo el proyecto; (2) concentracion sectorial alta en tech (~70%); (3) valoracion cara (P/E 36.65x); (4) beta moderado-alto (1.23); (5) drawdown historico severo (-50.7%); (6) el 1Y reciente rezagado (+17.27% vs +29.08% de VTV) sugiere que el liderazgo de mercado puede estar rotando hacia value, un riesgo de timing adicional para quien compre VUG persiguiendo el rendimiento historico de growth justo cuando el factor podria estar perdiendo momentum relativo.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "VTV (ya analizado en este mismo workbook, fila 17) es la comparacion directa mas obvia dado que comparten emisor/dia de lanzamiento/TER. Para este usuario especifico, NINGUNO de los dos (ni VUG ni, en menor medida, VTV) representa diversificacion genuina dado el nivel de convicciones individuales ya tomadas, aunque VTV tiene un overlap proporcionalmente mucho menor. QQQ, VONG (Vanguard Russell 1000 Growth), IVW (iShares S&P 500 Growth) son otras alternativas de growth no verificadas en esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 1.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER - no agregar. Score ~3.36/5, notablemente MENOR que VTV (4.06) pese a compartir emisor, dia de lanzamiento, TER y calidad estructural excepcional (AUM MAS GRANDE del proyecto -$229.6bn-, TER MAS BAJO empatado con VTV -0.03%-, indice CRSP transparente y academico, 22.5 anios de historial). El score cae por la combinacion de mayor valoracion (P/E 36.65x vs 20.92x de VTV), mayor concentracion (top10 60.27% vs 23.51%, solo 146-151 holdings vs 326) y, sobre todo, un OVERLAP CASI TOTAL Y SIN PRECEDENTE: las DIEZ posiciones principales (NVDA, AAPL, MSFT, GOOGL+GOOG, AMZN, AVGO, META, TSLA, LLY) estan TODAS ya analizadas individualmente en el Dashboard de acciones del usuario - la primera vez en el proyecto que el 100% del top10 (no solo la mayoria) coincide con las convicciones ya tomadas. Comprar VUG equivaldria en la practica a duplicar con un TER adicional (aunque minimo, 0.03%) una cartera de megacaps tech/growth que el usuario ya posee individualmente accion por accion. Nota adicional de timing: el retorno 1Y de VUG (+17.27%) quedo notablemente por debajo del de VTV (+29.08%) en el mismo periodo, confirmando la rotacion reciente del mercado hacia value/dividendo ya observada en SCHD y VTV - quien compre VUG ahora estaria persiguiendo un factor (growth) que historicamente ha sido superior a muy largo plazo, pero que en el ultimo ano especificamente ha quedado rezagado frente a value. Si se busca exposicion factorial de bajo costo complementaria a las posiciones individuales del usuario, VTV (fila 17) o SPMO (fila 16, con overlap dinamico en vez de permanente) son alternativas mas eficientes dentro de este mismo workbook."
+  }
+}

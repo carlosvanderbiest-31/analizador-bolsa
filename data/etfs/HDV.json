@@ -1,0 +1,226 @@
+{
+  "nombre": "iShares Core High Dividend ETF",
+  "ticker": "HDV",
+  "categoria": "Equity Tematico/Factor (dividendo/calidad con filtro de MOAT explicito, 100% US, SEXTO competidor del cluster junto a SCHD/NOBL/DVY/DGRO/VIG, unico con distribucion MENSUAL y concentracion notable en Energia)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA, top75 acciones de alto yield seleccionadas por filtros de calidad (Morningstar Economic Moat narrow/wide requerido + Distance to Default en el top 50% del sector) - 81 holdings.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% acciones US - sin retencion de dividendos extranjeros ni complejidad fiscal adicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $14.94bn - SEGUNDO MAS PEQUENO del cluster de dividendo del proyecto (solo por encima de NOBL, $11.90bn).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 29-mar-2011 (~15.4 anios) - similar a SCHD (14.8), entre SCHD y DVY (22.75).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - multiple aparicion ya consolidada en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.08% - igual que DGRO, barato, aunque no tan barato como SCHD (0.06%) o VIG (0.04%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Screening CUALITATIVO distinto de todo el resto del cluster: Morningstar Economic Moat (narrow/wide requerido) + Distance to Default en el top 50% del sector - **SEXTA metodologia genuinamente distinta del cluster**, la UNICA que incorpora un filtro explicito de ventaja competitiva/moat. Seleccion de las 75 acciones de mayor yield que pasan el filtro.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~2.03M acciones/dia (~$59M/dia al precio actual $29.07) - solido.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "81 holdings - MENOS diversificado que SCHD (103), DVY (105), DGRO (397) y VIG (342), similar a NOBL (70).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top5 = **31.72%** - concentrado, similar a VIG (31.87%), mas que DGRO (27.36%), mucho mas que NOBL (16.2%) y DVY (18.86%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "**Concentracion sectorial notable en ENERGIA**: ExxonMobil (7.71%) + Chevron (5.82%) = 13.53% combinado en solo DOS nombres del sector - perfil sectorial mas concentrado en energia que cualquier otro competidor del cluster de dividendo del proyecto. Resto del top5: AbbVie (Healthcare, 6.06%), Verizon (Telecom, 5.48%), Home Depot (Consumo Discrecional, 4.75%).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US - mismo perfil que el resto del cluster, sin diversificacion internacional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Factor dividendo/calidad con filtro de MOAT explicito (unico del cluster), alto yield, sesgo hacia value/energia mas que growth - perfil claramente distinto de DGRO/VIG (growth/tech) y mas cercano en espiritu a DVY (value tradicional).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Morningstar Dividend Yield Focus Index - metodologia propietaria con filtro CUALITATIVO de moat, distinta de los indices puramente cuantitativos del resto del cluster.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas: seleccion de las 75 acciones de mayor yield que superan los filtros de calidad (moat + distance to default); frecuencia de rebalanceo no detallada con precision esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.14
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = **+25.13%** - el SEGUNDO MEJOR del cluster tras SCHD (+31.31%), mejor que DVY (+23.73%). Retorno desde inception (15.4 anios) = **+10.89% CAGR** - similar a NOBL (+10.88%), entre VIG (+10.36%) y DGRO (+12.63%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad no verificada con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown no verificado con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio no verificado con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = **0.55 - EL MAS BAJO (mas defensivo) de TODO el cluster de dividendo del proyecto** (SCHD 0.69, DVY 0.68-0.78, NOBL 0.76, DGRO 0.78, VIG 0.83). Overlap MODERADO: ExxonMobil (#1, 7.71%) tiene verdict **MANTENER, NO ABRIR NUEVA POSICION - VALORACION LA MAS EXIGENTE DEL GRUPO PETROLERO** (Score 3.14, MS -22.2%, cruza moderadamente el piso de venta del framework de acciones); Chevron (#3, 5.82%) tiene MANTENER - PRACTICAMENTE EN VALOR JUSTO (Score 3.32, MS -3.6%); Verizon (#4, 5.48%) tiene MANTENER-ESPERAR (Score 3.16, mismo hallazgo ya visto en DVY). Sin NO COMPRAR severo, pero el peso combinado de XOM+CVX (13.53%) en energia con valoracion exigente especificamente en XOM amerita nota.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Comportamiento en crisis pasadas no verificado con detalle especifico esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.17
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 19.89x - moderado, entre SCHD (17.6x) y NOBL (21.4x).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = **3.03%** - cercano a SCHD (3.1%), notablemente mas alto que DGRO (1.85%), NOBL (2.0%) y VIG (1.46%). **Distribucion MENSUAL - UNICA del cluster con esta frecuencia** (el resto es trimestral).",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION A SEIS BANDAS con SCHD (fila 5), NOBL (fila 87), DVY (fila 88), DGRO (fila 89) y VIG (fila 90), todos ya en el workbook**: HDV es el MAS DEFENSIVO del cluster completo (beta 0.55, el mas bajo de los seis), con distribucion MENSUAL unica y un filtro de calidad/moat explicito que ningun otro competidor incorpora. A cambio, tiene concentracion sectorial en Energia mas marcada que cualquier otro (XOM+CVX 13.53%) y es el segundo fondo mas pequeno del cluster. Yield solido (3.03%, cerca de SCHD) y buen retorno reciente (+25.13% 1Y, segundo del cluster). | ACTUALIZACION posterior (VYM, fila 92): septimo competidor, mucho mas diversificado (618 vs 81 holdings) y con TER menor, pero sin el filtro de moat de HDV y con overlap mucho mas severo via AVGO+CAT (vs el overlap moderado de HDV via XOM). Score 3.44 vs 3.41 de HDV. Ver Ficha VYM fila 50.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Core - el mas defensivo del cluster completo, con perfil de riesgo distinto (mas value/energia, menos growth/tech) al resto de competidores.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: la opcion MAS DEFENSIVA del cluster de dividendo del proyecto (beta 0.55), con filtro de calidad/moat explicito y distribucion mensual unica - apropiada para quien priorice ingreso regular y menor volatilidad relativa, aunque con mayor concentracion sectorial en energia que el resto del cluster.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) concentracion sectorial en Energia (XOM+CVX 13.53% combinado, la mas marcada del cluster); (2) 81 holdings, menos diversificado que la mayoria del cluster; (3) overlap moderado via XOM (valoracion la mas exigente del grupo petrolero individual, MS -22.2%); (4) 100% US, sin diversificacion geografica; (5) AUM el segundo mas pequeno del cluster.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SCHD (fila 5), NOBL (fila 87), DVY (fila 88), DGRO (fila 89) y VIG (fila 90), todos ya en el workbook, son los comparables directos mas relevantes de la categoria de dividendo/calidad del proyecto. VYM (fila 92) tambien analizado - el mas diversificado y barato del cluster, pero con el overlap mas severo via AVGO+CAT, ver comparacion completa en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.41/5 - sexto competidor del cluster de dividendo/calidad del proyecto (SCHD 4.03, DVY 3.63, DGRO 3.59, HDV 3.41, VIG 3.34, NOBL 3.28). iShares Core High Dividend ETF: Morningstar Dividend Yield Focus Index, top75 acciones de alto yield filtradas por Economic Moat (narrow/wide requerido) y Distance to Default en el top 50% del sector - SEXTA metodologia genuinamente distinta del cluster, la UNICA con un filtro explicito de ventaja competitiva. Es el MAS DEFENSIVO del cluster completo (beta 0.55, el mas bajo de los seis competidores) y el UNICO con distribucion MENSUAL en vez de trimestral. Yield solido (3.03%, cerca de SCHD) y buen retorno reciente (1Y +25.13%, segundo del cluster tras SCHD). TER 0.08%, igual que DGRO. PERO tiene la concentracion sectorial mas marcada del cluster: ExxonMobil (7.71%) + Chevron (5.82%) = 13.53% combinado en Energia, mas que cualquier otro competidor. Overlap moderado: XOM (#1 holding) tiene verdict individual MANTENER-NO ABRIR NUEVA POSICION - VALORACION LA MAS EXIGENTE DEL GRUPO PETROLERO (MS -22.2%, cruza moderadamente el piso de venta del framework de acciones); CVX (#3) esta en valor justo (MS -3.6%); Verizon (#4) ya conocido (MANTENER-ESPERAR). Sin senales severas tipo NO COMPRAR, pero el peso en energia con valoracion exigente en XOM amerita cautela. Tambien el segundo fondo mas pequeno del cluster (AUM $14.94bn, solo por encima de NOBL). Con SCHD/NOBL/DVY/DGRO/VIG/HDV, el cluster de dividendo/calidad del proyecto tiene SEIS filosofias distintas de screening/ponderacion, ninguna dominante en todas las dimensiones - HDV ofrece el perfil mas defensivo pero con mayor concentracion sectorial que el resto. Se actualizaron retroactivamente las cinco Fichas previas del cluster con esta comparacion."
+  }
+}

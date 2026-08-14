@@ -1,0 +1,226 @@
+{
+  "nombre": "iShares Core Dividend Growth ETF",
+  "ticker": "DGRO",
+  "categoria": "Equity Tematico/Factor (dividendo/crecimiento, 100% US, ponderado por DOLARES DE DIVIDENDO -no equal-weight ni yield-weighted-, CUARTO competidor del cluster junto a SCHD/NOBL/DVY, PRIMERO con exposicion significativa a mega-cap tech)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA por muestreo representativo, indice ponderado por DOLARES DE DIVIDENDO (no equal-weight como NOBL ni yield/composite-weighted como SCHD/DVY) - 397 holdings.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, 100% acciones US - sin retencion de dividendos extranjeros ni complejidad fiscal adicional.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM $43.40bn - SEGUNDO mas grande del cluster de dividendo del proyecto tras SCHD (~$105bn), mayor que NOBL ($11.90bn) y DVY ($23.77bn).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 10-jun-2014 (~12.2 anios) - similar a NOBL (12.8), menor que SCHD (14.8) y mucho menor que DVY (22.75).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - multiple aparicion ya consolidada en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.2
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.08% - **MUY BARATO**, cercano a SCHD (0.06%), MUCHO mas barato que NOBL (0.35%) y DVY (0.38%).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking difference no verificada con fuente primaria esta sesion; el TER bajo sugiere costo real contenido.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "Securities lending: revenue generado y % que compensa el TER",
+      "aspectos": [
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Screening: 5 anios de track record de incrementos de dividendo, payout ratio <=75% (limite explicito que NOBL/DVY no exigen de la misma forma), ponderado por dividendos en dolares.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario ~1.03M acciones/dia (~$82.1M/dia al precio actual $79.69) - solido, MAYOR que NOBL y DVY.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "**397 holdings - POR MUCHO el MAS DIVERSIFICADO del cluster de dividendo del proyecto** (SCHD 103, NOBL 70, DVY 105).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top5 = 27.36% de los activos - concentracion MODERADA en las principales posiciones pese al gran numero total de holdings, consecuencia de la ponderacion por dividendos en dolares que favorece a megacaps con dividendos grandes en terminos absolutos (MSFT, JPM, JNJ, AAPL, ABBV).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sin cifra sectorial exacta verificada esta sesion, pero la inclusion de MSFT/AAPL (tecnologia) es una diferencia ESTRUCTURAL clave vs SCHD/NOBL/DVY, ninguno de los cuales tiene exposicion tech significativa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Geografia 100% US - mismo perfil que SCHD/NOBL/DVY, sin diversificacion internacional.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Factor dividendo/crecimiento ponderado por DOLARES DE DIVIDENDO (metodologia distinta a equal-weight de NOBL o yield/composite-weighted de SCHD/DVY) - **PRIMERA inclusion de MEGA-CAP TECH (MSFT, AAPL) en el cluster de dividendo del proyecto**, sesgo hacia calidad/crecimiento mas que value puro.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Morningstar US Dividend Growth Index - metodologia transparente, screening por historial+crecimiento+payout ratio.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas claras: 5 anios de incrementos de dividendo, payout ratio maximo 75%, ponderacion por dividendos en USD.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +24.72% (entre DVY +23.73% y SCHD +31.31%). Retorno desde inception (12.2 anios) = **+12.63% CAGR - MUY CERCANO a SCHD** (+12.7%), **EL MEJOR de los competidores no-SCHD del cluster** (NOBL +10.88%, DVY +9.05%).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad no verificada con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown no verificado con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio no verificado con cifra especifica esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta = 0.78 - similar a NOBL (0.76), el mas alto (menos defensivo) del cluster de dividendo del proyecto. **Overlap EXCEPCIONALMENTE POSITIVO**: los 4 principales holdings (MSFT 3.86, JPM 3.78, JNJ 3.70, AAPL 3.81) tienen scores individuales ENTRE LOS MAS ALTOS de todo el Dashboard de acciones del proyecto, aunque con Valoracion senalada como el principal freno en AAPL/MSFT (2,2,2) - primera vez en el cluster de dividendo del proyecto con overlap consistentemente de alta calidad.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "Comportamiento en crisis pasadas no verificado con detalle especifico esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = **22.21x - EL MAS CARO del cluster de dividendo del proyecto** (SCHD 17.6x, NOBL 21.4x, DVY 14.93x), refleja el sesgo hacia calidad/crecimiento -incl. tech- en vez de value puro.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = **1.85% - EL MAS BAJO del cluster de dividendo del proyecto** (SCHD 3.1%, NOBL 2.0%, DVY 3.23%), consistente con el enfoque en crecimiento de dividendo mas que yield actual alto.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION A CUATRO BANDAS con SCHD (fila 5), NOBL (fila 87) y DVY (fila 88), todos ya en el workbook**: DGRO es el MAS DIVERSIFICADO (397 holdings), tiene el CAGR mas cercano a SCHD (+12.63% vs +12.7%) de los tres competidores, TER casi tan bajo como SCHD (0.08% vs 0.06%), y overlap de CALIDAD EXCEPCIONAL via MSFT/JPM/JNJ/AAPL. A cambio tiene el P/E mas caro (22.21x) y el yield mas bajo (1.85%) del cluster - trade-off claro: yield actual vs diversificacion+calidad+retorno compuesto. | ACTUALIZACION posterior (VIG, fila 90): quinto competidor, ambos ponderan hacia mega-cap growth pero VIG lo lleva mas lejos - P/E aun mas caro (25.03x vs 22.21x), yield aun mas bajo (1.46% vs 1.85%), y a diferencia del overlap positivo de DGRO (MSFT/AAPL/JPM/JNJ), VIG tiene overlap SEVERO via AVGO -NO COMPRAR, superciclo IA- como posicion #1. Score 3.34, menor que DGRO (3.59). Ver Ficha VIG fila 50. | ACTUALIZACION posterior (HDV, fila 91): sexto competidor con perfil sectorial OPUESTO - HDV concentrado en Energia/value, DGRO en tech/growth. HDV mas defensivo (beta 0.55 vs 0.78) pero menos diversificado (81 vs 397 holdings) y Score menor (3.41 vs 3.59). Ver Ficha HDV fila 50. | ACTUALIZACION posterior (VYM, fila 92): septimo competidor, aun mas diversificado que DGRO (618 vs 397 holdings) con TER similar, pero a diferencia del overlap POSITIVO de DGRO, VYM tiene overlap SEVERO via AVGO+CAT (ambos NO COMPRAR). Score 3.44 vs 3.59 de DGRO. Ver Ficha VYM fila 50.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: Core - el competidor mas cercano a SCHD en eficiencia costo/retorno de los tres alternativos analizados.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: la opcion MAS DIVERSIFICADA y de MEJOR retorno historico compuesto (CAGR cercano a SCHD) del cluster de dividendo del proyecto, con exposicion unica a mega-cap tech/calidad de primer nivel (MSFT, AAPL, JPM, JNJ) via ponderacion por dividendos en dolares - trade-off de yield actual mas bajo a cambio de mejor diversificacion y calidad de holdings.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) P/E el mas caro del cluster de dividendo del proyecto; (2) yield el mas bajo del cluster; (3) 100% US, sin diversificacion geografica; (4) cierta concentracion en top holdings pese al gran numero total (Top5 27.36%).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "SCHD (fila 5), NOBL (fila 87) y DVY (fila 88), todos ya en el workbook, son los comparables directos mas relevantes de la categoria de dividendo/calidad del proyecto. VIG (fila 90) tambien analizado - filosofia similar pero overlap mucho mas severo via AVGO, ver comparacion completa en su Ficha. HDV (fila 91) tambien analizado - el mas defensivo del cluster con filtro de moat, ver comparacion completa en su Ficha. VYM (fila 92) tambien analizado - el mas diversificado y barato del cluster, pero con el overlap mas severo via AVGO+CAT, ver comparacion completa en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.5
+    }
+  ],
+  "conclusion": {
+    "tesis": "MANTENER/ACUMULAR GRADUAL. Score 3.59/5 - tercero del cluster de dividendo/calidad del proyecto (SCHD 4.03, DVY 3.63, DGRO 3.59, NOBL 3.28), muy cerca de DVY. iShares Core Dividend Growth ETF: Morningstar US Dividend Growth Index, ponderado por DOLARES DE DIVIDENDO (metodologia distinta a equal-weight de NOBL o yield/composite-weighted de SCHD/DVY), screening de 5 anios de incrementos de dividendo con payout ratio maximo 75%. Es POR MUCHO el mas diversificado del cluster (397 holdings vs 103 SCHD, 105 DVY, 70 NOBL), con TER casi tan bajo como SCHD (0.08% vs 0.06%) y el CAGR desde inception mas cercano a SCHD de los tres competidores (+12.63% vs +12.7% de SCHD, vs +10.88% NOBL y +9.05% DVY). Es tambien el UNICO del cluster con exposicion significativa a mega-cap tech (MSFT, AAPL en el top5, junto a JPM/JNJ/ABBV) - overlap EXCEPCIONALMENTE POSITIVO con el proyecto de acciones: los 4 principales holdings (MSFT 3.86, JPM 3.78, JNJ 3.70, AAPL 3.81) figuran entre los scores mas altos de todo el Dashboard de acciones del usuario, aunque con Valoracion senalada como freno en AAPL/MSFT. El costo de esta diversificacion/calidad es el trade-off esperado: P/E el MAS CARO del cluster (22.21x) y yield el MAS BAJO (1.85%, vs 3.1% SCHD, 3.23% DVY, 2.0% NOBL) - prioriza crecimiento de dividendo compuesto sobre ingreso actual. Con SCHD, NOBL, DVY y ahora DGRO, el cluster de dividendo/calidad del proyecto tiene CUATRO filosofias de screening genuinamente distintas: fundamentales compuestos (SCHD), crecimiento consecutivo equal-weight (NOBL), sostenibilidad de cobertura (DVY), y ponderacion por dividendos en dolares con inclusion de calidad/tech (DGRO). Se actualizaron retroactivamente las Fichas de SCHD, NOBL y DVY con esta comparacion."
+  }
+}

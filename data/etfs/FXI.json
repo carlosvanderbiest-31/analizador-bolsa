@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares China Large-Cap ETF",
+  "ticker": "FXI",
+  "categoria": "Equity Indice Amplio (China offshore top 50, FTSE China 50 - CUARTO fondo de China del proyecto, LITERALMENTE el vehiculo subyacente de YINN sin apalancar)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight) - factible con solo 51-60 holdings (top 50 por diseno del indice).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, holdings de acciones chinas cotizadas en Hong Kong - **MISMO riesgo VIE ya documentado con YINN/MCHI** (Alibaba y Tencent, los dos nombres mas grandes de FXI, cotizan via estructuras Variable Interest Entity que no otorgan propiedad directa del negocio en China continental) + riesgo cambiario HKD.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$3.76-4.34bn (stockanalysis $4.34bn, Trackinsight EUR3.76bn~$4.1bn) - menor que MCHI ($6-6.33bn), mayor que ASHR ($1.5bn).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 5-oct-2004 (~21.9 anios) - **EL TRACK RECORD MAS LARGO de los cuatro fondos de China del proyecto** (MCHI 15.4, YINN 16.7, ASHR 12.8). Cubre la Crisis Financiera 2008, el crash bursatil chino de 2015-2016, la guerra comercial EEUU-China 2018, el crackdown regulatorio tecnologico 2021-2022, COVID 2020, y el rally reciente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMOQUINTA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.73-0.74% - **EL MAS CARO de los tres fondos de China NO apalancados del proyecto** (MCHI 0.59%, ASHR 0.65%) - fondo PRE-serie Core (2004, ocho anios antes del lanzamiento de la linea Core de BlackRock en 2012), mismo patron de pricing legado ya documentado extensamente con ACWX/EZU en clusters anteriores.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice FTSE China 50 - rebalanceo tipicamente semestral de FTSE Russell, no confirmado con fuente primaria especifica de FXI esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = **26.9 MILLONES de acciones/dia - EXTREMADAMENTE ALTO**, descrito como 'el ETF de exposicion a China mas popular' con 'liquidez sin precedentes' - refleja tambien el uso de FXI como vehiculo subyacente de productos apalancados (YINN/YANG), generando flujo institucional constante de arbitraje/cobertura.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask no verificado con cifra exacta esta sesion, se infiere extremadamente ajustado dado el volumen extremo verificado.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel, reforzada por ser el vehiculo subyacente de multiples productos apalancados del mercado.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "51 (Trackinsight) a 60 (stockanalysis) holdings - **EL MENOR numero de los cuatro fondos de China del proyecto** (MCHI 574-582, ASHR 288), por diseno del indice (solo el top 50 por capitalizacion).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 58.42% - **LA CONCENTRACION MAS ALTA de los cuatro fondos de China del proyecto** (MCHI 42.70%, ASHR ~23.85%), impulsada por Alibaba+Tencent+China Construction Bank+ICBC (~33.6% del fondo solo en estos cuatro nombres).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Finance 36.56% (maximo, dominado por los grandes bancos estatales chinos: China Construction Bank, ICBC, Bank of China) + Technology 22.13%, resto repartido - concentracion sectorial alta con sesgo hacia bancos estatales de menor calidad relativa de crecimiento que el perfil mas tech-forward de MCHI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% China (H-shares de Hong Kong) por definicion - CERO diversificacion geografica, mismo tratamiento que otros fondos de pais unico.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Blend con fuerte sesgo hacia bancos estatales grandes (value/dividendo bajo crecimiento) mas algo de tech (Alibaba/Tencent/Meituan/BYD) - mezcla de estilos menos coherente que el perfil mas homogeneo tech-forward de MCHI.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice FTSE China 50 - **EL MISMO INDICE SUBYACENTE que YINN (fila 57) busca amplificar 3X**, transparente, proveedor FTSE Russell.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de FXI esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.71
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = +34.3% - **el mas alto de los tres fondos NO apalancados de China del proyecto** (MCHI +31.07%, ASHR +31.79-39.69%), 3Y anualizado = +13.5%, 5Y anualizado = -0.8% (mejor que el -3.72% de MCHI, aunque en ventanas potencialmente distintas entre fuentes).",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Cifras de volatilidad encontradas (5.07%, rango 4.59%-6.17%) DESCARTADAS por implausibles para un ETF de renta variable china (mismo gotcha recurrente ya documentado extensamente en el proyecto - VYMI/XLU/XLK/XLE/VB/VXUS/ACWX/etc.), sin alternativa confiable esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -72.68% desde inception - severo, entre MCHI (-62.95%) y EWZ (-77.25%), coherente con el track record MAS LARGO del cluster China del proyecto (captura ademas la Crisis Financiera 2008, que MCHI -inception 2011- no experimento).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio actual/reciente = 0.50 - notablemente MEJOR que el de MCHI (0.03), aunque la diferencia de ventana/metodologia exacta entre fuentes no permite una comparacion perfectamente limpia entre ambos.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = **0.32 - EL MAS BAJO DE TODO EL PROYECTO**, ligeramente por debajo del empate previo entre ASHR/MCHI (0.34). **Overlap CONFIRMADO Y SIGNIFICATIVO: Alibaba (BABA, 8.38-9.91%) ya analizado individualmente**. Tencent (9.07-9.22%, peso similar) no esta en el Dashboard de acciones. **OVERLAP MASIVO Y DIRECTO con YINN (fila 57)**: FXI ES LITERALMENTE el vehiculo subyacente que YINN usa para el 51.33% de sus holdings reportados - la comparacion 1X vs 3X MAS DIRECTA posible en todo el proyecto (mas limpia incluso que la comparacion FXI/MCHI, que usan indices DISTINTOS aunque con nombres parcialmente superpuestos).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "21.9 anios de historial - **el MAS LARGO del cluster China del proyecto** - cubre la Crisis Financiera 2008 (que ni MCHI ni ASHR experimentaron en su propia historia), el crash bursatil chino 2015-2016, la guerra comercial 2018, el crackdown regulatorio tecnologico 2021-2022, COVID 2020, y el rally reciente.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.33
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 10.51x - el SEGUNDO mas barato del cluster China/EM del proyecto (tras EWZ 9.81x), reflejo del fuerte peso de bancos estatales de bajo multiplo. Mismo principio de cautela ya aplicado a EWZ/ILF: la valoracion baja podria reflejar un descuento estructural real, no necesariamente una oportunidad temporal. Sin percentil historico propio verificado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 1.90% - similar a MCHI (1.97%)/ASHR (2.18%). Distribucion SEMESTRAL.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION DIRECTA Y MAS LIMPIA DEL PROYECTO con YINN (fila 57)**: FXI ES LITERALMENTE el vehiculo subyacente que YINN usa para el 51.33% de sus holdings reportados - la comparacion 1X vs 3X mas directa de todo el proyecto. Frente a MCHI (fila 59, tambien ya en el workbook): FXI es MAS CARO (0.73-0.74% vs 0.59%), MAS CONCENTRADO (Top10 58.42% vs 42.70%, solo 51-60 holdings vs 574-582), pero con un track record mas largo (21.9 vs 15.4 anios) y un Beta ligeramente mas bajo. **MCHI parece la opcion MAS EFICIENTE de las dos versiones NO apalancadas de exposicion China offshore amplia** para este workbook.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **Satelite** - la comparacion MAS DIRECTA del proyecto con un producto apalancado (YINN usa FXI como su propio vehiculo subyacente), CERO overlap con ASHR (A-shares puras), overlap sustancial con MCHI y con el Dashboard de acciones individuales via Alibaba.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: acceso directo, NO apalancado, al MISMO universo de grandes empresas chinas offshore que YINN intenta amplificar 3X - probablemente subeficiente frente a MCHI (mas diversificado y mas barato) para el mismo proposito general, pero con la ventaja de ser LITERALMENTE el benchmark de referencia mas usado del mercado para exposicion agregada a China (de ahi su liquidez sin precedentes).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap significativo via Alibaba (ya analizado individualmente); (2) riesgo VIE (Alibaba/Tencent); (3) TER el mas alto de los fondos NO apalancados de China del proyecto; (4) concentracion la mas alta del cluster China (Top10 58.42%, dominado por bancos estatales de menor calidad de crecimiento relativa); (5) riesgo geopolitico/regulatorio persistente de China en general.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "MCHI (fila 59, ya analizado, MAS EFICIENTE en costo/diversificacion para el mismo proposito general) es la alternativa mas directa dentro de este mismo workbook. KWEB (KraneShares CSI China Internet) identificado sin datos propios verificados.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.24/5 - zona intermedia del marco de decision del proyecto (3.0-3.5, mismo tratamiento ya aplicado a IHAK/ITA/XOP/AIPO/ILF/INDA/ASHR/MCHI). FXI es la comparacion MAS DIRECTA de todo el proyecto con un producto apalancado: es LITERALMENTE el vehiculo subyacente que YINN (fila 57, Score 1.72) usa para el 51.33% de sus holdings reportados, la version 1X sin amplificar del mismo indice (FTSE China 50). Tiene el track record MAS LARGO del cluster China del proyecto (21.9 anios, unico que cubre la Crisis Financiera 2008) y una liquidez sin precedentes (26.9 millones de acciones/dia). Sin embargo, frente a MCHI (fila 59, ya en el workbook, Score 3.39), FXI es claramente la opcion MENOS EFICIENTE para el mismo proposito general de exposicion China offshore amplia: mas caro (TER 0.73-0.74% vs 0.59%, fondo PRE-serie Core de 2004), mas concentrado (Top10 58.42% vs 42.70%, solo 51-60 holdings vs 574-582), y con un sesgo hacia bancos estatales de menor calidad de crecimiento relativa. El overlap con Alibaba (ya analizado individualmente) y el riesgo VIE compartido con YINN/MCHI son reales. Dado que MCHI ya cubre este mismo proposito de forma mas eficiente en este workbook, la decision de ESPERAR (en vez de MANTENER-no agregar) refleja la zona de Score intermedia mas que una redundancia estrictamente dominante - el P/E notablemente barato (10.51x) tampoco ofrece una senal clara de compra inmediata dado el mismo riesgo de valoracion deprimida estructural ya documentado con EWZ/ILF. Rol en Portafolio: Satelite. Alternativa mas directa dentro del workbook: MCHI (fila 59)."
+  }
+}

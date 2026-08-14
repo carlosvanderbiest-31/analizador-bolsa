@@ -1,0 +1,225 @@
+{
+  "nombre": "iShares MSCI China ETF",
+  "ticker": "MCHI",
+  "categoria": "Equity Indice Amplio (China AGREGADA - offshore H-shares/ADRs/Red chips + algo de A-shares via Stock Connect - TERCER fondo de China del proyecto, la version SANA y diversificada de la exposicion que YINN apalanca)",
+  "emisor": "BlackRock (iShares)",
+  "fecha_analisis": "2026-08-11",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA COMPLETA confirmada (Trackinsight) - notable dado el gran numero de holdings (574-582), demuestra que la replica completa es factible incluso para indices amplios de mercados emergentes cuando el emisor tiene la escala (BlackRock).",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domicilio US, exposicion a China via MULTIPLES tipos de listado (H-shares de Hong Kong, ADRs en EEUU, Red chips, y algo de A-shares via inclusion Stock Connect desde 2018) - riesgo cambiario MIXTO HKD/CNY/USD + **mismo riesgo VIE ya documentado con YINN** para las empresas ADR/offshore (Alibaba, Tencent y la mayoria de plataformas tech chinas cotizan via estructuras Variable Interest Entity que no otorgan propiedad directa del negocio en China continental).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM ~$6-6.33bn (stockanalysis $6.33bn, Trackinsight EUR5.52bn~$6bn, consistentes; una fuente aislada reporto $8bn, tratada con escepticismo por no reconciliar con las otras dos) - solido, mayor que ASHR ($1.5bn), similar orden a INDA/EWC.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "Inception 29-mar-2011 (~15.4 anios) - moderado, similar orden a INDA (14.5)/IEUR (12.2). Cubre el crackdown regulatorio tecnologico chino 2021-2022 (impacto DIRECTO maximo dado el peso de Tencent/Alibaba/Meituan/PDD, las empresas mas afectadas especificamente por ese crackdown), la crisis inmobiliaria 2021-2023, COVID 2020, y el rally reciente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor BlackRock/iShares - DECIMOCUARTA aparicion en el proyecto.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER 0.59% - identico a EWZ, similar a INDA (0.61%), moderado dentro de la categoria de pais unico/agregado emergente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference no verificada con fuente primaria esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Securities lending no verificado con cifra de revenue esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "Indice MSCI China - rebalanceo tipicamente trimestral de MSCI, no confirmado con fuente primaria especifica de MCHI esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen diario promedio = 3.1M acciones/dia - solido en terminos de acciones, sin cifra en USD verificada con precision esta sesion.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask = 2 puntos basicos (0.02%) - ajustado, verificado con precision.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount vs NAV no verificado con cifra exacta esta sesion.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "BlackRock/iShares - profundidad de Authorized Participants de primer nivel.",
+          "calificacion": 5
+        }
+      ],
+      "rating_promedio": 4.25
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "574 (Trackinsight) a 582 (stockanalysis) holdings - **EL NUMERO MAS ALTO de todos los fondos de pais unico/agregado emergente del proyecto** (supera incluso a INDA, 170), excelente diversificacion interna combinando multiples tipos de listado chino en un solo vehiculo.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "Top10 = 42.70% - concentracion MODERADA-ALTA, impulsada por Tencent (14.21-14.55%, la posicion MAS GRANDE) y Alibaba (8.35-10.27%, la segunda) - juntos ~23-25% del fondo solo en estos dos nombres.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "Sector: Technology 30.49% (maximo), Finance 20.69%, Consumer Non-Cyclicals 13.94%, resto repartido entre Consumer Cyclicals/Industrials/Materials/Healthcare/Consumer Services (todos <8%) - concentracion moderada en tech/plataformas de internet.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "100% China por definicion (multiples tipos de listado: HK, ADR, algo de A-shares) - CERO diversificacion geografica, pero SI diversificacion de TIPO DE LISTADO mas amplia que YINN o ASHR individualmente.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "Blend con fuerte sesgo tech/plataformas de internet (Tencent+Alibaba+Meituan+PDD+NetEase = los principales nombres de e-commerce/gaming/delivery chinos), perfil de estilo similar en espiritu al universo offshore que sigue YINN pero sin apalancamiento y mucho mas diversificado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice MSCI China - el indice MAS AMPLIO y reconocido de exposicion agregada a China (combina H-shares, ADRs, Red chips y algo de A-shares en un solo indice), proveedor MSCI, metodologia transparente.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "Reglas y frecuencia exacta de rebalanceo no confirmadas con fuente primaria especifica de MCHI esta sesion.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.57
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 10Y = 4.51% anualizado (modesto), 1Y = +31.07% (fuerte, alineado con el rally global reciente ya documentado en el resto del cluster), 3Y = +11.23%, 5Y = -3.72% (probablemente acumulado, refleja el mismo periodo dificil 2021-2024 ya documentado con ASHR para el mercado chino en general).",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad = 23.72% (anualizada) - moderada-alta, plausible para exposicion agregada a China.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown = -62.95% desde inception - severo, orden de magnitud similar al cluster europeo (FEZ/EZU/VGK, -63% a -65%) pero por razones COMPLETAMENTE DISTINTAS: crackdown regulatorio tecnologico chino + crisis inmobiliaria, no una crisis financiera/de deuda soberana como en Europa.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe Ratio actual/reciente = 0.03 - **MUY BAJO**, refleja genuinamente el pobre desempeño ajustado a riesgo de la renta variable china agregada durante gran parte de la vida del fondo (crackdown 2021-2022 + crisis inmobiliaria 2021-2023), similar en espiritu al hallazgo de EWJ (Sharpe largo plazo 0.09 por las 'decadas perdidas' japonesas) pero aqui por una causa mas reciente y regulatoria/geopolitica en vez de estructural de decadas.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "Beta vs S&P 500 = 0.34 - **IDENTICO al de ASHR** (coincidencia notable entre los dos fondos de China del proyecto pese a tener universos de holdings muy distintos). **Overlap CONFIRMADO Y SIGNIFICATIVO: Alibaba (BABA, 8.35-10.27%, SEGUNDA posicion mas grande del fondo) ya analizado individualmente** por el usuario. Tencent (14.21-14.55%, LA POSICION MAS GRANDE) no esta en el Dashboard de acciones individuales. Overlap adicional PROBABLE con YINN (fila 57, mismo tipo de empresas offshore mega-cap, aunque MCHI mucho mas diversificado con 574+ holdings vs esencialmente 1 ETF wrapper de YINN) y overlap MINIMO/INCIERTO con ASHR (fila 58, mayormente A-shares puras, aunque MCHI si incluye algo de A-shares via Stock Connect no verificado en el top10 reportado).",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "15.4 anios de historial cubren el crackdown regulatorio tecnologico chino 2021-2022 (impacto DIRECTO maximo dado el peso de Tencent/Alibaba/Meituan/PDD, las empresas MAS AFECTADAS especificamente por ese episodio), la crisis inmobiliaria china 2021-2023, COVID 2020, y el rally reciente 2025-2026.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 2.83
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 12.94x - **notablemente barato**, el SEGUNDO mas barato del cluster China/EM del proyecto (tras EWZ 9.81x, mas barato que ILF 11.60x). Mismo principio de cautela ya aplicado a ILF/EWZ: la valoracion baja podria reflejar un descuento estructural real (riesgo regulatorio/geopolitico persistente), no necesariamente una oportunidad temporal. Sin percentil historico propio verificado.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "Dividend yield = 1.97% - bajo, similar a ASHR (2.18%), tipico de un indice dominado por plataformas tecnologicas de crecimiento (Tencent/Alibaba/Meituan/PDD, todas de bajo o nulo dividendo historicamente). Distribucion SEMESTRAL.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**COMPARACION IMPLICITA con YINN (fila 57) y ASHR (fila 58), ambos ya en el workbook** - MCHI es esencialmente la version SANA, DIVERSIFICADA Y NO APALANCADA de la exposicion que YINN intenta amplificar 3X: overlap sustancial esperado con el universo subyacente de YINN (Tencent+Alibaba dominan ambos), pero con 574-582 holdings propios en vez de depender de un unico ETF wrapper (FXI) mas swaps. Frente a ASHR, el overlap es MINIMO/INCIERTO (MCHI es mayormente offshore, con alguna inclusion de A-shares via Stock Connect no verificada en el top10 reportado esta sesion). MCHI representa la exposicion MAS AMPLIA y equilibrada a China de los TRES fondos ahora en el workbook, combinando lo mejor de ambos mundos (offshore + algo de onshore) sin el riesgo de decay del apalancamiento de YINN. Alternativas identificadas sin verificar: FXI (iShares China Large-Cap, el subyacente de YINN, mas concentrado), KWEB (KraneShares CSI China Internet, enfoque tech puro). | ACTUALIZACION posterior (FXI, fila 60): cuarto fondo de China del proyecto, indice DISTINTO (FTSE China 50, el mismo que sigue YINN) pero universo de nombres solapado con MCHI (Alibaba+Tencent dominan ambos). FXI es MAS CARO (0.73-0.74% vs 0.59%) y MAS CONCENTRADO (Top10 58.42% vs 42.70%, solo 51-60 holdings vs 574-582) que MCHI, confirmando que MCHI sigue siendo la opcion mas EFICIENTE de exposicion China offshore amplia en este workbook. Ver Ficha FXI fila 50 para el detalle completo.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 4.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol en el portafolio: **Satelite** - la opcion MAS SENSATA y diversificada de exposicion agregada a China del trio ahora en el workbook (YINN/ASHR/MCHI), sin el riesgo de decay estructural de YINN ni la concentracion exclusiva en un solo segmento de mercado de ASHR.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion agregada, diversificada (582 holdings) y de costo moderado a la segunda economia mas grande del mundo, con valoracion notablemente barata (P/E 12.94x) tras el crackdown regulatorio y la crisis inmobiliaria - posible oportunidad si esos ciclos ya tocaron fondo, aunque persiste incertidumbre real sobre el entorno regulatorio/geopolitico de largo plazo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos principales: (1) overlap significativo via Alibaba (ya analizado individualmente); (2) riesgo VIE (mismo que YINN, para las empresas ADR/offshore que dominan el fondo); (3) riesgo geopolitico/regulatorio persistente (aunque el pico mas agudo del crackdown ya paso); (4) riesgo cambiario mixto HKD/CNY/USD; (5) Sharpe de largo plazo muy bajo (0.03), reflejo de un periodo prolongado dificil para la renta variable china agregada.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "FXI (iShares China Large-Cap, el subyacente de YINN, mas concentrado en menos nombres) y KWEB (KraneShares CSI China Internet, enfoque tech puro) identificados sin datos propios verificados. YINN (fila 57) y ASHR (fila 58), ambos ya analizados en este workbook, ver comparacion en fila 50. FXI (fila 60) tambien verificado - mas caro y concentrado que MCHI para el mismo proposito general, ver comparacion en su Ficha.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    }
+  ],
+  "conclusion": {
+    "tesis": "ESPERAR MEJOR ENTRADA. Score 3.39/5 - zona intermedia del marco de decision del proyecto (3.0-3.5, mismo tratamiento ya aplicado a IHAK/ITA/XOP/AIPO/ILF/INDA/ASHR). MCHI es, con diferencia, la exposicion a China MEJOR DIVERSIFICADA de los tres fondos ahora en el workbook: 574-582 holdings (el numero mas alto de cualquier fondo de pais unico/agregado emergente del proyecto), replica fisica completa, y un P/E notablemente barato (12.94x, el segundo mas bajo del cluster China/EM tras EWZ). Es esencialmente la version SANA y no apalancada de la apuesta que YINN (fila 57) intenta amplificar 3X - comparte overlap sustancial con el universo subyacente de YINN (Tencent y Alibaba dominan ambos) pero sin el riesgo de decay estructural. Frente a ASHR (fila 58), el overlap es minimo/incierto dado que MCHI es mayormente offshore. El overlap CONFIRMADO con el Dashboard de acciones individuales es real (Alibaba, 8.35-10.27%, segunda posicion mas grande), y el riesgo VIE (estructura legal que no otorga propiedad directa del negocio en China continental para las empresas ADR/offshore como Tencent y Alibaba) es el mismo ya documentado con YINN. El Sharpe Ratio de largo plazo (0.03) es de los mas bajos del proyecto, reflejo genuino de un periodo prolongado dificil (crackdown regulatorio tecnologico 2021-2022 + crisis inmobiliaria 2021-2023) del que la renta variable china agregada apenas esta emergiendo con el rally reciente (+31.07% 1Y). Sin una senal clara de que el riesgo regulatorio/geopolitico estructural ya se disipo por completo, se prefiere esperar confirmacion adicional antes de acumular. Rol en Portafolio: Satelite. Alternativas identificadas sin verificar: FXI, KWEB."
+  }
+}

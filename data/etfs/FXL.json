@@ -1,0 +1,225 @@
+{
+  "nombre": "First Trust Technology AlphaDEX Fund",
+  "ticker": "FXL",
+  "categoria": "Equity Tematico/Factor (tecnologia, metodologia Smart Beta AlphaDEX -factor growth/value cuantitativo-, TERCER ETF de tecnologia del proyecto tras XLK/VGT, unico con seleccion y ponderacion no basada en capitalizacion de mercado)",
+  "emisor": "First Trust",
+  "fecha_analisis": "2026-08-13",
+  "secciones": [
+    {
+      "titulo": "A. ESTRUCTURA Y MECANICA DEL ETF",
+      "aspectos": [
+        {
+          "aspecto": "Metodo de replica (fisica completa / muestreo / sintetica-swap) y riesgo de contraparte",
+          "notas": "Replica FISICA -posee directamente las acciones seleccionadas por el algoritmo cuantitativo AlphaDEX, no sintetico-, aunque la metodologia de seleccion/ponderacion es 'smart beta' factor-based, no cap-weight ni equal-weight simple.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Domicilio y eficiencia fiscal (retencion de dividendos extranjeros, doble tributacion)",
+          "notas": "Domiciliado en EEUU -First Trust, NYSE Arca-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Tamano (AUM) y riesgo de liquidacion/cierre del fondo",
+          "notas": "AUM con rango MUY disperso segun fuente/fecha -$1.14bn -composer.trade- a $1.32bn -abr-2026- a $1.71bn -jun-2026- a $2.76bn -stockanalysis.com--, discrepancia notable, mas chico que XLK/VGT -ambos ya en el workbook-, sin riesgo de cierre inminente.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Antiguedad y track record",
+          "notas": "19.27 anios desde inception -8-may-2007-, sin hallazgo de cambio de indice detectado -aunque la metodologia AlphaDEX en si es compleja desde el lanzamiento-.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Emisor: reputacion, tamano de la firma y gama de productos",
+          "notas": "Emisor First Trust, **SEGUNDO fondo de este emisor en el proyecto** -junto a AIRR, ya en el workbook-, especialista reconocido en smart-beta/factor investing via su familia AlphaDEX.",
+          "calificacion": 4
+        }
+      ],
+      "rating_promedio": 3.8
+    },
+    {
+      "titulo": "B. COSTOS",
+      "aspectos": [
+        {
+          "aspecto": "Expense Ratio (TER) vs. categoria/competidores directos",
+          "notas": "TER = 0.60-0.61%, **EL MAS CARO de todos los ETFs de tecnologia del proyecto** -6.7x mas caro que XLK -0.08%- y 6x mas caro que VGT -0.09-0.10%, ambos ya en el workbook-.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Tracking Difference historico (costo real vs. indice, no solo el TER nominal)",
+          "notas": "Tracking Difference historico NO ENCONTRADO con cifra numerica explicita.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Securities lending: revenue generado y % que compensa el TER",
+          "notas": "Sin dato especifico de revenue por securities lending para FXL.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Rotacion de cartera del indice subyacente (costo de rebalanceo)",
+          "notas": "**Turnover con discrepancia GRANDE entre fuentes: 104% -AAII, coherente con la reconstitucion trimestral completa basada en scores cuantitativos cambiantes- vs 0.4% -etfrc.com, implausiblemente bajo para esta metodologia, probablemente un error de dato-**. La cifra de 104% es mas consistente con el diseno del indice y seria, de confirmarse, la mas alta de cualquier fondo tecnologico del proyecto.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "C. LIQUIDEZ Y EJECUCION",
+      "aspectos": [
+        {
+          "aspecto": "Volumen diario promedio (USD)",
+          "notas": "Volumen ~$3.84M/dia -composer.trade-, **MUY BAJO comparado con XLK/VGT**, pese al AUM de mas de mil millones, sugiere un fondo mas de tenencia de largo plazo/modelos de portafolio que de trading activo.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Spread bid-ask promedio",
+          "notas": "Spread bid-ask NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Premium/Discount historico vs. NAV",
+          "notas": "Premium/Discount NO ENCONTRADO con cifra especifica en las fuentes consultadas.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Profundidad de Authorized Participants / creadores de mercado",
+          "notas": "Sin cifra especifica de profundidad de APs; el volumen bajo relativo sugiere menor actividad de creacion/redencion que XLK/VGT.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.75
+    },
+    {
+      "titulo": "D. COMPOSICION Y CONCENTRACION",
+      "aspectos": [
+        {
+          "aspecto": "Numero de holdings y diversificacion",
+          "notas": "113 holdings, numero moderado, similar en magnitud a algunos miembros de la familia S&P Select Industry del proyecto.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Concentracion Top 10 holdings (%)",
+          "notas": "**Top10 = 18.22% del fondo, MUY BAJO**, gracias a la ponderacion por quintiles del metodo AlphaDEX -Quintil superior 33.3%, 2do 26.7%, 3ro 20.0%, 4to 13.3%, Quintil inferior 6.7%, cada uno repartido entre multiples nombres-. Top10: Cognizant Technology Solutions 2.31%, Leidos Holdings 2.07%, PTC Inc 2.04%, Zoom Communications 1.90%, EPAM Systems 1.88%, Amdocs 1.78%, Adobe 1.63%, Dell Technologies 1.63%, RingCentral 1.51%, Twilio 1.48%. **NINGUNA mega-cap -Apple/Microsoft/Nvidia- aparece en el Top10**, contraste TOTAL con XLK/VGT -ambos ya en el workbook, dominados por esas mismas mega-caps-.",
+          "calificacion": 5
+        },
+        {
+          "aspecto": "Concentracion sectorial (sector dominante / indice tipo HHI)",
+          "notas": "100% tecnologia -universo Russell 1000-, tratamiento estandar de concentracion sectorial unica.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Concentracion geografica",
+          "notas": "Concentracion geografica 100% EEUU -universo Russell 1000-.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Exposicion a factor/estilo (growth/value, tamano, calidad, momentum)",
+          "notas": "**Metodologia AlphaDEX explicita de factor cuantitativo growth/value -3 factores de growth: apreciacion de precio 3/6/12 meses, ventas/precio, crecimiento de ventas 1 anio; 3 factores de value: valor en libros/precio, flujo de caja/precio, retorno sobre activos-, EXCLUYE deliberadamente el sesgo hacia mega-caps que domina XLK/VGT. Diversificacion de FACTOR genuina, distinta de la diversificacion por numero de holdings.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Metodologia del indice (cap-weighted, equal-weight, fundamental, smart-beta)",
+          "notas": "Indice StrataQuant Technology Index -metodologia AlphaDEX de First Trust-, ponderacion por quintiles de score cuantitativo, **METODOLOGIA UNICA en el proyecto**, distinta del cap-weight de XLK/VGT y del equal-weight de la familia S&P Select Industry.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Reglas y frecuencia de rebalanceo del indice",
+          "notas": "**Reconstitucion COMPLETA TRIMESTRAL basada en scores cuantitativos que cambian cada periodo**, mucho mas activa que el resto del cluster tecnologico del proyecto -XLK/VGT rebalancean sin reconstitucion tan frecuente-.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 3.14
+    },
+    {
+      "titulo": "E. RIESGO / RETORNO HISTORICO",
+      "aspectos": [
+        {
+          "aspecto": "Rentabilidad historica vs. benchmark/categoria (1, 3, 5, 10 anios)",
+          "notas": "Retorno 1Y = 41.33%, fuerte. **Desde inception = 13.55% anualizado, uno de los MEJORES CAGR desde-inception de todo el proyecto**, superior al 8.73-8.76% de XLV y muy superior a los CAGR del cluster salud.",
+          "calificacion": 4
+        },
+        {
+          "aspecto": "Volatilidad anualizada vs. categoria",
+          "notas": "Volatilidad anualizada desde inception = 24.8% -composer.trade-, alta, tipico de un fondo tech con sesgo de factor y turnover elevado.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Maximo Drawdown historico y tiempo de recuperacion",
+          "notas": "Max Drawdown desde inception = -61.4% -composer.trade-, severo, cubre la Crisis 2008 y probablemente el selloff tech de 2022.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Sharpe / Sortino ratio",
+          "notas": "Sharpe ratio = 0.64 -composer.trade-, decente, reflejo del fuerte retorno absoluto pese a la volatilidad alta. Calmar ratio = 0.22.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Beta y correlacion con activos ya en el portafolio del usuario",
+          "notas": "**Beta vs S&P 500 = 1.25 -stockanalysis.com-, EL MAS ALTO de cualquier fondo diversificado no apalancado analizado en el proyecto hasta ahora**, contrasta fuertemente con el patron defensivo -beta <1- de casi todo el resto del proyecto, incluyendo XLK/VGT.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Comportamiento en crisis pasadas (2020, 2022, etc.)",
+          "notas": "La metodologia factor-based con reconstitucion trimestral y beta >1 sugiere mayor sensibilidad a correcciones bruscas de mercado que un fondo cap-weighted tradicional, aunque sin un evento de cola idiosincratico especifico documentado en las fuentes consultadas.",
+          "calificacion": 2
+        }
+      ],
+      "rating_promedio": 2.5
+    },
+    {
+      "titulo": "F. VALORACION AGREGADA (sin DCF - un ETF es una canasta, no un negocio con flujos propios)",
+      "aspectos": [
+        {
+          "aspecto": "Multiplos agregados actuales (P/E, P/B, P/FCF ponderado) vs. propio promedio historico 5-10y",
+          "notas": "P/E ponderado = 27.10x, relativamente caro, sin serie historica propia a 5-10 anios para contextualizar percentil.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Dividend/Distribution yield vs. historico propio",
+          "notas": "**Dividend yield = 0.00%, NULO**, consistente con el sesgo del algoritmo hacia empresas de crecimiento sin distribucion de dividendos.",
+          "calificacion": 1
+        }
+      ],
+      "rating_promedio": 1.5
+    },
+    {
+      "titulo": "Renta fija: duracion efectiva, YTM, calidad crediticia vs. categoria (dejar en blanco si no aplica)",
+      "aspectos": [
+        {
+          "aspecto": "Valoracion relativa vs. ETFs competidores directos (misma exposicion, distinto emisor)",
+          "notas": "**TERCER ETF de tecnologia del proyecto -tras XLK y VGT, ambos ya en el workbook-, UNICO con metodologia smart-beta/factor**: overlap de holdings con XLK = solo 26.7% -etfrc.com-, MUY BAJO para 'mismo sector', confirmando que la seleccion de FXL es estructuralmente distinta. TER 6-7.6x mas caro que XLK/VGT, sin mega-caps en el Top10 -a diferencia de ambos, dominados por Apple/Microsoft/Nvidia-, beta mas alto -1.25 vs <1 tipico de XLK/VGT-. Diversificacion de factor genuina pero a un costo y riesgo mucho mayor.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 3.0
+    },
+    {
+      "titulo": "G. CUALITATIVO / TESIS",
+      "aspectos": [
+        {
+          "aspecto": "Rol en el portafolio (core / satelite / tactico / cobertura de que riesgo especifico)",
+          "notas": "Rol Tactico/Especulativo dado el TER alto, turnover elevado -104% segun la fuente mas plausible-, y beta >1.",
+          "calificacion": 2
+        },
+        {
+          "aspecto": "Tesis de inversion / catalizador",
+          "notas": "Tesis: exposicion a tecnologia via factor cuantitativo growth/value en vez de capitalizacion de mercado, excluye deliberadamente el sesgo hacia mega-caps dominantes de XLK/VGT, con CAGR historico fuerte -13.55% desde inception, uno de los mejores del proyecto- pero a mayor costo y riesgo.",
+          "calificacion": 3
+        },
+        {
+          "aspecto": "Riesgos principales (concentracion, sector, geopolitico, tasas, liquidez, contraparte)",
+          "notas": "Riesgos: **TER el mas caro del cluster tecnologico del proyecto**, turnover muy alto -104% segun AAII- con friccion fiscal/costos de transaccion asociados, **beta >1 -1.25-, el mas alto de cualquier fondo diversificado no apalancado del proyecto**, Max Drawdown severo -61.4%-, ausencia total de dividendo, volumen de trading bajo pese al AUM.",
+          "calificacion": 1
+        },
+        {
+          "aspecto": "Alternativas / competidores directos y por que se prefiere (o no) este ETF",
+          "notas": "XLK/VGT -ambos ya en el workbook- ofrecen exposicion tecnologica mucho mas barata -TER 0.08-0.10%- aunque con la concentracion en mega-caps que FXL evita deliberadamente; FXL solo se justifica para quien busca diversificacion de FACTOR explicita y esta dispuesto a pagar una prima de costo y riesgo significativa.",
+          "calificacion": 3
+        }
+      ],
+      "rating_promedio": 2.25
+    }
+  ],
+  "conclusion": {
+    "tesis": "REDUCIR/VENDER (evitar). FXL es el TERCER ETF de tecnologia del proyecto -tras XLK y VGT, ambos ya en el workbook- y el UNICO con metodologia smart-beta/factor -AlphaDEX de First Trust-: seleccion cuantitativa por 3 factores de growth y 3 de value, con ponderacion por quintiles de score -33.3/26.7/20/13.3/6.7%- en vez de capitalizacion de mercado. Esto produce un **Top10 = solo 18.22%, MUY diversificado, y SIN NINGUNA mega-cap -Apple/Microsoft/Nvidia- entre sus principales posiciones**, contraste total con XLK/VGT. El overlap de holdings con XLK es de apenas 26.7% -etfrc.com-, confirmando una seleccion estructuralmente distinta pese a compartir el mismo sector nominal. Sin embargo, esta diversificacion de factor tiene un costo real: **TER = 0.60-0.61%, EL MAS CARO de todos los ETFs de tecnologia del proyecto** -6-7.6x mas caro que XLK/VGT-, turnover con discrepancia notable entre fuentes pero probablemente ALTO -104% segun AAII, coherente con la reconstitucion trimestral completa basada en scores cambiantes-, y **Beta = 1.25, EL MAS ALTO de cualquier fondo diversificado no apalancado analizado en el proyecto**, contrastando con el patron defensivo -beta <1- de la gran mayoria. Volatilidad 24.8% y Max Drawdown -61.4% desde inception, ambos elevados. Volumen de trading muy bajo -~$3.84M/dia- pese al AUM de mas de mil millones, y AUM con rango disperso notable entre fuentes -$1.14bn a $2.76bn-. Dividend yield NULO -0.00%-. Como contrapartida positiva, **CAGR desde inception = 13.55% anualizado, uno de los MEJORES del proyecto**, reflejo del fuerte desempeno historico del factor growth/value aplicado a tecnologia. Score 2.67/5, en linea con KBE -2.67-. Rol Tactico/Especulativo unicamente. XLK/VGT siguen siendo la opcion estructuralmente preferible para exposicion tecnologica de bajo costo; FXL solo tiene sentido para quien busca diversificacion de factor deliberada -evitar concentracion en mega-caps- y esta dispuesto a pagar una prima de costo y riesgo significativa por ello."
+  }
+}
