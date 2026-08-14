@@ -167,42 +167,16 @@ def fmt(val, decimals=2):
         return "N/D"
 
 
-def card(titulo, valor, estado=None, color="#64748b", interpretacion=None, sector_ref=None):
-    tiene_color = color not in ("#64748b", None)
-    border      = color if (estado or tiene_color) else "#e2e6ee"
-    valor_color = color if (not estado and tiene_color) else "#111827"
-
-    # Truncar en Python: evita que CSS webkit-clamp filtre HTML crudo
-    if interpretacion and len(interpretacion) > 130:
-        interpretacion = interpretacion[:127] + "…"
-
-    bloques = [
-        f'<p style="margin:0 0 5px;font-size:10.5px;font-weight:700;text-transform:uppercase;'
-        f'letter-spacing:.9px;color:#6b7280;width:100%">{titulo}</p>',
-        f'<p style="margin:0;font-size:22px;font-weight:700;color:{valor_color};'
-        f'line-height:1.2;word-break:break-word">{valor}</p>',
-    ]
-    if estado:
-        bloques.append(
-            f'<p style="margin:5px 0 0;font-size:11.5px;font-weight:700;color:{color}">{estado}</p>'
-        )
-    if interpretacion:
-        bloques.append(
-            f'<p style="margin:6px 0 0;font-size:11.5px;color:#374151;line-height:1.45;text-align:left">{interpretacion}</p>'
-        )
-    if sector_ref:
-        bloques.append(
-            f'<p style="margin:6px 0 0;font-size:10.5px;color:#64748b;background:#f4f6fa;'
-            f'border-radius:4px;padding:2px 7px;display:inline-block;'
-            f'max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">📊 {sector_ref}</p>'
-        )
-
-    inner = "".join(bloques)
+def card(titulo, valor):
     return (
-        f'<div style="background:#ffffff;border:1px solid {border};border-radius:10px;'
-        f'padding:14px 14px 12px;text-align:center;height:225px;overflow:hidden;'
-        f'display:flex;flex-direction:column;align-items:center;box-sizing:border-box">'
-        f'{inner}</div>'
+        f'<div style="background:#ffffff;border:1px solid #e2e6ee;border-radius:10px;'
+        f'padding:12px 14px;text-align:center;'
+        f'display:flex;flex-direction:column;align-items:center;gap:4px;box-sizing:border-box">'
+        f'<p style="margin:0;font-size:10.5px;font-weight:700;text-transform:uppercase;'
+        f'letter-spacing:.9px;color:#6b7280;width:100%">{titulo}</p>'
+        f'<p style="margin:0;font-size:22px;font-weight:700;color:#111827;'
+        f'line-height:1.2;word-break:break-word">{valor}</p>'
+        f'</div>'
     )
 
 
